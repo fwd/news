@@ -5,7 +5,7 @@
         "category": "science",
         "link": "https://research.gatech.edu/flawed-ai-makes-robots-racist-sexist",
         "timestamp": 1656391612,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 28, 2022 12:46 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.euronews.com/2022/06/28/ukraine-war-putin-will-be-held-responsible-for-shopping-centre-war-crime-say-g7-leaders",
         "timestamp": 1656396967,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "June 28, 2022 2:16 AM"
     },
     {
@@ -32,8 +32,17 @@
         "category": "technology",
         "link": "https://www.smh.com.au/world/north-america/a-mystery-rocket-crashed-into-the-moon-and-no-one-on-earth-is-owning-up-20220628-p5ax4x.html",
         "timestamp": 1656405400,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 28, 2022 4:36 AM"
+    },
+    {
+        "title": "Nicola Sturgeon to announce second Scottish independence vote, defying Westminster | Scottish first minister on collision course with Boris Johnson over plans for second referendum next year.",
+        "domain": "politico.eu",
+        "category": "worldnews",
+        "link": "https://www.politico.eu/article/scotland-uk-nicola-sturgeon-prepares-to-defy-westminster-and-announce-second-independence-vote/",
+        "timestamp": 1656407552,
+        "sentiment": -2,
+        "published": "June 28, 2022 5:12 AM"
     },
     {
         "title": "Principal with his students turns Indian school into a green oasis with over 300 plant species",
@@ -41,7 +50,7 @@
         "category": "UpliftingNews",
         "link": "https://m.timesofindia.com/city/agra/headmaster-turns-firozabad-school-into-a-green-oasis-with-help-of-students/articleshow/92153660.cms",
         "timestamp": 1656409320,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 28, 2022 5:42 AM"
     },
     {
@@ -50,7 +59,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/facebook-instagram-remove-abortion-pill-posts-roe-overturned-reports-2022-6",
         "timestamp": 1656410206,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 28, 2022 5:56 AM"
     },
     {
@@ -59,7 +68,7 @@
         "category": "science",
         "link": "https://www.psypost.org/2022/06/new-psychology-research-has-found-that-celebrity-worship-predicts-impulsive-buying-behavior-63395",
         "timestamp": 1656410441,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 28, 2022 6:00 AM"
     },
     {
@@ -68,7 +77,7 @@
         "category": "worldnews",
         "link": "https://timesofmalta.com/articles/view/us-couple-sue-maltese-government-abortion-denial.964625",
         "timestamp": 1656411466,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "June 28, 2022 6:17 AM"
     },
     {
@@ -77,7 +86,7 @@
         "category": "science",
         "link": "https://www.nature.com/articles/s43247-022-00452-3",
         "timestamp": 1656412469,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 28, 2022 6:34 AM"
     },
     {
@@ -86,7 +95,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/gop-would-overturn-filibuster-impose-abortion-ban-michael-steele-2022-6?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1656414309,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "June 28, 2022 7:05 AM"
     },
     {
@@ -95,7 +104,7 @@
         "category": "florida",
         "link": "https://parklandtalk.com/local-journalist-gets-dui-charges-dropped-15864",
         "timestamp": 1656415817,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 28, 2022 7:30 AM"
     },
     {
@@ -113,7 +122,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/jun/28/peaceful-pro-choice-protests-violence-attacks-police",
         "timestamp": 1656417246,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 28, 2022 7:54 AM"
     },
     {
@@ -122,7 +131,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/06/28/did-violence-follow-roe-decision-yes--almost-all-of-it-against-pro-choice/",
         "timestamp": 1656417387,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "June 28, 2022 7:56 AM"
     },
     {
@@ -131,7 +140,7 @@
         "category": "science",
         "link": "https://www.psypost.org/2022/06/people-with-a-higher-conspiracy-mentality-have-a-general-tendency-to-judge-others-as-untrustworthy-63397",
         "timestamp": 1656417463,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 28, 2022 7:57 AM"
     },
     {
@@ -140,7 +149,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/bayraktar-firm-refuses-20m-says-will-donate-drones-to-ukraine-2022-6",
         "timestamp": 1656418439,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "June 28, 2022 8:13 AM"
     },
     {
@@ -149,7 +158,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/zelenskyy-says-russia-bombed-a-shopping-mall-because-seeing-ukrainians-try-to-live-a-normal-life-made-it-angry/ar-AAYXdIk?ocid=EMMX&cvid=be5cde58d28a4e86beac15e45fe759ca",
         "timestamp": 1656419302,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "June 28, 2022 8:28 AM"
     },
     {
@@ -167,7 +176,7 @@
         "category": "technology",
         "link": "https://9to5mac.com/2022/06/27/t-mobile-selling-user-data/",
         "timestamp": 1656420656,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 28, 2022 8:50 AM"
     },
     {
@@ -185,7 +194,7 @@
         "category": "news",
         "link": "https://news.sky.com/story/boy-missing-for-eight-days-in-germany-found-alive-in-sewer-12641758",
         "timestamp": 1656421398,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 28, 2022 9:03 AM"
     },
     {
@@ -194,7 +203,7 @@
         "category": "television",
         "link": "https://time.com/6190642/only-murders-in-the-building-season-2-review/",
         "timestamp": 1656421604,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 28, 2022 9:06 AM"
     },
     {
@@ -203,7 +212,7 @@
         "category": "science",
         "link": "https://www.aeaweb.org/articles?id=10.1257/app.20190549",
         "timestamp": 1656422781,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 28, 2022 9:26 AM"
     },
     {
@@ -212,7 +221,7 @@
         "category": "science",
         "link": "https://www.aeaweb.org/articles?id=10.1257/app.20200467",
         "timestamp": 1656422953,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 28, 2022 9:29 AM"
     },
     {
@@ -221,7 +230,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/lauren-boebert-church-founding-fathers-government-colorado-1719760",
         "timestamp": 1656423682,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "June 28, 2022 9:41 AM"
     },
     {
@@ -230,7 +239,7 @@
         "category": "worldnews",
         "link": "https://www.walesonline.co.uk/news/politics/wales-basic-income-trial-how-24333095",
         "timestamp": 1656424179,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "June 28, 2022 9:49 AM"
     },
     {
@@ -239,7 +248,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/uk/scottish-first-minister-sturgeon-plans-independence-vote-oct-2023-2022-06-28/",
         "timestamp": 1656424314,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 28, 2022 9:51 AM"
     },
     {
@@ -248,7 +257,7 @@
         "category": "florida",
         "link": "https://www.wfla.com/news/politics/146-new-florida-laws-take-effect-july-1/",
         "timestamp": 1656424456,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 28, 2022 9:54 AM"
     },
     {
@@ -257,7 +266,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/true-detective-kali-reis-cast-jodie-foster-season-4-hbo-night-country-1235053150/",
         "timestamp": 1656424963,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 28, 2022 10:02 AM"
     },
     {
@@ -266,7 +275,7 @@
         "category": "television",
         "link": "https://variety.com/2022/digital/news/netflix-lowest-value-must-have-service-survey-1235301080/",
         "timestamp": 1656425121,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 28, 2022 10:05 AM"
     },
     {
@@ -275,26 +284,8 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/russia-ukraine-politics-united-nations-terrorist-attacks-be890f11b0a5abfb41ddb1cfc8d5b212",
         "timestamp": 1656425897,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "June 28, 2022 10:18 AM"
-    },
-    {
-        "title": "Ghislaine Maxwell to be sentenced in Epstein sex abuse case",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/aeac127f9cc3811d975ce8e10d171260",
-        "timestamp": 1656426155,
-        "sentiment": -5,
-        "published": "June 28, 2022 10:22 AM"
-    },
-    {
-        "title": "Ontario's new minister of natural resources faces environmental charges",
-        "domain": "cbc.ca",
-        "category": "nottheonion",
-        "link": "https://www.cbc.ca/news/canada/toronto/graydon-smith-cabinet-minister-charged-endangered-species-1.6502961",
-        "timestamp": 1656426225,
-        "sentiment": -1,
-        "published": "June 28, 2022 10:23 AM"
     },
     {
         "title": "Chicago’s lesbian mayor shouted “F**k Clarence Thomas” at Pride rally & the crowd loved it | \"I said what I said.\"",
@@ -302,7 +293,7 @@
         "category": "politics",
         "link": "https://www.lgbtqnation.com/2022/06/chicagos-lesbian-mayor-shouted-fk-clarence-thomas-pride-rally-crowd-loved/",
         "timestamp": 1656426766,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "June 28, 2022 10:32 AM"
     },
     {
@@ -311,7 +302,7 @@
         "category": "science",
         "link": "https://www.eurekalert.org/news-releases/956880",
         "timestamp": 1656426861,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 28, 2022 10:34 AM"
     },
     {
@@ -320,7 +311,7 @@
         "category": "technology",
         "link": "https://www.wsj.com/articles/meta-tiktok-could-face-civil-liability-for-addicting-children-in-california-11656419401",
         "timestamp": 1656427209,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 28, 2022 10:40 AM"
     },
     {
@@ -329,7 +320,7 @@
         "category": "news",
         "link": "https://www.washingtonpost.com/nation/2022/06/28/lapd-officer-training-death/",
         "timestamp": 1656427333,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 28, 2022 10:42 AM"
     },
     {
@@ -338,7 +329,7 @@
         "category": "politics",
         "link": "https://www.currentaffairs.org/2022/06/the-supreme-court-has-destroyed-its-legitimacy",
         "timestamp": 1656427474,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "June 28, 2022 10:44 AM"
     },
     {
@@ -356,7 +347,7 @@
         "category": "politics",
         "link": "https://www.washingtonpost.com/politics/2022/06/28/lauren-boebert-church-state-colorado/",
         "timestamp": 1656427652,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "June 28, 2022 10:47 AM"
     },
     {
@@ -365,7 +356,7 @@
         "category": "UpliftingNews",
         "link": "https://www.cbsnews.com/boston/news/worcester-nativity-school-donations-black-lives-matter-pride-flags/",
         "timestamp": 1656428754,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 28, 2022 11:05 AM"
     },
     {
@@ -374,7 +365,7 @@
         "category": "technology",
         "link": "https://www.vice.com/en/article/y3pgvg/the-1-period-tracker-on-the-app-store-will-hand-over-data-without-a-warrant?utm_source=fark&utm_medium=website&utm_content=link&ICID=ref_fark",
         "timestamp": 1656428864,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 28, 2022 11:07 AM"
     },
     {
@@ -383,7 +374,7 @@
         "category": "florida",
         "link": "https://www.wfla.com/news/florida/florida-rapper-arrested-in-miami-jet-ski-chase/amp/",
         "timestamp": 1656429494,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 28, 2022 11:18 AM"
     },
     {
@@ -392,7 +383,7 @@
         "category": "news",
         "link": "https://www.nbcmiami.com/news/local/new-florida-law-makes-blasting-music-in-car-a-punishable-offense/2791819/",
         "timestamp": 1656429670,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 28, 2022 11:21 AM"
     },
     {
@@ -401,7 +392,7 @@
         "category": "science",
         "link": "https://theconversation.com/women-are-at-greater-risk-of-stroke-the-more-miscarriages-or-stillbirths-theyve-had-185490",
         "timestamp": 1656430377,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 28, 2022 11:32 AM"
     },
     {
@@ -410,17 +401,8 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/wireStory/texas-official-death-count-san-antonio-migrant-tragedy-85856695",
         "timestamp": 1656430937,
-        "sentiment": -5,
-        "published": "June 28, 2022 11:42 AM"
-    },
-    {
-        "title": "Airbnb makes its party ban permanent",
-        "domain": "cnbc.com",
-        "category": "technology",
-        "link": "https://www.cnbc.com/2022/06/28/airbnb-makes-its-party-ban-permanent.html",
-        "timestamp": 1656431404,
         "sentiment": 0,
-        "published": "June 28, 2022 11:50 AM"
+        "published": "June 28, 2022 11:42 AM"
     },
     {
         "title": "Melissa Benoist to Star in HBO Max’s ‘The Girls on the Bus’",
@@ -428,7 +410,7 @@
         "category": "television",
         "link": "https://www.thewrap.com/melissa-benoist-hbo-max-girls-on-the-bus-series/",
         "timestamp": 1656432029,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 28, 2022 12:00 PM"
     },
     {
@@ -446,7 +428,7 @@
         "category": "technology",
         "link": "https://www.macrumors.com/2022/06/28/greg-joswiak-says-samsung-copied-iphone/",
         "timestamp": 1656432852,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 28, 2022 12:14 PM"
     },
     {
@@ -455,17 +437,8 @@
         "category": "technology",
         "link": "https://www.thenewatlantis.com/publications/surveillance-humanism",
         "timestamp": 1656433016,
-        "sentiment": 0,
-        "published": "June 28, 2022 12:16 PM"
-    },
-    {
-        "title": "'Yeah, And?': Ocasio-Cortez Embraces GOP Freakout Over Helping Women Skirt Abortion Bans",
-        "domain": "commondreams.org",
-        "category": "politics",
-        "link": "https://www.commondreams.org/news/2022/06/28/yeah-and-ocasio-cortez-embraces-gop-freakout-over-helping-women-skirt-abortion-bans",
-        "timestamp": 1656433122,
         "sentiment": 2,
-        "published": "June 28, 2022 12:18 PM"
+        "published": "June 28, 2022 12:16 PM"
     },
     {
         "title": "Texas judge blocks enforcement of pre-Roe v. Wade abortion ban: clinics' lawyers",
@@ -473,7 +446,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/texas-judge-blocks-enforcement-pre-roe-v-wade-abortion-ban-clinics-lawyers-2022-06-28/",
         "timestamp": 1656433615,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 28, 2022 12:26 PM"
     },
     {
@@ -482,7 +455,7 @@
         "category": "science",
         "link": "https://www.statnews.com/2022/06/28/placebo-response-bias-against-female-black-physicians/?utm_campaign=rss",
         "timestamp": 1656433678,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 28, 2022 12:27 PM"
     },
     {
@@ -509,7 +482,7 @@
         "category": "television",
         "link": "https://tvline.com/2022/06/28/harley-quinn-season-3-release-date-teaser/",
         "timestamp": 1656434412,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 28, 2022 12:40 PM"
     },
     {
@@ -518,7 +491,7 @@
         "category": "television",
         "link": "https://tvline.com/2022/06/27/the-terminal-list-review-amazon-chris-pratt/",
         "timestamp": 1656435524,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 28, 2022 12:58 PM"
     },
     {
@@ -527,7 +500,7 @@
         "category": "UpliftingNews",
         "link": "https://climeworks.com/news/climeworks-announces-groundbreaking-on-mammoth",
         "timestamp": 1656437041,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 28, 2022 1:24 PM"
     },
     {
@@ -536,7 +509,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/polish-court-rules-that-four-lgbt-free-zones-must-be-abolished-2022-06-28/",
         "timestamp": 1656437132,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "June 28, 2022 1:25 PM"
     },
     {
@@ -545,7 +518,7 @@
         "category": "florida",
         "link": "https://www.wfla.com/news/sarasota-county/sarasota-judge-rules-for-florida-newspaper-in-marsys-law-case/",
         "timestamp": 1656438826,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 28, 2022 1:53 PM"
     },
     {
@@ -554,17 +527,8 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/jan-6-trump-armed-committee-b2111429.html",
         "timestamp": 1656438923,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "June 28, 2022 1:55 PM"
-    },
-    {
-        "title": "Russia publishes Pentagon coordinates, says Western satellites \"work for our enemy\"",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/russia-publishes-pentagon-coordinates-says-western-satellites-work-our-enemy-2022-06-28/",
-        "timestamp": 1656439253,
-        "sentiment": -5,
-        "published": "June 28, 2022 2:00 PM"
     },
     {
         "title": "'Fallout' Amazon Show Adds Three to Cast, Kyle MacLachlan Xelia Mendes-Jones, Aaron Moten",
@@ -572,7 +536,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/fallout-amazon-series-cast-kyle-maclachlan-xelia-mendes-jones-aaron-moten-1235305085/",
         "timestamp": 1656439326,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 28, 2022 2:02 PM"
     },
     {
@@ -581,7 +545,7 @@
         "category": "politics",
         "link": "https://www.cnbc.com/2022/06/28/trump-lunged-at-secret-service-agent-in-rage-when-told-he-couldnt-go-to-capitol-on-jan-6-aide-testifies.html",
         "timestamp": 1656439530,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "June 28, 2022 2:05 PM"
     },
     {
@@ -599,7 +563,7 @@
         "category": "miami",
         "link": "https://www.nbcmiami.com/news/local/new-florida-law-makes-blasting-music-in-car-a-punishable-offense/2791819/",
         "timestamp": 1656440641,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 28, 2022 2:24 PM"
     },
     {
@@ -612,12 +576,21 @@
         "published": "June 28, 2022 2:27 PM"
     },
     {
+        "title": "Adams Says Giuliani Should be Investigated for Falsely Reporting a Crime",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2022/06/28/nyregion/rudy-giuliani-eric-adams-investigation-ny.html",
+        "timestamp": 1656441024,
+        "sentiment": 1,
+        "published": "June 28, 2022 2:30 PM"
+    },
+    {
         "title": "Ghislaine Maxwell sentenced to 20 years in prison for helping millionaire Jeffrey Epstein sexually abuse teen girls",
         "domain": "abcnews.go.com",
         "category": "news",
         "link": "https://abcnews.go.com/US/wireStory/ghislaine-maxwell-sentenced-20-years-prison-helping-millionaire-85875088",
         "timestamp": 1656441274,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 28, 2022 2:34 PM"
     },
     {
@@ -626,7 +599,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/finnish-president-niinisto-says-turkey-has-agreed-back-finnish-swedish-nato-2022-06-28/",
         "timestamp": 1656441321,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "June 28, 2022 2:35 PM"
     },
     {
@@ -635,7 +608,7 @@
         "category": "news",
         "link": "https://news.sky.com/story/nato-turkey-agrees-to-back-finland-and-swedens-bid-to-join-alliance-12642100",
         "timestamp": 1656441466,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 28, 2022 2:37 PM"
     },
     {
@@ -644,7 +617,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/nato-turkey-agrees-to-back-finland-and-swedens-bid-to-join-alliance-12642100",
         "timestamp": 1656441866,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "June 28, 2022 2:44 PM"
     },
     {
@@ -653,7 +626,7 @@
         "category": "technology",
         "link": "https://www.space.com/curiosity-mars-rover-samples-ingredients-life",
         "timestamp": 1656442775,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 28, 2022 2:59 PM"
     },
     {
@@ -662,17 +635,17 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/general-mike-flynn-fifth-amendment-january-6-violence-justified-2022-6",
         "timestamp": 1656443060,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "June 28, 2022 3:04 PM"
     },
     {
-        "title": "Italian hairdressers face fines for shampooing amid heatwave",
-        "domain": "theguardian.com",
-        "category": "nottheonion",
-        "link": "https://www.theguardian.com/world/2022/jun/28/italian-hairdressers-face-fines-for-shampooing-amid-heatwave-castenaso-bologna",
-        "timestamp": 1656443193,
-        "sentiment": -1,
-        "published": "June 28, 2022 3:06 PM"
+        "title": "Seat Assignments Drive Friendships Among Elementary School Children, Study Shows",
+        "domain": "fau.edu",
+        "category": "science",
+        "link": "https://www.fau.edu/newsdesk/articles/classroom-seats-friendships",
+        "timestamp": 1656443146,
+        "sentiment": 0,
+        "published": "June 28, 2022 3:05 PM"
     },
     {
         "title": "A new, PET-like plastic has been developed that is easily made from the non-edible parts of plants, which is a promising candidate for food packaging. It can be chemically recycled and degrade back to harmless sugars.",
@@ -680,7 +653,7 @@
         "category": "UpliftingNews",
         "link": "https://actu.epfl.ch/news/new-pet-like-plastic-made-directly-from-waste-biom/",
         "timestamp": 1656443567,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 28, 2022 3:12 PM"
     },
     {
@@ -707,7 +680,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/stranger-things-4-viewership-930m-umbrella-academy-premiere-netflix-top-10-1235053611/",
         "timestamp": 1656444460,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 28, 2022 3:27 PM"
     },
     {
@@ -716,7 +689,7 @@
         "category": "UpliftingNews",
         "link": "https://www.workboat.com/shipbuilding/u-s-supplying-ukraine-with-more-than-20-metal-shark-military-vessels?utm_source=social&utm_medium=reddit&utm_campaign=5msocial",
         "timestamp": 1656444739,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 28, 2022 3:32 PM"
     },
     {
@@ -729,21 +702,12 @@
         "published": "June 28, 2022 3:34 PM"
     },
     {
-        "title": "Katie Taylor secures nomination for Best Boxer in the 2022 ESPY Awards",
-        "domain": "buzz.ie",
-        "category": "sports",
-        "link": "https://www.buzz.ie/news/world-news/katie-taylor-nominated-best-boxer-27350979",
-        "timestamp": 1656445196,
-        "sentiment": 0,
-        "published": "June 28, 2022 3:39 PM"
-    },
-    {
         "title": "Arizona Native Americans can get free tuition for college",
         "domain": "npr.org",
         "category": "UpliftingNews",
         "link": "https://www.npr.org/2022/06/28/1108157921/arizona-native-americans-free-tuition?utm_medium=social&utm_term=nprnews&utm_campaign=npr&utm_source=twitter.com",
         "timestamp": 1656445700,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 28, 2022 3:48 PM"
     },
     {
@@ -763,6 +727,114 @@
         "timestamp": 1656446227,
         "sentiment": -1,
         "published": "June 28, 2022 3:57 PM"
+    },
+    {
+        "title": "Ernst & Young hit with $100 million fine after auditors cheat on ethics exam",
+        "domain": "cbsnews.com",
+        "category": "nottheonion",
+        "link": "https://www.cbsnews.com/news/sec-fines-ernst-young-100-million-auditors-cheat-on-ethics-exam/",
+        "timestamp": 1656446364,
+        "sentiment": -1,
+        "published": "June 28, 2022 3:59 PM"
+    },
+    {
+        "title": "Man arrested after coworker tips off police of mass shooting threat, arrest report says",
+        "domain": "news4sanantonio.com",
+        "category": "news",
+        "link": "https://news4sanantonio.com/news/local/man-arrested-after-threatening-to-commit-mass-shooting-arrest-report-said-investigation-sanantonio-rifle-weapons-detectives",
+        "timestamp": 1656446427,
+        "sentiment": 0,
+        "published": "June 28, 2022 4:00 PM"
+    },
+    {
+        "title": "Single-family houses to no longer require planning permits in Poland in bid to boost housing",
+        "domain": "notesfrompoland.com",
+        "category": "UpliftingNews",
+        "link": "https://notesfrompoland.com/2022/06/27/single-family-houses-to-no-longer-require-planning-permits-in-poland-in-bid-to-boost-housing/",
+        "timestamp": 1656446616,
+        "sentiment": -2,
+        "published": "June 28, 2022 4:03 PM"
+    },
+    {
+        "title": "This Bored Ape Crypto Restaurant Has Stopped Accepting Crypto",
+        "domain": "thegamer.com",
+        "category": "nottheonion",
+        "link": "https://www.thegamer.com/bored-ape-nft-restaurant-crypto-payments-cancelled-crash/",
+        "timestamp": 1656447598,
+        "sentiment": -1,
+        "published": "June 28, 2022 4:19 PM"
+    },
+    {
+        "title": "Judge denies requests to block Stop Woke Act",
+        "domain": "firstcoastnews.com",
+        "category": "FLgovernment",
+        "link": "https://www.firstcoastnews.com/article/news/local/judge-denies-requests-to-block-florida-governor-ron-desantis-stop-woke-act/77-a3347fdf-4aa5-48de-bb5c-b5c837509265",
+        "timestamp": 1656449803,
+        "sentiment": 0,
+        "published": "June 28, 2022 4:56 PM"
+    },
+    {
+        "title": "Ghislaine Maxwell to be sentenced in Epstein sex abuse case",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/aeac127f9cc3811d975ce8e10d171260",
+        "timestamp": 1656426155,
+        "sentiment": -5,
+        "published": "June 28, 2022 10:22 AM"
+    },
+    {
+        "title": "Ontario's new minister of natural resources faces environmental charges",
+        "domain": "cbc.ca",
+        "category": "nottheonion",
+        "link": "https://www.cbc.ca/news/canada/toronto/graydon-smith-cabinet-minister-charged-endangered-species-1.6502961",
+        "timestamp": 1656426225,
+        "sentiment": -1,
+        "published": "June 28, 2022 10:23 AM"
+    },
+    {
+        "title": "Airbnb makes its party ban permanent",
+        "domain": "cnbc.com",
+        "category": "technology",
+        "link": "https://www.cnbc.com/2022/06/28/airbnb-makes-its-party-ban-permanent.html",
+        "timestamp": 1656431404,
+        "sentiment": 0,
+        "published": "June 28, 2022 11:50 AM"
+    },
+    {
+        "title": "'Yeah, And?': Ocasio-Cortez Embraces GOP Freakout Over Helping Women Skirt Abortion Bans",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/06/28/yeah-and-ocasio-cortez-embraces-gop-freakout-over-helping-women-skirt-abortion-bans",
+        "timestamp": 1656433122,
+        "sentiment": 2,
+        "published": "June 28, 2022 12:18 PM"
+    },
+    {
+        "title": "Russia publishes Pentagon coordinates, says Western satellites \"work for our enemy\"",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/russia-publishes-pentagon-coordinates-says-western-satellites-work-our-enemy-2022-06-28/",
+        "timestamp": 1656439253,
+        "sentiment": -5,
+        "published": "June 28, 2022 2:00 PM"
+    },
+    {
+        "title": "Italian hairdressers face fines for shampooing amid heatwave",
+        "domain": "theguardian.com",
+        "category": "nottheonion",
+        "link": "https://www.theguardian.com/world/2022/jun/28/italian-hairdressers-face-fines-for-shampooing-amid-heatwave-castenaso-bologna",
+        "timestamp": 1656443193,
+        "sentiment": -1,
+        "published": "June 28, 2022 3:06 PM"
+    },
+    {
+        "title": "Katie Taylor secures nomination for Best Boxer in the 2022 ESPY Awards",
+        "domain": "buzz.ie",
+        "category": "sports",
+        "link": "https://www.buzz.ie/news/world-news/katie-taylor-nominated-best-boxer-27350979",
+        "timestamp": 1656445196,
+        "sentiment": 0,
+        "published": "June 28, 2022 3:39 PM"
     },
     {
         "title": "Roe Was Overturned Because of Politics, Not the Constitution",
@@ -826,15 +898,6 @@
         "timestamp": 1656404203,
         "sentiment": 0,
         "published": "June 28, 2022 4:16 AM"
-    },
-    {
-        "title": "Nicola Sturgeon to announce second Scottish independence vote, defying Westminster | Scottish first minister on collision course with Boris Johnson over plans for second referendum next year.",
-        "domain": "politico.eu",
-        "category": "worldnews",
-        "link": "https://www.politico.eu/article/scotland-uk-nicola-sturgeon-prepares-to-defy-westminster-and-announce-second-independence-vote/",
-        "timestamp": 1656407552,
-        "sentiment": -2,
-        "published": "June 28, 2022 5:12 AM"
     },
     {
         "title": "Former KGB officer detained in Lviv Oblast for correcting Russian missile strikes",
