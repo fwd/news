@@ -23,7 +23,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/Flash43191300/status/1541683404550414336",
         "timestamp": 1656402634,
-        "sentiment": 5,
+        "sentiment": -2,
         "published": "June 28, 2022 3:50 AM"
     },
     {
@@ -32,17 +32,8 @@
         "category": "technology",
         "link": "https://www.smh.com.au/world/north-america/a-mystery-rocket-crashed-into-the-moon-and-no-one-on-earth-is-owning-up-20220628-p5ax4x.html",
         "timestamp": 1656405400,
-        "sentiment": -1,
-        "published": "June 28, 2022 4:36 AM"
-    },
-    {
-        "title": "Roe Was Overturned Because of Politics, Not the Constitution",
-        "domain": "politico.com",
-        "category": "politics",
-        "link": "https://www.politico.com/news/magazine/2022/06/28/politics-overturned-roe-00042625",
-        "timestamp": 1656409290,
         "sentiment": 0,
-        "published": "June 28, 2022 5:41 AM"
+        "published": "June 28, 2022 4:36 AM"
     },
     {
         "title": "Principal with his students turns Indian school into a green oasis with over 300 plant species",
@@ -50,7 +41,7 @@
         "category": "UpliftingNews",
         "link": "https://m.timesofindia.com/city/agra/headmaster-turns-firozabad-school-into-a-green-oasis-with-help-of-students/articleshow/92153660.cms",
         "timestamp": 1656409320,
-        "sentiment": 5,
+        "sentiment": 0,
         "published": "June 28, 2022 5:42 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/facebook-instagram-remove-abortion-pill-posts-roe-overturned-reports-2022-6",
         "timestamp": 1656410206,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 28, 2022 5:56 AM"
     },
     {
@@ -81,15 +72,6 @@
         "published": "June 28, 2022 6:17 AM"
     },
     {
-        "title": "Facebook is blocking posts about the mailing of abortion pills | Even if they're located outside the US.",
-        "domain": "engadget.com",
-        "category": "technology",
-        "link": "https://www.engadget.com/facebook-blocking-posts-about-mailing-abortion-pills-091139044.html",
-        "timestamp": 1656411738,
-        "sentiment": -1,
-        "published": "June 28, 2022 6:22 AM"
-    },
-    {
         "title": "Less animal protein (especially beef) and more whole grain in US school lunches could greatly reduce their environmental impacts",
         "domain": "nature.com",
         "category": "science",
@@ -104,17 +86,8 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/gop-would-overturn-filibuster-impose-abortion-ban-michael-steele-2022-6?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1656414309,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 28, 2022 7:05 AM"
-    },
-    {
-        "title": "Sexualized video games are not causing harm to male or female players, according to new research",
-        "domain": "psypost.org",
-        "category": "UpliftingNews",
-        "link": "https://www.psypost.org/2022/06/sexualized-video-games-are-not-causing-harm-to-male-or-female-players-according-to-new-research-63388",
-        "timestamp": 1656415527,
-        "sentiment": 5,
-        "published": "June 28, 2022 7:25 AM"
     },
     {
         "title": "Florida Journalist Gets DUI Charges Dropped for the 3rd time! Could help that his attorney is the Mayor of one of the cities he covers?",
@@ -122,7 +95,7 @@
         "category": "florida",
         "link": "https://parklandtalk.com/local-journalist-gets-dui-charges-dropped-15864",
         "timestamp": 1656415817,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 28, 2022 7:30 AM"
     },
     {
@@ -131,7 +104,7 @@
         "category": "nottheonion",
         "link": "https://www.theguardian.com/uk-news/2022/jun/23/ukrainians-who-come-to-uk-illegally-could-be-sent-to-rwanda-johnson-says",
         "timestamp": 1656416476,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 28, 2022 7:41 AM"
     },
     {
@@ -149,7 +122,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/06/28/did-violence-follow-roe-decision-yes--almost-all-of-it-against-pro-choice/",
         "timestamp": 1656417387,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 28, 2022 7:56 AM"
     },
     {
@@ -160,24 +133,6 @@
         "timestamp": 1656417463,
         "sentiment": -2,
         "published": "June 28, 2022 7:57 AM"
-    },
-    {
-        "title": "For killing 60 Lab Mice, An Egyptian Teaching Assistant Was Sentenced To Six Months In Prison",
-        "domain": "hasanjasim.com",
-        "category": "nottheonion",
-        "link": "https://hasanjasim.com/K6vW",
-        "timestamp": 1656417497,
-        "sentiment": 0,
-        "published": "June 28, 2022 7:58 AM"
-    },
-    {
-        "title": "Partisans in Melitopol: Russian, do you sleep at night? We have already stabbed more than 300 of your comrades. Partisans don't sleep at night, they hunt",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/AllDigitsbiz/status/1541754513769504769",
-        "timestamp": 1656417955,
-        "sentiment": 5,
-        "published": "June 28, 2022 8:05 AM"
     },
     {
         "title": "A Ukrainian TV host crowdfunded $20 million to buy Bayraktar drones. The company making them refused the money and said it'd donate the aircraft instead.",
@@ -203,7 +158,7 @@
         "category": "nottheonion",
         "link": "https://www.somersetlive.co.uk/news/uk-world-news/pope-francis-tells-mums-stop-7262759",
         "timestamp": 1656419792,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 28, 2022 8:36 AM"
     },
     {
@@ -212,7 +167,7 @@
         "category": "technology",
         "link": "https://9to5mac.com/2022/06/27/t-mobile-selling-user-data/",
         "timestamp": 1656420656,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 28, 2022 8:50 AM"
     },
     {
@@ -221,7 +176,7 @@
         "category": "sports",
         "link": "https://www.latimes.com/sports/story/2022-06-27/first-photos-of-wnbas-brittney-griner-appearing-in-a-russian-court",
         "timestamp": 1656420793,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 28, 2022 8:53 AM"
     },
     {
@@ -266,7 +221,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/lauren-boebert-church-founding-fathers-government-colorado-1719760",
         "timestamp": 1656423682,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 28, 2022 9:41 AM"
     },
     {
@@ -293,7 +248,7 @@
         "category": "florida",
         "link": "https://www.wfla.com/news/politics/146-new-florida-laws-take-effect-july-1/",
         "timestamp": 1656424456,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 28, 2022 9:54 AM"
     },
     {
@@ -338,7 +293,7 @@
         "category": "nottheonion",
         "link": "https://www.cbc.ca/news/canada/toronto/graydon-smith-cabinet-minister-charged-endangered-species-1.6502961",
         "timestamp": 1656426225,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 28, 2022 10:23 AM"
     },
     {
@@ -347,7 +302,7 @@
         "category": "politics",
         "link": "https://www.lgbtqnation.com/2022/06/chicagos-lesbian-mayor-shouted-fk-clarence-thomas-pride-rally-crowd-loved/",
         "timestamp": 1656426766,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 28, 2022 10:32 AM"
     },
     {
@@ -365,7 +320,7 @@
         "category": "technology",
         "link": "https://www.wsj.com/articles/meta-tiktok-could-face-civil-liability-for-addicting-children-in-california-11656419401",
         "timestamp": 1656427209,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 28, 2022 10:40 AM"
     },
     {
@@ -383,7 +338,7 @@
         "category": "politics",
         "link": "https://www.currentaffairs.org/2022/06/the-supreme-court-has-destroyed-its-legitimacy",
         "timestamp": 1656427474,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 28, 2022 10:44 AM"
     },
     {
@@ -392,7 +347,7 @@
         "category": "ukraine",
         "link": "https://gagadget.com/en/140884-the-pentagon-said-that-ukraine-is-very-effective-in-using-the-himars-mlrs-and-other-weapons/",
         "timestamp": 1656427637,
-        "sentiment": 5,
+        "sentiment": -2,
         "published": "June 28, 2022 10:47 AM"
     },
     {
@@ -401,7 +356,7 @@
         "category": "politics",
         "link": "https://www.washingtonpost.com/politics/2022/06/28/lauren-boebert-church-state-colorado/",
         "timestamp": 1656427652,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 28, 2022 10:47 AM"
     },
     {
@@ -410,7 +365,7 @@
         "category": "UpliftingNews",
         "link": "https://www.cbsnews.com/boston/news/worcester-nativity-school-donations-black-lives-matter-pride-flags/",
         "timestamp": 1656428754,
-        "sentiment": 5,
+        "sentiment": 0,
         "published": "June 28, 2022 11:05 AM"
     },
     {
@@ -419,7 +374,7 @@
         "category": "technology",
         "link": "https://www.vice.com/en/article/y3pgvg/the-1-period-tracker-on-the-app-store-will-hand-over-data-without-a-warrant?utm_source=fark&utm_medium=website&utm_content=link&ICID=ref_fark",
         "timestamp": 1656428864,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 28, 2022 11:07 AM"
     },
     {
@@ -428,7 +383,7 @@
         "category": "florida",
         "link": "https://www.wfla.com/news/florida/florida-rapper-arrested-in-miami-jet-ski-chase/amp/",
         "timestamp": 1656429494,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 28, 2022 11:18 AM"
     },
     {
@@ -464,7 +419,7 @@
         "category": "technology",
         "link": "https://www.cnbc.com/2022/06/28/airbnb-makes-its-party-ban-permanent.html",
         "timestamp": 1656431404,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 28, 2022 11:50 AM"
     },
     {
@@ -482,7 +437,7 @@
         "category": "sports",
         "link": "https://www.nytimes.com/2022/06/28/sports/soccer/cte-soccer.html?smid=tw-share",
         "timestamp": 1656432574,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 28, 2022 12:09 PM"
     },
     {
@@ -491,8 +446,17 @@
         "category": "technology",
         "link": "https://www.macrumors.com/2022/06/28/greg-joswiak-says-samsung-copied-iphone/",
         "timestamp": 1656432852,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 28, 2022 12:14 PM"
+    },
+    {
+        "title": "The unholy union of AI and HR is coming",
+        "domain": "thenewatlantis.com",
+        "category": "technology",
+        "link": "https://www.thenewatlantis.com/publications/surveillance-humanism",
+        "timestamp": 1656433016,
+        "sentiment": 0,
+        "published": "June 28, 2022 12:16 PM"
     },
     {
         "title": "'Yeah, And?': Ocasio-Cortez Embraces GOP Freakout Over Helping Women Skirt Abortion Bans",
@@ -500,7 +464,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/06/28/yeah-and-ocasio-cortez-embraces-gop-freakout-over-helping-women-skirt-abortion-bans",
         "timestamp": 1656433122,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 28, 2022 12:18 PM"
     },
     {
@@ -527,7 +491,7 @@
         "category": "ukraine",
         "link": "https://www.foxnews.com/world/russia-warns-ukraine-attempts-retake-crimea-seen-declaration-war",
         "timestamp": 1656433910,
-        "sentiment": 5,
+        "sentiment": -2,
         "published": "June 28, 2022 12:31 PM"
     },
     {
@@ -536,7 +500,7 @@
         "category": "nottheonion",
         "link": "https://www.cnn.com/2022/06/28/investing/bed-bath--beyond-sales-decline/index.html",
         "timestamp": 1656434304,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 28, 2022 12:38 PM"
     },
     {
@@ -563,7 +527,7 @@
         "category": "UpliftingNews",
         "link": "https://climeworks.com/news/climeworks-announces-groundbreaking-on-mammoth",
         "timestamp": 1656437041,
-        "sentiment": 5,
+        "sentiment": 0,
         "published": "June 28, 2022 1:24 PM"
     },
     {
@@ -581,7 +545,7 @@
         "category": "florida",
         "link": "https://www.wfla.com/news/sarasota-county/sarasota-judge-rules-for-florida-newspaper-in-marsys-law-case/",
         "timestamp": 1656438826,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 28, 2022 1:53 PM"
     },
     {
@@ -590,7 +554,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/jan-6-trump-armed-committee-b2111429.html",
         "timestamp": 1656438923,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 28, 2022 1:55 PM"
     },
     {
@@ -617,7 +581,7 @@
         "category": "politics",
         "link": "https://www.cnbc.com/2022/06/28/trump-lunged-at-secret-service-agent-in-rage-when-told-he-couldnt-go-to-capitol-on-jan-6-aide-testifies.html",
         "timestamp": 1656439530,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 28, 2022 2:05 PM"
     },
     {
@@ -626,7 +590,7 @@
         "category": "sports",
         "link": "https://www.espn.com/tennis/story/_/id/34162153/nick-kyrgios-spits-direction-fan-allegedy-was-verbally-abusive-wimbledon-match",
         "timestamp": 1656439919,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 28, 2022 2:11 PM"
     },
     {
@@ -644,7 +608,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/visegrad24/status/1541849023090401281?s=21&t=-fQh0rkW3N6QCfJWE7VdOA",
         "timestamp": 1656440855,
-        "sentiment": 5,
+        "sentiment": -2,
         "published": "June 28, 2022 2:27 PM"
     },
     {
@@ -666,6 +630,15 @@
         "published": "June 28, 2022 2:35 PM"
     },
     {
+        "title": "NATO: Turkey agrees to back Finland and Sweden's bid to join alliance | World News",
+        "domain": "news.sky.com",
+        "category": "news",
+        "link": "https://news.sky.com/story/nato-turkey-agrees-to-back-finland-and-swedens-bid-to-join-alliance-12642100",
+        "timestamp": 1656441466,
+        "sentiment": -5,
+        "published": "June 28, 2022 2:37 PM"
+    },
+    {
         "title": "NATO: Turkey agrees to back Finland and Sweden's bid to join alliance",
         "domain": "news.sky.com",
         "category": "worldnews",
@@ -675,12 +648,30 @@
         "published": "June 28, 2022 2:44 PM"
     },
     {
+        "title": "Rock samples from NASA's Curiosity Mars rover contain key ingredient of life",
+        "domain": "space.com",
+        "category": "technology",
+        "link": "https://www.space.com/curiosity-mars-rover-samples-ingredients-life",
+        "timestamp": 1656442775,
+        "sentiment": 0,
+        "published": "June 28, 2022 2:59 PM"
+    },
+    {
+        "title": "Mike Flynn waited a minute and a half before pleading the 5th when asked whether the violence on January 6 was justified",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/general-mike-flynn-fifth-amendment-january-6-violence-justified-2022-6",
+        "timestamp": 1656443060,
+        "sentiment": 2,
+        "published": "June 28, 2022 3:04 PM"
+    },
+    {
         "title": "Italian hairdressers face fines for shampooing amid heatwave",
         "domain": "theguardian.com",
         "category": "nottheonion",
         "link": "https://www.theguardian.com/world/2022/jun/28/italian-hairdressers-face-fines-for-shampooing-amid-heatwave-castenaso-bologna",
         "timestamp": 1656443193,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 28, 2022 3:06 PM"
     },
     {
@@ -689,7 +680,7 @@
         "category": "UpliftingNews",
         "link": "https://actu.epfl.ch/news/new-pet-like-plastic-made-directly-from-waste-biom/",
         "timestamp": 1656443567,
-        "sentiment": 5,
+        "sentiment": 0,
         "published": "June 28, 2022 3:12 PM"
     },
     {
@@ -698,8 +689,35 @@
         "category": "nottheonion",
         "link": "https://www.bnnbloomberg.ca/jupiter-ceo-quits-68-billion-firm-to-sit-at-the-beach-and-do-nothing-1.1784775",
         "timestamp": 1656443849,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 28, 2022 3:17 PM"
+    },
+    {
+        "title": "Turkey drops objections to Finland and Sweden joining NATO, removing major hurdle to two nations joining the alliance",
+        "domain": "edition.cnn.com",
+        "category": "ukraine",
+        "link": "https://edition.cnn.com/2022/06/28/politics/joe-biden-g7-nato/index.html",
+        "timestamp": 1656444222,
+        "sentiment": -2,
+        "published": "June 28, 2022 3:23 PM"
+    },
+    {
+        "title": "‘Stranger Things 4’ Caps 28-Day Viewership At 930M For Now, ‘Umbrella Academy’ Dethrones It On Netflix Top 10",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/06/stranger-things-4-viewership-930m-umbrella-academy-premiere-netflix-top-10-1235053611/",
+        "timestamp": 1656444460,
+        "sentiment": 0,
+        "published": "June 28, 2022 3:27 PM"
+    },
+    {
+        "title": "U.S. supplying Ukraine with more than 20 military vessels",
+        "domain": "workboat.com",
+        "category": "UpliftingNews",
+        "link": "https://www.workboat.com/shipbuilding/u-s-supplying-ukraine-with-more-than-20-metal-shark-military-vessels?utm_source=social&utm_medium=reddit&utm_campaign=5msocial",
+        "timestamp": 1656444739,
+        "sentiment": 0,
+        "published": "June 28, 2022 3:32 PM"
     },
     {
         "title": "‘Tigger come back’: B.C. house cat chases black bear out of family’s yard",
@@ -707,8 +725,89 @@
         "category": "nottheonion",
         "link": "https://globalnews.ca/news/8948346/tigger-come-back-house-cat-chasing-large-black-bear/",
         "timestamp": 1656444850,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 28, 2022 3:34 PM"
+    },
+    {
+        "title": "Katie Taylor secures nomination for Best Boxer in the 2022 ESPY Awards",
+        "domain": "buzz.ie",
+        "category": "sports",
+        "link": "https://www.buzz.ie/news/world-news/katie-taylor-nominated-best-boxer-27350979",
+        "timestamp": 1656445196,
+        "sentiment": 0,
+        "published": "June 28, 2022 3:39 PM"
+    },
+    {
+        "title": "Arizona Native Americans can get free tuition for college",
+        "domain": "npr.org",
+        "category": "UpliftingNews",
+        "link": "https://www.npr.org/2022/06/28/1108157921/arizona-native-americans-free-tuition?utm_medium=social&utm_term=nprnews&utm_campaign=npr&utm_source=twitter.com",
+        "timestamp": 1656445700,
+        "sentiment": 0,
+        "published": "June 28, 2022 3:48 PM"
+    },
+    {
+        "title": "Mystery rocket crashes into Moon but no country will take credit",
+        "domain": "smh.com.au",
+        "category": "nottheonion",
+        "link": "https://www.smh.com.au/world/north-america/a-mystery-rocket-crashed-into-the-moon-and-no-one-on-earth-is-owning-up-20220628-p5ax4x.html",
+        "timestamp": 1656445948,
+        "sentiment": -1,
+        "published": "June 28, 2022 3:52 PM"
+    },
+    {
+        "title": "Florida pastor charged with performing sex act on himself on Starbucks patio",
+        "domain": "weartv.com",
+        "category": "nottheonion",
+        "link": "https://weartv.com/news/local/florida-pastor-charged-with-performing-sex-act-on-himself-on-starbucks-patio",
+        "timestamp": 1656446227,
+        "sentiment": -1,
+        "published": "June 28, 2022 3:57 PM"
+    },
+    {
+        "title": "Roe Was Overturned Because of Politics, Not the Constitution",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/magazine/2022/06/28/politics-overturned-roe-00042625",
+        "timestamp": 1656409290,
+        "sentiment": 0,
+        "published": "June 28, 2022 5:41 AM"
+    },
+    {
+        "title": "Facebook is blocking posts about the mailing of abortion pills | Even if they're located outside the US.",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/facebook-blocking-posts-about-mailing-abortion-pills-091139044.html",
+        "timestamp": 1656411738,
+        "sentiment": -1,
+        "published": "June 28, 2022 6:22 AM"
+    },
+    {
+        "title": "Sexualized video games are not causing harm to male or female players, according to new research",
+        "domain": "psypost.org",
+        "category": "UpliftingNews",
+        "link": "https://www.psypost.org/2022/06/sexualized-video-games-are-not-causing-harm-to-male-or-female-players-according-to-new-research-63388",
+        "timestamp": 1656415527,
+        "sentiment": 5,
+        "published": "June 28, 2022 7:25 AM"
+    },
+    {
+        "title": "For killing 60 Lab Mice, An Egyptian Teaching Assistant Was Sentenced To Six Months In Prison",
+        "domain": "hasanjasim.com",
+        "category": "nottheonion",
+        "link": "https://hasanjasim.com/K6vW",
+        "timestamp": 1656417497,
+        "sentiment": 0,
+        "published": "June 28, 2022 7:58 AM"
+    },
+    {
+        "title": "Partisans in Melitopol: Russian, do you sleep at night? We have already stabbed more than 300 of your comrades. Partisans don't sleep at night, they hunt",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/AllDigitsbiz/status/1541754513769504769",
+        "timestamp": 1656417955,
+        "sentiment": 5,
+        "published": "June 28, 2022 8:05 AM"
     },
     {
         "title": "45% of Streaming Moochers Wouldn’t Purchase Their Favorite Subscription Service If They Couldn’t Use Someone Else’s Login",
