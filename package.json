@@ -1,0 +1,28 @@
+{
+  "name": "news",
+  "version": "1.0.0",
+  "description": "For research purposes. Available in JSON format.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fwd/news.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fwd/news/issues"
+  },
+  "homepage": "https://github.com/fwd/news#readme",
+  "dependencies": {
+    "@fwd/server": "^2.0.0",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "sentiment": "^5.0.2",
+    "snoowrap": "^1.23.0"
+  }
+}
