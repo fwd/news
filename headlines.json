@@ -5,17 +5,8 @@
         "category": "UpliftingNews",
         "link": "https://www.yahoo.com/finance/m/4521c758-10ce-31e7-b16c-111d694f52c7/indonesia%E2%80%99s-president-to-bar.html",
         "timestamp": 1656481695,
-        "sentiment": -7,
-        "published": "June 29, 2022 1:48 AM"
-    },
-    {
-        "title": "25,000 Russians have been killed in Ukraine, says UK Defence secretary",
-        "domain": "msn.com",
-        "category": "worldnews",
-        "link": "https://www.msn.com/en-xl/news/other/25-000-russians-have-been-killed-in-ukraine-says-uk-defence-secretary/ar-AAYZgun",
-        "timestamp": 1656494863,
         "sentiment": -2,
-        "published": "June 29, 2022 5:27 AM"
+        "published": "June 29, 2022 1:48 AM"
     },
     {
         "title": "‘Very real risk’ Russia could ‘lash out’ against wider Europe, UK defence secretary warns",
@@ -23,7 +14,7 @@
         "category": "worldnews",
         "link": "https://metro.co.uk/2022/06/29/defence-chief-warns-real-risk-russia-could-lash-out-against-europe-16910418/",
         "timestamp": 1656498274,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "June 29, 2022 6:24 AM"
     },
     {
@@ -32,7 +23,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/at-nato-summit-biden-announces-permanent-u-s-troop-presence-in-poland-increased-support-for-europe/ar-AAYZCkN?ocid=EMMX&cvid=a579ad13c0464661b8da943d945e1724",
         "timestamp": 1656499829,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "June 29, 2022 6:50 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/28/americas/sandals-bahamas-resort-deaths-carbon-monoxide-police/index.html",
         "timestamp": 1656499876,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "June 29, 2022 6:51 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "technology",
         "link": "https://www.engadget.com/fcc-commissioner-google-facebook-ban-tik-tok-064559992.html",
         "timestamp": 1656500640,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "June 29, 2022 7:04 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "worldnews",
         "link": "https://edition.cnn.com/2022/06/29/politics/joe-biden-nato-day-2/index.html",
         "timestamp": 1656501837,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "June 29, 2022 7:23 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/unsolved-murders-crime-without-punishment/",
         "timestamp": 1656501911,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "June 29, 2022 7:25 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "miami",
         "link": "https://www.abcactionnews.com/news/price-of-paradise/citizens-property-insurance-denied-expected-rate-increases-as-more-companies-halt-new-policies",
         "timestamp": 1656503031,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 29, 2022 7:43 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "news",
         "link": "https://www.reuters.com/legal/government/rb-singer-r-kelly-be-sentenced-luring-women-girls-sex-2022-06-29/",
         "timestamp": 1656503435,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "June 29, 2022 7:50 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.cnbc.com/2022/06/29/putin-needs-to-be-stopped-in-the-battlefield-not-with-sanctions-says-ex-president-of-lithuania.html",
         "timestamp": 1656503804,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "June 29, 2022 7:56 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "technology",
         "link": "https://www.bleepingcomputer.com/news/security/new-firefox-privacy-feature-strips-urls-of-tracking-parameters/",
         "timestamp": 1656504041,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "June 29, 2022 8:00 AM"
     },
     {
@@ -158,7 +149,7 @@
         "category": "florida",
         "link": "https://www.sun-sentinel.com/news/transportation/fl-ne-freebee-free-rides-20220629-dox3pjoqf5htvjq3hqwau4ajse-story.html",
         "timestamp": 1656504103,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 29, 2022 8:01 AM"
     },
     {
@@ -167,7 +158,7 @@
         "category": "technology",
         "link": "https://arstechnica.com/tech-policy/2022/06/couple-bought-home-in-seattle-then-learned-comcast-internet-would-cost-27000/",
         "timestamp": 1656506601,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "June 29, 2022 8:43 AM"
     },
     {
@@ -185,7 +176,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/nato-vows-to-defend-every-inch-of-its-territory-as-it-overhauls-strategy-and-warns-russia-to-withdraw-from-ukraine-12642490",
         "timestamp": 1656508035,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "June 29, 2022 9:07 AM"
     },
     {
@@ -194,7 +185,7 @@
         "category": "television",
         "link": "https://www.ign.com/articles/star-wars-obi-wan-kenobi-film-trilogy",
         "timestamp": 1656508723,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "June 29, 2022 9:18 AM"
     },
     {
@@ -203,15 +194,6 @@
         "category": "politics",
         "link": "https://www.washingtonpost.com/politics/2022/06/29/ginni-thomas-cassidy-hutchinson-trump/",
         "timestamp": 1656508924,
-        "sentiment": 0,
-        "published": "June 29, 2022 9:22 AM"
-    },
-    {
-        "title": "'It's intimidation': Judge faces threats after Freedom Convoy hearings",
-        "domain": "cbc.ca",
-        "category": "news",
-        "link": "https://www.cbc.ca/news/canada/ottawa/freedom-convoy-hearings-judge-threatened-1.6502747",
-        "timestamp": 1656508944,
         "sentiment": 0,
         "published": "June 29, 2022 9:22 AM"
     },
@@ -234,6 +216,15 @@
         "published": "June 29, 2022 9:30 AM"
     },
     {
+        "title": "New Evidence Shows Russia Has Deployed Powerful Missiles To Kaliningrad Coast - NavalNews",
+        "domain": "navalnews.com",
+        "category": "worldnews",
+        "link": "https://www.navalnews.com/naval-news/2022/06/russia-powerful-missiles-kaliningrad/",
+        "timestamp": 1656509599,
+        "sentiment": 2,
+        "published": "June 29, 2022 9:33 AM"
+    },
+    {
         "title": "Man eating Big Mac at Texas checkpoint was suspicious. Feds say he was smuggling meth",
         "domain": "star-telegram.com",
         "category": "nottheonion",
@@ -248,7 +239,7 @@
         "category": "news",
         "link": "https://abc11.com/nc-workers-fired-not-joining-aurora-pro-services-daily-prayer-devotion-eeoc-atheist/12001573/",
         "timestamp": 1656510186,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "June 29, 2022 9:43 AM"
     },
     {
@@ -257,7 +248,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/06/29/politics/joe-biden-nato-day-2/index.html",
         "timestamp": 1656510960,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "June 29, 2022 9:56 AM"
     },
     {
@@ -293,7 +284,7 @@
         "category": "UpliftingNews",
         "link": "https://www.fox23.com/news/95-year-old-muskogee-county-woman-donates-ranch-oklahoma-state-university/R4NGMGDFERDTRAONX34AESSXC4/?utm_campaign=trueAnthem_manual&utm_medium=trueAnthem&utm_source=facebook&fbclid=IwAR1fN41V5tKcOhicluaPDQNPlrg2WoTZgxLuM6OLn5pSxaxyOwJe_DXS6zs&fs=e&s=cl",
         "timestamp": 1656511298,
-        "sentiment": -7,
+        "sentiment": -2,
         "published": "June 29, 2022 10:01 AM"
     },
     {
@@ -311,7 +302,7 @@
         "category": "television",
         "link": "https://www.thewrap.com/see-jason-momoa-apple-tv-plus-first-look-season-3/",
         "timestamp": 1656511377,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "June 29, 2022 10:02 AM"
     },
     {
@@ -320,7 +311,7 @@
         "category": "UpliftingNews",
         "link": "https://www.bbc.co.uk/news/world-us-canada-61981785",
         "timestamp": 1656512204,
-        "sentiment": -7,
+        "sentiment": -2,
         "published": "June 29, 2022 10:16 AM"
     },
     {
@@ -329,7 +320,7 @@
         "category": "worldnews",
         "link": "https://english.kyodonews.net/news/2022/06/e01eb8455020-japan-hails-swedens-historic-decision-to-join-nato.html",
         "timestamp": 1656512283,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "June 29, 2022 10:18 AM"
     },
     {
@@ -342,21 +333,12 @@
         "published": "June 29, 2022 10:38 AM"
     },
     {
-        "title": "California DOJ data breach exposes personal information of all concealed carry permit holders across state | The breach occurred as part of the state Department of Justice’s launch of its “2022 Firearms Dashboard Portal,” officials said.",
-        "domain": "nbcnews.com",
-        "category": "technology",
-        "link": "https://www.nbcnews.com/news/us-news/california-doj-data-breach-exposes-personal-information-concealed-carr-rcna35849",
-        "timestamp": 1656513549,
-        "sentiment": -5,
-        "published": "June 29, 2022 10:39 AM"
-    },
-    {
         "title": "'We Don't Prefer You': 'Jeopardy!' co-host Mayim Bialik says fans openly tell her they prefer Ken Jennings as quizmaster",
         "domain": "newsweek.com",
         "category": "television",
         "link": "https://www.newsweek.com/mayim-bialik-reveals-harsh-jeopardy-fan-jibes-1720155",
         "timestamp": 1656514059,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "June 29, 2022 10:47 AM"
     },
     {
@@ -365,7 +347,7 @@
         "category": "news",
         "link": "https://apnews.com/article/new-orleans-clergy-sex-abuse-fbi-investigation-0d0ee865d27508b7848909d8e82e87fb",
         "timestamp": 1656514206,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "June 29, 2022 10:50 AM"
     },
     {
@@ -374,7 +356,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/KyivIndependent/status/1542157879377002496",
         "timestamp": 1656514289,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "June 29, 2022 10:51 AM"
     },
     {
@@ -383,8 +365,17 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/truth-socials-refusal-to-use-amazon-servers-added-to-chaos-reuters-2022-6",
         "timestamp": 1656514519,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "June 29, 2022 10:55 AM"
+    },
+    {
+        "title": "Chip exports to Russia plunged by 90% after curbs-U.S. official",
+        "domain": "finance.yahoo.com",
+        "category": "worldnews",
+        "link": "https://finance.yahoo.com/news/chip-exports-russia-plunged-90-143857230.html",
+        "timestamp": 1656514776,
+        "sentiment": 2,
+        "published": "June 29, 2022 10:59 AM"
     },
     {
         "title": "Hugh Grant To Play Zeus In Netflix’s Greek Mythology Reimagining ‘Kaos’ From Creator Charlie Covell; Janet McTeer, Cliff Curtis & David Thewlis Among Additional Series Regulars",
@@ -392,7 +383,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/hugh-grant-janet-mcteer-cliff-curtis-more-join-netflix-series-kaos-1235053456/",
         "timestamp": 1656514899,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "June 29, 2022 11:01 AM"
     },
     {
@@ -401,17 +392,8 @@
         "category": "news",
         "link": "https://www.theguardian.com/football/2022/jun/29/qatar-fails-to-offer-world-cup-safety-guarantees-to-lgbtq-fans?utm_term=Autofeed&CMP=twt_gu&utm_medium&utm_source=Twitter#Echobox=1656508320",
         "timestamp": 1656516347,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "June 29, 2022 11:25 AM"
-    },
-    {
-        "title": "Fox News Is Showing The Jan. 6 Hearings And Viewers Are Flipping The Channel",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/fox-news-viewers-dropping-out-jan-sixth_n_62bbd87de4b0d26a9b15f39f",
-        "timestamp": 1656517110,
-        "sentiment": 0,
-        "published": "June 29, 2022 11:38 AM"
     },
     {
         "title": "Planned Parenthood’s website could share details of your abortion appointment with Facebook, Google and other tracking companies",
@@ -419,7 +401,7 @@
         "category": "technology",
         "link": "https://www.washingtonpost.com/technology/2022/06/29/planned-parenthood-privacy/",
         "timestamp": 1656517500,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "June 29, 2022 11:45 AM"
     },
     {
@@ -437,17 +419,8 @@
         "category": "UpliftingNews",
         "link": "https://apnews.com/article/climate-science-united-states-and-environment-f8c74b96249163324ea07ef1d0fe73e5",
         "timestamp": 1656518184,
-        "sentiment": -7,
-        "published": "June 29, 2022 11:56 AM"
-    },
-    {
-        "title": "Wives of Russian soldiers plead for their return from war",
-        "domain": "washingtonpost.com",
-        "category": "worldnews",
-        "link": "https://www.washingtonpost.com/world/2022/06/29/russian-wives-plead-for-husbands/",
-        "timestamp": 1656519259,
         "sentiment": -2,
-        "published": "June 29, 2022 12:14 PM"
+        "published": "June 29, 2022 11:56 AM"
     },
     {
         "title": "Tesla to pay workers’ abortion travel costs after moving HQ to Texas",
@@ -455,7 +428,7 @@
         "category": "technology",
         "link": "https://nypost.com/2022/06/24/tesla-to-pay-workers-abortion-travel-costs-after-texas-move/",
         "timestamp": 1656519743,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "June 29, 2022 12:22 PM"
     },
     {
@@ -464,7 +437,7 @@
         "category": "florida",
         "link": "https://www.thedailybeast.com/teachers-slam-florida-gov-ron-desantis-disturbing-new-civics-curriculum?via=mobile&source=Reddit",
         "timestamp": 1656520604,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 29, 2022 12:36 PM"
     },
     {
@@ -473,7 +446,7 @@
         "category": "florida",
         "link": "https://www.wfla.com/news/education/fewer-than-50-of-florida-high-schoolers-pass-reading-fsa/",
         "timestamp": 1656520966,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 29, 2022 12:42 PM"
     },
     {
@@ -491,7 +464,7 @@
         "category": "florida",
         "link": "https://www.thedailybeast.com/joe-rogan-backs-ron-desantis-for-president-because-of-course?via=mobile&source=Reddit",
         "timestamp": 1656522579,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 29, 2022 1:09 PM"
     },
     {
@@ -500,7 +473,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/amazon-limiting-plan-b-purchases-to-3-week-after-roe-2022-6",
         "timestamp": 1656522688,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "June 29, 2022 1:11 PM"
     },
     {
@@ -518,7 +491,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/us-supreme-court-expands-state-power-over-tribes-win-oklahoma-2022-06-29/",
         "timestamp": 1656522996,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "June 29, 2022 1:16 PM"
     },
     {
@@ -540,15 +513,6 @@
         "published": "June 29, 2022 1:20 PM"
     },
     {
-        "title": "Florida: Miami Residents Hit With Vile Disney-Themed, Antisemitic Flyers That Mentioned 'Child Grooming', Gun Control And Immigration",
-        "domain": "thedailybeast.com",
-        "category": "miami",
-        "link": "https://www.thedailybeast.com/miami-residents-hit-with-vile-disney-themed-antisemitic-flyers?via=mobile&source=Reddit",
-        "timestamp": 1656523630,
-        "sentiment": 0,
-        "published": "June 29, 2022 1:27 PM"
-    },
-    {
         "title": "Kinzinger hits back at Boebert’s church and state remarks: ‘We must oppose the Christian Taliban’",
         "domain": "thehill.com",
         "category": "politics",
@@ -563,7 +527,7 @@
         "category": "UpliftingNews",
         "link": "https://www.lgbtqnation.com/2022/06/bill-allow-trans-teens-right-determine-gender-advances-spain/",
         "timestamp": 1656524180,
-        "sentiment": -7,
+        "sentiment": -2,
         "published": "June 29, 2022 1:36 PM"
     },
     {
@@ -572,7 +536,7 @@
         "category": "UpliftingNews",
         "link": "https://www.guardianmag.press/2022/06/nigeria-is-turning-its-huge-cashew-waste-into-valuable-citric-acid.html/",
         "timestamp": 1656524313,
-        "sentiment": -7,
+        "sentiment": -2,
         "published": "June 29, 2022 1:38 PM"
     },
     {
@@ -581,7 +545,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/justified-city-primeval-ravi-patel-fx-1235054237/",
         "timestamp": 1656525010,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "June 29, 2022 1:50 PM"
     },
     {
@@ -590,7 +554,7 @@
         "category": "news",
         "link": "https://www.dw.com/en/nato-declares-russia-its-most-direct-threat-offers-finland-sweden-membership/a-62297662",
         "timestamp": 1656525490,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "June 29, 2022 1:58 PM"
     },
     {
@@ -599,26 +563,8 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/michaela-coel-john-turturro-paul-dano-mr-mrs-smith-donald-glover-maya-erskine-amazon-1235306014/",
         "timestamp": 1656525685,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "June 29, 2022 2:01 PM"
-    },
-    {
-        "title": "Jury selected in Parkland school shooter's sentencing trial",
-        "domain": "wptv.com",
-        "category": "florida",
-        "link": "https://www.wptv.com/news/parkland-shooting/jury-selected-in-parkland-school-shooters-sentence-trial",
-        "timestamp": 1656525750,
-        "sentiment": 0,
-        "published": "June 29, 2022 2:02 PM"
-    },
-    {
-        "title": "Putin’s economy is starting to show cracks, and Russian public opinion could soon follow",
-        "domain": "yahoo.com",
-        "category": "worldnews",
-        "link": "https://www.yahoo.com/news/putins-economy-starting-to-show-cracks-and-russian-public-opinion-could-soon-follow-180404107.html",
-        "timestamp": 1656526023,
-        "sentiment": -2,
-        "published": "June 29, 2022 2:07 PM"
     },
     {
         "title": "109 live animals found in women's luggage in massive airport wildlife trafficking bust",
@@ -628,6 +574,15 @@
         "timestamp": 1656526043,
         "sentiment": -1,
         "published": "June 29, 2022 2:07 PM"
+    },
+    {
+        "title": "Texas AG Says He’s ‘Willing and Able’ to Defend a Ban on ‘Sodomy’",
+        "domain": "vice.com",
+        "category": "politics",
+        "link": "https://www.vice.com/en/article/akedna/texas-ag-ken-paxton-sodomy-laws",
+        "timestamp": 1656526497,
+        "sentiment": 0,
+        "published": "June 29, 2022 2:14 PM"
     },
     {
         "title": "Stanford engineers’ optical concentrator could help solar arrays capture more light even on a cloudy day without tracking the sun. They developed a pyramid-shaped lens that can focus sunlight from any angle onto a solar cell, keeping it collecting power from sunrise to sunset.",
@@ -653,7 +608,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/alan-wake-amc-showrunner-exit-1235306033/",
         "timestamp": 1656529269,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "June 29, 2022 3:01 PM"
     },
     {
@@ -671,17 +626,8 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/r-kelly-sentenced-xxx-sex-trafficking-case-rcna35832",
         "timestamp": 1656529872,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "June 29, 2022 3:11 PM"
-    },
-    {
-        "title": "Chess - Russian supergrandmaster Sergey Karjakin (Pro-Putin, but Ukrainian-born), temp banned by chess federation, thanks West for sanctions.",
-        "domain": "thethreadtimes.com",
-        "category": "sports",
-        "link": "https://thethreadtimes.com/pro-putin-grandmaster-thanks-west-for-sanctions",
-        "timestamp": 1656530002,
-        "sentiment": 0,
-        "published": "June 29, 2022 3:13 PM"
     },
     {
         "title": "Noem defends no exception for rape, incest in South Dakota trigger law",
@@ -698,7 +644,7 @@
         "category": "UpliftingNews",
         "link": "https://news.sky.com/story/r-kelly-sentenced-to-30-years-in-prison-as-survivors-confront-him-over-despicable-abuse-12641871",
         "timestamp": 1656533638,
-        "sentiment": -7,
+        "sentiment": -2,
         "published": "June 29, 2022 4:13 PM"
     },
     {
@@ -707,17 +653,125 @@
         "category": "florida",
         "link": "https://www.wftv.com/news/local/teachers-voice-concerns-after-orange-county-previews-dont-say-gay-impact-classrooms/R6VGDIOC2RFURLBUVT6TVWPDGA/",
         "timestamp": 1656533798,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 29, 2022 4:16 PM"
+    },
+    {
+        "title": "Government designates US group Proud Boys, The Base as terrorist organisations",
+        "domain": "stuff.co.nz",
+        "category": "news",
+        "link": "https://www.stuff.co.nz/national/politics/129126518/government-designates-us-group-proud-boys-the-base-as-terrorist-organisations",
+        "timestamp": 1656534335,
+        "sentiment": -6,
+        "published": "June 29, 2022 4:25 PM"
+    },
+    {
+        "title": "Chinese bots spread disinformation about Canadian rare earths company in targeted attack, report alleges",
+        "domain": "theglobeandmail.com",
+        "category": "technology",
+        "link": "https://www.theglobeandmail.com/business/article-appia-rare-earths-mining-targeted-by-chinese-bots/",
+        "timestamp": 1656534444,
+        "sentiment": -2,
+        "published": "June 29, 2022 4:27 PM"
     },
     {
         "title": "Florida Supreme Court approves DeSantis’ statewide grand jury on immigration",
         "domain": "wfla.com",
-        "category": "FLgovernment",
+        "category": "florida",
         "link": "https://www.wfla.com/news/politics/florida-supreme-court-approves-desantis-statewide-grand-jury-on-immigration/",
-        "timestamp": 1656534671,
-        "sentiment": -11,
-        "published": "June 29, 2022 4:31 PM"
+        "timestamp": 1656534651,
+        "sentiment": 4,
+        "published": "June 29, 2022 4:30 PM"
+    },
+    {
+        "title": "'Game over for the internal combustion engine' as EU countries approve climate measures",
+        "domain": "yahoo.com",
+        "category": "worldnews",
+        "link": "https://www.yahoo.com/news/game-over-internal-combustion-engine-110655220.html",
+        "timestamp": 1656535592,
+        "sentiment": 2,
+        "published": "June 29, 2022 4:46 PM"
+    },
+    {
+        "title": "25,000 Russians have been killed in Ukraine, says UK Defence secretary",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-xl/news/other/25-000-russians-have-been-killed-in-ukraine-says-uk-defence-secretary/ar-AAYZgun",
+        "timestamp": 1656494863,
+        "sentiment": -2,
+        "published": "June 29, 2022 5:27 AM"
+    },
+    {
+        "title": "'It's intimidation': Judge faces threats after Freedom Convoy hearings",
+        "domain": "cbc.ca",
+        "category": "news",
+        "link": "https://www.cbc.ca/news/canada/ottawa/freedom-convoy-hearings-judge-threatened-1.6502747",
+        "timestamp": 1656508944,
+        "sentiment": 0,
+        "published": "June 29, 2022 9:22 AM"
+    },
+    {
+        "title": "California DOJ data breach exposes personal information of all concealed carry permit holders across state | The breach occurred as part of the state Department of Justice’s launch of its “2022 Firearms Dashboard Portal,” officials said.",
+        "domain": "nbcnews.com",
+        "category": "technology",
+        "link": "https://www.nbcnews.com/news/us-news/california-doj-data-breach-exposes-personal-information-concealed-carr-rcna35849",
+        "timestamp": 1656513549,
+        "sentiment": -5,
+        "published": "June 29, 2022 10:39 AM"
+    },
+    {
+        "title": "Fox News Is Showing The Jan. 6 Hearings And Viewers Are Flipping The Channel",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/fox-news-viewers-dropping-out-jan-sixth_n_62bbd87de4b0d26a9b15f39f",
+        "timestamp": 1656517110,
+        "sentiment": 0,
+        "published": "June 29, 2022 11:38 AM"
+    },
+    {
+        "title": "Wives of Russian soldiers plead for their return from war",
+        "domain": "washingtonpost.com",
+        "category": "worldnews",
+        "link": "https://www.washingtonpost.com/world/2022/06/29/russian-wives-plead-for-husbands/",
+        "timestamp": 1656519259,
+        "sentiment": -2,
+        "published": "June 29, 2022 12:14 PM"
+    },
+    {
+        "title": "Florida: Miami Residents Hit With Vile Disney-Themed, Antisemitic Flyers That Mentioned 'Child Grooming', Gun Control And Immigration",
+        "domain": "thedailybeast.com",
+        "category": "miami",
+        "link": "https://www.thedailybeast.com/miami-residents-hit-with-vile-disney-themed-antisemitic-flyers?via=mobile&source=Reddit",
+        "timestamp": 1656523630,
+        "sentiment": 0,
+        "published": "June 29, 2022 1:27 PM"
+    },
+    {
+        "title": "Jury selected in Parkland school shooter's sentencing trial",
+        "domain": "wptv.com",
+        "category": "florida",
+        "link": "https://www.wptv.com/news/parkland-shooting/jury-selected-in-parkland-school-shooters-sentence-trial",
+        "timestamp": 1656525750,
+        "sentiment": 0,
+        "published": "June 29, 2022 2:02 PM"
+    },
+    {
+        "title": "Putin’s economy is starting to show cracks, and Russian public opinion could soon follow",
+        "domain": "yahoo.com",
+        "category": "worldnews",
+        "link": "https://www.yahoo.com/news/putins-economy-starting-to-show-cracks-and-russian-public-opinion-could-soon-follow-180404107.html",
+        "timestamp": 1656526023,
+        "sentiment": -2,
+        "published": "June 29, 2022 2:07 PM"
+    },
+    {
+        "title": "Chess - Russian supergrandmaster Sergey Karjakin (Pro-Putin, but Ukrainian-born), temp banned by chess federation, thanks West for sanctions.",
+        "domain": "thethreadtimes.com",
+        "category": "sports",
+        "link": "https://thethreadtimes.com/pro-putin-grandmaster-thanks-west-for-sanctions",
+        "timestamp": 1656530002,
+        "sentiment": 0,
+        "published": "June 29, 2022 3:13 PM"
     },
     {
         "title": "Kiss thank Austrian fans by showing Australian flag",
