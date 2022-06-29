@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.abc.net.au/news/2022-06-29/hindu-man-decapitated-in-india/101192510",
         "timestamp": 1656477735,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 29, 2022 12:42 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "nottheonion",
         "link": "https://www.loudersound.com/news/kiss-thank-austrian-fans-by-showing-australian-flag",
         "timestamp": 1656480073,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 29, 2022 1:21 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://english.kyodonews.net/news/2022/06/8d52463bd475-zelenskyy-calls-russia-terror-state-demands-expulsion-from-un.html",
         "timestamp": 1656482609,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 29, 2022 2:03 AM"
     },
     {
@@ -54,6 +54,159 @@
         "published": "June 29, 2022 2:12 AM"
     },
     {
+        "title": "Indian government censors tweets critical of Indian internet censorship",
+        "domain": "entrackr.com",
+        "category": "nottheonion",
+        "link": "https://entrackr.com/2022/06/indian-government-censors-tweets-critical-of-indian-internet-censorship/",
+        "timestamp": 1656487282,
+        "sentiment": -2,
+        "published": "June 29, 2022 3:21 AM"
+    },
+    {
+        "title": "Russian hacker group Kilnet launches attack on Norway, after Russian goods are stopped from being transported to Russian settlement on the Norwegian island of Svalbard.",
+        "domain": "www-nrk-no.translate.goog",
+        "category": "ukraine",
+        "link": "https://www-nrk-no.translate.goog/norge/russisk-hackergruppe-skal-ha-startet-angrep-mot-norge-1.16020947?_x_tr_sl=no&_x_tr_tl=en&_x_tr_hl=no&_x_tr_pto=wapp",
+        "timestamp": 1656492659,
+        "sentiment": -1,
+        "published": "June 29, 2022 4:50 AM"
+    },
+    {
+        "title": "LAWSUIT: Female inmates were assaulted, raped in Clark County jail",
+        "domain": "carriagetownenews.com",
+        "category": "news",
+        "link": "https://www.carriagetownenews.com/lawsuit-female-inmates-were-assaulted-raped-in-clark-county-jail/article_104ca949-7e9d-5649-9831-9c69e93db7b6.html",
+        "timestamp": 1656492831,
+        "sentiment": 0,
+        "published": "June 29, 2022 4:53 AM"
+    },
+    {
+        "title": "🇳🇴 Norway will transfer to Ukraine 3 MLRS M270 installations.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/TpyxaNews/status/1542059507752353792",
+        "timestamp": 1656493678,
+        "sentiment": -1,
+        "published": "June 29, 2022 5:07 AM"
+    },
+    {
+        "title": "25,000 Russians have been killed in Ukraine, says UK Defence secretary",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-xl/news/other/25-000-russians-have-been-killed-in-ukraine-says-uk-defence-secretary/ar-AAYZgun",
+        "timestamp": 1656494863,
+        "sentiment": 0,
+        "published": "June 29, 2022 5:27 AM"
+    },
+    {
+        "title": "I saw first-hand how US tech giants seduced the EU – and undermined democracy",
+        "domain": "theguardian.com",
+        "category": "technology",
+        "link": "https://www.theguardian.com/commentisfree/2022/jun/28/i-saw-first-hand-tech-giants-seduced-eu-google-meta",
+        "timestamp": 1656495989,
+        "sentiment": 0,
+        "published": "June 29, 2022 5:46 AM"
+    },
+    {
+        "title": "Inside the nuclear-powered ‘flying hotel’ that can stay airborne for months",
+        "domain": "independent.co.uk",
+        "category": "technology",
+        "link": "https://www.independent.co.uk/travel/news-and-advice/sky-cruise-flying-hotel-ai-nuclear-b2110050.html",
+        "timestamp": 1656496069,
+        "sentiment": 0,
+        "published": "June 29, 2022 5:47 AM"
+    },
+    {
+        "title": "Simultaneous Extreme Weather Created Dangerous Conditions In U.S. The drought increased temperatures by about a half a degree on average, but in some areas, particularly forested areas, it was four degrees higher over the course of an entire week",
+        "domain": "hub.jhu.edu",
+        "category": "science",
+        "link": "https://hub.jhu.edu/2022/06/28/extreme-weather-created-dangerous-cascades/",
+        "timestamp": 1656496323,
+        "sentiment": -4,
+        "published": "June 29, 2022 5:52 AM"
+    },
+    {
+        "title": "Norway hit by massive cyber-attack",
+        "domain": "dagbladet.no",
+        "category": "worldnews",
+        "link": "https://www.dagbladet.no/nyheter/truer-familien-til-jens/76487713",
+        "timestamp": 1656497491,
+        "sentiment": 0,
+        "published": "June 29, 2022 6:11 AM"
+    },
+    {
+        "title": "Harvard Lawyers Don't Think That Piracy is Theft, Research Finds",
+        "domain": "torrentfreak.com",
+        "category": "news",
+        "link": "https://torrentfreak.com/harvard-lawyers-dont-think-that-piracy-is-theft-research-finds-220626/",
+        "timestamp": 1656498375,
+        "sentiment": 0,
+        "published": "June 29, 2022 6:26 AM"
+    },
+    {
+        "title": "At NATO summit, Biden announces permanent U.S. troop presence in Poland, increased support for Europe",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-us/news/world/at-nato-summit-biden-announces-permanent-u-s-troop-presence-in-poland-increased-support-for-europe/ar-AAYZCkN?ocid=EMMX&cvid=a579ad13c0464661b8da943d945e1724",
+        "timestamp": 1656499829,
+        "sentiment": 0,
+        "published": "June 29, 2022 6:50 AM"
+    },
+    {
+        "title": "Humans can't endure temperatures and humidities as high as previously thought.",
+        "domain": "psu.edu",
+        "category": "science",
+        "link": "https://www.psu.edu/news/research/story/humans-cant-endure-temperatures-and-humidities-high-previously-thought/",
+        "timestamp": 1656500444,
+        "sentiment": -4,
+        "published": "June 29, 2022 7:00 AM"
+    },
+    {
+        "title": "FCC Commissioner urges Google and Apple to ban TikTok",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/fcc-commissioner-google-facebook-ban-tik-tok-064559992.html",
+        "timestamp": 1656500640,
+        "sentiment": 0,
+        "published": "June 29, 2022 7:04 AM"
+    },
+    {
+        "title": "Early human ancestors one million years older than earlier thought",
+        "domain": "theguardian.com",
+        "category": "science",
+        "link": "https://www.theguardian.com/science/2022/jun/28/early-human-ancestors-one-million-years-older-than-earlier-thought",
+        "timestamp": 1656502417,
+        "sentiment": -4,
+        "published": "June 29, 2022 7:33 AM"
+    },
+    {
+        "title": "Citizens denied expected rate increases as private rates soar",
+        "domain": "abcactionnews.com",
+        "category": "miami",
+        "link": "https://www.abcactionnews.com/news/price-of-paradise/citizens-property-insurance-denied-expected-rate-increases-as-more-companies-halt-new-policies",
+        "timestamp": 1656503031,
+        "sentiment": 1,
+        "published": "June 29, 2022 7:43 AM"
+    },
+    {
+        "title": "New Firefox privacy feature strips URLs of tracking parameters",
+        "domain": "bleepingcomputer.com",
+        "category": "technology",
+        "link": "https://www.bleepingcomputer.com/news/security/new-firefox-privacy-feature-strips-urls-of-tracking-parameters/",
+        "timestamp": 1656504041,
+        "sentiment": 0,
+        "published": "June 29, 2022 8:00 AM"
+    },
+    {
+        "title": "‘It was very fast’: A shuttle service starts free rides from this Tri-Rail station",
+        "domain": "sun-sentinel.com",
+        "category": "florida",
+        "link": "https://www.sun-sentinel.com/news/transportation/fl-ne-freebee-free-rides-20220629-dox3pjoqf5htvjq3hqwau4ajse-story.html",
+        "timestamp": 1656504103,
+        "sentiment": 0,
+        "published": "June 29, 2022 8:01 AM"
+    },
+    {
         "title": "Americans Will Soon Have to Pay a Fee to Enter Europe",
         "domain": "thrillist.com",
         "category": "worldnews",
@@ -63,42 +216,6 @@
         "published": "June 29, 2022 3:44 AM"
     },
     {
-        "title": "25,000 Russians have been killed in Ukraine, says UK Defence secretary",
-        "domain": "msn.com",
-        "category": "worldnews",
-        "link": "https://www.msn.com/en-xl/news/other/25-000-russians-have-been-killed-in-ukraine-says-uk-defence-secretary/ar-AAYZgun",
-        "timestamp": 1656494863,
-        "sentiment": 1,
-        "published": "June 29, 2022 5:27 AM"
-    },
-    {
-        "title": "I saw first-hand how US tech giants seduced the EU – and undermined democracy",
-        "domain": "theguardian.com",
-        "category": "technology",
-        "link": "https://www.theguardian.com/commentisfree/2022/jun/28/i-saw-first-hand-tech-giants-seduced-eu-google-meta",
-        "timestamp": 1656495989,
-        "sentiment": -2,
-        "published": "June 29, 2022 5:46 AM"
-    },
-    {
-        "title": "Inside the nuclear-powered ‘flying hotel’ that can stay airborne for months",
-        "domain": "independent.co.uk",
-        "category": "technology",
-        "link": "https://www.independent.co.uk/travel/news-and-advice/sky-cruise-flying-hotel-ai-nuclear-b2110050.html",
-        "timestamp": 1656496069,
-        "sentiment": -2,
-        "published": "June 29, 2022 5:47 AM"
-    },
-    {
-        "title": "Simultaneous Extreme Weather Created Dangerous Conditions In U.S. The drought increased temperatures by about a half a degree on average, but in some areas, particularly forested areas, it was four degrees higher over the course of an entire week",
-        "domain": "hub.jhu.edu",
-        "category": "science",
-        "link": "https://hub.jhu.edu/2022/06/28/extreme-weather-created-dangerous-cascades/",
-        "timestamp": 1656496323,
-        "sentiment": 0,
-        "published": "June 29, 2022 5:52 AM"
-    },
-    {
         "title": "If Anyone is Wondering Why DeSantis Does What He Does the Answer is $3.6Million.",
         "domain": "floridapolitics.com",
         "category": "florida",
@@ -106,33 +223,6 @@
         "timestamp": 1656499891,
         "sentiment": 0,
         "published": "June 29, 2022 6:51 AM"
-    },
-    {
-        "title": "Humans can't endure temperatures and humidities as high as previously thought.",
-        "domain": "psu.edu",
-        "category": "science",
-        "link": "https://www.psu.edu/news/research/story/humans-cant-endure-temperatures-and-humidities-high-previously-thought/",
-        "timestamp": 1656500444,
-        "sentiment": 0,
-        "published": "June 29, 2022 7:00 AM"
-    },
-    {
-        "title": "FCC Commissioner urges Google and Apple to ban TikTok",
-        "domain": "engadget.com",
-        "category": "technology",
-        "link": "https://www.engadget.com/fcc-commissioner-google-facebook-ban-tik-tok-064559992.html",
-        "timestamp": 1656500640,
-        "sentiment": -2,
-        "published": "June 29, 2022 7:04 AM"
-    },
-    {
-        "title": "Citizens denied expected rate increases as private rates soar",
-        "domain": "abcactionnews.com",
-        "category": "miami",
-        "link": "https://www.abcactionnews.com/news/price-of-paradise/citizens-property-insurance-denied-expected-rate-increases-as-more-companies-halt-new-policies",
-        "timestamp": 1656503031,
-        "sentiment": 0,
-        "published": "June 29, 2022 7:43 AM"
     },
     {
         "title": "COVID was twice as deadly in poorer countries",
@@ -1672,15 +1762,6 @@
         "timestamp": 1656410372,
         "sentiment": -7,
         "published": "June 28, 2022 5:59 AM"
-    },
-    {
-        "title": "Indian government censors tweets critical of Indian internet censorship",
-        "domain": "entrackr.com",
-        "category": "nottheonion",
-        "link": "https://entrackr.com/2022/06/indian-government-censors-tweets-critical-of-indian-internet-censorship/",
-        "timestamp": 1656410641,
-        "sentiment": -7,
-        "published": "June 28, 2022 6:04 AM"
     },
     {
         "title": "U.S. Supreme Court takes aim at separation of church and state",
