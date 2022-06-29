@@ -5,8 +5,17 @@
         "category": "worldnews",
         "link": "https://www.abc.net.au/news/2022-06-29/hindu-man-decapitated-in-india/101192510",
         "timestamp": 1656477735,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 29, 2022 12:42 AM"
+    },
+    {
+        "title": "Kiss thank Austrian fans by showing Australian flag",
+        "domain": "loudersound.com",
+        "category": "nottheonion",
+        "link": "https://www.loudersound.com/news/kiss-thank-austrian-fans-by-showing-australian-flag",
+        "timestamp": 1656480073,
+        "sentiment": 4,
+        "published": "June 29, 2022 1:21 AM"
     },
     {
         "title": "Indonesia’s president to bar Putin from G-20 gathering in Bali, Italian Prime Minister Draghi says",
@@ -23,8 +32,26 @@
         "category": "worldnews",
         "link": "https://english.kyodonews.net/news/2022/06/8d52463bd475-zelenskyy-calls-russia-terror-state-demands-expulsion-from-un.html",
         "timestamp": 1656482609,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 29, 2022 2:03 AM"
+    },
+    {
+        "title": "COVID was twice as deadly in poorer countries",
+        "domain": "nature.com",
+        "category": "science",
+        "link": "https://www.nature.com/articles/d41586-022-01767-z",
+        "timestamp": 1656483464,
+        "sentiment": -5,
+        "published": "June 29, 2022 2:17 AM"
+    },
+    {
+        "title": "Americans Will Soon Have to Pay a Fee to Enter Europe",
+        "domain": "thrillist.com",
+        "category": "worldnews",
+        "link": "https://www.thrillist.com/news/nation/european-entry-changes-travelers-fee",
+        "timestamp": 1656488693,
+        "sentiment": -5,
+        "published": "June 29, 2022 3:44 AM"
     },
     {
         "title": "A mystery rocket crashed into the moon – and no one (on Earth) is owning up",
