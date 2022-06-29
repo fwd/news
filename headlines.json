@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.abc.net.au/news/2022-06-29/hindu-man-decapitated-in-india/101192510",
         "timestamp": 1656477735,
-        "sentiment": -5,
+        "sentiment": 1,
         "published": "June 29, 2022 12:42 AM"
     },
     {
@@ -14,8 +14,17 @@
         "category": "nottheonion",
         "link": "https://www.loudersound.com/news/kiss-thank-austrian-fans-by-showing-australian-flag",
         "timestamp": 1656480073,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 29, 2022 1:21 AM"
+    },
+    {
+        "title": "Citizen of the EU in this sub, it’s your time to shine. Link for the initiative in the comments",
+        "domain": "vegconomist.com",
+        "category": "UpliftingNews",
+        "link": "https://vegconomist.com/politics-law/end-the-slaughter-age/",
+        "timestamp": 1656480371,
+        "sentiment": 0,
+        "published": "June 29, 2022 1:26 AM"
     },
     {
         "title": "Indonesia’s president to bar Putin from G-20 gathering in Bali, Italian Prime Minister Draghi says",
@@ -32,8 +41,98 @@
         "category": "worldnews",
         "link": "https://english.kyodonews.net/news/2022/06/8d52463bd475-zelenskyy-calls-russia-terror-state-demands-expulsion-from-un.html",
         "timestamp": 1656482609,
-        "sentiment": -5,
+        "sentiment": 1,
         "published": "June 29, 2022 2:03 AM"
+    },
+    {
+        "title": "U.S. FCC commissioner wants Apple and Google to remove TikTok from their app stores",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/06/29/fcc-commissioner-tells-apple-google-to-remove-tiktok-from-app-stores.html",
+        "timestamp": 1656483177,
+        "sentiment": 0,
+        "published": "June 29, 2022 2:12 AM"
+    },
+    {
+        "title": "Americans Will Soon Have to Pay a Fee to Enter Europe",
+        "domain": "thrillist.com",
+        "category": "worldnews",
+        "link": "https://www.thrillist.com/news/nation/european-entry-changes-travelers-fee",
+        "timestamp": 1656488693,
+        "sentiment": 1,
+        "published": "June 29, 2022 3:44 AM"
+    },
+    {
+        "title": "25,000 Russians have been killed in Ukraine, says UK Defence secretary",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-xl/news/other/25-000-russians-have-been-killed-in-ukraine-says-uk-defence-secretary/ar-AAYZgun",
+        "timestamp": 1656494863,
+        "sentiment": 1,
+        "published": "June 29, 2022 5:27 AM"
+    },
+    {
+        "title": "I saw first-hand how US tech giants seduced the EU – and undermined democracy",
+        "domain": "theguardian.com",
+        "category": "technology",
+        "link": "https://www.theguardian.com/commentisfree/2022/jun/28/i-saw-first-hand-tech-giants-seduced-eu-google-meta",
+        "timestamp": 1656495989,
+        "sentiment": -2,
+        "published": "June 29, 2022 5:46 AM"
+    },
+    {
+        "title": "Inside the nuclear-powered ‘flying hotel’ that can stay airborne for months",
+        "domain": "independent.co.uk",
+        "category": "technology",
+        "link": "https://www.independent.co.uk/travel/news-and-advice/sky-cruise-flying-hotel-ai-nuclear-b2110050.html",
+        "timestamp": 1656496069,
+        "sentiment": -2,
+        "published": "June 29, 2022 5:47 AM"
+    },
+    {
+        "title": "Simultaneous Extreme Weather Created Dangerous Conditions In U.S. The drought increased temperatures by about a half a degree on average, but in some areas, particularly forested areas, it was four degrees higher over the course of an entire week",
+        "domain": "hub.jhu.edu",
+        "category": "science",
+        "link": "https://hub.jhu.edu/2022/06/28/extreme-weather-created-dangerous-cascades/",
+        "timestamp": 1656496323,
+        "sentiment": 0,
+        "published": "June 29, 2022 5:52 AM"
+    },
+    {
+        "title": "If Anyone is Wondering Why DeSantis Does What He Does the Answer is $3.6Million.",
+        "domain": "floridapolitics.com",
+        "category": "florida",
+        "link": "https://floridapolitics.com/archives/535708-ron-desantis-raised-more-than-3-6m-in-first-half-of-june/",
+        "timestamp": 1656499891,
+        "sentiment": 0,
+        "published": "June 29, 2022 6:51 AM"
+    },
+    {
+        "title": "Humans can't endure temperatures and humidities as high as previously thought.",
+        "domain": "psu.edu",
+        "category": "science",
+        "link": "https://www.psu.edu/news/research/story/humans-cant-endure-temperatures-and-humidities-high-previously-thought/",
+        "timestamp": 1656500444,
+        "sentiment": 0,
+        "published": "June 29, 2022 7:00 AM"
+    },
+    {
+        "title": "FCC Commissioner urges Google and Apple to ban TikTok",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/fcc-commissioner-google-facebook-ban-tik-tok-064559992.html",
+        "timestamp": 1656500640,
+        "sentiment": -2,
+        "published": "June 29, 2022 7:04 AM"
+    },
+    {
+        "title": "Citizens denied expected rate increases as private rates soar",
+        "domain": "abcactionnews.com",
+        "category": "miami",
+        "link": "https://www.abcactionnews.com/news/price-of-paradise/citizens-property-insurance-denied-expected-rate-increases-as-more-companies-halt-new-policies",
+        "timestamp": 1656503031,
+        "sentiment": 0,
+        "published": "June 29, 2022 7:43 AM"
     },
     {
         "title": "COVID was twice as deadly in poorer countries",
@@ -43,15 +142,6 @@
         "timestamp": 1656483464,
         "sentiment": -5,
         "published": "June 29, 2022 2:17 AM"
-    },
-    {
-        "title": "Americans Will Soon Have to Pay a Fee to Enter Europe",
-        "domain": "thrillist.com",
-        "category": "worldnews",
-        "link": "https://www.thrillist.com/news/nation/european-entry-changes-travelers-fee",
-        "timestamp": 1656488693,
-        "sentiment": -5,
-        "published": "June 29, 2022 3:44 AM"
     },
     {
         "title": "A mystery rocket crashed into the moon – and no one (on Earth) is owning up",
