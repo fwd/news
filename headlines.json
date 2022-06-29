@@ -18,15 +18,6 @@
         "published": "June 29, 2022 1:21 AM"
     },
     {
-        "title": "Citizen of the EU in this sub, it’s your time to shine. Link for the initiative in the comments",
-        "domain": "vegconomist.com",
-        "category": "UpliftingNews",
-        "link": "https://vegconomist.com/politics-law/end-the-slaughter-age/",
-        "timestamp": 1656480371,
-        "sentiment": 0,
-        "published": "June 29, 2022 1:26 AM"
-    },
-    {
         "title": "Indonesia’s president to bar Putin from G-20 gathering in Bali, Italian Prime Minister Draghi says",
         "domain": "yahoo.com",
         "category": "UpliftingNews",
@@ -43,15 +34,6 @@
         "timestamp": 1656482609,
         "sentiment": 0,
         "published": "June 29, 2022 2:03 AM"
-    },
-    {
-        "title": "U.S. FCC commissioner wants Apple and Google to remove TikTok from their app stores",
-        "domain": "cnbc.com",
-        "category": "news",
-        "link": "https://www.cnbc.com/2022/06/29/fcc-commissioner-tells-apple-google-to-remove-tiktok-from-app-stores.html",
-        "timestamp": 1656483177,
-        "sentiment": 0,
-        "published": "June 29, 2022 2:12 AM"
     },
     {
         "title": "Indian government censors tweets critical of Indian internet censorship",
@@ -77,7 +59,7 @@
         "category": "news",
         "link": "https://www.carriagetownenews.com/lawsuit-female-inmates-were-assaulted-raped-in-clark-county-jail/article_104ca949-7e9d-5649-9831-9c69e93db7b6.html",
         "timestamp": 1656492831,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 29, 2022 4:53 AM"
     },
     {
@@ -135,13 +117,13 @@
         "published": "June 29, 2022 6:11 AM"
     },
     {
-        "title": "Harvard Lawyers Don't Think That Piracy is Theft, Research Finds",
-        "domain": "torrentfreak.com",
-        "category": "news",
-        "link": "https://torrentfreak.com/harvard-lawyers-dont-think-that-piracy-is-theft-research-finds-220626/",
-        "timestamp": 1656498375,
+        "title": "U.S. FCC commissioner wants Apple and Google to remove TikTok from their app stores",
+        "domain": "cnbc.com",
+        "category": "technology",
+        "link": "https://www.cnbc.com/2022/06/29/fcc-commissioner-tells-apple-google-to-remove-tiktok-from-app-stores.html",
+        "timestamp": 1656499565,
         "sentiment": 0,
-        "published": "June 29, 2022 6:26 AM"
+        "published": "June 29, 2022 6:46 AM"
     },
     {
         "title": "At NATO summit, Biden announces permanent U.S. troop presence in Poland, increased support for Europe",
@@ -151,6 +133,15 @@
         "timestamp": 1656499829,
         "sentiment": 0,
         "published": "June 29, 2022 6:50 AM"
+    },
+    {
+        "title": "3 Americans found dead at a Sandals in the Bahamas last month died due to carbon monoxide poisoning, police say",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/06/28/americas/sandals-bahamas-resort-deaths-carbon-monoxide-police/index.html",
+        "timestamp": 1656499876,
+        "sentiment": -3,
+        "published": "June 29, 2022 6:51 AM"
     },
     {
         "title": "Humans can't endure temperatures and humidities as high as previously thought.",
@@ -171,6 +162,24 @@
         "published": "June 29, 2022 7:04 AM"
     },
     {
+        "title": "Trump Throws New Tantrum After Former Aide Exposes Jan. 6 Tantrum",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/trump-truth-social-tantrum-jan-6-hearing-1375762/",
+        "timestamp": 1656501660,
+        "sentiment": -1,
+        "published": "June 29, 2022 7:21 AM"
+    },
+    {
+        "title": "A \"coin flip\": Nearly half of U.S. murders go unsolved as cases rise",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/unsolved-murders-crime-without-punishment/",
+        "timestamp": 1656501911,
+        "sentiment": -3,
+        "published": "June 29, 2022 7:25 AM"
+    },
+    {
         "title": "Early human ancestors one million years older than earlier thought",
         "domain": "theguardian.com",
         "category": "science",
@@ -180,13 +189,49 @@
         "published": "June 29, 2022 7:33 AM"
     },
     {
+        "title": "Progressive Delia Ramirez Defeats Billionaire PAC Money to Win Illinois Primary | \"Billionaires and their super PACs are spending millions to defeat progressive candidates,\" said Sen. Bernie Sanders, who endorsed Ramirez. \"They have the money, but we've got the people.\"",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/06/29/progressive-delia-ramirez-defeats-billionaire-pac-money-win-illinois-primary",
+        "timestamp": 1656502704,
+        "sentiment": -1,
+        "published": "June 29, 2022 7:38 AM"
+    },
+    {
         "title": "Citizens denied expected rate increases as private rates soar",
         "domain": "abcactionnews.com",
         "category": "miami",
         "link": "https://www.abcactionnews.com/news/price-of-paradise/citizens-property-insurance-denied-expected-rate-increases-as-more-companies-halt-new-policies",
         "timestamp": 1656503031,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 29, 2022 7:43 AM"
+    },
+    {
+        "title": "Facebook Removing Posts About Mailing Abortion Pills—But Not Guns | \"Corporations are not your allies in the advancement of civil rights,\" said one observer.",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/06/28/facebook-removing-posts-about-mailing-abortion-pills-not-guns",
+        "timestamp": 1656503355,
+        "sentiment": -1,
+        "published": "June 29, 2022 7:49 AM"
+    },
+    {
+        "title": "Alabama cites Roe decision in urging court to let state ban trans health care",
+        "domain": "axios.com",
+        "category": "politics",
+        "link": "https://www.axios.com/2022/06/28/alabama-roe-supreme-court-block-trans-health-care",
+        "timestamp": 1656503460,
+        "sentiment": -1,
+        "published": "June 29, 2022 7:51 AM"
+    },
+    {
+        "title": "Limiting global warming to 1.5°C would reduce risks to humans by up to 85%",
+        "domain": "eurekalert.org",
+        "category": "science",
+        "link": "https://www.eurekalert.org/news-releases/957245",
+        "timestamp": 1656503664,
+        "sentiment": -4,
+        "published": "June 29, 2022 7:54 AM"
     },
     {
         "title": "New Firefox privacy feature strips URLs of tracking parameters",
@@ -198,6 +243,15 @@
         "published": "June 29, 2022 8:00 AM"
     },
     {
+        "title": "Texas sheriff says he ‘will not persecute’ those seeking an abortion | Javier Salazar posted on Facebook that he would not use his power to ‘impose the morals’ of others on those ‘exercising a right’",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2022/jun/29/texas-sheriff-abortion-javier-salazar",
+        "timestamp": 1656504048,
+        "sentiment": -1,
+        "published": "June 29, 2022 8:00 AM"
+    },
+    {
         "title": "‘It was very fast’: A shuttle service starts free rides from this Tri-Rail station",
         "domain": "sun-sentinel.com",
         "category": "florida",
@@ -205,6 +259,42 @@
         "timestamp": 1656504103,
         "sentiment": 0,
         "published": "June 29, 2022 8:01 AM"
+    },
+    {
+        "title": "California DOJ data breach exposes personal information of all concealed carry permit holders across state",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/california-doj-data-breach-exposes-personal-information-concealed-carr-rcna35849",
+        "timestamp": 1656506293,
+        "sentiment": -3,
+        "published": "June 29, 2022 8:38 AM"
+    },
+    {
+        "title": "Couple bought home in Seattle, then learned Comcast Internet would cost $27,000 - City \"has no authority to require Comcast\" to connect unserved homes.",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/tech-policy/2022/06/couple-bought-home-in-seattle-then-learned-comcast-internet-would-cost-27000/",
+        "timestamp": 1656506601,
+        "sentiment": 0,
+        "published": "June 29, 2022 8:43 AM"
+    },
+    {
+        "title": "Citizen of the EU in this sub, it’s your time to shine. Link for the initiative in the comments",
+        "domain": "vegconomist.com",
+        "category": "UpliftingNews",
+        "link": "https://vegconomist.com/politics-law/end-the-slaughter-age/",
+        "timestamp": 1656480371,
+        "sentiment": 0,
+        "published": "June 29, 2022 1:26 AM"
+    },
+    {
+        "title": "Harvard Lawyers Don't Think That Piracy is Theft, Research Finds",
+        "domain": "torrentfreak.com",
+        "category": "news",
+        "link": "https://torrentfreak.com/harvard-lawyers-dont-think-that-piracy-is-theft-research-finds-220626/",
+        "timestamp": 1656498375,
+        "sentiment": 0,
+        "published": "June 29, 2022 6:26 AM"
     },
     {
         "title": "Americans Will Soon Have to Pay a Fee to Enter Europe",
