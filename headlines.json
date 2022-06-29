@@ -14,7 +14,7 @@
         "category": "nottheonion",
         "link": "https://www.loudersound.com/news/kiss-thank-austrian-fans-by-showing-australian-flag",
         "timestamp": 1656480073,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 29, 2022 1:21 AM"
     },
     {
@@ -36,21 +36,12 @@
         "published": "June 29, 2022 2:03 AM"
     },
     {
-        "title": "Indian government censors tweets critical of Indian internet censorship",
-        "domain": "entrackr.com",
-        "category": "nottheonion",
-        "link": "https://entrackr.com/2022/06/indian-government-censors-tweets-critical-of-indian-internet-censorship/",
-        "timestamp": 1656487282,
-        "sentiment": -2,
-        "published": "June 29, 2022 3:21 AM"
-    },
-    {
         "title": "Russian hacker group Kilnet launches attack on Norway, after Russian goods are stopped from being transported to Russian settlement on the Norwegian island of Svalbard.",
         "domain": "www-nrk-no.translate.goog",
         "category": "ukraine",
         "link": "https://www-nrk-no.translate.goog/norge/russisk-hackergruppe-skal-ha-startet-angrep-mot-norge-1.16020947?_x_tr_sl=no&_x_tr_tl=en&_x_tr_hl=no&_x_tr_pto=wapp",
         "timestamp": 1656492659,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 29, 2022 4:50 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "news",
         "link": "https://www.carriagetownenews.com/lawsuit-female-inmates-were-assaulted-raped-in-clark-county-jail/article_104ca949-7e9d-5649-9831-9c69e93db7b6.html",
         "timestamp": 1656492831,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 29, 2022 4:53 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/TpyxaNews/status/1542059507752353792",
         "timestamp": 1656493678,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 29, 2022 5:07 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "science",
         "link": "https://hub.jhu.edu/2022/06/28/extreme-weather-created-dangerous-cascades/",
         "timestamp": 1656496323,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 29, 2022 5:52 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/28/americas/sandals-bahamas-resort-deaths-carbon-monoxide-police/index.html",
         "timestamp": 1656499876,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 29, 2022 6:51 AM"
     },
     {
@@ -149,7 +140,7 @@
         "category": "science",
         "link": "https://www.psu.edu/news/research/story/humans-cant-endure-temperatures-and-humidities-high-previously-thought/",
         "timestamp": 1656500444,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 29, 2022 7:00 AM"
     },
     {
@@ -167,7 +158,7 @@
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-news/trump-truth-social-tantrum-jan-6-hearing-1375762/",
         "timestamp": 1656501660,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "June 29, 2022 7:21 AM"
     },
     {
@@ -176,7 +167,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/unsolved-murders-crime-without-punishment/",
         "timestamp": 1656501911,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 29, 2022 7:25 AM"
     },
     {
@@ -185,7 +176,7 @@
         "category": "science",
         "link": "https://www.theguardian.com/science/2022/jun/28/early-human-ancestors-one-million-years-older-than-earlier-thought",
         "timestamp": 1656502417,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 29, 2022 7:33 AM"
     },
     {
@@ -194,7 +185,16 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/06/29/progressive-delia-ramirez-defeats-billionaire-pac-money-win-illinois-primary",
         "timestamp": 1656502704,
-        "sentiment": -1,
+        "sentiment": 2,
+        "published": "June 29, 2022 7:38 AM"
+    },
+    {
+        "title": "Stephanie Grisham shared texts that appear to show how Melania Trump refused to condemn violence during the Capitol riot",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/stephanie-grisham-shares-melania-trump-capitol-riot-texts-2022-6",
+        "timestamp": 1656502725,
+        "sentiment": 2,
         "published": "June 29, 2022 7:38 AM"
     },
     {
@@ -203,7 +203,7 @@
         "category": "miami",
         "link": "https://www.abcactionnews.com/news/price-of-paradise/citizens-property-insurance-denied-expected-rate-increases-as-more-companies-halt-new-policies",
         "timestamp": 1656503031,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "June 29, 2022 7:43 AM"
     },
     {
@@ -212,8 +212,26 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/06/28/facebook-removing-posts-about-mailing-abortion-pills-not-guns",
         "timestamp": 1656503355,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "June 29, 2022 7:49 AM"
+    },
+    {
+        "title": "The Supreme Court has undermined U.S. credibility on human rights",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/opinions/2022/06/29/supreme-court-undermined-us-credibility-human-rights-women-abortion/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJpZCI6IjI0MTE3NjY0IiwicmVhc29uIjoiZ2lmdCIsIm5iZiI6MTY1NjUwMzMwOCwiaXNzIjoic3Vic2NyaXB0aW9ucyIsImV4cCI6MTY1NzcxMjkwOCwiaWF0IjoxNjU2NTAzMzA4LCJqdGkiOiIzNzQ0M2RmMS04YWRmLTQ4MTQtOGEwNy1lNTE3M2NiMDRiNDYiLCJ1cmwiOiJodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vb3BpbmlvbnMvMjAyMi8wNi8yOS9zdXByZW1lLWNvdXJ0LXVuZGVybWluZWQtdXMtY3JlZGliaWxpdHktaHVtYW4tcmlnaHRzLXdvbWVuLWFib3J0aW9uLyJ9.R8TEgNDVSZvQr3wHHr3DEzFTNTRgNctm0XMfgEm9FY8&itid=gfta",
+        "timestamp": 1656503355,
+        "sentiment": 2,
+        "published": "June 29, 2022 7:49 AM"
+    },
+    {
+        "title": "R&B singer R. Kelly to be sentenced for luring women, girls for sex",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/legal/government/rb-singer-r-kelly-be-sentenced-luring-women-girls-sex-2022-06-29/",
+        "timestamp": 1656503435,
+        "sentiment": -2,
+        "published": "June 29, 2022 7:50 AM"
     },
     {
         "title": "Alabama cites Roe decision in urging court to let state ban trans health care",
@@ -221,7 +239,7 @@
         "category": "politics",
         "link": "https://www.axios.com/2022/06/28/alabama-roe-supreme-court-block-trans-health-care",
         "timestamp": 1656503460,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "June 29, 2022 7:51 AM"
     },
     {
@@ -230,7 +248,7 @@
         "category": "science",
         "link": "https://www.eurekalert.org/news-releases/957245",
         "timestamp": 1656503664,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 29, 2022 7:54 AM"
     },
     {
@@ -248,7 +266,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/us-news/2022/jun/29/texas-sheriff-abortion-javier-salazar",
         "timestamp": 1656504048,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "June 29, 2022 8:00 AM"
     },
     {
@@ -257,7 +275,7 @@
         "category": "florida",
         "link": "https://www.sun-sentinel.com/news/transportation/fl-ne-freebee-free-rides-20220629-dox3pjoqf5htvjq3hqwau4ajse-story.html",
         "timestamp": 1656504103,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 29, 2022 8:01 AM"
     },
     {
@@ -266,7 +284,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/california-doj-data-breach-exposes-personal-information-concealed-carr-rcna35849",
         "timestamp": 1656506293,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "June 29, 2022 8:38 AM"
     },
     {
@@ -277,6 +295,114 @@
         "timestamp": 1656506601,
         "sentiment": 0,
         "published": "June 29, 2022 8:43 AM"
+    },
+    {
+        "title": "Symptoms of depression decrease with improvements in sense of smell, particularly among patients with dysosmia",
+        "domain": "psypost.org",
+        "category": "science",
+        "link": "https://www.psypost.org/2022/06/symptoms-of-depression-decrease-with-improvements-in-sense-of-smell-particularly-among-patients-with-dysosmia-63405",
+        "timestamp": 1656507060,
+        "sentiment": 0,
+        "published": "June 29, 2022 8:51 AM"
+    },
+    {
+        "title": "NATO formally invites Finland and Sweden to join the alliance",
+        "domain": "hs.fi",
+        "category": "worldnews",
+        "link": "https://www.hs.fi/politiikka/art-2000008910124.html",
+        "timestamp": 1656507355,
+        "sentiment": 0,
+        "published": "June 29, 2022 8:55 AM"
+    },
+    {
+        "title": "Seals, Porpoises 'Shout' at Each Other to Be Heard Due to Noise Pollution",
+        "domain": "newsweek.com",
+        "category": "nottheonion",
+        "link": "http://newsweek.com/seals-porpoises-shout-each-other-heard-due-noise-pollution-1720002",
+        "timestamp": 1656508311,
+        "sentiment": -3,
+        "published": "June 29, 2022 9:11 AM"
+    },
+    {
+        "title": "'Obi-Wan Kenobi' Was Originally Pitched as a Full Movie Trilogy",
+        "domain": "ign.com",
+        "category": "television",
+        "link": "https://www.ign.com/articles/star-wars-obi-wan-kenobi-film-trilogy",
+        "timestamp": 1656508723,
+        "sentiment": 0,
+        "published": "June 29, 2022 9:18 AM"
+    },
+    {
+        "title": "Only 1 in 5 people in the U.S. has optimal heart health",
+        "domain": "eurekalert.org",
+        "category": "science",
+        "link": "https://www.eurekalert.org/news-releases/957199",
+        "timestamp": 1656509184,
+        "sentiment": 0,
+        "published": "June 29, 2022 9:26 AM"
+    },
+    {
+        "title": "Man eating Big Mac at Texas checkpoint was suspicious. Feds say he was smuggling meth",
+        "domain": "star-telegram.com",
+        "category": "nottheonion",
+        "link": "https://www.star-telegram.com/news/state/texas/article262970208.html",
+        "timestamp": 1656509965,
+        "sentiment": -3,
+        "published": "June 29, 2022 9:39 AM"
+    },
+    {
+        "title": "2 NC workers fired for not joining company's daily Christian devotionals, EEOC says",
+        "domain": "abc11.com",
+        "category": "news",
+        "link": "https://abc11.com/nc-workers-fired-not-joining-aurora-pro-services-daily-prayer-devotion-eeoc-atheist/12001573/",
+        "timestamp": 1656510186,
+        "sentiment": -2,
+        "published": "June 29, 2022 9:43 AM"
+    },
+    {
+        "title": "Rabbi’s suit over Florida abortion law tests bounds of religious objections after Roe",
+        "domain": "miamiherald.com",
+        "category": "FLgovernment",
+        "link": "https://www.miamiherald.com/news/politics-government/state-politics/article262964903.html",
+        "timestamp": 1656510973,
+        "sentiment": -1,
+        "published": "June 29, 2022 9:56 AM"
+    },
+    {
+        "title": "95-year-old Muskogee County woman donates ranch to Oklahoma State University",
+        "domain": "fox23.com",
+        "category": "UpliftingNews",
+        "link": "https://www.fox23.com/news/95-year-old-muskogee-county-woman-donates-ranch-oklahoma-state-university/R4NGMGDFERDTRAONX34AESSXC4/?utm_campaign=trueAnthem_manual&utm_medium=trueAnthem&utm_source=facebook&fbclid=IwAR1fN41V5tKcOhicluaPDQNPlrg2WoTZgxLuM6OLn5pSxaxyOwJe_DXS6zs&fs=e&s=cl",
+        "timestamp": 1656511298,
+        "sentiment": 0,
+        "published": "June 29, 2022 10:01 AM"
+    },
+    {
+        "title": "Jason Momoa-Starring ‘See’ to End With Season 3 at Apple TV+",
+        "domain": "thewrap.com",
+        "category": "television",
+        "link": "https://www.thewrap.com/see-jason-momoa-apple-tv-plus-first-look-season-3/",
+        "timestamp": 1656511377,
+        "sentiment": 0,
+        "published": "June 29, 2022 10:02 AM"
+    },
+    {
+        "title": "Bruce's Beach returned to family nearly a century after seizure",
+        "domain": "bbc.co.uk",
+        "category": "UpliftingNews",
+        "link": "https://www.bbc.co.uk/news/world-us-canada-61981785",
+        "timestamp": 1656512204,
+        "sentiment": 0,
+        "published": "June 29, 2022 10:16 AM"
+    },
+    {
+        "title": "Indian government censors tweets critical of Indian internet censorship",
+        "domain": "entrackr.com",
+        "category": "nottheonion",
+        "link": "https://entrackr.com/2022/06/indian-government-censors-tweets-critical-of-indian-internet-censorship/",
+        "timestamp": 1656487282,
+        "sentiment": -2,
+        "published": "June 29, 2022 3:21 AM"
     },
     {
         "title": "Citizen of the EU in this sub, it’s your time to shine. Link for the initiative in the comments",
