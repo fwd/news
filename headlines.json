@@ -1,20 +1,11 @@
 [
     {
-        "title": "Hindu tailor decapitated on camera in India for sharing right-wing comment online",
-        "domain": "abc.net.au",
-        "category": "worldnews",
-        "link": "https://www.abc.net.au/news/2022-06-29/hindu-man-decapitated-in-india/101192510",
-        "timestamp": 1656477735,
-        "sentiment": 1,
-        "published": "June 29, 2022 12:42 AM"
-    },
-    {
         "title": "Indonesia’s president to bar Putin from G-20 gathering in Bali, Italian Prime Minister Draghi says",
         "domain": "yahoo.com",
         "category": "UpliftingNews",
         "link": "https://www.yahoo.com/finance/m/4521c758-10ce-31e7-b16c-111d694f52c7/indonesia%E2%80%99s-president-to-bar.html",
         "timestamp": 1656481695,
-        "sentiment": 4,
+        "sentiment": 1,
         "published": "June 29, 2022 1:48 AM"
     },
     {
@@ -32,7 +23,7 @@
         "category": "news",
         "link": "https://www.carriagetownenews.com/lawsuit-female-inmates-were-assaulted-raped-in-clark-county-jail/article_104ca949-7e9d-5649-9831-9c69e93db7b6.html",
         "timestamp": 1656492831,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 29, 2022 4:53 AM"
     },
     {
@@ -45,31 +36,13 @@
         "published": "June 29, 2022 5:27 AM"
     },
     {
-        "title": "I saw first-hand how US tech giants seduced the EU – and undermined democracy",
-        "domain": "theguardian.com",
-        "category": "technology",
-        "link": "https://www.theguardian.com/commentisfree/2022/jun/28/i-saw-first-hand-tech-giants-seduced-eu-google-meta",
-        "timestamp": 1656495989,
-        "sentiment": -1,
-        "published": "June 29, 2022 5:46 AM"
-    },
-    {
         "title": "Simultaneous Extreme Weather Created Dangerous Conditions In U.S. The drought increased temperatures by about a half a degree on average, but in some areas, particularly forested areas, it was four degrees higher over the course of an entire week",
         "domain": "hub.jhu.edu",
         "category": "science",
         "link": "https://hub.jhu.edu/2022/06/28/extreme-weather-created-dangerous-cascades/",
         "timestamp": 1656496323,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 29, 2022 5:52 AM"
-    },
-    {
-        "title": "Norway hit by massive cyber-attack",
-        "domain": "dagbladet.no",
-        "category": "worldnews",
-        "link": "https://www.dagbladet.no/nyheter/truer-familien-til-jens/76487713",
-        "timestamp": 1656497491,
-        "sentiment": 1,
-        "published": "June 29, 2022 6:11 AM"
     },
     {
         "title": "U.S. FCC commissioner wants Apple and Google to remove TikTok from their app stores",
@@ -77,7 +50,7 @@
         "category": "technology",
         "link": "https://www.cnbc.com/2022/06/29/fcc-commissioner-tells-apple-google-to-remove-tiktok-from-app-stores.html",
         "timestamp": 1656499565,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 29, 2022 6:46 AM"
     },
     {
@@ -95,7 +68,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/28/americas/sandals-bahamas-resort-deaths-carbon-monoxide-police/index.html",
         "timestamp": 1656499876,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 29, 2022 6:51 AM"
     },
     {
@@ -104,7 +77,7 @@
         "category": "science",
         "link": "https://www.psu.edu/news/research/story/humans-cant-endure-temperatures-and-humidities-high-previously-thought/",
         "timestamp": 1656500444,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 29, 2022 7:00 AM"
     },
     {
@@ -113,7 +86,7 @@
         "category": "technology",
         "link": "https://www.engadget.com/fcc-commissioner-google-facebook-ban-tik-tok-064559992.html",
         "timestamp": 1656500640,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 29, 2022 7:04 AM"
     },
     {
@@ -126,12 +99,21 @@
         "published": "June 29, 2022 7:21 AM"
     },
     {
+        "title": "Biden and NATO leaders prepare to beef up alliance forces and set the stage for Finland and Sweden to join their ranks",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2022/06/29/politics/joe-biden-nato-day-2/index.html",
+        "timestamp": 1656501837,
+        "sentiment": 1,
+        "published": "June 29, 2022 7:23 AM"
+    },
+    {
         "title": "A \"coin flip\": Nearly half of U.S. murders go unsolved as cases rise",
         "domain": "cbsnews.com",
         "category": "news",
         "link": "https://www.cbsnews.com/news/unsolved-murders-crime-without-punishment/",
         "timestamp": 1656501911,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 29, 2022 7:25 AM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "science",
         "link": "https://www.theguardian.com/science/2022/jun/28/early-human-ancestors-one-million-years-older-than-earlier-thought",
         "timestamp": 1656502417,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 29, 2022 7:33 AM"
     },
     {
@@ -185,7 +167,7 @@
         "category": "news",
         "link": "https://www.reuters.com/legal/government/rb-singer-r-kelly-be-sentenced-luring-women-girls-sex-2022-06-29/",
         "timestamp": 1656503435,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 29, 2022 7:50 AM"
     },
     {
@@ -203,7 +185,7 @@
         "category": "science",
         "link": "https://www.eurekalert.org/news-releases/957245",
         "timestamp": 1656503664,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 29, 2022 7:54 AM"
     },
     {
@@ -221,7 +203,7 @@
         "category": "technology",
         "link": "https://www.bleepingcomputer.com/news/security/new-firefox-privacy-feature-strips-urls-of-tracking-parameters/",
         "timestamp": 1656504041,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 29, 2022 8:00 AM"
     },
     {
@@ -239,7 +221,7 @@
         "category": "florida",
         "link": "https://www.sun-sentinel.com/news/transportation/fl-ne-freebee-free-rides-20220629-dox3pjoqf5htvjq3hqwau4ajse-story.html",
         "timestamp": 1656504103,
-        "sentiment": 0,
+        "sentiment": -7,
         "published": "June 29, 2022 8:01 AM"
     },
     {
@@ -248,7 +230,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/california-doj-data-breach-exposes-personal-information-concealed-carr-rcna35849",
         "timestamp": 1656506293,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 29, 2022 8:38 AM"
     },
     {
@@ -257,17 +239,8 @@
         "category": "technology",
         "link": "https://arstechnica.com/tech-policy/2022/06/couple-bought-home-in-seattle-then-learned-comcast-internet-would-cost-27000/",
         "timestamp": 1656506601,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 29, 2022 8:43 AM"
-    },
-    {
-        "title": "Sweden and Finland Set To Join NATO After Turkey Drops Hold",
-        "domain": "newsflector.com",
-        "category": "worldnews",
-        "link": "https://newsflector.com/sweden-and-finland-set-to-join-nato-after-turkey-drops-hold/",
-        "timestamp": 1656506941,
-        "sentiment": 1,
-        "published": "June 29, 2022 8:49 AM"
     },
     {
         "title": "Symptoms of depression decrease with improvements in sense of smell, particularly among patients with dysosmia",
@@ -275,7 +248,7 @@
         "category": "science",
         "link": "https://www.psypost.org/2022/06/symptoms-of-depression-decrease-with-improvements-in-sense-of-smell-particularly-among-patients-with-dysosmia-63405",
         "timestamp": 1656507060,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 29, 2022 8:51 AM"
     },
     {
@@ -329,7 +302,7 @@
         "category": "news",
         "link": "https://www.cbc.ca/news/canada/ottawa/freedom-convoy-hearings-judge-threatened-1.6502747",
         "timestamp": 1656508944,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 29, 2022 9:22 AM"
     },
     {
@@ -338,7 +311,7 @@
         "category": "science",
         "link": "https://www.eurekalert.org/news-releases/957199",
         "timestamp": 1656509184,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "June 29, 2022 9:26 AM"
     },
     {
@@ -365,7 +338,7 @@
         "category": "news",
         "link": "https://abc11.com/nc-workers-fired-not-joining-aurora-pro-services-daily-prayer-devotion-eeoc-atheist/12001573/",
         "timestamp": 1656510186,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 29, 2022 9:43 AM"
     },
     {
@@ -401,7 +374,7 @@
         "category": "UpliftingNews",
         "link": "https://www.fox23.com/news/95-year-old-muskogee-county-woman-donates-ranch-oklahoma-state-university/R4NGMGDFERDTRAONX34AESSXC4/?utm_campaign=trueAnthem_manual&utm_medium=trueAnthem&utm_source=facebook&fbclid=IwAR1fN41V5tKcOhicluaPDQNPlrg2WoTZgxLuM6OLn5pSxaxyOwJe_DXS6zs&fs=e&s=cl",
         "timestamp": 1656511298,
-        "sentiment": 4,
+        "sentiment": 1,
         "published": "June 29, 2022 10:01 AM"
     },
     {
@@ -428,7 +401,7 @@
         "category": "technology",
         "link": "https://www.cnn.com/2022/06/28/business/ftc-walmart-lawsuit/index.html",
         "timestamp": 1656511975,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 29, 2022 10:12 AM"
     },
     {
@@ -437,8 +410,35 @@
         "category": "UpliftingNews",
         "link": "https://www.bbc.co.uk/news/world-us-canada-61981785",
         "timestamp": 1656512204,
-        "sentiment": 4,
+        "sentiment": 1,
         "published": "June 29, 2022 10:16 AM"
+    },
+    {
+        "title": "Japan hails Sweden's \"historic\" decision to join NATO",
+        "domain": "english.kyodonews.net",
+        "category": "worldnews",
+        "link": "https://english.kyodonews.net/news/2022/06/e01eb8455020-japan-hails-swedens-historic-decision-to-join-nato.html",
+        "timestamp": 1656512283,
+        "sentiment": 1,
+        "published": "June 29, 2022 10:18 AM"
+    },
+    {
+        "title": "California DOJ data breach exposes personal information of all concealed carry permit holders across state | The breach occurred as part of the state Department of Justice’s launch of its “2022 Firearms Dashboard Portal,” officials said.",
+        "domain": "nbcnews.com",
+        "category": "technology",
+        "link": "https://www.nbcnews.com/news/us-news/california-doj-data-breach-exposes-personal-information-concealed-carr-rcna35849",
+        "timestamp": 1656513549,
+        "sentiment": 0,
+        "published": "June 29, 2022 10:39 AM"
+    },
+    {
+        "title": "Vladimir Putin is a 'lunatic' who suffers from 'small man syndrome'",
+        "domain": "metro.co.uk",
+        "category": "worldnews",
+        "link": "https://metro.co.uk/2022/06/29/vladimir-putin-is-a-lunatic-who-suffers-from-small-man-syndrome-16913946/",
+        "timestamp": 1656513692,
+        "sentiment": 1,
+        "published": "June 29, 2022 10:41 AM"
     },
     {
         "title": "'We Don't Prefer You': 'Jeopardy!' co-host Mayim Bialik says fans openly tell her they prefer Ken Jennings as quizmaster",
@@ -450,13 +450,40 @@
         "published": "June 29, 2022 10:47 AM"
     },
     {
+        "title": "FBI opens sweeping probe of clergy sex abuse in New Orleans",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/new-orleans-clergy-sex-abuse-fbi-investigation-0d0ee865d27508b7848909d8e82e87fb",
+        "timestamp": 1656514206,
+        "sentiment": 0,
+        "published": "June 29, 2022 10:50 AM"
+    },
+    {
+        "title": "Baker’s yeast with human muscle genes",
+        "domain": "tudelft.nl",
+        "category": "science",
+        "link": "https://www.tudelft.nl/en/2022/tnw/bakers-yeast-with-human-muscle-genes",
+        "timestamp": 1656514392,
+        "sentiment": -4,
+        "published": "June 29, 2022 10:53 AM"
+    },
+    {
         "title": "Truth Social's refusal to use Amazon servers added to tech troubles and huge waiting list at launch, report says",
         "domain": "businessinsider.com",
         "category": "technology",
         "link": "https://www.businessinsider.com/truth-socials-refusal-to-use-amazon-servers-added-to-chaos-reuters-2022-6",
         "timestamp": 1656514519,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 29, 2022 10:55 AM"
+    },
+    {
+        "title": "Hugh Grant To Play Zeus In Netflix’s Greek Mythology Reimagining ‘Kaos’ From Creator Charlie Covell; Janet McTeer, Cliff Curtis & David Thewlis Among Additional Series Regulars",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/06/hugh-grant-janet-mcteer-cliff-curtis-more-join-netflix-series-kaos-1235053456/",
+        "timestamp": 1656514899,
+        "sentiment": 0,
+        "published": "June 29, 2022 11:01 AM"
     },
     {
         "title": "Man, who got paid 286 times his salary, resigns and disappears",
@@ -473,8 +500,89 @@
         "category": "UpliftingNews",
         "link": "https://www.gaytimes.co.uk/life/spain-approves-landmark-bill-making-it-easier-for-trans-youth-to-change-gender",
         "timestamp": 1656515531,
-        "sentiment": 4,
+        "sentiment": 1,
         "published": "June 29, 2022 11:12 AM"
+    },
+    {
+        "title": "Qatar fails to offer World Cup safety guarantees to LGBTQ+ fans | World Cup 2022",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/football/2022/jun/29/qatar-fails-to-offer-world-cup-safety-guarantees-to-lgbtq-fans?utm_term=Autofeed&CMP=twt_gu&utm_medium&utm_source=Twitter#Echobox=1656508320",
+        "timestamp": 1656516347,
+        "sentiment": 0,
+        "published": "June 29, 2022 11:25 AM"
+    },
+    {
+        "title": "Hillary Clinton endorses Jared Moskowitz in Democratic congressional primary",
+        "domain": "sun-sentinel.com",
+        "category": "FLgovernment",
+        "link": "https://www.sun-sentinel.com/news/politics/fl-ne-hillary-clinton-jared-moskowitz-endorsement-20220628-kgtdajwzvjchnpal32ag7sciru-story.html",
+        "timestamp": 1656517693,
+        "sentiment": -1,
+        "published": "June 29, 2022 11:48 AM"
+    },
+    {
+        "title": "Florida: Teachers Slam Republican Governor Ron DeSantis’ ‘Disturbing’ New Civics Curriculum That Downplays The Separation Of Church And State And The History Of Slavery In America",
+        "domain": "thedailybeast.com",
+        "category": "florida",
+        "link": "https://www.thedailybeast.com/teachers-slam-florida-gov-ron-desantis-disturbing-new-civics-curriculum?via=mobile&source=Reddit",
+        "timestamp": 1656520604,
+        "sentiment": -7,
+        "published": "June 29, 2022 12:36 PM"
+    },
+    {
+        "title": "5 Florida tax holidays start July 1, find out where to save",
+        "domain": "wfla.com",
+        "category": "florida",
+        "link": "https://www.wfla.com/news/florida/5-florida-tax-holidays-start-july-1-find-out-where-to-save/",
+        "timestamp": 1656520912,
+        "sentiment": -7,
+        "published": "June 29, 2022 12:41 PM"
+    },
+    {
+        "title": "Fewer than 50% of Florida high schoolers pass reading FSA",
+        "domain": "wfla.com",
+        "category": "florida",
+        "link": "https://www.wfla.com/news/education/fewer-than-50-of-florida-high-schoolers-pass-reading-fsa/",
+        "timestamp": 1656520966,
+        "sentiment": -7,
+        "published": "June 29, 2022 12:42 PM"
+    },
+    {
+        "title": "Hindu tailor decapitated on camera in India for sharing right-wing comment online",
+        "domain": "abc.net.au",
+        "category": "worldnews",
+        "link": "https://www.abc.net.au/news/2022-06-29/hindu-man-decapitated-in-india/101192510",
+        "timestamp": 1656477735,
+        "sentiment": 1,
+        "published": "June 29, 2022 12:42 AM"
+    },
+    {
+        "title": "I saw first-hand how US tech giants seduced the EU – and undermined democracy",
+        "domain": "theguardian.com",
+        "category": "technology",
+        "link": "https://www.theguardian.com/commentisfree/2022/jun/28/i-saw-first-hand-tech-giants-seduced-eu-google-meta",
+        "timestamp": 1656495989,
+        "sentiment": -1,
+        "published": "June 29, 2022 5:46 AM"
+    },
+    {
+        "title": "Norway hit by massive cyber-attack",
+        "domain": "dagbladet.no",
+        "category": "worldnews",
+        "link": "https://www.dagbladet.no/nyheter/truer-familien-til-jens/76487713",
+        "timestamp": 1656497491,
+        "sentiment": 1,
+        "published": "June 29, 2022 6:11 AM"
+    },
+    {
+        "title": "Sweden and Finland Set To Join NATO After Turkey Drops Hold",
+        "domain": "newsflector.com",
+        "category": "worldnews",
+        "link": "https://newsflector.com/sweden-and-finland-set-to-join-nato-after-turkey-drops-hold/",
+        "timestamp": 1656506941,
+        "sentiment": 1,
+        "published": "June 29, 2022 8:49 AM"
     },
     {
         "title": "Kiss thank Austrian fans by showing Australian flag",
