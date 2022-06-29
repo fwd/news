@@ -1,20 +1,11 @@
 [
     {
-        "title": "Putin will be held responsible for shopping centre 'war crime', say G7",
-        "domain": "euronews.com",
-        "category": "worldnews",
-        "link": "https://www.euronews.com/2022/06/28/ukraine-war-putin-will-be-held-responsible-for-shopping-centre-war-crime-say-g7-leaders",
-        "timestamp": 1656396967,
-        "sentiment": 2,
-        "published": "June 28, 2022 2:16 AM"
-    },
-    {
         "title": "A mystery rocket crashed into the moon – and no one (on Earth) is owning up",
         "domain": "smh.com.au",
         "category": "technology",
         "link": "https://www.smh.com.au/world/north-america/a-mystery-rocket-crashed-into-the-moon-and-no-one-on-earth-is-owning-up-20220628-p5ax4x.html",
         "timestamp": 1656405400,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 28, 2022 4:36 AM"
     },
     {
@@ -23,7 +14,7 @@
         "category": "UpliftingNews",
         "link": "https://m.timesofindia.com/city/agra/headmaster-turns-firozabad-school-into-a-green-oasis-with-help-of-students/articleshow/92153660.cms",
         "timestamp": 1656409320,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 28, 2022 5:42 AM"
     },
     {
@@ -32,7 +23,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/facebook-instagram-remove-abortion-pill-posts-roe-overturned-reports-2022-6",
         "timestamp": 1656410206,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 28, 2022 5:56 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "worldnews",
         "link": "https://timesofmalta.com/articles/view/us-couple-sue-maltese-government-abortion-denial.964625",
         "timestamp": 1656411466,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 28, 2022 6:17 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/jun/28/peaceful-pro-choice-protests-violence-attacks-police",
         "timestamp": 1656417246,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "June 28, 2022 7:54 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/bayraktar-firm-refuses-20m-says-will-donate-drones-to-ukraine-2022-6",
         "timestamp": 1656418439,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 28, 2022 8:13 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/zelenskyy-says-russia-bombed-a-shopping-mall-because-seeing-ukrainians-try-to-live-a-normal-life-made-it-angry/ar-AAYXdIk?ocid=EMMX&cvid=be5cde58d28a4e86beac15e45fe759ca",
         "timestamp": 1656419302,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 28, 2022 8:28 AM"
     },
     {
@@ -117,15 +108,6 @@
         "published": "June 28, 2022 8:53 AM"
     },
     {
-        "title": "Boy missing for eight days in Germany found alive in sewer",
-        "domain": "news.sky.com",
-        "category": "news",
-        "link": "https://news.sky.com/story/boy-missing-for-eight-days-in-germany-found-alive-in-sewer-12641758",
-        "timestamp": 1656421398,
-        "sentiment": -2,
-        "published": "June 28, 2022 9:03 AM"
-    },
-    {
         "title": "'Only Murders in the Building' season 2 wisely sticks to a winning formula. Narrative formulas can be deeply satisfying when executed well—and none more so than that of the cozy mystery.",
         "domain": "time.com",
         "category": "television",
@@ -133,6 +115,15 @@
         "timestamp": 1656421604,
         "sentiment": 2,
         "published": "June 28, 2022 9:06 AM"
+    },
+    {
+        "title": "Boy missing for eight days in Germany found alive in sewer",
+        "domain": "news.sky.com",
+        "category": "UpliftingNews",
+        "link": "https://news.sky.com/story/boy-missing-for-eight-days-in-germany-found-alive-in-sewer-12641758",
+        "timestamp": 1656422433,
+        "sentiment": 0,
+        "published": "June 28, 2022 9:20 AM"
     },
     {
         "title": "Investment in school facilities lead to better test scores, attendance, and house prices. Each dollar spent generated $1.62 in household value, with about 24% coming directly through test score gains and 76% from capitalization of non-test-score amenities.",
@@ -149,7 +140,7 @@
         "category": "worldnews",
         "link": "https://www.walesonline.co.uk/news/politics/wales-basic-income-trial-how-24333095",
         "timestamp": 1656424179,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 28, 2022 9:49 AM"
     },
     {
@@ -185,26 +176,8 @@
         "category": "technology",
         "link": "https://www.wsj.com/articles/meta-tiktok-could-face-civil-liability-for-addicting-children-in-california-11656419401",
         "timestamp": 1656427209,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 28, 2022 10:40 AM"
-    },
-    {
-        "title": "The Pentagon said that Ukraine is very effective in using the HIMARS MLRS and other weapons",
-        "domain": "gagadget.com",
-        "category": "ukraine",
-        "link": "https://gagadget.com/en/140884-the-pentagon-said-that-ukraine-is-very-effective-in-using-the-himars-mlrs-and-other-weapons/",
-        "timestamp": 1656427637,
-        "sentiment": 3,
-        "published": "June 28, 2022 10:47 AM"
-    },
-    {
-        "title": "Nativity School in Worcester says donations pouring in following controversy over Black Lives Matter, Pride flags",
-        "domain": "cbsnews.com",
-        "category": "UpliftingNews",
-        "link": "https://www.cbsnews.com/boston/news/worcester-nativity-school-donations-black-lives-matter-pride-flags/",
-        "timestamp": 1656428754,
-        "sentiment": -1,
-        "published": "June 28, 2022 11:05 AM"
     },
     {
         "title": "The #1 Period Tracker on the App Store Will Hand Over Data Without a Warrant",
@@ -212,7 +185,7 @@
         "category": "technology",
         "link": "https://www.vice.com/en/article/y3pgvg/the-1-period-tracker-on-the-app-store-will-hand-over-data-without-a-warrant?utm_source=fark&utm_medium=website&utm_content=link&ICID=ref_fark",
         "timestamp": 1656428864,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 28, 2022 11:07 AM"
     },
     {
@@ -221,7 +194,7 @@
         "category": "news",
         "link": "https://www.nbcmiami.com/news/local/new-florida-law-makes-blasting-music-in-car-a-punishable-offense/2791819/",
         "timestamp": 1656429670,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "June 28, 2022 11:21 AM"
     },
     {
@@ -239,7 +212,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/wireStory/texas-official-death-count-san-antonio-migrant-tragedy-85856695",
         "timestamp": 1656430937,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "June 28, 2022 11:42 AM"
     },
     {
@@ -257,7 +230,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/texas-judge-blocks-enforcement-pre-roe-v-wade-abortion-ban-clinics-lawyers-2022-06-28/",
         "timestamp": 1656433615,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "June 28, 2022 12:26 PM"
     },
     {
@@ -275,7 +248,7 @@
         "category": "ukraine",
         "link": "https://www.foxnews.com/world/russia-warns-ukraine-attempts-retake-crimea-seen-declaration-war",
         "timestamp": 1656433910,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 28, 2022 12:31 PM"
     },
     {
@@ -311,7 +284,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/polish-court-rules-that-four-lgbt-free-zones-must-be-abolished-2022-06-28/",
         "timestamp": 1656437132,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 28, 2022 1:25 PM"
     },
     {
@@ -329,7 +302,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/jan-6-trump-armed-committee-b2111429.html",
         "timestamp": 1656438923,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 28, 2022 1:55 PM"
     },
     {
@@ -347,7 +320,7 @@
         "category": "politics",
         "link": "https://www.cnbc.com/2022/06/28/trump-lunged-at-secret-service-agent-in-rage-when-told-he-couldnt-go-to-capitol-on-jan-6-aide-testifies.html",
         "timestamp": 1656439530,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 28, 2022 2:05 PM"
     },
     {
@@ -365,7 +338,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-jan-6-hearing-hutchinson-b2111444.html",
         "timestamp": 1656440049,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 28, 2022 2:14 PM"
     },
     {
@@ -383,7 +356,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/visegrad24/status/1541849023090401281?s=21&t=-fQh0rkW3N6QCfJWE7VdOA",
         "timestamp": 1656440855,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 28, 2022 2:27 PM"
     },
     {
@@ -392,7 +365,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/wireStory/ghislaine-maxwell-sentenced-20-years-prison-helping-millionaire-85875088",
         "timestamp": 1656441274,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "June 28, 2022 2:34 PM"
     },
     {
@@ -401,16 +374,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/finnish-president-niinisto-says-turkey-has-agreed-back-finnish-swedish-nato-2022-06-28/",
         "timestamp": 1656441321,
-        "sentiment": 2,
-        "published": "June 28, 2022 2:35 PM"
-    },
-    {
-        "title": "Trump said 'I don't effing care that they have weapons. They're not here to hurt me' as an angry mob avoided metal detectors at his January 6 speech: ex-aide testimony",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/trump-weapons-january-6-crowd-dont-fucking-care-2022-6",
-        "timestamp": 1656441344,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 28, 2022 2:35 PM"
     },
     {
@@ -419,7 +383,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/nato-turkey-agrees-to-back-finland-and-swedens-bid-to-join-alliance-12642100",
         "timestamp": 1656441866,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 28, 2022 2:44 PM"
     },
     {
@@ -428,7 +392,7 @@
         "category": "politics",
         "link": "https://www.latimes.com/world-nation/story/2022-06-28/trump-strangle-secret-service-capitol-jan-6",
         "timestamp": 1656441984,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 28, 2022 2:46 PM"
     },
     {
@@ -437,7 +401,7 @@
         "category": "technology",
         "link": "https://www.space.com/curiosity-mars-rover-samples-ingredients-life",
         "timestamp": 1656442775,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 28, 2022 2:59 PM"
     },
     {
@@ -446,7 +410,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/general-mike-flynn-fifth-amendment-january-6-violence-justified-2022-6",
         "timestamp": 1656443060,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 28, 2022 3:04 PM"
     },
     {
@@ -464,7 +428,7 @@
         "category": "ukraine",
         "link": "https://www.navalnews.com/naval-news/2022/06/usa-supplying-ukraine-with-over-20-metal-shark-military-vessels/",
         "timestamp": 1656443306,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 28, 2022 3:08 PM"
     },
     {
@@ -473,7 +437,7 @@
         "category": "UpliftingNews",
         "link": "https://actu.epfl.ch/news/new-pet-like-plastic-made-directly-from-waste-biom/",
         "timestamp": 1656443567,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 28, 2022 3:12 PM"
     },
     {
@@ -504,12 +468,21 @@
         "published": "June 28, 2022 3:27 PM"
     },
     {
+        "title": "U.S. supplying Ukraine with more than 20 military vessels",
+        "domain": "workboat.com",
+        "category": "UpliftingNews",
+        "link": "https://www.workboat.com/shipbuilding/u-s-supplying-ukraine-with-more-than-20-metal-shark-military-vessels?utm_source=social&utm_medium=reddit&utm_campaign=5msocial",
+        "timestamp": 1656444739,
+        "sentiment": 0,
+        "published": "June 28, 2022 3:32 PM"
+    },
+    {
         "title": "January 6 committee has ‘very serious concerns’ Trump allies are trying to tamper with testimony",
         "domain": "independent.co.uk",
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/jan-6-trump-witness-tampering-b2111494.html",
         "timestamp": 1656445402,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 28, 2022 3:43 PM"
     },
     {
@@ -518,7 +491,7 @@
         "category": "UpliftingNews",
         "link": "https://www.npr.org/2022/06/28/1108157921/arizona-native-americans-free-tuition?utm_medium=social&utm_term=nprnews&utm_campaign=npr&utm_source=twitter.com",
         "timestamp": 1656445700,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 28, 2022 3:48 PM"
     },
     {
@@ -527,7 +500,7 @@
         "category": "technology",
         "link": "https://www.hollywoodreporter.com/business/digital/instagram-abortion-posts-1235173212/",
         "timestamp": 1656445816,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 28, 2022 3:50 PM"
     },
     {
@@ -545,7 +518,7 @@
         "category": "news",
         "link": "https://news4sanantonio.com/news/local/man-arrested-after-threatening-to-commit-mass-shooting-arrest-report-said-investigation-sanantonio-rifle-weapons-detectives",
         "timestamp": 1656446427,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "June 28, 2022 4:00 PM"
     },
     {
@@ -554,7 +527,7 @@
         "category": "UpliftingNews",
         "link": "https://notesfrompoland.com/2022/06/27/single-family-houses-to-no-longer-require-planning-permits-in-poland-in-bid-to-boost-housing/",
         "timestamp": 1656446616,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 28, 2022 4:03 PM"
     },
     {
@@ -563,7 +536,7 @@
         "category": "worldnews",
         "link": "https://www.arabnews.com/node/2112331/middle-east",
         "timestamp": 1656447211,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 28, 2022 4:13 PM"
     },
     {
@@ -581,7 +554,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/state-watch/3539994-nyc-mayor-says-giuliani-should-be-investigated-to-falsely-report-a-crime-is-a-crime/",
         "timestamp": 1656447608,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 28, 2022 4:20 PM"
     },
     {
@@ -590,17 +563,8 @@
         "category": "technology",
         "link": "https://www.psypost.org/2022/06/sexualized-video-games-are-not-causing-harm-to-male-or-female-players-according-to-new-research-63388",
         "timestamp": 1656449068,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 28, 2022 4:44 PM"
-    },
-    {
-        "title": "People are getting explosive gastroenteritis at the Grand Canyon",
-        "domain": "arstechnica.com",
-        "category": "nottheonion",
-        "link": "https://arstechnica.com/science/2022/06/the-grand-canyon-is-brimming-with-norovirus-sickening-over-150/",
-        "timestamp": 1656449138,
-        "sentiment": 4,
-        "published": "June 28, 2022 4:45 PM"
     },
     {
         "title": "Disney CEO Bob Chapek Secures New Long-Term Contract",
@@ -617,7 +581,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/losangeles/news/airbnb-ban-house-parties-permanent/",
         "timestamp": 1656449160,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "June 28, 2022 4:46 PM"
     },
     {
@@ -630,22 +594,31 @@
         "published": "June 28, 2022 4:56 PM"
     },
     {
+        "title": "Ukraine: By delivering 18 CEASARs France lose 1/4 of its equipment",
+        "domain": "lopinion.fr",
+        "category": "ukraine",
+        "link": "https://www.lopinion.fr/international/ukraine-en-livrant-18-canons-caesar-larmee-francaise-perd-le-quart-de-son-equipement",
+        "timestamp": 1656450501,
+        "sentiment": 0,
+        "published": "June 28, 2022 5:08 PM"
+    },
+    {
         "title": "President Zelensky calls on UN to deprive Russia of its powers in General Assembly for violating the Charter",
         "domain": "ukrinform.net",
         "category": "ukraine",
         "link": "https://www.ukrinform.net/rubric-polytics/3517488-president-zelensky-calls-on-un-to-deprive-russia-of-its-powers-in-general-assembly-for-violating-the-charter.html",
         "timestamp": 1656450985,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 28, 2022 5:16 PM"
     },
     {
-        "title": "As censorship in China increases, VPNs are becoming more important",
-        "domain": "economist.com",
-        "category": "technology",
-        "link": "https://www.economist.com/china/2022/06/28/as-censorship-in-china-increases-vpns-are-becoming-more-important",
-        "timestamp": 1656451939,
-        "sentiment": 2,
-        "published": "June 28, 2022 5:32 PM"
+        "title": "Rep. Liz Cheney Says Trump Allies Have Been Intimidating Jan. 6 Witnesses",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/liz-cheney-trump-allies-intimidate-jan-6-witnesses_n_62bb4fb9e4b080fb670b33f6",
+        "timestamp": 1656451635,
+        "sentiment": 0,
+        "published": "June 28, 2022 5:27 PM"
     },
     {
         "title": "Serena Williams loses first singles match in nearly a year, beat at Wimbledon by 115th-ranked Harmony Tan in three sets",
@@ -671,7 +644,7 @@
         "category": "UpliftingNews",
         "link": "https://www.npr.org/2022/06/28/1108157921/arizona-native-americans-free-tuition",
         "timestamp": 1656454064,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 28, 2022 6:07 PM"
     },
     {
@@ -689,7 +662,7 @@
         "category": "worldnews",
         "link": "https://nationalpost.com/news/canada-slips-further-away-from-natos-2-defence-spending-benchmark",
         "timestamp": 1656454720,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 28, 2022 6:18 PM"
     },
     {
@@ -698,7 +671,7 @@
         "category": "politics",
         "link": "https://www.msnbc.com/rachel-maddow-show/maddowblog/sotomayor-says-gorsuch-flubbed-prayer-case-facts-s-right-rcna35644",
         "timestamp": 1656454869,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 28, 2022 6:21 PM"
     },
     {
@@ -725,7 +698,7 @@
         "category": "politics",
         "link": "https://truthout.org/articles/majority-of-americans-say-its-time-to-place-term-limits-on-the-supreme-court/",
         "timestamp": 1656456089,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 28, 2022 6:41 PM"
     },
     {
@@ -743,7 +716,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/sumlenny/status/1541891722573189120",
         "timestamp": 1656457281,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "June 28, 2022 7:01 PM"
     },
     {
@@ -761,7 +734,7 @@
         "category": "news",
         "link": "https://edition.cnn.com/2022/06/28/health/emergency-contraception-purchase-limit-plan-b/index.html",
         "timestamp": 1656458454,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "June 28, 2022 7:20 PM"
     },
     {
@@ -774,12 +747,21 @@
         "published": "June 28, 2022 7:39 PM"
     },
     {
+        "title": "Boris Johnson claims Putin would not have invaded Ukraine if he was a woman",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jun/29/boris-johnson-claims-putin-would-not-have-invaded-ukraine-if-he-was-a-woman",
+        "timestamp": 1656460152,
+        "sentiment": 0,
+        "published": "June 28, 2022 7:49 PM"
+    },
+    {
         "title": "After 5 years of using a blank keyboard, I don't recommend it",
         "domain": "pcgamer.com",
         "category": "technology",
         "link": "https://www.pcgamer.com/blank-keycaps-das-keyboard-ultimate/",
         "timestamp": 1656462010,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 28, 2022 8:20 PM"
     },
     {
@@ -788,7 +770,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/report-tesla-laid-off-about-200-people-in-autopilot-unit-2022-6?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1656462869,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 28, 2022 8:34 PM"
     },
     {
@@ -799,6 +781,15 @@
         "timestamp": 1656463299,
         "sentiment": 4,
         "published": "June 28, 2022 8:41 PM"
+    },
+    {
+        "title": "Ernst & Young fined $100 million after employees cheated on CPA exams",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/06/28/business/ernst-and-young-sec-cheating-fine/index.html",
+        "timestamp": 1656464144,
+        "sentiment": -6,
+        "published": "June 28, 2022 8:55 PM"
     },
     {
         "title": "Teachers alarmed by state’s infusing religion, downplaying race in civics training",
@@ -815,7 +806,7 @@
         "category": "UpliftingNews",
         "link": "https://www.reuters.com/world/europe/us-press-turkey-finland-sweden-hope-nato-breakthrough-2022-06-28/",
         "timestamp": 1656465003,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 28, 2022 9:10 PM"
     },
     {
@@ -824,8 +815,89 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/28/us/virginia-car-death-father-suicide/index.html",
         "timestamp": 1656465387,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "June 28, 2022 9:16 PM"
+    },
+    {
+        "title": "Disney, Apple and Amazon keep waiting as NFL considers Sunday Ticket offers",
+        "domain": "cnbc.com",
+        "category": "television",
+        "link": "https://www.cnbc.com/2022/06/24/disney-apple-and-amazon-keep-waiting-as-nfl-considers-sunday-ticket-offers.html",
+        "timestamp": 1656467264,
+        "sentiment": 2,
+        "published": "June 28, 2022 9:47 PM"
+    },
+    {
+        "title": "A Heat Wave Derailed a Train Outside San Francisco",
+        "domain": "gizmodo.com",
+        "category": "technology",
+        "link": "https://gizmodo.com/heat-wave-derails-bart-train-in-concord-climate-change-1849114266",
+        "timestamp": 1656468414,
+        "sentiment": -2,
+        "published": "June 28, 2022 10:06 PM"
+    },
+    {
+        "title": "Court tells Miami gunman who went on racist tirade he is banned from pretending to be a Navy SEAL",
+        "domain": "stripes.com",
+        "category": "nottheonion",
+        "link": "https://www.stripes.com/theaters/us/2022-06-28/miami-gunman-fake-navy-seal-6485436.html",
+        "timestamp": 1656469121,
+        "sentiment": 4,
+        "published": "June 28, 2022 10:18 PM"
+    },
+    {
+        "title": "Putin will be held responsible for shopping centre 'war crime', say G7",
+        "domain": "euronews.com",
+        "category": "worldnews",
+        "link": "https://www.euronews.com/2022/06/28/ukraine-war-putin-will-be-held-responsible-for-shopping-centre-war-crime-say-g7-leaders",
+        "timestamp": 1656396967,
+        "sentiment": 2,
+        "published": "June 28, 2022 2:16 AM"
+    },
+    {
+        "title": "The Pentagon said that Ukraine is very effective in using the HIMARS MLRS and other weapons",
+        "domain": "gagadget.com",
+        "category": "ukraine",
+        "link": "https://gagadget.com/en/140884-the-pentagon-said-that-ukraine-is-very-effective-in-using-the-himars-mlrs-and-other-weapons/",
+        "timestamp": 1656427637,
+        "sentiment": 3,
+        "published": "June 28, 2022 10:47 AM"
+    },
+    {
+        "title": "Nativity School in Worcester says donations pouring in following controversy over Black Lives Matter, Pride flags",
+        "domain": "cbsnews.com",
+        "category": "UpliftingNews",
+        "link": "https://www.cbsnews.com/boston/news/worcester-nativity-school-donations-black-lives-matter-pride-flags/",
+        "timestamp": 1656428754,
+        "sentiment": -1,
+        "published": "June 28, 2022 11:05 AM"
+    },
+    {
+        "title": "Trump said 'I don't effing care that they have weapons. They're not here to hurt me' as an angry mob avoided metal detectors at his January 6 speech: ex-aide testimony",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-weapons-january-6-crowd-dont-fucking-care-2022-6",
+        "timestamp": 1656441344,
+        "sentiment": -4,
+        "published": "June 28, 2022 2:35 PM"
+    },
+    {
+        "title": "People are getting explosive gastroenteritis at the Grand Canyon",
+        "domain": "arstechnica.com",
+        "category": "nottheonion",
+        "link": "https://arstechnica.com/science/2022/06/the-grand-canyon-is-brimming-with-norovirus-sickening-over-150/",
+        "timestamp": 1656449138,
+        "sentiment": 4,
+        "published": "June 28, 2022 4:45 PM"
+    },
+    {
+        "title": "As censorship in China increases, VPNs are becoming more important",
+        "domain": "economist.com",
+        "category": "technology",
+        "link": "https://www.economist.com/china/2022/06/28/as-censorship-in-china-increases-vpns-are-becoming-more-important",
+        "timestamp": 1656451939,
+        "sentiment": 2,
+        "published": "June 28, 2022 5:32 PM"
     },
     {
         "title": "GOP Rep. Boebert: ‘I’m tired of this separation of church and state junk’",
@@ -934,15 +1006,6 @@
         "timestamp": 1656427474,
         "sentiment": 3,
         "published": "June 28, 2022 10:44 AM"
-    },
-    {
-        "title": "U.S. supplying Ukraine with more than 20 military vessels",
-        "domain": "workboat.com",
-        "category": "UpliftingNews",
-        "link": "https://www.workboat.com/shipbuilding/u-s-supplying-ukraine-with-more-than-20-metal-shark-military-vessels?utm_source=social&utm_medium=reddit&utm_campaign=5msocial",
-        "timestamp": 1656444739,
-        "sentiment": 0,
-        "published": "June 28, 2022 3:32 PM"
     },
     {
         "title": "Ernst & Young hit with $100 million fine after auditors cheat on ethics exam",
