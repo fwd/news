@@ -1,39 +1,12 @@
 [
     {
-        "title": "Kiss thank Austrian fans by showing Australian flag",
-        "domain": "loudersound.com",
-        "category": "nottheonion",
-        "link": "https://www.loudersound.com/news/kiss-thank-austrian-fans-by-showing-australian-flag",
-        "timestamp": 1656480073,
-        "sentiment": -2,
-        "published": "June 29, 2022 1:21 AM"
-    },
-    {
         "title": "Indonesia’s president to bar Putin from G-20 gathering in Bali, Italian Prime Minister Draghi says",
         "domain": "yahoo.com",
         "category": "UpliftingNews",
         "link": "https://www.yahoo.com/finance/m/4521c758-10ce-31e7-b16c-111d694f52c7/indonesia%E2%80%99s-president-to-bar.html",
         "timestamp": 1656481695,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "June 29, 2022 1:48 AM"
-    },
-    {
-        "title": "Zelenskyy calls Russia terror state, demands expulsion from U.N.",
-        "domain": "english.kyodonews.net",
-        "category": "worldnews",
-        "link": "https://english.kyodonews.net/news/2022/06/8d52463bd475-zelenskyy-calls-russia-terror-state-demands-expulsion-from-un.html",
-        "timestamp": 1656482609,
-        "sentiment": -2,
-        "published": "June 29, 2022 2:03 AM"
-    },
-    {
-        "title": "LAWSUIT: Female inmates were assaulted, raped in Clark County jail",
-        "domain": "carriagetownenews.com",
-        "category": "news",
-        "link": "https://www.carriagetownenews.com/lawsuit-female-inmates-were-assaulted-raped-in-clark-county-jail/article_104ca949-7e9d-5649-9831-9c69e93db7b6.html",
-        "timestamp": 1656492831,
-        "sentiment": -6,
-        "published": "June 29, 2022 4:53 AM"
     },
     {
         "title": "25,000 Russians have been killed in Ukraine, says UK Defence secretary",
@@ -68,7 +41,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/28/americas/sandals-bahamas-resort-deaths-carbon-monoxide-police/index.html",
         "timestamp": 1656499876,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 29, 2022 6:51 AM"
     },
     {
@@ -104,7 +77,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/unsolved-murders-crime-without-punishment/",
         "timestamp": 1656501911,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 29, 2022 7:25 AM"
     },
     {
@@ -122,7 +95,7 @@
         "category": "miami",
         "link": "https://www.abcactionnews.com/news/price-of-paradise/citizens-property-insurance-denied-expected-rate-increases-as-more-companies-halt-new-policies",
         "timestamp": 1656503031,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 29, 2022 7:43 AM"
     },
     {
@@ -131,7 +104,7 @@
         "category": "news",
         "link": "https://www.reuters.com/legal/government/rb-singer-r-kelly-be-sentenced-luring-women-girls-sex-2022-06-29/",
         "timestamp": 1656503435,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 29, 2022 7:50 AM"
     },
     {
@@ -221,7 +194,7 @@
         "category": "television",
         "link": "https://www.ign.com/articles/star-wars-obi-wan-kenobi-film-trilogy",
         "timestamp": 1656508723,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 29, 2022 9:18 AM"
     },
     {
@@ -239,7 +212,7 @@
         "category": "news",
         "link": "https://www.cbc.ca/news/canada/ottawa/freedom-convoy-hearings-judge-threatened-1.6502747",
         "timestamp": 1656508944,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 29, 2022 9:22 AM"
     },
     {
@@ -266,7 +239,7 @@
         "category": "nottheonion",
         "link": "https://www.star-telegram.com/news/state/texas/article262970208.html",
         "timestamp": 1656509965,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 29, 2022 9:39 AM"
     },
     {
@@ -275,7 +248,7 @@
         "category": "news",
         "link": "https://abc11.com/nc-workers-fired-not-joining-aurora-pro-services-daily-prayer-devotion-eeoc-atheist/12001573/",
         "timestamp": 1656510186,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 29, 2022 9:43 AM"
     },
     {
@@ -293,7 +266,7 @@
         "category": "FLgovernment",
         "link": "https://www.miamiherald.com/news/politics-government/state-politics/article262964903.html",
         "timestamp": 1656510973,
-        "sentiment": -1,
+        "sentiment": -11,
         "published": "June 29, 2022 9:56 AM"
     },
     {
@@ -320,7 +293,7 @@
         "category": "UpliftingNews",
         "link": "https://www.fox23.com/news/95-year-old-muskogee-county-woman-donates-ranch-oklahoma-state-university/R4NGMGDFERDTRAONX34AESSXC4/?utm_campaign=trueAnthem_manual&utm_medium=trueAnthem&utm_source=facebook&fbclid=IwAR1fN41V5tKcOhicluaPDQNPlrg2WoTZgxLuM6OLn5pSxaxyOwJe_DXS6zs&fs=e&s=cl",
         "timestamp": 1656511298,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "June 29, 2022 10:01 AM"
     },
     {
@@ -338,7 +311,7 @@
         "category": "television",
         "link": "https://www.thewrap.com/see-jason-momoa-apple-tv-plus-first-look-season-3/",
         "timestamp": 1656511377,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 29, 2022 10:02 AM"
     },
     {
@@ -347,7 +320,7 @@
         "category": "UpliftingNews",
         "link": "https://www.bbc.co.uk/news/world-us-canada-61981785",
         "timestamp": 1656512204,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "June 29, 2022 10:16 AM"
     },
     {
@@ -383,7 +356,7 @@
         "category": "television",
         "link": "https://www.newsweek.com/mayim-bialik-reveals-harsh-jeopardy-fan-jibes-1720155",
         "timestamp": 1656514059,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 29, 2022 10:47 AM"
     },
     {
@@ -392,7 +365,7 @@
         "category": "news",
         "link": "https://apnews.com/article/new-orleans-clergy-sex-abuse-fbi-investigation-0d0ee865d27508b7848909d8e82e87fb",
         "timestamp": 1656514206,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 29, 2022 10:50 AM"
     },
     {
@@ -401,17 +374,8 @@
         "category": "ukraine",
         "link": "https://twitter.com/KyivIndependent/status/1542157879377002496",
         "timestamp": 1656514289,
-        "sentiment": -5,
+        "sentiment": -4,
         "published": "June 29, 2022 10:51 AM"
-    },
-    {
-        "title": "Baker’s yeast with human muscle genes",
-        "domain": "tudelft.nl",
-        "category": "science",
-        "link": "https://www.tudelft.nl/en/2022/tnw/bakers-yeast-with-human-muscle-genes",
-        "timestamp": 1656514392,
-        "sentiment": 0,
-        "published": "June 29, 2022 10:53 AM"
     },
     {
         "title": "Truth Social's refusal to use Amazon servers added to tech troubles and huge waiting list at launch, report says",
@@ -428,7 +392,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/hugh-grant-janet-mcteer-cliff-curtis-more-join-netflix-series-kaos-1235053456/",
         "timestamp": 1656514899,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 29, 2022 11:01 AM"
     },
     {
@@ -437,7 +401,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/football/2022/jun/29/qatar-fails-to-offer-world-cup-safety-guarantees-to-lgbtq-fans?utm_term=Autofeed&CMP=twt_gu&utm_medium&utm_source=Twitter#Echobox=1656508320",
         "timestamp": 1656516347,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 29, 2022 11:25 AM"
     },
     {
@@ -464,7 +428,7 @@
         "category": "FLgovernment",
         "link": "https://www.sun-sentinel.com/news/politics/fl-ne-hillary-clinton-jared-moskowitz-endorsement-20220628-kgtdajwzvjchnpal32ag7sciru-story.html",
         "timestamp": 1656517693,
-        "sentiment": -1,
+        "sentiment": -11,
         "published": "June 29, 2022 11:48 AM"
     },
     {
@@ -473,7 +437,7 @@
         "category": "UpliftingNews",
         "link": "https://apnews.com/article/climate-science-united-states-and-environment-f8c74b96249163324ea07ef1d0fe73e5",
         "timestamp": 1656518184,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "June 29, 2022 11:56 AM"
     },
     {
@@ -545,7 +509,7 @@
         "category": "nottheonion",
         "link": "https://www.nbcchicago.com/entertainment/entertainment-news/caillou-is-coming-back-to-ruin-parents-lives-all-over-again/2868797/",
         "timestamp": 1656522876,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 29, 2022 1:14 PM"
     },
     {
@@ -554,7 +518,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/us-supreme-court-expands-state-power-over-tribes-win-oklahoma-2022-06-29/",
         "timestamp": 1656522996,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 29, 2022 1:16 PM"
     },
     {
@@ -572,7 +536,7 @@
         "category": "sports",
         "link": "https://www.scottishdailyexpress.co.uk/news/world-news/ukrainian-tennis-star-defends-wimbledon-27360395",
         "timestamp": 1656523223,
-        "sentiment": 8,
+        "sentiment": 0,
         "published": "June 29, 2022 1:20 PM"
     },
     {
@@ -581,7 +545,7 @@
         "category": "miami",
         "link": "https://www.thedailybeast.com/miami-residents-hit-with-vile-disney-themed-antisemitic-flyers?via=mobile&source=Reddit",
         "timestamp": 1656523630,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "June 29, 2022 1:27 PM"
     },
     {
@@ -599,7 +563,7 @@
         "category": "UpliftingNews",
         "link": "https://www.lgbtqnation.com/2022/06/bill-allow-trans-teens-right-determine-gender-advances-spain/",
         "timestamp": 1656524180,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "June 29, 2022 1:36 PM"
     },
     {
@@ -608,7 +572,7 @@
         "category": "UpliftingNews",
         "link": "https://www.guardianmag.press/2022/06/nigeria-is-turning-its-huge-cashew-waste-into-valuable-citric-acid.html/",
         "timestamp": 1656524313,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "June 29, 2022 1:38 PM"
     },
     {
@@ -617,8 +581,17 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/justified-city-primeval-ravi-patel-fx-1235054237/",
         "timestamp": 1656525010,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 29, 2022 1:50 PM"
+    },
+    {
+        "title": "NATO declares Russia its 'most direct threat,' offers Finland, Sweden membership.",
+        "domain": "dw.com",
+        "category": "news",
+        "link": "https://www.dw.com/en/nato-declares-russia-its-most-direct-threat-offers-finland-sweden-membership/a-62297662",
+        "timestamp": 1656525490,
+        "sentiment": 0,
+        "published": "June 29, 2022 1:58 PM"
     },
     {
         "title": "Michaela Coel, John Turturro, Paul Dano Join Donald Glover & Maya Erskine in ‘Mr. and Mrs. Smith’ Amazon Series (EXCLUSIVE)",
@@ -626,8 +599,26 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/michaela-coel-john-turturro-paul-dano-mr-mrs-smith-donald-glover-maya-erskine-amazon-1235306014/",
         "timestamp": 1656525685,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 29, 2022 2:01 PM"
+    },
+    {
+        "title": "Jury selected in Parkland school shooter's sentencing trial",
+        "domain": "wptv.com",
+        "category": "florida",
+        "link": "https://www.wptv.com/news/parkland-shooting/jury-selected-in-parkland-school-shooters-sentence-trial",
+        "timestamp": 1656525750,
+        "sentiment": 0,
+        "published": "June 29, 2022 2:02 PM"
+    },
+    {
+        "title": "Putin’s economy is starting to show cracks, and Russian public opinion could soon follow",
+        "domain": "yahoo.com",
+        "category": "worldnews",
+        "link": "https://www.yahoo.com/news/putins-economy-starting-to-show-cracks-and-russian-public-opinion-could-soon-follow-180404107.html",
+        "timestamp": 1656526023,
+        "sentiment": -2,
+        "published": "June 29, 2022 2:07 PM"
     },
     {
         "title": "109 live animals found in women's luggage in massive airport wildlife trafficking bust",
@@ -635,7 +626,7 @@
         "category": "nottheonion",
         "link": "https://abcnews.go.com/International/109-live-animals-found-womens-luggage-massive-airport/story?id=85921598",
         "timestamp": 1656526043,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 29, 2022 2:07 PM"
     },
     {
@@ -648,12 +639,39 @@
         "published": "June 29, 2022 2:17 PM"
     },
     {
+        "title": "One step closer to fire-safe, recyclable lithium-metal batteries",
+        "domain": "eurekalert.org",
+        "category": "science",
+        "link": "https://www.eurekalert.org/news-releases/957484",
+        "timestamp": 1656528593,
+        "sentiment": 0,
+        "published": "June 29, 2022 2:49 PM"
+    },
+    {
+        "title": "AMC’s ‘Alan Wake’ Adaptation Adds Producers Jon Jashni and Jeff Ludwig as Showrunner Peter Calloway Exits (EXCLUSIVE)",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/alan-wake-amc-showrunner-exit-1235306033/",
+        "timestamp": 1656529269,
+        "sentiment": 2,
+        "published": "June 29, 2022 3:01 PM"
+    },
+    {
+        "title": "Rudy Giuliani says NY is the \"wild, wild west\" after attack.",
+        "domain": "ustimetoday.com",
+        "category": "nottheonion",
+        "link": "https://ustimetoday.com/rudy-giuliani-says-ny-is-the-wild-wild-west-after-attack/",
+        "timestamp": 1656529468,
+        "sentiment": -1,
+        "published": "June 29, 2022 3:04 PM"
+    },
+    {
         "title": "R. Kelly sentenced to 30 years in prison in sex trafficking case after decades of preying on children and young women",
         "domain": "nbcnews.com",
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/r-kelly-sentenced-xxx-sex-trafficking-case-rcna35832",
         "timestamp": 1656529872,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "June 29, 2022 3:11 PM"
     },
     {
@@ -662,8 +680,80 @@
         "category": "sports",
         "link": "https://thethreadtimes.com/pro-putin-grandmaster-thanks-west-for-sanctions",
         "timestamp": 1656530002,
-        "sentiment": 8,
+        "sentiment": 0,
         "published": "June 29, 2022 3:13 PM"
+    },
+    {
+        "title": "Noem defends no exception for rape, incest in South Dakota trigger law",
+        "domain": "ktvq.com",
+        "category": "nottheonion",
+        "link": "https://www.ktvq.com/news/national-news/noem-defends-no-exception-for-rape-incest-in-south-dakota-trigger-law",
+        "timestamp": 1656531209,
+        "sentiment": -1,
+        "published": "June 29, 2022 3:33 PM"
+    },
+    {
+        "title": "Sky News: R Kelly sentenced to 30 years in prison - as survivors confront him over 'despicable' abuse",
+        "domain": "news.sky.com",
+        "category": "UpliftingNews",
+        "link": "https://news.sky.com/story/r-kelly-sentenced-to-30-years-in-prison-as-survivors-confront-him-over-despicable-abuse-12641871",
+        "timestamp": 1656533638,
+        "sentiment": -7,
+        "published": "June 29, 2022 4:13 PM"
+    },
+    {
+        "title": "Teachers voice concerns after Orange County previews ‘Don’t Say Gay’ impact to classrooms",
+        "domain": "wftv.com",
+        "category": "florida",
+        "link": "https://www.wftv.com/news/local/teachers-voice-concerns-after-orange-county-previews-dont-say-gay-impact-classrooms/R6VGDIOC2RFURLBUVT6TVWPDGA/",
+        "timestamp": 1656533798,
+        "sentiment": 0,
+        "published": "June 29, 2022 4:16 PM"
+    },
+    {
+        "title": "Florida Supreme Court approves DeSantis’ statewide grand jury on immigration",
+        "domain": "wfla.com",
+        "category": "FLgovernment",
+        "link": "https://www.wfla.com/news/politics/florida-supreme-court-approves-desantis-statewide-grand-jury-on-immigration/",
+        "timestamp": 1656534671,
+        "sentiment": -11,
+        "published": "June 29, 2022 4:31 PM"
+    },
+    {
+        "title": "Kiss thank Austrian fans by showing Australian flag",
+        "domain": "loudersound.com",
+        "category": "nottheonion",
+        "link": "https://www.loudersound.com/news/kiss-thank-austrian-fans-by-showing-australian-flag",
+        "timestamp": 1656480073,
+        "sentiment": -2,
+        "published": "June 29, 2022 1:21 AM"
+    },
+    {
+        "title": "Zelenskyy calls Russia terror state, demands expulsion from U.N.",
+        "domain": "english.kyodonews.net",
+        "category": "worldnews",
+        "link": "https://english.kyodonews.net/news/2022/06/8d52463bd475-zelenskyy-calls-russia-terror-state-demands-expulsion-from-un.html",
+        "timestamp": 1656482609,
+        "sentiment": -2,
+        "published": "June 29, 2022 2:03 AM"
+    },
+    {
+        "title": "LAWSUIT: Female inmates were assaulted, raped in Clark County jail",
+        "domain": "carriagetownenews.com",
+        "category": "news",
+        "link": "https://www.carriagetownenews.com/lawsuit-female-inmates-were-assaulted-raped-in-clark-county-jail/article_104ca949-7e9d-5649-9831-9c69e93db7b6.html",
+        "timestamp": 1656492831,
+        "sentiment": -6,
+        "published": "June 29, 2022 4:53 AM"
+    },
+    {
+        "title": "Baker’s yeast with human muscle genes",
+        "domain": "tudelft.nl",
+        "category": "science",
+        "link": "https://www.tudelft.nl/en/2022/tnw/bakers-yeast-with-human-muscle-genes",
+        "timestamp": 1656514392,
+        "sentiment": 0,
+        "published": "June 29, 2022 10:53 AM"
     },
     {
         "title": "Simultaneous Extreme Weather Created Dangerous Conditions In U.S. The drought increased temperatures by about a half a degree on average, but in some areas, particularly forested areas, it was four degrees higher over the course of an entire week",
