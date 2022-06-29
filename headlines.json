@@ -1,5 +1,14 @@
 [
     {
+        "title": "Hindu tailor decapitated on camera in India for sharing right-wing comment online",
+        "domain": "abc.net.au",
+        "category": "worldnews",
+        "link": "https://www.abc.net.au/news/2022-06-29/hindu-man-decapitated-in-india/101192510",
+        "timestamp": 1656477735,
+        "sentiment": 0,
+        "published": "June 29, 2022 12:42 AM"
+    },
+    {
         "title": "Indonesia’s president to bar Putin from G-20 gathering in Bali, Italian Prime Minister Draghi says",
         "domain": "yahoo.com",
         "category": "UpliftingNews",
@@ -7,6 +16,15 @@
         "timestamp": 1656481695,
         "sentiment": 0,
         "published": "June 29, 2022 1:48 AM"
+    },
+    {
+        "title": "Zelenskyy calls Russia terror state, demands expulsion from U.N.",
+        "domain": "english.kyodonews.net",
+        "category": "worldnews",
+        "link": "https://english.kyodonews.net/news/2022/06/8d52463bd475-zelenskyy-calls-russia-terror-state-demands-expulsion-from-un.html",
+        "timestamp": 1656482609,
+        "sentiment": 0,
+        "published": "June 29, 2022 2:03 AM"
     },
     {
         "title": "A mystery rocket crashed into the moon – and no one (on Earth) is owning up",
