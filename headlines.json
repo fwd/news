@@ -23,7 +23,7 @@
         "category": "UpliftingNews",
         "link": "https://abc7.com/stolen-gold-medal-olympics-jordyn-poulter-womens-volleyball/12004833/",
         "timestamp": 1656562629,
-        "sentiment": 3,
+        "sentiment": 1,
         "published": "June 30, 2022 12:17 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "science",
         "link": "https://www.sciencedirect.com/science/article/abs/pii/S1359178922000441",
         "timestamp": 1656570777,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 30, 2022 2:32 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "UpliftingNews",
         "link": "https://www.syracuse.com/news/2022/06/1000-acres-to-return-to-onondaga-nation-in-historic-lake-cleanup-agreement.html",
         "timestamp": 1656571951,
-        "sentiment": 3,
+        "sentiment": 1,
         "published": "June 30, 2022 2:52 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "technology",
         "link": "https://kotaku.com/pokemon-go-niantic-transformers-canceled-staff-layoffs-1849125442",
         "timestamp": 1656573419,
-        "sentiment": 5,
+        "sentiment": -1,
         "published": "June 30, 2022 3:16 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "UpliftingNews",
         "link": "https://www.stripes.com/veterans/2022-06-29/veterans-elections-poll-workers-shortage-6500565.html",
         "timestamp": 1656576275,
-        "sentiment": 3,
+        "sentiment": 1,
         "published": "June 30, 2022 4:04 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "science",
         "link": "https://www.nature.com/articles/s41586-022-04824-9",
         "timestamp": 1656577047,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 30, 2022 4:17 AM"
     },
     {
@@ -113,7 +113,7 @@
         "category": "technology",
         "link": "https://www.theguardian.com/technology/2022/jun/30/amazon-bows-to-uae-pressure-to-restrict-lgbt-search-results",
         "timestamp": 1656577588,
-        "sentiment": 5,
+        "sentiment": -1,
         "published": "June 30, 2022 4:26 AM"
     },
     {
@@ -131,7 +131,7 @@
         "category": "ukraine",
         "link": "https://news.sky.com/story/ukraine-news-live-zelenskyy-kremenchuk-putin-12541713?postid=4096282#liveblog-body",
         "timestamp": 1656579327,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 30, 2022 4:55 AM"
     },
     {
@@ -140,7 +140,7 @@
         "category": "ukraine",
         "link": "https://www.bbc.com/news/live/world-europe-61987663",
         "timestamp": 1656579421,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 30, 2022 4:57 AM"
     },
     {
@@ -167,7 +167,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/donald-trump-girth-suv-secret-service-cassidy-hutchinson-january-6-2022-6",
         "timestamp": 1656582922,
-        "sentiment": -1,
+        "sentiment": 5,
         "published": "June 30, 2022 5:55 AM"
     },
     {
@@ -176,7 +176,7 @@
         "category": "news",
         "link": "https://news.sky.com/story/mother-fatally-shot-at-point-blank-range-while-pushing-baby-in-pram-in-new-york-city-12642901",
         "timestamp": 1656583622,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 30, 2022 6:07 AM"
     },
     {
@@ -185,7 +185,7 @@
         "category": "science",
         "link": "https://newatlas.com/health-wellbeing/report-cancer-europe-chemical-environment-pollution/",
         "timestamp": 1656583754,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 30, 2022 6:09 AM"
     },
     {
@@ -194,7 +194,7 @@
         "category": "science",
         "link": "https://www.eurekalert.org/news-releases/957392",
         "timestamp": 1656584592,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 30, 2022 6:23 AM"
     },
     {
@@ -212,7 +212,7 @@
         "category": "politics",
         "link": "https://www.politico.com/news/2022/06/29/liz-cheney-republicans-trump-constitution-00043374",
         "timestamp": 1656585629,
-        "sentiment": -1,
+        "sentiment": 5,
         "published": "June 30, 2022 6:40 AM"
     },
     {
@@ -221,15 +221,6 @@
         "category": "technology",
         "link": "https://www.techrepublic.com/article/pentagon-finds-concerning-vulnerabilities-on-blockchain/",
         "timestamp": 1656585869,
-        "sentiment": 5,
-        "published": "June 30, 2022 6:44 AM"
-    },
-    {
-        "title": "Biden is Nominating an Anti-Abortion Lawyer to Become a Federal Judge — Because Of Course He Is",
-        "domain": "rollingstone.com",
-        "category": "politics",
-        "link": "https://www.rollingstone.com/politics/politics-news/anti-abortion-kentucky-federal-judge-nomination-biden-mitch-mcconnell-chad-meredith-1376416/",
-        "timestamp": 1656585876,
         "sentiment": -1,
         "published": "June 30, 2022 6:44 AM"
     },
@@ -248,7 +239,7 @@
         "category": "UpliftingNews",
         "link": "https://www.reuters.com/world/europe/russia-steps-up-attacks-ukraine-after-landmark-nato-summit-2022-06-30/",
         "timestamp": 1656586753,
-        "sentiment": 3,
+        "sentiment": 1,
         "published": "June 30, 2022 6:59 AM"
     },
     {
@@ -257,7 +248,7 @@
         "category": "television",
         "link": "https://www.vulture.com/article/giancarlo-esposito-better-call-saul-finale-interview.html",
         "timestamp": 1656587039,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 30, 2022 7:03 AM"
     },
     {
@@ -266,7 +257,7 @@
         "category": "science",
         "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268785",
         "timestamp": 1656587370,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 30, 2022 7:09 AM"
     },
     {
@@ -293,7 +284,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/biden-nominating-anti-abortion-republican-chad-meredith-federal-judge-reports-2022-6",
         "timestamp": 1656589272,
-        "sentiment": -1,
+        "sentiment": 5,
         "published": "June 30, 2022 7:41 AM"
     },
     {
@@ -311,7 +302,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/donald-trump-jan6-cassidy-hutchinson-testimony-capitol-1720510",
         "timestamp": 1656590932,
-        "sentiment": -1,
+        "sentiment": 5,
         "published": "June 30, 2022 8:08 AM"
     },
     {
@@ -320,7 +311,7 @@
         "category": "science",
         "link": "https://royalsocietypublishing.org/doi/10.1098/rsos.211573",
         "timestamp": 1656590990,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 30, 2022 8:09 AM"
     },
     {
@@ -329,7 +320,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/amazon-brings-data-analytics-mining-to-its-physical-grocery-stores-2022-6",
         "timestamp": 1656592218,
-        "sentiment": 5,
+        "sentiment": -1,
         "published": "June 30, 2022 8:30 AM"
     },
     {
@@ -338,7 +329,7 @@
         "category": "news",
         "link": "https://www.itv.com/news/2022-06-30/napalm-girl-received-final-skin-treatment-50-years-on-from-war-defining-photo",
         "timestamp": 1656592247,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 30, 2022 8:30 AM"
     },
     {
@@ -347,7 +338,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/miami/news/hateful-flyers-corn-filled-baggies-south-florida-neighborhoods/",
         "timestamp": 1656592593,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 30, 2022 8:36 AM"
     },
     {
@@ -365,7 +356,7 @@
         "category": "florida",
         "link": "https://www.justice.gov/opa/pr/sober-home-owner-sentenced-30-months-prison-45-million-kickback-scheme",
         "timestamp": 1656592880,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "June 30, 2022 8:41 AM"
     },
     {
@@ -374,17 +365,8 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/06/30/democrats-heres-a-thought-stop-retreating-stand-up-for-your-own-for-once/",
         "timestamp": 1656593183,
-        "sentiment": -1,
+        "sentiment": 5,
         "published": "June 30, 2022 8:46 AM"
-    },
-    {
-        "title": "As federal programs dry up, South Florida food banks struggle with inflation and increased demand",
-        "domain": "sun-sentinel.com",
-        "category": "florida",
-        "link": "https://www.sun-sentinel.com/news/florida/fl-ne-food-banks-struggling-under-inflation-demand-supply-chain-issues-20220630-6jf4krx2czbjlpsaw5cutyhjpq-story.html",
-        "timestamp": 1656594033,
-        "sentiment": -2,
-        "published": "June 30, 2022 9:00 AM"
     },
     {
         "title": "Former mayor of Turkey's Capital ridiculed for believing tweet on discovery of jelly bean reserves in Turkey",
@@ -401,7 +383,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/trump-obstruction-of-justice-witness-tampering_n_62bcb434e4b0f612572241a4",
         "timestamp": 1656594455,
-        "sentiment": -1,
+        "sentiment": 5,
         "published": "June 30, 2022 9:07 AM"
     },
     {
@@ -410,7 +392,7 @@
         "category": "politics",
         "link": "https://www.msnbc.com/msnbc/watch/biden-supports-changing-filibuster-rules-to-codify-roe-v-wade-143165509524",
         "timestamp": 1656596118,
-        "sentiment": -1,
+        "sentiment": 5,
         "published": "June 30, 2022 9:35 AM"
     },
     {
@@ -419,17 +401,8 @@
         "category": "technology",
         "link": "https://www.vice.com/en/article/qjkpe3/bernie-sanders-has-a-plan-to-end-flight-delays-and-cancellations-fine-their-asses",
         "timestamp": 1656596346,
-        "sentiment": 5,
+        "sentiment": -1,
         "published": "June 30, 2022 9:39 AM"
-    },
-    {
-        "title": "World's nuclear power capacity must double by 2050, say energy experts",
-        "domain": "euronews.com",
-        "category": "technology",
-        "link": "https://www.euronews.com/green/2022/06/30/global-nuclear-power-capacity-must-double-by-2050-if-we-want-to-ensure-energy-security",
-        "timestamp": 1656597074,
-        "sentiment": 5,
-        "published": "June 30, 2022 9:51 AM"
     },
     {
         "title": "Florida surgeon general admits state decision could limit vaccine for thousands of kids",
@@ -437,7 +410,7 @@
         "category": "florida",
         "link": "https://www.msn.com/en-us/news/us/florida-surgeon-general-admits-state-decision-could-limit-vaccine-for-thousands-of-kids/ar-AAZ0ilm",
         "timestamp": 1656597488,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "June 30, 2022 9:58 AM"
     },
     {
@@ -446,7 +419,7 @@
         "category": "politics",
         "link": "https://www.latimes.com/politics/story/2022-06-30/supreme-court-rules-for-coal-producing-states-limits-epas-power-to-fight-climate-change",
         "timestamp": 1656597979,
-        "sentiment": -1,
+        "sentiment": 5,
         "published": "June 30, 2022 10:06 AM"
     },
     {
@@ -455,7 +428,7 @@
         "category": "television",
         "link": "https://ew.com/tv/michael-douglas-ben-franklin-first-look/",
         "timestamp": 1656597982,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 30, 2022 10:06 AM"
     },
     {
@@ -464,7 +437,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/live-updates/supreme-court-epa-regulate-greenhouse-gas-emissions/",
         "timestamp": 1656597983,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 30, 2022 10:06 AM"
     },
     {
@@ -473,8 +446,17 @@
         "category": "technology",
         "link": "https://www.vice.com/en/article/wxn8pz/supreme-court-kneecaps-federal-governments-ability-to-fight-climate-change",
         "timestamp": 1656598456,
-        "sentiment": 5,
+        "sentiment": -1,
         "published": "June 30, 2022 10:14 AM"
+    },
+    {
+        "title": "Supreme Court says EPA does not have authority to set climate standards for power plants",
+        "domain": "cnbc.com",
+        "category": "politics",
+        "link": "https://www.cnbc.com/2022/06/30/-supreme-court-says-epa-lacks-authority-on-climate-standards-for-power-plants.html",
+        "timestamp": 1656599262,
+        "sentiment": 5,
+        "published": "June 30, 2022 10:27 AM"
     },
     {
         "title": "Shyness linked to reduced behavioral mimicry during conversation via heightened self-focused attention",
@@ -482,7 +464,7 @@
         "category": "science",
         "link": "https://www.psypost.org/2022/06/shyness-linked-to-reduced-behavioral-mimicry-during-conversation-via-heightened-self-focused-attention-63400",
         "timestamp": 1656599436,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 30, 2022 10:30 AM"
     },
     {
@@ -491,7 +473,7 @@
         "category": "UpliftingNews",
         "link": "https://www.itv.com/news/2022-06-30/napalm-girl-received-final-skin-treatment-50-years-on-from-war-defining-photo",
         "timestamp": 1656599941,
-        "sentiment": 3,
+        "sentiment": 1,
         "published": "June 30, 2022 10:39 AM"
     },
     {
@@ -500,17 +482,8 @@
         "category": "news",
         "link": "https://globalnews.ca/news/8957137/uvalde-school-shooting-police-harassment/",
         "timestamp": 1656600798,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 30, 2022 10:53 AM"
-    },
-    {
-        "title": "Biden says Americans will have to stomach high gas prices “as long as it takes” to beat back Putin’s invasion of Ukraine",
-        "domain": "bloomberg.com",
-        "category": "worldnews",
-        "link": "https://www.bloomberg.com/news/articles/2022-06-30/us-will-face-high-gas-prices-as-long-as-it-takes-biden-says",
-        "timestamp": 1656600977,
-        "sentiment": -1,
-        "published": "June 30, 2022 10:56 AM"
     },
     {
         "title": "Brawl at The Eagles concert during \"Take It Easy\"",
@@ -527,17 +500,8 @@
         "category": "news",
         "link": "https://www.npr.org/2022/06/30/1106866830/supreme-court-to-take-on-controversial-election-law-case?origin=NOTIFY",
         "timestamp": 1656601186,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 30, 2022 10:59 AM"
-    },
-    {
-        "title": "Biden says he'd support eliminating filibuster to codify Roe and right to privacy.",
-        "domain": "cbsnews.com",
-        "category": "UpliftingNews",
-        "link": "https://www.cbsnews.com/news/biden-support-eliminating-filibuster-codify-roe-right-to-privacy/",
-        "timestamp": 1656601224,
-        "sentiment": 3,
-        "published": "June 30, 2022 11:00 AM"
     },
     {
         "title": "Meet High King Gil-Galad From THE LORD OF THE RINGS: THE RINGS OF POWER",
@@ -545,7 +509,7 @@
         "category": "television",
         "link": "https://nerdist.com/article/lord-of-the-rings-the-rings-of-power-who-is-gil-galad-benjamin-walker-interview-exclusive-images/",
         "timestamp": 1656601611,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 30, 2022 11:06 AM"
     },
     {
@@ -554,7 +518,7 @@
         "category": "science",
         "link": "https://www.system.com/view/study/OMshB19UjMq?view_context=graph",
         "timestamp": 1656602241,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "June 30, 2022 11:17 AM"
     },
     {
@@ -572,8 +536,26 @@
         "category": "UpliftingNews",
         "link": "https://www.canarymedia.com/articles/wind/offshore-wind-installations-surged-threefold-last-year",
         "timestamp": 1656602891,
-        "sentiment": 3,
+        "sentiment": 1,
         "published": "June 30, 2022 11:28 AM"
+    },
+    {
+        "title": "Historic Rotterdam bridge won't be dismantled for Jeff Bezos superyacht worth €430 million",
+        "domain": "nltimes.nl",
+        "category": "worldnews",
+        "link": "https://nltimes.nl/2022/06/30/historic-rotterdam-bridge-de-hef-wont-dismantled-jeff-bezos-superyacht",
+        "timestamp": 1656603245,
+        "sentiment": -1,
+        "published": "June 30, 2022 11:34 AM"
+    },
+    {
+        "title": "Supreme Court Rules 6-3 That the Planet Should Burn",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/supreme-court-epa-climate-pollution-ruling-1376017/",
+        "timestamp": 1656603543,
+        "sentiment": 5,
+        "published": "June 30, 2022 11:39 AM"
     },
     {
         "title": "Egypt Prosecution Orders Release of a Somali Girl Who Killed A Driver who Tried to Rape her",
@@ -581,8 +563,17 @@
         "category": "UpliftingNews",
         "link": "https://egyptianstreets.com/2022/05/28/egypt-prosecution-orders-release-of-somali-girl-who-killed-attempted-rapist/",
         "timestamp": 1656604460,
-        "sentiment": 3,
+        "sentiment": 1,
         "published": "June 30, 2022 11:54 AM"
+    },
+    {
+        "title": "Dream of unlimited, clean nuclear fusion energy within reach",
+        "domain": "ec.europa.eu",
+        "category": "science",
+        "link": "https://ec.europa.eu/research-and-innovation/en/horizon-magazine/dream-unlimited-clean-nuclear-fusion-energy-within-reach",
+        "timestamp": 1656605654,
+        "sentiment": -1,
+        "published": "June 30, 2022 12:14 PM"
     },
     {
         "title": "Jackson sworn in, becomes 1st Black woman on Supreme Court",
@@ -590,8 +581,143 @@
         "category": "news",
         "link": "https://apnews.com/article/ketanji-brown-jackson-swearing-in-5a5115f58e163789dfda5a8af0b14221",
         "timestamp": 1656605737,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "June 30, 2022 12:15 PM"
+    },
+    {
+        "title": "Abortions may resume in Kentucky after judge grants temporary suspension of 'trigger' law",
+        "domain": "usatoday.com",
+        "category": "news",
+        "link": "https://www.usatoday.com/story/news/nation/2022/06/30/kentucky-judge-restraining-order-abortions-resume/7776576001/",
+        "timestamp": 1656605828,
+        "sentiment": 0,
+        "published": "June 30, 2022 12:17 PM"
+    },
+    {
+        "title": "Bitcoin on track for its worst quarter in more than a decade",
+        "domain": "cnbc.com",
+        "category": "technology",
+        "link": "https://www.cnbc.com/2022/06/30/bitcoin-btc-on-track-for-its-worst-quarter-in-more-than-a-decade.html",
+        "timestamp": 1656606373,
+        "sentiment": -1,
+        "published": "June 30, 2022 12:26 PM"
+    },
+    {
+        "title": "Florida teachers raise concerns about new civics training, say it downplays slavery, promotes originalism",
+        "domain": "news4jax.com",
+        "category": "florida",
+        "link": "https://www.news4jax.com/news/local/2022/06/29/florida-teachers-raise-concerns-about-new-civics-training-say-it-downplays-slavery-promotes-originalism/?outputType=amp",
+        "timestamp": 1656606886,
+        "sentiment": -5,
+        "published": "June 30, 2022 12:34 PM"
+    },
+    {
+        "title": "Florida, Kentucky judges block states from enforcing abortion bans",
+        "domain": "reuters.com",
+        "category": "florida",
+        "link": "https://www.reuters.com/legal/government/kentucky-judge-blocks-state-enforcing-abortion-bans-2022-06-30/",
+        "timestamp": 1656608087,
+        "sentiment": -5,
+        "published": "June 30, 2022 12:54 PM"
+    },
+    {
+        "title": "Most of sci-fi TV today suffers from Marvelitis—the sky is always falling, the fate of the galaxy is always at stake—but the best 'Trek' outing in decades understands the importance of hijinks",
+        "domain": "esquire.com",
+        "category": "television",
+        "link": "https://www.esquire.com/entertainment/tv/a40458654/star-trek-strange-new-worlds-review/",
+        "timestamp": 1656608848,
+        "sentiment": 2,
+        "published": "June 30, 2022 1:07 PM"
+    },
+    {
+        "title": "Judge to temporarily stop Florida’s 15-week abortion ban",
+        "domain": "tampabay.com",
+        "category": "FLgovernment",
+        "link": "https://www.tampabay.com/news/florida-politics/2022/06/30/judge-to-temporarily-stop-floridas-15-week-abortion-ban/",
+        "timestamp": 1656609080,
+        "sentiment": 0,
+        "published": "June 30, 2022 1:11 PM"
+    },
+    {
+        "title": "Florida judge blocks 15 week abortion ban",
+        "domain": "wfla.com",
+        "category": "florida",
+        "link": "https://www.wfla.com/news/florida-judge-blocks-15-week-abortion-ban/",
+        "timestamp": 1656609580,
+        "sentiment": -5,
+        "published": "June 30, 2022 1:19 PM"
+    },
+    {
+        "title": "USC and UCLA set to join Big Ten",
+        "domain": "footballscoop.com",
+        "category": "sports",
+        "link": "https://footballscoop.com/news/usc-ucla-on-the-move-to-the-big-ten",
+        "timestamp": 1656610639,
+        "sentiment": 0,
+        "published": "June 30, 2022 1:37 PM"
+    },
+    {
+        "title": "Logan Paul swaps boxing for WWE as he's snapped signing official contract",
+        "domain": "dailystar.co.uk",
+        "category": "sports",
+        "link": "https://www.dailystar.co.uk/sport/other-sports/breaking-logan-paul-signs-wwe-27369616",
+        "timestamp": 1656610708,
+        "sentiment": 0,
+        "published": "June 30, 2022 1:38 PM"
+    },
+    {
+        "title": "البرتغالي ريكاردو سواريش مديرا فنيا جديدا للنادي الأهلي المصري",
+        "domain": "riyadiyama.com",
+        "category": "sports",
+        "link": "http://www.riyadiyama.com/2022/06/blog-post_703.html",
+        "timestamp": 1656610761,
+        "sentiment": 0,
+        "published": "June 30, 2022 1:39 PM"
+    },
+    {
+        "title": "Biden is Nominating an Anti-Abortion Lawyer to Become a Federal Judge — Because Of Course He Is",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/anti-abortion-kentucky-federal-judge-nomination-biden-mitch-mcconnell-chad-meredith-1376416/",
+        "timestamp": 1656585876,
+        "sentiment": -1,
+        "published": "June 30, 2022 6:44 AM"
+    },
+    {
+        "title": "As federal programs dry up, South Florida food banks struggle with inflation and increased demand",
+        "domain": "sun-sentinel.com",
+        "category": "florida",
+        "link": "https://www.sun-sentinel.com/news/florida/fl-ne-food-banks-struggling-under-inflation-demand-supply-chain-issues-20220630-6jf4krx2czbjlpsaw5cutyhjpq-story.html",
+        "timestamp": 1656594033,
+        "sentiment": -2,
+        "published": "June 30, 2022 9:00 AM"
+    },
+    {
+        "title": "World's nuclear power capacity must double by 2050, say energy experts",
+        "domain": "euronews.com",
+        "category": "technology",
+        "link": "https://www.euronews.com/green/2022/06/30/global-nuclear-power-capacity-must-double-by-2050-if-we-want-to-ensure-energy-security",
+        "timestamp": 1656597074,
+        "sentiment": 5,
+        "published": "June 30, 2022 9:51 AM"
+    },
+    {
+        "title": "Biden says Americans will have to stomach high gas prices “as long as it takes” to beat back Putin’s invasion of Ukraine",
+        "domain": "bloomberg.com",
+        "category": "worldnews",
+        "link": "https://www.bloomberg.com/news/articles/2022-06-30/us-will-face-high-gas-prices-as-long-as-it-takes-biden-says",
+        "timestamp": 1656600977,
+        "sentiment": -1,
+        "published": "June 30, 2022 10:56 AM"
+    },
+    {
+        "title": "Biden says he'd support eliminating filibuster to codify Roe and right to privacy.",
+        "domain": "cbsnews.com",
+        "category": "UpliftingNews",
+        "link": "https://www.cbsnews.com/news/biden-support-eliminating-filibuster-codify-roe-right-to-privacy/",
+        "timestamp": 1656601224,
+        "sentiment": 3,
+        "published": "June 30, 2022 11:00 AM"
     },
     {
         "title": "Culture Secretary Nadine Dorries gets rugby league and rugby union mixed up while speaking at world cup event",
