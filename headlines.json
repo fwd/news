@@ -5,7 +5,7 @@
         "category": "nottheonion",
         "link": "https://arstechnica.com/tech-policy/2022/06/tiktok-cant-stop-users-from-doxxing-the-supreme-court/",
         "timestamp": 1656562179,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "June 30, 2022 12:09 AM"
     },
     {
@@ -14,17 +14,8 @@
         "category": "nottheonion",
         "link": "https://www.newshub.co.nz/home/new-zealand/2022/06/convoy-protesters-plan-to-stand-up-to-high-fuel-prices-by-filling-up-their-cars-and-driving-around-new-zealand.html",
         "timestamp": 1656562320,
-        "sentiment": 1,
-        "published": "June 30, 2022 12:12 AM"
-    },
-    {
-        "title": "Anaheim barbershop owners find, return gold medal stolen from U.S. Olympian",
-        "domain": "abc7.com",
-        "category": "UpliftingNews",
-        "link": "https://abc7.com/stolen-gold-medal-olympics-jordyn-poulter-womens-volleyball/12004833/",
-        "timestamp": 1656562629,
         "sentiment": 3,
-        "published": "June 30, 2022 12:17 AM"
+        "published": "June 30, 2022 12:12 AM"
     },
     {
         "title": "Chess - Putin gives award to Russian (but Ukrainian-born) supergrandmaster Sergey Karjakin for backing Ukraine invasion. Sergey was temp banned by chess federation for the same reason.",
@@ -32,17 +23,8 @@
         "category": "sports",
         "link": "https://www.reuters.com/lifestyle/sports/chess-putin-gives-award-grandmaster-banned-backing-ukraine-invasion-2022-06-02/",
         "timestamp": 1656568320,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 1:52 AM"
-    },
-    {
-        "title": "A review of quantitative research studies suggests men who use intimate partner violence behavior may have deficits in areas of the brain that impact cognitive flexibility, mental organization, impulsivity, and emotion regulation.",
-        "domain": "sciencedirect.com",
-        "category": "science",
-        "link": "https://www.sciencedirect.com/science/article/abs/pii/S1359178922000441",
-        "timestamp": 1656570777,
-        "sentiment": -3,
-        "published": "June 30, 2022 2:32 AM"
     },
     {
         "title": "1,000 acres of forest to be returned to Onondaga Nation in historic lake cleanup agreement",
@@ -50,7 +32,7 @@
         "category": "UpliftingNews",
         "link": "https://www.syracuse.com/news/2022/06/1000-acres-to-return-to-onondaga-nation-in-historic-lake-cleanup-agreement.html",
         "timestamp": 1656571951,
-        "sentiment": 3,
+        "sentiment": 1,
         "published": "June 30, 2022 2:52 AM"
     },
     {
@@ -63,22 +45,13 @@
         "published": "June 30, 2022 3:13 AM"
     },
     {
-        "title": "Veterans group launches coalition to recruit 100,000 vets to help combat poll worker shortage",
-        "domain": "stripes.com",
-        "category": "UpliftingNews",
-        "link": "https://www.stripes.com/veterans/2022-06-29/veterans-elections-poll-workers-shortage-6500565.html",
-        "timestamp": 1656576275,
-        "sentiment": 3,
-        "published": "June 30, 2022 4:04 AM"
-    },
-    {
-        "title": "Russia and China slam NATO after alliance raises alarm",
-        "domain": "msn.com",
-        "category": "worldnews",
-        "link": "https://www.msn.com/en-us/news/world/russia-and-china-slam-nato-after-alliance-raises-alarm/ar-AAZ1Fr3?ocid=EMMX&cvid=4a7ff78bf48148d7b5867c8c7bee789f",
-        "timestamp": 1656576459,
-        "sentiment": 1,
-        "published": "June 30, 2022 4:07 AM"
+        "title": "Pokémon Go Studio Cancels Projects, Cuts More Than 80 Staff As It Struggles To Find Next Hit",
+        "domain": "kotaku.com",
+        "category": "technology",
+        "link": "https://kotaku.com/pokemon-go-niantic-transformers-canceled-staff-layoffs-1849125442",
+        "timestamp": 1656573419,
+        "sentiment": -4,
+        "published": "June 30, 2022 3:16 AM"
     },
     {
         "title": "Ice Age wolf DNA reveals dogs trace ancestry to two separate wolf populations",
@@ -86,26 +59,8 @@
         "category": "science",
         "link": "https://www.nature.com/articles/s41586-022-04824-9",
         "timestamp": 1656577047,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 30, 2022 4:17 AM"
-    },
-    {
-        "title": "Amazon bows to UAE pressure to restrict LGBT search results",
-        "domain": "theguardian.com",
-        "category": "technology",
-        "link": "https://www.theguardian.com/technology/2022/jun/30/amazon-bows-to-uae-pressure-to-restrict-lgbt-search-results",
-        "timestamp": 1656577588,
-        "sentiment": 3,
-        "published": "June 30, 2022 4:26 AM"
-    },
-    {
-        "title": "Russia says it has withdrawn from Snake Island 'as gesture of goodwill'",
-        "domain": "news.sky.com",
-        "category": "ukraine",
-        "link": "https://news.sky.com/story/ukraine-news-live-zelenskyy-kremenchuk-putin-12541713?postid=4096282#liveblog-body",
-        "timestamp": 1656579327,
-        "sentiment": 1,
-        "published": "June 30, 2022 4:55 AM"
     },
     {
         "title": "RUSSIA WITHDRAWS TROOPS FROM SNAKE ISLAND!",
@@ -126,21 +81,12 @@
         "published": "June 30, 2022 5:07 AM"
     },
     {
-        "title": "Trump's 'girth would prevent him from actually getting to the steering wheel' of his SUV, former Secret Service agent says: 'I don't see this president ever being able to do that. Ever'",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/donald-trump-girth-suv-secret-service-cassidy-hutchinson-january-6-2022-6",
-        "timestamp": 1656582922,
-        "sentiment": -1,
-        "published": "June 30, 2022 5:55 AM"
-    },
-    {
         "title": "Mother fatally shot 'at point-blank range' while pushing baby in pram in New York City | US News",
         "domain": "news.sky.com",
         "category": "news",
         "link": "https://news.sky.com/story/mother-fatally-shot-at-point-blank-range-while-pushing-baby-in-pram-in-new-york-city-12642901",
         "timestamp": 1656583622,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 6:07 AM"
     },
     {
@@ -149,7 +95,7 @@
         "category": "science",
         "link": "https://newatlas.com/health-wellbeing/report-cancer-europe-chemical-environment-pollution/",
         "timestamp": 1656583754,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 30, 2022 6:09 AM"
     },
     {
@@ -158,7 +104,7 @@
         "category": "science",
         "link": "https://www.eurekalert.org/news-releases/957392",
         "timestamp": 1656584592,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 30, 2022 6:23 AM"
     },
     {
@@ -167,7 +113,7 @@
         "category": "politics",
         "link": "https://www.politico.com/news/2022/06/29/liz-cheney-republicans-trump-constitution-00043374",
         "timestamp": 1656585629,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 30, 2022 6:40 AM"
     },
     {
@@ -176,7 +122,7 @@
         "category": "technology",
         "link": "https://www.techrepublic.com/article/pentagon-finds-concerning-vulnerabilities-on-blockchain/",
         "timestamp": 1656585869,
-        "sentiment": 3,
+        "sentiment": -4,
         "published": "June 30, 2022 6:44 AM"
     },
     {
@@ -203,7 +149,7 @@
         "category": "science",
         "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268785",
         "timestamp": 1656587370,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 30, 2022 7:09 AM"
     },
     {
@@ -221,7 +167,7 @@
         "category": "nottheonion",
         "link": "https://www.carthrottle.com/post/bmw-reminds-drivers-to-use-their-cars-indicators/",
         "timestamp": 1656589107,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "June 30, 2022 7:38 AM"
     },
     {
@@ -230,7 +176,7 @@
         "category": "nottheonion",
         "link": "https://www.todayonline.com/singapore/email-obscene-photo-genitals-police-officer-1934411",
         "timestamp": 1656589714,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "June 30, 2022 7:48 AM"
     },
     {
@@ -243,12 +189,21 @@
         "published": "June 30, 2022 7:50 AM"
     },
     {
+        "title": "Donald Trump stalwarts finally turn on him after Hutchinson's testimony",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/donald-trump-jan6-cassidy-hutchinson-testimony-capitol-1720510",
+        "timestamp": 1656590932,
+        "sentiment": 0,
+        "published": "June 30, 2022 8:08 AM"
+    },
+    {
         "title": "Amazon is introducing new tech to monitor shoppers in its grocery stores and share data with advertisers",
         "domain": "businessinsider.com",
         "category": "technology",
         "link": "https://www.businessinsider.com/amazon-brings-data-analytics-mining-to-its-physical-grocery-stores-2022-6",
         "timestamp": 1656592218,
-        "sentiment": 3,
+        "sentiment": -4,
         "published": "June 30, 2022 8:30 AM"
     },
     {
@@ -257,17 +212,8 @@
         "category": "news",
         "link": "https://www.itv.com/news/2022-06-30/napalm-girl-received-final-skin-treatment-50-years-on-from-war-defining-photo",
         "timestamp": 1656592247,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 8:30 AM"
-    },
-    {
-        "title": "Anti-Disney flyers in corn-filled baggies left in several South Florida neighborhoods",
-        "domain": "cbsnews.com",
-        "category": "news",
-        "link": "https://www.cbsnews.com/miami/news/hateful-flyers-corn-filled-baggies-south-florida-neighborhoods/",
-        "timestamp": 1656592593,
-        "sentiment": 0,
-        "published": "June 30, 2022 8:36 AM"
     },
     {
         "title": "Belarus sends out conscription notices en masse",
@@ -293,7 +239,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/06/30/democrats-heres-a-thought-stop-retreating-stand-up-for-your-own-for-once/",
         "timestamp": 1656593183,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 30, 2022 8:46 AM"
     },
     {
@@ -302,7 +248,7 @@
         "category": "nottheonion",
         "link": "https://www.turkishminute.com/2022/06/29/former-ankara-mayor-ridiculed-for-believing-tweet-on-discovery-of-jelly-bean-reserves-in-turkey/",
         "timestamp": 1656594095,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "June 30, 2022 9:01 AM"
     },
     {
@@ -311,7 +257,7 @@
         "category": "politics",
         "link": "https://www.msnbc.com/msnbc/watch/biden-supports-changing-filibuster-rules-to-codify-roe-v-wade-143165509524",
         "timestamp": 1656596118,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 30, 2022 9:35 AM"
     },
     {
@@ -320,7 +266,7 @@
         "category": "technology",
         "link": "https://www.vice.com/en/article/qjkpe3/bernie-sanders-has-a-plan-to-end-flight-delays-and-cancellations-fine-their-asses",
         "timestamp": 1656596346,
-        "sentiment": 3,
+        "sentiment": -4,
         "published": "June 30, 2022 9:39 AM"
     },
     {
@@ -329,7 +275,7 @@
         "category": "politics",
         "link": "https://www.latimes.com/politics/story/2022-06-30/supreme-court-rules-for-coal-producing-states-limits-epas-power-to-fight-climate-change",
         "timestamp": 1656597979,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 30, 2022 10:06 AM"
     },
     {
@@ -347,7 +293,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/live-updates/supreme-court-epa-regulate-greenhouse-gas-emissions/",
         "timestamp": 1656597983,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 10:06 AM"
     },
     {
@@ -356,7 +302,7 @@
         "category": "technology",
         "link": "https://www.vice.com/en/article/wxn8pz/supreme-court-kneecaps-federal-governments-ability-to-fight-climate-change",
         "timestamp": 1656598456,
-        "sentiment": 3,
+        "sentiment": -4,
         "published": "June 30, 2022 10:14 AM"
     },
     {
@@ -365,7 +311,7 @@
         "category": "science",
         "link": "https://www.psypost.org/2022/06/shyness-linked-to-reduced-behavioral-mimicry-during-conversation-via-heightened-self-focused-attention-63400",
         "timestamp": 1656599436,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 30, 2022 10:30 AM"
     },
     {
@@ -374,7 +320,7 @@
         "category": "UpliftingNews",
         "link": "https://www.itv.com/news/2022-06-30/napalm-girl-received-final-skin-treatment-50-years-on-from-war-defining-photo",
         "timestamp": 1656599941,
-        "sentiment": 3,
+        "sentiment": 1,
         "published": "June 30, 2022 10:39 AM"
     },
     {
@@ -383,17 +329,8 @@
         "category": "news",
         "link": "https://globalnews.ca/news/8957137/uvalde-school-shooting-police-harassment/",
         "timestamp": 1656600798,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 10:53 AM"
-    },
-    {
-        "title": "Brawl at The Eagles concert during \"Take It Easy\"",
-        "domain": "consequence.net",
-        "category": "nottheonion",
-        "link": "https://consequence.net/2022/06/brawl-the-eagles-vip-take-it-easy-watch/?fs=e&s=cl",
-        "timestamp": 1656601122,
-        "sentiment": 1,
-        "published": "June 30, 2022 10:58 AM"
     },
     {
         "title": "Supreme Court to take on controversial election-law case",
@@ -401,7 +338,7 @@
         "category": "news",
         "link": "https://www.npr.org/2022/06/30/1106866830/supreme-court-to-take-on-controversial-election-law-case?origin=NOTIFY",
         "timestamp": 1656601186,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 10:59 AM"
     },
     {
@@ -419,7 +356,7 @@
         "category": "science",
         "link": "https://www.system.com/view/study/OMshB19UjMq?view_context=graph",
         "timestamp": 1656602241,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 30, 2022 11:17 AM"
     },
     {
@@ -428,7 +365,7 @@
         "category": "UpliftingNews",
         "link": "https://www.canarymedia.com/articles/wind/offshore-wind-installations-surged-threefold-last-year",
         "timestamp": 1656602891,
-        "sentiment": 3,
+        "sentiment": 1,
         "published": "June 30, 2022 11:28 AM"
     },
     {
@@ -437,7 +374,7 @@
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-news/supreme-court-epa-climate-pollution-ruling-1376017/",
         "timestamp": 1656603543,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 30, 2022 11:39 AM"
     },
     {
@@ -446,7 +383,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/house/3542566-ocasio-cortez-calls-supreme-court-epa-decision-catastrophic/",
         "timestamp": 1656604300,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 30, 2022 11:51 AM"
     },
     {
@@ -455,7 +392,7 @@
         "category": "news",
         "link": "https://apnews.com/article/ketanji-brown-jackson-swearing-in-5a5115f58e163789dfda5a8af0b14221",
         "timestamp": 1656605737,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 12:15 PM"
     },
     {
@@ -464,7 +401,7 @@
         "category": "politics",
         "link": "https://scoop.upworthy.com/satanic-temple-says-abortion-ban-violates-religious-freedom-to-sue-state-to-protect-civil-rights",
         "timestamp": 1656605863,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 30, 2022 12:17 PM"
     },
     {
@@ -482,7 +419,7 @@
         "category": "technology",
         "link": "https://www.cnbc.com/2022/06/30/bitcoin-btc-on-track-for-its-worst-quarter-in-more-than-a-decade.html",
         "timestamp": 1656606373,
-        "sentiment": 3,
+        "sentiment": -4,
         "published": "June 30, 2022 12:26 PM"
     },
     {
@@ -527,7 +464,7 @@
         "category": "FLgovernment",
         "link": "https://www.tampabay.com/news/florida-politics/2022/06/30/judge-to-temporarily-stop-floridas-15-week-abortion-ban/",
         "timestamp": 1656609080,
-        "sentiment": -2,
+        "sentiment": 4,
         "published": "June 30, 2022 1:11 PM"
     },
     {
@@ -536,7 +473,7 @@
         "category": "politics",
         "link": "https://www.nbcnews.com/politics/supreme-court/justice-thomas-cites-debunked-claim-covid-vaccines-are-made-cells-abor-rcna36156",
         "timestamp": 1656609461,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 30, 2022 1:17 PM"
     },
     {
@@ -554,7 +491,7 @@
         "category": "UpliftingNews",
         "link": "https://www.wthr.com/article/life/animals/3-amur-tiger-cubs-born-indianapolis-zoo-zoya-pavel/531-07494c7d-5e46-4f7b-b5f1-77c68861c83a?fbclid=IwAR1lSUKC6DXA-Kndwhll3tV2iTvKx9mO2GfTOHVa56zs8sR1zEOBnVl2h4U&fs=e&s=cl",
         "timestamp": 1656609834,
-        "sentiment": 3,
+        "sentiment": 1,
         "published": "June 30, 2022 1:23 PM"
     },
     {
@@ -572,7 +509,7 @@
         "category": "news",
         "link": "https://globalnews.ca/news/8958704/us-vasectomy-increase-roe-v-wade/",
         "timestamp": 1656610258,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 1:30 PM"
     },
     {
@@ -581,7 +518,7 @@
         "category": "sports",
         "link": "https://footballscoop.com/news/usc-ucla-on-the-move-to-the-big-ten",
         "timestamp": 1656610639,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 1:37 PM"
     },
     {
@@ -590,7 +527,7 @@
         "category": "sports",
         "link": "https://www.dailystar.co.uk/sport/other-sports/breaking-logan-paul-signs-wwe-27369616",
         "timestamp": 1656610708,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 1:38 PM"
     },
     {
@@ -599,7 +536,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/us-supreme-court-orders-lower-courts-reconsider-gun-law-challenges-2022-06-30/",
         "timestamp": 1656611168,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 1:46 PM"
     },
     {
@@ -608,7 +545,16 @@
         "category": "sports",
         "link": "https://twitter.com/bleacherreport/status/1542561496202452992?s=21&t=O-Af9Kb873Oz97ZDziFwTA",
         "timestamp": 1656611307,
-        "sentiment": 0,
+        "sentiment": -2,
+        "published": "June 30, 2022 1:48 PM"
+    },
+    {
+        "title": "Trump's 'girth would prevent him from actually getting to the steering wheel' of his SUV, former Secret Service agent says: 'I don't see this president ever being able to do that. Ever'",
+        "domain": "businessinsider.com",
+        "category": "nottheonion",
+        "link": "https://www.businessinsider.com/donald-trump-girth-suv-secret-service-cassidy-hutchinson-january-6-2022-6",
+        "timestamp": 1656611309,
+        "sentiment": 3,
         "published": "June 30, 2022 1:48 PM"
     },
     {
@@ -617,7 +563,7 @@
         "category": "FLgovernment",
         "link": "https://www.news4jax.com/news/florida/2022/06/30/judge-to-temporarily-block-floridas-15-week-abortion-ban/?utm_source=instagram&utm_medium=social&utm_campaign=sndbio&utm_content=News4JAX",
         "timestamp": 1656612003,
-        "sentiment": -2,
+        "sentiment": 4,
         "published": "June 30, 2022 2:00 PM"
     },
     {
@@ -635,7 +581,7 @@
         "category": "science",
         "link": "https://www.nature.com/articles/s41598-022-14512-3",
         "timestamp": 1656612231,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 30, 2022 2:03 PM"
     },
     {
@@ -653,7 +599,7 @@
         "category": "FLgovernment",
         "link": "https://www.wfla.com/news/politics/florida-law-lowering-fees-to-reinstate-suspended-driver-licenses-starts-july-1/",
         "timestamp": 1656613309,
-        "sentiment": -2,
+        "sentiment": 4,
         "published": "June 30, 2022 2:21 PM"
     },
     {
@@ -662,7 +608,7 @@
         "category": "UpliftingNews",
         "link": "https://www.sun-sentinel.com/news/politics/os-ne-florida-abortion-15-weeks-judge-ruling-20220630-aeqiqcgy4fgq7gu5x4s7jlhrzy-story.html",
         "timestamp": 1656613691,
-        "sentiment": 3,
+        "sentiment": 1,
         "published": "June 30, 2022 2:28 PM"
     },
     {
@@ -671,17 +617,8 @@
         "category": "technology",
         "link": "https://www.space.com/rocket-launches-damage-ozone-climate",
         "timestamp": 1656613709,
-        "sentiment": 3,
+        "sentiment": -4,
         "published": "June 30, 2022 2:28 PM"
-    },
-    {
-        "title": "Historic Rotterdam bridge won't be dismantled for Jeff Bezos superyacht worth €430M",
-        "domain": "nltimes.nl",
-        "category": "worldnews",
-        "link": "https://nltimes.nl/2022/06/30/historic-rotterdam-bridge-wont-dismantled-jeff-bezos-superyacht-worth-eu430m",
-        "timestamp": 1656614578,
-        "sentiment": 1,
-        "published": "June 30, 2022 2:42 PM"
     },
     {
         "title": "NOAA enacting full, indefinite, moratorium on Atlantic Mako shark fishing",
@@ -689,7 +626,7 @@
         "category": "UpliftingNews",
         "link": "https://www.fisheries.noaa.gov/action/zero-atlantic-shortfin-mako-shark-retention-limit",
         "timestamp": 1656614601,
-        "sentiment": 3,
+        "sentiment": 1,
         "published": "June 30, 2022 2:43 PM"
     },
     {
@@ -698,7 +635,7 @@
         "category": "sports",
         "link": "https://twitter.com/petethamel/status/1542578895655997441?s=21&t=BxdpEBLT4zOTxgipEe_NRw",
         "timestamp": 1656614930,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 2:48 PM"
     },
     {
@@ -707,7 +644,7 @@
         "category": "politics",
         "link": "https://slate.com/news-and-politics/2022/06/supreme-court-dangerous-independent-state-legislature-theory.html",
         "timestamp": 1656615589,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 30, 2022 2:59 PM"
     },
     {
@@ -734,7 +671,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/06/30/bitcoin-falls-below-19000-again-as-pressure-mounts-on-crypto-firms.html",
         "timestamp": 1656616166,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 3:09 PM"
     },
     {
@@ -743,8 +680,161 @@
         "category": "science",
         "link": "https://news.uci.edu/2022/06/30/uci-led-team-discovers-signaling-molecule-that-potently-stimulates-hair-growth/",
         "timestamp": 1656617364,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 30, 2022 3:29 PM"
+    },
+    {
+        "title": "Russians withdraw old military equipment from storage on Sakhalin and in Kaliningrad Ministry of Defence",
+        "domain": "yahoo.com",
+        "category": "worldnews",
+        "link": "https://www.yahoo.com/news/russians-withdraw-old-military-equipment-145000281.html",
+        "timestamp": 1656617749,
+        "sentiment": 1,
+        "published": "June 30, 2022 3:35 PM"
+    },
+    {
+        "title": "Historic Rotterdam bridge won't be dismantled for Jeff Bezos superyacht worth €430M",
+        "domain": "nltimes.nl",
+        "category": "UpliftingNews",
+        "link": "https://nltimes.nl/2022/06/30/historic-rotterdam-bridge-wont-dismantled-jeff-bezos-superyacht-worth-eu430m",
+        "timestamp": 1656618391,
+        "sentiment": 1,
+        "published": "June 30, 2022 3:46 PM"
+    },
+    {
+        "title": "New Algorithm Can Predict Crime in US Cities a Week Before It Happens",
+        "domain": "bloomberg.com",
+        "category": "technology",
+        "link": "https://www.bloomberg.com/news/articles/2022-06-30/new-algorithm-can-predict-crime-in-us-cities-a-week-before-it-happens",
+        "timestamp": 1656619948,
+        "sentiment": -4,
+        "published": "June 30, 2022 4:12 PM"
+    },
+    {
+        "title": "France bans use of 'steak,' 'sausage' to describe vegetarian products",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/france-bans-use-of-steak-sausage-to-describe-vegetarian-products/a-62321333",
+        "timestamp": 1656620540,
+        "sentiment": 1,
+        "published": "June 30, 2022 4:22 PM"
+    },
+    {
+        "title": "Defense of Earth: NASA’s Double Asteroid Redirection Test (DART) mission is the world’s first full-scale planetary defense test against asteroids on a collision course with Earth. New study results indicate that DART spacecraft may deform asteroids far more severely than previously thought.",
+        "domain": "unibe.ch",
+        "category": "science",
+        "link": "https://www.unibe.ch/news/media_news/media_relations_e/media_releases/2022/media_releases_2022/bernese_researchers_simulate_defense_of_the_earth/index_eng.html",
+        "timestamp": 1656620574,
+        "sentiment": 0,
+        "published": "June 30, 2022 4:22 PM"
+    },
+    {
+        "title": "Florida man poses as Disney World cast member, steals $10K R2-D2 droid, deputies say",
+        "domain": "fox35orlando.com",
+        "category": "news",
+        "link": "https://www.fox35orlando.com/news/florida-man-poses-as-disney-world-cast-member-steals-10k-r2-d2-droid-deputies-say",
+        "timestamp": 1656620634,
+        "sentiment": -2,
+        "published": "June 30, 2022 4:23 PM"
+    },
+    {
+        "title": "Texas educator group proposes referring to slavery as “involuntary relocation” in second grade curriculum",
+        "domain": "texastribune.org",
+        "category": "nottheonion",
+        "link": "https://www.texastribune.org/2022/06/30/texas-slavery-involuntary-relocation/",
+        "timestamp": 1656621493,
+        "sentiment": 3,
+        "published": "June 30, 2022 4:38 PM"
+    },
+    {
+        "title": "Eckerd Connects done in Hillsborough; details on replacement scarce",
+        "domain": "wfla.com",
+        "category": "FLgovernment",
+        "link": "https://www.wfla.com/news/hillsborough-county/eckerd-connects-done-in-hillsborough-details-on-replacement-scarce/",
+        "timestamp": 1656622451,
+        "sentiment": 4,
+        "published": "June 30, 2022 4:54 PM"
+    },
+    {
+        "title": "Some medical debt is being removed from US credit reports",
+        "domain": "apnews.com",
+        "category": "UpliftingNews",
+        "link": "https://apnews.com/article/science-health-government-and-politics-f2a2bd91adf052338db45ec9c01c1af9",
+        "timestamp": 1656623156,
+        "sentiment": 1,
+        "published": "June 30, 2022 5:05 PM"
+    },
+    {
+        "title": "Anaheim barbershop owners find, return gold medal stolen from U.S. Olympian",
+        "domain": "abc7.com",
+        "category": "UpliftingNews",
+        "link": "https://abc7.com/stolen-gold-medal-olympics-jordyn-poulter-womens-volleyball/12004833/",
+        "timestamp": 1656562629,
+        "sentiment": 3,
+        "published": "June 30, 2022 12:17 AM"
+    },
+    {
+        "title": "A review of quantitative research studies suggests men who use intimate partner violence behavior may have deficits in areas of the brain that impact cognitive flexibility, mental organization, impulsivity, and emotion regulation.",
+        "domain": "sciencedirect.com",
+        "category": "science",
+        "link": "https://www.sciencedirect.com/science/article/abs/pii/S1359178922000441",
+        "timestamp": 1656570777,
+        "sentiment": -3,
+        "published": "June 30, 2022 2:32 AM"
+    },
+    {
+        "title": "Veterans group launches coalition to recruit 100,000 vets to help combat poll worker shortage",
+        "domain": "stripes.com",
+        "category": "UpliftingNews",
+        "link": "https://www.stripes.com/veterans/2022-06-29/veterans-elections-poll-workers-shortage-6500565.html",
+        "timestamp": 1656576275,
+        "sentiment": 3,
+        "published": "June 30, 2022 4:04 AM"
+    },
+    {
+        "title": "Russia and China slam NATO after alliance raises alarm",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-us/news/world/russia-and-china-slam-nato-after-alliance-raises-alarm/ar-AAZ1Fr3?ocid=EMMX&cvid=4a7ff78bf48148d7b5867c8c7bee789f",
+        "timestamp": 1656576459,
+        "sentiment": 1,
+        "published": "June 30, 2022 4:07 AM"
+    },
+    {
+        "title": "Amazon bows to UAE pressure to restrict LGBT search results",
+        "domain": "theguardian.com",
+        "category": "technology",
+        "link": "https://www.theguardian.com/technology/2022/jun/30/amazon-bows-to-uae-pressure-to-restrict-lgbt-search-results",
+        "timestamp": 1656577588,
+        "sentiment": 3,
+        "published": "June 30, 2022 4:26 AM"
+    },
+    {
+        "title": "Russia says it has withdrawn from Snake Island 'as gesture of goodwill'",
+        "domain": "news.sky.com",
+        "category": "ukraine",
+        "link": "https://news.sky.com/story/ukraine-news-live-zelenskyy-kremenchuk-putin-12541713?postid=4096282#liveblog-body",
+        "timestamp": 1656579327,
+        "sentiment": 1,
+        "published": "June 30, 2022 4:55 AM"
+    },
+    {
+        "title": "Anti-Disney flyers in corn-filled baggies left in several South Florida neighborhoods",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/miami/news/hateful-flyers-corn-filled-baggies-south-florida-neighborhoods/",
+        "timestamp": 1656592593,
+        "sentiment": 0,
+        "published": "June 30, 2022 8:36 AM"
+    },
+    {
+        "title": "Brawl at The Eagles concert during \"Take It Easy\"",
+        "domain": "consequence.net",
+        "category": "nottheonion",
+        "link": "https://consequence.net/2022/06/brawl-the-eagles-vip-take-it-easy-watch/?fs=e&s=cl",
+        "timestamp": 1656601122,
+        "sentiment": 1,
+        "published": "June 30, 2022 10:58 AM"
     },
     {
         "title": "Supreme Court severely limits the EPA’s ability to regulate carbon emissions",
@@ -756,15 +846,6 @@
         "published": "June 30, 2022 3:48 PM"
     },
     {
-        "title": "Pokémon Go Studio Cancels Projects, Cuts More Than 80 Staff As It Struggles To Find Next Hit",
-        "domain": "kotaku.com",
-        "category": "technology",
-        "link": "https://kotaku.com/pokemon-go-niantic-transformers-canceled-staff-layoffs-1849125442",
-        "timestamp": 1656573419,
-        "sentiment": -4,
-        "published": "June 30, 2022 3:16 AM"
-    },
-    {
         "title": "Brazil wants to follow Europe in making USB-C mandatory for all new phones",
         "domain": "techspot.com",
         "category": "worldnews",
@@ -772,15 +853,6 @@
         "timestamp": 1656575503,
         "sentiment": -1,
         "published": "June 30, 2022 3:51 AM"
-    },
-    {
-        "title": "Donald Trump stalwarts finally turn on him after Hutchinson's testimony",
-        "domain": "newsweek.com",
-        "category": "politics",
-        "link": "https://www.newsweek.com/donald-trump-jan6-cassidy-hutchinson-testimony-capitol-1720510",
-        "timestamp": 1656590932,
-        "sentiment": 0,
-        "published": "June 30, 2022 8:08 AM"
     },
     {
         "title": "Ukraine’s Zelenskyy cuts ties with Syria after it recognized separatist republics",
