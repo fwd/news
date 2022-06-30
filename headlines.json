@@ -27,6 +27,15 @@
         "published": "June 30, 2022 12:17 AM"
     },
     {
+        "title": "Ukraine’s Armed Forces strike another Russian Pantsir-S1 system on Zmiinyi Island",
+        "domain": "ukrinform.net",
+        "category": "ukraine",
+        "link": "https://www.ukrinform.net/rubric-ato/3518436-ukraines-armed-forces-strike-another-russian-pantsirs1-system-on-zmiinyi-island.html",
+        "timestamp": 1656563290,
+        "sentiment": -1,
+        "published": "June 30, 2022 12:28 AM"
+    },
+    {
         "title": "Chess - Putin gives award to Russian (but Ukrainian-born) supergrandmaster Sergey Karjakin for backing Ukraine invasion. Sergey was temp banned by chess federation for the same reason.",
         "domain": "reuters.com",
         "category": "sports",
@@ -41,8 +50,17 @@
         "category": "science",
         "link": "https://www.sciencedirect.com/science/article/abs/pii/S1359178922000441",
         "timestamp": 1656570777,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 30, 2022 2:32 AM"
+    },
+    {
+        "title": "Psychologists uncover a surprising and ironic tendency among collective narcissists",
+        "domain": "psypost.org",
+        "category": "science",
+        "link": "https://www.psypost.org/2022/06/psychologists-uncover-a-surprising-and-ironic-tendency-among-collective-narcissists-63404",
+        "timestamp": 1656571732,
+        "sentiment": 0,
+        "published": "June 30, 2022 2:48 AM"
     },
     {
         "title": "1,000 acres of forest to be returned to Onondaga Nation in historic lake cleanup agreement",
@@ -52,6 +70,24 @@
         "timestamp": 1656571951,
         "sentiment": 0,
         "published": "June 30, 2022 2:52 AM"
+    },
+    {
+        "title": "A study finds Internet Addiction is more common in clinically stable patients with major depressive disorder compared to the reported figures in the general population.",
+        "domain": "sciencedirect.com",
+        "category": "science",
+        "link": "https://www.sciencedirect.com/science/article/abs/pii/S0165032722007273",
+        "timestamp": 1656572855,
+        "sentiment": 0,
+        "published": "June 30, 2022 3:07 AM"
+    },
+    {
+        "title": "Pokémon Go Studio Cancels Projects, Cuts More Than 80 Staff As It Struggles To Find Next Hit",
+        "domain": "kotaku.com",
+        "category": "technology",
+        "link": "https://kotaku.com/pokemon-go-niantic-transformers-canceled-staff-layoffs-1849125442",
+        "timestamp": 1656573419,
+        "sentiment": 0,
+        "published": "June 30, 2022 3:16 AM"
     },
     {
         "title": "President Putin warns Sweden and Finland over NATO troops and infrastructure",
