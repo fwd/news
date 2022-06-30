@@ -5,7 +5,7 @@
         "category": "nottheonion",
         "link": "https://arstechnica.com/tech-policy/2022/06/tiktok-cant-stop-users-from-doxxing-the-supreme-court/",
         "timestamp": 1656562179,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 30, 2022 12:09 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "nottheonion",
         "link": "https://www.newshub.co.nz/home/new-zealand/2022/06/convoy-protesters-plan-to-stand-up-to-high-fuel-prices-by-filling-up-their-cars-and-driving-around-new-zealand.html",
         "timestamp": 1656562320,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 30, 2022 12:12 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "UpliftingNews",
         "link": "https://abc7.com/stolen-gold-medal-olympics-jordyn-poulter-womens-volleyball/12004833/",
         "timestamp": 1656562629,
-        "sentiment": 8,
+        "sentiment": 3,
         "published": "June 30, 2022 12:17 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "science",
         "link": "https://www.sciencedirect.com/science/article/abs/pii/S1359178922000441",
         "timestamp": 1656570777,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "June 30, 2022 2:32 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "UpliftingNews",
         "link": "https://www.syracuse.com/news/2022/06/1000-acres-to-return-to-onondaga-nation-in-historic-lake-cleanup-agreement.html",
         "timestamp": 1656571951,
-        "sentiment": 8,
+        "sentiment": 3,
         "published": "June 30, 2022 2:52 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "technology",
         "link": "https://kotaku.com/pokemon-go-niantic-transformers-canceled-staff-layoffs-1849125442",
         "timestamp": 1656573419,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "June 30, 2022 3:16 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "UpliftingNews",
         "link": "https://www.stripes.com/veterans/2022-06-29/veterans-elections-poll-workers-shortage-6500565.html",
         "timestamp": 1656576275,
-        "sentiment": 8,
+        "sentiment": 3,
         "published": "June 30, 2022 4:04 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "science",
         "link": "https://www.nature.com/articles/s41586-022-04824-9",
         "timestamp": 1656577047,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "June 30, 2022 4:17 AM"
     },
     {
@@ -113,7 +113,7 @@
         "category": "technology",
         "link": "https://www.theguardian.com/technology/2022/jun/30/amazon-bows-to-uae-pressure-to-restrict-lgbt-search-results",
         "timestamp": 1656577588,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "June 30, 2022 4:26 AM"
     },
     {
@@ -149,7 +149,7 @@
         "category": "nottheonion",
         "link": "https://www.nzherald.co.nz/nz/intellectually-disabled-man-doled-out-multiple-wedgies-to-random-children/EQNNGL7G3XU7Z4G6Z6O5GYXF2Q/",
         "timestamp": 1656579491,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 30, 2022 4:58 AM"
     },
     {
@@ -167,7 +167,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/donald-trump-girth-suv-secret-service-cassidy-hutchinson-january-6-2022-6",
         "timestamp": 1656582922,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "June 30, 2022 5:55 AM"
     },
     {
@@ -176,7 +176,7 @@
         "category": "news",
         "link": "https://news.sky.com/story/mother-fatally-shot-at-point-blank-range-while-pushing-baby-in-pram-in-new-york-city-12642901",
         "timestamp": 1656583622,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "June 30, 2022 6:07 AM"
     },
     {
@@ -185,7 +185,7 @@
         "category": "science",
         "link": "https://newatlas.com/health-wellbeing/report-cancer-europe-chemical-environment-pollution/",
         "timestamp": 1656583754,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "June 30, 2022 6:09 AM"
     },
     {
@@ -194,17 +194,17 @@
         "category": "science",
         "link": "https://www.eurekalert.org/news-releases/957392",
         "timestamp": 1656584592,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "June 30, 2022 6:23 AM"
     },
     {
-        "title": "Big tech's abortion travel policies do nothing for its contractor workforce | For some companies, these policies exclude the majority of their workforce.",
-        "domain": "engadget.com",
-        "category": "technology",
-        "link": "https://www.engadget.com/tech-contractors-abortion-roe-robbs-uber-lyft-212737071.html",
-        "timestamp": 1656585511,
-        "sentiment": 0,
-        "published": "June 30, 2022 6:38 AM"
+        "title": "Ukraine drives Russian forces from Snake Island, a setback for Moscow.",
+        "domain": "nytimes.com",
+        "category": "worldnews",
+        "link": "https://www.nytimes.com/2022/06/30/world/europe/ukraine-russia-snake-island.html?referringSource=articleShare",
+        "timestamp": 1656584984,
+        "sentiment": -1,
+        "published": "June 30, 2022 6:29 AM"
     },
     {
         "title": "Liz Cheney: 'Republicans cannot be both loyal to Donald Trump and loyal to the Constitution'",
@@ -212,7 +212,7 @@
         "category": "politics",
         "link": "https://www.politico.com/news/2022/06/29/liz-cheney-republicans-trump-constitution-00043374",
         "timestamp": 1656585629,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "June 30, 2022 6:40 AM"
     },
     {
@@ -221,7 +221,7 @@
         "category": "technology",
         "link": "https://www.techrepublic.com/article/pentagon-finds-concerning-vulnerabilities-on-blockchain/",
         "timestamp": 1656585869,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "June 30, 2022 6:44 AM"
     },
     {
@@ -230,7 +230,7 @@
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-news/anti-abortion-kentucky-federal-judge-nomination-biden-mitch-mcconnell-chad-meredith-1376416/",
         "timestamp": 1656585876,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "June 30, 2022 6:44 AM"
     },
     {
@@ -248,7 +248,7 @@
         "category": "UpliftingNews",
         "link": "https://www.reuters.com/world/europe/russia-steps-up-attacks-ukraine-after-landmark-nato-summit-2022-06-30/",
         "timestamp": 1656586753,
-        "sentiment": 8,
+        "sentiment": 3,
         "published": "June 30, 2022 6:59 AM"
     },
     {
@@ -266,7 +266,7 @@
         "category": "science",
         "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268785",
         "timestamp": 1656587370,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "June 30, 2022 7:09 AM"
     },
     {
@@ -279,21 +279,12 @@
         "published": "June 30, 2022 7:13 AM"
     },
     {
-        "title": "Liz Cheney calls Trump ‘a domestic threat that we have never faced before.’ | In a forceful speech, the congresswoman also denounced Republican leaders who had “made themselves willing hostages to this dangerous and irrational man.”",
-        "domain": "nytimes.com",
-        "category": "politics",
-        "link": "https://www.nytimes.com/2022/06/29/us/politics/liz-cheney-speech-trump.html",
-        "timestamp": 1656587680,
-        "sentiment": -5,
-        "published": "June 30, 2022 7:14 AM"
-    },
-    {
         "title": "BMW Reminds Drivers To Use Their Car’s Indicators",
         "domain": "carthrottle.com",
         "category": "nottheonion",
         "link": "https://www.carthrottle.com/post/bmw-reminds-drivers-to-use-their-cars-indicators/",
         "timestamp": 1656589107,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 30, 2022 7:38 AM"
     },
     {
@@ -302,7 +293,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/biden-nominating-anti-abortion-republican-chad-meredith-federal-judge-reports-2022-6",
         "timestamp": 1656589272,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "June 30, 2022 7:41 AM"
     },
     {
@@ -311,7 +302,7 @@
         "category": "nottheonion",
         "link": "https://www.todayonline.com/singapore/email-obscene-photo-genitals-police-officer-1934411",
         "timestamp": 1656589714,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 30, 2022 7:48 AM"
     },
     {
@@ -320,7 +311,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/donald-trump-jan6-cassidy-hutchinson-testimony-capitol-1720510",
         "timestamp": 1656590932,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "June 30, 2022 8:08 AM"
     },
     {
@@ -329,7 +320,7 @@
         "category": "science",
         "link": "https://royalsocietypublishing.org/doi/10.1098/rsos.211573",
         "timestamp": 1656590990,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "June 30, 2022 8:09 AM"
     },
     {
@@ -338,7 +329,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/amazon-brings-data-analytics-mining-to-its-physical-grocery-stores-2022-6",
         "timestamp": 1656592218,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "June 30, 2022 8:30 AM"
     },
     {
@@ -347,7 +338,7 @@
         "category": "news",
         "link": "https://www.itv.com/news/2022-06-30/napalm-girl-received-final-skin-treatment-50-years-on-from-war-defining-photo",
         "timestamp": 1656592247,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "June 30, 2022 8:30 AM"
     },
     {
@@ -356,7 +347,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/miami/news/hateful-flyers-corn-filled-baggies-south-florida-neighborhoods/",
         "timestamp": 1656592593,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "June 30, 2022 8:36 AM"
     },
     {
@@ -374,7 +365,7 @@
         "category": "florida",
         "link": "https://www.justice.gov/opa/pr/sober-home-owner-sentenced-30-months-prison-45-million-kickback-scheme",
         "timestamp": 1656592880,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 8:41 AM"
     },
     {
@@ -383,7 +374,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/06/30/democrats-heres-a-thought-stop-retreating-stand-up-for-your-own-for-once/",
         "timestamp": 1656593183,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "June 30, 2022 8:46 AM"
     },
     {
@@ -392,7 +383,7 @@
         "category": "florida",
         "link": "https://www.sun-sentinel.com/news/florida/fl-ne-food-banks-struggling-under-inflation-demand-supply-chain-issues-20220630-6jf4krx2czbjlpsaw5cutyhjpq-story.html",
         "timestamp": 1656594033,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 9:00 AM"
     },
     {
@@ -401,8 +392,17 @@
         "category": "nottheonion",
         "link": "https://www.turkishminute.com/2022/06/29/former-ankara-mayor-ridiculed-for-believing-tweet-on-discovery-of-jelly-bean-reserves-in-turkey/",
         "timestamp": 1656594095,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "June 30, 2022 9:01 AM"
+    },
+    {
+        "title": "Donald Trump Could Be Illegally Tampering With Jan. 6 Witnesses, Legal Experts Say",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/trump-obstruction-of-justice-witness-tampering_n_62bcb434e4b0f612572241a4",
+        "timestamp": 1656594455,
+        "sentiment": -1,
+        "published": "June 30, 2022 9:07 AM"
     },
     {
         "title": "Biden supports changing filibuster rules to codify Roe v. Wade",
@@ -410,7 +410,7 @@
         "category": "politics",
         "link": "https://www.msnbc.com/msnbc/watch/biden-supports-changing-filibuster-rules-to-codify-roe-v-wade-143165509524",
         "timestamp": 1656596118,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "June 30, 2022 9:35 AM"
     },
     {
@@ -419,7 +419,7 @@
         "category": "technology",
         "link": "https://www.vice.com/en/article/qjkpe3/bernie-sanders-has-a-plan-to-end-flight-delays-and-cancellations-fine-their-asses",
         "timestamp": 1656596346,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "June 30, 2022 9:39 AM"
     },
     {
@@ -428,7 +428,7 @@
         "category": "technology",
         "link": "https://www.euronews.com/green/2022/06/30/global-nuclear-power-capacity-must-double-by-2050-if-we-want-to-ensure-energy-security",
         "timestamp": 1656597074,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "June 30, 2022 9:51 AM"
     },
     {
@@ -437,7 +437,7 @@
         "category": "florida",
         "link": "https://www.msn.com/en-us/news/us/florida-surgeon-general-admits-state-decision-could-limit-vaccine-for-thousands-of-kids/ar-AAZ0ilm",
         "timestamp": 1656597488,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 9:58 AM"
     },
     {
@@ -446,7 +446,7 @@
         "category": "politics",
         "link": "https://www.latimes.com/politics/story/2022-06-30/supreme-court-rules-for-coal-producing-states-limits-epas-power-to-fight-climate-change",
         "timestamp": 1656597979,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "June 30, 2022 10:06 AM"
     },
     {
@@ -464,8 +464,17 @@
         "category": "news",
         "link": "https://www.cbsnews.com/live-updates/supreme-court-epa-regulate-greenhouse-gas-emissions/",
         "timestamp": 1656597983,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "June 30, 2022 10:06 AM"
+    },
+    {
+        "title": "Supreme Court Kneecaps Federal Government’s Ability to Fight Climate Change",
+        "domain": "vice.com",
+        "category": "technology",
+        "link": "https://www.vice.com/en/article/wxn8pz/supreme-court-kneecaps-federal-governments-ability-to-fight-climate-change",
+        "timestamp": 1656598456,
+        "sentiment": 5,
+        "published": "June 30, 2022 10:14 AM"
     },
     {
         "title": "Shyness linked to reduced behavioral mimicry during conversation via heightened self-focused attention",
@@ -473,7 +482,7 @@
         "category": "science",
         "link": "https://www.psypost.org/2022/06/shyness-linked-to-reduced-behavioral-mimicry-during-conversation-via-heightened-self-focused-attention-63400",
         "timestamp": 1656599436,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "June 30, 2022 10:30 AM"
     },
     {
@@ -482,7 +491,7 @@
         "category": "UpliftingNews",
         "link": "https://www.itv.com/news/2022-06-30/napalm-girl-received-final-skin-treatment-50-years-on-from-war-defining-photo",
         "timestamp": 1656599941,
-        "sentiment": 8,
+        "sentiment": 3,
         "published": "June 30, 2022 10:39 AM"
     },
     {
@@ -491,8 +500,35 @@
         "category": "news",
         "link": "https://globalnews.ca/news/8957137/uvalde-school-shooting-police-harassment/",
         "timestamp": 1656600798,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "June 30, 2022 10:53 AM"
+    },
+    {
+        "title": "Biden says Americans will have to stomach high gas prices “as long as it takes” to beat back Putin’s invasion of Ukraine",
+        "domain": "bloomberg.com",
+        "category": "worldnews",
+        "link": "https://www.bloomberg.com/news/articles/2022-06-30/us-will-face-high-gas-prices-as-long-as-it-takes-biden-says",
+        "timestamp": 1656600977,
+        "sentiment": -1,
+        "published": "June 30, 2022 10:56 AM"
+    },
+    {
+        "title": "Brawl at The Eagles concert during \"Take It Easy\"",
+        "domain": "consequence.net",
+        "category": "nottheonion",
+        "link": "https://consequence.net/2022/06/brawl-the-eagles-vip-take-it-easy-watch/?fs=e&s=cl",
+        "timestamp": 1656601122,
+        "sentiment": 0,
+        "published": "June 30, 2022 10:58 AM"
+    },
+    {
+        "title": "Supreme Court to take on controversial election-law case",
+        "domain": "npr.org",
+        "category": "news",
+        "link": "https://www.npr.org/2022/06/30/1106866830/supreme-court-to-take-on-controversial-election-law-case?origin=NOTIFY",
+        "timestamp": 1656601186,
+        "sentiment": -4,
+        "published": "June 30, 2022 10:59 AM"
     },
     {
         "title": "Biden says he'd support eliminating filibuster to codify Roe and right to privacy.",
@@ -500,8 +536,98 @@
         "category": "UpliftingNews",
         "link": "https://www.cbsnews.com/news/biden-support-eliminating-filibuster-codify-roe-right-to-privacy/",
         "timestamp": 1656601224,
-        "sentiment": 8,
+        "sentiment": 3,
         "published": "June 30, 2022 11:00 AM"
+    },
+    {
+        "title": "Meet High King Gil-Galad From THE LORD OF THE RINGS: THE RINGS OF POWER",
+        "domain": "nerdist.com",
+        "category": "television",
+        "link": "https://nerdist.com/article/lord-of-the-rings-the-rings-of-power-who-is-gil-galad-benjamin-walker-interview-exclusive-images/",
+        "timestamp": 1656601611,
+        "sentiment": 0,
+        "published": "June 30, 2022 11:06 AM"
+    },
+    {
+        "title": "Soldiers who experience high combat severity is associated with a 190% increase in the odds of them experiencing mental health disorders.",
+        "domain": "system.com",
+        "category": "science",
+        "link": "https://www.system.com/view/study/OMshB19UjMq?view_context=graph",
+        "timestamp": 1656602241,
+        "sentiment": 2,
+        "published": "June 30, 2022 11:17 AM"
+    },
+    {
+        "title": "Army drops requirement that recruits have high school diplomas",
+        "domain": "stripes.com",
+        "category": "nottheonion",
+        "link": "https://www.stripes.com/branches/army/2022-06-29/army-high-school-diploma-recruits-6499118.html",
+        "timestamp": 1656602718,
+        "sentiment": 0,
+        "published": "June 30, 2022 11:25 AM"
+    },
+    {
+        "title": "Offshore wind installations surged threefold last year",
+        "domain": "canarymedia.com",
+        "category": "UpliftingNews",
+        "link": "https://www.canarymedia.com/articles/wind/offshore-wind-installations-surged-threefold-last-year",
+        "timestamp": 1656602891,
+        "sentiment": 3,
+        "published": "June 30, 2022 11:28 AM"
+    },
+    {
+        "title": "Egypt Prosecution Orders Release of a Somali Girl Who Killed A Driver who Tried to Rape her",
+        "domain": "egyptianstreets.com",
+        "category": "UpliftingNews",
+        "link": "https://egyptianstreets.com/2022/05/28/egypt-prosecution-orders-release-of-somali-girl-who-killed-attempted-rapist/",
+        "timestamp": 1656604460,
+        "sentiment": 3,
+        "published": "June 30, 2022 11:54 AM"
+    },
+    {
+        "title": "Jackson sworn in, becomes 1st Black woman on Supreme Court",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/ketanji-brown-jackson-swearing-in-5a5115f58e163789dfda5a8af0b14221",
+        "timestamp": 1656605737,
+        "sentiment": -4,
+        "published": "June 30, 2022 12:15 PM"
+    },
+    {
+        "title": "Culture Secretary Nadine Dorries gets rugby league and rugby union mixed up while speaking at world cup event",
+        "domain": "news.sky.com",
+        "category": "sports",
+        "link": "https://news.sky.com/story/culture-secretary-nadine-dorries-gets-rugby-league-and-rugby-union-mixed-up-while-speaking-at-world-cup-event-12643212",
+        "timestamp": 1656606659,
+        "sentiment": 0,
+        "published": "June 30, 2022 12:30 PM"
+    },
+    {
+        "title": "الدورة الأخيرة من البطولة الوطنية",
+        "domain": "riyadiyama.com",
+        "category": "sports",
+        "link": "http://www.riyadiyama.com/2022/06/blog-post_200.html",
+        "timestamp": 1656607345,
+        "sentiment": 0,
+        "published": "June 30, 2022 12:42 PM"
+    },
+    {
+        "title": "Big tech's abortion travel policies do nothing for its contractor workforce | For some companies, these policies exclude the majority of their workforce.",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/tech-contractors-abortion-roe-robbs-uber-lyft-212737071.html",
+        "timestamp": 1656585511,
+        "sentiment": 0,
+        "published": "June 30, 2022 6:38 AM"
+    },
+    {
+        "title": "Liz Cheney calls Trump ‘a domestic threat that we have never faced before.’ | In a forceful speech, the congresswoman also denounced Republican leaders who had “made themselves willing hostages to this dangerous and irrational man.”",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2022/06/29/us/politics/liz-cheney-speech-trump.html",
+        "timestamp": 1656587680,
+        "sentiment": -5,
+        "published": "June 30, 2022 7:14 AM"
     },
     {
         "title": "A study finds Internet Addiction is more common in clinically stable patients with major depressive disorder compared to the reported figures in the general population.",
