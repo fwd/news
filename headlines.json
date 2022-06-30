@@ -5,17 +5,8 @@
         "category": "nottheonion",
         "link": "https://arstechnica.com/tech-policy/2022/06/tiktok-cant-stop-users-from-doxxing-the-supreme-court/",
         "timestamp": 1656562179,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 12:09 AM"
-    },
-    {
-        "title": "This Bored Ape Crypto Restaurant Has Stopped Accepting Crypto",
-        "domain": "thegamer.com",
-        "category": "nottheonion",
-        "link": "https://www.thegamer.com/bored-ape-nft-restaurant-crypto-payments-cancelled-crash",
-        "timestamp": 1656562249,
-        "sentiment": 0,
-        "published": "June 30, 2022 12:10 AM"
     },
     {
         "title": "Convoy protesters plan to stand up to high fuel prices by filling up their cars and driving around New Zealand",
@@ -23,7 +14,7 @@
         "category": "nottheonion",
         "link": "https://www.newshub.co.nz/home/new-zealand/2022/06/convoy-protesters-plan-to-stand-up-to-high-fuel-prices-by-filling-up-their-cars-and-driving-around-new-zealand.html",
         "timestamp": 1656562320,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 12:12 AM"
     },
     {
@@ -32,7 +23,7 @@
         "category": "UpliftingNews",
         "link": "https://abc7.com/stolen-gold-medal-olympics-jordyn-poulter-womens-volleyball/12004833/",
         "timestamp": 1656562629,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 30, 2022 12:17 AM"
     },
     {
@@ -52,6 +43,15 @@
         "timestamp": 1656569152,
         "sentiment": -2,
         "published": "June 30, 2022 2:05 AM"
+    },
+    {
+        "title": "Russia's attack on Mariupol theatre a clear war crime, Amnesty says",
+        "domain": "bbc.com",
+        "category": "ukraine",
+        "link": "https://www.bbc.com/news/world-europe-61979873",
+        "timestamp": 1656570038,
+        "sentiment": -5,
+        "published": "June 30, 2022 2:20 AM"
     },
     {
         "title": "A review of quantitative research studies suggests men who use intimate partner violence behavior may have deficits in areas of the brain that impact cognitive flexibility, mental organization, impulsivity, and emotion regulation.",
@@ -77,7 +77,7 @@
         "category": "UpliftingNews",
         "link": "https://www.syracuse.com/news/2022/06/1000-acres-to-return-to-onondaga-nation-in-historic-lake-cleanup-agreement.html",
         "timestamp": 1656571951,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 30, 2022 2:52 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.themoscowtimes.com/2022/06/30/russias-car-manufacturing-collapses-by-97-in-may-a78151",
         "timestamp": 1656573230,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 30, 2022 3:13 AM"
     },
     {
@@ -113,8 +113,17 @@
         "category": "worldnews",
         "link": "https://www.techspot.com/news/95120-brazil-wants-follow-europe-making-usb-c-mandatory.html",
         "timestamp": 1656575503,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 30, 2022 3:51 AM"
+    },
+    {
+        "title": "This company is helping Ukrainian tech workers land contract gigs",
+        "domain": "fastcompany.com",
+        "category": "UpliftingNews",
+        "link": "https://www.fastcompany.com/90740551/this-company-is-helping-ukrainian-tech-workers-land-contract-gigs",
+        "timestamp": 1656576262,
+        "sentiment": 2,
+        "published": "June 30, 2022 4:04 AM"
     },
     {
         "title": "Veterans group launches coalition to recruit 100,000 vets to help combat poll worker shortage",
@@ -122,7 +131,7 @@
         "category": "UpliftingNews",
         "link": "https://www.stripes.com/veterans/2022-06-29/veterans-elections-poll-workers-shortage-6500565.html",
         "timestamp": 1656576275,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "June 30, 2022 4:04 AM"
     },
     {
@@ -131,7 +140,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/russia-and-china-slam-nato-after-alliance-raises-alarm/ar-AAZ1Fr3?ocid=EMMX&cvid=4a7ff78bf48148d7b5867c8c7bee789f",
         "timestamp": 1656576459,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 30, 2022 4:07 AM"
     },
     {
@@ -158,7 +167,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/zelenskyy-brands-russia-a-terrorist-state-calls-for-it-to-be-expelled-from-the-united-nations/ar-AAZ1Kv0?ocid=EMMX&cvid=be7b597e27144364b416f33efa9b6c74",
         "timestamp": 1656578636,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "June 30, 2022 4:43 AM"
     },
     {
@@ -167,7 +176,7 @@
         "category": "ukraine",
         "link": "https://news.sky.com/story/ukraine-news-live-zelenskyy-kremenchuk-putin-12541713?postid=4096282#liveblog-body",
         "timestamp": 1656579327,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 30, 2022 4:55 AM"
     },
     {
@@ -176,7 +185,7 @@
         "category": "ukraine",
         "link": "https://www.bbc.com/news/live/world-europe-61987663",
         "timestamp": 1656579421,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "June 30, 2022 4:57 AM"
     },
     {
@@ -185,8 +194,134 @@
         "category": "nottheonion",
         "link": "https://www.nzherald.co.nz/nz/intellectually-disabled-man-doled-out-multiple-wedgies-to-random-children/EQNNGL7G3XU7Z4G6Z6O5GYXF2Q/",
         "timestamp": 1656579491,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 4:58 AM"
+    },
+    {
+        "title": "Russia retreats from Snake Island where warship was told 'go f*** yourself'",
+        "domain": "metro.co.uk",
+        "category": "worldnews",
+        "link": "https://metro.co.uk/2022/06/30/russia-retreats-from-snake-island-where-warship-told-go-fk-yourself-16917540/",
+        "timestamp": 1656580048,
+        "sentiment": -3,
+        "published": "June 30, 2022 5:07 AM"
+    },
+    {
+        "title": "Putin: Western leaders would look ‘disgusting’ topless.",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/g-7-summit-russia-ukraine-putin-boris-johnson-justin-trudeau-6f900bb1c186cb69974b7d04f2e76c83",
+        "timestamp": 1656582967,
+        "sentiment": -3,
+        "published": "June 30, 2022 5:56 AM"
+    },
+    {
+        "title": "Bernie Ecclestone says he would 'take a bullet' for 'first class' Vladimir Putin as he defends war in Ukraine | World News",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/bernie-ecclestone-says-he-would-take-a-bullet-for-first-class-vladimir-putin-as-he-defends-war-in-ukraine-12642942",
+        "timestamp": 1656583424,
+        "sentiment": -3,
+        "published": "June 30, 2022 6:03 AM"
+    },
+    {
+        "title": "Mother fatally shot 'at point-blank range' while pushing baby in pram in New York City | US News",
+        "domain": "news.sky.com",
+        "category": "news",
+        "link": "https://news.sky.com/story/mother-fatally-shot-at-point-blank-range-while-pushing-baby-in-pram-in-new-york-city-12642901",
+        "timestamp": 1656583622,
+        "sentiment": -2,
+        "published": "June 30, 2022 6:07 AM"
+    },
+    {
+        "title": "Report estimates 10% of all cancers in Europe are caused by pollution",
+        "domain": "newatlas.com",
+        "category": "science",
+        "link": "https://newatlas.com/health-wellbeing/report-cancer-europe-chemical-environment-pollution/",
+        "timestamp": 1656583754,
+        "sentiment": 0,
+        "published": "June 30, 2022 6:09 AM"
+    },
+    {
+        "title": "Big tech's abortion travel policies do nothing for its contractor workforce | For some companies, these policies exclude the majority of their workforce.",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/tech-contractors-abortion-roe-robbs-uber-lyft-212737071.html",
+        "timestamp": 1656585511,
+        "sentiment": 0,
+        "published": "June 30, 2022 6:38 AM"
+    },
+    {
+        "title": "Liz Cheney: 'Republicans cannot be both loyal to Donald Trump and loyal to the Constitution'",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2022/06/29/liz-cheney-republicans-trump-constitution-00043374",
+        "timestamp": 1656585629,
+        "sentiment": 0,
+        "published": "June 30, 2022 6:40 AM"
+    },
+    {
+        "title": "Pentagon finds concerning vulnerabilities on blockchain",
+        "domain": "techrepublic.com",
+        "category": "technology",
+        "link": "https://www.techrepublic.com/article/pentagon-finds-concerning-vulnerabilities-on-blockchain/",
+        "timestamp": 1656585869,
+        "sentiment": 0,
+        "published": "June 30, 2022 6:44 AM"
+    },
+    {
+        "title": "Russia abandons Snake Island in strategic victory for Ukraine",
+        "domain": "reuters.com",
+        "category": "UpliftingNews",
+        "link": "https://www.reuters.com/world/europe/russia-steps-up-attacks-ukraine-after-landmark-nato-summit-2022-06-30/",
+        "timestamp": 1656586753,
+        "sentiment": 2,
+        "published": "June 30, 2022 6:59 AM"
+    },
+    {
+        "title": "'Friends' cocreator says she's 'embarrassed' by the show's lack of diversity as she announces $4 million donation to African American studies",
+        "domain": "insider.com",
+        "category": "television",
+        "link": "https://www.insider.com/friends-marta-kauffman-embarrassed-lack-diversity-2022-6",
+        "timestamp": 1656587243,
+        "sentiment": 0,
+        "published": "June 30, 2022 7:07 AM"
+    },
+    {
+        "title": "Women’s techniques for pleasure from anal touch: Results from a U.S. probability sample of women ages 18–93",
+        "domain": "journals.plos.org",
+        "category": "science",
+        "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268785",
+        "timestamp": 1656587370,
+        "sentiment": 0,
+        "published": "June 30, 2022 7:09 AM"
+    },
+    {
+        "title": "BMW Reminds Drivers To Use Their Car’s Indicators",
+        "domain": "carthrottle.com",
+        "category": "nottheonion",
+        "link": "https://www.carthrottle.com/post/bmw-reminds-drivers-to-use-their-cars-indicators/",
+        "timestamp": 1656589107,
+        "sentiment": -2,
+        "published": "June 30, 2022 7:38 AM"
+    },
+    {
+        "title": "Man emailed photos of his genitals to female police officer, jailed 9 weeks",
+        "domain": "todayonline.com",
+        "category": "nottheonion",
+        "link": "https://www.todayonline.com/singapore/email-obscene-photo-genitals-police-officer-1934411",
+        "timestamp": 1656589714,
+        "sentiment": -2,
+        "published": "June 30, 2022 7:48 AM"
+    },
+    {
+        "title": "This Bored Ape Crypto Restaurant Has Stopped Accepting Crypto",
+        "domain": "thegamer.com",
+        "category": "nottheonion",
+        "link": "https://www.thegamer.com/bored-ape-nft-restaurant-crypto-payments-cancelled-crash",
+        "timestamp": 1656562249,
+        "sentiment": 0,
+        "published": "June 30, 2022 12:10 AM"
     },
     {
         "title": "This similarity between human and octopus brains has scientists shocked",
@@ -207,33 +342,6 @@
         "published": "June 30, 2022 5:36 AM"
     },
     {
-        "title": "Putin: Western leaders would look ‘disgusting’ topless.",
-        "domain": "apnews.com",
-        "category": "worldnews",
-        "link": "https://apnews.com/article/g-7-summit-russia-ukraine-putin-boris-johnson-justin-trudeau-6f900bb1c186cb69974b7d04f2e76c83",
-        "timestamp": 1656582967,
-        "sentiment": -2,
-        "published": "June 30, 2022 5:56 AM"
-    },
-    {
-        "title": "Bernie Ecclestone says he would 'take a bullet' for 'first class' Vladimir Putin as he defends war in Ukraine | World News",
-        "domain": "news.sky.com",
-        "category": "worldnews",
-        "link": "https://news.sky.com/story/bernie-ecclestone-says-he-would-take-a-bullet-for-first-class-vladimir-putin-as-he-defends-war-in-ukraine-12642942",
-        "timestamp": 1656583424,
-        "sentiment": -2,
-        "published": "June 30, 2022 6:03 AM"
-    },
-    {
-        "title": "Report estimates 10% of all cancers in Europe are caused by pollution",
-        "domain": "newatlas.com",
-        "category": "science",
-        "link": "https://newatlas.com/health-wellbeing/report-cancer-europe-chemical-environment-pollution/",
-        "timestamp": 1656583754,
-        "sentiment": 0,
-        "published": "June 30, 2022 6:09 AM"
-    },
-    {
         "title": "Some teachers alarmed by Florida civics training approach on religion, slavery",
         "domain": "tampabay.com",
         "category": "florida",
@@ -241,33 +349,6 @@
         "timestamp": 1656585467,
         "sentiment": 0,
         "published": "June 30, 2022 6:37 AM"
-    },
-    {
-        "title": "Pentagon finds concerning vulnerabilities on blockchain",
-        "domain": "techrepublic.com",
-        "category": "technology",
-        "link": "https://www.techrepublic.com/article/pentagon-finds-concerning-vulnerabilities-on-blockchain/",
-        "timestamp": 1656585869,
-        "sentiment": 0,
-        "published": "June 30, 2022 6:44 AM"
-    },
-    {
-        "title": "Russia abandons Snake Island in strategic victory for Ukraine",
-        "domain": "reuters.com",
-        "category": "UpliftingNews",
-        "link": "https://www.reuters.com/world/europe/russia-steps-up-attacks-ukraine-after-landmark-nato-summit-2022-06-30/",
-        "timestamp": 1656586753,
-        "sentiment": 0,
-        "published": "June 30, 2022 6:59 AM"
-    },
-    {
-        "title": "Russia's attack on Mariupol theatre a clear war crime, Amnesty says",
-        "domain": "bbc.com",
-        "category": "ukraine",
-        "link": "https://www.bbc.com/news/world-europe-61979873",
-        "timestamp": 1656570038,
-        "sentiment": -5,
-        "published": "June 30, 2022 2:20 AM"
     },
     {
         "title": "Ukraine’s Armed Forces strike another Russian Pantsir-S1 system on Zmiinyi Island",
