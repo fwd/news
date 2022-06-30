@@ -5,7 +5,7 @@
         "category": "nottheonion",
         "link": "https://arstechnica.com/tech-policy/2022/06/tiktok-cant-stop-users-from-doxxing-the-supreme-court/",
         "timestamp": 1656562179,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 30, 2022 12:09 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "nottheonion",
         "link": "https://www.newshub.co.nz/home/new-zealand/2022/06/convoy-protesters-plan-to-stand-up-to-high-fuel-prices-by-filling-up-their-cars-and-driving-around-new-zealand.html",
         "timestamp": 1656562320,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 30, 2022 12:12 AM"
     },
     {
@@ -34,15 +34,6 @@
         "timestamp": 1656568320,
         "sentiment": 0,
         "published": "June 30, 2022 1:52 AM"
-    },
-    {
-        "title": "Libraries in Canada hit by wave of hate, threats, as right-wing groups protest all-age drag events",
-        "domain": "cbc.ca",
-        "category": "news",
-        "link": "https://www.cbc.ca/news/investigates/libraries-threats-all-age-drag-1.6501247",
-        "timestamp": 1656569152,
-        "sentiment": 0,
-        "published": "June 30, 2022 2:05 AM"
     },
     {
         "title": "A review of quantitative research studies suggests men who use intimate partner violence behavior may have deficits in areas of the brain that impact cognitive flexibility, mental organization, impulsivity, and emotion regulation.",
@@ -77,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.themoscowtimes.com/2022/06/30/russias-car-manufacturing-collapses-by-97-in-may-a78151",
         "timestamp": 1656573230,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 30, 2022 3:13 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "technology",
         "link": "https://kotaku.com/pokemon-go-niantic-transformers-canceled-staff-layoffs-1849125442",
         "timestamp": 1656573419,
-        "sentiment": -2,
+        "sentiment": 11,
         "published": "June 30, 2022 3:16 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.techspot.com/news/95120-brazil-wants-follow-europe-making-usb-c-mandatory.html",
         "timestamp": 1656575503,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 30, 2022 3:51 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/russia-and-china-slam-nato-after-alliance-raises-alarm/ar-AAZ1Fr3?ocid=EMMX&cvid=4a7ff78bf48148d7b5867c8c7bee789f",
         "timestamp": 1656576459,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 30, 2022 4:07 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "technology",
         "link": "https://www.theguardian.com/technology/2022/jun/30/amazon-bows-to-uae-pressure-to-restrict-lgbt-search-results",
         "timestamp": 1656577588,
-        "sentiment": -2,
+        "sentiment": 11,
         "published": "June 30, 2022 4:26 AM"
     },
     {
@@ -149,7 +140,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/zelenskyy-brands-russia-a-terrorist-state-calls-for-it-to-be-expelled-from-the-united-nations/ar-AAZ1Kv0?ocid=EMMX&cvid=be7b597e27144364b416f33efa9b6c74",
         "timestamp": 1656578636,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 30, 2022 4:43 AM"
     },
     {
@@ -171,21 +162,12 @@
         "published": "June 30, 2022 4:57 AM"
     },
     {
-        "title": "Man allowed back into community after wedgie spree",
-        "domain": "nzherald.co.nz",
-        "category": "nottheonion",
-        "link": "https://www.nzherald.co.nz/nz/intellectually-disabled-man-doled-out-multiple-wedgies-to-random-children/EQNNGL7G3XU7Z4G6Z6O5GYXF2Q/",
-        "timestamp": 1656579491,
-        "sentiment": 0,
-        "published": "June 30, 2022 4:58 AM"
-    },
-    {
         "title": "Russia retreats from Snake Island where warship was told 'go f*** yourself'",
         "domain": "metro.co.uk",
         "category": "worldnews",
         "link": "https://metro.co.uk/2022/06/30/russia-retreats-from-snake-island-where-warship-told-go-fk-yourself-16917540/",
         "timestamp": 1656580048,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 30, 2022 5:07 AM"
     },
     {
@@ -194,7 +176,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/donald-trump-girth-suv-secret-service-cassidy-hutchinson-january-6-2022-6",
         "timestamp": 1656582922,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 30, 2022 5:55 AM"
     },
     {
@@ -203,7 +185,7 @@
         "category": "news",
         "link": "https://news.sky.com/story/mother-fatally-shot-at-point-blank-range-while-pushing-baby-in-pram-in-new-york-city-12642901",
         "timestamp": 1656583622,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "June 30, 2022 6:07 AM"
     },
     {
@@ -230,7 +212,7 @@
         "category": "technology",
         "link": "https://www.engadget.com/tech-contractors-abortion-roe-robbs-uber-lyft-212737071.html",
         "timestamp": 1656585511,
-        "sentiment": -2,
+        "sentiment": 11,
         "published": "June 30, 2022 6:38 AM"
     },
     {
@@ -239,7 +221,7 @@
         "category": "politics",
         "link": "https://www.politico.com/news/2022/06/29/liz-cheney-republicans-trump-constitution-00043374",
         "timestamp": 1656585629,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 30, 2022 6:40 AM"
     },
     {
@@ -248,7 +230,7 @@
         "category": "technology",
         "link": "https://www.techrepublic.com/article/pentagon-finds-concerning-vulnerabilities-on-blockchain/",
         "timestamp": 1656585869,
-        "sentiment": -2,
+        "sentiment": 11,
         "published": "June 30, 2022 6:44 AM"
     },
     {
@@ -257,7 +239,7 @@
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-news/anti-abortion-kentucky-federal-judge-nomination-biden-mitch-mcconnell-chad-meredith-1376416/",
         "timestamp": 1656585876,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 30, 2022 6:44 AM"
     },
     {
@@ -266,7 +248,7 @@
         "category": "worldnews",
         "link": "https://sciencebusiness.net/news/denmark-tells-universities-suspend-all-cooperation-russia",
         "timestamp": 1656586319,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 30, 2022 6:51 AM"
     },
     {
@@ -302,7 +284,7 @@
         "category": "worldnews",
         "link": "https://www.euronews.com/green/2022/06/30/global-nuclear-power-capacity-must-double-by-2050-if-we-want-to-ensure-energy-security",
         "timestamp": 1656587624,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 30, 2022 7:13 AM"
     },
     {
@@ -311,7 +293,7 @@
         "category": "politics",
         "link": "https://www.nytimes.com/2022/06/29/us/politics/liz-cheney-speech-trump.html",
         "timestamp": 1656587680,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 30, 2022 7:14 AM"
     },
     {
@@ -320,16 +302,16 @@
         "category": "nottheonion",
         "link": "https://www.carthrottle.com/post/bmw-reminds-drivers-to-use-their-cars-indicators/",
         "timestamp": 1656589107,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 30, 2022 7:38 AM"
     },
     {
-        "title": "Employees fired for refusing to attend mandatory prayer meetings: Lawsuit",
-        "domain": "newsweek.com",
+        "title": "Biden is nominating an anti-abortion Republican to be a lifetime federal judge, reports say, 5 days after he vowed to protect abortion rights",
+        "domain": "businessinsider.com",
         "category": "politics",
-        "link": "https://www.newsweek.com/employees-fired-refusing-attend-mandatory-prayer-meetings-lawsuit-north-carolina-1720422",
-        "timestamp": 1656589288,
-        "sentiment": -1,
+        "link": "https://www.businessinsider.com/biden-nominating-anti-abortion-republican-chad-meredith-federal-judge-reports-2022-6",
+        "timestamp": 1656589272,
+        "sentiment": 1,
         "published": "June 30, 2022 7:41 AM"
     },
     {
@@ -338,7 +320,7 @@
         "category": "nottheonion",
         "link": "https://www.todayonline.com/singapore/email-obscene-photo-genitals-police-officer-1934411",
         "timestamp": 1656589714,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 30, 2022 7:48 AM"
     },
     {
@@ -347,8 +329,17 @@
         "category": "politics",
         "link": "https://www.newsweek.com/donald-trump-jan6-cassidy-hutchinson-testimony-capitol-1720510",
         "timestamp": 1656590932,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 30, 2022 8:08 AM"
+    },
+    {
+        "title": "Both free range and intensive farming of animals are significant risk factors for zoonosis events, however it is unclear which one poses the biggest hazard",
+        "domain": "royalsocietypublishing.org",
+        "category": "science",
+        "link": "https://royalsocietypublishing.org/doi/10.1098/rsos.211573",
+        "timestamp": 1656590990,
+        "sentiment": 0,
+        "published": "June 30, 2022 8:09 AM"
     },
     {
         "title": "Amazon is introducing new tech to monitor shoppers in its grocery stores and share data with advertisers",
@@ -356,8 +347,26 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/amazon-brings-data-analytics-mining-to-its-physical-grocery-stores-2022-6",
         "timestamp": 1656592218,
-        "sentiment": -2,
+        "sentiment": 11,
         "published": "June 30, 2022 8:30 AM"
+    },
+    {
+        "title": "Vietnam 'Napalm Girl' receives final skin treatment 50 years after war-defining photograph",
+        "domain": "itv.com",
+        "category": "news",
+        "link": "https://www.itv.com/news/2022-06-30/napalm-girl-received-final-skin-treatment-50-years-on-from-war-defining-photo",
+        "timestamp": 1656592247,
+        "sentiment": 5,
+        "published": "June 30, 2022 8:30 AM"
+    },
+    {
+        "title": "Anti-Disney flyers in corn-filled baggies left in several South Florida neighborhoods",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/miami/news/hateful-flyers-corn-filled-baggies-south-florida-neighborhoods/",
+        "timestamp": 1656592593,
+        "sentiment": 5,
+        "published": "June 30, 2022 8:36 AM"
     },
     {
         "title": "Belarus sends out conscription notices en masse",
@@ -365,7 +374,7 @@
         "category": "worldnews",
         "link": "https://english.nv.ua/nation/belarus-sends-out-conscription-notices-en-masse-50253394.html",
         "timestamp": 1656592633,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 30, 2022 8:37 AM"
     },
     {
@@ -378,13 +387,13 @@
         "published": "June 30, 2022 8:41 AM"
     },
     {
-        "title": "As federal programs dry up, South Florida food banks struggle with inflation and increased demand",
-        "domain": "sun-sentinel.com",
-        "category": "florida",
-        "link": "https://www.sun-sentinel.com/news/florida/fl-ne-food-banks-struggling-under-inflation-demand-supply-chain-issues-20220630-6jf4krx2czbjlpsaw5cutyhjpq-story.html",
-        "timestamp": 1656594033,
-        "sentiment": 0,
-        "published": "June 30, 2022 9:00 AM"
+        "title": "Democrats, here's a thought: Stop retreating. Stand up for your own voters for once",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/06/30/democrats-heres-a-thought-stop-retreating-stand-up-for-your-own-for-once/",
+        "timestamp": 1656593183,
+        "sentiment": 1,
+        "published": "June 30, 2022 8:46 AM"
     },
     {
         "title": "Former mayor of Turkey's Capital ridiculed for believing tweet on discovery of jelly bean reserves in Turkey",
@@ -392,8 +401,98 @@
         "category": "nottheonion",
         "link": "https://www.turkishminute.com/2022/06/29/former-ankara-mayor-ridiculed-for-believing-tweet-on-discovery-of-jelly-bean-reserves-in-turkey/",
         "timestamp": 1656594095,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "June 30, 2022 9:01 AM"
+    },
+    {
+        "title": "Naturopaths 'not bound by science,' lawyer argues in B.C. hearing on fecal transplants for autism",
+        "domain": "cbc.ca",
+        "category": "nottheonion",
+        "link": "https://www.cbc.ca/news/canada/british-columbia/bc-naturopath-fecal-transplants-jason-klop-court-hearing-1.6504615",
+        "timestamp": 1656595225,
+        "sentiment": -3,
+        "published": "June 30, 2022 9:20 AM"
+    },
+    {
+        "title": "Couple bought home in Seattle, then learned Comcast Internet would cost $27,000",
+        "domain": "arstechnica.com",
+        "category": "nottheonion",
+        "link": "https://arstechnica.com/tech-policy/2022/06/couple-bought-home-in-seattle-then-learned-comcast-internet-would-cost-27000/",
+        "timestamp": 1656595466,
+        "sentiment": -3,
+        "published": "June 30, 2022 9:24 AM"
+    },
+    {
+        "title": "Biden supports changing filibuster rules to codify Roe v. Wade",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/msnbc/watch/biden-supports-changing-filibuster-rules-to-codify-roe-v-wade-143165509524",
+        "timestamp": 1656596118,
+        "sentiment": 1,
+        "published": "June 30, 2022 9:35 AM"
+    },
+    {
+        "title": "Bernie Sanders Has A Plan to End Flight Delays and Cancellations: Fine Their Asses | “Given all of the generous taxpayer support that has been provided to the airline industry, all of us have a responsibility to make sure that passengers and crew members are treated with respect, not contempt.”",
+        "domain": "vice.com",
+        "category": "technology",
+        "link": "https://www.vice.com/en/article/qjkpe3/bernie-sanders-has-a-plan-to-end-flight-delays-and-cancellations-fine-their-asses",
+        "timestamp": 1656596346,
+        "sentiment": 11,
+        "published": "June 30, 2022 9:39 AM"
+    },
+    {
+        "title": "Florida surgeon general admits state decision could limit vaccine for thousands of kids",
+        "domain": "msn.com",
+        "category": "florida",
+        "link": "https://www.msn.com/en-us/news/us/florida-surgeon-general-admits-state-decision-could-limit-vaccine-for-thousands-of-kids/ar-AAZ0ilm",
+        "timestamp": 1656597488,
+        "sentiment": 0,
+        "published": "June 30, 2022 9:58 AM"
+    },
+    {
+        "title": "Supreme Court rules on EPA's authority to regulate power plants' greenhouse gas emissions",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/live-updates/supreme-court-epa-regulate-greenhouse-gas-emissions/",
+        "timestamp": 1656597983,
+        "sentiment": 5,
+        "published": "June 30, 2022 10:06 AM"
+    },
+    {
+        "title": "Libraries in Canada hit by wave of hate, threats, as right-wing groups protest all-age drag events",
+        "domain": "cbc.ca",
+        "category": "news",
+        "link": "https://www.cbc.ca/news/investigates/libraries-threats-all-age-drag-1.6501247",
+        "timestamp": 1656569152,
+        "sentiment": 0,
+        "published": "June 30, 2022 2:05 AM"
+    },
+    {
+        "title": "Man allowed back into community after wedgie spree",
+        "domain": "nzherald.co.nz",
+        "category": "nottheonion",
+        "link": "https://www.nzherald.co.nz/nz/intellectually-disabled-man-doled-out-multiple-wedgies-to-random-children/EQNNGL7G3XU7Z4G6Z6O5GYXF2Q/",
+        "timestamp": 1656579491,
+        "sentiment": 0,
+        "published": "June 30, 2022 4:58 AM"
+    },
+    {
+        "title": "Employees fired for refusing to attend mandatory prayer meetings: Lawsuit",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/employees-fired-refusing-attend-mandatory-prayer-meetings-lawsuit-north-carolina-1720422",
+        "timestamp": 1656589288,
+        "sentiment": -1,
+        "published": "June 30, 2022 7:41 AM"
+    },
+    {
+        "title": "As federal programs dry up, South Florida food banks struggle with inflation and increased demand",
+        "domain": "sun-sentinel.com",
+        "category": "florida",
+        "link": "https://www.sun-sentinel.com/news/florida/fl-ne-food-banks-struggling-under-inflation-demand-supply-chain-issues-20220630-6jf4krx2czbjlpsaw5cutyhjpq-story.html",
+        "timestamp": 1656594033,
+        "sentiment": 0,
+        "published": "June 30, 2022 9:00 AM"
     },
     {
         "title": "Russia's attack on Mariupol theatre a clear war crime, Amnesty says",
