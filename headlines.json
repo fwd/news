@@ -1,5 +1,41 @@
 [
     {
+        "title": "TikTok can’t stop users from doxxing the Supreme Court",
+        "domain": "arstechnica.com",
+        "category": "nottheonion",
+        "link": "https://arstechnica.com/tech-policy/2022/06/tiktok-cant-stop-users-from-doxxing-the-supreme-court/",
+        "timestamp": 1656562179,
+        "sentiment": 0,
+        "published": "June 30, 2022 12:09 AM"
+    },
+    {
+        "title": "Convoy protesters plan to stand up to high fuel prices by filling up their cars and driving around New Zealand",
+        "domain": "newshub.co.nz",
+        "category": "nottheonion",
+        "link": "https://www.newshub.co.nz/home/new-zealand/2022/06/convoy-protesters-plan-to-stand-up-to-high-fuel-prices-by-filling-up-their-cars-and-driving-around-new-zealand.html",
+        "timestamp": 1656562320,
+        "sentiment": 0,
+        "published": "June 30, 2022 12:12 AM"
+    },
+    {
+        "title": "Anaheim barbershop owners find, return gold medal stolen from U.S. Olympian",
+        "domain": "abc7.com",
+        "category": "UpliftingNews",
+        "link": "https://abc7.com/stolen-gold-medal-olympics-jordyn-poulter-womens-volleyball/12004833/",
+        "timestamp": 1656562629,
+        "sentiment": 0,
+        "published": "June 30, 2022 12:17 AM"
+    },
+    {
+        "title": "Chess - Putin gives award to Russian (but Ukrainian-born) supergrandmaster Sergey Karjakin for backing Ukraine invasion. Sergey was temp banned by chess federation for the same reason.",
+        "domain": "reuters.com",
+        "category": "sports",
+        "link": "https://www.reuters.com/lifestyle/sports/chess-putin-gives-award-grandmaster-banned-backing-ukraine-invasion-2022-06-02/",
+        "timestamp": 1656568320,
+        "sentiment": 0,
+        "published": "June 30, 2022 1:52 AM"
+    },
+    {
         "title": "President Putin warns Sweden and Finland over NATO troops and infrastructure",
         "domain": "zeenews.india.com",
         "category": "worldnews",
@@ -16,24 +52,6 @@
         "timestamp": 1656562249,
         "sentiment": -2,
         "published": "June 30, 2022 12:10 AM"
-    },
-    {
-        "title": "Convoy protesters plan to stand up to high fuel prices by filling up their cars and driving around New Zealand",
-        "domain": "newshub.co.nz",
-        "category": "nottheonion",
-        "link": "https://www.newshub.co.nz/home/new-zealand/2022/06/convoy-protesters-plan-to-stand-up-to-high-fuel-prices-by-filling-up-their-cars-and-driving-around-new-zealand.html",
-        "timestamp": 1656562320,
-        "sentiment": -2,
-        "published": "June 30, 2022 12:12 AM"
-    },
-    {
-        "title": "Anaheim barbershop owners find, return gold medal stolen from U.S. Olympian",
-        "domain": "abc7.com",
-        "category": "UpliftingNews",
-        "link": "https://abc7.com/stolen-gold-medal-olympics-jordyn-poulter-womens-volleyball/12004833/",
-        "timestamp": 1656562629,
-        "sentiment": -2,
-        "published": "June 30, 2022 12:17 AM"
     },
     {
         "title": "Indonesia’s president to bar Putin from G-20 gathering in Bali, Italian Prime Minister Draghi says",
@@ -745,15 +763,6 @@
         "timestamp": 1656551871,
         "sentiment": -1,
         "published": "June 29, 2022 9:17 PM"
-    },
-    {
-        "title": "TikTok can’t stop users from doxxing the Supreme Court",
-        "domain": "arstechnica.com",
-        "category": "technology",
-        "link": "https://arstechnica.com/tech-policy/2022/06/tiktok-cant-stop-users-from-doxxing-the-supreme-court/",
-        "timestamp": 1656552515,
-        "sentiment": -1,
-        "published": "June 29, 2022 9:28 PM"
     },
     {
         "title": "Rich New Yorkers Getting PAE Surgery to Avoid 'Hamptons Bladder'",
