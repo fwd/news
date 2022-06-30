@@ -5,7 +5,7 @@
         "category": "nottheonion",
         "link": "https://arstechnica.com/tech-policy/2022/06/tiktok-cant-stop-users-from-doxxing-the-supreme-court/",
         "timestamp": 1656562179,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 30, 2022 12:09 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "nottheonion",
         "link": "https://www.newshub.co.nz/home/new-zealand/2022/06/convoy-protesters-plan-to-stand-up-to-high-fuel-prices-by-filling-up-their-cars-and-driving-around-new-zealand.html",
         "timestamp": 1656562320,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 30, 2022 12:12 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "science",
         "link": "https://www.sciencedirect.com/science/article/abs/pii/S1359178922000441",
         "timestamp": 1656570777,
-        "sentiment": -1,
+        "sentiment": 3,
         "published": "June 30, 2022 2:32 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "worldnews",
         "link": "https://www.themoscowtimes.com/2022/06/30/russias-car-manufacturing-collapses-by-97-in-may-a78151",
         "timestamp": 1656573230,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 30, 2022 3:13 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.techspot.com/news/95120-brazil-wants-follow-europe-making-usb-c-mandatory.html",
         "timestamp": 1656575503,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 30, 2022 3:51 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/russia-and-china-slam-nato-after-alliance-raises-alarm/ar-AAZ1Fr3?ocid=EMMX&cvid=4a7ff78bf48148d7b5867c8c7bee789f",
         "timestamp": 1656576459,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 30, 2022 4:07 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "science",
         "link": "https://www.nature.com/articles/s41586-022-04824-9",
         "timestamp": 1656577047,
-        "sentiment": -1,
+        "sentiment": 3,
         "published": "June 30, 2022 4:17 AM"
     },
     {
@@ -117,21 +117,12 @@
         "published": "June 30, 2022 4:26 AM"
     },
     {
-        "title": "Zelenskyy brands Russia a 'terrorist' state, calls for it to be expelled from the United Nations",
-        "domain": "msn.com",
-        "category": "worldnews",
-        "link": "https://www.msn.com/en-us/news/world/zelenskyy-brands-russia-a-terrorist-state-calls-for-it-to-be-expelled-from-the-united-nations/ar-AAZ1Kv0?ocid=EMMX&cvid=be7b597e27144364b416f33efa9b6c74",
-        "timestamp": 1656578636,
-        "sentiment": -1,
-        "published": "June 30, 2022 4:43 AM"
-    },
-    {
         "title": "Russia says it has withdrawn from Snake Island 'as gesture of goodwill'",
         "domain": "news.sky.com",
         "category": "ukraine",
         "link": "https://news.sky.com/story/ukraine-news-live-zelenskyy-kremenchuk-putin-12541713?postid=4096282#liveblog-body",
         "timestamp": 1656579327,
-        "sentiment": 1,
+        "sentiment": 8,
         "published": "June 30, 2022 4:55 AM"
     },
     {
@@ -140,17 +131,8 @@
         "category": "ukraine",
         "link": "https://www.bbc.com/news/live/world-europe-61987663",
         "timestamp": 1656579421,
-        "sentiment": 1,
+        "sentiment": 8,
         "published": "June 30, 2022 4:57 AM"
-    },
-    {
-        "title": "Man allowed back into community after wedgie spree",
-        "domain": "nzherald.co.nz",
-        "category": "nottheonion",
-        "link": "https://www.nzherald.co.nz/nz/intellectually-disabled-man-doled-out-multiple-wedgies-to-random-children/EQNNGL7G3XU7Z4G6Z6O5GYXF2Q/",
-        "timestamp": 1656579491,
-        "sentiment": 0,
-        "published": "June 30, 2022 4:58 AM"
     },
     {
         "title": "Russia retreats from Snake Island where warship was told 'go f*** yourself'",
@@ -158,7 +140,7 @@
         "category": "worldnews",
         "link": "https://metro.co.uk/2022/06/30/russia-retreats-from-snake-island-where-warship-told-go-fk-yourself-16917540/",
         "timestamp": 1656580048,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 30, 2022 5:07 AM"
     },
     {
@@ -167,7 +149,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/donald-trump-girth-suv-secret-service-cassidy-hutchinson-january-6-2022-6",
         "timestamp": 1656582922,
-        "sentiment": 5,
+        "sentiment": 4,
         "published": "June 30, 2022 5:55 AM"
     },
     {
@@ -185,7 +167,7 @@
         "category": "science",
         "link": "https://newatlas.com/health-wellbeing/report-cancer-europe-chemical-environment-pollution/",
         "timestamp": 1656583754,
-        "sentiment": -1,
+        "sentiment": 3,
         "published": "June 30, 2022 6:09 AM"
     },
     {
@@ -194,7 +176,7 @@
         "category": "science",
         "link": "https://www.eurekalert.org/news-releases/957392",
         "timestamp": 1656584592,
-        "sentiment": -1,
+        "sentiment": 3,
         "published": "June 30, 2022 6:23 AM"
     },
     {
@@ -203,7 +185,7 @@
         "category": "worldnews",
         "link": "https://www.nytimes.com/2022/06/30/world/europe/ukraine-russia-snake-island.html?referringSource=articleShare",
         "timestamp": 1656584984,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 30, 2022 6:29 AM"
     },
     {
@@ -212,7 +194,7 @@
         "category": "politics",
         "link": "https://www.politico.com/news/2022/06/29/liz-cheney-republicans-trump-constitution-00043374",
         "timestamp": 1656585629,
-        "sentiment": 5,
+        "sentiment": 4,
         "published": "June 30, 2022 6:40 AM"
     },
     {
@@ -230,17 +212,8 @@
         "category": "worldnews",
         "link": "https://sciencebusiness.net/news/denmark-tells-universities-suspend-all-cooperation-russia",
         "timestamp": 1656586319,
-        "sentiment": -1,
-        "published": "June 30, 2022 6:51 AM"
-    },
-    {
-        "title": "Russia abandons Snake Island in strategic victory for Ukraine",
-        "domain": "reuters.com",
-        "category": "UpliftingNews",
-        "link": "https://www.reuters.com/world/europe/russia-steps-up-attacks-ukraine-after-landmark-nato-summit-2022-06-30/",
-        "timestamp": 1656586753,
         "sentiment": 1,
-        "published": "June 30, 2022 6:59 AM"
+        "published": "June 30, 2022 6:51 AM"
     },
     {
         "title": "“What Will I Do Without That Guy?” As the end of Better Call Saul approaches, Giancarlo Esposito wants more time with Gus Fring",
@@ -248,7 +221,7 @@
         "category": "television",
         "link": "https://www.vulture.com/article/giancarlo-esposito-better-call-saul-finale-interview.html",
         "timestamp": 1656587039,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 30, 2022 7:03 AM"
     },
     {
@@ -257,7 +230,7 @@
         "category": "science",
         "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268785",
         "timestamp": 1656587370,
-        "sentiment": -1,
+        "sentiment": 3,
         "published": "June 30, 2022 7:09 AM"
     },
     {
@@ -266,7 +239,7 @@
         "category": "worldnews",
         "link": "https://www.euronews.com/green/2022/06/30/global-nuclear-power-capacity-must-double-by-2050-if-we-want-to-ensure-energy-security",
         "timestamp": 1656587624,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 30, 2022 7:13 AM"
     },
     {
@@ -275,17 +248,8 @@
         "category": "nottheonion",
         "link": "https://www.carthrottle.com/post/bmw-reminds-drivers-to-use-their-cars-indicators/",
         "timestamp": 1656589107,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 30, 2022 7:38 AM"
-    },
-    {
-        "title": "Biden is nominating an anti-abortion Republican to be a lifetime federal judge, reports say, 5 days after he vowed to protect abortion rights",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/biden-nominating-anti-abortion-republican-chad-meredith-federal-judge-reports-2022-6",
-        "timestamp": 1656589272,
-        "sentiment": 5,
-        "published": "June 30, 2022 7:41 AM"
     },
     {
         "title": "Man emailed photos of his genitals to female police officer, jailed 9 weeks",
@@ -293,8 +257,17 @@
         "category": "nottheonion",
         "link": "https://www.todayonline.com/singapore/email-obscene-photo-genitals-police-officer-1934411",
         "timestamp": 1656589714,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 30, 2022 7:48 AM"
+    },
+    {
+        "title": "NATO promises to arm Ukraine with modern military equipment",
+        "domain": "cbc.ca",
+        "category": "worldnews",
+        "link": "https://www.cbc.ca/news/politics/nato-arms-canada-1.6506611",
+        "timestamp": 1656589856,
+        "sentiment": 1,
+        "published": "June 30, 2022 7:50 AM"
     },
     {
         "title": "Donald Trump stalwarts finally turn on him after Hutchinson's testimony",
@@ -302,17 +275,8 @@
         "category": "politics",
         "link": "https://www.newsweek.com/donald-trump-jan6-cassidy-hutchinson-testimony-capitol-1720510",
         "timestamp": 1656590932,
-        "sentiment": 5,
+        "sentiment": 4,
         "published": "June 30, 2022 8:08 AM"
-    },
-    {
-        "title": "Both free range and intensive farming of animals are significant risk factors for zoonosis events, however it is unclear which one poses the biggest hazard",
-        "domain": "royalsocietypublishing.org",
-        "category": "science",
-        "link": "https://royalsocietypublishing.org/doi/10.1098/rsos.211573",
-        "timestamp": 1656590990,
-        "sentiment": -1,
-        "published": "June 30, 2022 8:09 AM"
     },
     {
         "title": "Amazon is introducing new tech to monitor shoppers in its grocery stores and share data with advertisers",
@@ -347,7 +311,7 @@
         "category": "worldnews",
         "link": "https://english.nv.ua/nation/belarus-sends-out-conscription-notices-en-masse-50253394.html",
         "timestamp": 1656592633,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "June 30, 2022 8:37 AM"
     },
     {
@@ -356,7 +320,7 @@
         "category": "florida",
         "link": "https://www.justice.gov/opa/pr/sober-home-owner-sentenced-30-months-prison-45-million-kickback-scheme",
         "timestamp": 1656592880,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 30, 2022 8:41 AM"
     },
     {
@@ -365,7 +329,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/06/30/democrats-heres-a-thought-stop-retreating-stand-up-for-your-own-for-once/",
         "timestamp": 1656593183,
-        "sentiment": 5,
+        "sentiment": 4,
         "published": "June 30, 2022 8:46 AM"
     },
     {
@@ -374,17 +338,8 @@
         "category": "nottheonion",
         "link": "https://www.turkishminute.com/2022/06/29/former-ankara-mayor-ridiculed-for-believing-tweet-on-discovery-of-jelly-bean-reserves-in-turkey/",
         "timestamp": 1656594095,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 30, 2022 9:01 AM"
-    },
-    {
-        "title": "Donald Trump Could Be Illegally Tampering With Jan. 6 Witnesses, Legal Experts Say",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/trump-obstruction-of-justice-witness-tampering_n_62bcb434e4b0f612572241a4",
-        "timestamp": 1656594455,
-        "sentiment": 5,
-        "published": "June 30, 2022 9:07 AM"
     },
     {
         "title": "Biden supports changing filibuster rules to codify Roe v. Wade",
@@ -392,7 +347,7 @@
         "category": "politics",
         "link": "https://www.msnbc.com/msnbc/watch/biden-supports-changing-filibuster-rules-to-codify-roe-v-wade-143165509524",
         "timestamp": 1656596118,
-        "sentiment": 5,
+        "sentiment": 4,
         "published": "June 30, 2022 9:35 AM"
     },
     {
@@ -410,7 +365,7 @@
         "category": "florida",
         "link": "https://www.msn.com/en-us/news/us/florida-surgeon-general-admits-state-decision-could-limit-vaccine-for-thousands-of-kids/ar-AAZ0ilm",
         "timestamp": 1656597488,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 30, 2022 9:58 AM"
     },
     {
@@ -419,7 +374,7 @@
         "category": "politics",
         "link": "https://www.latimes.com/politics/story/2022-06-30/supreme-court-rules-for-coal-producing-states-limits-epas-power-to-fight-climate-change",
         "timestamp": 1656597979,
-        "sentiment": 5,
+        "sentiment": 4,
         "published": "June 30, 2022 10:06 AM"
     },
     {
@@ -428,7 +383,7 @@
         "category": "television",
         "link": "https://ew.com/tv/michael-douglas-ben-franklin-first-look/",
         "timestamp": 1656597982,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 30, 2022 10:06 AM"
     },
     {
@@ -450,21 +405,12 @@
         "published": "June 30, 2022 10:14 AM"
     },
     {
-        "title": "Supreme Court says EPA does not have authority to set climate standards for power plants",
-        "domain": "cnbc.com",
-        "category": "politics",
-        "link": "https://www.cnbc.com/2022/06/30/-supreme-court-says-epa-lacks-authority-on-climate-standards-for-power-plants.html",
-        "timestamp": 1656599262,
-        "sentiment": 5,
-        "published": "June 30, 2022 10:27 AM"
-    },
-    {
         "title": "Shyness linked to reduced behavioral mimicry during conversation via heightened self-focused attention",
         "domain": "psypost.org",
         "category": "science",
         "link": "https://www.psypost.org/2022/06/shyness-linked-to-reduced-behavioral-mimicry-during-conversation-via-heightened-self-focused-attention-63400",
         "timestamp": 1656599436,
-        "sentiment": -1,
+        "sentiment": 3,
         "published": "June 30, 2022 10:30 AM"
     },
     {
@@ -491,7 +437,7 @@
         "category": "nottheonion",
         "link": "https://consequence.net/2022/06/brawl-the-eagles-vip-take-it-easy-watch/?fs=e&s=cl",
         "timestamp": 1656601122,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "June 30, 2022 10:58 AM"
     },
     {
@@ -509,7 +455,7 @@
         "category": "television",
         "link": "https://nerdist.com/article/lord-of-the-rings-the-rings-of-power-who-is-gil-galad-benjamin-walker-interview-exclusive-images/",
         "timestamp": 1656601611,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 30, 2022 11:06 AM"
     },
     {
@@ -518,17 +464,8 @@
         "category": "science",
         "link": "https://www.system.com/view/study/OMshB19UjMq?view_context=graph",
         "timestamp": 1656602241,
-        "sentiment": -1,
+        "sentiment": 3,
         "published": "June 30, 2022 11:17 AM"
-    },
-    {
-        "title": "Army drops requirement that recruits have high school diplomas",
-        "domain": "stripes.com",
-        "category": "nottheonion",
-        "link": "https://www.stripes.com/branches/army/2022-06-29/army-high-school-diploma-recruits-6499118.html",
-        "timestamp": 1656602718,
-        "sentiment": 0,
-        "published": "June 30, 2022 11:25 AM"
     },
     {
         "title": "Offshore wind installations surged threefold last year",
@@ -540,31 +477,22 @@
         "published": "June 30, 2022 11:28 AM"
     },
     {
-        "title": "Historic Rotterdam bridge won't be dismantled for Jeff Bezos superyacht worth €430 million",
-        "domain": "nltimes.nl",
-        "category": "worldnews",
-        "link": "https://nltimes.nl/2022/06/30/historic-rotterdam-bridge-de-hef-wont-dismantled-jeff-bezos-superyacht",
-        "timestamp": 1656603245,
-        "sentiment": -1,
-        "published": "June 30, 2022 11:34 AM"
-    },
-    {
         "title": "Supreme Court Rules 6-3 That the Planet Should Burn",
         "domain": "rollingstone.com",
         "category": "politics",
         "link": "https://www.rollingstone.com/politics/politics-news/supreme-court-epa-climate-pollution-ruling-1376017/",
         "timestamp": 1656603543,
-        "sentiment": 5,
+        "sentiment": 4,
         "published": "June 30, 2022 11:39 AM"
     },
     {
-        "title": "Egypt Prosecution Orders Release of a Somali Girl Who Killed A Driver who Tried to Rape her",
-        "domain": "egyptianstreets.com",
-        "category": "UpliftingNews",
-        "link": "https://egyptianstreets.com/2022/05/28/egypt-prosecution-orders-release-of-somali-girl-who-killed-attempted-rapist/",
-        "timestamp": 1656604460,
-        "sentiment": 1,
-        "published": "June 30, 2022 11:54 AM"
+        "title": "Ocasio-Cortez calls Supreme Court EPA decision ‘catastrophic’",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/house/3542566-ocasio-cortez-calls-supreme-court-epa-decision-catastrophic/",
+        "timestamp": 1656604300,
+        "sentiment": 4,
+        "published": "June 30, 2022 11:51 AM"
     },
     {
         "title": "Dream of unlimited, clean nuclear fusion energy within reach",
@@ -572,7 +500,16 @@
         "category": "science",
         "link": "https://ec.europa.eu/research-and-innovation/en/horizon-magazine/dream-unlimited-clean-nuclear-fusion-energy-within-reach",
         "timestamp": 1656605654,
-        "sentiment": -1,
+        "sentiment": 3,
+        "published": "June 30, 2022 12:14 PM"
+    },
+    {
+        "title": "Supreme Court limits EPA authority to set climate standards for power plants",
+        "domain": "cnbc.com",
+        "category": "nottheonion",
+        "link": "https://www.cnbc.com/2022/06/30/-supreme-court-says-epa-lacks-authority-on-climate-standards-for-power-plants.html",
+        "timestamp": 1656605695,
+        "sentiment": 4,
         "published": "June 30, 2022 12:14 PM"
     },
     {
@@ -594,6 +531,15 @@
         "published": "June 30, 2022 12:17 PM"
     },
     {
+        "title": "Satanic Temple says abortion ban violates religious freedom, to sue state to protect civil rights",
+        "domain": "scoop.upworthy.com",
+        "category": "politics",
+        "link": "https://scoop.upworthy.com/satanic-temple-says-abortion-ban-violates-religious-freedom-to-sue-state-to-protect-civil-rights",
+        "timestamp": 1656605863,
+        "sentiment": 4,
+        "published": "June 30, 2022 12:17 PM"
+    },
+    {
         "title": "Bitcoin on track for its worst quarter in more than a decade",
         "domain": "cnbc.com",
         "category": "technology",
@@ -608,7 +554,7 @@
         "category": "florida",
         "link": "https://www.news4jax.com/news/local/2022/06/29/florida-teachers-raise-concerns-about-new-civics-training-say-it-downplays-slavery-promotes-originalism/?outputType=amp",
         "timestamp": 1656606886,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 30, 2022 12:34 PM"
     },
     {
@@ -617,8 +563,17 @@
         "category": "florida",
         "link": "https://www.reuters.com/legal/government/kentucky-judge-blocks-state-enforcing-abortion-bans-2022-06-30/",
         "timestamp": 1656608087,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 30, 2022 12:54 PM"
+    },
+    {
+        "title": "THL: Sex education, free contraceptives contribute to Finland's declining abortion rate.",
+        "domain": "yle.fi",
+        "category": "worldnews",
+        "link": "https://yle.fi/news/3-12517513",
+        "timestamp": 1656608231,
+        "sentiment": 1,
+        "published": "June 30, 2022 12:57 PM"
     },
     {
         "title": "Most of sci-fi TV today suffers from Marvelitis—the sky is always falling, the fate of the galaxy is always at stake—but the best 'Trek' outing in decades understands the importance of hijinks",
@@ -626,7 +581,7 @@
         "category": "television",
         "link": "https://www.esquire.com/entertainment/tv/a40458654/star-trek-strange-new-worlds-review/",
         "timestamp": 1656608848,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 30, 2022 1:07 PM"
     },
     {
@@ -635,8 +590,17 @@
         "category": "FLgovernment",
         "link": "https://www.tampabay.com/news/florida-politics/2022/06/30/judge-to-temporarily-stop-floridas-15-week-abortion-ban/",
         "timestamp": 1656609080,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 1:11 PM"
+    },
+    {
+        "title": "Justice Thomas cites debunked claim that Covid vaccines are made with cells from 'aborted children'",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/politics/supreme-court/justice-thomas-cites-debunked-claim-covid-vaccines-are-made-cells-abor-rcna36156",
+        "timestamp": 1656609461,
+        "sentiment": 4,
+        "published": "June 30, 2022 1:17 PM"
     },
     {
         "title": "Florida judge blocks 15 week abortion ban",
@@ -644,8 +608,35 @@
         "category": "florida",
         "link": "https://www.wfla.com/news/florida-judge-blocks-15-week-abortion-ban/",
         "timestamp": 1656609580,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 30, 2022 1:19 PM"
+    },
+    {
+        "title": "3 tiger cubs born at Indianapolis Zoo",
+        "domain": "wthr.com",
+        "category": "UpliftingNews",
+        "link": "https://www.wthr.com/article/life/animals/3-amur-tiger-cubs-born-indianapolis-zoo-zoya-pavel/531-07494c7d-5e46-4f7b-b5f1-77c68861c83a?fbclid=IwAR1lSUKC6DXA-Kndwhll3tV2iTvKx9mO2GfTOHVa56zs8sR1zEOBnVl2h4U&fs=e&s=cl",
+        "timestamp": 1656609834,
+        "sentiment": 1,
+        "published": "June 30, 2022 1:23 PM"
+    },
+    {
+        "title": "Judge says Florida's 15-week abortion law is unconstitutional",
+        "domain": "cnn.com",
+        "category": "florida",
+        "link": "https://www.cnn.com/2022/06/30/politics/florida-abortion-law/index.html",
+        "timestamp": 1656610206,
+        "sentiment": 0,
+        "published": "June 30, 2022 1:30 PM"
+    },
+    {
+        "title": "U.S. doctors see spike in vasectomies following end of Roe v. Wade: report",
+        "domain": "globalnews.ca",
+        "category": "news",
+        "link": "https://globalnews.ca/news/8958704/us-vasectomy-increase-roe-v-wade/",
+        "timestamp": 1656610258,
+        "sentiment": 0,
+        "published": "June 30, 2022 1:30 PM"
     },
     {
         "title": "USC and UCLA set to join Big Ten",
@@ -664,6 +655,150 @@
         "timestamp": 1656610708,
         "sentiment": 0,
         "published": "June 30, 2022 1:38 PM"
+    },
+    {
+        "title": "U.S. Supreme Court throws out rulings upholding gun restrictions",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/us-supreme-court-orders-lower-courts-reconsider-gun-law-challenges-2022-06-30/",
+        "timestamp": 1656611168,
+        "sentiment": 0,
+        "published": "June 30, 2022 1:46 PM"
+    },
+    {
+        "title": "Bleacher Report on Twitter: USC and UCLA plan to move to the Big Ten as early as 2024, per @wilnerhotline",
+        "domain": "twitter.com",
+        "category": "sports",
+        "link": "https://twitter.com/bleacherreport/status/1542561496202452992?s=21&t=O-Af9Kb873Oz97ZDziFwTA",
+        "timestamp": 1656611307,
+        "sentiment": 0,
+        "published": "June 30, 2022 1:48 PM"
+    },
+    {
+        "title": "Judge to temporarily block Florida’s 15-week abortion ban",
+        "domain": "news4jax.com",
+        "category": "FLgovernment",
+        "link": "https://www.news4jax.com/news/florida/2022/06/30/judge-to-temporarily-block-floridas-15-week-abortion-ban/?utm_source=instagram&utm_medium=social&utm_campaign=sndbio&utm_content=News4JAX",
+        "timestamp": 1656612003,
+        "sentiment": -2,
+        "published": "June 30, 2022 2:00 PM"
+    },
+    {
+        "title": "Psilocybin microdosers demonstrate greater observed improvements in mood and mental health at one month relative to non-microdosing controls",
+        "domain": "nature.com",
+        "category": "science",
+        "link": "https://www.nature.com/articles/s41598-022-14512-3",
+        "timestamp": 1656612231,
+        "sentiment": 3,
+        "published": "June 30, 2022 2:03 PM"
+    },
+    {
+        "title": "Florida law lowering fees to reinstate suspended driver licenses starts July 1",
+        "domain": "wfla.com",
+        "category": "FLgovernment",
+        "link": "https://www.wfla.com/news/politics/florida-law-lowering-fees-to-reinstate-suspended-driver-licenses-starts-july-1/",
+        "timestamp": 1656613309,
+        "sentiment": -2,
+        "published": "June 30, 2022 2:21 PM"
+    },
+    {
+        "title": "Florida judge says he’ll delay 15-week abortion law",
+        "domain": "sun-sentinel.com",
+        "category": "UpliftingNews",
+        "link": "https://www.sun-sentinel.com/news/politics/os-ne-florida-abortion-15-weeks-judge-ruling-20220630-aeqiqcgy4fgq7gu5x4s7jlhrzy-story.html",
+        "timestamp": 1656613691,
+        "sentiment": 1,
+        "published": "June 30, 2022 2:28 PM"
+    },
+    {
+        "title": "Zelenskyy brands Russia a 'terrorist' state, calls for it to be expelled from the United Nations",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-us/news/world/zelenskyy-brands-russia-a-terrorist-state-calls-for-it-to-be-expelled-from-the-united-nations/ar-AAZ1Kv0?ocid=EMMX&cvid=be7b597e27144364b416f33efa9b6c74",
+        "timestamp": 1656578636,
+        "sentiment": -1,
+        "published": "June 30, 2022 4:43 AM"
+    },
+    {
+        "title": "Man allowed back into community after wedgie spree",
+        "domain": "nzherald.co.nz",
+        "category": "nottheonion",
+        "link": "https://www.nzherald.co.nz/nz/intellectually-disabled-man-doled-out-multiple-wedgies-to-random-children/EQNNGL7G3XU7Z4G6Z6O5GYXF2Q/",
+        "timestamp": 1656579491,
+        "sentiment": 0,
+        "published": "June 30, 2022 4:58 AM"
+    },
+    {
+        "title": "Russia abandons Snake Island in strategic victory for Ukraine",
+        "domain": "reuters.com",
+        "category": "UpliftingNews",
+        "link": "https://www.reuters.com/world/europe/russia-steps-up-attacks-ukraine-after-landmark-nato-summit-2022-06-30/",
+        "timestamp": 1656586753,
+        "sentiment": 1,
+        "published": "June 30, 2022 6:59 AM"
+    },
+    {
+        "title": "Biden is nominating an anti-abortion Republican to be a lifetime federal judge, reports say, 5 days after he vowed to protect abortion rights",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/biden-nominating-anti-abortion-republican-chad-meredith-federal-judge-reports-2022-6",
+        "timestamp": 1656589272,
+        "sentiment": 5,
+        "published": "June 30, 2022 7:41 AM"
+    },
+    {
+        "title": "Both free range and intensive farming of animals are significant risk factors for zoonosis events, however it is unclear which one poses the biggest hazard",
+        "domain": "royalsocietypublishing.org",
+        "category": "science",
+        "link": "https://royalsocietypublishing.org/doi/10.1098/rsos.211573",
+        "timestamp": 1656590990,
+        "sentiment": -1,
+        "published": "June 30, 2022 8:09 AM"
+    },
+    {
+        "title": "Donald Trump Could Be Illegally Tampering With Jan. 6 Witnesses, Legal Experts Say",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/trump-obstruction-of-justice-witness-tampering_n_62bcb434e4b0f612572241a4",
+        "timestamp": 1656594455,
+        "sentiment": 5,
+        "published": "June 30, 2022 9:07 AM"
+    },
+    {
+        "title": "Supreme Court says EPA does not have authority to set climate standards for power plants",
+        "domain": "cnbc.com",
+        "category": "politics",
+        "link": "https://www.cnbc.com/2022/06/30/-supreme-court-says-epa-lacks-authority-on-climate-standards-for-power-plants.html",
+        "timestamp": 1656599262,
+        "sentiment": 5,
+        "published": "June 30, 2022 10:27 AM"
+    },
+    {
+        "title": "Army drops requirement that recruits have high school diplomas",
+        "domain": "stripes.com",
+        "category": "nottheonion",
+        "link": "https://www.stripes.com/branches/army/2022-06-29/army-high-school-diploma-recruits-6499118.html",
+        "timestamp": 1656602718,
+        "sentiment": 0,
+        "published": "June 30, 2022 11:25 AM"
+    },
+    {
+        "title": "Historic Rotterdam bridge won't be dismantled for Jeff Bezos superyacht worth €430 million",
+        "domain": "nltimes.nl",
+        "category": "worldnews",
+        "link": "https://nltimes.nl/2022/06/30/historic-rotterdam-bridge-de-hef-wont-dismantled-jeff-bezos-superyacht",
+        "timestamp": 1656603245,
+        "sentiment": -1,
+        "published": "June 30, 2022 11:34 AM"
+    },
+    {
+        "title": "Egypt Prosecution Orders Release of a Somali Girl Who Killed A Driver who Tried to Rape her",
+        "domain": "egyptianstreets.com",
+        "category": "UpliftingNews",
+        "link": "https://egyptianstreets.com/2022/05/28/egypt-prosecution-orders-release-of-somali-girl-who-killed-attempted-rapist/",
+        "timestamp": 1656604460,
+        "sentiment": 1,
+        "published": "June 30, 2022 11:54 AM"
     },
     {
         "title": "البرتغالي ريكاردو سواريش مديرا فنيا جديدا للنادي الأهلي المصري",
