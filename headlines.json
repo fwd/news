@@ -5,7 +5,7 @@
         "category": "UpliftingNews",
         "link": "https://www.yahoo.com/finance/m/4521c758-10ce-31e7-b16c-111d694f52c7/indonesia%E2%80%99s-president-to-bar.html",
         "timestamp": 1656481695,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 29, 2022 1:48 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/at-nato-summit-biden-announces-permanent-u-s-troop-presence-in-poland-increased-support-for-europe/ar-AAYZCkN?ocid=EMMX&cvid=a579ad13c0464661b8da943d945e1724",
         "timestamp": 1656499829,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 29, 2022 6:50 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "technology",
         "link": "https://www.engadget.com/fcc-commissioner-google-facebook-ban-tik-tok-064559992.html",
         "timestamp": 1656500640,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 29, 2022 7:04 AM"
     },
     {
@@ -54,39 +54,12 @@
         "published": "June 29, 2022 7:33 AM"
     },
     {
-        "title": "Citizens denied expected rate increases as private rates soar",
-        "domain": "abcactionnews.com",
-        "category": "miami",
-        "link": "https://www.abcactionnews.com/news/price-of-paradise/citizens-property-insurance-denied-expected-rate-increases-as-more-companies-halt-new-policies",
-        "timestamp": 1656503031,
-        "sentiment": 1,
-        "published": "June 29, 2022 7:43 AM"
-    },
-    {
-        "title": "R&B singer R. Kelly to be sentenced for luring women, girls for sex",
-        "domain": "reuters.com",
-        "category": "news",
-        "link": "https://www.reuters.com/legal/government/rb-singer-r-kelly-be-sentenced-luring-women-girls-sex-2022-06-29/",
-        "timestamp": 1656503435,
-        "sentiment": -2,
-        "published": "June 29, 2022 7:50 AM"
-    },
-    {
-        "title": "Alabama cites Roe decision in urging court to let state ban trans health care",
-        "domain": "axios.com",
-        "category": "politics",
-        "link": "https://www.axios.com/2022/06/28/alabama-roe-supreme-court-block-trans-health-care",
-        "timestamp": 1656503460,
-        "sentiment": -8,
-        "published": "June 29, 2022 7:51 AM"
-    },
-    {
         "title": "Putin needs to be stopped in the battlefield — not with sanctions, says ex-president of Lithuania",
         "domain": "cnbc.com",
         "category": "worldnews",
         "link": "https://www.cnbc.com/2022/06/29/putin-needs-to-be-stopped-in-the-battlefield-not-with-sanctions-says-ex-president-of-lithuania.html",
         "timestamp": 1656503804,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 29, 2022 7:56 AM"
     },
     {
@@ -95,7 +68,7 @@
         "category": "technology",
         "link": "https://www.bleepingcomputer.com/news/security/new-firefox-privacy-feature-strips-urls-of-tracking-parameters/",
         "timestamp": 1656504041,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 29, 2022 8:00 AM"
     },
     {
@@ -104,7 +77,7 @@
         "category": "florida",
         "link": "https://www.sun-sentinel.com/news/transportation/fl-ne-freebee-free-rides-20220629-dox3pjoqf5htvjq3hqwau4ajse-story.html",
         "timestamp": 1656504103,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 29, 2022 8:01 AM"
     },
     {
@@ -113,17 +86,8 @@
         "category": "technology",
         "link": "https://arstechnica.com/tech-policy/2022/06/couple-bought-home-in-seattle-then-learned-comcast-internet-would-cost-27000/",
         "timestamp": 1656506601,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 29, 2022 8:43 AM"
-    },
-    {
-        "title": "NATO vows to 'defend every inch' of its territory as it overhauls strategy - and warns Russia to withdraw from Ukraine",
-        "domain": "news.sky.com",
-        "category": "worldnews",
-        "link": "https://news.sky.com/story/nato-vows-to-defend-every-inch-of-its-territory-as-it-overhauls-strategy-and-warns-russia-to-withdraw-from-ukraine-12642490",
-        "timestamp": 1656508035,
-        "sentiment": -5,
-        "published": "June 29, 2022 9:07 AM"
     },
     {
         "title": "'Obi-Wan Kenobi' Was Originally Pitched as a Full Movie Trilogy",
@@ -131,7 +95,7 @@
         "category": "television",
         "link": "https://www.ign.com/articles/star-wars-obi-wan-kenobi-film-trilogy",
         "timestamp": 1656508723,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 29, 2022 9:18 AM"
     },
     {
@@ -149,7 +113,7 @@
         "category": "politics",
         "link": "https://thehill.com/policy/national-security/3540993-two-thirds-back-prosecuting-trump-over-effort-to-overturn-election-survey/",
         "timestamp": 1656509420,
-        "sentiment": -8,
+        "sentiment": -1,
         "published": "June 29, 2022 9:30 AM"
     },
     {
@@ -176,7 +140,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/06/29/politics/joe-biden-nato-day-2/index.html",
         "timestamp": 1656510960,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 29, 2022 9:56 AM"
     },
     {
@@ -194,17 +158,8 @@
         "category": "politics",
         "link": "https://thehill.com/blogs/in-the-know/3541056-ocasio-cortez-says-gop-colleagues-who-sought-pardons-should-be-expelled-from-congress/",
         "timestamp": 1656511137,
-        "sentiment": -8,
+        "sentiment": -1,
         "published": "June 29, 2022 9:58 AM"
-    },
-    {
-        "title": "Jan. 6 Suddenly Looks a Hell of a Lot Worse: And it already looked like a violent insurrection.",
-        "domain": "esquire.com",
-        "category": "politics",
-        "link": "https://www.esquire.com/news-politics/politics/a40449248/jan-6-committee-cassidy-hutchinson/",
-        "timestamp": 1656511200,
-        "sentiment": -8,
-        "published": "June 29, 2022 10:00 AM"
     },
     {
         "title": "Ginni Thomas' lawyer tries to get her out of Jan. 6 panel testimony, saying it's been a 'particularly stressful time' amid Supreme Court rulings",
@@ -212,7 +167,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/ginni-thomas-lawyer-push-back-j6-testimony-particularly-stressful-time-2022-6",
         "timestamp": 1656511315,
-        "sentiment": -8,
+        "sentiment": -1,
         "published": "June 29, 2022 10:01 AM"
     },
     {
@@ -221,7 +176,7 @@
         "category": "television",
         "link": "https://www.thewrap.com/see-jason-momoa-apple-tv-plus-first-look-season-3/",
         "timestamp": 1656511377,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 29, 2022 10:02 AM"
     },
     {
@@ -230,7 +185,7 @@
         "category": "UpliftingNews",
         "link": "https://www.bbc.co.uk/news/world-us-canada-61981785",
         "timestamp": 1656512204,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 29, 2022 10:16 AM"
     },
     {
@@ -239,7 +194,7 @@
         "category": "worldnews",
         "link": "https://english.kyodonews.net/news/2022/06/e01eb8455020-japan-hails-swedens-historic-decision-to-join-nato.html",
         "timestamp": 1656512283,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 29, 2022 10:18 AM"
     },
     {
@@ -248,7 +203,7 @@
         "category": "politics",
         "link": "https://www.thenation.com/article/politics/cassidy-hutchinson-hearing/",
         "timestamp": 1656513498,
-        "sentiment": -8,
+        "sentiment": -1,
         "published": "June 29, 2022 10:38 AM"
     },
     {
@@ -257,7 +212,7 @@
         "category": "television",
         "link": "https://www.newsweek.com/mayim-bialik-reveals-harsh-jeopardy-fan-jibes-1720155",
         "timestamp": 1656514059,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 29, 2022 10:47 AM"
     },
     {
@@ -284,7 +239,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/truth-socials-refusal-to-use-amazon-servers-added-to-chaos-reuters-2022-6",
         "timestamp": 1656514519,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 29, 2022 10:55 AM"
     },
     {
@@ -293,17 +248,8 @@
         "category": "worldnews",
         "link": "https://finance.yahoo.com/news/chip-exports-russia-plunged-90-143857230.html",
         "timestamp": 1656514776,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 29, 2022 10:59 AM"
-    },
-    {
-        "title": "Hugh Grant To Play Zeus In Netflix’s Greek Mythology Reimagining ‘Kaos’ From Creator Charlie Covell; Janet McTeer, Cliff Curtis & David Thewlis Among Additional Series Regulars",
-        "domain": "deadline.com",
-        "category": "television",
-        "link": "https://deadline.com/2022/06/hugh-grant-janet-mcteer-cliff-curtis-more-join-netflix-series-kaos-1235053456/",
-        "timestamp": 1656514899,
-        "sentiment": 1,
-        "published": "June 29, 2022 11:01 AM"
     },
     {
         "title": "Qatar fails to offer World Cup safety guarantees to LGBTQ+ fans | World Cup 2022",
@@ -315,15 +261,6 @@
         "published": "June 29, 2022 11:25 AM"
     },
     {
-        "title": "Planned Parenthood’s website could share details of your abortion appointment with Facebook, Google and other tracking companies",
-        "domain": "washingtonpost.com",
-        "category": "technology",
-        "link": "https://www.washingtonpost.com/technology/2022/06/29/planned-parenthood-privacy/",
-        "timestamp": 1656517500,
-        "sentiment": 1,
-        "published": "June 29, 2022 11:45 AM"
-    },
-    {
         "title": "Hillary Clinton endorses Jared Moskowitz in Democratic congressional primary",
         "domain": "sun-sentinel.com",
         "category": "FLgovernment",
@@ -333,21 +270,12 @@
         "published": "June 29, 2022 11:48 AM"
     },
     {
-        "title": "Funds for climate justice flow to groups around the U.S.",
-        "domain": "apnews.com",
-        "category": "UpliftingNews",
-        "link": "https://apnews.com/article/climate-science-united-states-and-environment-f8c74b96249163324ea07ef1d0fe73e5",
-        "timestamp": 1656518184,
-        "sentiment": 2,
-        "published": "June 29, 2022 11:56 AM"
-    },
-    {
         "title": "Tesla to pay workers’ abortion travel costs after moving HQ to Texas",
         "domain": "nypost.com",
         "category": "technology",
         "link": "https://nypost.com/2022/06/24/tesla-to-pay-workers-abortion-travel-costs-after-texas-move/",
         "timestamp": 1656519743,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 29, 2022 12:22 PM"
     },
     {
@@ -356,7 +284,7 @@
         "category": "florida",
         "link": "https://www.thedailybeast.com/teachers-slam-florida-gov-ron-desantis-disturbing-new-civics-curriculum?via=mobile&source=Reddit",
         "timestamp": 1656520604,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 29, 2022 12:36 PM"
     },
     {
@@ -365,7 +293,7 @@
         "category": "florida",
         "link": "https://www.wfla.com/news/education/fewer-than-50-of-florida-high-schoolers-pass-reading-fsa/",
         "timestamp": 1656520966,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 29, 2022 12:42 PM"
     },
     {
@@ -383,7 +311,7 @@
         "category": "florida",
         "link": "https://www.thedailybeast.com/joe-rogan-backs-ron-desantis-for-president-because-of-course?via=mobile&source=Reddit",
         "timestamp": 1656522579,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 29, 2022 1:09 PM"
     },
     {
@@ -392,7 +320,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/amazon-limiting-plan-b-purchases-to-3-week-after-roe-2022-6",
         "timestamp": 1656522688,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 29, 2022 1:11 PM"
     },
     {
@@ -437,7 +365,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/house/3541255-kinzinger-hits-back-at-boeberts-church-and-state-remarks-we-must-oppose-the-christian-taliban/amp/",
         "timestamp": 1656523652,
-        "sentiment": -8,
+        "sentiment": -1,
         "published": "June 29, 2022 1:27 PM"
     },
     {
@@ -446,7 +374,7 @@
         "category": "UpliftingNews",
         "link": "https://www.guardianmag.press/2022/06/nigeria-is-turning-its-huge-cashew-waste-into-valuable-citric-acid.html/",
         "timestamp": 1656524313,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 29, 2022 1:38 PM"
     },
     {
@@ -455,7 +383,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/justified-city-primeval-ravi-patel-fx-1235054237/",
         "timestamp": 1656525010,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 29, 2022 1:50 PM"
     },
     {
@@ -473,7 +401,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/michaela-coel-john-turturro-paul-dano-mr-mrs-smith-donald-glover-maya-erskine-amazon-1235306014/",
         "timestamp": 1656525685,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 29, 2022 2:01 PM"
     },
     {
@@ -491,17 +419,8 @@
         "category": "politics",
         "link": "https://www.vice.com/en/article/akedna/texas-ag-ken-paxton-sodomy-laws",
         "timestamp": 1656526497,
-        "sentiment": -8,
+        "sentiment": -1,
         "published": "June 29, 2022 2:14 PM"
-    },
-    {
-        "title": "JetBlue places free book vending machines throughout Newark: As part of the airline's Soar with Reading initiative, free books will be available from dedicated vending machines across the city.",
-        "domain": "simpleflying.com",
-        "category": "UpliftingNews",
-        "link": "https://simpleflying.com/jetblue-newark-book-vending-machines/",
-        "timestamp": 1656526515,
-        "sentiment": 2,
-        "published": "June 29, 2022 2:15 PM"
     },
     {
         "title": "Stanford engineers’ optical concentrator could help solar arrays capture more light even on a cloudy day without tracking the sun. They developed a pyramid-shaped lens that can focus sunlight from any angle onto a solar cell, keeping it collecting power from sunrise to sunset.",
@@ -527,7 +446,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/alan-wake-amc-showrunner-exit-1235306033/",
         "timestamp": 1656529269,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 29, 2022 3:01 PM"
     },
     {
@@ -538,15 +457,6 @@
         "timestamp": 1656529468,
         "sentiment": -2,
         "published": "June 29, 2022 3:04 PM"
-    },
-    {
-        "title": "Dutch Prime Minister condemns violence after farmers target MP's and minister's homes",
-        "domain": "dutchnews.nl",
-        "category": "worldnews",
-        "link": "https://www.dutchnews.nl/news/2022/06/rutte-condemns-violence-after-farmers-target-mps-and-ministers-homes/",
-        "timestamp": 1656529869,
-        "sentiment": -5,
-        "published": "June 29, 2022 3:11 PM"
     },
     {
         "title": "R. Kelly sentenced to 30 years in prison in sex trafficking case after decades of preying on children and young women",
@@ -563,7 +473,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/06/29/post-roe-polls-midterm-support-for-democrats-soars-after-strikes-down-abortion-access/",
         "timestamp": 1656530398,
-        "sentiment": -8,
+        "sentiment": -1,
         "published": "June 29, 2022 3:19 PM"
     },
     {
@@ -585,12 +495,21 @@
         "published": "June 29, 2022 3:33 PM"
     },
     {
+        "title": "Impeach Justice Clarence Thomas petition jumps 150K in two days",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/impeach-justice-clarence-thomas-petition-abortion-1720297",
+        "timestamp": 1656532847,
+        "sentiment": -1,
+        "published": "June 29, 2022 4:00 PM"
+    },
+    {
         "title": "An 8-year-old boy was missing for over a week in Germany. Then someone heard whimpering from beneath a manhole cover.",
         "domain": "cbsnews.com",
         "category": "UpliftingNews",
         "link": "https://www.cbsnews.com/news/boy-missing-8-days-found-alive-sewer-germany/",
         "timestamp": 1656533519,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 29, 2022 4:11 PM"
     },
     {
@@ -599,7 +518,7 @@
         "category": "UpliftingNews",
         "link": "https://news.sky.com/story/r-kelly-sentenced-to-30-years-in-prison-as-survivors-confront-him-over-despicable-abuse-12641871",
         "timestamp": 1656533638,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 29, 2022 4:13 PM"
     },
     {
@@ -608,7 +527,7 @@
         "category": "florida",
         "link": "https://www.wftv.com/news/local/teachers-voice-concerns-after-orange-county-previews-dont-say-gay-impact-classrooms/R6VGDIOC2RFURLBUVT6TVWPDGA/",
         "timestamp": 1656533798,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 29, 2022 4:16 PM"
     },
     {
@@ -617,7 +536,7 @@
         "category": "politics",
         "link": "https://www.axios.com/2022/06/29/mcconnell-obama-supreme-court-roe",
         "timestamp": 1656534002,
-        "sentiment": -8,
+        "sentiment": -1,
         "published": "June 29, 2022 4:20 PM"
     },
     {
@@ -630,12 +549,21 @@
         "published": "June 29, 2022 4:25 PM"
     },
     {
+        "title": "1955 warrant in Emmett Till case found, family seeks arrest",
+        "domain": "thestar.com",
+        "category": "news",
+        "link": "https://www.thestar.com/news/world/us/2022/06/29/1955-warrant-in-emmett-till-case-found-family-seeks-arrest.html",
+        "timestamp": 1656534408,
+        "sentiment": -2,
+        "published": "June 29, 2022 4:26 PM"
+    },
+    {
         "title": "Chinese bots spread disinformation about Canadian rare earths company in targeted attack, report alleges",
         "domain": "theglobeandmail.com",
         "category": "technology",
         "link": "https://www.theglobeandmail.com/business/article-appia-rare-earths-mining-targeted-by-chinese-bots/",
         "timestamp": 1656534444,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 29, 2022 4:27 PM"
     },
     {
@@ -644,8 +572,17 @@
         "category": "florida",
         "link": "https://www.wfla.com/news/politics/florida-supreme-court-approves-desantis-statewide-grand-jury-on-immigration/",
         "timestamp": 1656534651,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 29, 2022 4:30 PM"
+    },
+    {
+        "title": "Why Are Democrats Letting Republicans Steamroll Them? For too long, the GOP has busted norms with no consequences.",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/magazine/2022/06/29/democrats-adopt-game-theory-00043161",
+        "timestamp": 1656535293,
+        "sentiment": -1,
+        "published": "June 29, 2022 4:41 PM"
     },
     {
         "title": "'Game over for the internal combustion engine' as EU countries approve climate measures",
@@ -653,7 +590,7 @@
         "category": "worldnews",
         "link": "https://www.yahoo.com/news/game-over-internal-combustion-engine-110655220.html",
         "timestamp": 1656535592,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 29, 2022 4:46 PM"
     },
     {
@@ -662,7 +599,7 @@
         "category": "worldnews",
         "link": "https://www.washingtonexaminer.com/policy/defense-national-security/nato-nuclear-retaliation-warning-russia-china",
         "timestamp": 1656538335,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 29, 2022 5:32 PM"
     },
     {
@@ -671,7 +608,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/big-bang-theory-simon-helberg-natasha-lyonne-rian-johnson-poker-face-peacock-1235306331/",
         "timestamp": 1656540091,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 29, 2022 6:01 PM"
     },
     {
@@ -684,12 +621,21 @@
         "published": "June 29, 2022 6:08 PM"
     },
     {
+        "title": "Fears of a COVID-19 summer surge prompt experts to call for a return to masking",
+        "domain": "theglobeandmail.com",
+        "category": "worldnews",
+        "link": "https://www.theglobeandmail.com/canada/article-covid-19-resurgence-mask-mandate/?utm_source=twitter&utm_medium=twitter_moment&utm_campaign=covid_masks_summer&utm_id=covid_masks_summer",
+        "timestamp": 1656542139,
+        "sentiment": 0,
+        "published": "June 29, 2022 6:35 PM"
+    },
+    {
         "title": "NATO formally declares China a ‘threat’, boosts troops fearing Russian expansion",
         "domain": "smh.com.au",
         "category": "worldnews",
         "link": "https://www.smh.com.au/world/europe/nato-formally-declares-china-a-threat-boosts-troops-fearing-russian-expansion-20220630-p5axum.html",
         "timestamp": 1656542146,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 29, 2022 6:35 PM"
     },
     {
@@ -704,11 +650,11 @@
     {
         "title": "Stanley Cup shows up at wrong house",
         "domain": "kdvr.com",
-        "category": "nottheonion",
+        "category": "sports",
         "link": "https://kdvr.com/news/local/stanley-cup-shows-up-at-wrong-house/",
-        "timestamp": 1656542704,
-        "sentiment": -2,
-        "published": "June 29, 2022 6:45 PM"
+        "timestamp": 1656542779,
+        "sentiment": 8,
+        "published": "June 29, 2022 6:46 PM"
     },
     {
         "title": "NASA scientists say images from the Webb telescope nearly brought them to tears",
@@ -716,8 +662,26 @@
         "category": "technology",
         "link": "https://arstechnica.com/science/2022/06/nasa-teases-extraordinary-images-captured-by-its-webb-telescope/",
         "timestamp": 1656543196,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "June 29, 2022 6:53 PM"
+    },
+    {
+        "title": "Air New Zealand Will Introduce the World's First Economy Class Bunk Beds",
+        "domain": "gizmodo.com",
+        "category": "technology",
+        "link": "https://gizmodo.com/air-new-zealand-economy-class-bunk-beds-cheap-flight-1849122705",
+        "timestamp": 1656543398,
+        "sentiment": 0,
+        "published": "June 29, 2022 6:56 PM"
+    },
+    {
+        "title": "New Zealand designates Proud Boys and The Base terrorist organisations",
+        "domain": "rnz.co.nz",
+        "category": "worldnews",
+        "link": "https://www.rnz.co.nz/news/political/470065/new-zealand-designates-american-proud-boys-and-the-base-terrorist-organisations",
+        "timestamp": 1656543899,
+        "sentiment": 0,
+        "published": "June 29, 2022 7:04 PM"
     },
     {
         "title": "‘Zombie papers’ just won’t die. Retracted papers by notorious fraudster still cited years later | Science",
@@ -734,8 +698,134 @@
         "category": "UpliftingNews",
         "link": "https://www.nbcnews.com/news/us-news/r-kelly-sentenced-30-years-sex-trafficking-case-rcna35832",
         "timestamp": 1656544313,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "June 29, 2022 7:11 PM"
+    },
+    {
+        "title": "Israel to be 1st in world to pipe desalinated water into a natural lake, the Galilee",
+        "domain": "timesofisrael.com",
+        "category": "UpliftingNews",
+        "link": "http://www.timesofisrael.com/israel-to-be-1st-in-world-to-pipe-desalinated-water-into-a-natural-lake-the-galilee/",
+        "timestamp": 1656544535,
+        "sentiment": -2,
+        "published": "June 29, 2022 7:15 PM"
+    },
+    {
+        "title": "Sikh-Owned Brampton Trucking Company Pledges $10M Donation to Osler Health Network to Help Improve Health Care in the City",
+        "domain": "insauga.com",
+        "category": "UpliftingNews",
+        "link": "https://www.insauga.com/brampton-trucking-company-pledges-10m-to-osler-health-network/",
+        "timestamp": 1656545593,
+        "sentiment": -2,
+        "published": "June 29, 2022 7:33 PM"
+    },
+    {
+        "title": "Police arrest twin sisters who used each other's passports to travel out of China",
+        "domain": "asiaone.com",
+        "category": "nottheonion",
+        "link": "https://www.asiaone.com/china/police-arrest-twin-sisters-who-used-each-others-passports-travel-out-china",
+        "timestamp": 1656546000,
+        "sentiment": -2,
+        "published": "June 29, 2022 7:40 PM"
+    },
+    {
+        "title": "'Westworld' starts season 4 with a surprisingly coherent episode",
+        "domain": "avclub.com",
+        "category": "television",
+        "link": "https://www.avclub.com/westworld-review-season-4-episode-1-1849104783",
+        "timestamp": 1656546640,
+        "sentiment": 0,
+        "published": "June 29, 2022 7:50 PM"
+    },
+    {
+        "title": "Citizens denied expected rate increases as private rates soar",
+        "domain": "abcactionnews.com",
+        "category": "miami",
+        "link": "https://www.abcactionnews.com/news/price-of-paradise/citizens-property-insurance-denied-expected-rate-increases-as-more-companies-halt-new-policies",
+        "timestamp": 1656503031,
+        "sentiment": 1,
+        "published": "June 29, 2022 7:43 AM"
+    },
+    {
+        "title": "R&B singer R. Kelly to be sentenced for luring women, girls for sex",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/legal/government/rb-singer-r-kelly-be-sentenced-luring-women-girls-sex-2022-06-29/",
+        "timestamp": 1656503435,
+        "sentiment": -2,
+        "published": "June 29, 2022 7:50 AM"
+    },
+    {
+        "title": "Alabama cites Roe decision in urging court to let state ban trans health care",
+        "domain": "axios.com",
+        "category": "politics",
+        "link": "https://www.axios.com/2022/06/28/alabama-roe-supreme-court-block-trans-health-care",
+        "timestamp": 1656503460,
+        "sentiment": -8,
+        "published": "June 29, 2022 7:51 AM"
+    },
+    {
+        "title": "NATO vows to 'defend every inch' of its territory as it overhauls strategy - and warns Russia to withdraw from Ukraine",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/nato-vows-to-defend-every-inch-of-its-territory-as-it-overhauls-strategy-and-warns-russia-to-withdraw-from-ukraine-12642490",
+        "timestamp": 1656508035,
+        "sentiment": -5,
+        "published": "June 29, 2022 9:07 AM"
+    },
+    {
+        "title": "Jan. 6 Suddenly Looks a Hell of a Lot Worse: And it already looked like a violent insurrection.",
+        "domain": "esquire.com",
+        "category": "politics",
+        "link": "https://www.esquire.com/news-politics/politics/a40449248/jan-6-committee-cassidy-hutchinson/",
+        "timestamp": 1656511200,
+        "sentiment": -8,
+        "published": "June 29, 2022 10:00 AM"
+    },
+    {
+        "title": "Hugh Grant To Play Zeus In Netflix’s Greek Mythology Reimagining ‘Kaos’ From Creator Charlie Covell; Janet McTeer, Cliff Curtis & David Thewlis Among Additional Series Regulars",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/06/hugh-grant-janet-mcteer-cliff-curtis-more-join-netflix-series-kaos-1235053456/",
+        "timestamp": 1656514899,
+        "sentiment": 1,
+        "published": "June 29, 2022 11:01 AM"
+    },
+    {
+        "title": "Planned Parenthood’s website could share details of your abortion appointment with Facebook, Google and other tracking companies",
+        "domain": "washingtonpost.com",
+        "category": "technology",
+        "link": "https://www.washingtonpost.com/technology/2022/06/29/planned-parenthood-privacy/",
+        "timestamp": 1656517500,
+        "sentiment": 1,
+        "published": "June 29, 2022 11:45 AM"
+    },
+    {
+        "title": "Funds for climate justice flow to groups around the U.S.",
+        "domain": "apnews.com",
+        "category": "UpliftingNews",
+        "link": "https://apnews.com/article/climate-science-united-states-and-environment-f8c74b96249163324ea07ef1d0fe73e5",
+        "timestamp": 1656518184,
+        "sentiment": 2,
+        "published": "June 29, 2022 11:56 AM"
+    },
+    {
+        "title": "JetBlue places free book vending machines throughout Newark: As part of the airline's Soar with Reading initiative, free books will be available from dedicated vending machines across the city.",
+        "domain": "simpleflying.com",
+        "category": "UpliftingNews",
+        "link": "https://simpleflying.com/jetblue-newark-book-vending-machines/",
+        "timestamp": 1656526515,
+        "sentiment": 2,
+        "published": "June 29, 2022 2:15 PM"
+    },
+    {
+        "title": "Dutch Prime Minister condemns violence after farmers target MP's and minister's homes",
+        "domain": "dutchnews.nl",
+        "category": "worldnews",
+        "link": "https://www.dutchnews.nl/news/2022/06/rutte-condemns-violence-after-farmers-target-mps-and-ministers-homes/",
+        "timestamp": 1656529869,
+        "sentiment": -5,
+        "published": "June 29, 2022 3:11 PM"
     },
     {
         "title": "‘Very real risk’ Russia could ‘lash out’ against wider Europe, UK defence secretary warns",
