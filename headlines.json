@@ -5,7 +5,7 @@
         "category": "nottheonion",
         "link": "https://arstechnica.com/tech-policy/2022/06/tiktok-cant-stop-users-from-doxxing-the-supreme-court/",
         "timestamp": 1656562179,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 30, 2022 12:09 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "nottheonion",
         "link": "https://www.newshub.co.nz/home/new-zealand/2022/06/convoy-protesters-plan-to-stand-up-to-high-fuel-prices-by-filling-up-their-cars-and-driving-around-new-zealand.html",
         "timestamp": 1656562320,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 30, 2022 12:12 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "UpliftingNews",
         "link": "https://abc7.com/stolen-gold-medal-olympics-jordyn-poulter-womens-volleyball/12004833/",
         "timestamp": 1656562629,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 30, 2022 12:17 AM"
     },
     {
@@ -41,17 +41,8 @@
         "category": "news",
         "link": "https://www.cbc.ca/news/investigates/libraries-threats-all-age-drag-1.6501247",
         "timestamp": 1656569152,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 30, 2022 2:05 AM"
-    },
-    {
-        "title": "Russia's attack on Mariupol theatre a clear war crime, Amnesty says",
-        "domain": "bbc.com",
-        "category": "ukraine",
-        "link": "https://www.bbc.com/news/world-europe-61979873",
-        "timestamp": 1656570038,
-        "sentiment": -5,
-        "published": "June 30, 2022 2:20 AM"
     },
     {
         "title": "A review of quantitative research studies suggests men who use intimate partner violence behavior may have deficits in areas of the brain that impact cognitive flexibility, mental organization, impulsivity, and emotion regulation.",
@@ -63,21 +54,12 @@
         "published": "June 30, 2022 2:32 AM"
     },
     {
-        "title": "Psychologists uncover a surprising and ironic tendency among collective narcissists",
-        "domain": "psypost.org",
-        "category": "science",
-        "link": "https://www.psypost.org/2022/06/psychologists-uncover-a-surprising-and-ironic-tendency-among-collective-narcissists-63404",
-        "timestamp": 1656571732,
-        "sentiment": 0,
-        "published": "June 30, 2022 2:48 AM"
-    },
-    {
         "title": "1,000 acres of forest to be returned to Onondaga Nation in historic lake cleanup agreement",
         "domain": "syracuse.com",
         "category": "UpliftingNews",
         "link": "https://www.syracuse.com/news/2022/06/1000-acres-to-return-to-onondaga-nation-in-historic-lake-cleanup-agreement.html",
         "timestamp": 1656571951,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 30, 2022 2:52 AM"
     },
     {
@@ -95,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.themoscowtimes.com/2022/06/30/russias-car-manufacturing-collapses-by-97-in-may-a78151",
         "timestamp": 1656573230,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 30, 2022 3:13 AM"
     },
     {
@@ -104,7 +86,7 @@
         "category": "technology",
         "link": "https://kotaku.com/pokemon-go-niantic-transformers-canceled-staff-layoffs-1849125442",
         "timestamp": 1656573419,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 3:16 AM"
     },
     {
@@ -113,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.techspot.com/news/95120-brazil-wants-follow-europe-making-usb-c-mandatory.html",
         "timestamp": 1656575503,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 30, 2022 3:51 AM"
     },
     {
@@ -122,7 +104,7 @@
         "category": "UpliftingNews",
         "link": "https://www.fastcompany.com/90740551/this-company-is-helping-ukrainian-tech-workers-land-contract-gigs",
         "timestamp": 1656576262,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 30, 2022 4:04 AM"
     },
     {
@@ -131,7 +113,7 @@
         "category": "UpliftingNews",
         "link": "https://www.stripes.com/veterans/2022-06-29/veterans-elections-poll-workers-shortage-6500565.html",
         "timestamp": 1656576275,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "June 30, 2022 4:04 AM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/russia-and-china-slam-nato-after-alliance-raises-alarm/ar-AAZ1Fr3?ocid=EMMX&cvid=4a7ff78bf48148d7b5867c8c7bee789f",
         "timestamp": 1656576459,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 30, 2022 4:07 AM"
     },
     {
@@ -158,7 +140,7 @@
         "category": "technology",
         "link": "https://www.theguardian.com/technology/2022/jun/30/amazon-bows-to-uae-pressure-to-restrict-lgbt-search-results",
         "timestamp": 1656577588,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 4:26 AM"
     },
     {
@@ -167,7 +149,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/zelenskyy-brands-russia-a-terrorist-state-calls-for-it-to-be-expelled-from-the-united-nations/ar-AAZ1Kv0?ocid=EMMX&cvid=be7b597e27144364b416f33efa9b6c74",
         "timestamp": 1656578636,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 30, 2022 4:43 AM"
     },
     {
@@ -176,7 +158,7 @@
         "category": "ukraine",
         "link": "https://news.sky.com/story/ukraine-news-live-zelenskyy-kremenchuk-putin-12541713?postid=4096282#liveblog-body",
         "timestamp": 1656579327,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 30, 2022 4:55 AM"
     },
     {
@@ -185,7 +167,7 @@
         "category": "ukraine",
         "link": "https://www.bbc.com/news/live/world-europe-61987663",
         "timestamp": 1656579421,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "June 30, 2022 4:57 AM"
     },
     {
@@ -194,7 +176,7 @@
         "category": "nottheonion",
         "link": "https://www.nzherald.co.nz/nz/intellectually-disabled-man-doled-out-multiple-wedgies-to-random-children/EQNNGL7G3XU7Z4G6Z6O5GYXF2Q/",
         "timestamp": 1656579491,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 30, 2022 4:58 AM"
     },
     {
@@ -203,8 +185,233 @@
         "category": "worldnews",
         "link": "https://metro.co.uk/2022/06/30/russia-retreats-from-snake-island-where-warship-told-go-fk-yourself-16917540/",
         "timestamp": 1656580048,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 30, 2022 5:07 AM"
+    },
+    {
+        "title": "Trump's 'girth would prevent him from actually getting to the steering wheel' of his SUV, former Secret Service agent says: 'I don't see this president ever being able to do that. Ever'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/donald-trump-girth-suv-secret-service-cassidy-hutchinson-january-6-2022-6",
+        "timestamp": 1656582922,
+        "sentiment": -1,
+        "published": "June 30, 2022 5:55 AM"
+    },
+    {
+        "title": "Mother fatally shot 'at point-blank range' while pushing baby in pram in New York City | US News",
+        "domain": "news.sky.com",
+        "category": "news",
+        "link": "https://news.sky.com/story/mother-fatally-shot-at-point-blank-range-while-pushing-baby-in-pram-in-new-york-city-12642901",
+        "timestamp": 1656583622,
+        "sentiment": 0,
+        "published": "June 30, 2022 6:07 AM"
+    },
+    {
+        "title": "Report estimates 10% of all cancers in Europe are caused by pollution",
+        "domain": "newatlas.com",
+        "category": "science",
+        "link": "https://newatlas.com/health-wellbeing/report-cancer-europe-chemical-environment-pollution/",
+        "timestamp": 1656583754,
+        "sentiment": 0,
+        "published": "June 30, 2022 6:09 AM"
+    },
+    {
+        "title": "The mere sight of a meal triggers an inflammatory response in the brain to release insulin.",
+        "domain": "eurekalert.org",
+        "category": "science",
+        "link": "https://www.eurekalert.org/news-releases/957392",
+        "timestamp": 1656584592,
+        "sentiment": 0,
+        "published": "June 30, 2022 6:23 AM"
+    },
+    {
+        "title": "Big tech's abortion travel policies do nothing for its contractor workforce | For some companies, these policies exclude the majority of their workforce.",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/tech-contractors-abortion-roe-robbs-uber-lyft-212737071.html",
+        "timestamp": 1656585511,
+        "sentiment": -2,
+        "published": "June 30, 2022 6:38 AM"
+    },
+    {
+        "title": "Liz Cheney: 'Republicans cannot be both loyal to Donald Trump and loyal to the Constitution'",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/news/2022/06/29/liz-cheney-republicans-trump-constitution-00043374",
+        "timestamp": 1656585629,
+        "sentiment": -1,
+        "published": "June 30, 2022 6:40 AM"
+    },
+    {
+        "title": "Pentagon finds concerning vulnerabilities on blockchain",
+        "domain": "techrepublic.com",
+        "category": "technology",
+        "link": "https://www.techrepublic.com/article/pentagon-finds-concerning-vulnerabilities-on-blockchain/",
+        "timestamp": 1656585869,
+        "sentiment": -2,
+        "published": "June 30, 2022 6:44 AM"
+    },
+    {
+        "title": "Biden is Nominating an Anti-Abortion Lawyer to Become a Federal Judge — Because Of Course He Is",
+        "domain": "rollingstone.com",
+        "category": "politics",
+        "link": "https://www.rollingstone.com/politics/politics-news/anti-abortion-kentucky-federal-judge-nomination-biden-mitch-mcconnell-chad-meredith-1376416/",
+        "timestamp": 1656585876,
+        "sentiment": -1,
+        "published": "June 30, 2022 6:44 AM"
+    },
+    {
+        "title": "Denmark tells universities to suspend all cooperation with Russia",
+        "domain": "sciencebusiness.net",
+        "category": "worldnews",
+        "link": "https://sciencebusiness.net/news/denmark-tells-universities-suspend-all-cooperation-russia",
+        "timestamp": 1656586319,
+        "sentiment": 0,
+        "published": "June 30, 2022 6:51 AM"
+    },
+    {
+        "title": "Russia abandons Snake Island in strategic victory for Ukraine",
+        "domain": "reuters.com",
+        "category": "UpliftingNews",
+        "link": "https://www.reuters.com/world/europe/russia-steps-up-attacks-ukraine-after-landmark-nato-summit-2022-06-30/",
+        "timestamp": 1656586753,
+        "sentiment": 0,
+        "published": "June 30, 2022 6:59 AM"
+    },
+    {
+        "title": "“What Will I Do Without That Guy?” As the end of Better Call Saul approaches, Giancarlo Esposito wants more time with Gus Fring",
+        "domain": "vulture.com",
+        "category": "television",
+        "link": "https://www.vulture.com/article/giancarlo-esposito-better-call-saul-finale-interview.html",
+        "timestamp": 1656587039,
+        "sentiment": 0,
+        "published": "June 30, 2022 7:03 AM"
+    },
+    {
+        "title": "Women’s techniques for pleasure from anal touch: Results from a U.S. probability sample of women ages 18–93",
+        "domain": "journals.plos.org",
+        "category": "science",
+        "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268785",
+        "timestamp": 1656587370,
+        "sentiment": 0,
+        "published": "June 30, 2022 7:09 AM"
+    },
+    {
+        "title": "Global nuclear power capacity must double by 2050 if we want to ensure energy security",
+        "domain": "euronews.com",
+        "category": "worldnews",
+        "link": "https://www.euronews.com/green/2022/06/30/global-nuclear-power-capacity-must-double-by-2050-if-we-want-to-ensure-energy-security",
+        "timestamp": 1656587624,
+        "sentiment": 0,
+        "published": "June 30, 2022 7:13 AM"
+    },
+    {
+        "title": "Liz Cheney calls Trump ‘a domestic threat that we have never faced before.’ | In a forceful speech, the congresswoman also denounced Republican leaders who had “made themselves willing hostages to this dangerous and irrational man.”",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2022/06/29/us/politics/liz-cheney-speech-trump.html",
+        "timestamp": 1656587680,
+        "sentiment": -1,
+        "published": "June 30, 2022 7:14 AM"
+    },
+    {
+        "title": "BMW Reminds Drivers To Use Their Car’s Indicators",
+        "domain": "carthrottle.com",
+        "category": "nottheonion",
+        "link": "https://www.carthrottle.com/post/bmw-reminds-drivers-to-use-their-cars-indicators/",
+        "timestamp": 1656589107,
+        "sentiment": 0,
+        "published": "June 30, 2022 7:38 AM"
+    },
+    {
+        "title": "Employees fired for refusing to attend mandatory prayer meetings: Lawsuit",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/employees-fired-refusing-attend-mandatory-prayer-meetings-lawsuit-north-carolina-1720422",
+        "timestamp": 1656589288,
+        "sentiment": -1,
+        "published": "June 30, 2022 7:41 AM"
+    },
+    {
+        "title": "Man emailed photos of his genitals to female police officer, jailed 9 weeks",
+        "domain": "todayonline.com",
+        "category": "nottheonion",
+        "link": "https://www.todayonline.com/singapore/email-obscene-photo-genitals-police-officer-1934411",
+        "timestamp": 1656589714,
+        "sentiment": 0,
+        "published": "June 30, 2022 7:48 AM"
+    },
+    {
+        "title": "Donald Trump stalwarts finally turn on him after Hutchinson's testimony",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/donald-trump-jan6-cassidy-hutchinson-testimony-capitol-1720510",
+        "timestamp": 1656590932,
+        "sentiment": -1,
+        "published": "June 30, 2022 8:08 AM"
+    },
+    {
+        "title": "Amazon is introducing new tech to monitor shoppers in its grocery stores and share data with advertisers",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/amazon-brings-data-analytics-mining-to-its-physical-grocery-stores-2022-6",
+        "timestamp": 1656592218,
+        "sentiment": -2,
+        "published": "June 30, 2022 8:30 AM"
+    },
+    {
+        "title": "Belarus sends out conscription notices en masse",
+        "domain": "english.nv.ua",
+        "category": "worldnews",
+        "link": "https://english.nv.ua/nation/belarus-sends-out-conscription-notices-en-masse-50253394.html",
+        "timestamp": 1656592633,
+        "sentiment": 0,
+        "published": "June 30, 2022 8:37 AM"
+    },
+    {
+        "title": "Sober Home Owner Sentenced to 30 Months in Prison for $4.5 Million Kickback Scheme",
+        "domain": "justice.gov",
+        "category": "florida",
+        "link": "https://www.justice.gov/opa/pr/sober-home-owner-sentenced-30-months-prison-45-million-kickback-scheme",
+        "timestamp": 1656592880,
+        "sentiment": 0,
+        "published": "June 30, 2022 8:41 AM"
+    },
+    {
+        "title": "As federal programs dry up, South Florida food banks struggle with inflation and increased demand",
+        "domain": "sun-sentinel.com",
+        "category": "florida",
+        "link": "https://www.sun-sentinel.com/news/florida/fl-ne-food-banks-struggling-under-inflation-demand-supply-chain-issues-20220630-6jf4krx2czbjlpsaw5cutyhjpq-story.html",
+        "timestamp": 1656594033,
+        "sentiment": 0,
+        "published": "June 30, 2022 9:00 AM"
+    },
+    {
+        "title": "Former mayor of Turkey's Capital ridiculed for believing tweet on discovery of jelly bean reserves in Turkey",
+        "domain": "turkishminute.com",
+        "category": "nottheonion",
+        "link": "https://www.turkishminute.com/2022/06/29/former-ankara-mayor-ridiculed-for-believing-tweet-on-discovery-of-jelly-bean-reserves-in-turkey/",
+        "timestamp": 1656594095,
+        "sentiment": 0,
+        "published": "June 30, 2022 9:01 AM"
+    },
+    {
+        "title": "Russia's attack on Mariupol theatre a clear war crime, Amnesty says",
+        "domain": "bbc.com",
+        "category": "ukraine",
+        "link": "https://www.bbc.com/news/world-europe-61979873",
+        "timestamp": 1656570038,
+        "sentiment": -5,
+        "published": "June 30, 2022 2:20 AM"
+    },
+    {
+        "title": "Psychologists uncover a surprising and ironic tendency among collective narcissists",
+        "domain": "psypost.org",
+        "category": "science",
+        "link": "https://www.psypost.org/2022/06/psychologists-uncover-a-surprising-and-ironic-tendency-among-collective-narcissists-63404",
+        "timestamp": 1656571732,
+        "sentiment": 0,
+        "published": "June 30, 2022 2:48 AM"
     },
     {
         "title": "Putin: Western leaders would look ‘disgusting’ topless.",
@@ -225,60 +432,6 @@
         "published": "June 30, 2022 6:03 AM"
     },
     {
-        "title": "Mother fatally shot 'at point-blank range' while pushing baby in pram in New York City | US News",
-        "domain": "news.sky.com",
-        "category": "news",
-        "link": "https://news.sky.com/story/mother-fatally-shot-at-point-blank-range-while-pushing-baby-in-pram-in-new-york-city-12642901",
-        "timestamp": 1656583622,
-        "sentiment": -2,
-        "published": "June 30, 2022 6:07 AM"
-    },
-    {
-        "title": "Report estimates 10% of all cancers in Europe are caused by pollution",
-        "domain": "newatlas.com",
-        "category": "science",
-        "link": "https://newatlas.com/health-wellbeing/report-cancer-europe-chemical-environment-pollution/",
-        "timestamp": 1656583754,
-        "sentiment": 0,
-        "published": "June 30, 2022 6:09 AM"
-    },
-    {
-        "title": "Big tech's abortion travel policies do nothing for its contractor workforce | For some companies, these policies exclude the majority of their workforce.",
-        "domain": "engadget.com",
-        "category": "technology",
-        "link": "https://www.engadget.com/tech-contractors-abortion-roe-robbs-uber-lyft-212737071.html",
-        "timestamp": 1656585511,
-        "sentiment": 0,
-        "published": "June 30, 2022 6:38 AM"
-    },
-    {
-        "title": "Liz Cheney: 'Republicans cannot be both loyal to Donald Trump and loyal to the Constitution'",
-        "domain": "politico.com",
-        "category": "politics",
-        "link": "https://www.politico.com/news/2022/06/29/liz-cheney-republicans-trump-constitution-00043374",
-        "timestamp": 1656585629,
-        "sentiment": 0,
-        "published": "June 30, 2022 6:40 AM"
-    },
-    {
-        "title": "Pentagon finds concerning vulnerabilities on blockchain",
-        "domain": "techrepublic.com",
-        "category": "technology",
-        "link": "https://www.techrepublic.com/article/pentagon-finds-concerning-vulnerabilities-on-blockchain/",
-        "timestamp": 1656585869,
-        "sentiment": 0,
-        "published": "June 30, 2022 6:44 AM"
-    },
-    {
-        "title": "Russia abandons Snake Island in strategic victory for Ukraine",
-        "domain": "reuters.com",
-        "category": "UpliftingNews",
-        "link": "https://www.reuters.com/world/europe/russia-steps-up-attacks-ukraine-after-landmark-nato-summit-2022-06-30/",
-        "timestamp": 1656586753,
-        "sentiment": 2,
-        "published": "June 30, 2022 6:59 AM"
-    },
-    {
         "title": "'Friends' cocreator says she's 'embarrassed' by the show's lack of diversity as she announces $4 million donation to African American studies",
         "domain": "insider.com",
         "category": "television",
@@ -286,33 +439,6 @@
         "timestamp": 1656587243,
         "sentiment": 0,
         "published": "June 30, 2022 7:07 AM"
-    },
-    {
-        "title": "Women’s techniques for pleasure from anal touch: Results from a U.S. probability sample of women ages 18–93",
-        "domain": "journals.plos.org",
-        "category": "science",
-        "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268785",
-        "timestamp": 1656587370,
-        "sentiment": 0,
-        "published": "June 30, 2022 7:09 AM"
-    },
-    {
-        "title": "BMW Reminds Drivers To Use Their Car’s Indicators",
-        "domain": "carthrottle.com",
-        "category": "nottheonion",
-        "link": "https://www.carthrottle.com/post/bmw-reminds-drivers-to-use-their-cars-indicators/",
-        "timestamp": 1656589107,
-        "sentiment": -2,
-        "published": "June 30, 2022 7:38 AM"
-    },
-    {
-        "title": "Man emailed photos of his genitals to female police officer, jailed 9 weeks",
-        "domain": "todayonline.com",
-        "category": "nottheonion",
-        "link": "https://www.todayonline.com/singapore/email-obscene-photo-genitals-police-officer-1934411",
-        "timestamp": 1656589714,
-        "sentiment": -2,
-        "published": "June 30, 2022 7:48 AM"
     },
     {
         "title": "This Bored Ape Crypto Restaurant Has Stopped Accepting Crypto",
