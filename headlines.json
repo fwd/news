@@ -27,15 +27,6 @@
         "published": "June 30, 2022 12:17 AM"
     },
     {
-        "title": "Ukraine’s Armed Forces strike another Russian Pantsir-S1 system on Zmiinyi Island",
-        "domain": "ukrinform.net",
-        "category": "ukraine",
-        "link": "https://www.ukrinform.net/rubric-ato/3518436-ukraines-armed-forces-strike-another-russian-pantsirs1-system-on-zmiinyi-island.html",
-        "timestamp": 1656563290,
-        "sentiment": -1,
-        "published": "June 30, 2022 12:28 AM"
-    },
-    {
         "title": "Chess - Putin gives award to Russian (but Ukrainian-born) supergrandmaster Sergey Karjakin for backing Ukraine invasion. Sergey was temp banned by chess federation for the same reason.",
         "domain": "reuters.com",
         "category": "sports",
@@ -43,6 +34,15 @@
         "timestamp": 1656568320,
         "sentiment": 0,
         "published": "June 30, 2022 1:52 AM"
+    },
+    {
+        "title": "Russia's attack on Mariupol theatre a clear war crime, Amnesty says",
+        "domain": "bbc.com",
+        "category": "ukraine",
+        "link": "https://www.bbc.com/news/world-europe-61979873",
+        "timestamp": 1656570038,
+        "sentiment": -5,
+        "published": "June 30, 2022 2:20 AM"
     },
     {
         "title": "A review of quantitative research studies suggests men who use intimate partner violence behavior may have deficits in areas of the brain that impact cognitive flexibility, mental organization, impulsivity, and emotion regulation.",
@@ -88,6 +88,51 @@
         "timestamp": 1656573419,
         "sentiment": 0,
         "published": "June 30, 2022 3:16 AM"
+    },
+    {
+        "title": "Veterans group launches coalition to recruit 100,000 vets to help combat poll worker shortage",
+        "domain": "stripes.com",
+        "category": "UpliftingNews",
+        "link": "https://www.stripes.com/veterans/2022-06-29/veterans-elections-poll-workers-shortage-6500565.html",
+        "timestamp": 1656576275,
+        "sentiment": 0,
+        "published": "June 30, 2022 4:04 AM"
+    },
+    {
+        "title": "Ice Age wolf DNA reveals dogs trace ancestry to two separate wolf populations",
+        "domain": "nature.com",
+        "category": "science",
+        "link": "https://www.nature.com/articles/s41586-022-04824-9",
+        "timestamp": 1656577047,
+        "sentiment": 0,
+        "published": "June 30, 2022 4:17 AM"
+    },
+    {
+        "title": "Amazon bows to UAE pressure to restrict LGBT search results",
+        "domain": "theguardian.com",
+        "category": "technology",
+        "link": "https://www.theguardian.com/technology/2022/jun/30/amazon-bows-to-uae-pressure-to-restrict-lgbt-search-results",
+        "timestamp": 1656577588,
+        "sentiment": 0,
+        "published": "June 30, 2022 4:26 AM"
+    },
+    {
+        "title": "RUSSIA WITHDRAWS TROOPS FROM SNAKE ISLAND!",
+        "domain": "bbc.com",
+        "category": "ukraine",
+        "link": "https://www.bbc.com/news/live/world-europe-61987663",
+        "timestamp": 1656579421,
+        "sentiment": -5,
+        "published": "June 30, 2022 4:57 AM"
+    },
+    {
+        "title": "Ukraine’s Armed Forces strike another Russian Pantsir-S1 system on Zmiinyi Island",
+        "domain": "ukrinform.net",
+        "category": "ukraine",
+        "link": "https://www.ukrinform.net/rubric-ato/3518436-ukraines-armed-forces-strike-another-russian-pantsirs1-system-on-zmiinyi-island.html",
+        "timestamp": 1656563290,
+        "sentiment": -1,
+        "published": "June 30, 2022 12:28 AM"
     },
     {
         "title": "President Putin warns Sweden and Finland over NATO troops and infrastructure",
