@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/proposal-teach-slavery-involuntary-relocation-sent-texas-education-boa-rcna36273",
         "timestamp": 1656649608,
-        "sentiment": -4,
+        "sentiment": -5,
         "published": "July 1, 2022 12:26 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jul/01/russian-missile-strikes-on-odesa-apartments-and-recreation-centre-kill-17-ukraine-says",
         "timestamp": 1656651495,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 1, 2022 12:58 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "science",
         "link": "https://www.atsjournals.org/doi/10.1164/rccm.202202-0373OC",
         "timestamp": 1656655242,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 1, 2022 2:00 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "technology",
         "link": "https://www.space.com/james-webb-space-telescope-first-images-teaser",
         "timestamp": 1656658013,
-        "sentiment": 4,
+        "sentiment": -2,
         "published": "July 1, 2022 2:46 AM"
     },
     {
@@ -52,6 +52,519 @@
         "timestamp": 1656661238,
         "sentiment": 0,
         "published": "July 1, 2022 3:40 AM"
+    },
+    {
+        "title": "People with no mind’s eye have less vivid and detailed memories. Researchers report that aphantasics have less detailed and rich memories for events in their lives: a finding that not only reveals more about the condition, but also highlights the key role of mental imagery in memory generally.",
+        "domain": "digest.bps.org.uk",
+        "category": "science",
+        "link": "https://digest.bps.org.uk/2022/07/01/people-with-no-minds-eye-have-less-vivid-and-detailed-memories/",
+        "timestamp": 1656669412,
+        "sentiment": 1,
+        "published": "July 1, 2022 5:56 AM"
+    },
+    {
+        "title": "Palestinian Authority routinely tortures detainees, says rights group",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jul/01/palestinian-authority-routinely-tortures-detainees-says-human-rights-watch",
+        "timestamp": 1656670557,
+        "sentiment": 0,
+        "published": "July 1, 2022 6:15 AM"
+    },
+    {
+        "title": "One Dead and 22 Have Been Hospitalized in Listeria Outbreak Tied to Florida",
+        "domain": "nytimes.com",
+        "category": "florida",
+        "link": "https://www.nytimes.com/2022/06/30/science/listeria-outbreak-florida.html",
+        "timestamp": 1656671837,
+        "sentiment": 0,
+        "published": "July 1, 2022 6:37 AM"
+    },
+    {
+        "title": "Naomi Klein: The US Is in the Midst of a 'Shock-and-Awe Judicial Coup'",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/07/01/naomi-klein-us-midst-shock-and-awe-judicial-coup",
+        "timestamp": 1656671845,
+        "sentiment": 4,
+        "published": "July 1, 2022 6:37 AM"
+    },
+    {
+        "title": "Macron riles Russia with documentary releasing content of Putin calls",
+        "domain": "lemonde.fr",
+        "category": "worldnews",
+        "link": "https://www.lemonde.fr/en/international/article/2022/06/30/macron-riles-russia-with-documentary-releasing-content-of-putin-calls_5988537_4.html",
+        "timestamp": 1656671905,
+        "sentiment": 0,
+        "published": "July 1, 2022 6:38 AM"
+    },
+    {
+        "title": "Tesla faces new lawsuit over claims of racism and harassment at its Fremont factory",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/tesla-faces-new-lawsuit-with-15-employees-alleging-racism-and-harassment-102013993.html",
+        "timestamp": 1656672642,
+        "sentiment": -2,
+        "published": "July 1, 2022 6:50 AM"
+    },
+    {
+        "title": "Florida judge allows lawsuit filed by Gabby Petito's parents against Brian Laundrie's parents to proceed",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/06/30/us/brian-laundrie-florida-judge-allows-gabby-petito-parents-lawsuit/index.html",
+        "timestamp": 1656673124,
+        "sentiment": -5,
+        "published": "July 1, 2022 6:58 AM"
+    },
+    {
+        "title": "Same-sex marriage now legal in Switzerland | Nine months after a referendum, same-sex marriage is legal in Switzerland as of Friday, July 1st.",
+        "domain": "thelocal.ch",
+        "category": "worldnews",
+        "link": "https://www.thelocal.ch/20220701/same-sex-marriage-now-legal-in-switzerland/",
+        "timestamp": 1656673594,
+        "sentiment": 0,
+        "published": "July 1, 2022 7:06 AM"
+    },
+    {
+        "title": "Grape-Doling Tourists Gave Endangered Iguanas High Blood Sugar",
+        "domain": "the-scientist.com",
+        "category": "science",
+        "link": "https://www.the-scientist.com/news-opinion/grape-doling-tourists-gave-endangered-iguanas-high-blood-sugar-69931",
+        "timestamp": 1656673634,
+        "sentiment": 1,
+        "published": "July 1, 2022 7:07 AM"
+    },
+    {
+        "title": "Our Fourth of July nightmare: A republic in the tightening grip of minority rule",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/07/01/our-fourth-of-july-nightmare-a-republic-in-the-tightening-grip-of-minority-rule/",
+        "timestamp": 1656674177,
+        "sentiment": 4,
+        "published": "July 1, 2022 7:16 AM"
+    },
+    {
+        "title": "School's out forever: Arizona moves \"to kill public education\" with new universal voucher law — Families who bail on public school will get $7,000 per kid in GOP's new scheme: \"Every red state\" urged to follow",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/07/01/schools-out-forever-arizona-moves-to-public-education-with-new-universal-voucher-law/",
+        "timestamp": 1656675064,
+        "sentiment": 4,
+        "published": "July 1, 2022 7:31 AM"
+    },
+    {
+        "title": "Lakefront Trail Users Horrified As Cars Drive Onto Pedestrian And Bike Path To Avoid Traffic Jam",
+        "domain": "blockclubchicago.org",
+        "category": "nottheonion",
+        "link": "https://blockclubchicago.org/2022/06/30/lakefront-trail-users-horrified-as-cars-drive-on-to-pedestrian-and-bike-path-to-avoid-traffic-jam/",
+        "timestamp": 1656675606,
+        "sentiment": -1,
+        "published": "July 1, 2022 7:40 AM"
+    },
+    {
+        "title": "Polish court rules that four \"LGBT-free zones\" must be abolished",
+        "domain": "reuters.com",
+        "category": "UpliftingNews",
+        "link": "https://www.reuters.com/world/europe/polish-court-rules-that-four-lgbt-free-zones-must-be-abolished-2022-06-28/",
+        "timestamp": 1656676262,
+        "sentiment": -1,
+        "published": "July 1, 2022 7:51 AM"
+    },
+    {
+        "title": "90% of Ukrainians support joining EU, 73% support joining NATO",
+        "domain": "eurointegration.com.ua",
+        "category": "worldnews",
+        "link": "https://www.eurointegration.com.ua/eng/news/2022/07/1/7142399/",
+        "timestamp": 1656676511,
+        "sentiment": 0,
+        "published": "July 1, 2022 7:55 AM"
+    },
+    {
+        "title": "Daily Harvest hit with lawsuits from people who say they had their gallbladders removed after consuming its product",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/07/01/tech/daily-harvest-recall-lawsuits/index.html",
+        "timestamp": 1656676582,
+        "sentiment": -5,
+        "published": "July 1, 2022 7:56 AM"
+    },
+    {
+        "title": "Zika- and Dengue-Infected Humans are More Attractive to Mosquitoes: Researchers have found that when people have a Zika or dengue virus infection, they release a molecule that can attract mosquitoes.",
+        "domain": "sciencedirect.com",
+        "category": "science",
+        "link": "https://www.sciencedirect.com/science/article/abs/pii/S0092867422006419",
+        "timestamp": 1656676617,
+        "sentiment": 1,
+        "published": "July 1, 2022 7:56 AM"
+    },
+    {
+        "title": "Ukraine’s Armed Forces launch up to 10 airstrikes on Russian positions in Luhansk region",
+        "domain": "ukrinform.net",
+        "category": "ukraine",
+        "link": "https://www.ukrinform.net/rubric-ato/3519643-ukraines-armed-forces-launch-up-to-10-airstrikes-on-russian-positions-in-luhansk-region.html",
+        "timestamp": 1656676690,
+        "sentiment": 0,
+        "published": "July 1, 2022 7:58 AM"
+    },
+    {
+        "title": "​Canada Supply Ukraine with Brand New Armoured Combat Support Vehicles, High-Resolution Cameras for Bayraktar TB2 UAV | Defense Express",
+        "domain": "en.defence-ua.com",
+        "category": "ukraine",
+        "link": "https://en.defence-ua.com/industries/canada_supply_ukraine_with_brand_new_armoured_combat_support_vehicles_high_resolution_cameras_for_bayraktar_tb2_uav-3437.html",
+        "timestamp": 1656677014,
+        "sentiment": 0,
+        "published": "July 1, 2022 8:03 AM"
+    },
+    {
+        "title": "Meta’s Dominance in the VR Market will be Challenged in the Coming Years, According to IDC",
+        "domain": "businesswire.com",
+        "category": "technology",
+        "link": "https://www.businesswire.com/news/home/20220630005151/en/Meta%E2%80%99s-Dominance-in-the-VR-Market-will-be-Challenged-in-the-Coming-Years-According-to-IDC",
+        "timestamp": 1656677279,
+        "sentiment": -2,
+        "published": "July 1, 2022 8:07 AM"
+    },
+    {
+        "title": "Solar power is helping transform the lives of African farmers",
+        "domain": "furtherafrica.com",
+        "category": "UpliftingNews",
+        "link": "https://furtherafrica.com/2022/07/01/how-solar-power-is-transforming-african-farms/",
+        "timestamp": 1656677467,
+        "sentiment": -1,
+        "published": "July 1, 2022 8:11 AM"
+    },
+    {
+        "title": "How Much Health Insurers Pay for Almost Everything Is About to Go Public",
+        "domain": "khn.org",
+        "category": "UpliftingNews",
+        "link": "https://khn.org/news/article/health-insurers-price-transparency-public-rates-costs/",
+        "timestamp": 1656677551,
+        "sentiment": -1,
+        "published": "July 1, 2022 8:12 AM"
+    },
+    {
+        "title": "The Supreme Court decision overturning Roe v. Wade \"made the United States an outlier among developed nations in the world\" on abortion rights.",
+        "domain": "politifact.com",
+        "category": "politics",
+        "link": "https://www.politifact.com/factchecks/2022/jun/24/joe-biden/roe-reversal-ending-national-access-abortion-makes/",
+        "timestamp": 1656677631,
+        "sentiment": 4,
+        "published": "July 1, 2022 8:13 AM"
+    },
+    {
+        "title": "Researchers discover new leukemia-killing compounds: Potential of mitochondria-targeted chemotherapies",
+        "domain": "sciencedaily.com",
+        "category": "UpliftingNews",
+        "link": "https://www.sciencedaily.com/releases/2022/06/220630160035.htm",
+        "timestamp": 1656678408,
+        "sentiment": -1,
+        "published": "July 1, 2022 8:26 AM"
+    },
+    {
+        "title": "Germany’s move to legalise cannabis expected to create ‘domino effect’",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jul/01/germanys-move-to-legalise-cannabis-expected-to-create-domino-effect",
+        "timestamp": 1656678463,
+        "sentiment": 0,
+        "published": "July 1, 2022 8:27 AM"
+    },
+    {
+        "title": "Trump allies paid legal fees for multiple Jan. 6 witnesses, including Cassidy Hutchinson, sparking witness-influencing concerns, report says",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-allies-paid-multiple-jan-6-witness-legal-fees-nyt-2022-7",
+        "timestamp": 1656679087,
+        "sentiment": 4,
+        "published": "July 1, 2022 8:38 AM"
+    },
+    {
+        "title": "Mark Meadows’ associate threatened ex-White House aide before her testimony",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2022/jun/30/jan-6-hearings-trump-mark-meadows-cassidy-hutchinson-threatened",
+        "timestamp": 1656679146,
+        "sentiment": -5,
+        "published": "July 1, 2022 8:39 AM"
+    },
+    {
+        "title": "Argentina approved new HIV, Hepatitis and Tuberculosis law for social care and protection",
+        "domain": "agenciapresentes.org",
+        "category": "UpliftingNews",
+        "link": "https://agenciapresentes.org/2022/06/30/argentina-aprobo-nueva-ley-de-vih-hepatitis-tuberculosis-e-its/",
+        "timestamp": 1656679365,
+        "sentiment": -1,
+        "published": "July 1, 2022 8:42 AM"
+    },
+    {
+        "title": "What Happens if Americans Stop Recognizing the Legitimacy of the Supreme Court? We Asked a Constitutional Scholar.",
+        "domain": "wweek.com",
+        "category": "politics",
+        "link": "https://www.wweek.com/news/2022/06/29/what-happens-if-americans-stop-recognizing-the-legitimacy-of-the-supreme-court-we-asked-a-constitutional-scholar/",
+        "timestamp": 1656679392,
+        "sentiment": 4,
+        "published": "July 1, 2022 8:43 AM"
+    },
+    {
+        "title": "China Urges U.S. to Fulfill Climate Duties After Supreme Court Ruling",
+        "domain": "usnews.com",
+        "category": "worldnews",
+        "link": "https://www.usnews.com/news/world/articles/2022-07-01/china-urges-u-s-to-fulfill-climate-duties-after-supreme-court-ruling",
+        "timestamp": 1656679809,
+        "sentiment": 0,
+        "published": "July 1, 2022 8:50 AM"
+    },
+    {
+        "title": "Fight Breaks Out in VIP Section of Eagles Concert During ‘Take It Easy’",
+        "domain": "variety.com",
+        "category": "nottheonion",
+        "link": "https://variety.com/2022/music/news/fight-eagles-concert-take-it-easy-1235306918/",
+        "timestamp": 1656679850,
+        "sentiment": -1,
+        "published": "July 1, 2022 8:50 AM"
+    },
+    {
+        "title": "The Christian Right is winning at the Supreme Court, but not in public opinion",
+        "domain": "npr.org",
+        "category": "politics",
+        "link": "https://www.npr.org/2022/07/01/1109141110/the-christian-right-is-winning-cultural-battles-while-public-opinion-disagrees",
+        "timestamp": 1656680986,
+        "sentiment": 4,
+        "published": "July 1, 2022 9:09 AM"
+    },
+    {
+        "title": "Nigerian senator and wife charged with plotting to get child to UK to harvest organs",
+        "domain": "cnn.com",
+        "category": "nottheonion",
+        "link": "https://www.cnn.com/2022/06/24/africa/ekweremadu-wife-arrested-uk-intl/index.html",
+        "timestamp": 1656681027,
+        "sentiment": -1,
+        "published": "July 1, 2022 9:10 AM"
+    },
+    {
+        "title": "School's out forever: Arizona moves \"to kill public education\" with new universal voucher law — Families who bail on public school will get $7,000 per kid in GOP's new scheme. Desantis has entered the chat.",
+        "domain": "salon.com",
+        "category": "florida",
+        "link": "https://www.salon.com/2022/07/01/schools-out-forever-arizona-moves-to-public-education-with-new-universal-voucher-law/",
+        "timestamp": 1656681153,
+        "sentiment": 0,
+        "published": "July 1, 2022 9:12 AM"
+    },
+    {
+        "title": "Ohio police officers on paid administrative leave after fatal shooting of Jayland Walker",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/06/30/us/ohio-police-officers-jayland-walker-shooting/index.html",
+        "timestamp": 1656681318,
+        "sentiment": -5,
+        "published": "July 1, 2022 9:15 AM"
+    },
+    {
+        "title": "Dissolving implantable device relieves pain without drugs. New device has the potential to provide an alternative to opioids and other highly addictive drugs",
+        "domain": "eurekalert.org",
+        "category": "science",
+        "link": "https://www.eurekalert.org/news-releases/957142",
+        "timestamp": 1656681758,
+        "sentiment": 1,
+        "published": "July 1, 2022 9:22 AM"
+    },
+    {
+        "title": "Bisexual daughter cuts ties to her dad. He’s a GOP state senator who is “taking my rights” away",
+        "domain": "lgbtqnation.com",
+        "category": "politics",
+        "link": "https://www.lgbtqnation.com/2022/07/bisexual-daughter-cuts-ties-dad-hes-gop-state-senator-taking-rights-away/",
+        "timestamp": 1656682293,
+        "sentiment": 4,
+        "published": "July 1, 2022 9:31 AM"
+    },
+    {
+        "title": "Outlander author Diana Gabaldon discloses that season seven could be the last",
+        "domain": "scottishdailyexpress.co.uk",
+        "category": "television",
+        "link": "https://www.scottishdailyexpress.co.uk/tv/outlander-author-diana-gabaldon-discloses-27358528",
+        "timestamp": 1656682336,
+        "sentiment": 0,
+        "published": "July 1, 2022 9:32 AM"
+    },
+    {
+        "title": "US basketball star Brittney Griner appears in Russian court on drug smuggling charges",
+        "domain": "cnn.com",
+        "category": "sports",
+        "link": "https://www.cnn.com/2022/07/01/europe/russia-brittney-griner-trial-intl/index.html",
+        "timestamp": 1656683026,
+        "sentiment": 2,
+        "published": "July 1, 2022 9:43 AM"
+    },
+    {
+        "title": "Putin Says Russia and Belarus Moving Towards Unification",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/putin-russia-belarus-moving-towards-unification-western-sanctions-ukraine-war-1720985",
+        "timestamp": 1656683650,
+        "sentiment": 0,
+        "published": "July 1, 2022 9:54 AM"
+    },
+    {
+        "title": "Telecom monopolies are poised to waste the U.S.’s massive new investment in high-speed broadband",
+        "domain": "dailydot.com",
+        "category": "technology",
+        "link": "https://www.dailydot.com/debug/broadband-telecom-monopolies-covid-subsidies/",
+        "timestamp": 1656683690,
+        "sentiment": -2,
+        "published": "July 1, 2022 9:54 AM"
+    },
+    {
+        "title": "New study finds that Reddit users with \"toxic\" usernames are also more likely to generate toxic content and be suspended by mods",
+        "domain": "psychnewsdaily.com",
+        "category": "science",
+        "link": "https://www.psychnewsdaily.com/reddit-toxic-usernames-and-toxic-content/",
+        "timestamp": 1656684413,
+        "sentiment": 1,
+        "published": "July 1, 2022 10:06 AM"
+    },
+    {
+        "title": "'The Simpsons' Production Workers Go Union, Vote to Join Animation Guild",
+        "domain": "npr.org",
+        "category": "television",
+        "link": "https://www.npr.org/2022/07/01/1105295933/the-simpsons-production-workers-say-they-deserve-a-place-at-the-table",
+        "timestamp": 1656684832,
+        "sentiment": 0,
+        "published": "July 1, 2022 10:13 AM"
+    },
+    {
+        "title": "India bans many single-use plastics to tackle waste",
+        "domain": "france24.com",
+        "category": "UpliftingNews",
+        "link": "https://www.france24.com/en/live-news/20220701-india-bans-many-single-use-plastics-to-tackle-waste",
+        "timestamp": 1656685086,
+        "sentiment": -1,
+        "published": "July 1, 2022 10:18 AM"
+    },
+    {
+        "title": "'Payoff for 40 Years of Dark Money': Supreme Court Delivers for Corporate America",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/06/30/payoff-40-years-dark-money-supreme-court-delivers-corporate-america",
+        "timestamp": 1656685124,
+        "sentiment": 4,
+        "published": "July 1, 2022 10:18 AM"
+    },
+    {
+        "title": "California lawmakers OK law to phase out single-use plastics - Los Angeles Times",
+        "domain": "latimes.com",
+        "category": "UpliftingNews",
+        "link": "https://www.latimes.com/environment/story/2022-06-30/california-new-law-phase-out-single-use-plastics-containers",
+        "timestamp": 1656685871,
+        "sentiment": -1,
+        "published": "July 1, 2022 10:31 AM"
+    },
+    {
+        "title": "As Florida's 'Don't Say Gay' law takes effect, schools roll out LGBTQ restrictions",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/nbc-out/out-news/floridas-dont-say-gay-law-takes-effect-schools-roll-lgbtq-restrictions-rcna36143",
+        "timestamp": 1656686030,
+        "sentiment": -5,
+        "published": "July 1, 2022 10:33 AM"
+    },
+    {
+        "title": "Putin blames West for pushing Russia into ''unification processes'' with Belarus",
+        "domain": "pravda.com.ua",
+        "category": "worldnews",
+        "link": "https://www.pravda.com.ua/eng/news/2022/07/1/7355824/",
+        "timestamp": 1656686180,
+        "sentiment": 0,
+        "published": "July 1, 2022 10:36 AM"
+    },
+    {
+        "title": "Is Biden a Man Out of Time? Democrats have a growing sense of panic about conservative advances but are not seeing a president who shares their urgency.",
+        "domain": "theatlantic.com",
+        "category": "politics",
+        "link": "https://www.theatlantic.com/politics/archive/2022/06/biden-roe-response-democrats-2024-election/661449/",
+        "timestamp": 1656687335,
+        "sentiment": 4,
+        "published": "July 1, 2022 10:55 AM"
+    },
+    {
+        "title": "'Why Women Kill' Canceled at Paramount+ Despite Season 3 Renewal",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/why-women-kill-canceled-paramount-plus-1235307752/",
+        "timestamp": 1656687670,
+        "sentiment": 0,
+        "published": "July 1, 2022 11:01 AM"
+    },
+    {
+        "title": "More charges for ‘Tiger King’ star. Antle, others illegally trafficked wildlife, FBI says",
+        "domain": "myrtlebeachonline.com",
+        "category": "news",
+        "link": "https://www.myrtlebeachonline.com/news/local/article263055798.html",
+        "timestamp": 1656688081,
+        "sentiment": -5,
+        "published": "July 1, 2022 11:08 AM"
+    },
+    {
+        "title": "Six months in space leads to a decade's worth of long-term bone loss. During space missions lasting six months or longer, astronauts can experience bone loss equivalent to two decades of aging. A year of recovery in Earth’s gravity rebuilds about half of that lost bone strength, researchers report.",
+        "domain": "sciencenews.org",
+        "category": "science",
+        "link": "https://www.sciencenews.org/article/space-bone-loss-density-astronaut-recovery-gravity",
+        "timestamp": 1656688106,
+        "sentiment": 1,
+        "published": "July 1, 2022 11:08 AM"
+    },
+    {
+        "title": "Wildfires may have sparked ecosystem collapse during Earth's worst mass extinction. The fossil plant records of eastern Australia and Antarctica show high abundances of burnt, or charcoalified, plants throughout the late Permian Period",
+        "domain": "pubs.geoscienceworld.org",
+        "category": "science",
+        "link": "https://pubs.geoscienceworld.org/sepm/palaios/article-abstract/37/6/292/614825/END-PERMIAN-BURNOUT-THE-ROLE-OF-PERMIAN-TRIASSIC?redirectedFrom=fulltext",
+        "timestamp": 1656689607,
+        "sentiment": 1,
+        "published": "July 1, 2022 11:33 AM"
+    },
+    {
+        "title": "Simone Biles, Megan Rapinoe set to receive the Presidential Medal of Freedom",
+        "domain": "espn.com",
+        "category": "sports",
+        "link": "https://www.espn.com/olympics/story/_/id/34179511/simone-biles-megan-rapinoe-recipients-presidential-medal-freedom",
+        "timestamp": 1656690076,
+        "sentiment": 2,
+        "published": "July 1, 2022 11:41 AM"
+    },
+    {
+        "title": "Someone got murdered in the lobby of the Clevelander in South Beach last night",
+        "domain": "twitter.com",
+        "category": "miami",
+        "link": "https://twitter.com/fox_sheldon/status/1542850848866410496?s=21&t=PMijA8mYftwUbxv64W96Nw",
+        "timestamp": 1656690712,
+        "sentiment": 0,
+        "published": "July 1, 2022 11:51 AM"
+    },
+    {
+        "title": "Chinese purchase of North Dakota farmland raises national security concerns in Washington",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/07/01/chinese-purchase-of-north-dakota-farmland-raises-national-security-concerns-in-washington.html",
+        "timestamp": 1656690911,
+        "sentiment": -5,
+        "published": "July 1, 2022 11:55 AM"
+    },
+    {
+        "title": "Google hit with more privacy complaints for “deceptive” sign-up process",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/tech-policy/2022/07/googles-default-privacy-settings-are-too-evil-eu-consumer-rights-groups-say/",
+        "timestamp": 1656692572,
+        "sentiment": -2,
+        "published": "July 1, 2022 12:22 PM"
+    },
+    {
+        "title": "Florida bans telehealth abortions, but can it enforce the law?",
+        "domain": "tampabay.com",
+        "category": "florida",
+        "link": "https://www.tampabay.com/news/health/2022/07/01/florida-bans-telehealth-abortions-but-can-it-enforce-the-law/",
+        "timestamp": 1656695214,
+        "sentiment": 0,
+        "published": "July 1, 2022 1:06 PM"
     },
     {
         "title": "Russia Arrests Scientist for Alleged Collaboration With Chinese Secret Services",
@@ -90,15 +603,6 @@
         "published": "July 1, 2022 5:00 AM"
     },
     {
-        "title": "People with no mind’s eye have less vivid and detailed memories. Researchers report that aphantasics have less detailed and rich memories for events in their lives: a finding that not only reveals more about the condition, but also highlights the key role of mental imagery in memory generally.",
-        "domain": "digest.bps.org.uk",
-        "category": "science",
-        "link": "https://digest.bps.org.uk/2022/07/01/people-with-no-minds-eye-have-less-vivid-and-detailed-memories/",
-        "timestamp": 1656669412,
-        "sentiment": 0,
-        "published": "July 1, 2022 5:56 AM"
-    },
-    {
         "title": "BBC - US stocks see worst first half drop in more than 50 years",
         "domain": "bbc.com",
         "category": "news",
@@ -106,114 +610,6 @@
         "timestamp": 1656670514,
         "sentiment": -4,
         "published": "July 1, 2022 6:15 AM"
-    },
-    {
-        "title": "Palestinian Authority routinely tortures detainees, says rights group",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/jul/01/palestinian-authority-routinely-tortures-detainees-says-human-rights-watch",
-        "timestamp": 1656670557,
-        "sentiment": -2,
-        "published": "July 1, 2022 6:15 AM"
-    },
-    {
-        "title": "One Dead and 22 Have Been Hospitalized in Listeria Outbreak Tied to Florida",
-        "domain": "nytimes.com",
-        "category": "florida",
-        "link": "https://www.nytimes.com/2022/06/30/science/listeria-outbreak-florida.html",
-        "timestamp": 1656671837,
-        "sentiment": 0,
-        "published": "July 1, 2022 6:37 AM"
-    },
-    {
-        "title": "Naomi Klein: The US Is in the Midst of a 'Shock-and-Awe Judicial Coup'",
-        "domain": "commondreams.org",
-        "category": "politics",
-        "link": "https://www.commondreams.org/news/2022/07/01/naomi-klein-us-midst-shock-and-awe-judicial-coup",
-        "timestamp": 1656671845,
-        "sentiment": 0,
-        "published": "July 1, 2022 6:37 AM"
-    },
-    {
-        "title": "Macron riles Russia with documentary releasing content of Putin calls",
-        "domain": "lemonde.fr",
-        "category": "worldnews",
-        "link": "https://www.lemonde.fr/en/international/article/2022/06/30/macron-riles-russia-with-documentary-releasing-content-of-putin-calls_5988537_4.html",
-        "timestamp": 1656671905,
-        "sentiment": -2,
-        "published": "July 1, 2022 6:38 AM"
-    },
-    {
-        "title": "Tesla faces new lawsuit over claims of racism and harassment at its Fremont factory",
-        "domain": "engadget.com",
-        "category": "technology",
-        "link": "https://www.engadget.com/tesla-faces-new-lawsuit-with-15-employees-alleging-racism-and-harassment-102013993.html",
-        "timestamp": 1656672642,
-        "sentiment": 4,
-        "published": "July 1, 2022 6:50 AM"
-    },
-    {
-        "title": "Florida judge allows lawsuit filed by Gabby Petito's parents against Brian Laundrie's parents to proceed",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/06/30/us/brian-laundrie-florida-judge-allows-gabby-petito-parents-lawsuit/index.html",
-        "timestamp": 1656673124,
-        "sentiment": -4,
-        "published": "July 1, 2022 6:58 AM"
-    },
-    {
-        "title": "Same-sex marriage now legal in Switzerland | Nine months after a referendum, same-sex marriage is legal in Switzerland as of Friday, July 1st.",
-        "domain": "thelocal.ch",
-        "category": "worldnews",
-        "link": "https://www.thelocal.ch/20220701/same-sex-marriage-now-legal-in-switzerland/",
-        "timestamp": 1656673594,
-        "sentiment": -2,
-        "published": "July 1, 2022 7:06 AM"
-    },
-    {
-        "title": "Grape-Doling Tourists Gave Endangered Iguanas High Blood Sugar",
-        "domain": "the-scientist.com",
-        "category": "science",
-        "link": "https://www.the-scientist.com/news-opinion/grape-doling-tourists-gave-endangered-iguanas-high-blood-sugar-69931",
-        "timestamp": 1656673634,
-        "sentiment": 0,
-        "published": "July 1, 2022 7:07 AM"
-    },
-    {
-        "title": "Our Fourth of July nightmare: A republic in the tightening grip of minority rule",
-        "domain": "salon.com",
-        "category": "politics",
-        "link": "https://www.salon.com/2022/07/01/our-fourth-of-july-nightmare-a-republic-in-the-tightening-grip-of-minority-rule/",
-        "timestamp": 1656674177,
-        "sentiment": 0,
-        "published": "July 1, 2022 7:16 AM"
-    },
-    {
-        "title": "School's out forever: Arizona moves \"to kill public education\" with new universal voucher law — Families who bail on public school will get $7,000 per kid in GOP's new scheme: \"Every red state\" urged to follow",
-        "domain": "salon.com",
-        "category": "politics",
-        "link": "https://www.salon.com/2022/07/01/schools-out-forever-arizona-moves-to-public-education-with-new-universal-voucher-law/",
-        "timestamp": 1656675064,
-        "sentiment": 0,
-        "published": "July 1, 2022 7:31 AM"
-    },
-    {
-        "title": "Lakefront Trail Users Horrified As Cars Drive Onto Pedestrian And Bike Path To Avoid Traffic Jam",
-        "domain": "blockclubchicago.org",
-        "category": "nottheonion",
-        "link": "https://blockclubchicago.org/2022/06/30/lakefront-trail-users-horrified-as-cars-drive-on-to-pedestrian-and-bike-path-to-avoid-traffic-jam/",
-        "timestamp": 1656675606,
-        "sentiment": -1,
-        "published": "July 1, 2022 7:40 AM"
-    },
-    {
-        "title": "Polish court rules that four \"LGBT-free zones\" must be abolished",
-        "domain": "reuters.com",
-        "category": "UpliftingNews",
-        "link": "https://www.reuters.com/world/europe/polish-court-rules-that-four-lgbt-free-zones-must-be-abolished-2022-06-28/",
-        "timestamp": 1656676262,
-        "sentiment": -1,
-        "published": "July 1, 2022 7:51 AM"
     },
     {
         "title": "'Deal with the devil.' Secret Biden-McConnell deal on anti-abortion GOP judge enrages Democrats",
@@ -225,294 +621,6 @@
         "published": "July 1, 2022 7:54 AM"
     },
     {
-        "title": "90% of Ukrainians support joining EU, 73% support joining NATO",
-        "domain": "eurointegration.com.ua",
-        "category": "worldnews",
-        "link": "https://www.eurointegration.com.ua/eng/news/2022/07/1/7142399/",
-        "timestamp": 1656676511,
-        "sentiment": -2,
-        "published": "July 1, 2022 7:55 AM"
-    },
-    {
-        "title": "Daily Harvest hit with lawsuits from people who say they had their gallbladders removed after consuming its product",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/07/01/tech/daily-harvest-recall-lawsuits/index.html",
-        "timestamp": 1656676582,
-        "sentiment": -4,
-        "published": "July 1, 2022 7:56 AM"
-    },
-    {
-        "title": "Zika- and Dengue-Infected Humans are More Attractive to Mosquitoes: Researchers have found that when people have a Zika or dengue virus infection, they release a molecule that can attract mosquitoes.",
-        "domain": "sciencedirect.com",
-        "category": "science",
-        "link": "https://www.sciencedirect.com/science/article/abs/pii/S0092867422006419",
-        "timestamp": 1656676617,
-        "sentiment": 0,
-        "published": "July 1, 2022 7:56 AM"
-    },
-    {
-        "title": "Ukraine’s Armed Forces launch up to 10 airstrikes on Russian positions in Luhansk region",
-        "domain": "ukrinform.net",
-        "category": "ukraine",
-        "link": "https://www.ukrinform.net/rubric-ato/3519643-ukraines-armed-forces-launch-up-to-10-airstrikes-on-russian-positions-in-luhansk-region.html",
-        "timestamp": 1656676690,
-        "sentiment": 1,
-        "published": "July 1, 2022 7:58 AM"
-    },
-    {
-        "title": "​Canada Supply Ukraine with Brand New Armoured Combat Support Vehicles, High-Resolution Cameras for Bayraktar TB2 UAV | Defense Express",
-        "domain": "en.defence-ua.com",
-        "category": "ukraine",
-        "link": "https://en.defence-ua.com/industries/canada_supply_ukraine_with_brand_new_armoured_combat_support_vehicles_high_resolution_cameras_for_bayraktar_tb2_uav-3437.html",
-        "timestamp": 1656677014,
-        "sentiment": 1,
-        "published": "July 1, 2022 8:03 AM"
-    },
-    {
-        "title": "Meta’s Dominance in the VR Market will be Challenged in the Coming Years, According to IDC",
-        "domain": "businesswire.com",
-        "category": "technology",
-        "link": "https://www.businesswire.com/news/home/20220630005151/en/Meta%E2%80%99s-Dominance-in-the-VR-Market-will-be-Challenged-in-the-Coming-Years-According-to-IDC",
-        "timestamp": 1656677279,
-        "sentiment": 4,
-        "published": "July 1, 2022 8:07 AM"
-    },
-    {
-        "title": "Solar power is helping transform the lives of African farmers",
-        "domain": "furtherafrica.com",
-        "category": "UpliftingNews",
-        "link": "https://furtherafrica.com/2022/07/01/how-solar-power-is-transforming-african-farms/",
-        "timestamp": 1656677467,
-        "sentiment": -1,
-        "published": "July 1, 2022 8:11 AM"
-    },
-    {
-        "title": "How Much Health Insurers Pay for Almost Everything Is About to Go Public",
-        "domain": "khn.org",
-        "category": "UpliftingNews",
-        "link": "https://khn.org/news/article/health-insurers-price-transparency-public-rates-costs/",
-        "timestamp": 1656677551,
-        "sentiment": -1,
-        "published": "July 1, 2022 8:12 AM"
-    },
-    {
-        "title": "Researchers discover new leukemia-killing compounds: Potential of mitochondria-targeted chemotherapies",
-        "domain": "sciencedaily.com",
-        "category": "UpliftingNews",
-        "link": "https://www.sciencedaily.com/releases/2022/06/220630160035.htm",
-        "timestamp": 1656678408,
-        "sentiment": -1,
-        "published": "July 1, 2022 8:26 AM"
-    },
-    {
-        "title": "Trump allies paid legal fees for multiple Jan. 6 witnesses, including Cassidy Hutchinson, sparking witness-influencing concerns, report says",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/trump-allies-paid-multiple-jan-6-witness-legal-fees-nyt-2022-7",
-        "timestamp": 1656679087,
-        "sentiment": 0,
-        "published": "July 1, 2022 8:38 AM"
-    },
-    {
-        "title": "Mark Meadows’ associate threatened ex-White House aide before her testimony",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/us-news/2022/jun/30/jan-6-hearings-trump-mark-meadows-cassidy-hutchinson-threatened",
-        "timestamp": 1656679146,
-        "sentiment": -4,
-        "published": "July 1, 2022 8:39 AM"
-    },
-    {
-        "title": "Argentina approved new HIV, Hepatitis and Tuberculosis law for social care and protection",
-        "domain": "agenciapresentes.org",
-        "category": "UpliftingNews",
-        "link": "https://agenciapresentes.org/2022/06/30/argentina-aprobo-nueva-ley-de-vih-hepatitis-tuberculosis-e-its/",
-        "timestamp": 1656679365,
-        "sentiment": -1,
-        "published": "July 1, 2022 8:42 AM"
-    },
-    {
-        "title": "China Urges U.S. to Fulfill Climate Duties After Supreme Court Ruling",
-        "domain": "usnews.com",
-        "category": "worldnews",
-        "link": "https://www.usnews.com/news/world/articles/2022-07-01/china-urges-u-s-to-fulfill-climate-duties-after-supreme-court-ruling",
-        "timestamp": 1656679809,
-        "sentiment": -2,
-        "published": "July 1, 2022 8:50 AM"
-    },
-    {
-        "title": "Fight Breaks Out in VIP Section of Eagles Concert During ‘Take It Easy’",
-        "domain": "variety.com",
-        "category": "nottheonion",
-        "link": "https://variety.com/2022/music/news/fight-eagles-concert-take-it-easy-1235306918/",
-        "timestamp": 1656679850,
-        "sentiment": -1,
-        "published": "July 1, 2022 8:50 AM"
-    },
-    {
-        "title": "The Christian Right is winning at the Supreme Court, but not in public opinion",
-        "domain": "npr.org",
-        "category": "politics",
-        "link": "https://www.npr.org/2022/07/01/1109141110/the-christian-right-is-winning-cultural-battles-while-public-opinion-disagrees",
-        "timestamp": 1656680986,
-        "sentiment": 0,
-        "published": "July 1, 2022 9:09 AM"
-    },
-    {
-        "title": "Nigerian senator and wife charged with plotting to get child to UK to harvest organs",
-        "domain": "cnn.com",
-        "category": "nottheonion",
-        "link": "https://www.cnn.com/2022/06/24/africa/ekweremadu-wife-arrested-uk-intl/index.html",
-        "timestamp": 1656681027,
-        "sentiment": -1,
-        "published": "July 1, 2022 9:10 AM"
-    },
-    {
-        "title": "School's out forever: Arizona moves \"to kill public education\" with new universal voucher law — Families who bail on public school will get $7,000 per kid in GOP's new scheme. Desantis has entered the chat.",
-        "domain": "salon.com",
-        "category": "florida",
-        "link": "https://www.salon.com/2022/07/01/schools-out-forever-arizona-moves-to-public-education-with-new-universal-voucher-law/",
-        "timestamp": 1656681153,
-        "sentiment": 0,
-        "published": "July 1, 2022 9:12 AM"
-    },
-    {
-        "title": "Ohio police officers on paid administrative leave after fatal shooting of Jayland Walker",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/06/30/us/ohio-police-officers-jayland-walker-shooting/index.html",
-        "timestamp": 1656681318,
-        "sentiment": -4,
-        "published": "July 1, 2022 9:15 AM"
-    },
-    {
-        "title": "Dissolving implantable device relieves pain without drugs. New device has the potential to provide an alternative to opioids and other highly addictive drugs",
-        "domain": "eurekalert.org",
-        "category": "science",
-        "link": "https://www.eurekalert.org/news-releases/957142",
-        "timestamp": 1656681758,
-        "sentiment": 0,
-        "published": "July 1, 2022 9:22 AM"
-    },
-    {
-        "title": "Bisexual daughter cuts ties to her dad. He’s a GOP state senator who is “taking my rights” away",
-        "domain": "lgbtqnation.com",
-        "category": "politics",
-        "link": "https://www.lgbtqnation.com/2022/07/bisexual-daughter-cuts-ties-dad-hes-gop-state-senator-taking-rights-away/",
-        "timestamp": 1656682293,
-        "sentiment": 0,
-        "published": "July 1, 2022 9:31 AM"
-    },
-    {
-        "title": "Outlander author Diana Gabaldon discloses that season seven could be the last",
-        "domain": "scottishdailyexpress.co.uk",
-        "category": "television",
-        "link": "https://www.scottishdailyexpress.co.uk/tv/outlander-author-diana-gabaldon-discloses-27358528",
-        "timestamp": 1656682336,
-        "sentiment": 0,
-        "published": "July 1, 2022 9:32 AM"
-    },
-    {
-        "title": "US basketball star Brittney Griner appears in Russian court on drug smuggling charges",
-        "domain": "cnn.com",
-        "category": "sports",
-        "link": "https://www.cnn.com/2022/07/01/europe/russia-brittney-griner-trial-intl/index.html",
-        "timestamp": 1656683026,
-        "sentiment": 2,
-        "published": "July 1, 2022 9:43 AM"
-    },
-    {
-        "title": "Putin Says Russia and Belarus Moving Towards Unification",
-        "domain": "newsweek.com",
-        "category": "worldnews",
-        "link": "https://www.newsweek.com/putin-russia-belarus-moving-towards-unification-western-sanctions-ukraine-war-1720985",
-        "timestamp": 1656683650,
-        "sentiment": -2,
-        "published": "July 1, 2022 9:54 AM"
-    },
-    {
-        "title": "Telecom monopolies are poised to waste the U.S.’s massive new investment in high-speed broadband",
-        "domain": "dailydot.com",
-        "category": "technology",
-        "link": "https://www.dailydot.com/debug/broadband-telecom-monopolies-covid-subsidies/",
-        "timestamp": 1656683690,
-        "sentiment": 4,
-        "published": "July 1, 2022 9:54 AM"
-    },
-    {
-        "title": "New study finds that Reddit users with \"toxic\" usernames are also more likely to generate toxic content and be suspended by mods",
-        "domain": "psychnewsdaily.com",
-        "category": "science",
-        "link": "https://www.psychnewsdaily.com/reddit-toxic-usernames-and-toxic-content/",
-        "timestamp": 1656684413,
-        "sentiment": 0,
-        "published": "July 1, 2022 10:06 AM"
-    },
-    {
-        "title": "'The Simpsons' Production Workers Go Union, Vote to Join Animation Guild",
-        "domain": "npr.org",
-        "category": "television",
-        "link": "https://www.npr.org/2022/07/01/1105295933/the-simpsons-production-workers-say-they-deserve-a-place-at-the-table",
-        "timestamp": 1656684832,
-        "sentiment": 0,
-        "published": "July 1, 2022 10:13 AM"
-    },
-    {
-        "title": "India bans many single-use plastics to tackle waste",
-        "domain": "france24.com",
-        "category": "UpliftingNews",
-        "link": "https://www.france24.com/en/live-news/20220701-india-bans-many-single-use-plastics-to-tackle-waste",
-        "timestamp": 1656685086,
-        "sentiment": -1,
-        "published": "July 1, 2022 10:18 AM"
-    },
-    {
-        "title": "California lawmakers OK law to phase out single-use plastics - Los Angeles Times",
-        "domain": "latimes.com",
-        "category": "UpliftingNews",
-        "link": "https://www.latimes.com/environment/story/2022-06-30/california-new-law-phase-out-single-use-plastics-containers",
-        "timestamp": 1656685871,
-        "sentiment": -1,
-        "published": "July 1, 2022 10:31 AM"
-    },
-    {
-        "title": "As Florida's 'Don't Say Gay' law takes effect, schools roll out LGBTQ restrictions",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/nbc-out/out-news/floridas-dont-say-gay-law-takes-effect-schools-roll-lgbtq-restrictions-rcna36143",
-        "timestamp": 1656686030,
-        "sentiment": -4,
-        "published": "July 1, 2022 10:33 AM"
-    },
-    {
-        "title": "Is Biden a Man Out of Time? Democrats have a growing sense of panic about conservative advances but are not seeing a president who shares their urgency.",
-        "domain": "theatlantic.com",
-        "category": "politics",
-        "link": "https://www.theatlantic.com/politics/archive/2022/06/biden-roe-response-democrats-2024-election/661449/",
-        "timestamp": 1656687335,
-        "sentiment": 0,
-        "published": "July 1, 2022 10:55 AM"
-    },
-    {
-        "title": "'Why Women Kill' Canceled at Paramount+ Despite Season 3 Renewal",
-        "domain": "variety.com",
-        "category": "television",
-        "link": "https://variety.com/2022/tv/news/why-women-kill-canceled-paramount-plus-1235307752/",
-        "timestamp": 1656687670,
-        "sentiment": 0,
-        "published": "July 1, 2022 11:01 AM"
-    },
-    {
-        "title": "Six months in space leads to a decade's worth of long-term bone loss. During space missions lasting six months or longer, astronauts can experience bone loss equivalent to two decades of aging. A year of recovery in Earth’s gravity rebuilds about half of that lost bone strength, researchers report.",
-        "domain": "sciencenews.org",
-        "category": "science",
-        "link": "https://www.sciencenews.org/article/space-bone-loss-density-astronaut-recovery-gravity",
-        "timestamp": 1656688106,
-        "sentiment": 0,
-        "published": "July 1, 2022 11:08 AM"
-    },
-    {
         "title": "71-year-old woman becomes second person this week to be gored by bison at Yellowstone",
         "domain": "thehill.com",
         "category": "worldnews",
@@ -520,33 +628,6 @@
         "timestamp": 1656688155,
         "sentiment": -2,
         "published": "July 1, 2022 11:09 AM"
-    },
-    {
-        "title": "Simone Biles, Megan Rapinoe set to receive the Presidential Medal of Freedom",
-        "domain": "espn.com",
-        "category": "sports",
-        "link": "https://www.espn.com/olympics/story/_/id/34179511/simone-biles-megan-rapinoe-recipients-presidential-medal-freedom",
-        "timestamp": 1656690076,
-        "sentiment": 2,
-        "published": "July 1, 2022 11:41 AM"
-    },
-    {
-        "title": "Someone got murdered in the lobby of the Clevelander in South Beach last night",
-        "domain": "twitter.com",
-        "category": "miami",
-        "link": "https://twitter.com/fox_sheldon/status/1542850848866410496?s=21&t=PMijA8mYftwUbxv64W96Nw",
-        "timestamp": 1656690712,
-        "sentiment": 2,
-        "published": "July 1, 2022 11:51 AM"
-    },
-    {
-        "title": "Chinese purchase of North Dakota farmland raises national security concerns in Washington",
-        "domain": "cnbc.com",
-        "category": "news",
-        "link": "https://www.cnbc.com/2022/07/01/chinese-purchase-of-north-dakota-farmland-raises-national-security-concerns-in-washington.html",
-        "timestamp": 1656690911,
-        "sentiment": -4,
-        "published": "July 1, 2022 11:55 AM"
     },
     {
         "title": "The U.S. population is continuing a two-decade trajectory during which it has grown older and less White, according to Census Bureau data released Thursday.",
@@ -565,15 +646,6 @@
         "timestamp": 1656655810,
         "sentiment": 0,
         "published": "July 1, 2022 2:10 AM"
-    },
-    {
-        "title": "The Supreme Court decision overturning Roe v. Wade \"made the United States an outlier among developed nations in the world\" on abortion rights.",
-        "domain": "politifact.com",
-        "category": "politics",
-        "link": "https://www.politifact.com/factchecks/2022/jun/24/joe-biden/roe-reversal-ending-national-access-abortion-makes/",
-        "timestamp": 1656677631,
-        "sentiment": 8,
-        "published": "July 1, 2022 8:13 AM"
     },
     {
         "title": "USC and UCLA Accepted into Big Ten, Effective in 2024",
