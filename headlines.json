@@ -23,7 +23,7 @@
         "category": "science",
         "link": "https://www.atsjournals.org/doi/10.1164/rccm.202202-0373OC",
         "timestamp": 1656655242,
-        "sentiment": 3,
+        "sentiment": -1,
         "published": "July 1, 2022 2:00 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "technology",
         "link": "https://www.space.com/james-webb-space-telescope-first-images-teaser",
         "timestamp": 1656658013,
-        "sentiment": -3,
+        "sentiment": 3,
         "published": "July 1, 2022 2:46 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/los-angeles-film-tv-productions-masks-1235055066/",
         "timestamp": 1656661238,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 1, 2022 3:40 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "science",
         "link": "https://digest.bps.org.uk/2022/07/01/people-with-no-minds-eye-have-less-vivid-and-detailed-memories/",
         "timestamp": 1656669412,
-        "sentiment": 3,
+        "sentiment": -1,
         "published": "July 1, 2022 5:56 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "florida",
         "link": "https://www.nytimes.com/2022/06/30/science/listeria-outbreak-florida.html",
         "timestamp": 1656671837,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 1, 2022 6:37 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "technology",
         "link": "https://www.engadget.com/tesla-faces-new-lawsuit-with-15-employees-alleging-racism-and-harassment-102013993.html",
         "timestamp": 1656672642,
-        "sentiment": -3,
+        "sentiment": 3,
         "published": "July 1, 2022 6:50 AM"
     },
     {
@@ -122,7 +122,7 @@
         "category": "science",
         "link": "https://www.the-scientist.com/news-opinion/grape-doling-tourists-gave-endangered-iguanas-high-blood-sugar-69931",
         "timestamp": 1656673634,
-        "sentiment": 3,
+        "sentiment": -1,
         "published": "July 1, 2022 7:07 AM"
     },
     {
@@ -149,7 +149,7 @@
         "category": "nottheonion",
         "link": "https://blockclubchicago.org/2022/06/30/lakefront-trail-users-horrified-as-cars-drive-on-to-pedestrian-and-bike-path-to-avoid-traffic-jam/",
         "timestamp": 1656675606,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "July 1, 2022 7:40 AM"
     },
     {
@@ -180,21 +180,12 @@
         "published": "July 1, 2022 7:56 AM"
     },
     {
-        "title": "​Canada Supply Ukraine with Brand New Armoured Combat Support Vehicles, High-Resolution Cameras for Bayraktar TB2 UAV | Defense Express",
-        "domain": "en.defence-ua.com",
-        "category": "ukraine",
-        "link": "https://en.defence-ua.com/industries/canada_supply_ukraine_with_brand_new_armoured_combat_support_vehicles_high_resolution_cameras_for_bayraktar_tb2_uav-3437.html",
-        "timestamp": 1656677014,
-        "sentiment": 1,
-        "published": "July 1, 2022 8:03 AM"
-    },
-    {
         "title": "Meta’s Dominance in the VR Market will be Challenged in the Coming Years, According to IDC",
         "domain": "businesswire.com",
         "category": "technology",
         "link": "https://www.businesswire.com/news/home/20220630005151/en/Meta%E2%80%99s-Dominance-in-the-VR-Market-will-be-Challenged-in-the-Coming-Years-According-to-IDC",
         "timestamp": 1656677279,
-        "sentiment": -3,
+        "sentiment": 3,
         "published": "July 1, 2022 8:07 AM"
     },
     {
@@ -214,15 +205,6 @@
         "timestamp": 1656677551,
         "sentiment": 0,
         "published": "July 1, 2022 8:12 AM"
-    },
-    {
-        "title": "The Supreme Court decision overturning Roe v. Wade \"made the United States an outlier among developed nations in the world\" on abortion rights.",
-        "domain": "politifact.com",
-        "category": "politics",
-        "link": "https://www.politifact.com/factchecks/2022/jun/24/joe-biden/roe-reversal-ending-national-access-abortion-makes/",
-        "timestamp": 1656677631,
-        "sentiment": 0,
-        "published": "July 1, 2022 8:13 AM"
     },
     {
         "title": "Researchers discover new leukemia-killing compounds: Potential of mitochondria-targeted chemotherapies",
@@ -284,7 +266,7 @@
         "category": "nottheonion",
         "link": "https://www.cnn.com/2022/06/24/africa/ekweremadu-wife-arrested-uk-intl/index.html",
         "timestamp": 1656681027,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "July 1, 2022 9:10 AM"
     },
     {
@@ -293,7 +275,7 @@
         "category": "florida",
         "link": "https://www.salon.com/2022/07/01/schools-out-forever-arizona-moves-to-public-education-with-new-universal-voucher-law/",
         "timestamp": 1656681153,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 1, 2022 9:12 AM"
     },
     {
@@ -311,7 +293,7 @@
         "category": "science",
         "link": "https://www.eurekalert.org/news-releases/957142",
         "timestamp": 1656681758,
-        "sentiment": 3,
+        "sentiment": -1,
         "published": "July 1, 2022 9:22 AM"
     },
     {
@@ -347,7 +329,7 @@
         "category": "technology",
         "link": "https://www.dailydot.com/debug/broadband-telecom-monopolies-covid-subsidies/",
         "timestamp": 1656683690,
-        "sentiment": -3,
+        "sentiment": 3,
         "published": "July 1, 2022 9:54 AM"
     },
     {
@@ -356,7 +338,7 @@
         "category": "science",
         "link": "https://www.psychnewsdaily.com/reddit-toxic-usernames-and-toxic-content/",
         "timestamp": 1656684413,
-        "sentiment": 3,
+        "sentiment": -1,
         "published": "July 1, 2022 10:06 AM"
     },
     {
@@ -365,7 +347,7 @@
         "category": "television",
         "link": "https://www.npr.org/2022/07/01/1105295933/the-simpsons-production-workers-say-they-deserve-a-place-at-the-table",
         "timestamp": 1656684832,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 1, 2022 10:13 AM"
     },
     {
@@ -419,7 +401,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/why-women-kill-canceled-paramount-plus-1235307752/",
         "timestamp": 1656687670,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 1, 2022 11:01 AM"
     },
     {
@@ -446,7 +428,7 @@
         "category": "science",
         "link": "https://www.sciencenews.org/article/space-bone-loss-density-astronaut-recovery-gravity",
         "timestamp": 1656688106,
-        "sentiment": 3,
+        "sentiment": -1,
         "published": "July 1, 2022 11:08 AM"
     },
     {
@@ -455,7 +437,7 @@
         "category": "science",
         "link": "https://pubs.geoscienceworld.org/sepm/palaios/article-abstract/37/6/292/614825/END-PERMIAN-BURNOUT-THE-ROLE-OF-PERMIAN-TRIASSIC?redirectedFrom=fulltext",
         "timestamp": 1656689607,
-        "sentiment": 3,
+        "sentiment": -1,
         "published": "July 1, 2022 11:33 AM"
     },
     {
@@ -482,7 +464,7 @@
         "category": "miami",
         "link": "https://twitter.com/fox_sheldon/status/1542850848866410496?s=21&t=PMijA8mYftwUbxv64W96Nw",
         "timestamp": 1656690712,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 1, 2022 11:51 AM"
     },
     {
@@ -509,8 +491,26 @@
         "category": "technology",
         "link": "https://arstechnica.com/tech-policy/2022/07/googles-default-privacy-settings-are-too-evil-eu-consumer-rights-groups-say/",
         "timestamp": 1656692572,
-        "sentiment": -3,
+        "sentiment": 3,
         "published": "July 1, 2022 12:22 PM"
+    },
+    {
+        "title": "War in Ukraine: France now considered as an \"unfriendly states of Russia\"... What does that mean?",
+        "domain": "ladepeche.fr",
+        "category": "ukraine",
+        "link": "https://www.ladepeche.fr/2022/06/20/guerre-en-ukraine-la-france-est-passee-dans-le-camp-des-etats-inamicaux-de-la-russie-quest-ce-que-ca-signifie-10384591.php",
+        "timestamp": 1656693449,
+        "sentiment": 0,
+        "published": "July 1, 2022 12:37 PM"
+    },
+    {
+        "title": "Charges dropped against man who nailed Putin doll to sacred tree in Japan as part of death curse",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/charges-dropped-against-man-nailed-214900454.html",
+        "timestamp": 1656694246,
+        "sentiment": 0,
+        "published": "July 1, 2022 12:50 PM"
     },
     {
         "title": "Jon Stewart: Supreme Court is ‘the Fox News of justice’",
@@ -536,7 +536,7 @@
         "category": "florida",
         "link": "https://www.tampabay.com/news/health/2022/07/01/florida-bans-telehealth-abortions-but-can-it-enforce-the-law/",
         "timestamp": 1656695214,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 1, 2022 1:06 PM"
     },
     {
@@ -554,8 +554,17 @@
         "category": "science",
         "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0270494",
         "timestamp": 1656695677,
-        "sentiment": 3,
+        "sentiment": -1,
         "published": "July 1, 2022 1:14 PM"
+    },
+    {
+        "title": "Smart contact lens prototype puts a Micro LED display on top of the eye",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/gadgets/2022/07/forget-smart-glasses-this-smart-contact-lens-prototype-has-a-new-vision-for-ar/",
+        "timestamp": 1656695842,
+        "sentiment": 3,
+        "published": "July 1, 2022 1:17 PM"
     },
     {
         "title": "TikTok Confirms US User Data Can Be Accessed in China",
@@ -572,7 +581,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/tiktok-confirms-us-user-data-accessed-in-china-bytedance-2022-7",
         "timestamp": 1656696271,
-        "sentiment": -3,
+        "sentiment": 3,
         "published": "July 1, 2022 1:24 PM"
     },
     {
@@ -581,8 +590,44 @@
         "category": "nottheonion",
         "link": "https://time.com/6193231/facebook-crack-whip-black-whistleblower/",
         "timestamp": 1656696668,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "July 1, 2022 1:31 PM"
+    },
+    {
+        "title": "Missouri Attorney General says he’ll sue Kansas City over financial help for out-of-state abortions",
+        "domain": "kcur.org",
+        "category": "news",
+        "link": "https://www.kcur.org/news/2022-07-01/missouri-attorney-general-says-hell-sue-kansas-city-over-financial-help-for-out-of-state-abortions",
+        "timestamp": 1656697008,
+        "sentiment": -5,
+        "published": "July 1, 2022 1:36 PM"
+    },
+    {
+        "title": "Meet Chief Val Demings, U.S. Congresswoman and candidate for United States Senate",
+        "domain": "mobilize.us",
+        "category": "miami",
+        "link": "https://www.mobilize.us/valdemings/event/475069/?force_banner=true&share_context=event_details&share_medium=copy_link",
+        "timestamp": 1656697394,
+        "sentiment": 2,
+        "published": "July 1, 2022 1:43 PM"
+    },
+    {
+        "title": "I Got Fired for Unionizing at Starbucks. And I’d Do It Again.",
+        "domain": "jacobin.com",
+        "category": "nottheonion",
+        "link": "https://jacobin.com/2022/07/starbucks-union-workers-united-firing-union-busting/",
+        "timestamp": 1656698315,
+        "sentiment": -3,
+        "published": "July 1, 2022 1:58 PM"
+    },
+    {
+        "title": "Apple's guy in charge of stopping insider trading guilty of … insider trading",
+        "domain": "theregister.com",
+        "category": "nottheonion",
+        "link": "https://www.theregister.com/2022/07/01/apple_lawyer_insider_trading/",
+        "timestamp": 1656699398,
+        "sentiment": -3,
+        "published": "July 1, 2022 2:16 PM"
     },
     {
         "title": "Will Ben & Jerry’s stay on Florida list of scrutinized companies?",
@@ -594,6 +639,15 @@
         "published": "July 1, 2022 2:19 PM"
     },
     {
+        "title": "Impeach Clarence Thomas petition hits 700k signatures week since Roe ruling",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/clarence-thomas-petition-impeach-roe-versus-wade-abortion-jan-6-nearly-million-1721025",
+        "timestamp": 1656699736,
+        "sentiment": 0,
+        "published": "July 1, 2022 2:22 PM"
+    },
+    {
         "title": "Florida marijuana gun rights lawsuit complicated by SCOTUS rulings",
         "domain": "wfla.com",
         "category": "FLgovernment",
@@ -601,6 +655,51 @@
         "timestamp": 1656699875,
         "sentiment": 0,
         "published": "July 1, 2022 2:24 PM"
+    },
+    {
+        "title": "Individuals who fail a test of cognitive reflectiveness are more likely to doubt the legitimacy of the 2020 presidential election and also less likely to characterize the January 6 Capitol attack as violent and extreme, according to new research",
+        "domain": "psypost.org",
+        "category": "science",
+        "link": "https://www.psypost.org/2022/07/people-who-lack-cognitive-reflectiveness-are-more-likely-to-believe-trumps-false-election-fraud-claims-study-finds-63415",
+        "timestamp": 1656701729,
+        "sentiment": -1,
+        "published": "July 1, 2022 2:55 PM"
+    },
+    {
+        "title": "‘Stranger Things 4’ Smashes Nielsen Streaming Records With More Than 7.2 Billion Minutes Watched in One Week",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/stranger-things-nielsen-streaming-top-10-ratings-1235301882/",
+        "timestamp": 1656701933,
+        "sentiment": 0,
+        "published": "July 1, 2022 2:58 PM"
+    },
+    {
+        "title": "DeSantis Signs Florida Bill Restricting Mail Voting, Drop Boxes",
+        "domain": "businessinsider.com",
+        "category": "florida",
+        "link": "https://www.businessinsider.com/desantis-signs-florida-bill-restricting-mail-voting-drop-boxes-2021-4",
+        "timestamp": 1656702451,
+        "sentiment": -2,
+        "published": "July 1, 2022 3:07 PM"
+    },
+    {
+        "title": "​Canada Supply Ukraine with Brand New Armoured Combat Support Vehicles, High-Resolution Cameras for Bayraktar TB2 UAV | Defense Express",
+        "domain": "en.defence-ua.com",
+        "category": "ukraine",
+        "link": "https://en.defence-ua.com/industries/canada_supply_ukraine_with_brand_new_armoured_combat_support_vehicles_high_resolution_cameras_for_bayraktar_tb2_uav-3437.html",
+        "timestamp": 1656677014,
+        "sentiment": 1,
+        "published": "July 1, 2022 8:03 AM"
+    },
+    {
+        "title": "The Supreme Court decision overturning Roe v. Wade \"made the United States an outlier among developed nations in the world\" on abortion rights.",
+        "domain": "politifact.com",
+        "category": "politics",
+        "link": "https://www.politifact.com/factchecks/2022/jun/24/joe-biden/roe-reversal-ending-national-access-abortion-makes/",
+        "timestamp": 1656677631,
+        "sentiment": 0,
+        "published": "July 1, 2022 8:13 AM"
     },
     {
         "title": "Russian missile strikes on Odesa apartments and recreation centre kill 17, Ukraine says",
@@ -781,15 +880,6 @@
         "timestamp": 1656664971,
         "sentiment": 2,
         "published": "July 1, 2022 4:42 AM"
-    },
-    {
-        "title": "Charges dropped against man who nailed Putin doll to sacred tree in Japan as part of death curse",
-        "domain": "sg.news.yahoo.com",
-        "category": "ukraine",
-        "link": "https://sg.news.yahoo.com/charges-dropped-against-man-nailed-214900454.html",
-        "timestamp": 1656666937,
-        "sentiment": -3,
-        "published": "July 1, 2022 5:15 AM"
     },
     {
         "title": "Russia admits it's running out of weapons in Ukraine war",
