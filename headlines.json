@@ -5,7 +5,7 @@
         "category": "nottheonion",
         "link": "https://www.star-telegram.com/news/state/texas/article263021718.html",
         "timestamp": 1656648287,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 1, 2022 12:04 AM"
     },
     {
@@ -14,8 +14,17 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/proposal-teach-slavery-involuntary-relocation-sent-texas-education-boa-rcna36273",
         "timestamp": 1656649608,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "July 1, 2022 12:26 AM"
+    },
+    {
+        "title": "The U.S. population is continuing a two-decade trajectory during which it has grown older and less White, according to Census Bureau data released Thursday.",
+        "domain": "washingtonpost.com",
+        "category": "news",
+        "link": "https://www.washingtonpost.com/dc-md-va/2022/06/30/census-us-population-older-more-diverse/",
+        "timestamp": 1656649965,
+        "sentiment": 2,
+        "published": "July 1, 2022 12:32 AM"
     },
     {
         "title": "Russian missile strikes on Odesa apartments and recreation centre kill 17, Ukraine says",
@@ -23,7 +32,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jul/01/russian-missile-strikes-on-odesa-apartments-and-recreation-centre-kill-17-ukraine-says",
         "timestamp": 1656651495,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "July 1, 2022 12:58 AM"
     },
     {
@@ -32,7 +41,7 @@
         "category": "UpliftingNews",
         "link": "https://www.moroccoworldnews.com/2022/06/350018/moroccan-parliamentary-group-proposes-law-granting-women-paid-menstrual-leave",
         "timestamp": 1656653755,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 1, 2022 1:35 AM"
     },
     {
@@ -41,7 +50,7 @@
         "category": "UpliftingNews",
         "link": "https://m.dw.com/en/germany-to-return-looted-artifacts-to-africa/a-62300419",
         "timestamp": 1656654222,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 1, 2022 1:43 AM"
     },
     {
@@ -50,7 +59,7 @@
         "category": "science",
         "link": "https://www.atsjournals.org/doi/10.1164/rccm.202202-0373OC",
         "timestamp": 1656655242,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 1, 2022 2:00 AM"
     },
     {
@@ -59,7 +68,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/magnum-pi-renewed-season-5-6-nbc-1235055173/",
         "timestamp": 1656655810,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 1, 2022 2:10 AM"
     },
     {
@@ -68,8 +77,17 @@
         "category": "technology",
         "link": "https://www.space.com/james-webb-space-telescope-first-images-teaser",
         "timestamp": 1656658013,
-        "sentiment": 4,
+        "sentiment": -3,
         "published": "July 1, 2022 2:46 AM"
+    },
+    {
+        "title": "Treat developers with ‘human decency and respect’, God of War director urges",
+        "domain": "videogameschronicle.com",
+        "category": "nottheonion",
+        "link": "https://www.videogameschronicle.com/news/treat-developers-with-human-decency-and-respect-god-of-war-director-urges/",
+        "timestamp": 1656658980,
+        "sentiment": -1,
+        "published": "July 1, 2022 3:03 AM"
     },
     {
         "title": "The EU flag arrives at the Rada, to prolonged standing ovation",
@@ -77,7 +95,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/MattiMaasikas/status/1542762739143254016?t=KlmUgkTzLsB6bkS0B9jZ8w&s=19",
         "timestamp": 1656660121,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 1, 2022 3:22 AM"
     },
     {
@@ -86,7 +104,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/los-angeles-film-tv-productions-masks-1235055066/",
         "timestamp": 1656661238,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 1, 2022 3:40 AM"
     },
     {
@@ -95,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.usnews.com/news/world/articles/2022-07-01/russia-arrests-scientist-for-alleged-collaboration-with-chinese-secret-services",
         "timestamp": 1656662161,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "July 1, 2022 3:56 AM"
     },
     {
@@ -104,7 +122,7 @@
         "category": "technology",
         "link": "https://archive.ph/5KK6O",
         "timestamp": 1656663752,
-        "sentiment": 4,
+        "sentiment": -3,
         "published": "July 1, 2022 4:22 AM"
     },
     {
@@ -113,8 +131,17 @@
         "category": "science",
         "link": "https://www.eurekalert.org/news-releases/957639",
         "timestamp": 1656664053,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 1, 2022 4:27 AM"
+    },
+    {
+        "title": "Another giant African snail sighting forces Florida county into quarantine",
+        "domain": "news.yahoo.com",
+        "category": "florida",
+        "link": "https://news.yahoo.com/another-giant-african-snail-sighting-165620141.html",
+        "timestamp": 1656666022,
+        "sentiment": 0,
+        "published": "July 1, 2022 5:00 AM"
     },
     {
         "title": "Charges dropped against man who nailed Putin doll to sacred tree in Japan as part of death curse",
@@ -122,8 +149,17 @@
         "category": "ukraine",
         "link": "https://sg.news.yahoo.com/charges-dropped-against-man-nailed-214900454.html",
         "timestamp": 1656666937,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 1, 2022 5:15 AM"
+    },
+    {
+        "title": "Large COVID outbreak in Hong Kong high rise building associated with airborne transmission through the ventilation ducts of vertically aligned flats",
+        "domain": "sciencedirect.com",
+        "category": "science",
+        "link": "https://www.sciencedirect.com/science/article/pii/S036013232200556X",
+        "timestamp": 1656667622,
+        "sentiment": -1,
+        "published": "July 1, 2022 5:27 AM"
     },
     {
         "title": "People with no mind’s eye have less vivid and detailed memories. Researchers report that aphantasics have less detailed and rich memories for events in their lives: a finding that not only reveals more about the condition, but also highlights the key role of mental imagery in memory generally.",
@@ -131,7 +167,7 @@
         "category": "science",
         "link": "https://digest.bps.org.uk/2022/07/01/people-with-no-minds-eye-have-less-vivid-and-detailed-memories/",
         "timestamp": 1656669412,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 1, 2022 5:56 AM"
     },
     {
@@ -140,7 +176,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jul/01/palestinian-authority-routinely-tortures-detainees-says-human-rights-watch",
         "timestamp": 1656670557,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "July 1, 2022 6:15 AM"
     },
     {
@@ -149,8 +185,80 @@
         "category": "florida",
         "link": "https://www.nytimes.com/2022/06/30/science/listeria-outbreak-florida.html",
         "timestamp": 1656671837,
+        "sentiment": 0,
+        "published": "July 1, 2022 6:37 AM"
+    },
+    {
+        "title": "Naomi Klein: The US Is in the Midst of a 'Shock-and-Awe Judicial Coup'",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/07/01/naomi-klein-us-midst-shock-and-awe-judicial-coup",
+        "timestamp": 1656671845,
         "sentiment": 2,
         "published": "July 1, 2022 6:37 AM"
+    },
+    {
+        "title": "Macron riles Russia with documentary releasing content of Putin calls",
+        "domain": "lemonde.fr",
+        "category": "worldnews",
+        "link": "https://www.lemonde.fr/en/international/article/2022/06/30/macron-riles-russia-with-documentary-releasing-content-of-putin-calls_5988537_4.html",
+        "timestamp": 1656671905,
+        "sentiment": -2,
+        "published": "July 1, 2022 6:38 AM"
+    },
+    {
+        "title": "Grape-Doling Tourists Gave Endangered Iguanas High Blood Sugar",
+        "domain": "the-scientist.com",
+        "category": "science",
+        "link": "https://www.the-scientist.com/news-opinion/grape-doling-tourists-gave-endangered-iguanas-high-blood-sugar-69931",
+        "timestamp": 1656673634,
+        "sentiment": -1,
+        "published": "July 1, 2022 7:07 AM"
+    },
+    {
+        "title": "School's out forever: Arizona moves \"to kill public education\" with new universal voucher law — Families who bail on public school will get $7,000 per kid in GOP's new scheme: \"Every red state\" urged to follow",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/07/01/schools-out-forever-arizona-moves-to-public-education-with-new-universal-voucher-law/",
+        "timestamp": 1656675064,
+        "sentiment": 2,
+        "published": "July 1, 2022 7:31 AM"
+    },
+    {
+        "title": "Pac-12 powers kick start more conference realignment",
+        "domain": "nbcnews.tribe.so",
+        "category": "sports",
+        "link": "https://nbcnews.tribe.so/group/pac-12-powers-kick-start-more-conference-realignment",
+        "timestamp": 1656675155,
+        "sentiment": -2,
+        "published": "July 1, 2022 7:32 AM"
+    },
+    {
+        "title": "Polish court rules that four \"LGBT-free zones\" must be abolished",
+        "domain": "reuters.com",
+        "category": "UpliftingNews",
+        "link": "https://www.reuters.com/world/europe/polish-court-rules-that-four-lgbt-free-zones-must-be-abolished-2022-06-28/",
+        "timestamp": 1656676262,
+        "sentiment": -2,
+        "published": "July 1, 2022 7:51 AM"
+    },
+    {
+        "title": "Solar power is helping transform the lives of African farmers",
+        "domain": "furtherafrica.com",
+        "category": "UpliftingNews",
+        "link": "https://furtherafrica.com/2022/07/01/how-solar-power-is-transforming-african-farms/",
+        "timestamp": 1656677467,
+        "sentiment": -2,
+        "published": "July 1, 2022 8:11 AM"
+    },
+    {
+        "title": "How Much Health Insurers Pay for Almost Everything Is About to Go Public",
+        "domain": "khn.org",
+        "category": "UpliftingNews",
+        "link": "https://khn.org/news/article/health-insurers-price-transparency-public-rates-costs/",
+        "timestamp": 1656677551,
+        "sentiment": -2,
+        "published": "July 1, 2022 8:12 AM"
     },
     {
         "title": "Mark Zuckerberg told Meta staff he's upping performance goals to get rid of employees who 'shouldn't be here,' report says.",
@@ -169,24 +277,6 @@
         "timestamp": 1656673288,
         "sentiment": 0,
         "published": "July 1, 2022 7:01 AM"
-    },
-    {
-        "title": "Pac-12 powers kick start more conference realignment",
-        "domain": "nbcnews.tribe.so",
-        "category": "sports",
-        "link": "https://nbcnews.tribe.so/group/pac-12-powers-kick-start-more-conference-realignment",
-        "timestamp": 1656675155,
-        "sentiment": 2,
-        "published": "July 1, 2022 7:32 AM"
-    },
-    {
-        "title": "Another giant African snail sighting forces Florida county into quarantine",
-        "domain": "news.yahoo.com",
-        "category": "florida",
-        "link": "https://news.yahoo.com/another-giant-african-snail-sighting-165620141.html",
-        "timestamp": 1656666022,
-        "sentiment": 0,
-        "published": "July 1, 2022 5:00 AM"
     },
     {
         "title": "Convoy protesters plan to stand up to high fuel prices by filling up their cars and driving around New Zealand",
@@ -3598,15 +3688,6 @@
         "timestamp": 1656435524,
         "sentiment": 2,
         "published": "June 28, 2022 12:58 PM"
-    },
-    {
-        "title": "Polish court rules that four \"LGBT-free zones\" must be abolished",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/europe/polish-court-rules-that-four-lgbt-free-zones-must-be-abolished-2022-06-28/",
-        "timestamp": 1656437132,
-        "sentiment": 0,
-        "published": "June 28, 2022 1:25 PM"
     },
     {
         "title": "Sarasota judge rules for Florida newspaper in Marsy’s Law case",
