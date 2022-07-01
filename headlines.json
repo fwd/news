@@ -5,7 +5,7 @@
         "category": "nottheonion",
         "link": "https://www.newshub.co.nz/home/new-zealand/2022/06/convoy-protesters-plan-to-stand-up-to-high-fuel-prices-by-filling-up-their-cars-and-driving-around-new-zealand.html",
         "timestamp": 1656562320,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 12:12 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "sports",
         "link": "https://www.reuters.com/lifestyle/sports/chess-putin-gives-award-grandmaster-banned-backing-ukraine-invasion-2022-06-02/",
         "timestamp": 1656568320,
-        "sentiment": 2,
+        "sentiment": 3,
         "published": "June 30, 2022 1:52 AM"
     },
     {
@@ -45,15 +45,6 @@
         "published": "June 30, 2022 5:07 AM"
     },
     {
-        "title": "Mother fatally shot 'at point-blank range' while pushing baby in pram in New York City | US News",
-        "domain": "news.sky.com",
-        "category": "news",
-        "link": "https://news.sky.com/story/mother-fatally-shot-at-point-blank-range-while-pushing-baby-in-pram-in-new-york-city-12642901",
-        "timestamp": 1656583622,
-        "sentiment": 0,
-        "published": "June 30, 2022 6:07 AM"
-    },
-    {
         "title": "Report estimates 10% of all cancers in Europe are caused by pollution",
         "domain": "newatlas.com",
         "category": "science",
@@ -77,7 +68,7 @@
         "category": "television",
         "link": "https://www.vulture.com/article/giancarlo-esposito-better-call-saul-finale-interview.html",
         "timestamp": 1656587039,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 30, 2022 7:03 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "nottheonion",
         "link": "https://www.carthrottle.com/post/bmw-reminds-drivers-to-use-their-cars-indicators/",
         "timestamp": 1656589107,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 7:38 AM"
     },
     {
@@ -104,17 +95,8 @@
         "category": "nottheonion",
         "link": "https://www.todayonline.com/singapore/email-obscene-photo-genitals-police-officer-1934411",
         "timestamp": 1656589714,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 7:48 AM"
-    },
-    {
-        "title": "Ukraine’s Zelenskyy cuts ties with Syria after it recognized separatist republics",
-        "domain": "english.alarabiya.net",
-        "category": "worldnews",
-        "link": "https://english.alarabiya.net/News/world/2022/06/30/Ukraine-s-Zelenskyy-cuts-ties-with-Syria-after-it-recognized-separatist-republics",
-        "timestamp": 1656592015,
-        "sentiment": 0,
-        "published": "June 30, 2022 8:26 AM"
     },
     {
         "title": "Belarus sends out conscription notices en masse",
@@ -124,15 +106,6 @@
         "timestamp": 1656592633,
         "sentiment": 0,
         "published": "June 30, 2022 8:37 AM"
-    },
-    {
-        "title": "Former mayor of Turkey's Capital ridiculed for believing tweet on discovery of jelly bean reserves in Turkey",
-        "domain": "turkishminute.com",
-        "category": "nottheonion",
-        "link": "https://www.turkishminute.com/2022/06/29/former-ankara-mayor-ridiculed-for-believing-tweet-on-discovery-of-jelly-bean-reserves-in-turkey/",
-        "timestamp": 1656594095,
-        "sentiment": 0,
-        "published": "June 30, 2022 9:01 AM"
     },
     {
         "title": "Biden supports changing filibuster rules to codify Roe v. Wade",
@@ -167,7 +140,7 @@
         "category": "television",
         "link": "https://ew.com/tv/michael-douglas-ben-franklin-first-look/",
         "timestamp": 1656597982,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 30, 2022 10:06 AM"
     },
     {
@@ -176,7 +149,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/live-updates/supreme-court-epa-regulate-greenhouse-gas-emissions/",
         "timestamp": 1656597983,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 10:06 AM"
     },
     {
@@ -203,7 +176,7 @@
         "category": "UpliftingNews",
         "link": "https://www.itv.com/news/2022-06-30/napalm-girl-received-final-skin-treatment-50-years-on-from-war-defining-photo",
         "timestamp": 1656599941,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 30, 2022 10:39 AM"
     },
     {
@@ -212,7 +185,7 @@
         "category": "news",
         "link": "https://globalnews.ca/news/8957137/uvalde-school-shooting-police-harassment/",
         "timestamp": 1656600798,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 10:53 AM"
     },
     {
@@ -221,7 +194,7 @@
         "category": "news",
         "link": "https://www.npr.org/2022/06/30/1106866830/supreme-court-to-take-on-controversial-election-law-case?origin=NOTIFY",
         "timestamp": 1656601186,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 10:59 AM"
     },
     {
@@ -252,21 +225,12 @@
         "published": "June 30, 2022 11:51 AM"
     },
     {
-        "title": "Poland completes Belarus border wall to keep migrants out",
-        "domain": "apnews.com",
-        "category": "worldnews",
-        "link": "https://apnews.com/article/russia-ukraine-africa-poland-forests-middle-east-443c8068ea7b5d1d8f6980da6e3879af",
-        "timestamp": 1656605718,
-        "sentiment": 0,
-        "published": "June 30, 2022 12:15 PM"
-    },
-    {
         "title": "Jackson sworn in, becomes 1st Black woman on Supreme Court",
         "domain": "apnews.com",
         "category": "news",
         "link": "https://apnews.com/article/ketanji-brown-jackson-swearing-in-5a5115f58e163789dfda5a8af0b14221",
         "timestamp": 1656605737,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 12:15 PM"
     },
     {
@@ -302,7 +266,7 @@
         "category": "florida",
         "link": "https://www.news4jax.com/news/local/2022/06/29/florida-teachers-raise-concerns-about-new-civics-training-say-it-downplays-slavery-promotes-originalism/?outputType=amp",
         "timestamp": 1656606886,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 12:34 PM"
     },
     {
@@ -311,7 +275,7 @@
         "category": "florida",
         "link": "https://www.reuters.com/legal/government/kentucky-judge-blocks-state-enforcing-abortion-bans-2022-06-30/",
         "timestamp": 1656608087,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 12:54 PM"
     },
     {
@@ -329,7 +293,7 @@
         "category": "television",
         "link": "https://www.esquire.com/entertainment/tv/a40458654/star-trek-strange-new-worlds-review/",
         "timestamp": 1656608848,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 30, 2022 1:07 PM"
     },
     {
@@ -356,7 +320,7 @@
         "category": "florida",
         "link": "https://www.wfla.com/news/florida-judge-blocks-15-week-abortion-ban/",
         "timestamp": 1656609580,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 1:19 PM"
     },
     {
@@ -365,7 +329,7 @@
         "category": "UpliftingNews",
         "link": "https://www.wthr.com/article/life/animals/3-amur-tiger-cubs-born-indianapolis-zoo-zoya-pavel/531-07494c7d-5e46-4f7b-b5f1-77c68861c83a?fbclid=IwAR1lSUKC6DXA-Kndwhll3tV2iTvKx9mO2GfTOHVa56zs8sR1zEOBnVl2h4U&fs=e&s=cl",
         "timestamp": 1656609834,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 30, 2022 1:23 PM"
     },
     {
@@ -374,7 +338,7 @@
         "category": "florida",
         "link": "https://www.cnn.com/2022/06/30/politics/florida-abortion-law/index.html",
         "timestamp": 1656610206,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 1:30 PM"
     },
     {
@@ -383,7 +347,7 @@
         "category": "news",
         "link": "https://globalnews.ca/news/8958704/us-vasectomy-increase-roe-v-wade/",
         "timestamp": 1656610258,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 1:30 PM"
     },
     {
@@ -392,7 +356,7 @@
         "category": "sports",
         "link": "https://footballscoop.com/news/usc-ucla-on-the-move-to-the-big-ten",
         "timestamp": 1656610639,
-        "sentiment": 2,
+        "sentiment": 3,
         "published": "June 30, 2022 1:37 PM"
     },
     {
@@ -401,7 +365,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/us-supreme-court-orders-lower-courts-reconsider-gun-law-challenges-2022-06-30/",
         "timestamp": 1656611168,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 1:46 PM"
     },
     {
@@ -410,7 +374,7 @@
         "category": "nottheonion",
         "link": "https://www.businessinsider.com/donald-trump-girth-suv-secret-service-cassidy-hutchinson-january-6-2022-6",
         "timestamp": 1656611309,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 1:48 PM"
     },
     {
@@ -428,7 +392,7 @@
         "category": "television",
         "link": "https://collider.com/the-boys-season-4-filming-date-karl-urban-comments/",
         "timestamp": 1656612185,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 30, 2022 2:03 PM"
     },
     {
@@ -464,7 +428,7 @@
         "category": "UpliftingNews",
         "link": "https://www.sun-sentinel.com/news/politics/os-ne-florida-abortion-15-weeks-judge-ruling-20220630-aeqiqcgy4fgq7gu5x4s7jlhrzy-story.html",
         "timestamp": 1656613691,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 30, 2022 2:28 PM"
     },
     {
@@ -491,8 +455,17 @@
         "category": "UpliftingNews",
         "link": "https://www.fisheries.noaa.gov/action/zero-atlantic-shortfin-mako-shark-retention-limit",
         "timestamp": 1656614601,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 30, 2022 2:43 PM"
+    },
+    {
+        "title": "ESPN's Pete Thamel on Twitter: USC and UCLA to Big Ten essentially done deal, per sources",
+        "domain": "twitter.com",
+        "category": "sports",
+        "link": "https://twitter.com/petethamel/status/1542578895655997441?s=21&t=BxdpEBLT4zOTxgipEe_NRw",
+        "timestamp": 1656614930,
+        "sentiment": 3,
+        "published": "June 30, 2022 2:48 PM"
     },
     {
         "title": "Ukrainian electricity in the EU can replace up to 10 billion cubic meters of Russian gas - Vitrenko",
@@ -518,7 +491,7 @@
         "category": "television",
         "link": "https://collider.com/last-light-series-release-date-matthew-fox-joanne-froggatt/",
         "timestamp": 1656615779,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 30, 2022 3:02 PM"
     },
     {
@@ -536,7 +509,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/06/30/bitcoin-falls-below-19000-again-as-pressure-mounts-on-crypto-firms.html",
         "timestamp": 1656616166,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 3:09 PM"
     },
     {
@@ -545,7 +518,7 @@
         "category": "florida",
         "link": "https://floridapolitics.com/archives/536144-doctor-ousted-from-childrens-health-board-over-her-vaccine-views/",
         "timestamp": 1656616254,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 3:10 PM"
     },
     {
@@ -572,7 +545,7 @@
         "category": "UpliftingNews",
         "link": "https://nltimes.nl/2022/06/30/historic-rotterdam-bridge-wont-dismantled-jeff-bezos-superyacht-worth-eu430m",
         "timestamp": 1656618391,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 30, 2022 3:46 PM"
     },
     {
@@ -590,7 +563,7 @@
         "category": "news",
         "link": "https://www.fox35orlando.com/news/florida-man-poses-as-disney-world-cast-member-steals-10k-r2-d2-droid-deputies-say",
         "timestamp": 1656620634,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 4:23 PM"
     },
     {
@@ -599,7 +572,7 @@
         "category": "nottheonion",
         "link": "https://www.texastribune.org/2022/06/30/texas-slavery-involuntary-relocation/",
         "timestamp": 1656621493,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 4:38 PM"
     },
     {
@@ -635,7 +608,7 @@
         "category": "UpliftingNews",
         "link": "https://apnews.com/article/science-health-government-and-politics-f2a2bd91adf052338db45ec9c01c1af9",
         "timestamp": 1656623156,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 30, 2022 5:05 PM"
     },
     {
@@ -648,21 +621,12 @@
         "published": "June 30, 2022 5:12 PM"
     },
     {
-        "title": "Airline captain writes note to tooth fairy for girl who lost tooth on plane",
-        "domain": "abcnews.go.com",
-        "category": "UpliftingNews",
-        "link": "https://abcnews.go.com/GMA/Family/airline-captain-writes-note-tooth-fairy-girl-lost/story?id=85954500",
-        "timestamp": 1656623542,
-        "sentiment": -3,
-        "published": "June 30, 2022 5:12 PM"
-    },
-    {
         "title": "TV ad breaks could get longer as rules are reviewed",
         "domain": "bbc.co.uk",
         "category": "television",
         "link": "https://www.bbc.co.uk/news/uk-61997064",
         "timestamp": 1656624136,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 30, 2022 5:22 PM"
     },
     {
@@ -689,7 +653,7 @@
         "category": "florida",
         "link": "https://floridapolitics.com/archives/454940-ron-desantis-biggest-backer-ken-griffin-spends-big-on-politics/",
         "timestamp": 1656625197,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 5:39 PM"
     },
     {
@@ -698,7 +662,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/apple-tv-comic-con-severance-mythic-quest-foundation-see-1235054965/",
         "timestamp": 1656627053,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 30, 2022 6:10 PM"
     },
     {
@@ -707,7 +671,7 @@
         "category": "sports",
         "link": "https://www.espn.com/nba/story/_/id/34174171/kevin-durant-requests-trade-brookyn-nets-sources-say",
         "timestamp": 1656627405,
-        "sentiment": 2,
+        "sentiment": 3,
         "published": "June 30, 2022 6:16 PM"
     },
     {
@@ -734,7 +698,7 @@
         "category": "UpliftingNews",
         "link": "https://www.wcvb.com/article/stone-zoo-welcomes-baby-porcupine-massachusetts/40465758#",
         "timestamp": 1656629511,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 30, 2022 6:51 PM"
     },
     {
@@ -743,7 +707,7 @@
         "category": "nottheonion",
         "link": "https://www.cbc.ca/news/canada/saskatchewan/complaints-filed-sask-judge-sexual-assault-regina-1.6496020",
         "timestamp": 1656630755,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 7:12 PM"
     },
     {
@@ -752,7 +716,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/tom-swift-canceled-by-cw-one-season-1235055092/",
         "timestamp": 1656631500,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 30, 2022 7:25 PM"
     },
     {
@@ -765,12 +729,21 @@
         "published": "June 30, 2022 7:25 PM"
     },
     {
+        "title": "ESPN's Pete Thamel: USC and UCLA officially Big Ten members, effective in 2024",
+        "domain": "twitter.com",
+        "category": "sports",
+        "link": "https://twitter.com/petethamel/status/1542651949102891010",
+        "timestamp": 1656632056,
+        "sentiment": 3,
+        "published": "June 30, 2022 7:34 PM"
+    },
+    {
         "title": "Guinness recognizes world's longest-serving flight attendant",
         "domain": "abc7ny.com",
         "category": "UpliftingNews",
         "link": "https://abc7ny.com/12006906/",
         "timestamp": 1656632058,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "June 30, 2022 7:34 PM"
     },
     {
@@ -797,7 +770,7 @@
         "category": "news",
         "link": "https://www.marca.com/en/lifestyle/celebrities/2022/06/30/62be1b74e2704e92438b456c.html",
         "timestamp": 1656634133,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 8:08 PM"
     },
     {
@@ -819,12 +792,21 @@
         "published": "June 30, 2022 8:39 PM"
     },
     {
+        "title": "Experts present Latvian government list of 69 Soviet monuments to tear down",
+        "domain": "bnn-news.com",
+        "category": "worldnews",
+        "link": "https://bnn-news.com/experts-present-latvian-government-list-of-69-soviet-monuments-to-tear-down-235827",
+        "timestamp": 1656637206,
+        "sentiment": 0,
+        "published": "June 30, 2022 9:00 PM"
+    },
+    {
         "title": "Hikers had no gear on cold Colorado trail because it’s ‘so hot in Texas,’ officials say",
         "domain": "star-telegram.com",
         "category": "nottheonion",
         "link": "https://www.star-telegram.com/news/state/texas/article263021718.html",
         "timestamp": 1656637752,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 9:09 PM"
     },
     {
@@ -835,6 +817,105 @@
         "timestamp": 1656638569,
         "sentiment": -4,
         "published": "June 30, 2022 9:22 PM"
+    },
+    {
+        "title": "First reported case of a person getting COVID from a cat",
+        "domain": "nature.com",
+        "category": "worldnews",
+        "link": "https://www.nature.com/articles/d41586-022-01792-y",
+        "timestamp": 1656639300,
+        "sentiment": 0,
+        "published": "June 30, 2022 9:35 PM"
+    },
+    {
+        "title": "Parents outraged at school board members for dismissing book on Japanese American incarceration during WWII",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/asian-america/wisc-school-board-members-dismissed-book-japanese-american-incarcerati-rcna35948",
+        "timestamp": 1656640121,
+        "sentiment": -2,
+        "published": "June 30, 2022 9:48 PM"
+    },
+    {
+        "title": "'Field of Dreams' TV Series Not Moving Forward at Peacock",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/field-of-dreams-series-scrapped-peacock-1235307551/",
+        "timestamp": 1656641370,
+        "sentiment": 1,
+        "published": "June 30, 2022 10:09 PM"
+    },
+    {
+        "title": "Greensboro Science Center welcomes birth of red panda cub - and it's a special one",
+        "domain": "wfmynews2.com",
+        "category": "UpliftingNews",
+        "link": "https://www.wfmynews2.com/article/tech/science/greensboro-science-center/greensboro-science-center-welcomes-birth-of-red-panda-cub/83-41bb9f74-d2f7-4727-bfe7-8e533b541ddf?fbclid=IwAR1B3VvPxGQGUGsH3sO_9DuSxkG2toz8KSWB5wL5FYAtrRXq5H0K8vxAJoU&fs=e&s=cl",
+        "timestamp": 1656643588,
+        "sentiment": 0,
+        "published": "June 30, 2022 10:46 PM"
+    },
+    {
+        "title": "Miami’s sea level rise bill — $4 billion by 2060 — still won’t keep every neighborhood dry",
+        "domain": "tampabay.com",
+        "category": "miami",
+        "link": "https://www.tampabay.com/news/2021/04/22/miamis-sea-level-rise-bill-4-billion-by-2060-still-wont-keep-every-neighborhood-dry/?outputType=amp",
+        "timestamp": 1656644360,
+        "sentiment": 2,
+        "published": "June 30, 2022 10:59 PM"
+    },
+    {
+        "title": "USC and UCLA to join Big Ten conference, shaking up college sports landscape",
+        "domain": "cnn.com",
+        "category": "sports",
+        "link": "https://www.cnn.com/2022/06/30/sport/usc-ucla-big-ten-spt/index.html",
+        "timestamp": 1656645568,
+        "sentiment": 3,
+        "published": "June 30, 2022 11:19 PM"
+    },
+    {
+        "title": "Mother fatally shot 'at point-blank range' while pushing baby in pram in New York City | US News",
+        "domain": "news.sky.com",
+        "category": "news",
+        "link": "https://news.sky.com/story/mother-fatally-shot-at-point-blank-range-while-pushing-baby-in-pram-in-new-york-city-12642901",
+        "timestamp": 1656583622,
+        "sentiment": 0,
+        "published": "June 30, 2022 6:07 AM"
+    },
+    {
+        "title": "Ukraine’s Zelenskyy cuts ties with Syria after it recognized separatist republics",
+        "domain": "english.alarabiya.net",
+        "category": "worldnews",
+        "link": "https://english.alarabiya.net/News/world/2022/06/30/Ukraine-s-Zelenskyy-cuts-ties-with-Syria-after-it-recognized-separatist-republics",
+        "timestamp": 1656592015,
+        "sentiment": 0,
+        "published": "June 30, 2022 8:26 AM"
+    },
+    {
+        "title": "Former mayor of Turkey's Capital ridiculed for believing tweet on discovery of jelly bean reserves in Turkey",
+        "domain": "turkishminute.com",
+        "category": "nottheonion",
+        "link": "https://www.turkishminute.com/2022/06/29/former-ankara-mayor-ridiculed-for-believing-tweet-on-discovery-of-jelly-bean-reserves-in-turkey/",
+        "timestamp": 1656594095,
+        "sentiment": 0,
+        "published": "June 30, 2022 9:01 AM"
+    },
+    {
+        "title": "Poland completes Belarus border wall to keep migrants out",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/russia-ukraine-africa-poland-forests-middle-east-443c8068ea7b5d1d8f6980da6e3879af",
+        "timestamp": 1656605718,
+        "sentiment": 0,
+        "published": "June 30, 2022 12:15 PM"
+    },
+    {
+        "title": "Airline captain writes note to tooth fairy for girl who lost tooth on plane",
+        "domain": "abcnews.go.com",
+        "category": "UpliftingNews",
+        "link": "https://abcnews.go.com/GMA/Family/airline-captain-writes-note-tooth-fairy-girl-lost/story?id=85954500",
+        "timestamp": 1656623542,
+        "sentiment": -3,
+        "published": "June 30, 2022 5:12 PM"
     },
     {
         "title": "Can anyone explain this “fourth out rule” to me?",
@@ -871,15 +952,6 @@
         "timestamp": 1656611386,
         "sentiment": -1,
         "published": "June 30, 2022 1:49 PM"
-    },
-    {
-        "title": "ESPN's Pete Thamel on Twitter: USC and UCLA to Big Ten essentially done deal, per sources",
-        "domain": "twitter.com",
-        "category": "sports",
-        "link": "https://twitter.com/petethamel/status/1542578895655997441?s=21&t=BxdpEBLT4zOTxgipEe_NRw",
-        "timestamp": 1656614930,
-        "sentiment": -2,
-        "published": "June 30, 2022 2:48 PM"
     },
     {
         "title": "Defense of Earth: NASA’s Double Asteroid Redirection Test (DART) mission is the world’s first full-scale planetary defense test against asteroids on a collision course with Earth. New study results indicate that DART spacecraft may deform asteroids far more severely than previously thought.",
@@ -952,15 +1024,6 @@
         "timestamp": 1656628047,
         "sentiment": -2,
         "published": "June 30, 2022 6:27 PM"
-    },
-    {
-        "title": "ESPN's Pete Thamel: USC and UCLA officially Big Ten members, effective in 2024",
-        "domain": "twitter.com",
-        "category": "sports",
-        "link": "https://twitter.com/petethamel/status/1542651949102891010",
-        "timestamp": 1656632056,
-        "sentiment": 0,
-        "published": "June 30, 2022 7:34 PM"
     },
     {
         "title": "Liz Cheney: 'Republicans cannot be both loyal to Donald Trump and loyal to the Constitution'",
