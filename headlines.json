@@ -9,6 +9,15 @@
         "published": "July 1, 2022 12:26 AM"
     },
     {
+        "title": "Russian missile strikes on Odesa apartments and recreation centre kill 17, Ukraine says",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jul/01/russian-missile-strikes-on-odesa-apartments-and-recreation-centre-kill-17-ukraine-says",
+        "timestamp": 1656651495,
+        "sentiment": 3,
+        "published": "July 1, 2022 12:58 AM"
+    },
+    {
         "title": "Moroccan Parliamentary Group Proposes Law Granting Women Paid Menstrual Leave",
         "domain": "moroccoworldnews.com",
         "category": "UpliftingNews",
@@ -25,6 +34,24 @@
         "timestamp": 1656654222,
         "sentiment": 0,
         "published": "July 1, 2022 1:43 AM"
+    },
+    {
+        "title": "Fourth-generation vaping devices increase risk to immune cells: Some fourth-generation models—such as Juul devices—are associated with unique changes in markers of immune responses inside our airways, according to a new paper from UNC School of Medicine researchers.",
+        "domain": "atsjournals.org",
+        "category": "science",
+        "link": "https://www.atsjournals.org/doi/10.1164/rccm.202202-0373OC",
+        "timestamp": 1656655242,
+        "sentiment": -2,
+        "published": "July 1, 2022 2:00 AM"
+    },
+    {
+        "title": "‘Magnum P.I.’ Rescued By NBC With 2-Season, 20-Episode Order",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/06/magnum-pi-renewed-season-5-6-nbc-1235055173/",
+        "timestamp": 1656655810,
+        "sentiment": 0,
+        "published": "July 1, 2022 2:10 AM"
     },
     {
         "title": "Convoy protesters plan to stand up to high fuel prices by filling up their cars and driving around New Zealand",
