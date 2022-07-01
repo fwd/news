@@ -9,21 +9,12 @@
         "published": "July 1, 2022 12:26 AM"
     },
     {
-        "title": "Russian missile strikes on Odesa apartments and recreation centre kill 17, Ukraine says",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/jul/01/russian-missile-strikes-on-odesa-apartments-and-recreation-centre-kill-17-ukraine-says",
-        "timestamp": 1656651495,
-        "sentiment": 0,
-        "published": "July 1, 2022 12:58 AM"
-    },
-    {
         "title": "Germany to return looted artifacts to Africa",
         "domain": "m.dw.com",
         "category": "UpliftingNews",
         "link": "https://m.dw.com/en/germany-to-return-looted-artifacts-to-africa/a-62300419",
         "timestamp": 1656654222,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 1, 2022 1:43 AM"
     },
     {
@@ -32,7 +23,7 @@
         "category": "science",
         "link": "https://www.atsjournals.org/doi/10.1164/rccm.202202-0373OC",
         "timestamp": 1656655242,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "July 1, 2022 2:00 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "technology",
         "link": "https://www.space.com/james-webb-space-telescope-first-images-teaser",
         "timestamp": 1656658013,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 1, 2022 2:46 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/los-angeles-film-tv-productions-masks-1235055066/",
         "timestamp": 1656661238,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 1, 2022 3:40 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "science",
         "link": "https://digest.bps.org.uk/2022/07/01/people-with-no-minds-eye-have-less-vivid-and-detailed-memories/",
         "timestamp": 1656669412,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "July 1, 2022 5:56 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/07/01/naomi-klein-us-midst-shock-and-awe-judicial-coup",
         "timestamp": 1656671845,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 1, 2022 6:37 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "technology",
         "link": "https://www.engadget.com/tesla-faces-new-lawsuit-with-15-employees-alleging-racism-and-harassment-102013993.html",
         "timestamp": 1656672642,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 1, 2022 6:50 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "science",
         "link": "https://www.the-scientist.com/news-opinion/grape-doling-tourists-gave-endangered-iguanas-high-blood-sugar-69931",
         "timestamp": 1656673634,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "July 1, 2022 7:07 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/07/01/our-fourth-of-july-nightmare-a-republic-in-the-tightening-grip-of-minority-rule/",
         "timestamp": 1656674177,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 1, 2022 7:16 AM"
     },
     {
@@ -149,7 +140,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/07/01/schools-out-forever-arizona-moves-to-public-education-with-new-universal-voucher-law/",
         "timestamp": 1656675064,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 1, 2022 7:31 AM"
     },
     {
@@ -158,7 +149,7 @@
         "category": "nottheonion",
         "link": "https://blockclubchicago.org/2022/06/30/lakefront-trail-users-horrified-as-cars-drive-on-to-pedestrian-and-bike-path-to-avoid-traffic-jam/",
         "timestamp": 1656675606,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 1, 2022 7:40 AM"
     },
     {
@@ -167,7 +158,7 @@
         "category": "UpliftingNews",
         "link": "https://www.reuters.com/world/europe/polish-court-rules-that-four-lgbt-free-zones-must-be-abolished-2022-06-28/",
         "timestamp": 1656676262,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 1, 2022 7:51 AM"
     },
     {
@@ -189,30 +180,12 @@
         "published": "July 1, 2022 7:56 AM"
     },
     {
-        "title": "Zika- and Dengue-Infected Humans are More Attractive to Mosquitoes: Researchers have found that when people have a Zika or dengue virus infection, they release a molecule that can attract mosquitoes.",
-        "domain": "sciencedirect.com",
-        "category": "science",
-        "link": "https://www.sciencedirect.com/science/article/abs/pii/S0092867422006419",
-        "timestamp": 1656676617,
-        "sentiment": 1,
-        "published": "July 1, 2022 7:56 AM"
-    },
-    {
-        "title": "Ukraine’s Armed Forces launch up to 10 airstrikes on Russian positions in Luhansk region",
-        "domain": "ukrinform.net",
-        "category": "ukraine",
-        "link": "https://www.ukrinform.net/rubric-ato/3519643-ukraines-armed-forces-launch-up-to-10-airstrikes-on-russian-positions-in-luhansk-region.html",
-        "timestamp": 1656676690,
-        "sentiment": 0,
-        "published": "July 1, 2022 7:58 AM"
-    },
-    {
         "title": "​Canada Supply Ukraine with Brand New Armoured Combat Support Vehicles, High-Resolution Cameras for Bayraktar TB2 UAV | Defense Express",
         "domain": "en.defence-ua.com",
         "category": "ukraine",
         "link": "https://en.defence-ua.com/industries/canada_supply_ukraine_with_brand_new_armoured_combat_support_vehicles_high_resolution_cameras_for_bayraktar_tb2_uav-3437.html",
         "timestamp": 1656677014,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 1, 2022 8:03 AM"
     },
     {
@@ -221,7 +194,7 @@
         "category": "technology",
         "link": "https://www.businesswire.com/news/home/20220630005151/en/Meta%E2%80%99s-Dominance-in-the-VR-Market-will-be-Challenged-in-the-Coming-Years-According-to-IDC",
         "timestamp": 1656677279,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 1, 2022 8:07 AM"
     },
     {
@@ -230,7 +203,7 @@
         "category": "UpliftingNews",
         "link": "https://furtherafrica.com/2022/07/01/how-solar-power-is-transforming-african-farms/",
         "timestamp": 1656677467,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 1, 2022 8:11 AM"
     },
     {
@@ -239,7 +212,7 @@
         "category": "UpliftingNews",
         "link": "https://khn.org/news/article/health-insurers-price-transparency-public-rates-costs/",
         "timestamp": 1656677551,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 1, 2022 8:12 AM"
     },
     {
@@ -248,7 +221,7 @@
         "category": "politics",
         "link": "https://www.politifact.com/factchecks/2022/jun/24/joe-biden/roe-reversal-ending-national-access-abortion-makes/",
         "timestamp": 1656677631,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 1, 2022 8:13 AM"
     },
     {
@@ -257,17 +230,8 @@
         "category": "UpliftingNews",
         "link": "https://www.sciencedaily.com/releases/2022/06/220630160035.htm",
         "timestamp": 1656678408,
-        "sentiment": -1,
-        "published": "July 1, 2022 8:26 AM"
-    },
-    {
-        "title": "Germany’s move to legalise cannabis expected to create ‘domino effect’",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/jul/01/germanys-move-to-legalise-cannabis-expected-to-create-domino-effect",
-        "timestamp": 1656678463,
         "sentiment": 0,
-        "published": "July 1, 2022 8:27 AM"
+        "published": "July 1, 2022 8:26 AM"
     },
     {
         "title": "Trump allies paid legal fees for multiple Jan. 6 witnesses, including Cassidy Hutchinson, sparking witness-influencing concerns, report says",
@@ -275,7 +239,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/trump-allies-paid-multiple-jan-6-witness-legal-fees-nyt-2022-7",
         "timestamp": 1656679087,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 1, 2022 8:38 AM"
     },
     {
@@ -293,17 +257,8 @@
         "category": "UpliftingNews",
         "link": "https://agenciapresentes.org/2022/06/30/argentina-aprobo-nueva-ley-de-vih-hepatitis-tuberculosis-e-its/",
         "timestamp": 1656679365,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 1, 2022 8:42 AM"
-    },
-    {
-        "title": "What Happens if Americans Stop Recognizing the Legitimacy of the Supreme Court? We Asked a Constitutional Scholar.",
-        "domain": "wweek.com",
-        "category": "politics",
-        "link": "https://www.wweek.com/news/2022/06/29/what-happens-if-americans-stop-recognizing-the-legitimacy-of-the-supreme-court-we-asked-a-constitutional-scholar/",
-        "timestamp": 1656679392,
-        "sentiment": 4,
-        "published": "July 1, 2022 8:43 AM"
     },
     {
         "title": "China Urges U.S. to Fulfill Climate Duties After Supreme Court Ruling",
@@ -315,21 +270,12 @@
         "published": "July 1, 2022 8:50 AM"
     },
     {
-        "title": "Fight Breaks Out in VIP Section of Eagles Concert During ‘Take It Easy’",
-        "domain": "variety.com",
-        "category": "nottheonion",
-        "link": "https://variety.com/2022/music/news/fight-eagles-concert-take-it-easy-1235306918/",
-        "timestamp": 1656679850,
-        "sentiment": -1,
-        "published": "July 1, 2022 8:50 AM"
-    },
-    {
         "title": "The Christian Right is winning at the Supreme Court, but not in public opinion",
         "domain": "npr.org",
         "category": "politics",
         "link": "https://www.npr.org/2022/07/01/1109141110/the-christian-right-is-winning-cultural-battles-while-public-opinion-disagrees",
         "timestamp": 1656680986,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 1, 2022 9:09 AM"
     },
     {
@@ -338,7 +284,7 @@
         "category": "nottheonion",
         "link": "https://www.cnn.com/2022/06/24/africa/ekweremadu-wife-arrested-uk-intl/index.html",
         "timestamp": 1656681027,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 1, 2022 9:10 AM"
     },
     {
@@ -365,7 +311,7 @@
         "category": "science",
         "link": "https://www.eurekalert.org/news-releases/957142",
         "timestamp": 1656681758,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "July 1, 2022 9:22 AM"
     },
     {
@@ -374,17 +320,8 @@
         "category": "politics",
         "link": "https://www.lgbtqnation.com/2022/07/bisexual-daughter-cuts-ties-dad-hes-gop-state-senator-taking-rights-away/",
         "timestamp": 1656682293,
-        "sentiment": 4,
-        "published": "July 1, 2022 9:31 AM"
-    },
-    {
-        "title": "Outlander author Diana Gabaldon discloses that season seven could be the last",
-        "domain": "scottishdailyexpress.co.uk",
-        "category": "television",
-        "link": "https://www.scottishdailyexpress.co.uk/tv/outlander-author-diana-gabaldon-discloses-27358528",
-        "timestamp": 1656682336,
         "sentiment": 0,
-        "published": "July 1, 2022 9:32 AM"
+        "published": "July 1, 2022 9:31 AM"
     },
     {
         "title": "US basketball star Brittney Griner appears in Russian court on drug smuggling charges",
@@ -410,7 +347,7 @@
         "category": "technology",
         "link": "https://www.dailydot.com/debug/broadband-telecom-monopolies-covid-subsidies/",
         "timestamp": 1656683690,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 1, 2022 9:54 AM"
     },
     {
@@ -419,7 +356,7 @@
         "category": "science",
         "link": "https://www.psychnewsdaily.com/reddit-toxic-usernames-and-toxic-content/",
         "timestamp": 1656684413,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "July 1, 2022 10:06 AM"
     },
     {
@@ -428,7 +365,7 @@
         "category": "television",
         "link": "https://www.npr.org/2022/07/01/1105295933/the-simpsons-production-workers-say-they-deserve-a-place-at-the-table",
         "timestamp": 1656684832,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 1, 2022 10:13 AM"
     },
     {
@@ -437,16 +374,7 @@
         "category": "UpliftingNews",
         "link": "https://www.france24.com/en/live-news/20220701-india-bans-many-single-use-plastics-to-tackle-waste",
         "timestamp": 1656685086,
-        "sentiment": -1,
-        "published": "July 1, 2022 10:18 AM"
-    },
-    {
-        "title": "'Payoff for 40 Years of Dark Money': Supreme Court Delivers for Corporate America",
-        "domain": "commondreams.org",
-        "category": "politics",
-        "link": "https://www.commondreams.org/news/2022/06/30/payoff-40-years-dark-money-supreme-court-delivers-corporate-america",
-        "timestamp": 1656685124,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 1, 2022 10:18 AM"
     },
     {
@@ -455,7 +383,7 @@
         "category": "UpliftingNews",
         "link": "https://www.latimes.com/environment/story/2022-06-30/california-new-law-phase-out-single-use-plastics-containers",
         "timestamp": 1656685871,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 1, 2022 10:31 AM"
     },
     {
@@ -482,7 +410,7 @@
         "category": "politics",
         "link": "https://www.theatlantic.com/politics/archive/2022/06/biden-roe-response-democrats-2024-election/661449/",
         "timestamp": 1656687335,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 1, 2022 10:55 AM"
     },
     {
@@ -491,8 +419,17 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/why-women-kill-canceled-paramount-plus-1235307752/",
         "timestamp": 1656687670,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 1, 2022 11:01 AM"
+    },
+    {
+        "title": "Russian Reporter Says Rebranded McDonald's Smells and Tastes Different",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/reporter-russia-says-rebranded-mcdonalds-smells-and-tastes-different-2022-6",
+        "timestamp": 1656687973,
+        "sentiment": 0,
+        "published": "July 1, 2022 11:06 AM"
     },
     {
         "title": "More charges for ‘Tiger King’ star. Antle, others illegally trafficked wildlife, FBI says",
@@ -509,7 +446,7 @@
         "category": "science",
         "link": "https://www.sciencenews.org/article/space-bone-loss-density-astronaut-recovery-gravity",
         "timestamp": 1656688106,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "July 1, 2022 11:08 AM"
     },
     {
@@ -518,7 +455,7 @@
         "category": "science",
         "link": "https://pubs.geoscienceworld.org/sepm/palaios/article-abstract/37/6/292/614825/END-PERMIAN-BURNOUT-THE-ROLE-OF-PERMIAN-TRIASSIC?redirectedFrom=fulltext",
         "timestamp": 1656689607,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "July 1, 2022 11:33 AM"
     },
     {
@@ -529,6 +466,15 @@
         "timestamp": 1656690076,
         "sentiment": 2,
         "published": "July 1, 2022 11:41 AM"
+    },
+    {
+        "title": "Minecraft YouTuber Technoblade dies from cancer as his dad posts message he'd prepared for followers",
+        "domain": "news.sky.com",
+        "category": "news",
+        "link": "https://news.sky.com/story/minecraft-youtuber-technoblade-dies-from-cancer-as-his-dad-posts-message-hed-prepared-for-followers-12643584",
+        "timestamp": 1656690398,
+        "sentiment": -5,
+        "published": "July 1, 2022 11:46 AM"
     },
     {
         "title": "Someone got murdered in the lobby of the Clevelander in South Beach last night",
@@ -549,13 +495,40 @@
         "published": "July 1, 2022 11:55 AM"
     },
     {
+        "title": "Bear cub rescued after getting head stuck in container in CT",
+        "domain": "apnews.com",
+        "category": "UpliftingNews",
+        "link": "https://apnews.com/article/science-connecticut-wildlife-bears-climate-and-environment-54193790a0518d4d090bb68298ce1aa1",
+        "timestamp": 1656691099,
+        "sentiment": 0,
+        "published": "July 1, 2022 11:58 AM"
+    },
+    {
         "title": "Google hit with more privacy complaints for “deceptive” sign-up process",
         "domain": "arstechnica.com",
         "category": "technology",
         "link": "https://arstechnica.com/tech-policy/2022/07/googles-default-privacy-settings-are-too-evil-eu-consumer-rights-groups-say/",
         "timestamp": 1656692572,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 1, 2022 12:22 PM"
+    },
+    {
+        "title": "Jon Stewart: Supreme Court is ‘the Fox News of justice’",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/blogs/in-the-know/3543836-jon-stewart-supreme-court-is-the-fox-news-of-justice/",
+        "timestamp": 1656694277,
+        "sentiment": 0,
+        "published": "July 1, 2022 12:51 PM"
+    },
+    {
+        "title": "Rock star Randy Bachman reunited with beloved stolen guitar",
+        "domain": "apnews.com",
+        "category": "UpliftingNews",
+        "link": "https://apnews.com/article/entertainment-music-japan-toronto-97efeb21c42c13bb0d1b983d3b72b6ac",
+        "timestamp": 1656695203,
+        "sentiment": 0,
+        "published": "July 1, 2022 1:06 PM"
     },
     {
         "title": "Florida bans telehealth abortions, but can it enforce the law?",
@@ -565,6 +538,141 @@
         "timestamp": 1656695214,
         "sentiment": 0,
         "published": "July 1, 2022 1:06 PM"
+    },
+    {
+        "title": "71 percent don’t want Biden to run for reelection: poll",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/campaign/3543867-71-percent-dont-want-biden-to-run-for-reelection-poll/",
+        "timestamp": 1656695308,
+        "sentiment": 0,
+        "published": "July 1, 2022 1:08 PM"
+    },
+    {
+        "title": "Strong link found between emotional childhood abuse and schizophrenia: A new study has, for the first time, identified a strong link between childhood emotional abuse and schizophrenia-like experiences in healthy adults, such as paranoia, hearing voices, and social withdrawal.",
+        "domain": "journals.plos.org",
+        "category": "science",
+        "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0270494",
+        "timestamp": 1656695677,
+        "sentiment": 3,
+        "published": "July 1, 2022 1:14 PM"
+    },
+    {
+        "title": "TikTok Confirms US User Data Can Be Accessed in China",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/tiktok-confirms-us-user-data-accessed-in-china-bytedance-2022-7",
+        "timestamp": 1656696090,
+        "sentiment": 0,
+        "published": "July 1, 2022 1:21 PM"
+    },
+    {
+        "title": "TikTok confirms that China-based employees can access US user data, but only through an 'approval process'",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/tiktok-confirms-us-user-data-accessed-in-china-bytedance-2022-7",
+        "timestamp": 1656696271,
+        "sentiment": -3,
+        "published": "July 1, 2022 1:24 PM"
+    },
+    {
+        "title": "Facebook Is Attempting to Silence a Black Whistleblower",
+        "domain": "time.com",
+        "category": "nottheonion",
+        "link": "https://time.com/6193231/facebook-crack-whip-black-whistleblower/",
+        "timestamp": 1656696668,
+        "sentiment": 2,
+        "published": "July 1, 2022 1:31 PM"
+    },
+    {
+        "title": "Will Ben & Jerry’s stay on Florida list of scrutinized companies?",
+        "domain": "wfla.com",
+        "category": "FLgovernment",
+        "link": "https://www.wfla.com/news/politics/will-ben-jerrys-stay-on-florida-list-of-scrutinized-companies/",
+        "timestamp": 1656699547,
+        "sentiment": 0,
+        "published": "July 1, 2022 2:19 PM"
+    },
+    {
+        "title": "Florida marijuana gun rights lawsuit complicated by SCOTUS rulings",
+        "domain": "wfla.com",
+        "category": "FLgovernment",
+        "link": "https://www.wfla.com/news/politics/florida-marijuana-gun-rights-lawsuit-complicated-by-scotus-rulings/",
+        "timestamp": 1656699875,
+        "sentiment": 0,
+        "published": "July 1, 2022 2:24 PM"
+    },
+    {
+        "title": "Russian missile strikes on Odesa apartments and recreation centre kill 17, Ukraine says",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jul/01/russian-missile-strikes-on-odesa-apartments-and-recreation-centre-kill-17-ukraine-says",
+        "timestamp": 1656651495,
+        "sentiment": 0,
+        "published": "July 1, 2022 12:58 AM"
+    },
+    {
+        "title": "Zika- and Dengue-Infected Humans are More Attractive to Mosquitoes: Researchers have found that when people have a Zika or dengue virus infection, they release a molecule that can attract mosquitoes.",
+        "domain": "sciencedirect.com",
+        "category": "science",
+        "link": "https://www.sciencedirect.com/science/article/abs/pii/S0092867422006419",
+        "timestamp": 1656676617,
+        "sentiment": 1,
+        "published": "July 1, 2022 7:56 AM"
+    },
+    {
+        "title": "Ukraine’s Armed Forces launch up to 10 airstrikes on Russian positions in Luhansk region",
+        "domain": "ukrinform.net",
+        "category": "ukraine",
+        "link": "https://www.ukrinform.net/rubric-ato/3519643-ukraines-armed-forces-launch-up-to-10-airstrikes-on-russian-positions-in-luhansk-region.html",
+        "timestamp": 1656676690,
+        "sentiment": 0,
+        "published": "July 1, 2022 7:58 AM"
+    },
+    {
+        "title": "Germany’s move to legalise cannabis expected to create ‘domino effect’",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jul/01/germanys-move-to-legalise-cannabis-expected-to-create-domino-effect",
+        "timestamp": 1656678463,
+        "sentiment": 0,
+        "published": "July 1, 2022 8:27 AM"
+    },
+    {
+        "title": "What Happens if Americans Stop Recognizing the Legitimacy of the Supreme Court? We Asked a Constitutional Scholar.",
+        "domain": "wweek.com",
+        "category": "politics",
+        "link": "https://www.wweek.com/news/2022/06/29/what-happens-if-americans-stop-recognizing-the-legitimacy-of-the-supreme-court-we-asked-a-constitutional-scholar/",
+        "timestamp": 1656679392,
+        "sentiment": 4,
+        "published": "July 1, 2022 8:43 AM"
+    },
+    {
+        "title": "Fight Breaks Out in VIP Section of Eagles Concert During ‘Take It Easy’",
+        "domain": "variety.com",
+        "category": "nottheonion",
+        "link": "https://variety.com/2022/music/news/fight-eagles-concert-take-it-easy-1235306918/",
+        "timestamp": 1656679850,
+        "sentiment": -1,
+        "published": "July 1, 2022 8:50 AM"
+    },
+    {
+        "title": "Outlander author Diana Gabaldon discloses that season seven could be the last",
+        "domain": "scottishdailyexpress.co.uk",
+        "category": "television",
+        "link": "https://www.scottishdailyexpress.co.uk/tv/outlander-author-diana-gabaldon-discloses-27358528",
+        "timestamp": 1656682336,
+        "sentiment": 0,
+        "published": "July 1, 2022 9:32 AM"
+    },
+    {
+        "title": "'Payoff for 40 Years of Dark Money': Supreme Court Delivers for Corporate America",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/06/30/payoff-40-years-dark-money-supreme-court-delivers-corporate-america",
+        "timestamp": 1656685124,
+        "sentiment": 4,
+        "published": "July 1, 2022 10:18 AM"
     },
     {
         "title": "Russia Arrests Scientist for Alleged Collaboration With Chinese Secret Services",
