@@ -9,15 +9,6 @@
         "published": "July 1, 2022 1:43 AM"
     },
     {
-        "title": "Fourth-generation vaping devices increase risk to immune cells: Some fourth-generation models—such as Juul devices—are associated with unique changes in markers of immune responses inside our airways, according to a new paper from UNC School of Medicine researchers.",
-        "domain": "atsjournals.org",
-        "category": "science",
-        "link": "https://www.atsjournals.org/doi/10.1164/rccm.202202-0373OC",
-        "timestamp": 1656655242,
-        "sentiment": 1,
-        "published": "July 1, 2022 2:00 AM"
-    },
-    {
         "title": "James Webb Space Telescope 1st photos will include 'deepest image of our universe'",
         "domain": "space.com",
         "category": "technology",
@@ -32,7 +23,7 @@
         "category": "science",
         "link": "https://digest.bps.org.uk/2022/07/01/people-with-no-minds-eye-have-less-vivid-and-detailed-memories/",
         "timestamp": 1656669412,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 1, 2022 5:56 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jul/01/palestinian-authority-routinely-tortures-detainees-says-human-rights-watch",
         "timestamp": 1656670557,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 1, 2022 6:15 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/07/01/naomi-klein-us-midst-shock-and-awe-judicial-coup",
         "timestamp": 1656671845,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 1, 2022 6:37 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.lemonde.fr/en/international/article/2022/06/30/macron-riles-russia-with-documentary-releasing-content-of-putin-calls_5988537_4.html",
         "timestamp": 1656671905,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 1, 2022 6:38 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/30/us/brian-laundrie-florida-judge-allows-gabby-petito-parents-lawsuit/index.html",
         "timestamp": 1656673124,
-        "sentiment": -5,
+        "sentiment": -4,
         "published": "July 1, 2022 6:58 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.thelocal.ch/20220701/same-sex-marriage-now-legal-in-switzerland/",
         "timestamp": 1656673594,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 1, 2022 7:06 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "science",
         "link": "https://www.the-scientist.com/news-opinion/grape-doling-tourists-gave-endangered-iguanas-high-blood-sugar-69931",
         "timestamp": 1656673634,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 1, 2022 7:07 AM"
     },
     {
@@ -95,17 +86,8 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/07/01/schools-out-forever-arizona-moves-to-public-education-with-new-universal-voucher-law/",
         "timestamp": 1656675064,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 1, 2022 7:31 AM"
-    },
-    {
-        "title": "Lakefront Trail Users Horrified As Cars Drive Onto Pedestrian And Bike Path To Avoid Traffic Jam",
-        "domain": "blockclubchicago.org",
-        "category": "nottheonion",
-        "link": "https://blockclubchicago.org/2022/06/30/lakefront-trail-users-horrified-as-cars-drive-on-to-pedestrian-and-bike-path-to-avoid-traffic-jam/",
-        "timestamp": 1656675606,
-        "sentiment": -4,
-        "published": "July 1, 2022 7:40 AM"
     },
     {
         "title": "Polish court rules that four \"LGBT-free zones\" must be abolished",
@@ -117,31 +99,13 @@
         "published": "July 1, 2022 7:51 AM"
     },
     {
-        "title": "90% of Ukrainians support joining EU, 73% support joining NATO",
-        "domain": "eurointegration.com.ua",
-        "category": "worldnews",
-        "link": "https://www.eurointegration.com.ua/eng/news/2022/07/1/7142399/",
-        "timestamp": 1656676511,
-        "sentiment": 0,
-        "published": "July 1, 2022 7:55 AM"
-    },
-    {
         "title": "Daily Harvest hit with lawsuits from people who say they had their gallbladders removed after consuming its product",
         "domain": "cnn.com",
         "category": "news",
         "link": "https://www.cnn.com/2022/07/01/tech/daily-harvest-recall-lawsuits/index.html",
         "timestamp": 1656676582,
-        "sentiment": -5,
+        "sentiment": -4,
         "published": "July 1, 2022 7:56 AM"
-    },
-    {
-        "title": "Meta’s Dominance in the VR Market will be Challenged in the Coming Years, According to IDC",
-        "domain": "businesswire.com",
-        "category": "technology",
-        "link": "https://www.businesswire.com/news/home/20220630005151/en/Meta%E2%80%99s-Dominance-in-the-VR-Market-will-be-Challenged-in-the-Coming-Years-According-to-IDC",
-        "timestamp": 1656677279,
-        "sentiment": 0,
-        "published": "July 1, 2022 8:07 AM"
     },
     {
         "title": "Solar power is helping transform the lives of African farmers",
@@ -171,21 +135,12 @@
         "published": "July 1, 2022 8:26 AM"
     },
     {
-        "title": "Germany’s move to legalise cannabis expected to create ‘domino effect’",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/jul/01/germanys-move-to-legalise-cannabis-expected-to-create-domino-effect",
-        "timestamp": 1656678463,
-        "sentiment": 0,
-        "published": "July 1, 2022 8:27 AM"
-    },
-    {
         "title": "Trump allies paid legal fees for multiple Jan. 6 witnesses, including Cassidy Hutchinson, sparking witness-influencing concerns, report says",
         "domain": "businessinsider.com",
         "category": "politics",
         "link": "https://www.businessinsider.com/trump-allies-paid-multiple-jan-6-witness-legal-fees-nyt-2022-7",
         "timestamp": 1656679087,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 1, 2022 8:38 AM"
     },
     {
@@ -194,7 +149,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/jun/30/jan-6-hearings-trump-mark-meadows-cassidy-hutchinson-threatened",
         "timestamp": 1656679146,
-        "sentiment": -5,
+        "sentiment": -4,
         "published": "July 1, 2022 8:39 AM"
     },
     {
@@ -212,7 +167,7 @@
         "category": "worldnews",
         "link": "https://www.usnews.com/news/world/articles/2022-07-01/china-urges-u-s-to-fulfill-climate-duties-after-supreme-court-ruling",
         "timestamp": 1656679809,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 1, 2022 8:50 AM"
     },
     {
@@ -221,7 +176,7 @@
         "category": "florida",
         "link": "https://www.salon.com/2022/07/01/schools-out-forever-arizona-moves-to-public-education-with-new-universal-voucher-law/",
         "timestamp": 1656681153,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 1, 2022 9:12 AM"
     },
     {
@@ -230,7 +185,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/30/us/ohio-police-officers-jayland-walker-shooting/index.html",
         "timestamp": 1656681318,
-        "sentiment": -5,
+        "sentiment": -4,
         "published": "July 1, 2022 9:15 AM"
     },
     {
@@ -239,7 +194,7 @@
         "category": "politics",
         "link": "https://www.lgbtqnation.com/2022/07/bisexual-daughter-cuts-ties-dad-hes-gop-state-senator-taking-rights-away/",
         "timestamp": 1656682293,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 1, 2022 9:31 AM"
     },
     {
@@ -248,7 +203,7 @@
         "category": "sports",
         "link": "https://www.cnn.com/2022/07/01/europe/russia-brittney-griner-trial-intl/index.html",
         "timestamp": 1656683026,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 1, 2022 9:43 AM"
     },
     {
@@ -257,7 +212,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/putin-russia-belarus-moving-towards-unification-western-sanctions-ukraine-war-1720985",
         "timestamp": 1656683650,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 1, 2022 9:54 AM"
     },
     {
@@ -275,7 +230,7 @@
         "category": "science",
         "link": "https://www.psychnewsdaily.com/reddit-toxic-usernames-and-toxic-content/",
         "timestamp": 1656684413,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 1, 2022 10:06 AM"
     },
     {
@@ -311,7 +266,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/nbc-out/out-news/floridas-dont-say-gay-law-takes-effect-schools-roll-lgbtq-restrictions-rcna36143",
         "timestamp": 1656686030,
-        "sentiment": -5,
+        "sentiment": -4,
         "published": "July 1, 2022 10:33 AM"
     },
     {
@@ -320,7 +275,7 @@
         "category": "politics",
         "link": "https://www.theatlantic.com/politics/archive/2022/06/biden-roe-response-democrats-2024-election/661449/",
         "timestamp": 1656687335,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 1, 2022 10:55 AM"
     },
     {
@@ -338,7 +293,7 @@
         "category": "science",
         "link": "https://www.sciencenews.org/article/space-bone-loss-density-astronaut-recovery-gravity",
         "timestamp": 1656688106,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 1, 2022 11:08 AM"
     },
     {
@@ -347,7 +302,7 @@
         "category": "science",
         "link": "https://pubs.geoscienceworld.org/sepm/palaios/article-abstract/37/6/292/614825/END-PERMIAN-BURNOUT-THE-ROLE-OF-PERMIAN-TRIASSIC?redirectedFrom=fulltext",
         "timestamp": 1656689607,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 1, 2022 11:33 AM"
     },
     {
@@ -356,7 +311,7 @@
         "category": "sports",
         "link": "https://www.espn.com/olympics/story/_/id/34179511/simone-biles-megan-rapinoe-recipients-presidential-medal-freedom",
         "timestamp": 1656690076,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 1, 2022 11:41 AM"
     },
     {
@@ -365,7 +320,7 @@
         "category": "news",
         "link": "https://news.sky.com/story/minecraft-youtuber-technoblade-dies-from-cancer-as-his-dad-posts-message-hed-prepared-for-followers-12643584",
         "timestamp": 1656690398,
-        "sentiment": -5,
+        "sentiment": -4,
         "published": "July 1, 2022 11:46 AM"
     },
     {
@@ -374,7 +329,7 @@
         "category": "miami",
         "link": "https://twitter.com/fox_sheldon/status/1542850848866410496?s=21&t=PMijA8mYftwUbxv64W96Nw",
         "timestamp": 1656690712,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 1, 2022 11:51 AM"
     },
     {
@@ -383,8 +338,17 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/07/01/chinese-purchase-of-north-dakota-farmland-raises-national-security-concerns-in-washington.html",
         "timestamp": 1656690911,
-        "sentiment": -5,
+        "sentiment": -4,
         "published": "July 1, 2022 11:55 AM"
+    },
+    {
+        "title": "Norway pledges 1 bln euros to support Ukraine",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/norway-pledges-1-bln-euros-support-ukraine-2022-07-01/",
+        "timestamp": 1656691794,
+        "sentiment": 2,
+        "published": "July 1, 2022 12:09 PM"
     },
     {
         "title": "Google hit with more privacy complaints for “deceptive” sign-up process",
@@ -401,7 +365,7 @@
         "category": "ukraine",
         "link": "https://www.ladepeche.fr/2022/06/20/guerre-en-ukraine-la-france-est-passee-dans-le-camp-des-etats-inamicaux-de-la-russie-quest-ce-que-ca-signifie-10384591.php",
         "timestamp": 1656693449,
-        "sentiment": 2,
+        "sentiment": 10,
         "published": "July 1, 2022 12:37 PM"
     },
     {
@@ -410,7 +374,7 @@
         "category": "worldnews",
         "link": "https://www.cbsnews.com/news/latvias-leader-warns-u-s-and-european-leaders-against-war-weariness-as-russias-assault-on-ukraine-drags-on/",
         "timestamp": 1656693450,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 1, 2022 12:37 PM"
     },
     {
@@ -419,7 +383,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/putins-war-has-killed-343-children-ukraine-prosecutor-general-says-1721097",
         "timestamp": 1656694265,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 1, 2022 12:51 PM"
     },
     {
@@ -428,7 +392,7 @@
         "category": "politics",
         "link": "https://thehill.com/blogs/in-the-know/3543836-jon-stewart-supreme-court-is-the-fox-news-of-justice/",
         "timestamp": 1656694277,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 1, 2022 12:51 PM"
     },
     {
@@ -437,7 +401,7 @@
         "category": "science",
         "link": "https://newatlas.com/biology/underground-carnivorous-pitcher-plant/",
         "timestamp": 1656695081,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 1, 2022 1:04 PM"
     },
     {
@@ -455,7 +419,7 @@
         "category": "florida",
         "link": "https://www.tampabay.com/news/health/2022/07/01/florida-bans-telehealth-abortions-but-can-it-enforce-the-law/",
         "timestamp": 1656695214,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 1, 2022 1:06 PM"
     },
     {
@@ -464,7 +428,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/campaign/3543867-71-percent-dont-want-biden-to-run-for-reelection-poll/",
         "timestamp": 1656695308,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 1, 2022 1:08 PM"
     },
     {
@@ -473,7 +437,7 @@
         "category": "nottheonion",
         "link": "https://www.wbrz.com/news/kangaroo-ran-loose-in-baton-rouge-area-after-parrot-set-it-free-owners-will-have-to-give-it-up",
         "timestamp": 1656695649,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "July 1, 2022 1:14 PM"
     },
     {
@@ -482,7 +446,7 @@
         "category": "science",
         "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0270494",
         "timestamp": 1656695677,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 1, 2022 1:14 PM"
     },
     {
@@ -500,8 +464,17 @@
         "category": "news",
         "link": "https://www.kcur.org/news/2022-07-01/missouri-attorney-general-says-hell-sue-kansas-city-over-financial-help-for-out-of-state-abortions",
         "timestamp": 1656697008,
-        "sentiment": -5,
+        "sentiment": -4,
         "published": "July 1, 2022 1:36 PM"
+    },
+    {
+        "title": "Meet Chief Val Demings, U.S. Congresswoman and candidate for United States Senate",
+        "domain": "mobilize.us",
+        "category": "miami",
+        "link": "https://www.mobilize.us/valdemings/event/475069/?force_banner=true&share_context=event_details&share_medium=copy_link",
+        "timestamp": 1656697394,
+        "sentiment": 2,
+        "published": "July 1, 2022 1:43 PM"
     },
     {
         "title": "I Got Fired for Unionizing at Starbucks. And I’d Do It Again.",
@@ -509,7 +482,7 @@
         "category": "nottheonion",
         "link": "https://jacobin.com/2022/07/starbucks-union-workers-united-firing-union-busting/",
         "timestamp": 1656698315,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "July 1, 2022 1:58 PM"
     },
     {
@@ -518,7 +491,7 @@
         "category": "nottheonion",
         "link": "https://www.theregister.com/2022/07/01/apple_lawyer_insider_trading/",
         "timestamp": 1656699398,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "July 1, 2022 2:16 PM"
     },
     {
@@ -536,7 +509,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/clarence-thomas-petition-impeach-roe-versus-wade-abortion-jan-6-nearly-million-1721025",
         "timestamp": 1656699736,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 1, 2022 2:22 PM"
     },
     {
@@ -554,7 +527,7 @@
         "category": "politics",
         "link": "https://www.dispatch.com/story/news/2022/07/01/ohio-girl-10-among-patients-going-indiana-abortion/7788415001/",
         "timestamp": 1656700980,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 1, 2022 2:43 PM"
     },
     {
@@ -563,7 +536,7 @@
         "category": "science",
         "link": "https://www.psypost.org/2022/07/people-who-lack-cognitive-reflectiveness-are-more-likely-to-believe-trumps-false-election-fraud-claims-study-finds-63415",
         "timestamp": 1656701729,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 1, 2022 2:55 PM"
     },
     {
@@ -581,7 +554,7 @@
         "category": "florida",
         "link": "https://www.businessinsider.com/desantis-signs-florida-bill-restricting-mail-voting-drop-boxes-2021-4",
         "timestamp": 1656702451,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 1, 2022 3:07 PM"
     },
     {
@@ -608,7 +581,7 @@
         "category": "politics",
         "link": "https://www.nytimes.com/2022/06/27/us/aoc-roe-abortion-scotus.html",
         "timestamp": 1656704011,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 1, 2022 3:33 PM"
     },
     {
@@ -644,7 +617,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/allen-kentucky-shooting-lance-storz-arrested/",
         "timestamp": 1656706353,
-        "sentiment": -5,
+        "sentiment": -4,
         "published": "July 1, 2022 4:12 PM"
     },
     {
@@ -653,7 +626,7 @@
         "category": "sports",
         "link": "https://www.espn.com/tennis/story/_/id/34178743/wimbledon-2022-john-isner-becomes-all-leading-ace-leader-atp-tour-history?platform=amp",
         "timestamp": 1656707455,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 1, 2022 4:30 PM"
     },
     {
@@ -680,7 +653,7 @@
         "category": "science",
         "link": "https://psypost.us10.list-manage.com/track/click?u=daf529354be7f32083812abb1&id=ae03bfdf26&e=bb420f0863",
         "timestamp": 1656710391,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 1, 2022 5:19 PM"
     },
     {
@@ -693,12 +666,21 @@
         "published": "July 1, 2022 5:27 PM"
     },
     {
+        "title": "33 countries call for suspension of Russian sports bodies over Ukraine war",
+        "domain": "polskieradio.pl",
+        "category": "worldnews",
+        "link": "https://www.polskieradio.pl/395/7790/Artykul/2992008,33-countries-call-for-suspension-of-Russian-sports-bodies-over-Ukraine-war",
+        "timestamp": 1656711560,
+        "sentiment": 2,
+        "published": "July 1, 2022 5:39 PM"
+    },
+    {
         "title": "Utah Republican apologises for saying women can control ‘intake of semen’",
         "domain": "theguardian.com",
         "category": "nottheonion",
         "link": "https://www.theguardian.com/us-news/2022/jul/01/utah-republican-women-control-intake-of-semen-abortion",
         "timestamp": 1656712149,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "July 1, 2022 5:49 PM"
     },
     {
@@ -707,8 +689,98 @@
         "category": "sports",
         "link": "https://twitter.com/surjansingh_/status/1542931698827943938?s=20&t=_TntB1wTXMxedlBXhzZa5Q",
         "timestamp": 1656712602,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 1, 2022 5:56 PM"
+    },
+    {
+        "title": "Study shows HIV speeds up body’s aging processes soon after infection. Changes at the DNA level can accelerate aging by nearly five years, UCLA-led research demonstrates",
+        "domain": "newsroom.ucla.edu",
+        "category": "science",
+        "link": "https://newsroom.ucla.edu/releases/hiv-speeds-up-biologic-changes-associated-with-aging",
+        "timestamp": 1656712799,
+        "sentiment": -2,
+        "published": "July 1, 2022 5:59 PM"
+    },
+    {
+        "title": "Delta Air Lines offered $10,000 to passengers willing to give up their seat on overbooked domestic flight",
+        "domain": "chron.com",
+        "category": "nottheonion",
+        "link": "https://www.chron.com/life/travel/article/Delta-Air-Lines-offered-10-000-to-passengers-17279222.php",
+        "timestamp": 1656713823,
+        "sentiment": -2,
+        "published": "July 1, 2022 6:17 PM"
+    },
+    {
+        "title": "Putin ally warns former USSR nations need to fall in line to stay sovereign",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/alexander-lukashenko-former-ussr-nations-align-comment-1721096?amp=1",
+        "timestamp": 1656713868,
+        "sentiment": 2,
+        "published": "July 1, 2022 6:17 PM"
+    },
+    {
+        "title": "Google Says It Will Delete Location Data When Users Visit Abortion Clinics",
+        "domain": "nytimes.com",
+        "category": "technology",
+        "link": "https://www.nytimes.com/2022/07/01/technology/google-says-it-will-delete-location-data-when-users-visit-abortion-clinics.html",
+        "timestamp": 1656714424,
+        "sentiment": 0,
+        "published": "July 1, 2022 6:27 PM"
+    },
+    {
+        "title": "Michael Vick Sued by Creditors for $1.2 Million in Loans, per Report",
+        "domain": "si.com",
+        "category": "sports",
+        "link": "https://www.si.com/nfl/2022/07/01/michael-vick-sued-over-1-2-million-in-loans-by-creditors",
+        "timestamp": 1656718810,
+        "sentiment": -2,
+        "published": "July 1, 2022 7:40 PM"
+    },
+    {
+        "title": "Fourth-generation vaping devices increase risk to immune cells: Some fourth-generation models—such as Juul devices—are associated with unique changes in markers of immune responses inside our airways, according to a new paper from UNC School of Medicine researchers.",
+        "domain": "atsjournals.org",
+        "category": "science",
+        "link": "https://www.atsjournals.org/doi/10.1164/rccm.202202-0373OC",
+        "timestamp": 1656655242,
+        "sentiment": 1,
+        "published": "July 1, 2022 2:00 AM"
+    },
+    {
+        "title": "Lakefront Trail Users Horrified As Cars Drive Onto Pedestrian And Bike Path To Avoid Traffic Jam",
+        "domain": "blockclubchicago.org",
+        "category": "nottheonion",
+        "link": "https://blockclubchicago.org/2022/06/30/lakefront-trail-users-horrified-as-cars-drive-on-to-pedestrian-and-bike-path-to-avoid-traffic-jam/",
+        "timestamp": 1656675606,
+        "sentiment": -4,
+        "published": "July 1, 2022 7:40 AM"
+    },
+    {
+        "title": "90% of Ukrainians support joining EU, 73% support joining NATO",
+        "domain": "eurointegration.com.ua",
+        "category": "worldnews",
+        "link": "https://www.eurointegration.com.ua/eng/news/2022/07/1/7142399/",
+        "timestamp": 1656676511,
+        "sentiment": 0,
+        "published": "July 1, 2022 7:55 AM"
+    },
+    {
+        "title": "Meta’s Dominance in the VR Market will be Challenged in the Coming Years, According to IDC",
+        "domain": "businesswire.com",
+        "category": "technology",
+        "link": "https://www.businesswire.com/news/home/20220630005151/en/Meta%E2%80%99s-Dominance-in-the-VR-Market-will-be-Challenged-in-the-Coming-Years-According-to-IDC",
+        "timestamp": 1656677279,
+        "sentiment": 0,
+        "published": "July 1, 2022 8:07 AM"
+    },
+    {
+        "title": "Germany’s move to legalise cannabis expected to create ‘domino effect’",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jul/01/germanys-move-to-legalise-cannabis-expected-to-create-domino-effect",
+        "timestamp": 1656678463,
+        "sentiment": 0,
+        "published": "July 1, 2022 8:27 AM"
     },
     {
         "title": "Proposal to teach slavery as 'involuntary relocation' sent to Texas education board",
@@ -862,15 +934,6 @@
         "timestamp": 1656696668,
         "sentiment": -4,
         "published": "July 1, 2022 1:31 PM"
-    },
-    {
-        "title": "Meet Chief Val Demings, U.S. Congresswoman and candidate for United States Senate",
-        "domain": "mobilize.us",
-        "category": "miami",
-        "link": "https://www.mobilize.us/valdemings/event/475069/?force_banner=true&share_context=event_details&share_medium=copy_link",
-        "timestamp": 1656697394,
-        "sentiment": 2,
-        "published": "July 1, 2022 1:43 PM"
     },
     {
         "title": "Google users 'horrified' by what comes up from simple search term",
