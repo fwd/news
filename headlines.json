@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/proposal-teach-slavery-involuntary-relocation-sent-texas-education-boa-rcna36273",
         "timestamp": 1656649608,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "July 1, 2022 12:26 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jul/01/russian-missile-strikes-on-odesa-apartments-and-recreation-centre-kill-17-ukraine-says",
         "timestamp": 1656651495,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 1, 2022 12:58 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "science",
         "link": "https://www.atsjournals.org/doi/10.1164/rccm.202202-0373OC",
         "timestamp": 1656655242,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 1, 2022 2:00 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/MattiMaasikas/status/1542762739143254016?t=KlmUgkTzLsB6bkS0B9jZ8w&s=19",
         "timestamp": 1656660121,
-        "sentiment": -8,
+        "sentiment": 0,
         "published": "July 1, 2022 3:22 AM"
     },
     {
@@ -88,6 +88,15 @@
         "timestamp": 1656661238,
         "sentiment": -2,
         "published": "July 1, 2022 3:40 AM"
+    },
+    {
+        "title": "Russia Arrests Scientist for Alleged Collaboration With Chinese Secret Services",
+        "domain": "usnews.com",
+        "category": "worldnews",
+        "link": "https://www.usnews.com/news/world/articles/2022-07-01/russia-arrests-scientist-for-alleged-collaboration-with-chinese-secret-services",
+        "timestamp": 1656662161,
+        "sentiment": 3,
+        "published": "July 1, 2022 3:56 AM"
     },
     {
         "title": "SpaceX Wins Permission to Connect Planes, Boats and Other Vehicles to Starlink Internet Service",
@@ -104,8 +113,71 @@
         "category": "science",
         "link": "https://www.eurekalert.org/news-releases/957639",
         "timestamp": 1656664053,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 1, 2022 4:27 AM"
+    },
+    {
+        "title": "Charges dropped against man who nailed Putin doll to sacred tree in Japan as part of death curse",
+        "domain": "sg.news.yahoo.com",
+        "category": "ukraine",
+        "link": "https://sg.news.yahoo.com/charges-dropped-against-man-nailed-214900454.html",
+        "timestamp": 1656666937,
+        "sentiment": 0,
+        "published": "July 1, 2022 5:15 AM"
+    },
+    {
+        "title": "People with no mind’s eye have less vivid and detailed memories. Researchers report that aphantasics have less detailed and rich memories for events in their lives: a finding that not only reveals more about the condition, but also highlights the key role of mental imagery in memory generally.",
+        "domain": "digest.bps.org.uk",
+        "category": "science",
+        "link": "https://digest.bps.org.uk/2022/07/01/people-with-no-minds-eye-have-less-vivid-and-detailed-memories/",
+        "timestamp": 1656669412,
+        "sentiment": 0,
+        "published": "July 1, 2022 5:56 AM"
+    },
+    {
+        "title": "Palestinian Authority routinely tortures detainees, says rights group",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jul/01/palestinian-authority-routinely-tortures-detainees-says-human-rights-watch",
+        "timestamp": 1656670557,
+        "sentiment": 3,
+        "published": "July 1, 2022 6:15 AM"
+    },
+    {
+        "title": "One Dead and 22 Have Been Hospitalized in Listeria Outbreak Tied to Florida",
+        "domain": "nytimes.com",
+        "category": "florida",
+        "link": "https://www.nytimes.com/2022/06/30/science/listeria-outbreak-florida.html",
+        "timestamp": 1656671837,
+        "sentiment": 2,
+        "published": "July 1, 2022 6:37 AM"
+    },
+    {
+        "title": "Mark Zuckerberg told Meta staff he's upping performance goals to get rid of employees who 'shouldn't be here,' report says.",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/mark-zuckerberg-upping-goals-thin-out-meta-staff-2022-7",
+        "timestamp": 1656671901,
+        "sentiment": 4,
+        "published": "July 1, 2022 6:38 AM"
+    },
+    {
+        "title": "Twitter suspends Jordan Peterson's account after comments about Elliot Page",
+        "domain": "marca.com",
+        "category": "UpliftingNews",
+        "link": "https://www.marca.com/en/lifestyle/celebrities/2022/06/30/62be1b74e2704e92438b456c.html",
+        "timestamp": 1656673288,
+        "sentiment": 0,
+        "published": "July 1, 2022 7:01 AM"
+    },
+    {
+        "title": "Pac-12 powers kick start more conference realignment",
+        "domain": "nbcnews.tribe.so",
+        "category": "sports",
+        "link": "https://nbcnews.tribe.so/group/pac-12-powers-kick-start-more-conference-realignment",
+        "timestamp": 1656675155,
+        "sentiment": 2,
+        "published": "July 1, 2022 7:32 AM"
     },
     {
         "title": "Another giant African snail sighting forces Florida county into quarantine",
@@ -880,15 +952,6 @@
         "timestamp": 1656632908,
         "sentiment": 0,
         "published": "June 30, 2022 7:48 PM"
-    },
-    {
-        "title": "Twitter suspends Jordan Peterson's account after comments about Elliot Page",
-        "domain": "marca.com",
-        "category": "news",
-        "link": "https://www.marca.com/en/lifestyle/celebrities/2022/06/30/62be1b74e2704e92438b456c.html",
-        "timestamp": 1656634133,
-        "sentiment": -2,
-        "published": "June 30, 2022 8:08 PM"
     },
     {
         "title": "Greece proceeds with purchase of 20 Lockheed F-35 fighter jets",
