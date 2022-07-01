@@ -27,21 +27,12 @@
         "published": "July 1, 2022 12:58 AM"
     },
     {
-        "title": "Moroccan Parliamentary Group Proposes Law Granting Women Paid Menstrual Leave",
-        "domain": "moroccoworldnews.com",
-        "category": "UpliftingNews",
-        "link": "https://www.moroccoworldnews.com/2022/06/350018/moroccan-parliamentary-group-proposes-law-granting-women-paid-menstrual-leave",
-        "timestamp": 1656653755,
-        "sentiment": 0,
-        "published": "July 1, 2022 1:35 AM"
-    },
-    {
         "title": "Germany to return looted artifacts to Africa",
         "domain": "m.dw.com",
         "category": "UpliftingNews",
         "link": "https://m.dw.com/en/germany-to-return-looted-artifacts-to-africa/a-62300419",
         "timestamp": 1656654222,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 1, 2022 1:43 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/magnum-pi-renewed-season-5-6-nbc-1235055173/",
         "timestamp": 1656655810,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 1, 2022 2:10 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/los-angeles-film-tv-productions-masks-1235055066/",
         "timestamp": 1656661238,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 1, 2022 3:40 AM"
     },
     {
@@ -108,31 +99,13 @@
         "published": "July 1, 2022 4:27 AM"
     },
     {
-        "title": "Hong Kong's True Democracy Started After Reuniting With China: Xi Jinping",
-        "domain": "ndtv.com",
-        "category": "nottheonion",
-        "link": "https://www.ndtv.com/world-news/hong-kongs-true-democracy-started-after-reuniting-with-china-xi-jinping-3117353",
-        "timestamp": 1656664971,
-        "sentiment": 2,
-        "published": "July 1, 2022 4:42 AM"
-    },
-    {
         "title": "Another giant African snail sighting forces Florida county into quarantine",
         "domain": "news.yahoo.com",
         "category": "florida",
         "link": "https://news.yahoo.com/another-giant-african-snail-sighting-165620141.html",
         "timestamp": 1656666022,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 1, 2022 5:00 AM"
-    },
-    {
-        "title": "Charges dropped against man who nailed Putin doll to sacred tree in Japan as part of death curse",
-        "domain": "sg.news.yahoo.com",
-        "category": "ukraine",
-        "link": "https://sg.news.yahoo.com/charges-dropped-against-man-nailed-214900454.html",
-        "timestamp": 1656666937,
-        "sentiment": -3,
-        "published": "July 1, 2022 5:15 AM"
     },
     {
         "title": "People with no mind’s eye have less vivid and detailed memories. Researchers report that aphantasics have less detailed and rich memories for events in their lives: a finding that not only reveals more about the condition, but also highlights the key role of mental imagery in memory generally.",
@@ -142,6 +115,15 @@
         "timestamp": 1656669412,
         "sentiment": -2,
         "published": "July 1, 2022 5:56 AM"
+    },
+    {
+        "title": "BBC - US stocks see worst first half drop in more than 50 years",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/business-62005360",
+        "timestamp": 1656670514,
+        "sentiment": -4,
+        "published": "July 1, 2022 6:15 AM"
     },
     {
         "title": "Palestinian Authority routinely tortures detainees, says rights group",
@@ -158,7 +140,7 @@
         "category": "florida",
         "link": "https://www.nytimes.com/2022/06/30/science/listeria-outbreak-florida.html",
         "timestamp": 1656671837,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 1, 2022 6:37 AM"
     },
     {
@@ -167,7 +149,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/07/01/naomi-klein-us-midst-shock-and-awe-judicial-coup",
         "timestamp": 1656671845,
-        "sentiment": 0,
+        "sentiment": 8,
         "published": "July 1, 2022 6:37 AM"
     },
     {
@@ -221,7 +203,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/07/01/our-fourth-of-july-nightmare-a-republic-in-the-tightening-grip-of-minority-rule/",
         "timestamp": 1656674177,
-        "sentiment": 0,
+        "sentiment": 8,
         "published": "July 1, 2022 7:16 AM"
     },
     {
@@ -230,7 +212,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/07/01/schools-out-forever-arizona-moves-to-public-education-with-new-universal-voucher-law/",
         "timestamp": 1656675064,
-        "sentiment": 0,
+        "sentiment": 8,
         "published": "July 1, 2022 7:31 AM"
     },
     {
@@ -239,7 +221,7 @@
         "category": "nottheonion",
         "link": "https://blockclubchicago.org/2022/06/30/lakefront-trail-users-horrified-as-cars-drive-on-to-pedestrian-and-bike-path-to-avoid-traffic-jam/",
         "timestamp": 1656675606,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "July 1, 2022 7:40 AM"
     },
     {
@@ -248,7 +230,7 @@
         "category": "UpliftingNews",
         "link": "https://www.reuters.com/world/europe/polish-court-rules-that-four-lgbt-free-zones-must-be-abolished-2022-06-28/",
         "timestamp": 1656676262,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 1, 2022 7:51 AM"
     },
     {
@@ -257,7 +239,7 @@
         "category": "politics",
         "link": "https://www.usatoday.com/story/news/politics/2022/06/30/biden-mcconnell-deal-judge-democrats/7782386001/",
         "timestamp": 1656676454,
-        "sentiment": 0,
+        "sentiment": 8,
         "published": "July 1, 2022 7:54 AM"
     },
     {
@@ -288,6 +270,15 @@
         "published": "July 1, 2022 7:56 AM"
     },
     {
+        "title": "Ukraine’s Armed Forces launch up to 10 airstrikes on Russian positions in Luhansk region",
+        "domain": "ukrinform.net",
+        "category": "ukraine",
+        "link": "https://www.ukrinform.net/rubric-ato/3519643-ukraines-armed-forces-launch-up-to-10-airstrikes-on-russian-positions-in-luhansk-region.html",
+        "timestamp": 1656676690,
+        "sentiment": -3,
+        "published": "July 1, 2022 7:58 AM"
+    },
+    {
         "title": "Meta’s Dominance in the VR Market will be Challenged in the Coming Years, According to IDC",
         "domain": "businesswire.com",
         "category": "technology",
@@ -302,7 +293,7 @@
         "category": "UpliftingNews",
         "link": "https://furtherafrica.com/2022/07/01/how-solar-power-is-transforming-african-farms/",
         "timestamp": 1656677467,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 1, 2022 8:11 AM"
     },
     {
@@ -311,7 +302,7 @@
         "category": "UpliftingNews",
         "link": "https://khn.org/news/article/health-insurers-price-transparency-public-rates-costs/",
         "timestamp": 1656677551,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 1, 2022 8:12 AM"
     },
     {
@@ -320,17 +311,8 @@
         "category": "politics",
         "link": "https://www.politifact.com/factchecks/2022/jun/24/joe-biden/roe-reversal-ending-national-access-abortion-makes/",
         "timestamp": 1656677631,
-        "sentiment": 0,
+        "sentiment": 8,
         "published": "July 1, 2022 8:13 AM"
-    },
-    {
-        "title": "Russia admits it's running out of weapons in Ukraine war",
-        "domain": "newsweek.com",
-        "category": "worldnews",
-        "link": "https://www.newsweek.com/russia-putin-admits-running-out-weapons-ukraine-war-invasion-state-duma-law-1720957",
-        "timestamp": 1656678317,
-        "sentiment": -2,
-        "published": "July 1, 2022 8:25 AM"
     },
     {
         "title": "Researchers discover new leukemia-killing compounds: Potential of mitochondria-targeted chemotherapies",
@@ -338,7 +320,7 @@
         "category": "UpliftingNews",
         "link": "https://www.sciencedaily.com/releases/2022/06/220630160035.htm",
         "timestamp": 1656678408,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 1, 2022 8:26 AM"
     },
     {
@@ -347,8 +329,17 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/trump-allies-paid-multiple-jan-6-witness-legal-fees-nyt-2022-7",
         "timestamp": 1656679087,
-        "sentiment": 0,
+        "sentiment": 8,
         "published": "July 1, 2022 8:38 AM"
+    },
+    {
+        "title": "Mark Meadows’ associate threatened ex-White House aide before her testimony",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2022/jun/30/jan-6-hearings-trump-mark-meadows-cassidy-hutchinson-threatened",
+        "timestamp": 1656679146,
+        "sentiment": -4,
+        "published": "July 1, 2022 8:39 AM"
     },
     {
         "title": "Argentina approved new HIV, Hepatitis and Tuberculosis law for social care and protection",
@@ -356,7 +347,7 @@
         "category": "UpliftingNews",
         "link": "https://agenciapresentes.org/2022/06/30/argentina-aprobo-nueva-ley-de-vih-hepatitis-tuberculosis-e-its/",
         "timestamp": 1656679365,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 1, 2022 8:42 AM"
     },
     {
@@ -374,8 +365,26 @@
         "category": "nottheonion",
         "link": "https://variety.com/2022/music/news/fight-eagles-concert-take-it-easy-1235306918/",
         "timestamp": 1656679850,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "July 1, 2022 8:50 AM"
+    },
+    {
+        "title": "The Christian Right is winning at the Supreme Court, but not in public opinion",
+        "domain": "npr.org",
+        "category": "politics",
+        "link": "https://www.npr.org/2022/07/01/1109141110/the-christian-right-is-winning-cultural-battles-while-public-opinion-disagrees",
+        "timestamp": 1656680986,
+        "sentiment": 8,
+        "published": "July 1, 2022 9:09 AM"
+    },
+    {
+        "title": "Nigerian senator and wife charged with plotting to get child to UK to harvest organs",
+        "domain": "cnn.com",
+        "category": "nottheonion",
+        "link": "https://www.cnn.com/2022/06/24/africa/ekweremadu-wife-arrested-uk-intl/index.html",
+        "timestamp": 1656681027,
+        "sentiment": -1,
+        "published": "July 1, 2022 9:10 AM"
     },
     {
         "title": "School's out forever: Arizona moves \"to kill public education\" with new universal voucher law — Families who bail on public school will get $7,000 per kid in GOP's new scheme. Desantis has entered the chat.",
@@ -383,7 +392,7 @@
         "category": "florida",
         "link": "https://www.salon.com/2022/07/01/schools-out-forever-arizona-moves-to-public-education-with-new-universal-voucher-law/",
         "timestamp": 1656681153,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 1, 2022 9:12 AM"
     },
     {
@@ -396,15 +405,6 @@
         "published": "July 1, 2022 9:15 AM"
     },
     {
-        "title": "Predatory lenders are making money off rising gas and food prices",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/06/23/business/money/payday-predatory-lending-inflation-gas/index.html",
-        "timestamp": 1656681453,
-        "sentiment": -4,
-        "published": "July 1, 2022 9:17 AM"
-    },
-    {
         "title": "Dissolving implantable device relieves pain without drugs. New device has the potential to provide an alternative to opioids and other highly addictive drugs",
         "domain": "eurekalert.org",
         "category": "science",
@@ -414,13 +414,13 @@
         "published": "July 1, 2022 9:22 AM"
     },
     {
-        "title": "U.S. doctors see spike in vasectomies following end of Roe v. Wade: report - National | Globalnews.ca",
-        "domain": "globalnews.ca",
-        "category": "UpliftingNews",
-        "link": "https://globalnews.ca/news/8958704/us-vasectomy-increase-roe-v-wade/",
-        "timestamp": 1656682794,
-        "sentiment": 0,
-        "published": "July 1, 2022 9:39 AM"
+        "title": "Bisexual daughter cuts ties to her dad. He’s a GOP state senator who is “taking my rights” away",
+        "domain": "lgbtqnation.com",
+        "category": "politics",
+        "link": "https://www.lgbtqnation.com/2022/07/bisexual-daughter-cuts-ties-dad-hes-gop-state-senator-taking-rights-away/",
+        "timestamp": 1656682293,
+        "sentiment": 8,
+        "published": "July 1, 2022 9:31 AM"
     },
     {
         "title": "US basketball star Brittney Griner appears in Russian court on drug smuggling charges",
@@ -428,17 +428,17 @@
         "category": "sports",
         "link": "https://www.cnn.com/2022/07/01/europe/russia-brittney-griner-trial-intl/index.html",
         "timestamp": 1656683026,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 1, 2022 9:43 AM"
     },
     {
-        "title": "Florida Judge finds House Bill 5 that restricts abortion unconstitutional.",
-        "domain": "tiktok.com",
-        "category": "florida",
-        "link": "https://www.tiktok.com/t/ZTRR1vcAQ/?k=1",
-        "timestamp": 1656683408,
+        "title": "Putin Says Russia and Belarus Moving Towards Unification",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/putin-russia-belarus-moving-towards-unification-western-sanctions-ukraine-war-1720985",
+        "timestamp": 1656683650,
         "sentiment": -2,
-        "published": "July 1, 2022 9:50 AM"
+        "published": "July 1, 2022 9:54 AM"
     },
     {
         "title": "Telecom monopolies are poised to waste the U.S.’s massive new investment in high-speed broadband",
@@ -464,8 +464,35 @@
         "category": "television",
         "link": "https://www.npr.org/2022/07/01/1105295933/the-simpsons-production-workers-say-they-deserve-a-place-at-the-table",
         "timestamp": 1656684832,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 1, 2022 10:13 AM"
+    },
+    {
+        "title": "India bans many single-use plastics to tackle waste",
+        "domain": "france24.com",
+        "category": "UpliftingNews",
+        "link": "https://www.france24.com/en/live-news/20220701-india-bans-many-single-use-plastics-to-tackle-waste",
+        "timestamp": 1656685086,
+        "sentiment": -1,
+        "published": "July 1, 2022 10:18 AM"
+    },
+    {
+        "title": "California lawmakers OK law to phase out single-use plastics - Los Angeles Times",
+        "domain": "latimes.com",
+        "category": "UpliftingNews",
+        "link": "https://www.latimes.com/environment/story/2022-06-30/california-new-law-phase-out-single-use-plastics-containers",
+        "timestamp": 1656685871,
+        "sentiment": -1,
+        "published": "July 1, 2022 10:31 AM"
+    },
+    {
+        "title": "As Florida's 'Don't Say Gay' law takes effect, schools roll out LGBTQ restrictions",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/nbc-out/out-news/floridas-dont-say-gay-law-takes-effect-schools-roll-lgbtq-restrictions-rcna36143",
+        "timestamp": 1656686030,
+        "sentiment": -4,
+        "published": "July 1, 2022 10:33 AM"
     },
     {
         "title": "USC and UCLA Accepted into Big Ten, Effective in 2024",
@@ -473,8 +500,80 @@
         "category": "sports",
         "link": "https://nbcnews.tribe.so/group/pac-12-powers-kick-start-more-conference-realignment",
         "timestamp": 1656686437,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 1, 2022 10:40 AM"
+    },
+    {
+        "title": "Simone Biles, Megan Rapinoe set to receive the Presidential Medal of Freedom",
+        "domain": "espn.com",
+        "category": "sports",
+        "link": "https://www.espn.com/olympics/story/_/id/34179511/simone-biles-megan-rapinoe-recipients-presidential-medal-freedom",
+        "timestamp": 1656690076,
+        "sentiment": 3,
+        "published": "July 1, 2022 11:41 AM"
+    },
+    {
+        "title": "Moroccan Parliamentary Group Proposes Law Granting Women Paid Menstrual Leave",
+        "domain": "moroccoworldnews.com",
+        "category": "UpliftingNews",
+        "link": "https://www.moroccoworldnews.com/2022/06/350018/moroccan-parliamentary-group-proposes-law-granting-women-paid-menstrual-leave",
+        "timestamp": 1656653755,
+        "sentiment": 0,
+        "published": "July 1, 2022 1:35 AM"
+    },
+    {
+        "title": "Hong Kong's True Democracy Started After Reuniting With China: Xi Jinping",
+        "domain": "ndtv.com",
+        "category": "nottheonion",
+        "link": "https://www.ndtv.com/world-news/hong-kongs-true-democracy-started-after-reuniting-with-china-xi-jinping-3117353",
+        "timestamp": 1656664971,
+        "sentiment": 2,
+        "published": "July 1, 2022 4:42 AM"
+    },
+    {
+        "title": "Charges dropped against man who nailed Putin doll to sacred tree in Japan as part of death curse",
+        "domain": "sg.news.yahoo.com",
+        "category": "ukraine",
+        "link": "https://sg.news.yahoo.com/charges-dropped-against-man-nailed-214900454.html",
+        "timestamp": 1656666937,
+        "sentiment": -3,
+        "published": "July 1, 2022 5:15 AM"
+    },
+    {
+        "title": "Russia admits it's running out of weapons in Ukraine war",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/russia-putin-admits-running-out-weapons-ukraine-war-invasion-state-duma-law-1720957",
+        "timestamp": 1656678317,
+        "sentiment": -2,
+        "published": "July 1, 2022 8:25 AM"
+    },
+    {
+        "title": "Predatory lenders are making money off rising gas and food prices",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/06/23/business/money/payday-predatory-lending-inflation-gas/index.html",
+        "timestamp": 1656681453,
+        "sentiment": -4,
+        "published": "July 1, 2022 9:17 AM"
+    },
+    {
+        "title": "U.S. doctors see spike in vasectomies following end of Roe v. Wade: report - National | Globalnews.ca",
+        "domain": "globalnews.ca",
+        "category": "UpliftingNews",
+        "link": "https://globalnews.ca/news/8958704/us-vasectomy-increase-roe-v-wade/",
+        "timestamp": 1656682794,
+        "sentiment": 0,
+        "published": "July 1, 2022 9:39 AM"
+    },
+    {
+        "title": "Florida Judge finds House Bill 5 that restricts abortion unconstitutional.",
+        "domain": "tiktok.com",
+        "category": "florida",
+        "link": "https://www.tiktok.com/t/ZTRR1vcAQ/?k=1",
+        "timestamp": 1656683408,
+        "sentiment": -2,
+        "published": "July 1, 2022 9:50 AM"
     },
     {
         "title": "The EU flag arrives at the Rada, to prolonged standing ovation",
@@ -9295,15 +9394,6 @@
         "timestamp": 1656079055,
         "sentiment": -5,
         "published": "June 24, 2022 9:57 AM"
-    },
-    {
-        "title": "Nigerian senator and wife charged with plotting to get child to UK to harvest organs",
-        "domain": "edition.cnn.com",
-        "category": "worldnews",
-        "link": "https://edition.cnn.com/2022/06/24/africa/ekweremadu-wife-arrested-uk-intl/index.html",
-        "timestamp": 1656080238,
-        "sentiment": 0,
-        "published": "June 24, 2022 10:17 AM"
     },
     {
         "title": "Car bomb by Ukrainian resistance kills Moscow-backed official in occupied Kherson",
