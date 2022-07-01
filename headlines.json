@@ -5,7 +5,7 @@
         "category": "nottheonion",
         "link": "https://www.star-telegram.com/news/state/texas/article263021718.html",
         "timestamp": 1656648287,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 1, 2022 12:04 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jul/01/russian-missile-strikes-on-odesa-apartments-and-recreation-centre-kill-17-ukraine-says",
         "timestamp": 1656651495,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 1, 2022 12:58 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "science",
         "link": "https://www.atsjournals.org/doi/10.1164/rccm.202202-0373OC",
         "timestamp": 1656655242,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 1, 2022 2:00 AM"
     },
     {
@@ -68,8 +68,17 @@
         "category": "technology",
         "link": "https://www.space.com/james-webb-space-telescope-first-images-teaser",
         "timestamp": 1656658013,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "July 1, 2022 2:46 AM"
+    },
+    {
+        "title": "The EU flag arrives at the Rada, to prolonged standing ovation",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/MattiMaasikas/status/1542762739143254016?t=KlmUgkTzLsB6bkS0B9jZ8w&s=19",
+        "timestamp": 1656660121,
+        "sentiment": -8,
+        "published": "July 1, 2022 3:22 AM"
     },
     {
         "title": "Los Angeles Film & TV Productions Must Now Require Masking Indoors",
@@ -81,13 +90,31 @@
         "published": "July 1, 2022 3:40 AM"
     },
     {
+        "title": "SpaceX Wins Permission to Connect Planes, Boats and Other Vehicles to Starlink Internet Service",
+        "domain": "archive.ph",
+        "category": "technology",
+        "link": "https://archive.ph/5KK6O",
+        "timestamp": 1656663752,
+        "sentiment": 4,
+        "published": "July 1, 2022 4:22 AM"
+    },
+    {
         "title": "New study reveals impact of plastic on small mammals, as four out of seven species identified as ‘plastic positive’",
         "domain": "eurekalert.org",
         "category": "science",
         "link": "https://www.eurekalert.org/news-releases/957639",
         "timestamp": 1656664053,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 1, 2022 4:27 AM"
+    },
+    {
+        "title": "Another giant African snail sighting forces Florida county into quarantine",
+        "domain": "news.yahoo.com",
+        "category": "florida",
+        "link": "https://news.yahoo.com/another-giant-african-snail-sighting-165620141.html",
+        "timestamp": 1656666022,
+        "sentiment": 0,
+        "published": "July 1, 2022 5:00 AM"
     },
     {
         "title": "Convoy protesters plan to stand up to high fuel prices by filling up their cars and driving around New Zealand",
