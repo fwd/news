@@ -9,15 +9,6 @@
         "published": "July 1, 2022 12:26 AM"
     },
     {
-        "title": "The U.S. population is continuing a two-decade trajectory during which it has grown older and less White, according to Census Bureau data released Thursday.",
-        "domain": "washingtonpost.com",
-        "category": "news",
-        "link": "https://www.washingtonpost.com/dc-md-va/2022/06/30/census-us-population-older-more-diverse/",
-        "timestamp": 1656649965,
-        "sentiment": -4,
-        "published": "July 1, 2022 12:32 AM"
-    },
-    {
         "title": "Russian missile strikes on Odesa apartments and recreation centre kill 17, Ukraine says",
         "domain": "theguardian.com",
         "category": "worldnews",
@@ -41,17 +32,8 @@
         "category": "science",
         "link": "https://www.atsjournals.org/doi/10.1164/rccm.202202-0373OC",
         "timestamp": 1656655242,
-        "sentiment": -2,
-        "published": "July 1, 2022 2:00 AM"
-    },
-    {
-        "title": "‘Magnum P.I.’ Rescued By NBC With 2-Season, 20-Episode Order",
-        "domain": "deadline.com",
-        "category": "television",
-        "link": "https://deadline.com/2022/06/magnum-pi-renewed-season-5-6-nbc-1235055173/",
-        "timestamp": 1656655810,
         "sentiment": 0,
-        "published": "July 1, 2022 2:10 AM"
+        "published": "July 1, 2022 2:00 AM"
     },
     {
         "title": "James Webb Space Telescope 1st photos will include 'deepest image of our universe'",
@@ -95,7 +77,7 @@
         "category": "science",
         "link": "https://www.eurekalert.org/news-releases/957639",
         "timestamp": 1656664053,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 1, 2022 4:27 AM"
     },
     {
@@ -113,7 +95,7 @@
         "category": "science",
         "link": "https://digest.bps.org.uk/2022/07/01/people-with-no-minds-eye-have-less-vivid-and-detailed-memories/",
         "timestamp": 1656669412,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 1, 2022 5:56 AM"
     },
     {
@@ -149,7 +131,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/07/01/naomi-klein-us-midst-shock-and-awe-judicial-coup",
         "timestamp": 1656671845,
-        "sentiment": 8,
+        "sentiment": 0,
         "published": "July 1, 2022 6:37 AM"
     },
     {
@@ -194,7 +176,7 @@
         "category": "science",
         "link": "https://www.the-scientist.com/news-opinion/grape-doling-tourists-gave-endangered-iguanas-high-blood-sugar-69931",
         "timestamp": 1656673634,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 1, 2022 7:07 AM"
     },
     {
@@ -203,7 +185,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/07/01/our-fourth-of-july-nightmare-a-republic-in-the-tightening-grip-of-minority-rule/",
         "timestamp": 1656674177,
-        "sentiment": 8,
+        "sentiment": 0,
         "published": "July 1, 2022 7:16 AM"
     },
     {
@@ -212,7 +194,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/07/01/schools-out-forever-arizona-moves-to-public-education-with-new-universal-voucher-law/",
         "timestamp": 1656675064,
-        "sentiment": 8,
+        "sentiment": 0,
         "published": "July 1, 2022 7:31 AM"
     },
     {
@@ -239,7 +221,7 @@
         "category": "politics",
         "link": "https://www.usatoday.com/story/news/politics/2022/06/30/biden-mcconnell-deal-judge-democrats/7782386001/",
         "timestamp": 1656676454,
-        "sentiment": 8,
+        "sentiment": 0,
         "published": "July 1, 2022 7:54 AM"
     },
     {
@@ -266,7 +248,7 @@
         "category": "science",
         "link": "https://www.sciencedirect.com/science/article/abs/pii/S0092867422006419",
         "timestamp": 1656676617,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 1, 2022 7:56 AM"
     },
     {
@@ -275,8 +257,17 @@
         "category": "ukraine",
         "link": "https://www.ukrinform.net/rubric-ato/3519643-ukraines-armed-forces-launch-up-to-10-airstrikes-on-russian-positions-in-luhansk-region.html",
         "timestamp": 1656676690,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "July 1, 2022 7:58 AM"
+    },
+    {
+        "title": "​Canada Supply Ukraine with Brand New Armoured Combat Support Vehicles, High-Resolution Cameras for Bayraktar TB2 UAV | Defense Express",
+        "domain": "en.defence-ua.com",
+        "category": "ukraine",
+        "link": "https://en.defence-ua.com/industries/canada_supply_ukraine_with_brand_new_armoured_combat_support_vehicles_high_resolution_cameras_for_bayraktar_tb2_uav-3437.html",
+        "timestamp": 1656677014,
+        "sentiment": 1,
+        "published": "July 1, 2022 8:03 AM"
     },
     {
         "title": "Meta’s Dominance in the VR Market will be Challenged in the Coming Years, According to IDC",
@@ -306,15 +297,6 @@
         "published": "July 1, 2022 8:12 AM"
     },
     {
-        "title": "The Supreme Court decision overturning Roe v. Wade \"made the United States an outlier among developed nations in the world\" on abortion rights.",
-        "domain": "politifact.com",
-        "category": "politics",
-        "link": "https://www.politifact.com/factchecks/2022/jun/24/joe-biden/roe-reversal-ending-national-access-abortion-makes/",
-        "timestamp": 1656677631,
-        "sentiment": 8,
-        "published": "July 1, 2022 8:13 AM"
-    },
-    {
         "title": "Researchers discover new leukemia-killing compounds: Potential of mitochondria-targeted chemotherapies",
         "domain": "sciencedaily.com",
         "category": "UpliftingNews",
@@ -329,7 +311,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/trump-allies-paid-multiple-jan-6-witness-legal-fees-nyt-2022-7",
         "timestamp": 1656679087,
-        "sentiment": 8,
+        "sentiment": 0,
         "published": "July 1, 2022 8:38 AM"
     },
     {
@@ -374,7 +356,7 @@
         "category": "politics",
         "link": "https://www.npr.org/2022/07/01/1109141110/the-christian-right-is-winning-cultural-battles-while-public-opinion-disagrees",
         "timestamp": 1656680986,
-        "sentiment": 8,
+        "sentiment": 0,
         "published": "July 1, 2022 9:09 AM"
     },
     {
@@ -410,7 +392,7 @@
         "category": "science",
         "link": "https://www.eurekalert.org/news-releases/957142",
         "timestamp": 1656681758,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 1, 2022 9:22 AM"
     },
     {
@@ -419,8 +401,17 @@
         "category": "politics",
         "link": "https://www.lgbtqnation.com/2022/07/bisexual-daughter-cuts-ties-dad-hes-gop-state-senator-taking-rights-away/",
         "timestamp": 1656682293,
-        "sentiment": 8,
+        "sentiment": 0,
         "published": "July 1, 2022 9:31 AM"
+    },
+    {
+        "title": "Outlander author Diana Gabaldon discloses that season seven could be the last",
+        "domain": "scottishdailyexpress.co.uk",
+        "category": "television",
+        "link": "https://www.scottishdailyexpress.co.uk/tv/outlander-author-diana-gabaldon-discloses-27358528",
+        "timestamp": 1656682336,
+        "sentiment": 0,
+        "published": "July 1, 2022 9:32 AM"
     },
     {
         "title": "US basketball star Brittney Griner appears in Russian court on drug smuggling charges",
@@ -428,7 +419,7 @@
         "category": "sports",
         "link": "https://www.cnn.com/2022/07/01/europe/russia-brittney-griner-trial-intl/index.html",
         "timestamp": 1656683026,
-        "sentiment": 3,
+        "sentiment": 2,
         "published": "July 1, 2022 9:43 AM"
     },
     {
@@ -455,7 +446,7 @@
         "category": "science",
         "link": "https://www.psychnewsdaily.com/reddit-toxic-usernames-and-toxic-content/",
         "timestamp": 1656684413,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 1, 2022 10:06 AM"
     },
     {
@@ -495,13 +486,40 @@
         "published": "July 1, 2022 10:33 AM"
     },
     {
-        "title": "USC and UCLA Accepted into Big Ten, Effective in 2024",
-        "domain": "nbcnews.tribe.so",
-        "category": "sports",
-        "link": "https://nbcnews.tribe.so/group/pac-12-powers-kick-start-more-conference-realignment",
-        "timestamp": 1656686437,
-        "sentiment": 3,
-        "published": "July 1, 2022 10:40 AM"
+        "title": "Is Biden a Man Out of Time? Democrats have a growing sense of panic about conservative advances but are not seeing a president who shares their urgency.",
+        "domain": "theatlantic.com",
+        "category": "politics",
+        "link": "https://www.theatlantic.com/politics/archive/2022/06/biden-roe-response-democrats-2024-election/661449/",
+        "timestamp": 1656687335,
+        "sentiment": 0,
+        "published": "July 1, 2022 10:55 AM"
+    },
+    {
+        "title": "'Why Women Kill' Canceled at Paramount+ Despite Season 3 Renewal",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/why-women-kill-canceled-paramount-plus-1235307752/",
+        "timestamp": 1656687670,
+        "sentiment": 0,
+        "published": "July 1, 2022 11:01 AM"
+    },
+    {
+        "title": "Six months in space leads to a decade's worth of long-term bone loss. During space missions lasting six months or longer, astronauts can experience bone loss equivalent to two decades of aging. A year of recovery in Earth’s gravity rebuilds about half of that lost bone strength, researchers report.",
+        "domain": "sciencenews.org",
+        "category": "science",
+        "link": "https://www.sciencenews.org/article/space-bone-loss-density-astronaut-recovery-gravity",
+        "timestamp": 1656688106,
+        "sentiment": 0,
+        "published": "July 1, 2022 11:08 AM"
+    },
+    {
+        "title": "71-year-old woman becomes second person this week to be gored by bison at Yellowstone",
+        "domain": "thehill.com",
+        "category": "worldnews",
+        "link": "https://thehill.com/homenews/state-watch/3543762-71-year-old-woman-becomes-second-person-this-week-to-be-gored-by-bison-at-yellowstone/",
+        "timestamp": 1656688155,
+        "sentiment": -2,
+        "published": "July 1, 2022 11:09 AM"
     },
     {
         "title": "Simone Biles, Megan Rapinoe set to receive the Presidential Medal of Freedom",
@@ -509,8 +527,62 @@
         "category": "sports",
         "link": "https://www.espn.com/olympics/story/_/id/34179511/simone-biles-megan-rapinoe-recipients-presidential-medal-freedom",
         "timestamp": 1656690076,
-        "sentiment": 3,
+        "sentiment": 2,
         "published": "July 1, 2022 11:41 AM"
+    },
+    {
+        "title": "Someone got murdered in the lobby of the Clevelander in South Beach last night",
+        "domain": "twitter.com",
+        "category": "miami",
+        "link": "https://twitter.com/fox_sheldon/status/1542850848866410496?s=21&t=PMijA8mYftwUbxv64W96Nw",
+        "timestamp": 1656690712,
+        "sentiment": 2,
+        "published": "July 1, 2022 11:51 AM"
+    },
+    {
+        "title": "Chinese purchase of North Dakota farmland raises national security concerns in Washington",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/07/01/chinese-purchase-of-north-dakota-farmland-raises-national-security-concerns-in-washington.html",
+        "timestamp": 1656690911,
+        "sentiment": -4,
+        "published": "July 1, 2022 11:55 AM"
+    },
+    {
+        "title": "The U.S. population is continuing a two-decade trajectory during which it has grown older and less White, according to Census Bureau data released Thursday.",
+        "domain": "washingtonpost.com",
+        "category": "news",
+        "link": "https://www.washingtonpost.com/dc-md-va/2022/06/30/census-us-population-older-more-diverse/",
+        "timestamp": 1656649965,
+        "sentiment": -4,
+        "published": "July 1, 2022 12:32 AM"
+    },
+    {
+        "title": "‘Magnum P.I.’ Rescued By NBC With 2-Season, 20-Episode Order",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/06/magnum-pi-renewed-season-5-6-nbc-1235055173/",
+        "timestamp": 1656655810,
+        "sentiment": 0,
+        "published": "July 1, 2022 2:10 AM"
+    },
+    {
+        "title": "The Supreme Court decision overturning Roe v. Wade \"made the United States an outlier among developed nations in the world\" on abortion rights.",
+        "domain": "politifact.com",
+        "category": "politics",
+        "link": "https://www.politifact.com/factchecks/2022/jun/24/joe-biden/roe-reversal-ending-national-access-abortion-makes/",
+        "timestamp": 1656677631,
+        "sentiment": 8,
+        "published": "July 1, 2022 8:13 AM"
+    },
+    {
+        "title": "USC and UCLA Accepted into Big Ten, Effective in 2024",
+        "domain": "nbcnews.tribe.so",
+        "category": "sports",
+        "link": "https://nbcnews.tribe.so/group/pac-12-powers-kick-start-more-conference-realignment",
+        "timestamp": 1656686437,
+        "sentiment": 3,
+        "published": "July 1, 2022 10:40 AM"
     },
     {
         "title": "Moroccan Parliamentary Group Proposes Law Granting Women Paid Menstrual Leave",
