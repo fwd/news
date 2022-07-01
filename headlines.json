@@ -5,7 +5,7 @@
         "category": "nottheonion",
         "link": "https://www.newshub.co.nz/home/new-zealand/2022/06/convoy-protesters-plan-to-stand-up-to-high-fuel-prices-by-filling-up-their-cars-and-driving-around-new-zealand.html",
         "timestamp": 1656562320,
-        "sentiment": -5,
+        "sentiment": 2,
         "published": "June 30, 2022 12:12 AM"
     },
     {
@@ -14,17 +14,8 @@
         "category": "sports",
         "link": "https://www.reuters.com/lifestyle/sports/chess-putin-gives-award-grandmaster-banned-backing-ukraine-invasion-2022-06-02/",
         "timestamp": 1656568320,
-        "sentiment": 0,
-        "published": "June 30, 2022 1:52 AM"
-    },
-    {
-        "title": "Russia’s Car Manufacturing Collapses by 97% in May - The Moscow Times",
-        "domain": "themoscowtimes.com",
-        "category": "worldnews",
-        "link": "https://www.themoscowtimes.com/2022/06/30/russias-car-manufacturing-collapses-by-97-in-may-a78151",
-        "timestamp": 1656573230,
         "sentiment": -2,
-        "published": "June 30, 2022 3:13 AM"
+        "published": "June 30, 2022 1:52 AM"
     },
     {
         "title": "Ice Age wolf DNA reveals dogs trace ancestry to two separate wolf populations",
@@ -41,7 +32,7 @@
         "category": "ukraine",
         "link": "https://www.bbc.com/news/live/world-europe-61987663",
         "timestamp": 1656579421,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 30, 2022 4:57 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "worldnews",
         "link": "https://metro.co.uk/2022/06/30/russia-retreats-from-snake-island-where-warship-told-go-fk-yourself-16917540/",
         "timestamp": 1656580048,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 30, 2022 5:07 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "news",
         "link": "https://news.sky.com/story/mother-fatally-shot-at-point-blank-range-while-pushing-baby-in-pram-in-new-york-city-12642901",
         "timestamp": 1656583622,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 30, 2022 6:07 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "technology",
         "link": "https://www.techrepublic.com/article/pentagon-finds-concerning-vulnerabilities-on-blockchain/",
         "timestamp": 1656585869,
-        "sentiment": 1,
+        "sentiment": 5,
         "published": "June 30, 2022 6:44 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "worldnews",
         "link": "https://sciencebusiness.net/news/denmark-tells-universities-suspend-all-cooperation-russia",
         "timestamp": 1656586319,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 30, 2022 6:51 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.euronews.com/green/2022/06/30/global-nuclear-power-capacity-must-double-by-2050-if-we-want-to-ensure-energy-security",
         "timestamp": 1656587624,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 30, 2022 7:13 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "nottheonion",
         "link": "https://www.carthrottle.com/post/bmw-reminds-drivers-to-use-their-cars-indicators/",
         "timestamp": 1656589107,
-        "sentiment": -5,
+        "sentiment": 2,
         "published": "June 30, 2022 7:38 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "nottheonion",
         "link": "https://www.todayonline.com/singapore/email-obscene-photo-genitals-police-officer-1934411",
         "timestamp": 1656589714,
-        "sentiment": -5,
+        "sentiment": 2,
         "published": "June 30, 2022 7:48 AM"
     },
     {
@@ -140,17 +131,8 @@
         "category": "worldnews",
         "link": "https://english.alarabiya.net/News/world/2022/06/30/Ukraine-s-Zelenskyy-cuts-ties-with-Syria-after-it-recognized-separatist-republics",
         "timestamp": 1656592015,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 30, 2022 8:26 AM"
-    },
-    {
-        "title": "Amazon is introducing new tech to monitor shoppers in its grocery stores and share data with advertisers",
-        "domain": "businessinsider.com",
-        "category": "technology",
-        "link": "https://www.businessinsider.com/amazon-brings-data-analytics-mining-to-its-physical-grocery-stores-2022-6",
-        "timestamp": 1656592218,
-        "sentiment": 1,
-        "published": "June 30, 2022 8:30 AM"
     },
     {
         "title": "Belarus sends out conscription notices en masse",
@@ -158,17 +140,8 @@
         "category": "worldnews",
         "link": "https://english.nv.ua/nation/belarus-sends-out-conscription-notices-en-masse-50253394.html",
         "timestamp": 1656592633,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 30, 2022 8:37 AM"
-    },
-    {
-        "title": "Democrats, here's a thought: Stop retreating. Stand up for your own voters for once",
-        "domain": "salon.com",
-        "category": "politics",
-        "link": "https://www.salon.com/2022/06/30/democrats-heres-a-thought-stop-retreating-stand-up-for-your-own-for-once/",
-        "timestamp": 1656593183,
-        "sentiment": -3,
-        "published": "June 30, 2022 8:46 AM"
     },
     {
         "title": "Former mayor of Turkey's Capital ridiculed for believing tweet on discovery of jelly bean reserves in Turkey",
@@ -176,7 +149,7 @@
         "category": "nottheonion",
         "link": "https://www.turkishminute.com/2022/06/29/former-ankara-mayor-ridiculed-for-believing-tweet-on-discovery-of-jelly-bean-reserves-in-turkey/",
         "timestamp": 1656594095,
-        "sentiment": -5,
+        "sentiment": 2,
         "published": "June 30, 2022 9:01 AM"
     },
     {
@@ -194,7 +167,7 @@
         "category": "technology",
         "link": "https://www.vice.com/en/article/qjkpe3/bernie-sanders-has-a-plan-to-end-flight-delays-and-cancellations-fine-their-asses",
         "timestamp": 1656596346,
-        "sentiment": 1,
+        "sentiment": 5,
         "published": "June 30, 2022 9:39 AM"
     },
     {
@@ -221,7 +194,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/live-updates/supreme-court-epa-regulate-greenhouse-gas-emissions/",
         "timestamp": 1656597983,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 30, 2022 10:06 AM"
     },
     {
@@ -230,7 +203,7 @@
         "category": "technology",
         "link": "https://www.vice.com/en/article/wxn8pz/supreme-court-kneecaps-federal-governments-ability-to-fight-climate-change",
         "timestamp": 1656598456,
-        "sentiment": 1,
+        "sentiment": 5,
         "published": "June 30, 2022 10:14 AM"
     },
     {
@@ -257,7 +230,7 @@
         "category": "news",
         "link": "https://globalnews.ca/news/8957137/uvalde-school-shooting-police-harassment/",
         "timestamp": 1656600798,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 30, 2022 10:53 AM"
     },
     {
@@ -266,7 +239,7 @@
         "category": "news",
         "link": "https://www.npr.org/2022/06/30/1106866830/supreme-court-to-take-on-controversial-election-law-case?origin=NOTIFY",
         "timestamp": 1656601186,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 30, 2022 10:59 AM"
     },
     {
@@ -277,15 +250,6 @@
         "timestamp": 1656602241,
         "sentiment": -4,
         "published": "June 30, 2022 11:17 AM"
-    },
-    {
-        "title": "Offshore wind installations surged threefold last year",
-        "domain": "canarymedia.com",
-        "category": "UpliftingNews",
-        "link": "https://www.canarymedia.com/articles/wind/offshore-wind-installations-surged-threefold-last-year",
-        "timestamp": 1656602891,
-        "sentiment": -3,
-        "published": "June 30, 2022 11:28 AM"
     },
     {
         "title": "Supreme Court Rules 6-3 That the Planet Should Burn",
@@ -311,7 +275,7 @@
         "category": "news",
         "link": "https://apnews.com/article/ketanji-brown-jackson-swearing-in-5a5115f58e163789dfda5a8af0b14221",
         "timestamp": 1656605737,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 30, 2022 12:15 PM"
     },
     {
@@ -329,7 +293,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/russian-party-members-arrested-fined-denouncing-putins-war-ukraine-1720609?utm_medium=Social&utm_source=Twitter#Echobox=1656596081",
         "timestamp": 1656606057,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 30, 2022 12:20 PM"
     },
     {
@@ -338,7 +302,7 @@
         "category": "technology",
         "link": "https://www.cnbc.com/2022/06/30/bitcoin-btc-on-track-for-its-worst-quarter-in-more-than-a-decade.html",
         "timestamp": 1656606373,
-        "sentiment": 1,
+        "sentiment": 5,
         "published": "June 30, 2022 12:26 PM"
     },
     {
@@ -347,7 +311,7 @@
         "category": "florida",
         "link": "https://www.news4jax.com/news/local/2022/06/29/florida-teachers-raise-concerns-about-new-civics-training-say-it-downplays-slavery-promotes-originalism/?outputType=amp",
         "timestamp": 1656606886,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 30, 2022 12:34 PM"
     },
     {
@@ -356,7 +320,7 @@
         "category": "florida",
         "link": "https://www.reuters.com/legal/government/kentucky-judge-blocks-state-enforcing-abortion-bans-2022-06-30/",
         "timestamp": 1656608087,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 30, 2022 12:54 PM"
     },
     {
@@ -365,7 +329,7 @@
         "category": "ukraine",
         "link": "https://www.ukrinform.net/rubric-society/3519074-ukrainian-military-shoot-down-russias-ka52-approaching-snake-island.html",
         "timestamp": 1656608759,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 30, 2022 1:05 PM"
     },
     {
@@ -401,7 +365,7 @@
         "category": "florida",
         "link": "https://www.wfla.com/news/florida-judge-blocks-15-week-abortion-ban/",
         "timestamp": 1656609580,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 30, 2022 1:19 PM"
     },
     {
@@ -419,7 +383,7 @@
         "category": "florida",
         "link": "https://www.cnn.com/2022/06/30/politics/florida-abortion-law/index.html",
         "timestamp": 1656610206,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 30, 2022 1:30 PM"
     },
     {
@@ -428,7 +392,7 @@
         "category": "news",
         "link": "https://globalnews.ca/news/8958704/us-vasectomy-increase-roe-v-wade/",
         "timestamp": 1656610258,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 30, 2022 1:30 PM"
     },
     {
@@ -437,7 +401,7 @@
         "category": "sports",
         "link": "https://footballscoop.com/news/usc-ucla-on-the-move-to-the-big-ten",
         "timestamp": 1656610639,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 1:37 PM"
     },
     {
@@ -446,7 +410,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/us-supreme-court-orders-lower-courts-reconsider-gun-law-challenges-2022-06-30/",
         "timestamp": 1656611168,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 30, 2022 1:46 PM"
     },
     {
@@ -455,7 +419,7 @@
         "category": "nottheonion",
         "link": "https://www.businessinsider.com/donald-trump-girth-suv-secret-service-cassidy-hutchinson-january-6-2022-6",
         "timestamp": 1656611309,
-        "sentiment": -5,
+        "sentiment": 2,
         "published": "June 30, 2022 1:48 PM"
     },
     {
@@ -464,7 +428,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jun/30/nato-will-stick-with-ukraine-as-long-as-it-takes-says-joe-biden",
         "timestamp": 1656611386,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 30, 2022 1:49 PM"
     },
     {
@@ -500,7 +464,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/russias-medvedev-says-sanctions-could-be-justification-war-2022-06-30/",
         "timestamp": 1656613308,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 30, 2022 2:21 PM"
     },
     {
@@ -527,7 +491,7 @@
         "category": "technology",
         "link": "https://www.space.com/rocket-launches-damage-ozone-climate",
         "timestamp": 1656613709,
-        "sentiment": 1,
+        "sentiment": 5,
         "published": "June 30, 2022 2:28 PM"
     },
     {
@@ -554,7 +518,7 @@
         "category": "sports",
         "link": "https://twitter.com/petethamel/status/1542578895655997441?s=21&t=BxdpEBLT4zOTxgipEe_NRw",
         "timestamp": 1656614930,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "June 30, 2022 2:48 PM"
     },
     {
@@ -563,7 +527,7 @@
         "category": "ukraine",
         "link": "https://www.ukrinform.ua/rubric-economy/3519138-ukrainska-elektrika-v-es-moze-zamistiti-do-10-milardiv-kubiv-rosijskogo-gazu-vitrenko.html",
         "timestamp": 1656615381,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 30, 2022 2:56 PM"
     },
     {
@@ -590,7 +554,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/visegrad24/status/1542581959553171458",
         "timestamp": 1656616119,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "June 30, 2022 3:08 PM"
     },
     {
@@ -599,7 +563,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/06/30/bitcoin-falls-below-19000-again-as-pressure-mounts-on-crypto-firms.html",
         "timestamp": 1656616166,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 30, 2022 3:09 PM"
     },
     {
@@ -608,7 +572,7 @@
         "category": "florida",
         "link": "https://floridapolitics.com/archives/536144-doctor-ousted-from-childrens-health-board-over-her-vaccine-views/",
         "timestamp": 1656616254,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 30, 2022 3:10 PM"
     },
     {
@@ -626,7 +590,7 @@
         "category": "worldnews",
         "link": "https://www.yahoo.com/news/russians-withdraw-old-military-equipment-145000281.html",
         "timestamp": 1656617749,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "June 30, 2022 3:35 PM"
     },
     {
@@ -644,7 +608,7 @@
         "category": "technology",
         "link": "https://www.bloomberg.com/news/articles/2022-06-30/new-algorithm-can-predict-crime-in-us-cities-a-week-before-it-happens",
         "timestamp": 1656619948,
-        "sentiment": 1,
+        "sentiment": 5,
         "published": "June 30, 2022 4:12 PM"
     },
     {
@@ -662,7 +626,7 @@
         "category": "news",
         "link": "https://www.fox35orlando.com/news/florida-man-poses-as-disney-world-cast-member-steals-10k-r2-d2-droid-deputies-say",
         "timestamp": 1656620634,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "June 30, 2022 4:23 PM"
     },
     {
@@ -671,7 +635,7 @@
         "category": "nottheonion",
         "link": "https://www.texastribune.org/2022/06/30/texas-slavery-involuntary-relocation/",
         "timestamp": 1656621493,
-        "sentiment": -5,
+        "sentiment": 2,
         "published": "June 30, 2022 4:38 PM"
     },
     {
@@ -707,7 +671,7 @@
         "category": "technology",
         "link": "https://arstechnica.com/tech-policy/2022/06/fcc-says-it-closed-a-loophole-that-many-robocallers-used-to-evade-blocking/",
         "timestamp": 1656623527,
-        "sentiment": 1,
+        "sentiment": 5,
         "published": "June 30, 2022 5:12 PM"
     },
     {
@@ -734,7 +698,7 @@
         "category": "technology",
         "link": "https://arstechnica.com/gadgets/2022/06/usb-installer-tool-removes-windows-11s-microsoft-account-requirements-and-more/",
         "timestamp": 1656624818,
-        "sentiment": 1,
+        "sentiment": 5,
         "published": "June 30, 2022 5:33 PM"
     },
     {
@@ -752,7 +716,7 @@
         "category": "florida",
         "link": "https://floridapolitics.com/archives/454940-ron-desantis-biggest-backer-ken-griffin-spends-big-on-politics/",
         "timestamp": 1656625197,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "June 30, 2022 5:39 PM"
     },
     {
@@ -770,26 +734,8 @@
         "category": "sports",
         "link": "https://www.espn.com/nba/story/_/id/34174171/kevin-durant-requests-trade-brookyn-nets-sources-say",
         "timestamp": 1656627405,
-        "sentiment": 0,
-        "published": "June 30, 2022 6:16 PM"
-    },
-    {
-        "title": "Kyrgios fined $10K for spitting toward spectator.",
-        "domain": "espn.com",
-        "category": "sports",
-        "link": "https://www.espn.com/tennis/story/_/id/34175058/all-england-club-fines-nick-kyrgios-10k-spitting-spectator-wimbledon",
-        "timestamp": 1656627470,
-        "sentiment": 0,
-        "published": "June 30, 2022 6:17 PM"
-    },
-    {
-        "title": "Emmett Till's family calls for justice after finding an unserved arrest warrant in his case",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/06/30/us/emmett-till-warrant-discovered/index.html?utm_source=twCNN&utm_content=2022-06-30T22%3A00%3A06&utm_term=link&utm_medium=social",
-        "timestamp": 1656628047,
         "sentiment": -2,
-        "published": "June 30, 2022 6:27 PM"
+        "published": "June 30, 2022 6:16 PM"
     },
     {
         "title": "Apple executive tasked with enforcing insider trading rules admits to insider trading",
@@ -797,7 +743,7 @@
         "category": "technology",
         "link": "https://9to5mac.com/2022/06/30/former-apple-exec-admits-to-insider-trading/",
         "timestamp": 1656628714,
-        "sentiment": 1,
+        "sentiment": 5,
         "published": "June 30, 2022 6:38 PM"
     },
     {
@@ -824,7 +770,7 @@
         "category": "nottheonion",
         "link": "https://www.cbc.ca/news/canada/saskatchewan/complaints-filed-sask-judge-sexual-assault-regina-1.6496020",
         "timestamp": 1656630755,
-        "sentiment": -5,
+        "sentiment": 2,
         "published": "June 30, 2022 7:12 PM"
     },
     {
@@ -835,6 +781,105 @@
         "timestamp": 1656631500,
         "sentiment": 1,
         "published": "June 30, 2022 7:25 PM"
+    },
+    {
+        "title": "Police sweep Google searches to find suspects. The tactic is facing its first legal challenge",
+        "domain": "nbcnews.com",
+        "category": "technology",
+        "link": "https://www.nbcnews.com/news/us-news/police-google-reverse-keyword-searches-rcna35749",
+        "timestamp": 1656631514,
+        "sentiment": 5,
+        "published": "June 30, 2022 7:25 PM"
+    },
+    {
+        "title": "Ocasio-Cortez Says US 'Witnessing a Judicial Coup in Process'",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/06/30/ocasio-cortez-says-us-witnessing-judicial-coup-process",
+        "timestamp": 1656632833,
+        "sentiment": -3,
+        "published": "June 30, 2022 7:47 PM"
+    },
+    {
+        "title": "Twitter suspends Jordan Peterson's account after comments about Elliot Page",
+        "domain": "marca.com",
+        "category": "news",
+        "link": "https://www.marca.com/en/lifestyle/celebrities/2022/06/30/62be1b74e2704e92438b456c.html",
+        "timestamp": 1656634133,
+        "sentiment": 0,
+        "published": "June 30, 2022 8:08 PM"
+    },
+    {
+        "title": "Greece proceeds with purchase of 20 Lockheed F-35 fighter jets",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/greece-submit-request-purchase-20-lockheed-f-35-fighter-jets-soon-sources-2022-06-30/?utm_source=reddit.com",
+        "timestamp": 1656634436,
+        "sentiment": -1,
+        "published": "June 30, 2022 8:13 PM"
+    },
+    {
+        "title": "Jordan Peterson suspended from Twitter, says it might as well be a ban: 'I won’t apologize'",
+        "domain": "nationalpost.com",
+        "category": "UpliftingNews",
+        "link": "https://nationalpost.com/news/canada/jordan-peterson-twitter-ban",
+        "timestamp": 1656637267,
+        "sentiment": -3,
+        "published": "June 30, 2022 9:01 PM"
+    },
+    {
+        "title": "Russia’s Car Manufacturing Collapses by 97% in May - The Moscow Times",
+        "domain": "themoscowtimes.com",
+        "category": "worldnews",
+        "link": "https://www.themoscowtimes.com/2022/06/30/russias-car-manufacturing-collapses-by-97-in-may-a78151",
+        "timestamp": 1656573230,
+        "sentiment": -2,
+        "published": "June 30, 2022 3:13 AM"
+    },
+    {
+        "title": "Amazon is introducing new tech to monitor shoppers in its grocery stores and share data with advertisers",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/amazon-brings-data-analytics-mining-to-its-physical-grocery-stores-2022-6",
+        "timestamp": 1656592218,
+        "sentiment": 1,
+        "published": "June 30, 2022 8:30 AM"
+    },
+    {
+        "title": "Democrats, here's a thought: Stop retreating. Stand up for your own voters for once",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/06/30/democrats-heres-a-thought-stop-retreating-stand-up-for-your-own-for-once/",
+        "timestamp": 1656593183,
+        "sentiment": -3,
+        "published": "June 30, 2022 8:46 AM"
+    },
+    {
+        "title": "Offshore wind installations surged threefold last year",
+        "domain": "canarymedia.com",
+        "category": "UpliftingNews",
+        "link": "https://www.canarymedia.com/articles/wind/offshore-wind-installations-surged-threefold-last-year",
+        "timestamp": 1656602891,
+        "sentiment": -3,
+        "published": "June 30, 2022 11:28 AM"
+    },
+    {
+        "title": "Kyrgios fined $10K for spitting toward spectator.",
+        "domain": "espn.com",
+        "category": "sports",
+        "link": "https://www.espn.com/tennis/story/_/id/34175058/all-england-club-fines-nick-kyrgios-10k-spitting-spectator-wimbledon",
+        "timestamp": 1656627470,
+        "sentiment": 0,
+        "published": "June 30, 2022 6:17 PM"
+    },
+    {
+        "title": "Emmett Till's family calls for justice after finding an unserved arrest warrant in his case",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/06/30/us/emmett-till-warrant-discovered/index.html?utm_source=twCNN&utm_content=2022-06-30T22%3A00%3A06&utm_term=link&utm_medium=social",
+        "timestamp": 1656628047,
+        "sentiment": -2,
+        "published": "June 30, 2022 6:27 PM"
     },
     {
         "title": "ESPN's Pete Thamel: USC and UCLA officially Big Ten members, effective in 2024",
