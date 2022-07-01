@@ -1,5 +1,14 @@
 [
     {
+        "title": "Hikers had no gear on cold Colorado trail because it’s ‘so hot in Texas,’ officials say",
+        "domain": "star-telegram.com",
+        "category": "nottheonion",
+        "link": "https://www.star-telegram.com/news/state/texas/article263021718.html",
+        "timestamp": 1656648287,
+        "sentiment": -1,
+        "published": "July 1, 2022 12:04 AM"
+    },
+    {
         "title": "Proposal to teach slavery as 'involuntary relocation' sent to Texas education board",
         "domain": "nbcnews.com",
         "category": "news",
@@ -41,7 +50,7 @@
         "category": "science",
         "link": "https://www.atsjournals.org/doi/10.1164/rccm.202202-0373OC",
         "timestamp": 1656655242,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 1, 2022 2:00 AM"
     },
     {
@@ -50,7 +59,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/06/magnum-pi-renewed-season-5-6-nbc-1235055173/",
         "timestamp": 1656655810,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 1, 2022 2:10 AM"
     },
     {
@@ -61,6 +70,24 @@
         "timestamp": 1656658013,
         "sentiment": -1,
         "published": "July 1, 2022 2:46 AM"
+    },
+    {
+        "title": "Los Angeles Film & TV Productions Must Now Require Masking Indoors",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/06/los-angeles-film-tv-productions-masks-1235055066/",
+        "timestamp": 1656661238,
+        "sentiment": -2,
+        "published": "July 1, 2022 3:40 AM"
+    },
+    {
+        "title": "New study reveals impact of plastic on small mammals, as four out of seven species identified as ‘plastic positive’",
+        "domain": "eurekalert.org",
+        "category": "science",
+        "link": "https://www.eurekalert.org/news-releases/957639",
+        "timestamp": 1656664053,
+        "sentiment": 0,
+        "published": "July 1, 2022 4:27 AM"
     },
     {
         "title": "Convoy protesters plan to stand up to high fuel prices by filling up their cars and driving around New Zealand",
@@ -862,15 +889,6 @@
         "timestamp": 1656637206,
         "sentiment": 0,
         "published": "June 30, 2022 9:00 PM"
-    },
-    {
-        "title": "Hikers had no gear on cold Colorado trail because it’s ‘so hot in Texas,’ officials say",
-        "domain": "star-telegram.com",
-        "category": "nottheonion",
-        "link": "https://www.star-telegram.com/news/state/texas/article263021718.html",
-        "timestamp": 1656637752,
-        "sentiment": -2,
-        "published": "June 30, 2022 9:09 PM"
     },
     {
         "title": "Study identifies personality traits associated with jealousy",
