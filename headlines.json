@@ -5,7 +5,7 @@
         "category": "nottheonion",
         "link": "https://lenews.ch/2022/07/02/swiss-restaurant-fines-those-who-dont-finish-their-meals/",
         "timestamp": 1656735592,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "July 2, 2022 12:19 AM"
     },
     {
@@ -34,6 +34,15 @@
         "timestamp": 1656737928,
         "sentiment": -1,
         "published": "July 2, 2022 12:58 AM"
+    },
+    {
+        "title": "‘JoJo’s Bizarre Adventure: Stone Ocean’ Part 2 Premieres September 1, 2022 on Netflix",
+        "domain": "animenewsnetwork.com",
+        "category": "television",
+        "link": "https://www.animenewsnetwork.com/news/2022-07-02/jojo-bizarre-adventure-stone-ocean-anime-2nd-part-streams-new-trailer-reveals-september-1-premiere/.187058",
+        "timestamp": 1656738614,
+        "sentiment": 2,
+        "published": "July 2, 2022 1:10 AM"
     },
     {
         "title": "Germany to return looted artifacts to Africa",
