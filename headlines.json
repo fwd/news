@@ -5,7 +5,7 @@
         "category": "nottheonion",
         "link": "https://lenews.ch/2022/07/02/swiss-restaurant-fines-those-who-dont-finish-their-meals/",
         "timestamp": 1656735592,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 2, 2022 12:19 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "UpliftingNews",
         "link": "https://www.theguardian.com/world/2022/jul/02/i-was-crying-rock-legend-randy-bachman-reunited-with-stolen-guitar-45-years-on?utm_term=Autofeed&CMP=twt_b-gdnnews&utm_medium=Social&utm_source=Twitter&s=09#Echobox=1656730401",
         "timestamp": 1656735862,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 2, 2022 12:24 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "science",
         "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2200047119",
         "timestamp": 1656736996,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "July 2, 2022 12:43 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "nottheonion",
         "link": "https://news.sky.com/story/drivers-handed-record-86-million-parking-tickets-by-private-firms-over-12-months-12644088",
         "timestamp": 1656737675,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 2, 2022 12:54 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "UpliftingNews",
         "link": "https://www.cnn.com/2022/07/01/india/india-bans-single-use-plastic-intl-hnk/index.html",
         "timestamp": 1656742693,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 2, 2022 2:18 AM"
     },
     {
@@ -59,17 +59,8 @@
         "category": "nottheonion",
         "link": "https://variety.com/2022/tv/news/friends-creator-embarrassed-diversity-donates-4-million-1235307727/",
         "timestamp": 1656742918,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 2, 2022 2:21 AM"
-    },
-    {
-        "title": "Australians rally against U.S. overturning of key abortion ruling",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/australians-rally-against-us-overturning-key-abortion-ruling-2022-07-02/",
-        "timestamp": 1656744636,
-        "sentiment": 0,
-        "published": "July 2, 2022 2:50 AM"
     },
     {
         "title": "WHO says monkeypox cases triple in Europe in two weeks, urgent action needed to contain spread",
@@ -95,17 +86,8 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/07/01/federal-abortion-ban-desired-gop-would-increase-maternal-deaths-24-study",
         "timestamp": 1656751785,
-        "sentiment": 0,
-        "published": "July 2, 2022 4:49 AM"
-    },
-    {
-        "title": "20 million U.K. iPhone, iPad users could get compensation in £1.5B lawsuit",
-        "domain": "imore.com",
-        "category": "technology",
-        "link": "https://www.imore.com/20-million-uk-apple-users-could-get-compensation-ps15b-lawsuit",
-        "timestamp": 1656753268,
         "sentiment": -2,
-        "published": "July 2, 2022 5:14 AM"
+        "published": "July 2, 2022 4:49 AM"
     },
     {
         "title": "Ukraine says Russia dropped phosphorus bombs on Snake Island | News",
@@ -113,7 +95,7 @@
         "category": "news",
         "link": "https://www.aljazeera.com/news/2022/7/1/ukraine-says-russia-dropped-phosphorus-bombs-on-snake-island",
         "timestamp": 1656753904,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "July 2, 2022 5:25 AM"
     },
     {
@@ -126,21 +108,12 @@
         "published": "July 2, 2022 6:00 AM"
     },
     {
-        "title": "Panzerhaubitze 2000 already used against Russian invaders in eastern Ukraine",
-        "domain": "ukrinform.net",
-        "category": "ukraine",
-        "link": "https://www.ukrinform.net/rubric-ato/3520279-panzerhaubitze-2000-already-used-against-russian-invaders-in-eastern-ukraine.html",
-        "timestamp": 1656756048,
-        "sentiment": 0,
-        "published": "July 2, 2022 6:00 AM"
-    },
-    {
         "title": "Ex-boyfriend arrested in killing of mother pushing baby in stroller in NYC",
         "domain": "nbcnews.com",
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/ex-boyfriend-arrested-killing-mother-pushing-baby-stroller-nyc-rcna36436",
         "timestamp": 1656757351,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "July 2, 2022 6:22 AM"
     },
     {
@@ -149,7 +122,7 @@
         "category": "technology",
         "link": "https://techxplore.com/news/2022-07-brainwaves-criminal-trials.html",
         "timestamp": 1656759661,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 2, 2022 7:01 AM"
     },
     {
@@ -158,7 +131,7 @@
         "category": "nottheonion",
         "link": "https://www.somersetlive.co.uk/news/couple-left-petfrified-after-being-7264721",
         "timestamp": 1656759860,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 2, 2022 7:04 AM"
     },
     {
@@ -180,12 +153,21 @@
         "published": "July 2, 2022 7:06 AM"
     },
     {
+        "title": "Turkish President Erdoğan's Cronies Defrauded Czech Bank of Over 400 Million Euros",
+        "domain": "meforum.org",
+        "category": "worldnews",
+        "link": "https://www.meforum.org/63355/turkish-president-erdogan-cronies-defrauded-czech",
+        "timestamp": 1656760830,
+        "sentiment": 0,
+        "published": "July 2, 2022 7:20 AM"
+    },
+    {
         "title": "Beware: The Supreme Court Is Laying Groundwork to Pre-Rig the 2024 Election",
         "domain": "commondreams.org",
         "category": "politics",
         "link": "https://www.commondreams.org/views/2022/07/01/beware-supreme-court-laying-groundwork-pre-rig-2024-election",
         "timestamp": 1656761038,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 2, 2022 7:23 AM"
     },
     {
@@ -194,7 +176,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/manchin-sinema-critics-say-gop-will-end-filibuster-anyway-ban-abortion-1721215",
         "timestamp": 1656761270,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 2, 2022 7:27 AM"
     },
     {
@@ -203,7 +185,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/americas/indigenous-leader-who-opposed-illegal-mining-killed-venezuela-ngo-2022-07-01/",
         "timestamp": 1656761460,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "July 2, 2022 7:31 AM"
     },
     {
@@ -212,7 +194,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/technology/2022/jul/02/nft-sales-hit-12-month-low-after-cryptocurrency-crash",
         "timestamp": 1656761782,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "July 2, 2022 7:36 AM"
     },
     {
@@ -230,7 +212,7 @@
         "category": "UpliftingNews",
         "link": "https://6abc.com/20-year-old-saves-man-on-chicago-rail-electrified-third-anthony-perry-cta-station/11941169/",
         "timestamp": 1656762679,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 2, 2022 7:51 AM"
     },
     {
@@ -239,7 +221,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/10-year-old-girl-travel-out-state-ohio-restricts-abortion-2022-7",
         "timestamp": 1656762738,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 2, 2022 7:52 AM"
     },
     {
@@ -248,7 +230,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.in/international/news/diehard-nintendo-fan-spent-over-40000-buying-stock-and-then-asked-top-executives-why-the-company-wont-make-more-of-a-fan-favorite-series/articleshow/92581607.cms",
         "timestamp": 1656763016,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 2, 2022 7:56 AM"
     },
     {
@@ -257,7 +239,7 @@
         "category": "news",
         "link": "https://edition.cnn.com/2022/06/28/americas/sandals-bahamas-resort-deaths-carbon-monoxide-police/index.html",
         "timestamp": 1656763088,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "July 2, 2022 7:58 AM"
     },
     {
@@ -275,7 +257,7 @@
         "category": "science",
         "link": "https://lamont.columbia.edu/news/dinosaurs-took-over-amid-ice-not-warmth-says-new-study-ancient-mass-extinction",
         "timestamp": 1656763249,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "July 2, 2022 8:00 AM"
     },
     {
@@ -284,7 +266,7 @@
         "category": "politics",
         "link": "https://www.nbcnews.com/think/opinion/supreme-courts-originalism-white-supremacy-rcna36409",
         "timestamp": 1656764303,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 2, 2022 8:18 AM"
     },
     {
@@ -293,8 +275,17 @@
         "category": "nottheonion",
         "link": "https://www.cnn.com/2022/07/02/us/texas-group-proposes-school-slavery-language/index.html",
         "timestamp": 1656764389,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 2, 2022 8:19 AM"
+    },
+    {
+        "title": "Donald J. Trump, meanest of mean girls: He so doesn't want to be our friend anymore. Trump's evident criminality is no big surprise at this point. But his whiny, wounded immaturity is astonishing",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/07/02/donald-j-trump-meanest-of-mean-girls-he-isoi-doesnt-want-to-be-our-friend-anymore/",
+        "timestamp": 1656764870,
+        "sentiment": -2,
+        "published": "July 2, 2022 8:27 AM"
     },
     {
         "title": "Boy Meets World Cast Says William Daniels 'Still' Gives Them Advice",
@@ -311,7 +302,7 @@
         "category": "science",
         "link": "https://journals.sagepub.com/doi/full/10.1177/09567976211061321",
         "timestamp": 1656765102,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "July 2, 2022 8:31 AM"
     },
     {
@@ -329,8 +320,35 @@
         "category": "sports",
         "link": "https://www.nytimes.com/2022/07/01/sports/football/ravens-jaylon-ferguson-fatal-overdose.html",
         "timestamp": 1656767023,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 2, 2022 9:03 AM"
+    },
+    {
+        "title": "I planted one tree and offset the carbon footprint of my entire life",
+        "domain": "euronews.com",
+        "category": "UpliftingNews",
+        "link": "https://www.euronews.com/green/2022/06/25/i-planted-a-giant-sequoia-tree-to-offset-the-carbon-footprint-of-my-whole-life",
+        "timestamp": 1656767567,
+        "sentiment": 0,
+        "published": "July 2, 2022 9:12 AM"
+    },
+    {
+        "title": "TikTok confirms that China-based employees can access US user data, but only through an 'approval process'",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/tiktok-confirms-us-user-data-accessed-in-china-bytedance-2022-7",
+        "timestamp": 1656767944,
+        "sentiment": 0,
+        "published": "July 2, 2022 9:19 AM"
+    },
+    {
+        "title": "Pulse oximeter measurements vary across ethnic groups: an observational study in patients with COVID-19 | Pulse oximeters can overestimate blood oxygen in people with dark skin, causing doctors to miss patients’ distress signals. This may be behind Covid-19’s toll on people of color.",
+        "domain": "erj.ersjournals.com",
+        "category": "science",
+        "link": "https://erj.ersjournals.com/content/59/4/2103246.abstract",
+        "timestamp": 1656768886,
+        "sentiment": 1,
+        "published": "July 2, 2022 9:34 AM"
     },
     {
         "title": "The Legislature stumbles into legalizing THC, for better or worse.",
@@ -338,17 +356,8 @@
         "category": "news",
         "link": "https://minnesotareformer.com/2022/07/01/the-legislature-stumbles-into-legalizing-thc-for-better-or-worse-column/",
         "timestamp": 1656768935,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "July 2, 2022 9:35 AM"
-    },
-    {
-        "title": "Parenthood norms appear to still be strongly gendered even in a country with relatively high gender equality",
-        "domain": "psypost.org",
-        "category": "science",
-        "link": "https://www.psypost.org/2022/07/parenthood-norms-appear-to-still-be-strongly-gendered-even-in-a-country-with-relatively-high-gender-equality-63419",
-        "timestamp": 1656769174,
-        "sentiment": 2,
-        "published": "July 2, 2022 9:39 AM"
     },
     {
         "title": "Miami to get $5 million to prepare for 2026 World Cup",
@@ -360,21 +369,21 @@
         "published": "July 2, 2022 9:46 AM"
     },
     {
-        "title": "Recruiters are nineteen times more likely to hire women who have a significant cleavage in their application photo when the qualifications of two artificial applicants are the same",
-        "domain": "ibimapublishing.com",
-        "category": "science",
-        "link": "https://ibimapublishing.com/articles/JHRMR/2016/598520/",
-        "timestamp": 1656770240,
-        "sentiment": 2,
-        "published": "July 2, 2022 9:57 AM"
-    },
-    {
         "title": "Mississippi legislators talking about using pregnancy sniffing dogs at airports.",
         "domain": "democraticunderground.com",
         "category": "nottheonion",
         "link": "https://www.democraticunderground.com/100216877134",
         "timestamp": 1656770295,
-        "sentiment": 0,
+        "sentiment": -2,
+        "published": "July 2, 2022 9:58 AM"
+    },
+    {
+        "title": "The Entire GOP is Complicit in the Coup Attempt",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/cassidy-hutchinsons-jan-6-testimony-exposed-the-entire-gop-as-complicit-in-the-coup-attempt?ref=wrap",
+        "timestamp": 1656770299,
+        "sentiment": -2,
         "published": "July 2, 2022 9:58 AM"
     },
     {
@@ -385,6 +394,78 @@
         "timestamp": 1656770590,
         "sentiment": 5,
         "published": "July 2, 2022 10:03 AM"
+    },
+    {
+        "title": "10-year-old girl denied abortion in Ohio",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/policy/healthcare/3544588-10-year-old-girl-denied-abortion-in-ohio/",
+        "timestamp": 1656771358,
+        "sentiment": -2,
+        "published": "July 2, 2022 10:15 AM"
+    },
+    {
+        "title": "Smart people are more likely to know how the economy works, regardless of their level of education or economic training, new study (n=1,356) finds.",
+        "domain": "sciencedirect.com",
+        "category": "science",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0160289622000484",
+        "timestamp": 1656772673,
+        "sentiment": 1,
+        "published": "July 2, 2022 10:37 AM"
+    },
+    {
+        "title": "Mark Zuckerberg told Meta staff he's upping performance goals to get rid of employees who 'shouldn't be here,' report says",
+        "domain": "news.yahoo.com",
+        "category": "technology",
+        "link": "https://news.yahoo.com/mark-zuckerberg-told-meta-staff-090235785.html",
+        "timestamp": 1656773253,
+        "sentiment": -3,
+        "published": "July 2, 2022 10:47 AM"
+    },
+    {
+        "title": "Australians rally against U.S. overturning of key abortion ruling",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/australians-rally-against-us-overturning-key-abortion-ruling-2022-07-02/",
+        "timestamp": 1656744636,
+        "sentiment": 0,
+        "published": "July 2, 2022 2:50 AM"
+    },
+    {
+        "title": "20 million U.K. iPhone, iPad users could get compensation in £1.5B lawsuit",
+        "domain": "imore.com",
+        "category": "technology",
+        "link": "https://www.imore.com/20-million-uk-apple-users-could-get-compensation-ps15b-lawsuit",
+        "timestamp": 1656753268,
+        "sentiment": -2,
+        "published": "July 2, 2022 5:14 AM"
+    },
+    {
+        "title": "Panzerhaubitze 2000 already used against Russian invaders in eastern Ukraine",
+        "domain": "ukrinform.net",
+        "category": "ukraine",
+        "link": "https://www.ukrinform.net/rubric-ato/3520279-panzerhaubitze-2000-already-used-against-russian-invaders-in-eastern-ukraine.html",
+        "timestamp": 1656756048,
+        "sentiment": 0,
+        "published": "July 2, 2022 6:00 AM"
+    },
+    {
+        "title": "Parenthood norms appear to still be strongly gendered even in a country with relatively high gender equality",
+        "domain": "psypost.org",
+        "category": "science",
+        "link": "https://www.psypost.org/2022/07/parenthood-norms-appear-to-still-be-strongly-gendered-even-in-a-country-with-relatively-high-gender-equality-63419",
+        "timestamp": 1656769174,
+        "sentiment": 2,
+        "published": "July 2, 2022 9:39 AM"
+    },
+    {
+        "title": "Recruiters are nineteen times more likely to hire women who have a significant cleavage in their application photo when the qualifications of two artificial applicants are the same",
+        "domain": "ibimapublishing.com",
+        "category": "science",
+        "link": "https://ibimapublishing.com/articles/JHRMR/2016/598520/",
+        "timestamp": 1656770240,
+        "sentiment": 2,
+        "published": "July 2, 2022 9:57 AM"
     },
     {
         "title": "No 10 considers 50-year mortgages that could pass down generations [UK]",
@@ -844,15 +925,6 @@
         "timestamp": 1656695677,
         "sentiment": 0,
         "published": "July 1, 2022 1:14 PM"
-    },
-    {
-        "title": "TikTok confirms that China-based employees can access US user data, but only through an 'approval process'",
-        "domain": "businessinsider.com",
-        "category": "technology",
-        "link": "https://www.businessinsider.com/tiktok-confirms-us-user-data-accessed-in-china-bytedance-2022-7",
-        "timestamp": 1656696271,
-        "sentiment": 0,
-        "published": "July 1, 2022 1:24 PM"
     },
     {
         "title": "McConnell Says He'll Kill Bipartisan China Bill to Block Democratic Agenda",
