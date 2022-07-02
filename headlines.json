@@ -5,7 +5,7 @@
         "category": "UpliftingNews",
         "link": "https://www.theguardian.com/world/2022/jul/02/i-was-crying-rock-legend-randy-bachman-reunited-with-stolen-guitar-45-years-on?utm_term=Autofeed&CMP=twt_b-gdnnews&utm_medium=Social&utm_source=Twitter&s=09#Echobox=1656730401",
         "timestamp": 1656735862,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "July 2, 2022 12:24 AM"
     },
     {
@@ -14,17 +14,8 @@
         "category": "science",
         "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2200047119",
         "timestamp": 1656736996,
-        "sentiment": 3,
+        "sentiment": -7,
         "published": "July 2, 2022 12:43 AM"
-    },
-    {
-        "title": "‘JoJo’s Bizarre Adventure: Stone Ocean’ Part 2 Premieres September 1, 2022 on Netflix",
-        "domain": "animenewsnetwork.com",
-        "category": "television",
-        "link": "https://www.animenewsnetwork.com/news/2022-07-02/jojo-bizarre-adventure-stone-ocean-anime-2nd-part-streams-new-trailer-reveals-september-1-premiere/.187058",
-        "timestamp": 1656738614,
-        "sentiment": 0,
-        "published": "July 2, 2022 1:10 AM"
     },
     {
         "title": "India bans single-use plastic to combat pollution",
@@ -32,7 +23,7 @@
         "category": "UpliftingNews",
         "link": "https://www.cnn.com/2022/07/01/india/india-bans-single-use-plastic-intl-hnk/index.html",
         "timestamp": 1656742693,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "July 2, 2022 2:18 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.pravda.com.ua/eng/news/2022/07/2/7355933/",
         "timestamp": 1656756014,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 2, 2022 6:00 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "technology",
         "link": "https://techxplore.com/news/2022-07-brainwaves-criminal-trials.html",
         "timestamp": 1656759661,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 2, 2022 7:01 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "nottheonion",
         "link": "https://www.somersetlive.co.uk/news/couple-left-petfrified-after-being-7264721",
         "timestamp": 1656759860,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 2, 2022 7:04 AM"
     },
     {
@@ -86,17 +77,8 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/google-let-sanctioned-russian-firm-access-data-of-americans-europeans-2022-7",
         "timestamp": 1656760019,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 2, 2022 7:06 AM"
-    },
-    {
-        "title": "Turkish President Erdoğan's Cronies Defrauded Czech Bank of Over 400 Million Euros",
-        "domain": "meforum.org",
-        "category": "worldnews",
-        "link": "https://www.meforum.org/63355/turkish-president-erdogan-cronies-defrauded-czech",
-        "timestamp": 1656760830,
-        "sentiment": -2,
-        "published": "July 2, 2022 7:20 AM"
     },
     {
         "title": "Beware: The Supreme Court Is Laying Groundwork to Pre-Rig the 2024 Election",
@@ -104,7 +86,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/views/2022/07/01/beware-supreme-court-laying-groundwork-pre-rig-2024-election",
         "timestamp": 1656761038,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 2, 2022 7:23 AM"
     },
     {
@@ -131,7 +113,7 @@
         "category": "worldnews",
         "link": "https://insightcrime.org/news/turkey-cocaine-hub-between-europe-and-the-middle-east/",
         "timestamp": 1656761907,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 2, 2022 7:38 AM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "UpliftingNews",
         "link": "https://6abc.com/20-year-old-saves-man-on-chicago-rail-electrified-third-anthony-perry-cta-station/11941169/",
         "timestamp": 1656762679,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "July 2, 2022 7:51 AM"
     },
     {
@@ -149,7 +131,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/10-year-old-girl-travel-out-state-ohio-restricts-abortion-2022-7",
         "timestamp": 1656762738,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 2, 2022 7:52 AM"
     },
     {
@@ -158,7 +140,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.in/international/news/diehard-nintendo-fan-spent-over-40000-buying-stock-and-then-asked-top-executives-why-the-company-wont-make-more-of-a-fan-favorite-series/articleshow/92581607.cms",
         "timestamp": 1656763016,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 2, 2022 7:56 AM"
     },
     {
@@ -176,7 +158,7 @@
         "category": "science",
         "link": "https://lamont.columbia.edu/news/dinosaurs-took-over-amid-ice-not-warmth-says-new-study-ancient-mass-extinction",
         "timestamp": 1656763249,
-        "sentiment": 3,
+        "sentiment": -7,
         "published": "July 2, 2022 8:00 AM"
     },
     {
@@ -185,7 +167,7 @@
         "category": "politics",
         "link": "https://www.nbcnews.com/think/opinion/supreme-courts-originalism-white-supremacy-rcna36409",
         "timestamp": 1656764303,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 2, 2022 8:18 AM"
     },
     {
@@ -194,7 +176,7 @@
         "category": "television",
         "link": "https://people.com/tv/boy-meets-world-cast-on-william-daniels-giving-pearls-of-wisdom-today/",
         "timestamp": 1656764993,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 2, 2022 8:29 AM"
     },
     {
@@ -203,7 +185,7 @@
         "category": "worldnews",
         "link": "https://english.kyodonews.net/news/2022/07/4991f2943f7b-russian-warships-pass-between-japans-westernmost-islands.html",
         "timestamp": 1656765496,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 2, 2022 8:38 AM"
     },
     {
@@ -212,7 +194,7 @@
         "category": "sports",
         "link": "https://www.nytimes.com/2022/07/01/sports/football/ravens-jaylon-ferguson-fatal-overdose.html",
         "timestamp": 1656767023,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 2, 2022 9:03 AM"
     },
     {
@@ -221,7 +203,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/tiktok-confirms-us-user-data-accessed-in-china-bytedance-2022-7",
         "timestamp": 1656767944,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 2, 2022 9:19 AM"
     },
     {
@@ -230,17 +212,8 @@
         "category": "science",
         "link": "https://erj.ersjournals.com/content/59/4/2103246.abstract",
         "timestamp": 1656768886,
-        "sentiment": 3,
+        "sentiment": -7,
         "published": "July 2, 2022 9:34 AM"
-    },
-    {
-        "title": "The Czech Republic will also Expel 70 People from its Russian Embassy",
-        "domain": "m.novinite.com",
-        "category": "worldnews",
-        "link": "https://m.novinite.com/view_news.php?id=215754",
-        "timestamp": 1656769153,
-        "sentiment": -2,
-        "published": "July 2, 2022 9:39 AM"
     },
     {
         "title": "Miami to get $5 million to prepare for 2026 World Cup",
@@ -257,7 +230,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/cassidy-hutchinsons-jan-6-testimony-exposed-the-entire-gop-as-complicit-in-the-coup-attempt?ref=wrap",
         "timestamp": 1656770299,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 2, 2022 9:58 AM"
     },
     {
@@ -266,7 +239,7 @@
         "category": "television",
         "link": "https://tvline.com/2022/07/02/the-bear-season-1-episode-8-finale-jeremy-allen-white-hulu/",
         "timestamp": 1656770590,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 2, 2022 10:03 AM"
     },
     {
@@ -275,17 +248,8 @@
         "category": "politics",
         "link": "https://thehill.com/policy/healthcare/3544588-10-year-old-girl-denied-abortion-in-ohio/",
         "timestamp": 1656771358,
-        "sentiment": -1,
-        "published": "July 2, 2022 10:15 AM"
-    },
-    {
-        "title": "In Overwatch 2, the benches were changed because homeless people couldn't sleep on them",
-        "domain": "gagadget.com",
-        "category": "nottheonion",
-        "link": "https://gagadget.com/en/142364-in-overwatch-2-the-benches-were-changed-because-homeless-people-couldnt-sleep-on-them/",
-        "timestamp": 1656772613,
         "sentiment": 0,
-        "published": "July 2, 2022 10:36 AM"
+        "published": "July 2, 2022 10:15 AM"
     },
     {
         "title": "Smart people are more likely to know how the economy works, regardless of their level of education or economic training, new study (n=1,356) finds.",
@@ -293,7 +257,7 @@
         "category": "science",
         "link": "https://www.sciencedirect.com/science/article/pii/S0160289622000484",
         "timestamp": 1656772673,
-        "sentiment": 3,
+        "sentiment": -7,
         "published": "July 2, 2022 10:37 AM"
     },
     {
@@ -302,7 +266,7 @@
         "category": "technology",
         "link": "https://news.yahoo.com/mark-zuckerberg-told-meta-staff-090235785.html",
         "timestamp": 1656773253,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 2, 2022 10:47 AM"
     },
     {
@@ -311,7 +275,7 @@
         "category": "politics",
         "link": "https://www.insider.com/thousands-of-people-signed-petition-for-justice-thomas-be-impeached-2022-7",
         "timestamp": 1656773545,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 2, 2022 10:52 AM"
     },
     {
@@ -320,7 +284,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/euromaidanpress/status/1543248046099759105?s=21&t=DBo4dYAVSTBW6piERe-_PA",
         "timestamp": 1656774143,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 2, 2022 11:02 AM"
     },
     {
@@ -329,17 +293,8 @@
         "category": "science",
         "link": "https://www.usf.edu/news/2022/hidden-in-caves-mineral-overgrowths-reveal-unprecedented-modern-sea-level-rise.aspx",
         "timestamp": 1656774446,
-        "sentiment": 3,
+        "sentiment": -7,
         "published": "July 2, 2022 11:07 AM"
-    },
-    {
-        "title": "Police looking to identify Puslinch, Ont. man who paved driveway without permission",
-        "domain": "kitchener.ctvnews.ca",
-        "category": "nottheonion",
-        "link": "https://kitchener.ctvnews.ca/man-wanted-for-paving-puslinch-ont-driveway-without-permission-1.5971205",
-        "timestamp": 1656775491,
-        "sentiment": 0,
-        "published": "July 2, 2022 11:24 AM"
     },
     {
         "title": "In DeSantis’ Florida, Miami doctor learns: Criticize the government at your own risk | Editorial",
@@ -347,17 +302,8 @@
         "category": "florida",
         "link": "https://www.miamiherald.com/opinion/editorials/article263094388.html",
         "timestamp": 1656775526,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "July 2, 2022 11:25 AM"
-    },
-    {
-        "title": "In Florida, DeSantis’s plans for colleges rattle some academics",
-        "domain": "washingtonpost.com",
-        "category": "florida",
-        "link": "https://www.washingtonpost.com/education/2022/07/01/desantis-florida-universities-laws/",
-        "timestamp": 1656775574,
-        "sentiment": -2,
-        "published": "July 2, 2022 11:26 AM"
     },
     {
         "title": "Dozens of Russian weapons tycoons have faced no Western sanctions",
@@ -365,7 +311,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/dozens-russian-weapons-tycoons-have-faced-no-western-sanctions-2022-07-01/",
         "timestamp": 1656776779,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 2, 2022 11:46 AM"
     },
     {
@@ -374,7 +320,7 @@
         "category": "UpliftingNews",
         "link": "https://www.msn.com/en-us/news/us/kitten-rescued-from-inside-pepsi-vending-machine-at-walmart-store/ar-AAZ5vxK",
         "timestamp": 1656776789,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "July 2, 2022 11:46 AM"
     },
     {
@@ -383,7 +329,7 @@
         "category": "technology",
         "link": "https://arstechnica.com/tech-policy/2022/06/amazon-blocks-lgbt-products-in-uae-says-it-must-comply-with-local-laws/",
         "timestamp": 1656777143,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 2, 2022 11:52 AM"
     },
     {
@@ -392,7 +338,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/ted-cruz-bahamas-flight-cancun-b2113969.html",
         "timestamp": 1656778492,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 2, 2022 12:14 PM"
     },
     {
@@ -401,7 +347,7 @@
         "category": "worldnews",
         "link": "https://www.washingtonpost.com/us-policy/2022/07/01/hungary-gop-tax-deal/",
         "timestamp": 1656778596,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 2, 2022 12:16 PM"
     },
     {
@@ -419,7 +365,7 @@
         "category": "nottheonion",
         "link": "https://www.newsweek.com/idaho-lt-governor-defers-pay-after-office-ends-fiscal-year-72-cents-1721220",
         "timestamp": 1656779245,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 2, 2022 12:27 PM"
     },
     {
@@ -428,7 +374,7 @@
         "category": "politics",
         "link": "https://www.motherjones.com/politics/2022/07/minnesota-legalized-edibles-after-a-republican-didnt-read-the-bill/",
         "timestamp": 1656779440,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 2, 2022 12:30 PM"
     },
     {
@@ -437,17 +383,8 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/lukashenko-says-belarus-intercepted-attempted-missile-strikes-by-ukraine-belta-2022-07-02/",
         "timestamp": 1656781079,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 2, 2022 12:57 PM"
-    },
-    {
-        "title": "Uvalde schools police Chief Pete Arredondo resigns from city council",
-        "domain": "texastribune.org",
-        "category": "politics",
-        "link": "https://www.texastribune.org/2022/07/02/uvalde-school-police-chief-pete-arredondo-resigns/",
-        "timestamp": 1656782384,
-        "sentiment": -1,
-        "published": "July 2, 2022 1:19 PM"
     },
     {
         "title": "Metaverse years from being global phenomenon, says pioneer",
@@ -455,7 +392,7 @@
         "category": "technology",
         "link": "https://techxplore.com/news/2022-07-metaverse-years-global-phenomenon.html",
         "timestamp": 1656782689,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 2, 2022 1:24 PM"
     },
     {
@@ -464,7 +401,7 @@
         "category": "television",
         "link": "https://www.latimes.com/entertainment-arts/tv/story/2022-07-01/danny-roberts-hiv-positive-the-real-world-homecoming-new-orleans",
         "timestamp": 1656783275,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 2, 2022 1:34 PM"
     },
     {
@@ -473,7 +410,7 @@
         "category": "nottheonion",
         "link": "https://www.newindianexpress.com/states/tamil-nadu/2022/jul/01/worlds-first-tamil-biblestolen-from-thanjavurtraced-to-london-museum-2471836.html",
         "timestamp": 1656784380,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 2, 2022 1:53 PM"
     },
     {
@@ -482,7 +419,7 @@
         "category": "UpliftingNews",
         "link": "https://www.wkyt.com/2022/06/30/judge-grants-aclus-request-restraining-order-kentucky-abortion-ban/",
         "timestamp": 1656784766,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "July 2, 2022 1:59 PM"
     },
     {
@@ -491,7 +428,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/shes-10-child-rape-victims-abortion-denial-sparks-outrage-twitter-1721248",
         "timestamp": 1656785052,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 2, 2022 2:04 PM"
     },
     {
@@ -500,7 +437,7 @@
         "category": "UpliftingNews",
         "link": "https://www.nbcnews.com/meet-the-press/meetthepressblog/house-republicans-backed-jan-6-commission-won-primaries-far-rcna35928",
         "timestamp": 1656785208,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "July 2, 2022 2:06 PM"
     },
     {
@@ -513,22 +450,22 @@
         "published": "July 2, 2022 2:08 PM"
     },
     {
-        "title": "Pete Arredondo resigns from Uvalde city council, newspaper reports | CNN",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/07/02/us/pete-arredondo-resigns-uvalde-city-council/index.html",
-        "timestamp": 1656786154,
-        "sentiment": -6,
-        "published": "July 2, 2022 2:22 PM"
-    },
-    {
         "title": "Alize Cornet snaps Iga Swiatek's 37 match winning streak at Wimbledon",
         "domain": "lastwordonsports.com",
         "category": "sports",
         "link": "https://lastwordonsports.com/tennis/2022/07/02/alize-cornet-snaps-iga-swiatek-37-match-winning-streak-at-wimbledon/",
         "timestamp": 1656786251,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 2, 2022 2:24 PM"
+    },
+    {
+        "title": "More than a million pack London's streets for Pride parade",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/uk/more-than-million-pack-londons-streets-pride-parade-2022-07-02/",
+        "timestamp": 1656787081,
+        "sentiment": -3,
+        "published": "July 2, 2022 2:38 PM"
     },
     {
         "title": "Hulu’s Mormon No More shows why people become Latter-day Saints—then leave. 2022 has become the year of the Mormon miniseries. For this, we can thank audience interest in cults and true crime, as well as a growing and increasingly vocal and visible number of former Mormons.",
@@ -536,7 +473,7 @@
         "category": "television",
         "link": "https://slate.com/culture/2022/07/mormon-no-more-under-the-banner-heaven-stay-sweet-review.html",
         "timestamp": 1656787242,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 2, 2022 2:40 PM"
     },
     {
@@ -545,17 +482,8 @@
         "category": "nottheonion",
         "link": "https://nft.edieta.org/cryptocurrency/cryptonews/16274",
         "timestamp": 1656787380,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 2, 2022 2:43 PM"
-    },
-    {
-        "title": "David McGrath: I feel imprisoned in Ron DeSantis’ Florida on the Fourth of July",
-        "domain": "chicagotribune.com",
-        "category": "florida",
-        "link": "https://www.chicagotribune.com/opinion/commentary/ct-opinion-florida-desantis-dont-say-gay-crt-book-ban-20220701-yop4qh6tmvbitmkzesfhobssmu-story.html",
-        "timestamp": 1656787866,
-        "sentiment": -2,
-        "published": "July 2, 2022 2:51 PM"
     },
     {
         "title": "15 centuries ago, extreme dry conditions contributed to the decline of South Arabian kingdom of Himyar. Political unrest, war and droughts left behind a region in disarray, thereby helping to create the conditions on the Arabian peninsula that made possible the spread of the religion of Islam",
@@ -563,17 +491,8 @@
         "category": "science",
         "link": "https://www.umass.edu/news/article/new-research-links-sixth-century-droughts-rise-islam",
         "timestamp": 1656788065,
-        "sentiment": 3,
+        "sentiment": -7,
         "published": "July 2, 2022 2:54 PM"
-    },
-    {
-        "title": "A study in Science Advances has revealed correlations among socioeconomics, genetics, environmental factors and brain structure. The findings provide greater understanding about how socioeconomic, environmental and genetic factors interact to influence human brain development and structure.",
-        "domain": "beta.nsf.gov",
-        "category": "science",
-        "link": "https://beta.nsf.gov/news/genetic-environmental-factors-contribute-how-socioeconomic-status-impacts-brain",
-        "timestamp": 1656788965,
-        "sentiment": 3,
-        "published": "July 2, 2022 3:09 PM"
     },
     {
         "title": "Texas education board rejects proposal to call slavery ‘involuntary relocation’",
@@ -599,8 +518,17 @@
         "category": "florida",
         "link": "https://wsvn.com/news/local/um-pediatrician-removed-from-state-board-after-publicly-criticizing-delayed-access-to-covid-19-vaccine-for-children-under-5/",
         "timestamp": 1656789210,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "July 2, 2022 3:13 PM"
+    },
+    {
+        "title": "Women accused of illegal abortions in England and Wales after miscarriages and stillbirths",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2022/jul/02/women-accused-of-abortions-in-england-and-wales-after-miscarriages-and-stillbirths",
+        "timestamp": 1656789280,
+        "sentiment": -6,
+        "published": "July 2, 2022 3:14 PM"
     },
     {
         "title": "Lukashenko accused Ukraine of shelling Belarus and ordered to ''put” opponents’ capitals “at gunpoint”",
@@ -608,7 +536,7 @@
         "category": "ukraine",
         "link": "https://www.pravda.com.ua/eng/news/2022/07/2/7356018/",
         "timestamp": 1656791215,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 2, 2022 3:46 PM"
     },
     {
@@ -617,7 +545,7 @@
         "category": "science",
         "link": "https://www.psypost.org/2022/07/womens-own-body-dissatisfaction-appears-to-influence-their-judgment-of-other-womens-body-sizes-63428",
         "timestamp": 1656791384,
-        "sentiment": 3,
+        "sentiment": -7,
         "published": "July 2, 2022 3:49 PM"
     },
     {
@@ -626,8 +554,170 @@
         "category": "UpliftingNews",
         "link": "https://pix11.com/news/local-news/brooklyn/ny-aquarium-to-fully-reopen-for-first-time-since-superstorm-sandy/?fbclid=IwAR3l-PF1x7L2m4Ya5W6pyxLSPWYwIThGrul5rHHY4HZ4TFgQBwElIc9ksmk&fs=e&s=cl",
         "timestamp": 1656792014,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "July 2, 2022 4:00 PM"
+    },
+    {
+        "title": "Texas Republicans Get Deadly Serious About Secession | The Lone Star State’s GOP plays with fire.",
+        "domain": "thebulwark.com",
+        "category": "politics",
+        "link": "https://www.thebulwark.com/texas-republicans-deadly-serious-toying-around-with-secession/",
+        "timestamp": 1656793151,
+        "sentiment": 0,
+        "published": "July 2, 2022 4:19 PM"
+    },
+    {
+        "title": "Meta’s Novi cryptocurrency wallet is shutting down",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/meta-novi-shutting-down-193612179.html",
+        "timestamp": 1656794842,
+        "sentiment": -6,
+        "published": "July 2, 2022 4:47 PM"
+    },
+    {
+        "title": "R. Kelly sues Brooklyn jail for putting him on suicide watch after sentencing",
+        "domain": "cbsnews.com",
+        "category": "nottheonion",
+        "link": "https://www.cbsnews.com/newyork/news/r-kelly-suing-brooklyn-jail-for-putting-him-on-suicide-watch/",
+        "timestamp": 1656795259,
+        "sentiment": -6,
+        "published": "July 2, 2022 4:54 PM"
+    },
+    {
+        "title": "Heart rate variability in patients with anxiety disorders: A systematic review and meta-analysis finds that anxiety disorder patients had a significantly lower resting-state HRV for parasympathetic activity compared to control (Hedges' g = −0.3897).",
+        "domain": "onlinelibrary.wiley.com",
+        "category": "science",
+        "link": "https://onlinelibrary.wiley.com/doi/10.1111/pcn.13356",
+        "timestamp": 1656795946,
+        "sentiment": -7,
+        "published": "July 2, 2022 5:05 PM"
+    },
+    {
+        "title": "A huge mass of used wet wipes has formed an 'island' that has changed the course of England's second longest river, MP says",
+        "domain": "businessinsider.nl",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.nl/a-huge-mass-of-used-wet-wipes-has-formed-an-island-that-has-changed-the-course-of-englands-second-longest-river-mp-says/",
+        "timestamp": 1656796964,
+        "sentiment": -3,
+        "published": "July 2, 2022 5:22 PM"
+    },
+    {
+        "title": "Rescued Afghanistan dogs arrive at Toronto sanctuary",
+        "domain": "globalnews.ca",
+        "category": "UpliftingNews",
+        "link": "https://globalnews.ca/news/8962795/rescued-afghanistan-dogs-arrive-at-toronto-sanctuary/",
+        "timestamp": 1656797835,
+        "sentiment": 5,
+        "published": "July 2, 2022 5:37 PM"
+    },
+    {
+        "title": "Pediatrician In Florida Fired From State Council For Comment On Pro-vaccine",
+        "domain": "nationworldnews.com",
+        "category": "florida",
+        "link": "https://nationworldnews.com/pediatrician-in-florida-fired-from-state-council-for-comment-on-pro-vaccine/",
+        "timestamp": 1656798390,
+        "sentiment": 2,
+        "published": "July 2, 2022 5:46 PM"
+    },
+    {
+        "title": "Florida offers new training for teachers that says it was a 'misconception' that 'the Founders desired strict separation of church and state': report",
+        "domain": "businessinsider.com",
+        "category": "florida",
+        "link": "https://www.businessinsider.com/floridas-new-training-teachers-undermines-separation-of-church-state-2022-7",
+        "timestamp": 1656798923,
+        "sentiment": 2,
+        "published": "July 2, 2022 5:55 PM"
+    },
+    {
+        "title": "‘JoJo’s Bizarre Adventure: Stone Ocean’ Part 2 Premieres September 1, 2022 on Netflix",
+        "domain": "animenewsnetwork.com",
+        "category": "television",
+        "link": "https://www.animenewsnetwork.com/news/2022-07-02/jojo-bizarre-adventure-stone-ocean-anime-2nd-part-streams-new-trailer-reveals-september-1-premiere/.187058",
+        "timestamp": 1656738614,
+        "sentiment": 0,
+        "published": "July 2, 2022 1:10 AM"
+    },
+    {
+        "title": "Turkish President Erdoğan's Cronies Defrauded Czech Bank of Over 400 Million Euros",
+        "domain": "meforum.org",
+        "category": "worldnews",
+        "link": "https://www.meforum.org/63355/turkish-president-erdogan-cronies-defrauded-czech",
+        "timestamp": 1656760830,
+        "sentiment": -2,
+        "published": "July 2, 2022 7:20 AM"
+    },
+    {
+        "title": "The Czech Republic will also Expel 70 People from its Russian Embassy",
+        "domain": "m.novinite.com",
+        "category": "worldnews",
+        "link": "https://m.novinite.com/view_news.php?id=215754",
+        "timestamp": 1656769153,
+        "sentiment": -2,
+        "published": "July 2, 2022 9:39 AM"
+    },
+    {
+        "title": "In Overwatch 2, the benches were changed because homeless people couldn't sleep on them",
+        "domain": "gagadget.com",
+        "category": "nottheonion",
+        "link": "https://gagadget.com/en/142364-in-overwatch-2-the-benches-were-changed-because-homeless-people-couldnt-sleep-on-them/",
+        "timestamp": 1656772613,
+        "sentiment": 0,
+        "published": "July 2, 2022 10:36 AM"
+    },
+    {
+        "title": "Police looking to identify Puslinch, Ont. man who paved driveway without permission",
+        "domain": "kitchener.ctvnews.ca",
+        "category": "nottheonion",
+        "link": "https://kitchener.ctvnews.ca/man-wanted-for-paving-puslinch-ont-driveway-without-permission-1.5971205",
+        "timestamp": 1656775491,
+        "sentiment": 0,
+        "published": "July 2, 2022 11:24 AM"
+    },
+    {
+        "title": "In Florida, DeSantis’s plans for colleges rattle some academics",
+        "domain": "washingtonpost.com",
+        "category": "florida",
+        "link": "https://www.washingtonpost.com/education/2022/07/01/desantis-florida-universities-laws/",
+        "timestamp": 1656775574,
+        "sentiment": -2,
+        "published": "July 2, 2022 11:26 AM"
+    },
+    {
+        "title": "Uvalde schools police Chief Pete Arredondo resigns from city council",
+        "domain": "texastribune.org",
+        "category": "politics",
+        "link": "https://www.texastribune.org/2022/07/02/uvalde-school-police-chief-pete-arredondo-resigns/",
+        "timestamp": 1656782384,
+        "sentiment": -1,
+        "published": "July 2, 2022 1:19 PM"
+    },
+    {
+        "title": "Pete Arredondo resigns from Uvalde city council, newspaper reports | CNN",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/07/02/us/pete-arredondo-resigns-uvalde-city-council/index.html",
+        "timestamp": 1656786154,
+        "sentiment": -6,
+        "published": "July 2, 2022 2:22 PM"
+    },
+    {
+        "title": "David McGrath: I feel imprisoned in Ron DeSantis’ Florida on the Fourth of July",
+        "domain": "chicagotribune.com",
+        "category": "florida",
+        "link": "https://www.chicagotribune.com/opinion/commentary/ct-opinion-florida-desantis-dont-say-gay-crt-book-ban-20220701-yop4qh6tmvbitmkzesfhobssmu-story.html",
+        "timestamp": 1656787866,
+        "sentiment": -2,
+        "published": "July 2, 2022 2:51 PM"
+    },
+    {
+        "title": "A study in Science Advances has revealed correlations among socioeconomics, genetics, environmental factors and brain structure. The findings provide greater understanding about how socioeconomic, environmental and genetic factors interact to influence human brain development and structure.",
+        "domain": "beta.nsf.gov",
+        "category": "science",
+        "link": "https://beta.nsf.gov/news/genetic-environmental-factors-contribute-how-socioeconomic-status-impacts-brain",
+        "timestamp": 1656788965,
+        "sentiment": 3,
+        "published": "July 2, 2022 3:09 PM"
     },
     {
         "title": "Manchin, Sinema critics say GOP will end filibuster anyway to ban abortion",
