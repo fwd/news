@@ -5,7 +5,7 @@
         "category": "UpliftingNews",
         "link": "https://www.theguardian.com/world/2022/jul/02/i-was-crying-rock-legend-randy-bachman-reunited-with-stolen-guitar-45-years-on?utm_term=Autofeed&CMP=twt_b-gdnnews&utm_medium=Social&utm_source=Twitter&s=09#Echobox=1656730401",
         "timestamp": 1656735862,
-        "sentiment": 5,
+        "sentiment": 0,
         "published": "July 2, 2022 12:24 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "television",
         "link": "https://www.animenewsnetwork.com/news/2022-07-02/jojo-bizarre-adventure-stone-ocean-anime-2nd-part-streams-new-trailer-reveals-september-1-premiere/.187058",
         "timestamp": 1656738614,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 2, 2022 1:10 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "UpliftingNews",
         "link": "https://www.cnn.com/2022/07/01/india/india-bans-single-use-plastic-intl-hnk/index.html",
         "timestamp": 1656742693,
-        "sentiment": 5,
+        "sentiment": 0,
         "published": "July 2, 2022 2:18 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "news",
         "link": "https://www.aljazeera.com/news/2022/7/1/ukraine-says-russia-dropped-phosphorus-bombs-on-snake-island",
         "timestamp": 1656753904,
-        "sentiment": -1,
+        "sentiment": -6,
         "published": "July 2, 2022 5:25 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/ex-boyfriend-arrested-killing-mother-pushing-baby-stroller-nyc-rcna36436",
         "timestamp": 1656757351,
-        "sentiment": -1,
+        "sentiment": -6,
         "published": "July 2, 2022 6:22 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "nottheonion",
         "link": "https://www.somersetlive.co.uk/news/couple-left-petfrified-after-being-7264721",
         "timestamp": 1656759860,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 2, 2022 7:04 AM"
     },
     {
@@ -104,17 +104,17 @@
         "category": "politics",
         "link": "https://www.commondreams.org/views/2022/07/01/beware-supreme-court-laying-groundwork-pre-rig-2024-election",
         "timestamp": 1656761038,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "July 2, 2022 7:23 AM"
     },
     {
-        "title": "Manchin, Sinema critics say GOP will end filibuster anyway to ban abortion",
-        "domain": "newsweek.com",
-        "category": "politics",
-        "link": "https://www.newsweek.com/manchin-sinema-critics-say-gop-will-end-filibuster-anyway-ban-abortion-1721215",
-        "timestamp": 1656761270,
-        "sentiment": -4,
-        "published": "July 2, 2022 7:27 AM"
+        "title": "Indigenous leader who opposed illegal mining killed in Venezuela -NGO",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/americas/indigenous-leader-who-opposed-illegal-mining-killed-venezuela-ngo-2022-07-01/",
+        "timestamp": 1656761460,
+        "sentiment": -6,
+        "published": "July 2, 2022 7:31 AM"
     },
     {
         "title": "NFT sales hit 12-month low after cryptocurrency crash",
@@ -122,7 +122,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/technology/2022/jul/02/nft-sales-hit-12-month-low-after-cryptocurrency-crash",
         "timestamp": 1656761782,
-        "sentiment": -1,
+        "sentiment": -6,
         "published": "July 2, 2022 7:36 AM"
     },
     {
@@ -140,7 +140,7 @@
         "category": "UpliftingNews",
         "link": "https://6abc.com/20-year-old-saves-man-on-chicago-rail-electrified-third-anthony-perry-cta-station/11941169/",
         "timestamp": 1656762679,
-        "sentiment": 5,
+        "sentiment": 0,
         "published": "July 2, 2022 7:51 AM"
     },
     {
@@ -149,7 +149,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/10-year-old-girl-travel-out-state-ohio-restricts-abortion-2022-7",
         "timestamp": 1656762738,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "July 2, 2022 7:52 AM"
     },
     {
@@ -167,7 +167,7 @@
         "category": "news",
         "link": "https://edition.cnn.com/2022/06/28/americas/sandals-bahamas-resort-deaths-carbon-monoxide-police/index.html",
         "timestamp": 1656763088,
-        "sentiment": -1,
+        "sentiment": -6,
         "published": "July 2, 2022 7:58 AM"
     },
     {
@@ -185,7 +185,7 @@
         "category": "politics",
         "link": "https://www.nbcnews.com/think/opinion/supreme-courts-originalism-white-supremacy-rcna36409",
         "timestamp": 1656764303,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "July 2, 2022 8:18 AM"
     },
     {
@@ -194,7 +194,7 @@
         "category": "television",
         "link": "https://people.com/tv/boy-meets-world-cast-on-william-daniels-giving-pearls-of-wisdom-today/",
         "timestamp": 1656764993,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 2, 2022 8:29 AM"
     },
     {
@@ -212,7 +212,7 @@
         "category": "sports",
         "link": "https://www.nytimes.com/2022/07/01/sports/football/ravens-jaylon-ferguson-fatal-overdose.html",
         "timestamp": 1656767023,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 2, 2022 9:03 AM"
     },
     {
@@ -248,7 +248,7 @@
         "category": "miami",
         "link": "https://www.winknews.com/2022/07/01/miami-to-get-5-million-to-prepare-for-2026-world-cup/",
         "timestamp": 1656769585,
-        "sentiment": 3,
+        "sentiment": 1,
         "published": "July 2, 2022 9:46 AM"
     },
     {
@@ -257,7 +257,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/cassidy-hutchinsons-jan-6-testimony-exposed-the-entire-gop-as-complicit-in-the-coup-attempt?ref=wrap",
         "timestamp": 1656770299,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "July 2, 2022 9:58 AM"
     },
     {
@@ -266,7 +266,7 @@
         "category": "television",
         "link": "https://tvline.com/2022/07/02/the-bear-season-1-episode-8-finale-jeremy-allen-white-hulu/",
         "timestamp": 1656770590,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 2, 2022 10:03 AM"
     },
     {
@@ -275,7 +275,7 @@
         "category": "politics",
         "link": "https://thehill.com/policy/healthcare/3544588-10-year-old-girl-denied-abortion-in-ohio/",
         "timestamp": 1656771358,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "July 2, 2022 10:15 AM"
     },
     {
@@ -284,7 +284,7 @@
         "category": "nottheonion",
         "link": "https://gagadget.com/en/142364-in-overwatch-2-the-benches-were-changed-because-homeless-people-couldnt-sleep-on-them/",
         "timestamp": 1656772613,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 2, 2022 10:36 AM"
     },
     {
@@ -311,7 +311,7 @@
         "category": "politics",
         "link": "https://www.insider.com/thousands-of-people-signed-petition-for-justice-thomas-be-impeached-2022-7",
         "timestamp": 1656773545,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "July 2, 2022 10:52 AM"
     },
     {
@@ -320,7 +320,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/euromaidanpress/status/1543248046099759105?s=21&t=DBo4dYAVSTBW6piERe-_PA",
         "timestamp": 1656774143,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "July 2, 2022 11:02 AM"
     },
     {
@@ -333,12 +333,21 @@
         "published": "July 2, 2022 11:07 AM"
     },
     {
+        "title": "Police looking to identify Puslinch, Ont. man who paved driveway without permission",
+        "domain": "kitchener.ctvnews.ca",
+        "category": "nottheonion",
+        "link": "https://kitchener.ctvnews.ca/man-wanted-for-paving-puslinch-ont-driveway-without-permission-1.5971205",
+        "timestamp": 1656775491,
+        "sentiment": 0,
+        "published": "July 2, 2022 11:24 AM"
+    },
+    {
         "title": "In DeSantis’ Florida, Miami doctor learns: Criticize the government at your own risk | Editorial",
         "domain": "miamiherald.com",
         "category": "florida",
         "link": "https://www.miamiherald.com/opinion/editorials/article263094388.html",
         "timestamp": 1656775526,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 2, 2022 11:25 AM"
     },
     {
@@ -347,7 +356,7 @@
         "category": "florida",
         "link": "https://www.washingtonpost.com/education/2022/07/01/desantis-florida-universities-laws/",
         "timestamp": 1656775574,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 2, 2022 11:26 AM"
     },
     {
@@ -365,7 +374,7 @@
         "category": "UpliftingNews",
         "link": "https://www.msn.com/en-us/news/us/kitten-rescued-from-inside-pepsi-vending-machine-at-walmart-store/ar-AAZ5vxK",
         "timestamp": 1656776789,
-        "sentiment": 5,
+        "sentiment": 0,
         "published": "July 2, 2022 11:46 AM"
     },
     {
@@ -383,7 +392,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/ted-cruz-bahamas-flight-cancun-b2113969.html",
         "timestamp": 1656778492,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "July 2, 2022 12:14 PM"
     },
     {
@@ -401,7 +410,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/02/us/extinct-orchid-vermont-scn-trnd/index.html",
         "timestamp": 1656779082,
-        "sentiment": -1,
+        "sentiment": -6,
         "published": "July 2, 2022 12:24 PM"
     },
     {
@@ -410,7 +419,7 @@
         "category": "nottheonion",
         "link": "https://www.newsweek.com/idaho-lt-governor-defers-pay-after-office-ends-fiscal-year-72-cents-1721220",
         "timestamp": 1656779245,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 2, 2022 12:27 PM"
     },
     {
@@ -419,7 +428,7 @@
         "category": "politics",
         "link": "https://www.motherjones.com/politics/2022/07/minnesota-legalized-edibles-after-a-republican-didnt-read-the-bill/",
         "timestamp": 1656779440,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "July 2, 2022 12:30 PM"
     },
     {
@@ -432,13 +441,13 @@
         "published": "July 2, 2022 12:57 PM"
     },
     {
-        "title": "Keanu Reeves’ Vintage 911 Was Stolen, so Porsche Built Him a Custom Car",
-        "domain": "motorbiscuit.com",
-        "category": "news",
-        "link": "https://www.motorbiscuit.com/keanu-reeves-vintage-911-stolen-porsche-built-custom-car/",
-        "timestamp": 1656781425,
+        "title": "Uvalde schools police Chief Pete Arredondo resigns from city council",
+        "domain": "texastribune.org",
+        "category": "politics",
+        "link": "https://www.texastribune.org/2022/07/02/uvalde-school-police-chief-pete-arredondo-resigns/",
+        "timestamp": 1656782384,
         "sentiment": -1,
-        "published": "July 2, 2022 1:03 PM"
+        "published": "July 2, 2022 1:19 PM"
     },
     {
         "title": "Metaverse years from being global phenomenon, says pioneer",
@@ -455,7 +464,7 @@
         "category": "television",
         "link": "https://www.latimes.com/entertainment-arts/tv/story/2022-07-01/danny-roberts-hiv-positive-the-real-world-homecoming-new-orleans",
         "timestamp": 1656783275,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 2, 2022 1:34 PM"
     },
     {
@@ -464,7 +473,7 @@
         "category": "nottheonion",
         "link": "https://www.newindianexpress.com/states/tamil-nadu/2022/jul/01/worlds-first-tamil-biblestolen-from-thanjavurtraced-to-london-museum-2471836.html",
         "timestamp": 1656784380,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 2, 2022 1:53 PM"
     },
     {
@@ -473,7 +482,7 @@
         "category": "UpliftingNews",
         "link": "https://www.wkyt.com/2022/06/30/judge-grants-aclus-request-restraining-order-kentucky-abortion-ban/",
         "timestamp": 1656784766,
-        "sentiment": 5,
+        "sentiment": 0,
         "published": "July 2, 2022 1:59 PM"
     },
     {
@@ -482,7 +491,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/shes-10-child-rape-victims-abortion-denial-sparks-outrage-twitter-1721248",
         "timestamp": 1656785052,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "July 2, 2022 2:04 PM"
     },
     {
@@ -491,17 +500,8 @@
         "category": "UpliftingNews",
         "link": "https://www.nbcnews.com/meet-the-press/meetthepressblog/house-republicans-backed-jan-6-commission-won-primaries-far-rcna35928",
         "timestamp": 1656785208,
-        "sentiment": 5,
+        "sentiment": 0,
         "published": "July 2, 2022 2:06 PM"
-    },
-    {
-        "title": "School police Chief Pete Arredondo resigns from Uvalde City Council",
-        "domain": "dallasnews.com",
-        "category": "UpliftingNews",
-        "link": "https://www.dallasnews.com/news/texas/2022/07/02/school-police-chief-pete-arredondo-resigns-from-uvalde-city-council/",
-        "timestamp": 1656785269,
-        "sentiment": 5,
-        "published": "July 2, 2022 2:07 PM"
     },
     {
         "title": "Uvalde schools’ police Chief Pete Arredondo resigns from City Council",
@@ -509,7 +509,7 @@
         "category": "news",
         "link": "https://www.pbs.org/newshour/nation/uvalde-schools-police-chief-pete-arredondo-resigns-from-city-council",
         "timestamp": 1656785303,
-        "sentiment": -1,
+        "sentiment": -6,
         "published": "July 2, 2022 2:08 PM"
     },
     {
@@ -518,7 +518,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/02/us/pete-arredondo-resigns-uvalde-city-council/index.html",
         "timestamp": 1656786154,
-        "sentiment": -1,
+        "sentiment": -6,
         "published": "July 2, 2022 2:22 PM"
     },
     {
@@ -527,7 +527,7 @@
         "category": "sports",
         "link": "https://lastwordonsports.com/tennis/2022/07/02/alize-cornet-snaps-iga-swiatek-37-match-winning-streak-at-wimbledon/",
         "timestamp": 1656786251,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 2, 2022 2:24 PM"
     },
     {
@@ -536,7 +536,7 @@
         "category": "television",
         "link": "https://slate.com/culture/2022/07/mormon-no-more-under-the-banner-heaven-stay-sweet-review.html",
         "timestamp": 1656787242,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 2, 2022 2:40 PM"
     },
     {
@@ -545,8 +545,17 @@
         "category": "nottheonion",
         "link": "https://nft.edieta.org/cryptocurrency/cryptonews/16274",
         "timestamp": 1656787380,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 2, 2022 2:43 PM"
+    },
+    {
+        "title": "David McGrath: I feel imprisoned in Ron DeSantis’ Florida on the Fourth of July",
+        "domain": "chicagotribune.com",
+        "category": "florida",
+        "link": "https://www.chicagotribune.com/opinion/commentary/ct-opinion-florida-desantis-dont-say-gay-crt-book-ban-20220701-yop4qh6tmvbitmkzesfhobssmu-story.html",
+        "timestamp": 1656787866,
+        "sentiment": -2,
+        "published": "July 2, 2022 2:51 PM"
     },
     {
         "title": "15 centuries ago, extreme dry conditions contributed to the decline of South Arabian kingdom of Himyar. Political unrest, war and droughts left behind a region in disarray, thereby helping to create the conditions on the Arabian peninsula that made possible the spread of the religion of Islam",
@@ -572,7 +581,7 @@
         "category": "news",
         "link": "https://www.washingtonpost.com/nation/2022/07/01/texas-board-education-slavery-involuntary-relocation/",
         "timestamp": 1656789009,
-        "sentiment": -1,
+        "sentiment": -6,
         "published": "July 2, 2022 3:10 PM"
     },
     {
@@ -581,7 +590,7 @@
         "category": "news",
         "link": "https://www.newschannel5.com/news/newschannel-5-investigates/revealed/revealed-teachers-come-from-dumbest-parts-of-dumbest-colleges-tenn-governors-education-advisor-tells-him",
         "timestamp": 1656789148,
-        "sentiment": -1,
+        "sentiment": -6,
         "published": "July 2, 2022 3:12 PM"
     },
     {
@@ -590,17 +599,17 @@
         "category": "florida",
         "link": "https://wsvn.com/news/local/um-pediatrician-removed-from-state-board-after-publicly-criticizing-delayed-access-to-covid-19-vaccine-for-children-under-5/",
         "timestamp": 1656789210,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 2, 2022 3:13 PM"
     },
     {
-        "title": "Nigerian Official Fake Faints During Questioning About 536M In Missing Funds.",
-        "domain": "yardhype.com",
-        "category": "nottheonion",
-        "link": "https://yardhype.com/nigerian-official-fake-faints-during-questioning-about-536m-in-missing-funds-watch-video/",
-        "timestamp": 1656789381,
+        "title": "Lukashenko accused Ukraine of shelling Belarus and ordered to ''put” opponents’ capitals “at gunpoint”",
+        "domain": "pravda.com.ua",
+        "category": "ukraine",
+        "link": "https://www.pravda.com.ua/eng/news/2022/07/2/7356018/",
+        "timestamp": 1656791215,
         "sentiment": -2,
-        "published": "July 2, 2022 3:16 PM"
+        "published": "July 2, 2022 3:46 PM"
     },
     {
         "title": "Women's own body dissatisfaction appears to influence their judgment of other women's body sizes",
@@ -617,8 +626,44 @@
         "category": "UpliftingNews",
         "link": "https://pix11.com/news/local-news/brooklyn/ny-aquarium-to-fully-reopen-for-first-time-since-superstorm-sandy/?fbclid=IwAR3l-PF1x7L2m4Ya5W6pyxLSPWYwIThGrul5rHHY4HZ4TFgQBwElIc9ksmk&fs=e&s=cl",
         "timestamp": 1656792014,
-        "sentiment": 5,
+        "sentiment": 0,
         "published": "July 2, 2022 4:00 PM"
+    },
+    {
+        "title": "Manchin, Sinema critics say GOP will end filibuster anyway to ban abortion",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/manchin-sinema-critics-say-gop-will-end-filibuster-anyway-ban-abortion-1721215",
+        "timestamp": 1656761270,
+        "sentiment": -4,
+        "published": "July 2, 2022 7:27 AM"
+    },
+    {
+        "title": "Keanu Reeves’ Vintage 911 Was Stolen, so Porsche Built Him a Custom Car",
+        "domain": "motorbiscuit.com",
+        "category": "news",
+        "link": "https://www.motorbiscuit.com/keanu-reeves-vintage-911-stolen-porsche-built-custom-car/",
+        "timestamp": 1656781425,
+        "sentiment": -1,
+        "published": "July 2, 2022 1:03 PM"
+    },
+    {
+        "title": "School police Chief Pete Arredondo resigns from Uvalde City Council",
+        "domain": "dallasnews.com",
+        "category": "UpliftingNews",
+        "link": "https://www.dallasnews.com/news/texas/2022/07/02/school-police-chief-pete-arredondo-resigns-from-uvalde-city-council/",
+        "timestamp": 1656785269,
+        "sentiment": 5,
+        "published": "July 2, 2022 2:07 PM"
+    },
+    {
+        "title": "Nigerian Official Fake Faints During Questioning About 536M In Missing Funds.",
+        "domain": "yardhype.com",
+        "category": "nottheonion",
+        "link": "https://yardhype.com/nigerian-official-fake-faints-during-questioning-about-536m-in-missing-funds-watch-video/",
+        "timestamp": 1656789381,
+        "sentiment": -2,
+        "published": "July 2, 2022 3:16 PM"
     },
     {
         "title": "WHO says monkeypox cases triple in Europe in two weeks, urgent action needed to contain spread",
@@ -637,15 +682,6 @@
         "timestamp": 1656751785,
         "sentiment": -1,
         "published": "July 2, 2022 4:49 AM"
-    },
-    {
-        "title": "Indigenous leader who opposed illegal mining killed in Venezuela -NGO",
-        "domain": "reuters.com",
-        "category": "news",
-        "link": "https://www.reuters.com/world/americas/indigenous-leader-who-opposed-illegal-mining-killed-venezuela-ngo-2022-07-01/",
-        "timestamp": 1656761460,
-        "sentiment": 2,
-        "published": "July 2, 2022 7:31 AM"
     },
     {
         "title": "Major cryptocurrency exchange signs $1.4 million deal to help ICE track crypto trades",
@@ -718,15 +754,6 @@
         "timestamp": 1656772008,
         "sentiment": -4,
         "published": "July 2, 2022 10:26 AM"
-    },
-    {
-        "title": "Police looking to identify Puslinch, Ont. man who paved driveway without permission",
-        "domain": "kitchener.ctvnews.ca",
-        "category": "nottheonion",
-        "link": "https://kitchener.ctvnews.ca/man-wanted-for-paving-puslinch-ont-driveway-without-permission-1.5971205",
-        "timestamp": 1656775491,
-        "sentiment": 0,
-        "published": "July 2, 2022 11:24 AM"
     },
     {
         "title": "Swiss restaurant fines those who don’t finish their meals",
