@@ -9,21 +9,12 @@
         "published": "July 1, 2022 1:43 AM"
     },
     {
-        "title": "James Webb Space Telescope 1st photos will include 'deepest image of our universe'",
-        "domain": "space.com",
-        "category": "technology",
-        "link": "https://www.space.com/james-webb-space-telescope-first-images-teaser",
-        "timestamp": 1656658013,
-        "sentiment": 0,
-        "published": "July 1, 2022 2:46 AM"
-    },
-    {
         "title": "People with no mind’s eye have less vivid and detailed memories. Researchers report that aphantasics have less detailed and rich memories for events in their lives: a finding that not only reveals more about the condition, but also highlights the key role of mental imagery in memory generally.",
         "domain": "digest.bps.org.uk",
         "category": "science",
         "link": "https://digest.bps.org.uk/2022/07/01/people-with-no-minds-eye-have-less-vivid-and-detailed-memories/",
         "timestamp": 1656669412,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 1, 2022 5:56 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/07/01/naomi-klein-us-midst-shock-and-awe-judicial-coup",
         "timestamp": 1656671845,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "July 1, 2022 6:37 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "science",
         "link": "https://www.the-scientist.com/news-opinion/grape-doling-tourists-gave-endangered-iguanas-high-blood-sugar-69931",
         "timestamp": 1656673634,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 1, 2022 7:07 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/07/01/schools-out-forever-arizona-moves-to-public-education-with-new-universal-voucher-law/",
         "timestamp": 1656675064,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "July 1, 2022 7:31 AM"
     },
     {
@@ -133,15 +124,6 @@
         "timestamp": 1656678408,
         "sentiment": 0,
         "published": "July 1, 2022 8:26 AM"
-    },
-    {
-        "title": "Trump allies paid legal fees for multiple Jan. 6 witnesses, including Cassidy Hutchinson, sparking witness-influencing concerns, report says",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/trump-allies-paid-multiple-jan-6-witness-legal-fees-nyt-2022-7",
-        "timestamp": 1656679087,
-        "sentiment": 1,
-        "published": "July 1, 2022 8:38 AM"
     },
     {
         "title": "Mark Meadows’ associate threatened ex-White House aide before her testimony",
@@ -194,7 +176,7 @@
         "category": "politics",
         "link": "https://www.lgbtqnation.com/2022/07/bisexual-daughter-cuts-ties-dad-hes-gop-state-senator-taking-rights-away/",
         "timestamp": 1656682293,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "July 1, 2022 9:31 AM"
     },
     {
@@ -203,7 +185,7 @@
         "category": "sports",
         "link": "https://www.cnn.com/2022/07/01/europe/russia-brittney-griner-trial-intl/index.html",
         "timestamp": 1656683026,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 1, 2022 9:43 AM"
     },
     {
@@ -221,7 +203,7 @@
         "category": "technology",
         "link": "https://www.dailydot.com/debug/broadband-telecom-monopolies-covid-subsidies/",
         "timestamp": 1656683690,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 1, 2022 9:54 AM"
     },
     {
@@ -230,7 +212,7 @@
         "category": "science",
         "link": "https://www.psychnewsdaily.com/reddit-toxic-usernames-and-toxic-content/",
         "timestamp": 1656684413,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 1, 2022 10:06 AM"
     },
     {
@@ -239,7 +221,7 @@
         "category": "television",
         "link": "https://www.npr.org/2022/07/01/1105295933/the-simpsons-production-workers-say-they-deserve-a-place-at-the-table",
         "timestamp": 1656684832,
-        "sentiment": 2,
+        "sentiment": 3,
         "published": "July 1, 2022 10:13 AM"
     },
     {
@@ -275,7 +257,7 @@
         "category": "politics",
         "link": "https://www.theatlantic.com/politics/archive/2022/06/biden-roe-response-democrats-2024-election/661449/",
         "timestamp": 1656687335,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "July 1, 2022 10:55 AM"
     },
     {
@@ -284,7 +266,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/why-women-kill-canceled-paramount-plus-1235307752/",
         "timestamp": 1656687670,
-        "sentiment": 2,
+        "sentiment": 3,
         "published": "July 1, 2022 11:01 AM"
     },
     {
@@ -293,7 +275,7 @@
         "category": "science",
         "link": "https://www.sciencenews.org/article/space-bone-loss-density-astronaut-recovery-gravity",
         "timestamp": 1656688106,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 1, 2022 11:08 AM"
     },
     {
@@ -302,7 +284,7 @@
         "category": "science",
         "link": "https://pubs.geoscienceworld.org/sepm/palaios/article-abstract/37/6/292/614825/END-PERMIAN-BURNOUT-THE-ROLE-OF-PERMIAN-TRIASSIC?redirectedFrom=fulltext",
         "timestamp": 1656689607,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 1, 2022 11:33 AM"
     },
     {
@@ -311,7 +293,7 @@
         "category": "sports",
         "link": "https://www.espn.com/olympics/story/_/id/34179511/simone-biles-megan-rapinoe-recipients-presidential-medal-freedom",
         "timestamp": 1656690076,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 1, 2022 11:41 AM"
     },
     {
@@ -356,17 +338,8 @@
         "category": "technology",
         "link": "https://arstechnica.com/tech-policy/2022/07/googles-default-privacy-settings-are-too-evil-eu-consumer-rights-groups-say/",
         "timestamp": 1656692572,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 1, 2022 12:22 PM"
-    },
-    {
-        "title": "War in Ukraine: France now considered as an \"unfriendly states of Russia\"... What does that mean?",
-        "domain": "ladepeche.fr",
-        "category": "ukraine",
-        "link": "https://www.ladepeche.fr/2022/06/20/guerre-en-ukraine-la-france-est-passee-dans-le-camp-des-etats-inamicaux-de-la-russie-quest-ce-que-ca-signifie-10384591.php",
-        "timestamp": 1656693449,
-        "sentiment": 10,
-        "published": "July 1, 2022 12:37 PM"
     },
     {
         "title": "Latvia's leader warns U.S. and European leaders against \"war weariness\" as Russia's assault on Ukraine drags on",
@@ -392,7 +365,7 @@
         "category": "politics",
         "link": "https://thehill.com/blogs/in-the-know/3543836-jon-stewart-supreme-court-is-the-fox-news-of-justice/",
         "timestamp": 1656694277,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "July 1, 2022 12:51 PM"
     },
     {
@@ -401,7 +374,7 @@
         "category": "science",
         "link": "https://newatlas.com/biology/underground-carnivorous-pitcher-plant/",
         "timestamp": 1656695081,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 1, 2022 1:04 PM"
     },
     {
@@ -428,17 +401,8 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/campaign/3543867-71-percent-dont-want-biden-to-run-for-reelection-poll/",
         "timestamp": 1656695308,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "July 1, 2022 1:08 PM"
-    },
-    {
-        "title": "Kangaroo ran loose in Baton Rouge area after parrot set it free; owners will have to give it up",
-        "domain": "wbrz.com",
-        "category": "nottheonion",
-        "link": "https://www.wbrz.com/news/kangaroo-ran-loose-in-baton-rouge-area-after-parrot-set-it-free-owners-will-have-to-give-it-up",
-        "timestamp": 1656695649,
-        "sentiment": -2,
-        "published": "July 1, 2022 1:14 PM"
     },
     {
         "title": "Strong link found between emotional childhood abuse and schizophrenia: A new study has, for the first time, identified a strong link between childhood emotional abuse and schizophrenia-like experiences in healthy adults, such as paranoia, hearing voices, and social withdrawal.",
@@ -446,7 +410,7 @@
         "category": "science",
         "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0270494",
         "timestamp": 1656695677,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 1, 2022 1:14 PM"
     },
     {
@@ -455,7 +419,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/tiktok-confirms-us-user-data-accessed-in-china-bytedance-2022-7",
         "timestamp": 1656696271,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 1, 2022 1:24 PM"
     },
     {
@@ -482,7 +446,7 @@
         "category": "nottheonion",
         "link": "https://jacobin.com/2022/07/starbucks-union-workers-united-firing-union-busting/",
         "timestamp": 1656698315,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "July 1, 2022 1:58 PM"
     },
     {
@@ -491,7 +455,7 @@
         "category": "nottheonion",
         "link": "https://www.theregister.com/2022/07/01/apple_lawyer_insider_trading/",
         "timestamp": 1656699398,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "July 1, 2022 2:16 PM"
     },
     {
@@ -509,7 +473,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/clarence-thomas-petition-impeach-roe-versus-wade-abortion-jan-6-nearly-million-1721025",
         "timestamp": 1656699736,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "July 1, 2022 2:22 PM"
     },
     {
@@ -527,7 +491,7 @@
         "category": "politics",
         "link": "https://www.dispatch.com/story/news/2022/07/01/ohio-girl-10-among-patients-going-indiana-abortion/7788415001/",
         "timestamp": 1656700980,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "July 1, 2022 2:43 PM"
     },
     {
@@ -536,7 +500,7 @@
         "category": "science",
         "link": "https://www.psypost.org/2022/07/people-who-lack-cognitive-reflectiveness-are-more-likely-to-believe-trumps-false-election-fraud-claims-study-finds-63415",
         "timestamp": 1656701729,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 1, 2022 2:55 PM"
     },
     {
@@ -545,7 +509,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/stranger-things-nielsen-streaming-top-10-ratings-1235301882/",
         "timestamp": 1656701933,
-        "sentiment": 2,
+        "sentiment": 3,
         "published": "July 1, 2022 2:58 PM"
     },
     {
@@ -563,7 +527,7 @@
         "category": "television",
         "link": "https://trekmovie.com/2022/07/01/producution-has-wrapped-on-star-trek-strange-new-worlds-season-2/",
         "timestamp": 1656702750,
-        "sentiment": 2,
+        "sentiment": 3,
         "published": "July 1, 2022 3:12 PM"
     },
     {
@@ -572,7 +536,7 @@
         "category": "technology",
         "link": "https://archive.ph/8PFHQ",
         "timestamp": 1656703615,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 1, 2022 3:26 PM"
     },
     {
@@ -581,7 +545,7 @@
         "category": "politics",
         "link": "https://www.nytimes.com/2022/06/27/us/aoc-roe-abortion-scotus.html",
         "timestamp": 1656704011,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "July 1, 2022 3:33 PM"
     },
     {
@@ -590,7 +554,7 @@
         "category": "technology",
         "link": "https://www.psychnewsdaily.com/reddit-toxic-usernames-and-toxic-content/",
         "timestamp": 1656704024,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 1, 2022 3:33 PM"
     },
     {
@@ -599,7 +563,7 @@
         "category": "television",
         "link": "https://tvline.com/2022/07/01/resident-alien-season-2-trailer-return-date-watch-video/",
         "timestamp": 1656704653,
-        "sentiment": 2,
+        "sentiment": 3,
         "published": "July 1, 2022 3:44 PM"
     },
     {
@@ -608,7 +572,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/07/the-time-travelers-wife-canceled-hbo-one-season-1235054863/",
         "timestamp": 1656705741,
-        "sentiment": 2,
+        "sentiment": 3,
         "published": "July 1, 2022 4:02 PM"
     },
     {
@@ -626,7 +590,7 @@
         "category": "sports",
         "link": "https://www.espn.com/tennis/story/_/id/34178743/wimbledon-2022-john-isner-becomes-all-leading-ace-leader-atp-tour-history?platform=amp",
         "timestamp": 1656707455,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 1, 2022 4:30 PM"
     },
     {
@@ -644,8 +608,17 @@
         "category": "television",
         "link": "https://deadline.com/2022/07/ten-year-old-tom-renewed-season-2-hbo-max-1235054991/",
         "timestamp": 1656708746,
-        "sentiment": 2,
+        "sentiment": 3,
         "published": "July 1, 2022 4:52 PM"
+    },
+    {
+        "title": "Evidence Shouldn’t Be Optional: This Supreme Court often ignores science when handing down decisions, and it affects far too many lives",
+        "domain": "scientificamerican.com",
+        "category": "politics",
+        "link": "https://www.scientificamerican.com/article/evidence-shouldnt-be-optional/",
+        "timestamp": 1656709631,
+        "sentiment": 3,
+        "published": "July 1, 2022 5:07 PM"
     },
     {
         "title": "Authoritarian aggression and submission are linked to the desire to denigrate those of high status, study finds",
@@ -653,7 +626,7 @@
         "category": "science",
         "link": "https://psypost.us10.list-manage.com/track/click?u=daf529354be7f32083812abb1&id=ae03bfdf26&e=bb420f0863",
         "timestamp": 1656710391,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 1, 2022 5:19 PM"
     },
     {
@@ -662,7 +635,7 @@
         "category": "technology",
         "link": "https://www.theverge.com/2022/7/1/23191965/google-abortion-privacy-policy-location-history-period-tracking-deletion",
         "timestamp": 1656710822,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 1, 2022 5:27 PM"
     },
     {
@@ -675,12 +648,21 @@
         "published": "July 1, 2022 5:39 PM"
     },
     {
+        "title": "'Stranger Things' season finale succeeds by leaning into excess",
+        "domain": "npr.org",
+        "category": "television",
+        "link": "https://www.npr.org/2022/07/01/1109327012/stranger-things-finale-review",
+        "timestamp": 1656712030,
+        "sentiment": 3,
+        "published": "July 1, 2022 5:47 PM"
+    },
+    {
         "title": "Utah Republican apologises for saying women can control ‘intake of semen’",
         "domain": "theguardian.com",
         "category": "nottheonion",
         "link": "https://www.theguardian.com/us-news/2022/jul/01/utah-republican-women-control-intake-of-semen-abortion",
         "timestamp": 1656712149,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "July 1, 2022 5:49 PM"
     },
     {
@@ -689,7 +671,7 @@
         "category": "sports",
         "link": "https://twitter.com/surjansingh_/status/1542931698827943938?s=20&t=_TntB1wTXMxedlBXhzZa5Q",
         "timestamp": 1656712602,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 1, 2022 5:56 PM"
     },
     {
@@ -698,7 +680,7 @@
         "category": "science",
         "link": "https://newsroom.ucla.edu/releases/hiv-speeds-up-biologic-changes-associated-with-aging",
         "timestamp": 1656712799,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 1, 2022 5:59 PM"
     },
     {
@@ -707,7 +689,7 @@
         "category": "nottheonion",
         "link": "https://www.chron.com/life/travel/article/Delta-Air-Lines-offered-10-000-to-passengers-17279222.php",
         "timestamp": 1656713823,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "July 1, 2022 6:17 PM"
     },
     {
@@ -725,8 +707,17 @@
         "category": "technology",
         "link": "https://www.nytimes.com/2022/07/01/technology/google-says-it-will-delete-location-data-when-users-visit-abortion-clinics.html",
         "timestamp": 1656714424,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 1, 2022 6:27 PM"
+    },
+    {
+        "title": "Inventor of the cell phone says put down your devices and get a life",
+        "domain": "nypost.com",
+        "category": "technology",
+        "link": "https://nypost.com/2022/07/01/inventor-of-worlds-first-cell-phone-put-down-your-devices/",
+        "timestamp": 1656715009,
+        "sentiment": 1,
+        "published": "July 1, 2022 6:36 PM"
     },
     {
         "title": "Michael Vick Sued by Creditors for $1.2 Million in Loans, per Report",
@@ -734,8 +725,53 @@
         "category": "sports",
         "link": "https://www.si.com/nfl/2022/07/01/michael-vick-sued-over-1-2-million-in-loans-by-creditors",
         "timestamp": 1656718810,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 1, 2022 7:40 PM"
+    },
+    {
+        "title": "Google says it will delete location history for visits to abortion clinics after overturning of Roe v. Wade",
+        "domain": "cnbc.com",
+        "category": "technology",
+        "link": "https://www.cnbc.com/2022/07/01/google-will-delete-location-history-for-visits-to-abortion-clinics.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard",
+        "timestamp": 1656719296,
+        "sentiment": 1,
+        "published": "July 1, 2022 7:48 PM"
+    },
+    {
+        "title": "James Webb Space Telescope 1st photos will include 'deepest image of our universe'",
+        "domain": "space.com",
+        "category": "technology",
+        "link": "https://www.space.com/james-webb-space-telescope-first-images-teaser",
+        "timestamp": 1656658013,
+        "sentiment": 0,
+        "published": "July 1, 2022 2:46 AM"
+    },
+    {
+        "title": "Trump allies paid legal fees for multiple Jan. 6 witnesses, including Cassidy Hutchinson, sparking witness-influencing concerns, report says",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/trump-allies-paid-multiple-jan-6-witness-legal-fees-nyt-2022-7",
+        "timestamp": 1656679087,
+        "sentiment": 1,
+        "published": "July 1, 2022 8:38 AM"
+    },
+    {
+        "title": "War in Ukraine: France now considered as an \"unfriendly states of Russia\"... What does that mean?",
+        "domain": "ladepeche.fr",
+        "category": "ukraine",
+        "link": "https://www.ladepeche.fr/2022/06/20/guerre-en-ukraine-la-france-est-passee-dans-le-camp-des-etats-inamicaux-de-la-russie-quest-ce-que-ca-signifie-10384591.php",
+        "timestamp": 1656693449,
+        "sentiment": 10,
+        "published": "July 1, 2022 12:37 PM"
+    },
+    {
+        "title": "Kangaroo ran loose in Baton Rouge area after parrot set it free; owners will have to give it up",
+        "domain": "wbrz.com",
+        "category": "nottheonion",
+        "link": "https://www.wbrz.com/news/kangaroo-ran-loose-in-baton-rouge-area-after-parrot-set-it-free-owners-will-have-to-give-it-up",
+        "timestamp": 1656695649,
+        "sentiment": -2,
+        "published": "July 1, 2022 1:14 PM"
     },
     {
         "title": "Fourth-generation vaping devices increase risk to immune cells: Some fourth-generation models—such as Juul devices—are associated with unique changes in markers of immune responses inside our airways, according to a new paper from UNC School of Medicine researchers.",
