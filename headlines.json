@@ -5,7 +5,7 @@
         "category": "nottheonion",
         "link": "https://lenews.ch/2022/07/02/swiss-restaurant-fines-those-who-dont-finish-their-meals/",
         "timestamp": 1656735592,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 2, 2022 12:19 AM"
     },
     {
@@ -14,8 +14,242 @@
         "category": "UpliftingNews",
         "link": "https://www.theguardian.com/world/2022/jul/02/i-was-crying-rock-legend-randy-bachman-reunited-with-stolen-guitar-45-years-on?utm_term=Autofeed&CMP=twt_b-gdnnews&utm_medium=Social&utm_source=Twitter&s=09#Echobox=1656730401",
         "timestamp": 1656735862,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 2, 2022 12:24 AM"
+    },
+    {
+        "title": "Painkillers are dispensed less freely by night-shift doctors. Physicians show less empathy at the end of a night shift than after a daytime stint — and are less likely to prescribe drugs for treating pain.",
+        "domain": "pnas.org",
+        "category": "science",
+        "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2200047119",
+        "timestamp": 1656736996,
+        "sentiment": -3,
+        "published": "July 2, 2022 12:43 AM"
+    },
+    {
+        "title": "Drivers handed record 8.6 million parking tickets by private firms over 12 months",
+        "domain": "news.sky.com",
+        "category": "nottheonion",
+        "link": "https://news.sky.com/story/drivers-handed-record-86-million-parking-tickets-by-private-firms-over-12-months-12644088",
+        "timestamp": 1656737675,
+        "sentiment": -3,
+        "published": "July 2, 2022 12:54 AM"
+    },
+    {
+        "title": "No 10 considers 50-year mortgages that could pass down generations [UK]",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/money/2022/jul/01/no-10-considers-50-year-mortgages-that-could-pass-down-generations",
+        "timestamp": 1656737846,
+        "sentiment": -1,
+        "published": "July 2, 2022 12:57 AM"
+    },
+    {
+        "title": "‘JoJo’s Bizarre Adventure: Stone Ocean’ Part 2 Premieres September 1, 2022 on Netflix",
+        "domain": "animenewsnetwork.com",
+        "category": "television",
+        "link": "https://www.animenewsnetwork.com/news/2022-07-02/jojo-bizarre-adventure-stone-ocean-anime-2nd-part-streams-new-trailer-reveals-september-1-premiere/.187058",
+        "timestamp": 1656738614,
+        "sentiment": 2,
+        "published": "July 2, 2022 1:10 AM"
+    },
+    {
+        "title": "Environmental protection of the earth, entrusted to artificial intelligence",
+        "domain": "boudy-technology.tn",
+        "category": "science",
+        "link": "https://www.boudy-technology.tn/2022/07/earth-protection-artificial-intelligence.html",
+        "timestamp": 1656739878,
+        "sentiment": -3,
+        "published": "July 2, 2022 1:31 AM"
+    },
+    {
+        "title": "Oath Keepers will tell a jury they believed Donald Trump would turn them into his own personal militia on January 6",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/oath-keepers-to-tell-jury-they-believed-trump-would-federalize-them-2022-6",
+        "timestamp": 1656740837,
+        "sentiment": 4,
+        "published": "July 2, 2022 1:47 AM"
+    },
+    {
+        "title": "India bans single-use plastic to combat pollution",
+        "domain": "cnn.com",
+        "category": "UpliftingNews",
+        "link": "https://www.cnn.com/2022/07/01/india/india-bans-single-use-plastic-intl-hnk/index.html",
+        "timestamp": 1656742693,
+        "sentiment": 3,
+        "published": "July 2, 2022 2:18 AM"
+    },
+    {
+        "title": "‘Friends’ Creator Donates $4 Million Due to ‘Guilt’ and Embarrassment Over Show’s Zero Diversity",
+        "domain": "variety.com",
+        "category": "nottheonion",
+        "link": "https://variety.com/2022/tv/news/friends-creator-embarrassed-diversity-donates-4-million-1235307727/",
+        "timestamp": 1656742918,
+        "sentiment": -3,
+        "published": "July 2, 2022 2:21 AM"
+    },
+    {
+        "title": "A 'Doom' mobile game from 2005 is now playable on Windows",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/doom-rpg-port-windows-203048062.html",
+        "timestamp": 1656743624,
+        "sentiment": 0,
+        "published": "July 2, 2022 2:33 AM"
+    },
+    {
+        "title": "Australians rally against U.S. overturning of key abortion ruling",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/australians-rally-against-us-overturning-key-abortion-ruling-2022-07-02/",
+        "timestamp": 1656744636,
+        "sentiment": -1,
+        "published": "July 2, 2022 2:50 AM"
+    },
+    {
+        "title": "WHO says monkeypox cases triple in Europe in two weeks, urgent action needed to contain spread",
+        "domain": "cnbc.com",
+        "category": "worldnews",
+        "link": "https://www.cnbc.com/2022/07/01/who-says-monkeypox-cases-triple-in-europe-in-two-weeks-urgent-action-needed-to-contain-spread.html",
+        "timestamp": 1656745103,
+        "sentiment": -1,
+        "published": "July 2, 2022 2:58 AM"
+    },
+    {
+        "title": "Red Bull Drinkers Can Claim $10 Over 'Gives You Wings' Lawsuit",
+        "domain": "nbcnews.com",
+        "category": "nottheonion",
+        "link": "https://www.nbcnews.com/business/consumer/red-bull-drinkers-can-claim-10-over-gives-you-wings-n221901",
+        "timestamp": 1656749786,
+        "sentiment": -3,
+        "published": "July 2, 2022 4:16 AM"
+    },
+    {
+        "title": "Nigerian Islamic court orders death by stoning for men convicted of homosexuality",
+        "domain": "bdnews24.com",
+        "category": "worldnews",
+        "link": "https://bdnews24.com/world/africa/2022/07/02/nigerian-islamic-court-orders-death-by-stoning-for-men-convicted-of-homosexuality",
+        "timestamp": 1656751565,
+        "sentiment": -1,
+        "published": "July 2, 2022 4:46 AM"
+    },
+    {
+        "title": "Ukraine says Russia dropped phosphorus bombs on Snake Island | News",
+        "domain": "aljazeera.com",
+        "category": "news",
+        "link": "https://www.aljazeera.com/news/2022/7/1/ukraine-says-russia-dropped-phosphorus-bombs-on-snake-island",
+        "timestamp": 1656753904,
+        "sentiment": 0,
+        "published": "July 2, 2022 5:25 AM"
+    },
+    {
+        "title": "Ukrainian artillery units destroy much-touted Russian Pantsyr missile system",
+        "domain": "pravda.com.ua",
+        "category": "worldnews",
+        "link": "https://www.pravda.com.ua/eng/news/2022/07/2/7355933/",
+        "timestamp": 1656756014,
+        "sentiment": -1,
+        "published": "July 2, 2022 6:00 AM"
+    },
+    {
+        "title": "Ex-boyfriend arrested in killing of mother pushing baby in stroller in NYC",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/ex-boyfriend-arrested-killing-mother-pushing-baby-stroller-nyc-rcna36436",
+        "timestamp": 1656757351,
+        "sentiment": 0,
+        "published": "July 2, 2022 6:22 AM"
+    },
+    {
+        "title": "Slow spin of early galaxy observed for the first time",
+        "domain": "cam.ac.uk",
+        "category": "science",
+        "link": "https://www.cam.ac.uk/research/news/slow-spin-of-early-galaxy-observed-for-the-first-time",
+        "timestamp": 1656757717,
+        "sentiment": -3,
+        "published": "July 2, 2022 6:28 AM"
+    },
+    {
+        "title": "Three police die in Kentucky shooting while serving domestic violence warrant |",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2022/jul/02/three-police-die-in-kentucky-shooting-while-serving-domestic-violence-warrant",
+        "timestamp": 1656759571,
+        "sentiment": 0,
+        "published": "July 2, 2022 6:59 AM"
+    },
+    {
+        "title": "How your brainwaves could be used in criminal trials",
+        "domain": "techxplore.com",
+        "category": "technology",
+        "link": "https://techxplore.com/news/2022-07-brainwaves-criminal-trials.html",
+        "timestamp": 1656759661,
+        "sentiment": 0,
+        "published": "July 2, 2022 7:01 AM"
+    },
+    {
+        "title": "Couple left 'petrified' after being approached by man in gimp suit",
+        "domain": "somersetlive.co.uk",
+        "category": "nottheonion",
+        "link": "https://www.somersetlive.co.uk/news/couple-left-petfrified-after-being-7264721",
+        "timestamp": 1656759860,
+        "sentiment": -3,
+        "published": "July 2, 2022 7:04 AM"
+    },
+    {
+        "title": "Google let a sanctioned Russian company access data belonging to Americans and Europeans for months. The report's author says there's a 'huge danger' if it was shared with the Russian government.",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/google-let-sanctioned-russian-firm-access-data-of-americans-europeans-2022-7",
+        "timestamp": 1656760019,
+        "sentiment": -1,
+        "published": "July 2, 2022 7:06 AM"
+    },
+    {
+        "title": "Beware: The Supreme Court Is Laying Groundwork to Pre-Rig the 2024 Election",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/views/2022/07/01/beware-supreme-court-laying-groundwork-pre-rig-2024-election",
+        "timestamp": 1656761038,
+        "sentiment": 4,
+        "published": "July 2, 2022 7:23 AM"
+    },
+    {
+        "title": "Google will start auto-deleting abortion clinic visits from user location history",
+        "domain": "binsider.bond",
+        "category": "UpliftingNews",
+        "link": "https://www.binsider.bond/google-will-start-auto-deleting-abortion-clinic-visits-from-user-location-history/",
+        "timestamp": 1656762130,
+        "sentiment": 3,
+        "published": "July 2, 2022 7:42 AM"
+    },
+    {
+        "title": "Caught on Video: 20-year-old jumps into action, rescues man who fell onto electrified third rail",
+        "domain": "6abc.com",
+        "category": "UpliftingNews",
+        "link": "https://6abc.com/20-year-old-saves-man-on-chicago-rail-electrified-third-anthony-perry-cta-station/11941169/",
+        "timestamp": 1656762679,
+        "sentiment": 3,
+        "published": "July 2, 2022 7:51 AM"
+    },
+    {
+        "title": "Texas educators propose teaching slavery as “involuntary relocation”",
+        "domain": "cnn.com",
+        "category": "nottheonion",
+        "link": "https://www.cnn.com/2022/07/02/us/texas-group-proposes-school-slavery-language/index.html",
+        "timestamp": 1656764389,
+        "sentiment": -3,
+        "published": "July 2, 2022 8:19 AM"
+    },
+    {
+        "title": "WNBA's Brittney Griner goes on trial in Russian court",
+        "domain": "apnews.com",
+        "category": "sports",
+        "link": "https://apnews.com/article/russia-ukraine-entertainment-sports-brittney-griner-phoenix-mercury-bb211359c8d756224f5095016eedebd3",
+        "timestamp": 1656765465,
+        "sentiment": 6,
+        "published": "July 2, 2022 8:37 AM"
     },
     {
         "title": "Ukraine’s south: Air Force pilots hit Russian ammo depot, group of troops",
@@ -27,105 +261,6 @@
         "published": "July 2, 2022 12:38 AM"
     },
     {
-        "title": "Painkillers are dispensed less freely by night-shift doctors. Physicians show less empathy at the end of a night shift than after a daytime stint — and are less likely to prescribe drugs for treating pain.",
-        "domain": "pnas.org",
-        "category": "science",
-        "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2200047119",
-        "timestamp": 1656736996,
-        "sentiment": -2,
-        "published": "July 2, 2022 12:43 AM"
-    },
-    {
-        "title": "Drivers handed record 8.6 million parking tickets by private firms over 12 months",
-        "domain": "news.sky.com",
-        "category": "nottheonion",
-        "link": "https://news.sky.com/story/drivers-handed-record-86-million-parking-tickets-by-private-firms-over-12-months-12644088",
-        "timestamp": 1656737675,
-        "sentiment": -2,
-        "published": "July 2, 2022 12:54 AM"
-    },
-    {
-        "title": "No 10 considers 50-year mortgages that could pass down generations [UK]",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/money/2022/jul/01/no-10-considers-50-year-mortgages-that-could-pass-down-generations",
-        "timestamp": 1656737846,
-        "sentiment": 6,
-        "published": "July 2, 2022 12:57 AM"
-    },
-    {
-        "title": "‘JoJo’s Bizarre Adventure: Stone Ocean’ Part 2 Premieres September 1, 2022 on Netflix",
-        "domain": "animenewsnetwork.com",
-        "category": "television",
-        "link": "https://www.animenewsnetwork.com/news/2022-07-02/jojo-bizarre-adventure-stone-ocean-anime-2nd-part-streams-new-trailer-reveals-september-1-premiere/.187058",
-        "timestamp": 1656738614,
-        "sentiment": 0,
-        "published": "July 2, 2022 1:10 AM"
-    },
-    {
-        "title": "Environmental protection of the earth, entrusted to artificial intelligence",
-        "domain": "boudy-technology.tn",
-        "category": "science",
-        "link": "https://www.boudy-technology.tn/2022/07/earth-protection-artificial-intelligence.html",
-        "timestamp": 1656739878,
-        "sentiment": -2,
-        "published": "July 2, 2022 1:31 AM"
-    },
-    {
-        "title": "Oath Keepers will tell a jury they believed Donald Trump would turn them into his own personal militia on January 6",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/oath-keepers-to-tell-jury-they-believed-trump-would-federalize-them-2022-6",
-        "timestamp": 1656740837,
-        "sentiment": 0,
-        "published": "July 2, 2022 1:47 AM"
-    },
-    {
-        "title": "India bans single-use plastic to combat pollution",
-        "domain": "cnn.com",
-        "category": "UpliftingNews",
-        "link": "https://www.cnn.com/2022/07/01/india/india-bans-single-use-plastic-intl-hnk/index.html",
-        "timestamp": 1656742693,
-        "sentiment": 0,
-        "published": "July 2, 2022 2:18 AM"
-    },
-    {
-        "title": "‘Friends’ Creator Donates $4 Million Due to ‘Guilt’ and Embarrassment Over Show’s Zero Diversity",
-        "domain": "variety.com",
-        "category": "nottheonion",
-        "link": "https://variety.com/2022/tv/news/friends-creator-embarrassed-diversity-donates-4-million-1235307727/",
-        "timestamp": 1656742918,
-        "sentiment": -2,
-        "published": "July 2, 2022 2:21 AM"
-    },
-    {
-        "title": "A 'Doom' mobile game from 2005 is now playable on Windows",
-        "domain": "engadget.com",
-        "category": "technology",
-        "link": "https://www.engadget.com/doom-rpg-port-windows-203048062.html",
-        "timestamp": 1656743624,
-        "sentiment": -2,
-        "published": "July 2, 2022 2:33 AM"
-    },
-    {
-        "title": "Australians rally against U.S. overturning of key abortion ruling",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/australians-rally-against-us-overturning-key-abortion-ruling-2022-07-02/",
-        "timestamp": 1656744636,
-        "sentiment": 6,
-        "published": "July 2, 2022 2:50 AM"
-    },
-    {
-        "title": "WHO says monkeypox cases triple in Europe in two weeks, urgent action needed to contain spread",
-        "domain": "cnbc.com",
-        "category": "worldnews",
-        "link": "https://www.cnbc.com/2022/07/01/who-says-monkeypox-cases-triple-in-europe-in-two-weeks-urgent-action-needed-to-contain-spread.html",
-        "timestamp": 1656745103,
-        "sentiment": 6,
-        "published": "July 2, 2022 2:58 AM"
-    },
-    {
         "title": "In the temporarily occupied Tokmak, a conflict arose between the Russian military, which ended in a shootout. 4 Russians died, and about 10 were injured.",
         "domain": "ukrinform.ua",
         "category": "ukraine",
@@ -133,24 +268,6 @@
         "timestamp": 1656749546,
         "sentiment": 2,
         "published": "July 2, 2022 4:12 AM"
-    },
-    {
-        "title": "Red Bull Drinkers Can Claim $10 Over 'Gives You Wings' Lawsuit",
-        "domain": "nbcnews.com",
-        "category": "nottheonion",
-        "link": "https://www.nbcnews.com/business/consumer/red-bull-drinkers-can-claim-10-over-gives-you-wings-n221901",
-        "timestamp": 1656749786,
-        "sentiment": -2,
-        "published": "July 2, 2022 4:16 AM"
-    },
-    {
-        "title": "Nigerian Islamic court orders death by stoning for men convicted of homosexuality",
-        "domain": "bdnews24.com",
-        "category": "worldnews",
-        "link": "https://bdnews24.com/world/africa/2022/07/02/nigerian-islamic-court-orders-death-by-stoning-for-men-convicted-of-homosexuality",
-        "timestamp": 1656751565,
-        "sentiment": 6,
-        "published": "July 2, 2022 4:46 AM"
     },
     {
         "title": "20 million U.K. iPhone, iPad users could get compensation in £1.5B lawsuit",
@@ -169,33 +286,6 @@
         "timestamp": 1656753723,
         "sentiment": 6,
         "published": "July 2, 2022 5:22 AM"
-    },
-    {
-        "title": "Ukraine says Russia dropped phosphorus bombs on Snake Island | News",
-        "domain": "aljazeera.com",
-        "category": "news",
-        "link": "https://www.aljazeera.com/news/2022/7/1/ukraine-says-russia-dropped-phosphorus-bombs-on-snake-island",
-        "timestamp": 1656753904,
-        "sentiment": 0,
-        "published": "July 2, 2022 5:25 AM"
-    },
-    {
-        "title": "Couple left 'petrified' after being approached by man in gimp suit",
-        "domain": "somersetlive.co.uk",
-        "category": "nottheonion",
-        "link": "https://www.somersetlive.co.uk/news/couple-left-petfrified-after-being-7264721",
-        "timestamp": 1656759860,
-        "sentiment": -2,
-        "published": "July 2, 2022 7:04 AM"
-    },
-    {
-        "title": "Google will start auto-deleting abortion clinic visits from user location history",
-        "domain": "binsider.bond",
-        "category": "UpliftingNews",
-        "link": "https://www.binsider.bond/google-will-start-auto-deleting-abortion-clinic-visits-from-user-location-history/",
-        "timestamp": 1656762130,
-        "sentiment": 0,
-        "published": "July 2, 2022 7:42 AM"
     },
     {
         "title": "New Jersey governor signs bills protecting out-of-state abortion seekers and reproductive health care providers",
