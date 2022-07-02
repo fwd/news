@@ -14,17 +14,8 @@
         "category": "science",
         "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2200047119",
         "timestamp": 1656736996,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "July 2, 2022 12:43 AM"
-    },
-    {
-        "title": "Drivers handed record 8.6 million parking tickets by private firms over 12 months",
-        "domain": "news.sky.com",
-        "category": "nottheonion",
-        "link": "https://news.sky.com/story/drivers-handed-record-86-million-parking-tickets-by-private-firms-over-12-months-12644088",
-        "timestamp": 1656737675,
-        "sentiment": 0,
-        "published": "July 2, 2022 12:54 AM"
     },
     {
         "title": "‘JoJo’s Bizarre Adventure: Stone Ocean’ Part 2 Premieres September 1, 2022 on Netflix",
@@ -32,7 +23,7 @@
         "category": "television",
         "link": "https://www.animenewsnetwork.com/news/2022-07-02/jojo-bizarre-adventure-stone-ocean-anime-2nd-part-streams-new-trailer-reveals-september-1-premiere/.187058",
         "timestamp": 1656738614,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 2, 2022 1:10 AM"
     },
     {
@@ -45,21 +36,12 @@
         "published": "July 2, 2022 2:18 AM"
     },
     {
-        "title": "‘Friends’ Creator Donates $4 Million Due to ‘Guilt’ and Embarrassment Over Show’s Zero Diversity",
-        "domain": "variety.com",
-        "category": "nottheonion",
-        "link": "https://variety.com/2022/tv/news/friends-creator-embarrassed-diversity-donates-4-million-1235307727/",
-        "timestamp": 1656742918,
-        "sentiment": 0,
-        "published": "July 2, 2022 2:21 AM"
-    },
-    {
         "title": "WHO says monkeypox cases triple in Europe in two weeks, urgent action needed to contain spread",
         "domain": "cnbc.com",
         "category": "worldnews",
         "link": "https://www.cnbc.com/2022/07/01/who-says-monkeypox-cases-triple-in-europe-in-two-weeks-urgent-action-needed-to-contain-spread.html",
         "timestamp": 1656745103,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 2, 2022 2:58 AM"
     },
     {
@@ -68,7 +50,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/07/01/federal-abortion-ban-desired-gop-would-increase-maternal-deaths-24-study",
         "timestamp": 1656751785,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 2, 2022 4:49 AM"
     },
     {
@@ -86,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.pravda.com.ua/eng/news/2022/07/2/7355933/",
         "timestamp": 1656756014,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 2, 2022 6:00 AM"
     },
     {
@@ -113,7 +95,7 @@
         "category": "nottheonion",
         "link": "https://www.somersetlive.co.uk/news/couple-left-petfrified-after-being-7264721",
         "timestamp": 1656759860,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 2, 2022 7:04 AM"
     },
     {
@@ -122,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/google-let-sanctioned-russian-firm-access-data-of-americans-europeans-2022-7",
         "timestamp": 1656760019,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 2, 2022 7:06 AM"
     },
     {
@@ -131,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.meforum.org/63355/turkish-president-erdogan-cronies-defrauded-czech",
         "timestamp": 1656760830,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 2, 2022 7:20 AM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/views/2022/07/01/beware-supreme-court-laying-groundwork-pre-rig-2024-election",
         "timestamp": 1656761038,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 2, 2022 7:23 AM"
     },
     {
@@ -149,7 +131,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/manchin-sinema-critics-say-gop-will-end-filibuster-anyway-ban-abortion-1721215",
         "timestamp": 1656761270,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 2, 2022 7:27 AM"
     },
     {
@@ -176,7 +158,7 @@
         "category": "worldnews",
         "link": "https://insightcrime.org/news/turkey-cocaine-hub-between-europe-and-the-middle-east/",
         "timestamp": 1656761907,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 2, 2022 7:38 AM"
     },
     {
@@ -194,7 +176,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/10-year-old-girl-travel-out-state-ohio-restricts-abortion-2022-7",
         "timestamp": 1656762738,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 2, 2022 7:52 AM"
     },
     {
@@ -221,7 +203,7 @@
         "category": "science",
         "link": "https://lamont.columbia.edu/news/dinosaurs-took-over-amid-ice-not-warmth-says-new-study-ancient-mass-extinction",
         "timestamp": 1656763249,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "July 2, 2022 8:00 AM"
     },
     {
@@ -230,17 +212,8 @@
         "category": "politics",
         "link": "https://www.nbcnews.com/think/opinion/supreme-courts-originalism-white-supremacy-rcna36409",
         "timestamp": 1656764303,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 2, 2022 8:18 AM"
-    },
-    {
-        "title": "Donald J. Trump, meanest of mean girls: He so doesn't want to be our friend anymore. Trump's evident criminality is no big surprise at this point. But his whiny, wounded immaturity is astonishing",
-        "domain": "salon.com",
-        "category": "politics",
-        "link": "https://www.salon.com/2022/07/02/donald-j-trump-meanest-of-mean-girls-he-isoi-doesnt-want-to-be-our-friend-anymore/",
-        "timestamp": 1656764870,
-        "sentiment": 0,
-        "published": "July 2, 2022 8:27 AM"
     },
     {
         "title": "Boy Meets World Cast Says William Daniels 'Still' Gives Them Advice",
@@ -248,17 +221,8 @@
         "category": "television",
         "link": "https://people.com/tv/boy-meets-world-cast-on-william-daniels-giving-pearls-of-wisdom-today/",
         "timestamp": 1656764993,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 2, 2022 8:29 AM"
-    },
-    {
-        "title": "Taking a Disagreeing Perspective Improves the Accuracy of People’s Quantitative Estimates",
-        "domain": "journals.sagepub.com",
-        "category": "science",
-        "link": "https://journals.sagepub.com/doi/full/10.1177/09567976211061321",
-        "timestamp": 1656765102,
-        "sentiment": -1,
-        "published": "July 2, 2022 8:31 AM"
     },
     {
         "title": "Russian warships pass between Japan's westernmost islands",
@@ -266,7 +230,7 @@
         "category": "worldnews",
         "link": "https://english.kyodonews.net/news/2022/07/4991f2943f7b-russian-warships-pass-between-japans-westernmost-islands.html",
         "timestamp": 1656765496,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 2, 2022 8:38 AM"
     },
     {
@@ -284,7 +248,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/tiktok-confirms-us-user-data-accessed-in-china-bytedance-2022-7",
         "timestamp": 1656767944,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 2, 2022 9:19 AM"
     },
     {
@@ -293,17 +257,8 @@
         "category": "science",
         "link": "https://erj.ersjournals.com/content/59/4/2103246.abstract",
         "timestamp": 1656768886,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "July 2, 2022 9:34 AM"
-    },
-    {
-        "title": "The Czech Republic will also Expel 70 People from its Russian Embassy",
-        "domain": "m.novinite.com",
-        "category": "worldnews",
-        "link": "https://m.novinite.com/view_news.php?id=215754",
-        "timestamp": 1656769153,
-        "sentiment": -2,
-        "published": "July 2, 2022 9:39 AM"
     },
     {
         "title": "Miami to get $5 million to prepare for 2026 World Cup",
@@ -311,7 +266,7 @@
         "category": "miami",
         "link": "https://www.winknews.com/2022/07/01/miami-to-get-5-million-to-prepare-for-2026-world-cup/",
         "timestamp": 1656769585,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 2, 2022 9:46 AM"
     },
     {
@@ -320,7 +275,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/cassidy-hutchinsons-jan-6-testimony-exposed-the-entire-gop-as-complicit-in-the-coup-attempt?ref=wrap",
         "timestamp": 1656770299,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 2, 2022 9:58 AM"
     },
     {
@@ -329,7 +284,7 @@
         "category": "television",
         "link": "https://tvline.com/2022/07/02/the-bear-season-1-episode-8-finale-jeremy-allen-white-hulu/",
         "timestamp": 1656770590,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 2, 2022 10:03 AM"
     },
     {
@@ -347,17 +302,8 @@
         "category": "politics",
         "link": "https://thehill.com/policy/healthcare/3544588-10-year-old-girl-denied-abortion-in-ohio/",
         "timestamp": 1656771358,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 2, 2022 10:15 AM"
-    },
-    {
-        "title": "Daily Wire's New Animated Show 'Chip Chilla' Aims To Rival 'Woke' Cartoons",
-        "domain": "cartoonbrew.com",
-        "category": "television",
-        "link": "https://www.cartoonbrew.com/streaming/daily-wire-streaming-chip-chilla-teaser-218442.html",
-        "timestamp": 1656772008,
-        "sentiment": -4,
-        "published": "July 2, 2022 10:26 AM"
     },
     {
         "title": "Carbon removals from nature restoration are no substitute for steep emission reductions",
@@ -365,7 +311,16 @@
         "category": "science",
         "link": "https://www.cell.com/one-earth/fulltext/S2590-3322(22)00323-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2590332222003232%3Fshowall%3Dtrue",
         "timestamp": 1656772580,
-        "sentiment": -1,
+        "sentiment": -7,
+        "published": "July 2, 2022 10:36 AM"
+    },
+    {
+        "title": "In Overwatch 2, the benches were changed because homeless people couldn't sleep on them",
+        "domain": "gagadget.com",
+        "category": "nottheonion",
+        "link": "https://gagadget.com/en/142364-in-overwatch-2-the-benches-were-changed-because-homeless-people-couldnt-sleep-on-them/",
+        "timestamp": 1656772613,
+        "sentiment": -6,
         "published": "July 2, 2022 10:36 AM"
     },
     {
@@ -374,7 +329,7 @@
         "category": "science",
         "link": "https://www.sciencedirect.com/science/article/pii/S0160289622000484",
         "timestamp": 1656772673,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "July 2, 2022 10:37 AM"
     },
     {
@@ -392,7 +347,7 @@
         "category": "politics",
         "link": "https://www.insider.com/thousands-of-people-signed-petition-for-justice-thomas-be-impeached-2022-7",
         "timestamp": 1656773545,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 2, 2022 10:52 AM"
     },
     {
@@ -401,7 +356,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/euromaidanpress/status/1543248046099759105?s=21&t=DBo4dYAVSTBW6piERe-_PA",
         "timestamp": 1656774143,
-        "sentiment": 1,
+        "sentiment": 2,
         "published": "July 2, 2022 11:02 AM"
     },
     {
@@ -410,17 +365,8 @@
         "category": "science",
         "link": "https://www.usf.edu/news/2022/hidden-in-caves-mineral-overgrowths-reveal-unprecedented-modern-sea-level-rise.aspx",
         "timestamp": 1656774446,
-        "sentiment": -1,
+        "sentiment": -7,
         "published": "July 2, 2022 11:07 AM"
-    },
-    {
-        "title": "Police looking to identify Puslinch, Ont. man who paved driveway without permission",
-        "domain": "kitchener.ctvnews.ca",
-        "category": "nottheonion",
-        "link": "https://kitchener.ctvnews.ca/man-wanted-for-paving-puslinch-ont-driveway-without-permission-1.5971205",
-        "timestamp": 1656775491,
-        "sentiment": 0,
-        "published": "July 2, 2022 11:24 AM"
     },
     {
         "title": "In DeSantis’ Florida, Miami doctor learns: Criticize the government at your own risk | Editorial",
@@ -428,7 +374,7 @@
         "category": "florida",
         "link": "https://www.miamiherald.com/opinion/editorials/article263094388.html",
         "timestamp": 1656775526,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 2, 2022 11:25 AM"
     },
     {
@@ -437,7 +383,7 @@
         "category": "florida",
         "link": "https://www.washingtonpost.com/education/2022/07/01/desantis-florida-universities-laws/",
         "timestamp": 1656775574,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 2, 2022 11:26 AM"
     },
     {
@@ -455,7 +401,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/dozens-russian-weapons-tycoons-have-faced-no-western-sanctions-2022-07-01/",
         "timestamp": 1656776779,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 2, 2022 11:46 AM"
     },
     {
@@ -477,6 +423,24 @@
         "published": "July 2, 2022 11:52 AM"
     },
     {
+        "title": "Ted Cruz confirms he casually went on vacation amid another Texas weather crisis",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/ted-cruz-bahamas-flight-cancun-b2113969.html",
+        "timestamp": 1656778492,
+        "sentiment": -1,
+        "published": "July 2, 2022 12:14 PM"
+    },
+    {
+        "title": "Senior Hungarian officials say they are working with Republican lawmakers in the United States to defeat a global minimum tax backed by the Biden administration, as European and American leaders struggle to enact a groundbreaking international accord targeting multinational corporations",
+        "domain": "washingtonpost.com",
+        "category": "worldnews",
+        "link": "https://www.washingtonpost.com/us-policy/2022/07/01/hungary-gop-tax-deal/",
+        "timestamp": 1656778596,
+        "sentiment": -1,
+        "published": "July 2, 2022 12:16 PM"
+    },
+    {
         "title": "A rare orchid thought to be extinct in Vermont was rediscovered after 120 years",
         "domain": "cnn.com",
         "category": "news",
@@ -491,7 +455,7 @@
         "category": "nottheonion",
         "link": "https://www.newsweek.com/idaho-lt-governor-defers-pay-after-office-ends-fiscal-year-72-cents-1721220",
         "timestamp": 1656779245,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 2, 2022 12:27 PM"
     },
     {
@@ -500,7 +464,7 @@
         "category": "politics",
         "link": "https://www.motherjones.com/politics/2022/07/minnesota-legalized-edibles-after-a-republican-didnt-read-the-bill/",
         "timestamp": 1656779440,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 2, 2022 12:30 PM"
     },
     {
@@ -509,7 +473,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/lukashenko-says-belarus-intercepted-attempted-missile-strikes-by-ukraine-belta-2022-07-02/",
         "timestamp": 1656781079,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 2, 2022 12:57 PM"
     },
     {
@@ -531,12 +495,21 @@
         "published": "July 2, 2022 1:24 PM"
     },
     {
+        "title": "All of Danny Roberts' conversations about being HIV-positive were cut from 'The Real World: New Orleans' reunion series",
+        "domain": "latimes.com",
+        "category": "television",
+        "link": "https://www.latimes.com/entertainment-arts/tv/story/2022-07-01/danny-roberts-hiv-positive-the-real-world-homecoming-new-orleans",
+        "timestamp": 1656783275,
+        "sentiment": 0,
+        "published": "July 2, 2022 1:34 PM"
+    },
+    {
         "title": "World’s first Tamil Bible stolen from Thanjavur traced to London museum",
         "domain": "newindianexpress.com",
         "category": "nottheonion",
         "link": "https://www.newindianexpress.com/states/tamil-nadu/2022/jul/01/worlds-first-tamil-biblestolen-from-thanjavurtraced-to-london-museum-2471836.html",
         "timestamp": 1656784380,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 2, 2022 1:53 PM"
     },
     {
@@ -576,6 +549,15 @@
         "published": "July 2, 2022 2:08 PM"
     },
     {
+        "title": "Pete Arredondo resigns from Uvalde city council, newspaper reports | CNN",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/07/02/us/pete-arredondo-resigns-uvalde-city-council/index.html",
+        "timestamp": 1656786154,
+        "sentiment": 2,
+        "published": "July 2, 2022 2:22 PM"
+    },
+    {
         "title": "Alize Cornet snaps Iga Swiatek's 37 match winning streak at Wimbledon",
         "domain": "lastwordonsports.com",
         "category": "sports",
@@ -583,6 +565,96 @@
         "timestamp": 1656786251,
         "sentiment": 4,
         "published": "July 2, 2022 2:24 PM"
+    },
+    {
+        "title": "Millennial from New York sells his $2 million apartment for Bitcoins: “I believe in cryptocurrency”",
+        "domain": "nft.edieta.org",
+        "category": "nottheonion",
+        "link": "https://nft.edieta.org/cryptocurrency/cryptonews/16274",
+        "timestamp": 1656787380,
+        "sentiment": -6,
+        "published": "July 2, 2022 2:43 PM"
+    },
+    {
+        "title": "15 centuries ago, extreme dry conditions contributed to the decline of South Arabian kingdom of Himyar. Political unrest, war and droughts left behind a region in disarray, thereby helping to create the conditions on the Arabian peninsula that made possible the spread of the religion of Islam",
+        "domain": "umass.edu",
+        "category": "science",
+        "link": "https://www.umass.edu/news/article/new-research-links-sixth-century-droughts-rise-islam",
+        "timestamp": 1656788065,
+        "sentiment": -7,
+        "published": "July 2, 2022 2:54 PM"
+    },
+    {
+        "title": "Nigerian Official Fake Faints During Questioning About 536M In Missing Funds.",
+        "domain": "yardhype.com",
+        "category": "nottheonion",
+        "link": "https://yardhype.com/nigerian-official-fake-faints-during-questioning-about-536m-in-missing-funds-watch-video/",
+        "timestamp": 1656789381,
+        "sentiment": -6,
+        "published": "July 2, 2022 3:16 PM"
+    },
+    {
+        "title": "Drivers handed record 8.6 million parking tickets by private firms over 12 months",
+        "domain": "news.sky.com",
+        "category": "nottheonion",
+        "link": "https://news.sky.com/story/drivers-handed-record-86-million-parking-tickets-by-private-firms-over-12-months-12644088",
+        "timestamp": 1656737675,
+        "sentiment": 0,
+        "published": "July 2, 2022 12:54 AM"
+    },
+    {
+        "title": "‘Friends’ Creator Donates $4 Million Due to ‘Guilt’ and Embarrassment Over Show’s Zero Diversity",
+        "domain": "variety.com",
+        "category": "nottheonion",
+        "link": "https://variety.com/2022/tv/news/friends-creator-embarrassed-diversity-donates-4-million-1235307727/",
+        "timestamp": 1656742918,
+        "sentiment": 0,
+        "published": "July 2, 2022 2:21 AM"
+    },
+    {
+        "title": "Donald J. Trump, meanest of mean girls: He so doesn't want to be our friend anymore. Trump's evident criminality is no big surprise at this point. But his whiny, wounded immaturity is astonishing",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/07/02/donald-j-trump-meanest-of-mean-girls-he-isoi-doesnt-want-to-be-our-friend-anymore/",
+        "timestamp": 1656764870,
+        "sentiment": 0,
+        "published": "July 2, 2022 8:27 AM"
+    },
+    {
+        "title": "Taking a Disagreeing Perspective Improves the Accuracy of People’s Quantitative Estimates",
+        "domain": "journals.sagepub.com",
+        "category": "science",
+        "link": "https://journals.sagepub.com/doi/full/10.1177/09567976211061321",
+        "timestamp": 1656765102,
+        "sentiment": -1,
+        "published": "July 2, 2022 8:31 AM"
+    },
+    {
+        "title": "The Czech Republic will also Expel 70 People from its Russian Embassy",
+        "domain": "m.novinite.com",
+        "category": "worldnews",
+        "link": "https://m.novinite.com/view_news.php?id=215754",
+        "timestamp": 1656769153,
+        "sentiment": -2,
+        "published": "July 2, 2022 9:39 AM"
+    },
+    {
+        "title": "Daily Wire's New Animated Show 'Chip Chilla' Aims To Rival 'Woke' Cartoons",
+        "domain": "cartoonbrew.com",
+        "category": "television",
+        "link": "https://www.cartoonbrew.com/streaming/daily-wire-streaming-chip-chilla-teaser-218442.html",
+        "timestamp": 1656772008,
+        "sentiment": -4,
+        "published": "July 2, 2022 10:26 AM"
+    },
+    {
+        "title": "Police looking to identify Puslinch, Ont. man who paved driveway without permission",
+        "domain": "kitchener.ctvnews.ca",
+        "category": "nottheonion",
+        "link": "https://kitchener.ctvnews.ca/man-wanted-for-paving-puslinch-ont-driveway-without-permission-1.5971205",
+        "timestamp": 1656775491,
+        "sentiment": 0,
+        "published": "July 2, 2022 11:24 AM"
     },
     {
         "title": "Swiss restaurant fines those who don’t finish their meals",
@@ -646,15 +718,6 @@
         "timestamp": 1656768935,
         "sentiment": -3,
         "published": "July 2, 2022 9:35 AM"
-    },
-    {
-        "title": "In Overwatch 2, the benches were changed because homeless people couldn't sleep on them",
-        "domain": "gagadget.com",
-        "category": "nottheonion",
-        "link": "https://gagadget.com/en/142364-in-overwatch-2-the-benches-were-changed-because-homeless-people-couldnt-sleep-on-them/",
-        "timestamp": 1656772613,
-        "sentiment": 0,
-        "published": "July 2, 2022 10:36 AM"
     },
     {
         "title": "Transphobia is gaining ground in the U.S. Gender-diverse people in Canada worry it could happen here",
