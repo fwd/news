@@ -5,7 +5,7 @@
         "category": "nottheonion",
         "link": "https://lenews.ch/2022/07/02/swiss-restaurant-fines-those-who-dont-finish-their-meals/",
         "timestamp": 1656735592,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 2, 2022 12:19 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "science",
         "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2200047119",
         "timestamp": 1656736996,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "July 2, 2022 12:43 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "nottheonion",
         "link": "https://news.sky.com/story/drivers-handed-record-86-million-parking-tickets-by-private-firms-over-12-months-12644088",
         "timestamp": 1656737675,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 2, 2022 12:54 AM"
     },
     {
@@ -50,17 +50,8 @@
         "category": "television",
         "link": "https://www.animenewsnetwork.com/news/2022-07-02/jojo-bizarre-adventure-stone-ocean-anime-2nd-part-streams-new-trailer-reveals-september-1-premiere/.187058",
         "timestamp": 1656738614,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 2, 2022 1:10 AM"
-    },
-    {
-        "title": "Environmental protection of the earth, entrusted to artificial intelligence",
-        "domain": "boudy-technology.tn",
-        "category": "science",
-        "link": "https://www.boudy-technology.tn/2022/07/earth-protection-artificial-intelligence.html",
-        "timestamp": 1656739878,
-        "sentiment": -3,
-        "published": "July 2, 2022 1:31 AM"
     },
     {
         "title": "Oath Keepers will tell a jury they believed Donald Trump would turn them into his own personal militia on January 6",
@@ -68,7 +59,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/oath-keepers-to-tell-jury-they-believed-trump-would-federalize-them-2022-6",
         "timestamp": 1656740837,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 2, 2022 1:47 AM"
     },
     {
@@ -86,17 +77,8 @@
         "category": "nottheonion",
         "link": "https://variety.com/2022/tv/news/friends-creator-embarrassed-diversity-donates-4-million-1235307727/",
         "timestamp": 1656742918,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 2, 2022 2:21 AM"
-    },
-    {
-        "title": "A 'Doom' mobile game from 2005 is now playable on Windows",
-        "domain": "engadget.com",
-        "category": "technology",
-        "link": "https://www.engadget.com/doom-rpg-port-windows-203048062.html",
-        "timestamp": 1656743624,
-        "sentiment": 0,
-        "published": "July 2, 2022 2:33 AM"
     },
     {
         "title": "Australians rally against U.S. overturning of key abortion ruling",
@@ -122,7 +104,7 @@
         "category": "nottheonion",
         "link": "https://www.nbcnews.com/business/consumer/red-bull-drinkers-can-claim-10-over-gives-you-wings-n221901",
         "timestamp": 1656749786,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 2, 2022 4:16 AM"
     },
     {
@@ -135,12 +117,21 @@
         "published": "July 2, 2022 4:46 AM"
     },
     {
+        "title": "Federal Abortion Ban Desired by GOP Would Increase Maternal Deaths by 24%: Study",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/07/01/federal-abortion-ban-desired-gop-would-increase-maternal-deaths-24-study",
+        "timestamp": 1656751785,
+        "sentiment": 0,
+        "published": "July 2, 2022 4:49 AM"
+    },
+    {
         "title": "Ukraine says Russia dropped phosphorus bombs on Snake Island | News",
         "domain": "aljazeera.com",
         "category": "news",
         "link": "https://www.aljazeera.com/news/2022/7/1/ukraine-says-russia-dropped-phosphorus-bombs-on-snake-island",
         "timestamp": 1656753904,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 2, 2022 5:25 AM"
     },
     {
@@ -153,31 +144,22 @@
         "published": "July 2, 2022 6:00 AM"
     },
     {
+        "title": "Panzerhaubitze 2000 already used against Russian invaders in eastern Ukraine",
+        "domain": "ukrinform.net",
+        "category": "ukraine",
+        "link": "https://www.ukrinform.net/rubric-ato/3520279-panzerhaubitze-2000-already-used-against-russian-invaders-in-eastern-ukraine.html",
+        "timestamp": 1656756048,
+        "sentiment": 0,
+        "published": "July 2, 2022 6:00 AM"
+    },
+    {
         "title": "Ex-boyfriend arrested in killing of mother pushing baby in stroller in NYC",
         "domain": "nbcnews.com",
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/ex-boyfriend-arrested-killing-mother-pushing-baby-stroller-nyc-rcna36436",
         "timestamp": 1656757351,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 2, 2022 6:22 AM"
-    },
-    {
-        "title": "Slow spin of early galaxy observed for the first time",
-        "domain": "cam.ac.uk",
-        "category": "science",
-        "link": "https://www.cam.ac.uk/research/news/slow-spin-of-early-galaxy-observed-for-the-first-time",
-        "timestamp": 1656757717,
-        "sentiment": -3,
-        "published": "July 2, 2022 6:28 AM"
-    },
-    {
-        "title": "Three police die in Kentucky shooting while serving domestic violence warrant |",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/us-news/2022/jul/02/three-police-die-in-kentucky-shooting-while-serving-domestic-violence-warrant",
-        "timestamp": 1656759571,
-        "sentiment": 0,
-        "published": "July 2, 2022 6:59 AM"
     },
     {
         "title": "How your brainwaves could be used in criminal trials",
@@ -194,7 +176,7 @@
         "category": "nottheonion",
         "link": "https://www.somersetlive.co.uk/news/couple-left-petfrified-after-being-7264721",
         "timestamp": 1656759860,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 2, 2022 7:04 AM"
     },
     {
@@ -212,8 +194,44 @@
         "category": "politics",
         "link": "https://www.commondreams.org/views/2022/07/01/beware-supreme-court-laying-groundwork-pre-rig-2024-election",
         "timestamp": 1656761038,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 2, 2022 7:23 AM"
+    },
+    {
+        "title": "Hugo Speer sacked from Full Monty reboot after ‘inappropriate conduct’ claims",
+        "domain": "uk.sports.yahoo.com",
+        "category": "television",
+        "link": "https://uk.sports.yahoo.com/news/hugo-speer-sacked-full-monty-112241107.html",
+        "timestamp": 1656761457,
+        "sentiment": 0,
+        "published": "July 2, 2022 7:30 AM"
+    },
+    {
+        "title": "Indigenous leader who opposed illegal mining killed in Venezuela -NGO",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/americas/indigenous-leader-who-opposed-illegal-mining-killed-venezuela-ngo-2022-07-01/",
+        "timestamp": 1656761460,
+        "sentiment": 1,
+        "published": "July 2, 2022 7:31 AM"
+    },
+    {
+        "title": "NFT sales hit 12-month low after cryptocurrency crash",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/technology/2022/jul/02/nft-sales-hit-12-month-low-after-cryptocurrency-crash",
+        "timestamp": 1656761782,
+        "sentiment": 1,
+        "published": "July 2, 2022 7:36 AM"
+    },
+    {
+        "title": "Turkey Revealed as Major Cocaine Trafficking Hub for Europe, Middle East",
+        "domain": "insightcrime.org",
+        "category": "worldnews",
+        "link": "https://insightcrime.org/news/turkey-cocaine-hub-between-europe-and-the-middle-east/",
+        "timestamp": 1656761907,
+        "sentiment": -1,
+        "published": "July 2, 2022 7:38 AM"
     },
     {
         "title": "Google will start auto-deleting abortion clinic visits from user location history",
@@ -234,13 +252,112 @@
         "published": "July 2, 2022 7:51 AM"
     },
     {
+        "title": "'Die-hard' Nintendo fan spent over $40,000 buying stock and then asked top executives why the company won't make more of a fan-favorite series",
+        "domain": "businessinsider.in",
+        "category": "technology",
+        "link": "https://www.businessinsider.in/international/news/diehard-nintendo-fan-spent-over-40000-buying-stock-and-then-asked-top-executives-why-the-company-wont-make-more-of-a-fan-favorite-series/articleshow/92581607.cms",
+        "timestamp": 1656763016,
+        "sentiment": 0,
+        "published": "July 2, 2022 7:56 AM"
+    },
+    {
+        "title": "In #Belarus, a group of senior military officers in a Special Forces unit, in the ranks from captain to colonel, reportedly signed an open letter to the de facto ruler Lukashenka, openly speaking against potential Belarusian participation in #Russia’s invasion of #Ukraine.",
+        "domain": "mobile.twitter.com",
+        "category": "ukraine",
+        "link": "https://mobile.twitter.com/AlexKokcharov/status/1543179024024932359",
+        "timestamp": 1656763200,
+        "sentiment": 0,
+        "published": "July 2, 2022 8:00 AM"
+    },
+    {
+        "title": "Dinosaurs Took Over Amid Ice, Not Warmth, Says a New Study of Ancient Mass Extinction",
+        "domain": "lamont.columbia.edu",
+        "category": "science",
+        "link": "https://lamont.columbia.edu/news/dinosaurs-took-over-amid-ice-not-warmth-says-new-study-ancient-mass-extinction",
+        "timestamp": 1656763249,
+        "sentiment": 2,
+        "published": "July 2, 2022 8:00 AM"
+    },
+    {
+        "title": "The Supreme Court's originalism is white supremacy: The conservative supermajority has weaponized this harmful judicial philosophy as a way to embrace a racist, patriarchal narrowing of political rights.",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/think/opinion/supreme-courts-originalism-white-supremacy-rcna36409",
+        "timestamp": 1656764303,
+        "sentiment": 0,
+        "published": "July 2, 2022 8:18 AM"
+    },
+    {
         "title": "Texas educators propose teaching slavery as “involuntary relocation”",
         "domain": "cnn.com",
         "category": "nottheonion",
         "link": "https://www.cnn.com/2022/07/02/us/texas-group-proposes-school-slavery-language/index.html",
         "timestamp": 1656764389,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 2, 2022 8:19 AM"
+    },
+    {
+        "title": "Boy Meets World Cast Says William Daniels 'Still' Gives Them Advice",
+        "domain": "people.com",
+        "category": "television",
+        "link": "https://people.com/tv/boy-meets-world-cast-on-william-daniels-giving-pearls-of-wisdom-today/",
+        "timestamp": 1656764993,
+        "sentiment": 0,
+        "published": "July 2, 2022 8:29 AM"
+    },
+    {
+        "title": "Taking a Disagreeing Perspective Improves the Accuracy of People’s Quantitative Estimates",
+        "domain": "journals.sagepub.com",
+        "category": "science",
+        "link": "https://journals.sagepub.com/doi/full/10.1177/09567976211061321",
+        "timestamp": 1656765102,
+        "sentiment": 2,
+        "published": "July 2, 2022 8:31 AM"
+    },
+    {
+        "title": "Jaylon Ferguson, Baltimore Ravens Linebacker, Died From an Overdose",
+        "domain": "nytimes.com",
+        "category": "sports",
+        "link": "https://www.nytimes.com/2022/07/01/sports/football/ravens-jaylon-ferguson-fatal-overdose.html",
+        "timestamp": 1656767023,
+        "sentiment": 0,
+        "published": "July 2, 2022 9:03 AM"
+    },
+    {
+        "title": "Environmental protection of the earth, entrusted to artificial intelligence",
+        "domain": "boudy-technology.tn",
+        "category": "science",
+        "link": "https://www.boudy-technology.tn/2022/07/earth-protection-artificial-intelligence.html",
+        "timestamp": 1656739878,
+        "sentiment": -3,
+        "published": "July 2, 2022 1:31 AM"
+    },
+    {
+        "title": "A 'Doom' mobile game from 2005 is now playable on Windows",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/doom-rpg-port-windows-203048062.html",
+        "timestamp": 1656743624,
+        "sentiment": 0,
+        "published": "July 2, 2022 2:33 AM"
+    },
+    {
+        "title": "Slow spin of early galaxy observed for the first time",
+        "domain": "cam.ac.uk",
+        "category": "science",
+        "link": "https://www.cam.ac.uk/research/news/slow-spin-of-early-galaxy-observed-for-the-first-time",
+        "timestamp": 1656757717,
+        "sentiment": -3,
+        "published": "July 2, 2022 6:28 AM"
+    },
+    {
+        "title": "Three police die in Kentucky shooting while serving domestic violence warrant |",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2022/jul/02/three-police-die-in-kentucky-shooting-while-serving-domestic-violence-warrant",
+        "timestamp": 1656759571,
+        "sentiment": 0,
+        "published": "July 2, 2022 6:59 AM"
     },
     {
         "title": "WNBA's Brittney Griner goes on trial in Russian court",
