@@ -1,11 +1,20 @@
 [
     {
+        "title": "Swiss restaurant fines those who don’t finish their meals",
+        "domain": "lenews.ch",
+        "category": "nottheonion",
+        "link": "https://lenews.ch/2022/07/02/swiss-restaurant-fines-those-who-dont-finish-their-meals/",
+        "timestamp": 1656735592,
+        "sentiment": -6,
+        "published": "July 2, 2022 12:19 AM"
+    },
+    {
         "title": "Canadian rock legend Randy Bachmann reunited with cherished guitar after fan tracked it down in Tokyo using photos of woodgrain",
         "domain": "theguardian.com",
         "category": "UpliftingNews",
         "link": "https://www.theguardian.com/world/2022/jul/02/i-was-crying-rock-legend-randy-bachman-reunited-with-stolen-guitar-45-years-on?utm_term=Autofeed&CMP=twt_b-gdnnews&utm_medium=Social&utm_source=Twitter&s=09#Echobox=1656730401",
         "timestamp": 1656735862,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "July 2, 2022 12:24 AM"
     },
     {
@@ -14,7 +23,7 @@
         "category": "ukraine",
         "link": "https://www.ukrinform.net/rubric-ato/3520078-ukraines-south-air-force-pilots-hit-russian-ammo-depot-group-of-troops.html",
         "timestamp": 1656736739,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 2, 2022 12:38 AM"
     },
     {
@@ -32,7 +41,7 @@
         "category": "nottheonion",
         "link": "https://news.sky.com/story/drivers-handed-record-86-million-parking-tickets-by-private-firms-over-12-months-12644088",
         "timestamp": 1656737675,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 2, 2022 12:54 AM"
     },
     {
@@ -43,15 +52,6 @@
         "timestamp": 1656737846,
         "sentiment": 0,
         "published": "July 2, 2022 12:57 AM"
-    },
-    {
-        "title": "New Jersey governor signs bills protecting out-of-state abortion seekers and reproductive health care providers",
-        "domain": "cnn.com",
-        "category": "UpliftingNews",
-        "link": "https://www.cnn.com/2022/07/01/politics/new-jersey-abortion-reproductive-rights-laws/index.html",
-        "timestamp": 1656737928,
-        "sentiment": 2,
-        "published": "July 2, 2022 12:58 AM"
     },
     {
         "title": "‘JoJo’s Bizarre Adventure: Stone Ocean’ Part 2 Premieres September 1, 2022 on Netflix",
@@ -77,7 +77,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/oath-keepers-to-tell-jury-they-believed-trump-would-federalize-them-2022-6",
         "timestamp": 1656740837,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 2, 2022 1:47 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "UpliftingNews",
         "link": "https://www.cnn.com/2022/07/01/india/india-bans-single-use-plastic-intl-hnk/index.html",
         "timestamp": 1656742693,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "July 2, 2022 2:18 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "nottheonion",
         "link": "https://variety.com/2022/tv/news/friends-creator-embarrassed-diversity-donates-4-million-1235307727/",
         "timestamp": 1656742918,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 2, 2022 2:21 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "technology",
         "link": "https://www.engadget.com/doom-rpg-port-windows-203048062.html",
         "timestamp": 1656743624,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 2, 2022 2:33 AM"
     },
     {
@@ -126,13 +126,40 @@
         "published": "July 2, 2022 2:58 AM"
     },
     {
-        "title": "Swiss restaurant fines those who don’t finish their meals",
-        "domain": "lenews.ch",
+        "title": "Red Bull Drinkers Can Claim $10 Over 'Gives You Wings' Lawsuit",
+        "domain": "nbcnews.com",
         "category": "nottheonion",
-        "link": "https://lenews.ch/2022/07/02/swiss-restaurant-fines-those-who-dont-finish-their-meals/",
-        "timestamp": 1656735592,
+        "link": "https://www.nbcnews.com/business/consumer/red-bull-drinkers-can-claim-10-over-gives-you-wings-n221901",
+        "timestamp": 1656749786,
+        "sentiment": -6,
+        "published": "July 2, 2022 4:16 AM"
+    },
+    {
+        "title": "Nigerian Islamic court orders death by stoning for men convicted of homosexuality",
+        "domain": "bdnews24.com",
+        "category": "worldnews",
+        "link": "https://bdnews24.com/world/africa/2022/07/02/nigerian-islamic-court-orders-death-by-stoning-for-men-convicted-of-homosexuality",
+        "timestamp": 1656751565,
+        "sentiment": 0,
+        "published": "July 2, 2022 4:46 AM"
+    },
+    {
+        "title": "20 million U.K. iPhone, iPad users could get compensation in £1.5B lawsuit",
+        "domain": "imore.com",
+        "category": "technology",
+        "link": "https://www.imore.com/20-million-uk-apple-users-could-get-compensation-ps15b-lawsuit",
+        "timestamp": 1656753268,
         "sentiment": -2,
-        "published": "July 2, 2022 12:19 AM"
+        "published": "July 2, 2022 5:14 AM"
+    },
+    {
+        "title": "New Jersey governor signs bills protecting out-of-state abortion seekers and reproductive health care providers",
+        "domain": "cnn.com",
+        "category": "UpliftingNews",
+        "link": "https://www.cnn.com/2022/07/01/politics/new-jersey-abortion-reproductive-rights-laws/index.html",
+        "timestamp": 1656737928,
+        "sentiment": 2,
+        "published": "July 2, 2022 12:58 AM"
     },
     {
         "title": "Hindu man is beheaded on camera by two 'Islamic warriors' in India",
