@@ -5,7 +5,7 @@
         "category": "UpliftingNews",
         "link": "https://m.dw.com/en/germany-to-return-looted-artifacts-to-africa/a-62300419",
         "timestamp": 1656654222,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "July 1, 2022 1:43 AM"
     },
     {
@@ -23,17 +23,8 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jul/01/palestinian-authority-routinely-tortures-detainees-says-human-rights-watch",
         "timestamp": 1656670557,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 1, 2022 6:15 AM"
-    },
-    {
-        "title": "Naomi Klein: The US Is in the Midst of a 'Shock-and-Awe Judicial Coup'",
-        "domain": "commondreams.org",
-        "category": "politics",
-        "link": "https://www.commondreams.org/news/2022/07/01/naomi-klein-us-midst-shock-and-awe-judicial-coup",
-        "timestamp": 1656671845,
-        "sentiment": 3,
-        "published": "July 1, 2022 6:37 AM"
     },
     {
         "title": "Macron riles Russia with documentary releasing content of Putin calls",
@@ -41,7 +32,7 @@
         "category": "worldnews",
         "link": "https://www.lemonde.fr/en/international/article/2022/06/30/macron-riles-russia-with-documentary-releasing-content-of-putin-calls_5988537_4.html",
         "timestamp": 1656671905,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 1, 2022 6:38 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/06/30/us/brian-laundrie-florida-judge-allows-gabby-petito-parents-lawsuit/index.html",
         "timestamp": 1656673124,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "July 1, 2022 6:58 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.thelocal.ch/20220701/same-sex-marriage-now-legal-in-switzerland/",
         "timestamp": 1656673594,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 1, 2022 7:06 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/07/01/schools-out-forever-arizona-moves-to-public-education-with-new-universal-voucher-law/",
         "timestamp": 1656675064,
-        "sentiment": 3,
+        "sentiment": -4,
         "published": "July 1, 2022 7:31 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "UpliftingNews",
         "link": "https://www.reuters.com/world/europe/polish-court-rules-that-four-lgbt-free-zones-must-be-abolished-2022-06-28/",
         "timestamp": 1656676262,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "July 1, 2022 7:51 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/01/tech/daily-harvest-recall-lawsuits/index.html",
         "timestamp": 1656676582,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "July 1, 2022 7:56 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "UpliftingNews",
         "link": "https://furtherafrica.com/2022/07/01/how-solar-power-is-transforming-african-farms/",
         "timestamp": 1656677467,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "July 1, 2022 8:11 AM"
     },
     {
@@ -113,17 +104,8 @@
         "category": "UpliftingNews",
         "link": "https://khn.org/news/article/health-insurers-price-transparency-public-rates-costs/",
         "timestamp": 1656677551,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "July 1, 2022 8:12 AM"
-    },
-    {
-        "title": "Researchers discover new leukemia-killing compounds: Potential of mitochondria-targeted chemotherapies",
-        "domain": "sciencedaily.com",
-        "category": "UpliftingNews",
-        "link": "https://www.sciencedaily.com/releases/2022/06/220630160035.htm",
-        "timestamp": 1656678408,
-        "sentiment": 0,
-        "published": "July 1, 2022 8:26 AM"
     },
     {
         "title": "Mark Meadows’ associate threatened ex-White House aide before her testimony",
@@ -131,7 +113,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/jun/30/jan-6-hearings-trump-mark-meadows-cassidy-hutchinson-threatened",
         "timestamp": 1656679146,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "July 1, 2022 8:39 AM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "UpliftingNews",
         "link": "https://agenciapresentes.org/2022/06/30/argentina-aprobo-nueva-ley-de-vih-hepatitis-tuberculosis-e-its/",
         "timestamp": 1656679365,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "July 1, 2022 8:42 AM"
     },
     {
@@ -149,7 +131,7 @@
         "category": "worldnews",
         "link": "https://www.usnews.com/news/world/articles/2022-07-01/china-urges-u-s-to-fulfill-climate-duties-after-supreme-court-ruling",
         "timestamp": 1656679809,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 1, 2022 8:50 AM"
     },
     {
@@ -162,21 +144,12 @@
         "published": "July 1, 2022 9:12 AM"
     },
     {
-        "title": "Ohio police officers on paid administrative leave after fatal shooting of Jayland Walker",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/06/30/us/ohio-police-officers-jayland-walker-shooting/index.html",
-        "timestamp": 1656681318,
-        "sentiment": -4,
-        "published": "July 1, 2022 9:15 AM"
-    },
-    {
         "title": "Bisexual daughter cuts ties to her dad. He’s a GOP state senator who is “taking my rights” away",
         "domain": "lgbtqnation.com",
         "category": "politics",
         "link": "https://www.lgbtqnation.com/2022/07/bisexual-daughter-cuts-ties-dad-hes-gop-state-senator-taking-rights-away/",
         "timestamp": 1656682293,
-        "sentiment": 3,
+        "sentiment": -4,
         "published": "July 1, 2022 9:31 AM"
     },
     {
@@ -194,7 +167,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/putin-russia-belarus-moving-towards-unification-western-sanctions-ukraine-war-1720985",
         "timestamp": 1656683650,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 1, 2022 9:54 AM"
     },
     {
@@ -221,7 +194,7 @@
         "category": "television",
         "link": "https://www.npr.org/2022/07/01/1105295933/the-simpsons-production-workers-say-they-deserve-a-place-at-the-table",
         "timestamp": 1656684832,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 1, 2022 10:13 AM"
     },
     {
@@ -230,7 +203,7 @@
         "category": "UpliftingNews",
         "link": "https://www.france24.com/en/live-news/20220701-india-bans-many-single-use-plastics-to-tackle-waste",
         "timestamp": 1656685086,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "July 1, 2022 10:18 AM"
     },
     {
@@ -239,7 +212,7 @@
         "category": "UpliftingNews",
         "link": "https://www.latimes.com/environment/story/2022-06-30/california-new-law-phase-out-single-use-plastics-containers",
         "timestamp": 1656685871,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "July 1, 2022 10:31 AM"
     },
     {
@@ -248,7 +221,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/nbc-out/out-news/floridas-dont-say-gay-law-takes-effect-schools-roll-lgbtq-restrictions-rcna36143",
         "timestamp": 1656686030,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "July 1, 2022 10:33 AM"
     },
     {
@@ -257,7 +230,7 @@
         "category": "politics",
         "link": "https://www.theatlantic.com/politics/archive/2022/06/biden-roe-response-democrats-2024-election/661449/",
         "timestamp": 1656687335,
-        "sentiment": 3,
+        "sentiment": -4,
         "published": "July 1, 2022 10:55 AM"
     },
     {
@@ -266,7 +239,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/why-women-kill-canceled-paramount-plus-1235307752/",
         "timestamp": 1656687670,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 1, 2022 11:01 AM"
     },
     {
@@ -302,7 +275,7 @@
         "category": "news",
         "link": "https://news.sky.com/story/minecraft-youtuber-technoblade-dies-from-cancer-as-his-dad-posts-message-hed-prepared-for-followers-12643584",
         "timestamp": 1656690398,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "July 1, 2022 11:46 AM"
     },
     {
@@ -320,17 +293,8 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/07/01/chinese-purchase-of-north-dakota-farmland-raises-national-security-concerns-in-washington.html",
         "timestamp": 1656690911,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "July 1, 2022 11:55 AM"
-    },
-    {
-        "title": "Norway pledges 1 bln euros to support Ukraine",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/europe/norway-pledges-1-bln-euros-support-ukraine-2022-07-01/",
-        "timestamp": 1656691794,
-        "sentiment": 2,
-        "published": "July 1, 2022 12:09 PM"
     },
     {
         "title": "Google hit with more privacy complaints for “deceptive” sign-up process",
@@ -342,21 +306,12 @@
         "published": "July 1, 2022 12:22 PM"
     },
     {
-        "title": "Latvia's leader warns U.S. and European leaders against \"war weariness\" as Russia's assault on Ukraine drags on",
-        "domain": "cbsnews.com",
-        "category": "worldnews",
-        "link": "https://www.cbsnews.com/news/latvias-leader-warns-u-s-and-european-leaders-against-war-weariness-as-russias-assault-on-ukraine-drags-on/",
-        "timestamp": 1656693450,
-        "sentiment": 2,
-        "published": "July 1, 2022 12:37 PM"
-    },
-    {
         "title": "Putin's war has killed 343 children in Ukraine, prosecutor general says",
         "domain": "newsweek.com",
         "category": "worldnews",
         "link": "https://www.newsweek.com/putins-war-has-killed-343-children-ukraine-prosecutor-general-says-1721097",
         "timestamp": 1656694265,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 1, 2022 12:51 PM"
     },
     {
@@ -365,7 +320,7 @@
         "category": "politics",
         "link": "https://thehill.com/blogs/in-the-know/3543836-jon-stewart-supreme-court-is-the-fox-news-of-justice/",
         "timestamp": 1656694277,
-        "sentiment": 3,
+        "sentiment": -4,
         "published": "July 1, 2022 12:51 PM"
     },
     {
@@ -383,7 +338,7 @@
         "category": "UpliftingNews",
         "link": "https://apnews.com/article/entertainment-music-japan-toronto-97efeb21c42c13bb0d1b983d3b72b6ac",
         "timestamp": 1656695203,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "July 1, 2022 1:06 PM"
     },
     {
@@ -401,8 +356,17 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/campaign/3543867-71-percent-dont-want-biden-to-run-for-reelection-poll/",
         "timestamp": 1656695308,
-        "sentiment": 3,
+        "sentiment": -4,
         "published": "July 1, 2022 1:08 PM"
+    },
+    {
+        "title": "Kangaroo ran loose in Baton Rouge area after parrot set it free; owners will have to give it up",
+        "domain": "wbrz.com",
+        "category": "nottheonion",
+        "link": "https://www.wbrz.com/news/kangaroo-ran-loose-in-baton-rouge-area-after-parrot-set-it-free-owners-will-have-to-give-it-up",
+        "timestamp": 1656695649,
+        "sentiment": -2,
+        "published": "July 1, 2022 1:14 PM"
     },
     {
         "title": "Strong link found between emotional childhood abuse and schizophrenia: A new study has, for the first time, identified a strong link between childhood emotional abuse and schizophrenia-like experiences in healthy adults, such as paranoia, hearing voices, and social withdrawal.",
@@ -428,26 +392,26 @@
         "category": "news",
         "link": "https://www.kcur.org/news/2022-07-01/missouri-attorney-general-says-hell-sue-kansas-city-over-financial-help-for-out-of-state-abortions",
         "timestamp": 1656697008,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "July 1, 2022 1:36 PM"
     },
     {
-        "title": "Meet Chief Val Demings, U.S. Congresswoman and candidate for United States Senate",
-        "domain": "mobilize.us",
-        "category": "miami",
-        "link": "https://www.mobilize.us/valdemings/event/475069/?force_banner=true&share_context=event_details&share_medium=copy_link",
-        "timestamp": 1656697394,
-        "sentiment": 2,
-        "published": "July 1, 2022 1:43 PM"
+        "title": "McConnell Says He'll Kill Bipartisan China Bill to Block Democratic Agenda",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/mcconnell-says-hell-kill-bipartisan-china-bill-to-block-democratic-agenda-2022-6",
+        "timestamp": 1656698395,
+        "sentiment": -4,
+        "published": "July 1, 2022 1:59 PM"
     },
     {
-        "title": "I Got Fired for Unionizing at Starbucks. And I’d Do It Again.",
-        "domain": "jacobin.com",
-        "category": "nottheonion",
-        "link": "https://jacobin.com/2022/07/starbucks-union-workers-united-firing-union-busting/",
-        "timestamp": 1656698315,
-        "sentiment": -6,
-        "published": "July 1, 2022 1:58 PM"
+        "title": "Lebanon joins Pride Month crackdown on LGBTQ community as other Arab nations go rainbow hunting",
+        "domain": "cbsnews.com",
+        "category": "worldnews",
+        "link": "https://www.cbsnews.com/news/pride-month-lgbtq-lebanon-kuwait-saudi-arabia-crackdown-rainbow-hunting/",
+        "timestamp": 1656698522,
+        "sentiment": 0,
+        "published": "July 1, 2022 2:02 PM"
     },
     {
         "title": "Apple's guy in charge of stopping insider trading guilty of … insider trading",
@@ -455,7 +419,7 @@
         "category": "nottheonion",
         "link": "https://www.theregister.com/2022/07/01/apple_lawyer_insider_trading/",
         "timestamp": 1656699398,
-        "sentiment": -6,
+        "sentiment": -2,
         "published": "July 1, 2022 2:16 PM"
     },
     {
@@ -473,7 +437,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/clarence-thomas-petition-impeach-roe-versus-wade-abortion-jan-6-nearly-million-1721025",
         "timestamp": 1656699736,
-        "sentiment": 3,
+        "sentiment": -4,
         "published": "July 1, 2022 2:22 PM"
     },
     {
@@ -491,7 +455,7 @@
         "category": "politics",
         "link": "https://www.dispatch.com/story/news/2022/07/01/ohio-girl-10-among-patients-going-indiana-abortion/7788415001/",
         "timestamp": 1656700980,
-        "sentiment": 3,
+        "sentiment": -4,
         "published": "July 1, 2022 2:43 PM"
     },
     {
@@ -509,7 +473,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/stranger-things-nielsen-streaming-top-10-ratings-1235301882/",
         "timestamp": 1656701933,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 1, 2022 2:58 PM"
     },
     {
@@ -527,7 +491,7 @@
         "category": "television",
         "link": "https://trekmovie.com/2022/07/01/producution-has-wrapped-on-star-trek-strange-new-worlds-season-2/",
         "timestamp": 1656702750,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 1, 2022 3:12 PM"
     },
     {
@@ -545,7 +509,7 @@
         "category": "politics",
         "link": "https://www.nytimes.com/2022/06/27/us/aoc-roe-abortion-scotus.html",
         "timestamp": 1656704011,
-        "sentiment": 3,
+        "sentiment": -4,
         "published": "July 1, 2022 3:33 PM"
     },
     {
@@ -563,7 +527,7 @@
         "category": "television",
         "link": "https://tvline.com/2022/07/01/resident-alien-season-2-trailer-return-date-watch-video/",
         "timestamp": 1656704653,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 1, 2022 3:44 PM"
     },
     {
@@ -572,7 +536,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/07/the-time-travelers-wife-canceled-hbo-one-season-1235054863/",
         "timestamp": 1656705741,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 1, 2022 4:02 PM"
     },
     {
@@ -581,8 +545,17 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/allen-kentucky-shooting-lance-storz-arrested/",
         "timestamp": 1656706353,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "July 1, 2022 4:12 PM"
+    },
+    {
+        "title": "93-year-old man shoots home intruder, fends off others near Los Angeles",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/93-year-man-shoots-home-intruder-fends-off/story?id=85991432&cid=social_fb_abcn",
+        "timestamp": 1656706460,
+        "sentiment": -2,
+        "published": "July 1, 2022 4:14 PM"
     },
     {
         "title": "John Isner breaks all-time aces record",
@@ -599,7 +572,7 @@
         "category": "UpliftingNews",
         "link": "https://www.kiro7.com/news/trending/tennessee-highway-patrol-trooper-adopts-dog-he-rescued-heat/NGEIQLVAAJEN5L2WRIFYLJ7LBM/",
         "timestamp": 1656708101,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "July 1, 2022 4:41 PM"
     },
     {
@@ -608,7 +581,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/07/ten-year-old-tom-renewed-season-2-hbo-max-1235054991/",
         "timestamp": 1656708746,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 1, 2022 4:52 PM"
     },
     {
@@ -617,7 +590,7 @@
         "category": "politics",
         "link": "https://www.scientificamerican.com/article/evidence-shouldnt-be-optional/",
         "timestamp": 1656709631,
-        "sentiment": 3,
+        "sentiment": -4,
         "published": "July 1, 2022 5:07 PM"
     },
     {
@@ -644,7 +617,7 @@
         "category": "worldnews",
         "link": "https://www.polskieradio.pl/395/7790/Artykul/2992008,33-countries-call-for-suspension-of-Russian-sports-bodies-over-Ukraine-war",
         "timestamp": 1656711560,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 1, 2022 5:39 PM"
     },
     {
@@ -653,7 +626,7 @@
         "category": "television",
         "link": "https://www.npr.org/2022/07/01/1109327012/stranger-things-finale-review",
         "timestamp": 1656712030,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 1, 2022 5:47 PM"
     },
     {
@@ -662,7 +635,7 @@
         "category": "nottheonion",
         "link": "https://www.theguardian.com/us-news/2022/jul/01/utah-republican-women-control-intake-of-semen-abortion",
         "timestamp": 1656712149,
-        "sentiment": -6,
+        "sentiment": -2,
         "published": "July 1, 2022 5:49 PM"
     },
     {
@@ -689,7 +662,7 @@
         "category": "nottheonion",
         "link": "https://www.chron.com/life/travel/article/Delta-Air-Lines-offered-10-000-to-passengers-17279222.php",
         "timestamp": 1656713823,
-        "sentiment": -6,
+        "sentiment": -2,
         "published": "July 1, 2022 6:17 PM"
     },
     {
@@ -698,7 +671,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/alexander-lukashenko-former-ussr-nations-align-comment-1721096?amp=1",
         "timestamp": 1656713868,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 1, 2022 6:17 PM"
     },
     {
@@ -720,6 +693,24 @@
         "published": "July 1, 2022 6:36 PM"
     },
     {
+        "title": "Reports: Jazz trade Rudy Gobert to Wolves in multi-player deal",
+        "domain": "nba.com",
+        "category": "sports",
+        "link": "https://www.nba.com/news/jazz-wolves-rudy-gobert-trade",
+        "timestamp": 1656717892,
+        "sentiment": 0,
+        "published": "July 1, 2022 7:24 PM"
+    },
+    {
+        "title": "Ukrainian Airborne Assault Troops Reportedly Take Out Convoy of Russian Ammo Vehicles",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/ukrainian-airborne-assault-troops-reportedly-take-out-convoy-russian-ammo-vehicles-1721191",
+        "timestamp": 1656718233,
+        "sentiment": 0,
+        "published": "July 1, 2022 7:30 PM"
+    },
+    {
         "title": "Michael Vick Sued by Creditors for $1.2 Million in Loans, per Report",
         "domain": "si.com",
         "category": "sports",
@@ -729,6 +720,15 @@
         "published": "July 1, 2022 7:40 PM"
     },
     {
+        "title": "Beck wishes he had let \"Weird Al\" Yankovic parody \"Loser\"",
+        "domain": "avclub.com",
+        "category": "nottheonion",
+        "link": "https://www.avclub.com/beck-weird-al-yankovic-loser-parody-1849128630",
+        "timestamp": 1656719137,
+        "sentiment": -2,
+        "published": "July 1, 2022 7:45 PM"
+    },
+    {
         "title": "Google says it will delete location history for visits to abortion clinics after overturning of Roe v. Wade",
         "domain": "cnbc.com",
         "category": "technology",
@@ -736,6 +736,78 @@
         "timestamp": 1656719296,
         "sentiment": 1,
         "published": "July 1, 2022 7:48 PM"
+    },
+    {
+        "title": "Kansas City urologist says vasectomy consults have increased by 900% since Roe v. Wade decision",
+        "domain": "kshb.com",
+        "category": "UpliftingNews",
+        "link": "https://www.kshb.com/news/local-news/kansas-city-urologist-says-vasectomy-consults-have-increased-by-900-since-roe-v-wade-decision",
+        "timestamp": 1656721827,
+        "sentiment": 4,
+        "published": "July 1, 2022 8:30 PM"
+    },
+    {
+        "title": "Naomi Klein: The US Is in the Midst of a 'Shock-and-Awe Judicial Coup'",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/07/01/naomi-klein-us-midst-shock-and-awe-judicial-coup",
+        "timestamp": 1656671845,
+        "sentiment": 3,
+        "published": "July 1, 2022 6:37 AM"
+    },
+    {
+        "title": "Researchers discover new leukemia-killing compounds: Potential of mitochondria-targeted chemotherapies",
+        "domain": "sciencedaily.com",
+        "category": "UpliftingNews",
+        "link": "https://www.sciencedaily.com/releases/2022/06/220630160035.htm",
+        "timestamp": 1656678408,
+        "sentiment": 0,
+        "published": "July 1, 2022 8:26 AM"
+    },
+    {
+        "title": "Ohio police officers on paid administrative leave after fatal shooting of Jayland Walker",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/06/30/us/ohio-police-officers-jayland-walker-shooting/index.html",
+        "timestamp": 1656681318,
+        "sentiment": -4,
+        "published": "July 1, 2022 9:15 AM"
+    },
+    {
+        "title": "Norway pledges 1 bln euros to support Ukraine",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/norway-pledges-1-bln-euros-support-ukraine-2022-07-01/",
+        "timestamp": 1656691794,
+        "sentiment": 2,
+        "published": "July 1, 2022 12:09 PM"
+    },
+    {
+        "title": "Latvia's leader warns U.S. and European leaders against \"war weariness\" as Russia's assault on Ukraine drags on",
+        "domain": "cbsnews.com",
+        "category": "worldnews",
+        "link": "https://www.cbsnews.com/news/latvias-leader-warns-u-s-and-european-leaders-against-war-weariness-as-russias-assault-on-ukraine-drags-on/",
+        "timestamp": 1656693450,
+        "sentiment": 2,
+        "published": "July 1, 2022 12:37 PM"
+    },
+    {
+        "title": "Meet Chief Val Demings, U.S. Congresswoman and candidate for United States Senate",
+        "domain": "mobilize.us",
+        "category": "miami",
+        "link": "https://www.mobilize.us/valdemings/event/475069/?force_banner=true&share_context=event_details&share_medium=copy_link",
+        "timestamp": 1656697394,
+        "sentiment": 2,
+        "published": "July 1, 2022 1:43 PM"
+    },
+    {
+        "title": "I Got Fired for Unionizing at Starbucks. And I’d Do It Again.",
+        "domain": "jacobin.com",
+        "category": "nottheonion",
+        "link": "https://jacobin.com/2022/07/starbucks-union-workers-united-firing-union-busting/",
+        "timestamp": 1656698315,
+        "sentiment": -6,
+        "published": "July 1, 2022 1:58 PM"
     },
     {
         "title": "James Webb Space Telescope 1st photos will include 'deepest image of our universe'",
@@ -763,15 +835,6 @@
         "timestamp": 1656693449,
         "sentiment": 10,
         "published": "July 1, 2022 12:37 PM"
-    },
-    {
-        "title": "Kangaroo ran loose in Baton Rouge area after parrot set it free; owners will have to give it up",
-        "domain": "wbrz.com",
-        "category": "nottheonion",
-        "link": "https://www.wbrz.com/news/kangaroo-ran-loose-in-baton-rouge-area-after-parrot-set-it-free-owners-will-have-to-give-it-up",
-        "timestamp": 1656695649,
-        "sentiment": -2,
-        "published": "July 1, 2022 1:14 PM"
     },
     {
         "title": "Fourth-generation vaping devices increase risk to immune cells: Some fourth-generation models—such as Juul devices—are associated with unique changes in markers of immune responses inside our airways, according to a new paper from UNC School of Medicine researchers.",
