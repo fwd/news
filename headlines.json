@@ -1,14 +1,5 @@
 [
     {
-        "title": "Swiss restaurant fines those who don’t finish their meals",
-        "domain": "lenews.ch",
-        "category": "nottheonion",
-        "link": "https://lenews.ch/2022/07/02/swiss-restaurant-fines-those-who-dont-finish-their-meals/",
-        "timestamp": 1656735592,
-        "sentiment": -2,
-        "published": "July 2, 2022 12:19 AM"
-    },
-    {
         "title": "Canadian rock legend Randy Bachmann reunited with cherished guitar after fan tracked it down in Tokyo using photos of woodgrain",
         "domain": "theguardian.com",
         "category": "UpliftingNews",
@@ -18,21 +9,12 @@
         "published": "July 2, 2022 12:24 AM"
     },
     {
-        "title": "Hindu man is beheaded on camera by two 'Islamic warriors' in India",
-        "domain": "tribuneonlineng.com",
-        "category": "news",
-        "link": "https://tribuneonlineng.com/hindu-man-is-beheaded-on-camera-by-two-islamic-warriors-in-india/",
-        "timestamp": 1656735937,
-        "sentiment": 0,
-        "published": "July 2, 2022 12:25 AM"
-    },
-    {
         "title": "Ukraine’s south: Air Force pilots hit Russian ammo depot, group of troops",
         "domain": "ukrinform.net",
         "category": "ukraine",
         "link": "https://www.ukrinform.net/rubric-ato/3520078-ukraines-south-air-force-pilots-hit-russian-ammo-depot-group-of-troops.html",
         "timestamp": 1656736739,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 2, 2022 12:38 AM"
     },
     {
@@ -41,7 +23,7 @@
         "category": "science",
         "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2200047119",
         "timestamp": 1656736996,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "July 2, 2022 12:43 AM"
     },
     {
@@ -50,7 +32,7 @@
         "category": "nottheonion",
         "link": "https://news.sky.com/story/drivers-handed-record-86-million-parking-tickets-by-private-firms-over-12-months-12644088",
         "timestamp": 1656737675,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 2, 2022 12:54 AM"
     },
     {
@@ -68,7 +50,7 @@
         "category": "television",
         "link": "https://www.animenewsnetwork.com/news/2022-07-02/jojo-bizarre-adventure-stone-ocean-anime-2nd-part-streams-new-trailer-reveals-september-1-premiere/.187058",
         "timestamp": 1656738614,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 2, 2022 1:10 AM"
     },
     {
@@ -77,7 +59,7 @@
         "category": "science",
         "link": "https://www.boudy-technology.tn/2022/07/earth-protection-artificial-intelligence.html",
         "timestamp": 1656739878,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "July 2, 2022 1:31 AM"
     },
     {
@@ -88,6 +70,42 @@
         "timestamp": 1656742693,
         "sentiment": 2,
         "published": "July 2, 2022 2:18 AM"
+    },
+    {
+        "title": "‘Friends’ Creator Donates $4 Million Due to ‘Guilt’ and Embarrassment Over Show’s Zero Diversity",
+        "domain": "variety.com",
+        "category": "nottheonion",
+        "link": "https://variety.com/2022/tv/news/friends-creator-embarrassed-diversity-donates-4-million-1235307727/",
+        "timestamp": 1656742918,
+        "sentiment": 0,
+        "published": "July 2, 2022 2:21 AM"
+    },
+    {
+        "title": "A 'Doom' mobile game from 2005 is now playable on Windows",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/doom-rpg-port-windows-203048062.html",
+        "timestamp": 1656743624,
+        "sentiment": 0,
+        "published": "July 2, 2022 2:33 AM"
+    },
+    {
+        "title": "Swiss restaurant fines those who don’t finish their meals",
+        "domain": "lenews.ch",
+        "category": "nottheonion",
+        "link": "https://lenews.ch/2022/07/02/swiss-restaurant-fines-those-who-dont-finish-their-meals/",
+        "timestamp": 1656735592,
+        "sentiment": -2,
+        "published": "July 2, 2022 12:19 AM"
+    },
+    {
+        "title": "Hindu man is beheaded on camera by two 'Islamic warriors' in India",
+        "domain": "tribuneonlineng.com",
+        "category": "news",
+        "link": "https://tribuneonlineng.com/hindu-man-is-beheaded-on-camera-by-two-islamic-warriors-in-india/",
+        "timestamp": 1656735937,
+        "sentiment": 0,
+        "published": "July 2, 2022 12:25 AM"
     },
     {
         "title": "Germany to return looted artifacts to Africa",
