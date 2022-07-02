@@ -1,5 +1,41 @@
 [
     {
+        "title": "Swiss restaurant fines those who don’t finish their meals",
+        "domain": "lenews.ch",
+        "category": "nottheonion",
+        "link": "https://lenews.ch/2022/07/02/swiss-restaurant-fines-those-who-dont-finish-their-meals/",
+        "timestamp": 1656735592,
+        "sentiment": -2,
+        "published": "July 2, 2022 12:19 AM"
+    },
+    {
+        "title": "Canadian rock legend Randy Bachmann reunited with cherished guitar after fan tracked it down in Tokyo using photos of woodgrain",
+        "domain": "theguardian.com",
+        "category": "UpliftingNews",
+        "link": "https://www.theguardian.com/world/2022/jul/02/i-was-crying-rock-legend-randy-bachman-reunited-with-stolen-guitar-45-years-on?utm_term=Autofeed&CMP=twt_b-gdnnews&utm_medium=Social&utm_source=Twitter&s=09#Echobox=1656730401",
+        "timestamp": 1656735862,
+        "sentiment": -1,
+        "published": "July 2, 2022 12:24 AM"
+    },
+    {
+        "title": "Painkillers are dispensed less freely by night-shift doctors. Physicians show less empathy at the end of a night shift than after a daytime stint — and are less likely to prescribe drugs for treating pain.",
+        "domain": "pnas.org",
+        "category": "science",
+        "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2200047119",
+        "timestamp": 1656736996,
+        "sentiment": -5,
+        "published": "July 2, 2022 12:43 AM"
+    },
+    {
+        "title": "New Jersey governor signs bills protecting out-of-state abortion seekers and reproductive health care providers",
+        "domain": "cnn.com",
+        "category": "UpliftingNews",
+        "link": "https://www.cnn.com/2022/07/01/politics/new-jersey-abortion-reproductive-rights-laws/index.html",
+        "timestamp": 1656737928,
+        "sentiment": -1,
+        "published": "July 2, 2022 12:58 AM"
+    },
+    {
         "title": "Germany to return looted artifacts to Africa",
         "domain": "m.dw.com",
         "category": "UpliftingNews",
