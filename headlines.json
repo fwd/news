@@ -5,7 +5,7 @@
         "category": "nottheonion",
         "link": "https://lenews.ch/2022/07/02/swiss-restaurant-fines-those-who-dont-finish-their-meals/",
         "timestamp": 1656735592,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 2, 2022 12:19 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "nottheonion",
         "link": "https://news.sky.com/story/drivers-handed-record-86-million-parking-tickets-by-private-firms-over-12-months-12644088",
         "timestamp": 1656737675,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 2, 2022 12:54 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "television",
         "link": "https://www.animenewsnetwork.com/news/2022-07-02/jojo-bizarre-adventure-stone-ocean-anime-2nd-part-streams-new-trailer-reveals-september-1-premiere/.187058",
         "timestamp": 1656738614,
-        "sentiment": 5,
+        "sentiment": 0,
         "published": "July 2, 2022 1:10 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "nottheonion",
         "link": "https://variety.com/2022/tv/news/friends-creator-embarrassed-diversity-donates-4-million-1235307727/",
         "timestamp": 1656742918,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 2, 2022 2:21 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.cnbc.com/2022/07/01/who-says-monkeypox-cases-triple-in-europe-in-two-weeks-urgent-action-needed-to-contain-spread.html",
         "timestamp": 1656745103,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 2, 2022 2:58 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "worldnews",
         "link": "https://bdnews24.com/world/africa/2022/07/02/nigerian-islamic-court-orders-death-by-stoning-for-men-convicted-of-homosexuality",
         "timestamp": 1656751565,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 2, 2022 4:46 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/07/01/federal-abortion-ban-desired-gop-would-increase-maternal-deaths-24-study",
         "timestamp": 1656751785,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 2, 2022 4:49 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "news",
         "link": "https://www.aljazeera.com/news/2022/7/1/ukraine-says-russia-dropped-phosphorus-bombs-on-snake-island",
         "timestamp": 1656753904,
-        "sentiment": -5,
+        "sentiment": -3,
         "published": "July 2, 2022 5:25 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.pravda.com.ua/eng/news/2022/07/2/7355933/",
         "timestamp": 1656756014,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 2, 2022 6:00 AM"
     },
     {
@@ -113,8 +113,17 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/ex-boyfriend-arrested-killing-mother-pushing-baby-stroller-nyc-rcna36436",
         "timestamp": 1656757351,
-        "sentiment": -5,
+        "sentiment": -3,
         "published": "July 2, 2022 6:22 AM"
+    },
+    {
+        "title": "Child found dead in Minnesota lake, authorities search for mother and 2 more kids",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/child-found-dead-minnesota-lake-authorities-search-mother-2-kids-rcna36442",
+        "timestamp": 1656759376,
+        "sentiment": -3,
+        "published": "July 2, 2022 6:56 AM"
     },
     {
         "title": "How your brainwaves could be used in criminal trials",
@@ -131,15 +140,6 @@
         "category": "nottheonion",
         "link": "https://www.somersetlive.co.uk/news/couple-left-petfrified-after-being-7264721",
         "timestamp": 1656759860,
-        "sentiment": -2,
-        "published": "July 2, 2022 7:04 AM"
-    },
-    {
-        "title": "Taliban supreme leader warns foreigners not to interfere in Afghanistan",
-        "domain": "cnn.com",
-        "category": "worldnews",
-        "link": "https://www.cnn.com/2022/07/02/asia/taliban-supreme-leader-warning-intl/index.html",
-        "timestamp": 1656759867,
         "sentiment": 0,
         "published": "July 2, 2022 7:04 AM"
     },
@@ -149,7 +149,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/google-let-sanctioned-russian-firm-access-data-of-americans-europeans-2022-7",
         "timestamp": 1656760019,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 2, 2022 7:06 AM"
     },
     {
@@ -158,7 +158,7 @@
         "category": "worldnews",
         "link": "https://www.meforum.org/63355/turkish-president-erdogan-cronies-defrauded-czech",
         "timestamp": 1656760830,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 2, 2022 7:20 AM"
     },
     {
@@ -167,7 +167,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/views/2022/07/01/beware-supreme-court-laying-groundwork-pre-rig-2024-election",
         "timestamp": 1656761038,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 2, 2022 7:23 AM"
     },
     {
@@ -176,7 +176,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/manchin-sinema-critics-say-gop-will-end-filibuster-anyway-ban-abortion-1721215",
         "timestamp": 1656761270,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 2, 2022 7:27 AM"
     },
     {
@@ -185,7 +185,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/americas/indigenous-leader-who-opposed-illegal-mining-killed-venezuela-ngo-2022-07-01/",
         "timestamp": 1656761460,
-        "sentiment": -5,
+        "sentiment": -3,
         "published": "July 2, 2022 7:31 AM"
     },
     {
@@ -194,7 +194,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/technology/2022/jul/02/nft-sales-hit-12-month-low-after-cryptocurrency-crash",
         "timestamp": 1656761782,
-        "sentiment": -5,
+        "sentiment": -3,
         "published": "July 2, 2022 7:36 AM"
     },
     {
@@ -203,7 +203,7 @@
         "category": "worldnews",
         "link": "https://insightcrime.org/news/turkey-cocaine-hub-between-europe-and-the-middle-east/",
         "timestamp": 1656761907,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 2, 2022 7:38 AM"
     },
     {
@@ -221,7 +221,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/10-year-old-girl-travel-out-state-ohio-restricts-abortion-2022-7",
         "timestamp": 1656762738,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 2, 2022 7:52 AM"
     },
     {
@@ -239,17 +239,8 @@
         "category": "news",
         "link": "https://edition.cnn.com/2022/06/28/americas/sandals-bahamas-resort-deaths-carbon-monoxide-police/index.html",
         "timestamp": 1656763088,
-        "sentiment": -5,
+        "sentiment": -3,
         "published": "July 2, 2022 7:58 AM"
-    },
-    {
-        "title": "In #Belarus, a group of senior military officers in a Special Forces unit, in the ranks from captain to colonel, reportedly signed an open letter to the de facto ruler Lukashenka, openly speaking against potential Belarusian participation in #Russia’s invasion of #Ukraine.",
-        "domain": "mobile.twitter.com",
-        "category": "ukraine",
-        "link": "https://mobile.twitter.com/AlexKokcharov/status/1543179024024932359",
-        "timestamp": 1656763200,
-        "sentiment": 0,
-        "published": "July 2, 2022 8:00 AM"
     },
     {
         "title": "Dinosaurs Took Over Amid Ice, Not Warmth, Says a New Study of Ancient Mass Extinction",
@@ -266,17 +257,8 @@
         "category": "politics",
         "link": "https://www.nbcnews.com/think/opinion/supreme-courts-originalism-white-supremacy-rcna36409",
         "timestamp": 1656764303,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 2, 2022 8:18 AM"
-    },
-    {
-        "title": "Texas educators propose teaching slavery as “involuntary relocation”",
-        "domain": "cnn.com",
-        "category": "nottheonion",
-        "link": "https://www.cnn.com/2022/07/02/us/texas-group-proposes-school-slavery-language/index.html",
-        "timestamp": 1656764389,
-        "sentiment": -2,
-        "published": "July 2, 2022 8:19 AM"
     },
     {
         "title": "Donald J. Trump, meanest of mean girls: He so doesn't want to be our friend anymore. Trump's evident criminality is no big surprise at this point. But his whiny, wounded immaturity is astonishing",
@@ -284,7 +266,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/07/02/donald-j-trump-meanest-of-mean-girls-he-isoi-doesnt-want-to-be-our-friend-anymore/",
         "timestamp": 1656764870,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 2, 2022 8:27 AM"
     },
     {
@@ -293,7 +275,7 @@
         "category": "television",
         "link": "https://people.com/tv/boy-meets-world-cast-on-william-daniels-giving-pearls-of-wisdom-today/",
         "timestamp": 1656764993,
-        "sentiment": 5,
+        "sentiment": 0,
         "published": "July 2, 2022 8:29 AM"
     },
     {
@@ -311,7 +293,7 @@
         "category": "worldnews",
         "link": "https://english.kyodonews.net/news/2022/07/4991f2943f7b-russian-warships-pass-between-japans-westernmost-islands.html",
         "timestamp": 1656765496,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 2, 2022 8:38 AM"
     },
     {
@@ -320,7 +302,7 @@
         "category": "sports",
         "link": "https://www.nytimes.com/2022/07/01/sports/football/ravens-jaylon-ferguson-fatal-overdose.html",
         "timestamp": 1656767023,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 2, 2022 9:03 AM"
     },
     {
@@ -338,7 +320,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/tiktok-confirms-us-user-data-accessed-in-china-bytedance-2022-7",
         "timestamp": 1656767944,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 2, 2022 9:19 AM"
     },
     {
@@ -356,7 +338,7 @@
         "category": "news",
         "link": "https://minnesotareformer.com/2022/07/01/the-legislature-stumbles-into-legalizing-thc-for-better-or-worse-column/",
         "timestamp": 1656768935,
-        "sentiment": -5,
+        "sentiment": -3,
         "published": "July 2, 2022 9:35 AM"
     },
     {
@@ -365,17 +347,8 @@
         "category": "miami",
         "link": "https://www.winknews.com/2022/07/01/miami-to-get-5-million-to-prepare-for-2026-world-cup/",
         "timestamp": 1656769585,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 2, 2022 9:46 AM"
-    },
-    {
-        "title": "Mississippi legislators talking about using pregnancy sniffing dogs at airports.",
-        "domain": "democraticunderground.com",
-        "category": "nottheonion",
-        "link": "https://www.democraticunderground.com/100216877134",
-        "timestamp": 1656770295,
-        "sentiment": -2,
-        "published": "July 2, 2022 9:58 AM"
     },
     {
         "title": "The Entire GOP is Complicit in the Coup Attempt",
@@ -383,7 +356,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/cassidy-hutchinsons-jan-6-testimony-exposed-the-entire-gop-as-complicit-in-the-coup-attempt?ref=wrap",
         "timestamp": 1656770299,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 2, 2022 9:58 AM"
     },
     {
@@ -392,8 +365,17 @@
         "category": "television",
         "link": "https://tvline.com/2022/07/02/the-bear-season-1-episode-8-finale-jeremy-allen-white-hulu/",
         "timestamp": 1656770590,
-        "sentiment": 5,
+        "sentiment": 0,
         "published": "July 2, 2022 10:03 AM"
+    },
+    {
+        "title": "Major cryptocurrency exchange signs $1.4 million deal to help ICE track crypto trades",
+        "domain": "pcgamer.com",
+        "category": "news",
+        "link": "https://www.pcgamer.com/major-cryptocurrency-exchange-signs-dollar14-million-deal-to-help-ice-track-crypto-trades/?utm_source=facebook&utm_medium=news_tab",
+        "timestamp": 1656771266,
+        "sentiment": -3,
+        "published": "July 2, 2022 10:14 AM"
     },
     {
         "title": "10-year-old girl denied abortion in Ohio",
@@ -401,8 +383,26 @@
         "category": "politics",
         "link": "https://thehill.com/policy/healthcare/3544588-10-year-old-girl-denied-abortion-in-ohio/",
         "timestamp": 1656771358,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 2, 2022 10:15 AM"
+    },
+    {
+        "title": "Daily Wire's New Animated Show 'Chip Chilla' Aims To Rival 'Woke' Cartoons",
+        "domain": "cartoonbrew.com",
+        "category": "television",
+        "link": "https://www.cartoonbrew.com/streaming/daily-wire-streaming-chip-chilla-teaser-218442.html",
+        "timestamp": 1656772008,
+        "sentiment": 0,
+        "published": "July 2, 2022 10:26 AM"
+    },
+    {
+        "title": "In Overwatch 2, the benches were changed because homeless people couldn't sleep on them",
+        "domain": "gagadget.com",
+        "category": "nottheonion",
+        "link": "https://gagadget.com/en/142364-in-overwatch-2-the-benches-were-changed-because-homeless-people-couldnt-sleep-on-them/",
+        "timestamp": 1656772613,
+        "sentiment": 0,
+        "published": "July 2, 2022 10:36 AM"
     },
     {
         "title": "Smart people are more likely to know how the economy works, regardless of their level of education or economic training, new study (n=1,356) finds.",
@@ -421,6 +421,114 @@
         "timestamp": 1656773253,
         "sentiment": -3,
         "published": "July 2, 2022 10:47 AM"
+    },
+    {
+        "title": "Nearly 850,000 people signed a petition demanding that Justice Clarence Thomas should be booted from the Supreme Court following Roe v. Wade ruling",
+        "domain": "insider.com",
+        "category": "politics",
+        "link": "https://www.insider.com/thousands-of-people-signed-petition-for-justice-thomas-be-impeached-2022-7",
+        "timestamp": 1656773545,
+        "sentiment": 0,
+        "published": "July 2, 2022 10:52 AM"
+    },
+    {
+        "title": "Transphobia is gaining ground in the U.S. Gender-diverse people in Canada worry it could happen here",
+        "domain": "cbc.ca",
+        "category": "worldnews",
+        "link": "https://www.cbc.ca/news/canada/canada-us-transgender-hate-1.6503087",
+        "timestamp": 1656773829,
+        "sentiment": -1,
+        "published": "July 2, 2022 10:57 AM"
+    },
+    {
+        "title": "Hidden in caves: Mineral overgrowths reveal unprecedented modern sea-level rise",
+        "domain": "usf.edu",
+        "category": "science",
+        "link": "https://www.usf.edu/news/2022/hidden-in-caves-mineral-overgrowths-reveal-unprecedented-modern-sea-level-rise.aspx",
+        "timestamp": 1656774446,
+        "sentiment": 1,
+        "published": "July 2, 2022 11:07 AM"
+    },
+    {
+        "title": "Police looking to identify Puslinch, Ont. man who paved driveway without permission",
+        "domain": "kitchener.ctvnews.ca",
+        "category": "nottheonion",
+        "link": "https://kitchener.ctvnews.ca/man-wanted-for-paving-puslinch-ont-driveway-without-permission-1.5971205",
+        "timestamp": 1656775491,
+        "sentiment": 0,
+        "published": "July 2, 2022 11:24 AM"
+    },
+    {
+        "title": "In DeSantis’ Florida, Miami doctor learns: Criticize the government at your own risk | Editorial",
+        "domain": "miamiherald.com",
+        "category": "florida",
+        "link": "https://www.miamiherald.com/opinion/editorials/article263094388.html",
+        "timestamp": 1656775526,
+        "sentiment": 10,
+        "published": "July 2, 2022 11:25 AM"
+    },
+    {
+        "title": "In Florida, DeSantis’s plans for colleges rattle some academics",
+        "domain": "washingtonpost.com",
+        "category": "florida",
+        "link": "https://www.washingtonpost.com/education/2022/07/01/desantis-florida-universities-laws/",
+        "timestamp": 1656775574,
+        "sentiment": 10,
+        "published": "July 2, 2022 11:26 AM"
+    },
+    {
+        "title": "Kitten rescued from inside Pepsi vending machine at Walmart store",
+        "domain": "msn.com",
+        "category": "UpliftingNews",
+        "link": "https://www.msn.com/en-us/news/us/kitten-rescued-from-inside-pepsi-vending-machine-at-walmart-store/ar-AAZ5vxK",
+        "timestamp": 1656776789,
+        "sentiment": 0,
+        "published": "July 2, 2022 11:46 AM"
+    },
+    {
+        "title": "How Spectrum Fusion empowers adults with autism",
+        "domain": "abc13.com",
+        "category": "UpliftingNews",
+        "link": "https://abc13.com/spectrum-fusion-studio-dr-heidi-ham-autism/12009058/",
+        "timestamp": 1656778728,
+        "sentiment": 0,
+        "published": "July 2, 2022 12:18 PM"
+    },
+    {
+        "title": "Taliban supreme leader warns foreigners not to interfere in Afghanistan",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2022/07/02/asia/taliban-supreme-leader-warning-intl/index.html",
+        "timestamp": 1656759867,
+        "sentiment": 0,
+        "published": "July 2, 2022 7:04 AM"
+    },
+    {
+        "title": "In #Belarus, a group of senior military officers in a Special Forces unit, in the ranks from captain to colonel, reportedly signed an open letter to the de facto ruler Lukashenka, openly speaking against potential Belarusian participation in #Russia’s invasion of #Ukraine.",
+        "domain": "mobile.twitter.com",
+        "category": "ukraine",
+        "link": "https://mobile.twitter.com/AlexKokcharov/status/1543179024024932359",
+        "timestamp": 1656763200,
+        "sentiment": 0,
+        "published": "July 2, 2022 8:00 AM"
+    },
+    {
+        "title": "Texas educators propose teaching slavery as “involuntary relocation”",
+        "domain": "cnn.com",
+        "category": "nottheonion",
+        "link": "https://www.cnn.com/2022/07/02/us/texas-group-proposes-school-slavery-language/index.html",
+        "timestamp": 1656764389,
+        "sentiment": -2,
+        "published": "July 2, 2022 8:19 AM"
+    },
+    {
+        "title": "Mississippi legislators talking about using pregnancy sniffing dogs at airports.",
+        "domain": "democraticunderground.com",
+        "category": "nottheonion",
+        "link": "https://www.democraticunderground.com/100216877134",
+        "timestamp": 1656770295,
+        "sentiment": -2,
+        "published": "July 2, 2022 9:58 AM"
     },
     {
         "title": "Australians rally against U.S. overturning of key abortion ruling",
