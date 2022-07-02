@@ -5,7 +5,7 @@
         "category": "nottheonion",
         "link": "https://lenews.ch/2022/07/02/swiss-restaurant-fines-those-who-dont-finish-their-meals/",
         "timestamp": 1656735592,
-        "sentiment": -6,
+        "sentiment": -2,
         "published": "July 2, 2022 12:19 AM"
     },
     {
@@ -14,8 +14,26 @@
         "category": "UpliftingNews",
         "link": "https://www.theguardian.com/world/2022/jul/02/i-was-crying-rock-legend-randy-bachman-reunited-with-stolen-guitar-45-years-on?utm_term=Autofeed&CMP=twt_b-gdnnews&utm_medium=Social&utm_source=Twitter&s=09#Echobox=1656730401",
         "timestamp": 1656735862,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 2, 2022 12:24 AM"
+    },
+    {
+        "title": "Hindu man is beheaded on camera by two 'Islamic warriors' in India",
+        "domain": "tribuneonlineng.com",
+        "category": "news",
+        "link": "https://tribuneonlineng.com/hindu-man-is-beheaded-on-camera-by-two-islamic-warriors-in-india/",
+        "timestamp": 1656735937,
+        "sentiment": 0,
+        "published": "July 2, 2022 12:25 AM"
+    },
+    {
+        "title": "Ukraine’s south: Air Force pilots hit Russian ammo depot, group of troops",
+        "domain": "ukrinform.net",
+        "category": "ukraine",
+        "link": "https://www.ukrinform.net/rubric-ato/3520078-ukraines-south-air-force-pilots-hit-russian-ammo-depot-group-of-troops.html",
+        "timestamp": 1656736739,
+        "sentiment": 0,
+        "published": "July 2, 2022 12:38 AM"
     },
     {
         "title": "Painkillers are dispensed less freely by night-shift doctors. Physicians show less empathy at the end of a night shift than after a daytime stint — and are less likely to prescribe drugs for treating pain.",
@@ -23,8 +41,17 @@
         "category": "science",
         "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2200047119",
         "timestamp": 1656736996,
-        "sentiment": -5,
+        "sentiment": 2,
         "published": "July 2, 2022 12:43 AM"
+    },
+    {
+        "title": "Drivers handed record 8.6 million parking tickets by private firms over 12 months",
+        "domain": "news.sky.com",
+        "category": "nottheonion",
+        "link": "https://news.sky.com/story/drivers-handed-record-86-million-parking-tickets-by-private-firms-over-12-months-12644088",
+        "timestamp": 1656737675,
+        "sentiment": -2,
+        "published": "July 2, 2022 12:54 AM"
     },
     {
         "title": "New Jersey governor signs bills protecting out-of-state abortion seekers and reproductive health care providers",
@@ -32,7 +59,7 @@
         "category": "UpliftingNews",
         "link": "https://www.cnn.com/2022/07/01/politics/new-jersey-abortion-reproductive-rights-laws/index.html",
         "timestamp": 1656737928,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 2, 2022 12:58 AM"
     },
     {
@@ -43,6 +70,24 @@
         "timestamp": 1656738614,
         "sentiment": 2,
         "published": "July 2, 2022 1:10 AM"
+    },
+    {
+        "title": "Environmental protection of the earth, entrusted to artificial intelligence",
+        "domain": "boudy-technology.tn",
+        "category": "science",
+        "link": "https://www.boudy-technology.tn/2022/07/earth-protection-artificial-intelligence.html",
+        "timestamp": 1656739878,
+        "sentiment": 2,
+        "published": "July 2, 2022 1:31 AM"
+    },
+    {
+        "title": "India bans single-use plastic to combat pollution",
+        "domain": "cnn.com",
+        "category": "UpliftingNews",
+        "link": "https://www.cnn.com/2022/07/01/india/india-bans-single-use-plastic-intl-hnk/index.html",
+        "timestamp": 1656742693,
+        "sentiment": 2,
+        "published": "July 2, 2022 2:18 AM"
     },
     {
         "title": "Germany to return looted artifacts to Africa",
