@@ -14,7 +14,7 @@
         "category": "ukraine",
         "link": "https://www.ukrinform.net/rubric-ato/3520078-ukraines-south-air-force-pilots-hit-russian-ammo-depot-group-of-troops.html",
         "timestamp": 1656736739,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 2, 2022 12:38 AM"
     },
     {
@@ -34,6 +34,15 @@
         "timestamp": 1656737675,
         "sentiment": 0,
         "published": "July 2, 2022 12:54 AM"
+    },
+    {
+        "title": "No 10 considers 50-year mortgages that could pass down generations [UK]",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/money/2022/jul/01/no-10-considers-50-year-mortgages-that-could-pass-down-generations",
+        "timestamp": 1656737846,
+        "sentiment": 0,
+        "published": "July 2, 2022 12:57 AM"
     },
     {
         "title": "New Jersey governor signs bills protecting out-of-state abortion seekers and reproductive health care providers",
@@ -63,6 +72,15 @@
         "published": "July 2, 2022 1:31 AM"
     },
     {
+        "title": "Oath Keepers will tell a jury they believed Donald Trump would turn them into his own personal militia on January 6",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/oath-keepers-to-tell-jury-they-believed-trump-would-federalize-them-2022-6",
+        "timestamp": 1656740837,
+        "sentiment": 0,
+        "published": "July 2, 2022 1:47 AM"
+    },
+    {
         "title": "India bans single-use plastic to combat pollution",
         "domain": "cnn.com",
         "category": "UpliftingNews",
@@ -88,6 +106,24 @@
         "timestamp": 1656743624,
         "sentiment": 0,
         "published": "July 2, 2022 2:33 AM"
+    },
+    {
+        "title": "Australians rally against U.S. overturning of key abortion ruling",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/australians-rally-against-us-overturning-key-abortion-ruling-2022-07-02/",
+        "timestamp": 1656744636,
+        "sentiment": 0,
+        "published": "July 2, 2022 2:50 AM"
+    },
+    {
+        "title": "WHO says monkeypox cases triple in Europe in two weeks, urgent action needed to contain spread",
+        "domain": "cnbc.com",
+        "category": "worldnews",
+        "link": "https://www.cnbc.com/2022/07/01/who-says-monkeypox-cases-triple-in-europe-in-two-weeks-urgent-action-needed-to-contain-spread.html",
+        "timestamp": 1656745103,
+        "sentiment": 0,
+        "published": "July 2, 2022 2:58 AM"
     },
     {
         "title": "Swiss restaurant fines those who don’t finish their meals",
