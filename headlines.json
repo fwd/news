@@ -5,7 +5,7 @@
         "category": "nottheonion",
         "link": "https://lenews.ch/2022/07/02/swiss-restaurant-fines-those-who-dont-finish-their-meals/",
         "timestamp": 1656735592,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 2, 2022 12:19 AM"
     },
     {
@@ -32,17 +32,8 @@
         "category": "nottheonion",
         "link": "https://news.sky.com/story/drivers-handed-record-86-million-parking-tickets-by-private-firms-over-12-months-12644088",
         "timestamp": 1656737675,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 2, 2022 12:54 AM"
-    },
-    {
-        "title": "No 10 considers 50-year mortgages that could pass down generations [UK]",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/money/2022/jul/01/no-10-considers-50-year-mortgages-that-could-pass-down-generations",
-        "timestamp": 1656737846,
-        "sentiment": -1,
-        "published": "July 2, 2022 12:57 AM"
     },
     {
         "title": "‘JoJo’s Bizarre Adventure: Stone Ocean’ Part 2 Premieres September 1, 2022 on Netflix",
@@ -50,17 +41,8 @@
         "category": "television",
         "link": "https://www.animenewsnetwork.com/news/2022-07-02/jojo-bizarre-adventure-stone-ocean-anime-2nd-part-streams-new-trailer-reveals-september-1-premiere/.187058",
         "timestamp": 1656738614,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "July 2, 2022 1:10 AM"
-    },
-    {
-        "title": "Oath Keepers will tell a jury they believed Donald Trump would turn them into his own personal militia on January 6",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/oath-keepers-to-tell-jury-they-believed-trump-would-federalize-them-2022-6",
-        "timestamp": 1656740837,
-        "sentiment": 0,
-        "published": "July 2, 2022 1:47 AM"
     },
     {
         "title": "India bans single-use plastic to combat pollution",
@@ -77,7 +59,7 @@
         "category": "nottheonion",
         "link": "https://variety.com/2022/tv/news/friends-creator-embarrassed-diversity-donates-4-million-1235307727/",
         "timestamp": 1656742918,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 2, 2022 2:21 AM"
     },
     {
@@ -86,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/australians-rally-against-us-overturning-key-abortion-ruling-2022-07-02/",
         "timestamp": 1656744636,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 2, 2022 2:50 AM"
     },
     {
@@ -95,17 +77,8 @@
         "category": "worldnews",
         "link": "https://www.cnbc.com/2022/07/01/who-says-monkeypox-cases-triple-in-europe-in-two-weeks-urgent-action-needed-to-contain-spread.html",
         "timestamp": 1656745103,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 2, 2022 2:58 AM"
-    },
-    {
-        "title": "Red Bull Drinkers Can Claim $10 Over 'Gives You Wings' Lawsuit",
-        "domain": "nbcnews.com",
-        "category": "nottheonion",
-        "link": "https://www.nbcnews.com/business/consumer/red-bull-drinkers-can-claim-10-over-gives-you-wings-n221901",
-        "timestamp": 1656749786,
-        "sentiment": -2,
-        "published": "July 2, 2022 4:16 AM"
     },
     {
         "title": "Nigerian Islamic court orders death by stoning for men convicted of homosexuality",
@@ -113,7 +86,7 @@
         "category": "worldnews",
         "link": "https://bdnews24.com/world/africa/2022/07/02/nigerian-islamic-court-orders-death-by-stoning-for-men-convicted-of-homosexuality",
         "timestamp": 1656751565,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 2, 2022 4:46 AM"
     },
     {
@@ -126,12 +99,21 @@
         "published": "July 2, 2022 4:49 AM"
     },
     {
+        "title": "20 million U.K. iPhone, iPad users could get compensation in £1.5B lawsuit",
+        "domain": "imore.com",
+        "category": "technology",
+        "link": "https://www.imore.com/20-million-uk-apple-users-could-get-compensation-ps15b-lawsuit",
+        "timestamp": 1656753268,
+        "sentiment": -2,
+        "published": "July 2, 2022 5:14 AM"
+    },
+    {
         "title": "Ukraine says Russia dropped phosphorus bombs on Snake Island | News",
         "domain": "aljazeera.com",
         "category": "news",
         "link": "https://www.aljazeera.com/news/2022/7/1/ukraine-says-russia-dropped-phosphorus-bombs-on-snake-island",
         "timestamp": 1656753904,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "July 2, 2022 5:25 AM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.pravda.com.ua/eng/news/2022/07/2/7355933/",
         "timestamp": 1656756014,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 2, 2022 6:00 AM"
     },
     {
@@ -158,7 +140,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/ex-boyfriend-arrested-killing-mother-pushing-baby-stroller-nyc-rcna36436",
         "timestamp": 1656757351,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "July 2, 2022 6:22 AM"
     },
     {
@@ -167,7 +149,7 @@
         "category": "technology",
         "link": "https://techxplore.com/news/2022-07-brainwaves-criminal-trials.html",
         "timestamp": 1656759661,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 2, 2022 7:01 AM"
     },
     {
@@ -176,7 +158,16 @@
         "category": "nottheonion",
         "link": "https://www.somersetlive.co.uk/news/couple-left-petfrified-after-being-7264721",
         "timestamp": 1656759860,
-        "sentiment": -2,
+        "sentiment": 0,
+        "published": "July 2, 2022 7:04 AM"
+    },
+    {
+        "title": "Taliban supreme leader warns foreigners not to interfere in Afghanistan",
+        "domain": "cnn.com",
+        "category": "worldnews",
+        "link": "https://www.cnn.com/2022/07/02/asia/taliban-supreme-leader-warning-intl/index.html",
+        "timestamp": 1656759867,
+        "sentiment": 0,
         "published": "July 2, 2022 7:04 AM"
     },
     {
@@ -185,7 +176,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/google-let-sanctioned-russian-firm-access-data-of-americans-europeans-2022-7",
         "timestamp": 1656760019,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 2, 2022 7:06 AM"
     },
     {
@@ -198,13 +189,13 @@
         "published": "July 2, 2022 7:23 AM"
     },
     {
-        "title": "Hugo Speer sacked from Full Monty reboot after ‘inappropriate conduct’ claims",
-        "domain": "uk.sports.yahoo.com",
-        "category": "television",
-        "link": "https://uk.sports.yahoo.com/news/hugo-speer-sacked-full-monty-112241107.html",
-        "timestamp": 1656761457,
+        "title": "Manchin, Sinema critics say GOP will end filibuster anyway to ban abortion",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/manchin-sinema-critics-say-gop-will-end-filibuster-anyway-ban-abortion-1721215",
+        "timestamp": 1656761270,
         "sentiment": 0,
-        "published": "July 2, 2022 7:30 AM"
+        "published": "July 2, 2022 7:27 AM"
     },
     {
         "title": "Indigenous leader who opposed illegal mining killed in Venezuela -NGO",
@@ -212,7 +203,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/americas/indigenous-leader-who-opposed-illegal-mining-killed-venezuela-ngo-2022-07-01/",
         "timestamp": 1656761460,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "July 2, 2022 7:31 AM"
     },
     {
@@ -221,7 +212,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/technology/2022/jul/02/nft-sales-hit-12-month-low-after-cryptocurrency-crash",
         "timestamp": 1656761782,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "July 2, 2022 7:36 AM"
     },
     {
@@ -230,17 +221,8 @@
         "category": "worldnews",
         "link": "https://insightcrime.org/news/turkey-cocaine-hub-between-europe-and-the-middle-east/",
         "timestamp": 1656761907,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 2, 2022 7:38 AM"
-    },
-    {
-        "title": "Google will start auto-deleting abortion clinic visits from user location history",
-        "domain": "binsider.bond",
-        "category": "UpliftingNews",
-        "link": "https://www.binsider.bond/google-will-start-auto-deleting-abortion-clinic-visits-from-user-location-history/",
-        "timestamp": 1656762130,
-        "sentiment": 3,
-        "published": "July 2, 2022 7:42 AM"
     },
     {
         "title": "Caught on Video: 20-year-old jumps into action, rescues man who fell onto electrified third rail",
@@ -252,13 +234,31 @@
         "published": "July 2, 2022 7:51 AM"
     },
     {
+        "title": "A 10-year-old was forced to cross state lines for an abortion after Ohio's ban went into place. The Indiana doctor who helped her will soon be unable to assist others.",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/10-year-old-girl-travel-out-state-ohio-restricts-abortion-2022-7",
+        "timestamp": 1656762738,
+        "sentiment": 0,
+        "published": "July 2, 2022 7:52 AM"
+    },
+    {
         "title": "'Die-hard' Nintendo fan spent over $40,000 buying stock and then asked top executives why the company won't make more of a fan-favorite series",
         "domain": "businessinsider.in",
         "category": "technology",
         "link": "https://www.businessinsider.in/international/news/diehard-nintendo-fan-spent-over-40000-buying-stock-and-then-asked-top-executives-why-the-company-wont-make-more-of-a-fan-favorite-series/articleshow/92581607.cms",
         "timestamp": 1656763016,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 2, 2022 7:56 AM"
+    },
+    {
+        "title": "3 Americans found dead at a Sandals in the Bahamas last month died due to carbon monoxide poisoning, police say",
+        "domain": "edition.cnn.com",
+        "category": "news",
+        "link": "https://edition.cnn.com/2022/06/28/americas/sandals-bahamas-resort-deaths-carbon-monoxide-police/index.html",
+        "timestamp": 1656763088,
+        "sentiment": -1,
+        "published": "July 2, 2022 7:58 AM"
     },
     {
         "title": "In #Belarus, a group of senior military officers in a Special Forces unit, in the ranks from captain to colonel, reportedly signed an open letter to the de facto ruler Lukashenka, openly speaking against potential Belarusian participation in #Russia’s invasion of #Ukraine.",
@@ -293,7 +293,7 @@
         "category": "nottheonion",
         "link": "https://www.cnn.com/2022/07/02/us/texas-group-proposes-school-slavery-language/index.html",
         "timestamp": 1656764389,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 2, 2022 8:19 AM"
     },
     {
@@ -302,7 +302,7 @@
         "category": "television",
         "link": "https://people.com/tv/boy-meets-world-cast-on-william-daniels-giving-pearls-of-wisdom-today/",
         "timestamp": 1656764993,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "July 2, 2022 8:29 AM"
     },
     {
@@ -315,6 +315,15 @@
         "published": "July 2, 2022 8:31 AM"
     },
     {
+        "title": "Russian warships pass between Japan's westernmost islands",
+        "domain": "english.kyodonews.net",
+        "category": "worldnews",
+        "link": "https://english.kyodonews.net/news/2022/07/4991f2943f7b-russian-warships-pass-between-japans-westernmost-islands.html",
+        "timestamp": 1656765496,
+        "sentiment": 0,
+        "published": "July 2, 2022 8:38 AM"
+    },
+    {
         "title": "Jaylon Ferguson, Baltimore Ravens Linebacker, Died From an Overdose",
         "domain": "nytimes.com",
         "category": "sports",
@@ -322,6 +331,105 @@
         "timestamp": 1656767023,
         "sentiment": 0,
         "published": "July 2, 2022 9:03 AM"
+    },
+    {
+        "title": "The Legislature stumbles into legalizing THC, for better or worse.",
+        "domain": "minnesotareformer.com",
+        "category": "news",
+        "link": "https://minnesotareformer.com/2022/07/01/the-legislature-stumbles-into-legalizing-thc-for-better-or-worse-column/",
+        "timestamp": 1656768935,
+        "sentiment": -1,
+        "published": "July 2, 2022 9:35 AM"
+    },
+    {
+        "title": "Parenthood norms appear to still be strongly gendered even in a country with relatively high gender equality",
+        "domain": "psypost.org",
+        "category": "science",
+        "link": "https://www.psypost.org/2022/07/parenthood-norms-appear-to-still-be-strongly-gendered-even-in-a-country-with-relatively-high-gender-equality-63419",
+        "timestamp": 1656769174,
+        "sentiment": 2,
+        "published": "July 2, 2022 9:39 AM"
+    },
+    {
+        "title": "Miami to get $5 million to prepare for 2026 World Cup",
+        "domain": "winknews.com",
+        "category": "miami",
+        "link": "https://www.winknews.com/2022/07/01/miami-to-get-5-million-to-prepare-for-2026-world-cup/",
+        "timestamp": 1656769585,
+        "sentiment": -1,
+        "published": "July 2, 2022 9:46 AM"
+    },
+    {
+        "title": "Recruiters are nineteen times more likely to hire women who have a significant cleavage in their application photo when the qualifications of two artificial applicants are the same",
+        "domain": "ibimapublishing.com",
+        "category": "science",
+        "link": "https://ibimapublishing.com/articles/JHRMR/2016/598520/",
+        "timestamp": 1656770240,
+        "sentiment": 2,
+        "published": "July 2, 2022 9:57 AM"
+    },
+    {
+        "title": "Mississippi legislators talking about using pregnancy sniffing dogs at airports.",
+        "domain": "democraticunderground.com",
+        "category": "nottheonion",
+        "link": "https://www.democraticunderground.com/100216877134",
+        "timestamp": 1656770295,
+        "sentiment": 0,
+        "published": "July 2, 2022 9:58 AM"
+    },
+    {
+        "title": "TVLine Performer of the Week: Jeremy Allen White in 'The Bear'",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/2022/07/02/the-bear-season-1-episode-8-finale-jeremy-allen-white-hulu/",
+        "timestamp": 1656770590,
+        "sentiment": 5,
+        "published": "July 2, 2022 10:03 AM"
+    },
+    {
+        "title": "No 10 considers 50-year mortgages that could pass down generations [UK]",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/money/2022/jul/01/no-10-considers-50-year-mortgages-that-could-pass-down-generations",
+        "timestamp": 1656737846,
+        "sentiment": -1,
+        "published": "July 2, 2022 12:57 AM"
+    },
+    {
+        "title": "Oath Keepers will tell a jury they believed Donald Trump would turn them into his own personal militia on January 6",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/oath-keepers-to-tell-jury-they-believed-trump-would-federalize-them-2022-6",
+        "timestamp": 1656740837,
+        "sentiment": 0,
+        "published": "July 2, 2022 1:47 AM"
+    },
+    {
+        "title": "Red Bull Drinkers Can Claim $10 Over 'Gives You Wings' Lawsuit",
+        "domain": "nbcnews.com",
+        "category": "nottheonion",
+        "link": "https://www.nbcnews.com/business/consumer/red-bull-drinkers-can-claim-10-over-gives-you-wings-n221901",
+        "timestamp": 1656749786,
+        "sentiment": -2,
+        "published": "July 2, 2022 4:16 AM"
+    },
+    {
+        "title": "Hugo Speer sacked from Full Monty reboot after ‘inappropriate conduct’ claims",
+        "domain": "uk.sports.yahoo.com",
+        "category": "television",
+        "link": "https://uk.sports.yahoo.com/news/hugo-speer-sacked-full-monty-112241107.html",
+        "timestamp": 1656761457,
+        "sentiment": 0,
+        "published": "July 2, 2022 7:30 AM"
+    },
+    {
+        "title": "Google will start auto-deleting abortion clinic visits from user location history",
+        "domain": "binsider.bond",
+        "category": "UpliftingNews",
+        "link": "https://www.binsider.bond/google-will-start-auto-deleting-abortion-clinic-visits-from-user-location-history/",
+        "timestamp": 1656762130,
+        "sentiment": 3,
+        "published": "July 2, 2022 7:42 AM"
     },
     {
         "title": "Environmental protection of the earth, entrusted to artificial intelligence",
@@ -385,15 +493,6 @@
         "timestamp": 1656749546,
         "sentiment": 2,
         "published": "July 2, 2022 4:12 AM"
-    },
-    {
-        "title": "20 million U.K. iPhone, iPad users could get compensation in £1.5B lawsuit",
-        "domain": "imore.com",
-        "category": "technology",
-        "link": "https://www.imore.com/20-million-uk-apple-users-could-get-compensation-ps15b-lawsuit",
-        "timestamp": 1656753268,
-        "sentiment": -2,
-        "published": "July 2, 2022 5:14 AM"
     },
     {
         "title": "British Mother Who Had Sex with 15-Year-Old Schoolboy, Giving Birth to His Child, Banned from Contacting Kids",
@@ -4534,15 +4633,6 @@
         "timestamp": 1656498274,
         "sentiment": -2,
         "published": "June 29, 2022 6:24 AM"
-    },
-    {
-        "title": "3 Americans found dead at a Sandals in the Bahamas last month died due to carbon monoxide poisoning, police say",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/06/28/americas/sandals-bahamas-resort-deaths-carbon-monoxide-police/index.html",
-        "timestamp": 1656499876,
-        "sentiment": -6,
-        "published": "June 29, 2022 6:51 AM"
     },
     {
         "title": "Biden and NATO leaders prepare to beef up alliance forces and set the stage for Finland and Sweden to join their ranks",
