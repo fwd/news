@@ -5,7 +5,7 @@
         "category": "nottheonion",
         "link": "https://lenews.ch/2022/07/02/swiss-restaurant-fines-those-who-dont-finish-their-meals/",
         "timestamp": 1656735592,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 2, 2022 12:19 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "science",
         "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2200047119",
         "timestamp": 1656736996,
-        "sentiment": 1,
+        "sentiment": -5,
         "published": "July 2, 2022 12:43 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "nottheonion",
         "link": "https://news.sky.com/story/drivers-handed-record-86-million-parking-tickets-by-private-firms-over-12-months-12644088",
         "timestamp": 1656737675,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 2, 2022 12:54 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "nottheonion",
         "link": "https://variety.com/2022/tv/news/friends-creator-embarrassed-diversity-donates-4-million-1235307727/",
         "timestamp": 1656742918,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 2, 2022 2:21 AM"
     },
     {
@@ -70,15 +70,6 @@
         "timestamp": 1656745103,
         "sentiment": -1,
         "published": "July 2, 2022 2:58 AM"
-    },
-    {
-        "title": "Nigerian Islamic court orders death by stoning for men convicted of homosexuality",
-        "domain": "bdnews24.com",
-        "category": "worldnews",
-        "link": "https://bdnews24.com/world/africa/2022/07/02/nigerian-islamic-court-orders-death-by-stoning-for-men-convicted-of-homosexuality",
-        "timestamp": 1656751565,
-        "sentiment": -1,
-        "published": "July 2, 2022 4:46 AM"
     },
     {
         "title": "Federal Abortion Ban Desired by GOP Would Increase Maternal Deaths by 24%: Study",
@@ -131,7 +122,7 @@
         "category": "technology",
         "link": "https://techxplore.com/news/2022-07-brainwaves-criminal-trials.html",
         "timestamp": 1656759661,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 2, 2022 7:01 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "nottheonion",
         "link": "https://www.somersetlive.co.uk/news/couple-left-petfrified-after-being-7264721",
         "timestamp": 1656759860,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 2, 2022 7:04 AM"
     },
     {
@@ -230,7 +221,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.in/international/news/diehard-nintendo-fan-spent-over-40000-buying-stock-and-then-asked-top-executives-why-the-company-wont-make-more-of-a-fan-favorite-series/articleshow/92581607.cms",
         "timestamp": 1656763016,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 2, 2022 7:56 AM"
     },
     {
@@ -248,7 +239,7 @@
         "category": "science",
         "link": "https://lamont.columbia.edu/news/dinosaurs-took-over-amid-ice-not-warmth-says-new-study-ancient-mass-extinction",
         "timestamp": 1656763249,
-        "sentiment": 1,
+        "sentiment": -5,
         "published": "July 2, 2022 8:00 AM"
     },
     {
@@ -284,7 +275,7 @@
         "category": "science",
         "link": "https://journals.sagepub.com/doi/full/10.1177/09567976211061321",
         "timestamp": 1656765102,
-        "sentiment": 1,
+        "sentiment": -5,
         "published": "July 2, 2022 8:31 AM"
     },
     {
@@ -329,17 +320,17 @@
         "category": "science",
         "link": "https://erj.ersjournals.com/content/59/4/2103246.abstract",
         "timestamp": 1656768886,
-        "sentiment": 1,
+        "sentiment": -5,
         "published": "July 2, 2022 9:34 AM"
     },
     {
-        "title": "The Legislature stumbles into legalizing THC, for better or worse.",
-        "domain": "minnesotareformer.com",
-        "category": "news",
-        "link": "https://minnesotareformer.com/2022/07/01/the-legislature-stumbles-into-legalizing-thc-for-better-or-worse-column/",
-        "timestamp": 1656768935,
-        "sentiment": -3,
-        "published": "July 2, 2022 9:35 AM"
+        "title": "The Czech Republic will also Expel 70 People from its Russian Embassy",
+        "domain": "m.novinite.com",
+        "category": "worldnews",
+        "link": "https://m.novinite.com/view_news.php?id=215754",
+        "timestamp": 1656769153,
+        "sentiment": -1,
+        "published": "July 2, 2022 9:39 AM"
     },
     {
         "title": "Miami to get $5 million to prepare for 2026 World Cup",
@@ -396,21 +387,12 @@
         "published": "July 2, 2022 10:26 AM"
     },
     {
-        "title": "In Overwatch 2, the benches were changed because homeless people couldn't sleep on them",
-        "domain": "gagadget.com",
-        "category": "nottheonion",
-        "link": "https://gagadget.com/en/142364-in-overwatch-2-the-benches-were-changed-because-homeless-people-couldnt-sleep-on-them/",
-        "timestamp": 1656772613,
-        "sentiment": 0,
-        "published": "July 2, 2022 10:36 AM"
-    },
-    {
         "title": "Smart people are more likely to know how the economy works, regardless of their level of education or economic training, new study (n=1,356) finds.",
         "domain": "sciencedirect.com",
         "category": "science",
         "link": "https://www.sciencedirect.com/science/article/pii/S0160289622000484",
         "timestamp": 1656772673,
-        "sentiment": 1,
+        "sentiment": -5,
         "published": "July 2, 2022 10:37 AM"
     },
     {
@@ -419,7 +401,7 @@
         "category": "technology",
         "link": "https://news.yahoo.com/mark-zuckerberg-told-meta-staff-090235785.html",
         "timestamp": 1656773253,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 2, 2022 10:47 AM"
     },
     {
@@ -432,31 +414,13 @@
         "published": "July 2, 2022 10:52 AM"
     },
     {
-        "title": "Transphobia is gaining ground in the U.S. Gender-diverse people in Canada worry it could happen here",
-        "domain": "cbc.ca",
-        "category": "worldnews",
-        "link": "https://www.cbc.ca/news/canada/canada-us-transgender-hate-1.6503087",
-        "timestamp": 1656773829,
-        "sentiment": -1,
-        "published": "July 2, 2022 10:57 AM"
-    },
-    {
         "title": "Hidden in caves: Mineral overgrowths reveal unprecedented modern sea-level rise",
         "domain": "usf.edu",
         "category": "science",
         "link": "https://www.usf.edu/news/2022/hidden-in-caves-mineral-overgrowths-reveal-unprecedented-modern-sea-level-rise.aspx",
         "timestamp": 1656774446,
-        "sentiment": 1,
+        "sentiment": -5,
         "published": "July 2, 2022 11:07 AM"
-    },
-    {
-        "title": "Police looking to identify Puslinch, Ont. man who paved driveway without permission",
-        "domain": "kitchener.ctvnews.ca",
-        "category": "nottheonion",
-        "link": "https://kitchener.ctvnews.ca/man-wanted-for-paving-puslinch-ont-driveway-without-permission-1.5971205",
-        "timestamp": 1656775491,
-        "sentiment": 0,
-        "published": "July 2, 2022 11:24 AM"
     },
     {
         "title": "In DeSantis’ Florida, Miami doctor learns: Criticize the government at your own risk | Editorial",
@@ -464,7 +428,7 @@
         "category": "florida",
         "link": "https://www.miamiherald.com/opinion/editorials/article263094388.html",
         "timestamp": 1656775526,
-        "sentiment": 10,
+        "sentiment": 0,
         "published": "July 2, 2022 11:25 AM"
     },
     {
@@ -473,8 +437,26 @@
         "category": "florida",
         "link": "https://www.washingtonpost.com/education/2022/07/01/desantis-florida-universities-laws/",
         "timestamp": 1656775574,
-        "sentiment": 10,
+        "sentiment": 0,
         "published": "July 2, 2022 11:26 AM"
+    },
+    {
+        "title": "Feds show up at home of North Texas woman who posted angry tweets after Roe decision",
+        "domain": "dallasnews.com",
+        "category": "technology",
+        "link": "https://www.dallasnews.com/news/crime/2022/07/01/feds-show-up-at-home-of-north-texas-woman-who-posted-angry-tweets-after-roe-decision/",
+        "timestamp": 1656776622,
+        "sentiment": 0,
+        "published": "July 2, 2022 11:43 AM"
+    },
+    {
+        "title": "Dozens of Russian weapons tycoons have faced no Western sanctions",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/dozens-russian-weapons-tycoons-have-faced-no-western-sanctions-2022-07-01/",
+        "timestamp": 1656776779,
+        "sentiment": -1,
+        "published": "July 2, 2022 11:46 AM"
     },
     {
         "title": "Kitten rescued from inside Pepsi vending machine at Walmart store",
@@ -486,6 +468,15 @@
         "published": "July 2, 2022 11:46 AM"
     },
     {
+        "title": "Amazon blocks LGBT products in UAE, says it “must comply with local laws”",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/tech-policy/2022/06/amazon-blocks-lgbt-products-in-uae-says-it-must-comply-with-local-laws/",
+        "timestamp": 1656777143,
+        "sentiment": 0,
+        "published": "July 2, 2022 11:52 AM"
+    },
+    {
         "title": "How Spectrum Fusion empowers adults with autism",
         "domain": "abc13.com",
         "category": "UpliftingNews",
@@ -493,6 +484,87 @@
         "timestamp": 1656778728,
         "sentiment": 0,
         "published": "July 2, 2022 12:18 PM"
+    },
+    {
+        "title": "A rare orchid thought to be extinct in Vermont was rediscovered after 120 years",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/07/02/us/extinct-orchid-vermont-scn-trnd/index.html",
+        "timestamp": 1656779082,
+        "sentiment": -3,
+        "published": "July 2, 2022 12:24 PM"
+    },
+    {
+        "title": "Idaho Lt. Governor Defers Pay After Office Ends Fiscal Year With 72 Cents",
+        "domain": "newsweek.com",
+        "category": "nottheonion",
+        "link": "https://www.newsweek.com/idaho-lt-governor-defers-pay-after-office-ends-fiscal-year-72-cents-1721220",
+        "timestamp": 1656779245,
+        "sentiment": -2,
+        "published": "July 2, 2022 12:27 PM"
+    },
+    {
+        "title": "New Missouri law makes sleeping on state land a crime for people experiencing homelessness",
+        "domain": "missouriindependent.com",
+        "category": "nottheonion",
+        "link": "https://missouriindependent.com/2022/06/29/new-missouri-law-makes-sleeping-on-state-land-a-crime-for-people-experiencing-homelessness/",
+        "timestamp": 1656780401,
+        "sentiment": -2,
+        "published": "July 2, 2022 12:46 PM"
+    },
+    {
+        "title": "Keanu Reeves’ Vintage 911 Was Stolen, so Porsche Built Him a Custom Car",
+        "domain": "motorbiscuit.com",
+        "category": "news",
+        "link": "https://www.motorbiscuit.com/keanu-reeves-vintage-911-stolen-porsche-built-custom-car/",
+        "timestamp": 1656781425,
+        "sentiment": -3,
+        "published": "July 2, 2022 1:03 PM"
+    },
+    {
+        "title": "Nigerian Islamic court orders death by stoning for men convicted of homosexuality",
+        "domain": "bdnews24.com",
+        "category": "worldnews",
+        "link": "https://bdnews24.com/world/africa/2022/07/02/nigerian-islamic-court-orders-death-by-stoning-for-men-convicted-of-homosexuality",
+        "timestamp": 1656751565,
+        "sentiment": -1,
+        "published": "July 2, 2022 4:46 AM"
+    },
+    {
+        "title": "The Legislature stumbles into legalizing THC, for better or worse.",
+        "domain": "minnesotareformer.com",
+        "category": "news",
+        "link": "https://minnesotareformer.com/2022/07/01/the-legislature-stumbles-into-legalizing-thc-for-better-or-worse-column/",
+        "timestamp": 1656768935,
+        "sentiment": -3,
+        "published": "July 2, 2022 9:35 AM"
+    },
+    {
+        "title": "In Overwatch 2, the benches were changed because homeless people couldn't sleep on them",
+        "domain": "gagadget.com",
+        "category": "nottheonion",
+        "link": "https://gagadget.com/en/142364-in-overwatch-2-the-benches-were-changed-because-homeless-people-couldnt-sleep-on-them/",
+        "timestamp": 1656772613,
+        "sentiment": 0,
+        "published": "July 2, 2022 10:36 AM"
+    },
+    {
+        "title": "Transphobia is gaining ground in the U.S. Gender-diverse people in Canada worry it could happen here",
+        "domain": "cbc.ca",
+        "category": "worldnews",
+        "link": "https://www.cbc.ca/news/canada/canada-us-transgender-hate-1.6503087",
+        "timestamp": 1656773829,
+        "sentiment": -1,
+        "published": "July 2, 2022 10:57 AM"
+    },
+    {
+        "title": "Police looking to identify Puslinch, Ont. man who paved driveway without permission",
+        "domain": "kitchener.ctvnews.ca",
+        "category": "nottheonion",
+        "link": "https://kitchener.ctvnews.ca/man-wanted-for-paving-puslinch-ont-driveway-without-permission-1.5971205",
+        "timestamp": 1656775491,
+        "sentiment": 0,
+        "published": "July 2, 2022 11:24 AM"
     },
     {
         "title": "Taliban supreme leader warns foreigners not to interfere in Afghanistan",
