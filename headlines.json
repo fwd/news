@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jul/01/napalm-girl-vietnam-war-phan-thi-kim-phuc-final-burn-treatment",
         "timestamp": 1656823247,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 3, 2022 12:40 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "UpliftingNews",
         "link": "https://apnews.com/article/google-abortion-location-data-privacy-9fc5d01d6d626249d53c4df4a443a760",
         "timestamp": 1656823814,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "July 3, 2022 12:50 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/ohio-police-officers-shot-fleeing-black-man-dozens-times-lawyer-says-2022-07-02",
         "timestamp": 1656829418,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 3, 2022 2:23 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "news",
         "link": "https://abc7.com/heat-exhaustion-ups-driver-pasadena-esteban-chavez/12010038/",
         "timestamp": 1656830164,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 3, 2022 2:36 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "ukraine",
         "link": "https://www.ukrinform.net/rubric-ato/3520685-ukrainian-forces-destroy-russian-military-base-in-melitopol.html",
         "timestamp": 1656830541,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 3, 2022 2:42 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "worldnews",
         "link": "https://amp.cnn.com/cnn/2022/07/02/asia/north-korea-japan-united-states-asian-nato-intl-hnk/index.html",
         "timestamp": 1656833814,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 3, 2022 3:36 AM"
     },
     {
@@ -104,8 +104,17 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-europe-62025541",
         "timestamp": 1656837710,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 3, 2022 4:41 AM"
+    },
+    {
+        "title": "Google will reimburse developers $90M over Play Store earnings – TechCrunch",
+        "domain": "techcrunch.com",
+        "category": "technology",
+        "link": "https://techcrunch.com/2022/07/01/google-will-reimburse-developers-90-million-to-settle-a-lawsuit-over-play-store-earnings/",
+        "timestamp": 1656839655,
+        "sentiment": 0,
+        "published": "July 3, 2022 5:14 AM"
     },
     {
         "title": "Stranger Things season 4 volume 2 release causes Netflix crash worldwide",
@@ -117,15 +126,6 @@
         "published": "July 3, 2022 5:19 AM"
     },
     {
-        "title": "Notorious Trophy Hunter, Riaan Naude, Was Reportedly Shot & Killed In South Africa",
-        "domain": "worldanimalnews.com",
-        "category": "worldnews",
-        "link": "https://worldanimalnews.com/breaking-trophy-hunter-riaan-naude-reportedly-shot-killed-in-south-africa/",
-        "timestamp": 1656840722,
-        "sentiment": -1,
-        "published": "July 3, 2022 5:32 AM"
-    },
-    {
         "title": "Mark Zuckerberg Told Meta Staff He's Upping Performance Goals to Get Rid of Employees Who 'Shouldn't Be Here,' Report Says",
         "domain": "qoshe.com",
         "category": "nottheonion",
@@ -135,13 +135,67 @@
         "published": "July 3, 2022 5:42 AM"
     },
     {
+        "title": "Meeting of Afghan clerics ends with silence on education for girls",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jul/03/meeting-of-afghan-clerics-ends-with-silence-on-education-for-girls",
+        "timestamp": 1656843430,
+        "sentiment": 0,
+        "published": "July 3, 2022 6:17 AM"
+    },
+    {
+        "title": "A Florida county is quarantining after discovery of invasive Giant African land snail",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/07/03/us/giant-african-snail-florida-scn-trnd/index.html",
+        "timestamp": 1656844171,
+        "sentiment": -2,
+        "published": "July 3, 2022 6:29 AM"
+    },
+    {
+        "title": "New research reveals that people with low socio-economic status perceive more ‘anomie’ in society than people with a higher one, which in turn explains why they also trust politics less.",
+        "domain": "eurekalert.org",
+        "category": "science",
+        "link": "https://www.eurekalert.org/news-releases/957305",
+        "timestamp": 1656844441,
+        "sentiment": -3,
+        "published": "July 3, 2022 6:34 AM"
+    },
+    {
         "title": "Tsitsipas hitting a ball into the crowd at Wimbledon",
         "domain": "twitter.com",
         "category": "sports",
         "link": "https://twitter.com/awcadena8/status/1543304008059604993",
         "timestamp": 1656844928,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "July 3, 2022 6:42 AM"
+    },
+    {
+        "title": "These sea worms could be the key to keeping transplant organs 'alive' longer",
+        "domain": "euronews.com",
+        "category": "UpliftingNews",
+        "link": "https://www.euronews.com/next/2022/07/03/scientists-think-sea-worms-could-be-the-key-to-keeping-transplant-organs-alive-longer",
+        "timestamp": 1656847804,
+        "sentiment": -3,
+        "published": "July 3, 2022 7:30 AM"
+    },
+    {
+        "title": "James Webb Space Telescope operating better than expected.",
+        "domain": "kgun9.com",
+        "category": "UpliftingNews",
+        "link": "https://www.kgun9.com/news/local-news/james-webb-space-telescope-operating-better-than-expected-image-release-on-july-12",
+        "timestamp": 1656848284,
+        "sentiment": -3,
+        "published": "July 3, 2022 7:38 AM"
+    },
+    {
+        "title": "Notorious Trophy Hunter, Riaan Naude, Was Reportedly Shot & Killed In South Africa",
+        "domain": "worldanimalnews.com",
+        "category": "worldnews",
+        "link": "https://worldanimalnews.com/breaking-trophy-hunter-riaan-naude-reportedly-shot-killed-in-south-africa/",
+        "timestamp": 1656840722,
+        "sentiment": -1,
+        "published": "July 3, 2022 5:32 AM"
     },
     {
         "title": "New York approves gun law requiring buyers to provide social media handles",
