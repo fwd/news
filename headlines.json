@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://abc7.com/heat-exhaustion-ups-driver-pasadena-esteban-chavez/12010038/",
         "timestamp": 1656830164,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 3, 2022 2:36 AM"
     },
     {
@@ -14,17 +14,17 @@
         "category": "technology",
         "link": "https://www.kxan.com/news/local/austin/central-texas-man-puts-life-savings-into-buying-virtual-property/",
         "timestamp": 1656831122,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 3, 2022 2:52 AM"
     },
     {
-        "title": "Flattening of circadian glucocorticoid oscillations drives acute hyperinsulinemia and adipocyte hypertrophy (2022)",
-        "domain": "cell.com",
-        "category": "science",
-        "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(22)00807-5?",
-        "timestamp": 1656833488,
-        "sentiment": -8,
-        "published": "July 3, 2022 3:31 AM"
+        "title": "North Korea says US seeking an excuse for an Asian NATO",
+        "domain": "amp.cnn.com",
+        "category": "worldnews",
+        "link": "https://amp.cnn.com/cnn/2022/07/02/asia/north-korea-japan-united-states-asian-nato-intl-hnk/index.html",
+        "timestamp": 1656833814,
+        "sentiment": -1,
+        "published": "July 3, 2022 3:36 AM"
     },
     {
         "title": "Minnesota lawmakers voted to legalize THC edibles. Some did it accidentally",
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-europe-62025541",
         "timestamp": 1656837710,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 3, 2022 4:41 AM"
     },
     {
@@ -59,17 +59,8 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jul/03/meeting-of-afghan-clerics-ends-with-silence-on-education-for-girls",
         "timestamp": 1656843430,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 3, 2022 6:17 AM"
-    },
-    {
-        "title": "Russian scientist dies two days after arrest for state treason, lawyer says",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/europe/russian-scientist-dies-two-days-after-arrest-state-treason-lawyer-2022-07-03/",
-        "timestamp": 1656843676,
-        "sentiment": -3,
-        "published": "July 3, 2022 6:21 AM"
     },
     {
         "title": "A Florida county is quarantining after discovery of invasive Giant African land snail",
@@ -77,7 +68,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/03/us/giant-african-snail-florida-scn-trnd/index.html",
         "timestamp": 1656844171,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 3, 2022 6:29 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "science",
         "link": "https://www.eurekalert.org/news-releases/957305",
         "timestamp": 1656844441,
-        "sentiment": -8,
+        "sentiment": 1,
         "published": "July 3, 2022 6:34 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "news",
         "link": "https://www.kwtx.com/2022/07/01/northeast-texas-police-find-over-450000-during-traffic-stop/",
         "timestamp": 1656844875,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 3, 2022 6:41 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "sports",
         "link": "https://twitter.com/awcadena8/status/1543304008059604993",
         "timestamp": 1656844928,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 3, 2022 6:42 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/07/03/biden-urged-embrace-windfall-tax-exxon-says-profits-doubled-second-quarter",
         "timestamp": 1656846296,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 3, 2022 7:04 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "worldnews",
         "link": "https://au.news.yahoo.com/desperate-plea-as-putin-ally-threatens-western-cities-020140045.html",
         "timestamp": 1656846441,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 3, 2022 7:07 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "politics",
         "link": "https://apnews.com/article/technology-new-york-social-media-donald-trump-4f78f52790379711c21cba0e3e653e3f",
         "timestamp": 1656847263,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 3, 2022 7:21 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "ukraine",
         "link": "https://www.npr.org/2022/07/01/1109033582/are-sanctions-actually-hurting-russias-economy-heres-what-you-need-to-know",
         "timestamp": 1656847453,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 3, 2022 7:24 AM"
     },
     {
@@ -149,7 +140,7 @@
         "category": "florida",
         "link": "https://www.cltampa.com/news/here-are-some-of-floridas-new-laws-going-into-effect-this-friday-13693808",
         "timestamp": 1656847458,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "July 3, 2022 7:24 AM"
     },
     {
@@ -158,7 +149,7 @@
         "category": "news",
         "link": "https://www.nbc15.com/2022/07/02/madison-catholic-church-vandalized-with-anti-pro-life-message/",
         "timestamp": 1656847550,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 3, 2022 7:25 AM"
     },
     {
@@ -169,15 +160,6 @@
         "timestamp": 1656847804,
         "sentiment": 2,
         "published": "July 3, 2022 7:30 AM"
-    },
-    {
-        "title": "Scientists Discover “Holy Grail of Catalysis” – Converting Methane Into Methanol Using Light",
-        "domain": "scitechdaily.com",
-        "category": "technology",
-        "link": "https://scitechdaily.com/scientists-discover-holy-grail-of-catalysis-converting-methane-into-methanol-using-light/",
-        "timestamp": 1656848123,
-        "sentiment": 0,
-        "published": "July 3, 2022 7:35 AM"
     },
     {
         "title": "James Webb Space Telescope operating better than expected.",
@@ -194,7 +176,7 @@
         "category": "technology",
         "link": "https://www.theguardian.com/technology/2022/jul/01/google-delete-location-data-abortion-clinic",
         "timestamp": 1656849202,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 3, 2022 7:53 AM"
     },
     {
@@ -212,7 +194,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-in/news/other/ukraine-s-drones-are-becoming-increasingly-ineffective-as-russia-ramps-up-its-electronic-warfare-and-air-defenses/ar-AAZ8SvV?ocid=msedgntp&cvid=6970bc13f2054caa8af357473adafe81",
         "timestamp": 1656849858,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 3, 2022 8:04 AM"
     },
     {
@@ -221,7 +203,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/texas-inmate-asks-delay-execution-kidney-donation-rcna36464",
         "timestamp": 1656850417,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 3, 2022 8:13 AM"
     },
     {
@@ -230,17 +212,17 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/satellites-locate-source-of-methane-leaks-to-fight-climate-crisis-2022-7",
         "timestamp": 1656850554,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 3, 2022 8:15 AM"
     },
     {
-        "title": "Germany’s Scholz urges free transit for Russian goods to Kaliningrad",
-        "domain": "politico.eu",
-        "category": "worldnews",
-        "link": "https://www.politico.eu/article/olaf-scholz-urges-free-transit-for-russian-goods-to-kaliningrad/",
-        "timestamp": 1656852370,
-        "sentiment": -3,
-        "published": "July 3, 2022 8:46 AM"
+        "title": "Russian scientist dies two days after arrest for state treason, lawyer says",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/europe/russian-scientist-dies-two-days-after-arrest-state-treason-lawyer-2022-07-03/",
+        "timestamp": 1656853603,
+        "sentiment": -5,
+        "published": "July 3, 2022 9:06 AM"
     },
     {
         "title": "Impeach Clarence Thomas? Nearly a million people have signed a petition asking for it",
@@ -248,7 +230,16 @@
         "category": "politics",
         "link": "https://www.al.com/news/2022/07/impeach-clarence-thomas-nearly-a-million-people-have-signed-a-petition-asking-for-it.html",
         "timestamp": 1656854306,
-        "sentiment": 0,
+        "sentiment": 3,
+        "published": "July 3, 2022 9:18 AM"
+    },
+    {
+        "title": "Shanghai police database for sale in what could be China’s biggest ever data breach",
+        "domain": "asiamarkets.com",
+        "category": "worldnews",
+        "link": "https://www.asiamarkets.com/shanghai-police-database-for-sale-in-what-could-be-chinas-biggest-ever-data-breach/",
+        "timestamp": 1656854334,
+        "sentiment": -1,
         "published": "July 3, 2022 9:18 AM"
     },
     {
@@ -266,7 +257,7 @@
         "category": "politics",
         "link": "https://abcnews.go.com/Politics/prosecuting-trump-jan-fuel-graver-threat-liz-cheney/story?id=86132933",
         "timestamp": 1656855681,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 3, 2022 9:41 AM"
     },
     {
@@ -275,7 +266,7 @@
         "category": "science",
         "link": "https://www.ox.ac.uk/news/2022-06-30-tonga-volcano-eruption-triggered-atmospheric-gravity-waves-reached-edge-space",
         "timestamp": 1656855956,
-        "sentiment": -8,
+        "sentiment": 1,
         "published": "July 3, 2022 9:45 AM"
     },
     {
@@ -302,7 +293,7 @@
         "category": "news",
         "link": "https://wset.com/news/nation-world/13-year-old-driving-stolen-car-while-live-streaming-causes-crash-that-kills-passenger-abilene-texas-teenagers-boy-dies-social-media-audi-s5-coupe-high-rate-of-speed",
         "timestamp": 1656856653,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 3, 2022 9:57 AM"
     },
     {
@@ -311,7 +302,7 @@
         "category": "ukraine",
         "link": "https://www.unian.ua/world/slovachchina-mozhe-peredati-ukrajini-vinishchuvachi-mig-29-i-tanki-prem-yer-novini-svitu-11889009.html?utm_source=twitter&utm_medium=twitter&utm_campaign=twitter_site",
         "timestamp": 1656857498,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 3, 2022 10:11 AM"
     },
     {
@@ -320,7 +311,7 @@
         "category": "technology",
         "link": "https://www.reuters.com/business/autos-transportation/german-road-traffic-agency-says-59000-tesla-vehicles-have-software-glitch-2022-07-03/",
         "timestamp": 1656858980,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 3, 2022 10:36 AM"
     },
     {
@@ -329,7 +320,7 @@
         "category": "ukraine",
         "link": "https://www.bbc.co.uk/news/live/world-europe-62022073?ns_mchannel=social&ns_source=twitter&ns_campaign=bbc_live&ns_linkname=62c1a2029db6d5693fa5801d%26Russian%20ship%20carrying%20Ukrainian%20grain%20detained%20in%20Turkey%262022-07-03T14%3A34%3A24.349Z&ns_fee=0&pinned_post_locator=urn:asset:aee7ca59-4f04-4c70-9855-a58d61c592f1&pinned_post_asset_id=62c1a2029db6d5693fa5801d&pinned_post_type=share",
         "timestamp": 1656859184,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 3, 2022 10:39 AM"
     },
     {
@@ -338,7 +329,7 @@
         "category": "politics",
         "link": "https://www.cnn.com/2022/07/03/politics/gavin-newsom-ron-desantis-ad-2024/index.html",
         "timestamp": 1656859484,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 3, 2022 10:44 AM"
     },
     {
@@ -374,7 +365,7 @@
         "category": "politics",
         "link": "https://newrepublic.com/article/166983/supreme-court-epa-power-grab",
         "timestamp": 1656860322,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 3, 2022 10:58 AM"
     },
     {
@@ -392,7 +383,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/nbcblk/ohio-police-release-bodycam-footage-shooting-jayland-walker-rcna36494",
         "timestamp": 1656861498,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 3, 2022 11:18 AM"
     },
     {
@@ -410,7 +401,7 @@
         "category": "technology",
         "link": "https://www.macworld.com/article/797048/ios-16-customization-android-lock-screen-widgets.html",
         "timestamp": 1656862078,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 3, 2022 11:27 AM"
     },
     {
@@ -419,7 +410,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/ukraines-ambassador-turkey-says-russian-ship-carrying-ukrainian-grain-detained-2022-07-03/",
         "timestamp": 1656863006,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 3, 2022 11:43 AM"
     },
     {
@@ -428,7 +419,7 @@
         "category": "politics",
         "link": "https://www.cnn.com/videos/politics/2022/07/03/kristi-noem-south-dakota-governor-abortion-ban-bash-sotu-vpx.cnn",
         "timestamp": 1656863106,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 3, 2022 11:45 AM"
     },
     {
@@ -437,7 +428,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/sunday-talk-shows/3545029-kinzinger-says-more-witnesses-have-come-forward-after-hutchinson-testimony/",
         "timestamp": 1656863360,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 3, 2022 11:49 AM"
     },
     {
@@ -446,7 +437,7 @@
         "category": "technology",
         "link": "https://finance.yahoo.com/news/silicon-valley-fantasizes-web3-india-130000320.html",
         "timestamp": 1656863739,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 3, 2022 11:55 AM"
     },
     {
@@ -464,7 +455,7 @@
         "category": "worldnews",
         "link": "https://www.rferl.org/a/ukraine-gazprombank-sanctions-funds-russia-war-soldiers-wages/31920143.html",
         "timestamp": 1656865320,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 3, 2022 12:22 PM"
     },
     {
@@ -491,7 +482,7 @@
         "category": "politics",
         "link": "https://www.motherjones.com/politics/2022/07/liz-cheney-against-donald-trump-2024/",
         "timestamp": 1656866429,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 3, 2022 12:40 PM"
     },
     {
@@ -500,17 +491,8 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/ford-mustang-mach-e-recall-deliveries-halted-battery-overheating-2022-6",
         "timestamp": 1656866475,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 3, 2022 12:41 PM"
-    },
-    {
-        "title": "Several hit by gunshots at shopping mall in Copenhagen, police say",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/europe/reports-shooting-shopping-mall-copenhagen-danish-police-2022-07-03/",
-        "timestamp": 1656867353,
-        "sentiment": -3,
-        "published": "July 3, 2022 12:55 PM"
     },
     {
         "title": "Report: Employees spend 89 days a year on wasted work",
@@ -518,7 +500,7 @@
         "category": "technology",
         "link": "https://venturebeat.com/2022/07/01/report-employees-spend-89-days-a-year-on-wasted-work/",
         "timestamp": 1656867868,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 3, 2022 1:04 PM"
     },
     {
@@ -527,7 +509,7 @@
         "category": "florida",
         "link": "https://www.wfla.com/news/local-news/hernando-county/man-arrested-smuggling-at-least-8-people-in-brooksville/amp/",
         "timestamp": 1656867928,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "July 3, 2022 1:05 PM"
     },
     {
@@ -536,7 +518,7 @@
         "category": "science",
         "link": "https://www.tsukuba.ac.jp/en/research-news/20220622140000.html",
         "timestamp": 1656868183,
-        "sentiment": -8,
+        "sentiment": 1,
         "published": "July 3, 2022 1:09 PM"
     },
     {
@@ -545,8 +527,17 @@
         "category": "news",
         "link": "https://news.sky.com/story/danish-police-responding-to-reports-of-a-shooting-in-shopping-mall-12645139",
         "timestamp": 1656868202,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 3, 2022 1:10 PM"
+    },
+    {
+        "title": "Farmington Hills Police Department responds after claims they use targets of Black men at shooting range",
+        "domain": "wxyz.com",
+        "category": "nottheonion",
+        "link": "https://www.wxyz.com/news/farmington-hills-police-department-responds-after-claims-they-use-targets-of-black-men-at-shooting-range",
+        "timestamp": 1656868745,
+        "sentiment": 0,
+        "published": "July 3, 2022 1:19 PM"
     },
     {
         "title": "Rabbi fighting Florida's anti-abortion law is on a mission to help religious groups challenge 'theocratic tyranny'",
@@ -554,7 +545,7 @@
         "category": "florida",
         "link": "https://www.nbcnews.com/news/us-news/rabbi-fighting-floridas-anti-abortion-law-mission-help-religious-group-rcna35812",
         "timestamp": 1656868977,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "July 3, 2022 1:22 PM"
     },
     {
@@ -567,6 +558,15 @@
         "published": "July 3, 2022 1:23 PM"
     },
     {
+        "title": "'Love is Halal': Berlin Mosque Becomes the First to Raise LGBTQ+ Flag",
+        "domain": "albawaba.com",
+        "category": "worldnews",
+        "link": "https://www.albawaba.com/node/love-halal-berlin-mosque-becomes-first-raise-lgbtq-flag-1482830",
+        "timestamp": 1656869559,
+        "sentiment": -1,
+        "published": "July 3, 2022 1:32 PM"
+    },
+    {
         "title": "How \"Gravity Falls\" (and its creators) changed animated television for the better",
         "domain": "avclub.com",
         "category": "television",
@@ -576,22 +576,76 @@
         "published": "July 3, 2022 1:33 PM"
     },
     {
+        "title": "Your Deleted TikTok Content Can Still Be Used Against You By The FBI",
+        "domain": "forbes.com",
+        "category": "technology",
+        "link": "https://www.forbes.com/sites/thomasbrewster/2022/06/15/your-deleted-tiktok-content-can-still-be-used-against-you-by-the-fbi/",
+        "timestamp": 1656870393,
+        "sentiment": -1,
+        "published": "July 3, 2022 1:46 PM"
+    },
+    {
         "title": "NHL player detained in Russia over \"draft-dodging\" now missing, says lawyer",
         "domain": "newsweek.com",
         "category": "sports",
         "link": "https://www.newsweek.com/nhl-player-ivan-fedotov-detained-russia-draft-dodging-missing-lawyer-1721289",
         "timestamp": 1656871375,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 3, 2022 2:02 PM"
     },
     {
-        "title": "North Korea says US seeking an excuse for an Asian NATO",
-        "domain": "amp.cnn.com",
+        "title": "Research team develops a sound-sensing skin-attachable acoustic sensor that has the size of a quarter of a fingernail, a thickness of a few hundred micrometers and a wider auditory field than human ears. It has potential applications in wearable voice recognition devices",
+        "domain": "postech.ac.kr",
+        "category": "science",
+        "link": "https://www.postech.ac.kr/eng/hearing-better-with-skin-than-ears/",
+        "timestamp": 1656873776,
+        "sentiment": 1,
+        "published": "July 3, 2022 2:42 PM"
+    },
+    {
+        "title": "A nationwide abortion ban would increase maternal deaths by 24%, according to new research",
+        "domain": "colorado.edu",
+        "category": "science",
+        "link": "https://www.colorado.edu/today/2022/06/30/abortion-bans-increase-maternal-mortality-even-more-study-shows",
+        "timestamp": 1656875228,
+        "sentiment": 1,
+        "published": "July 3, 2022 3:07 PM"
+    },
+    {
+        "title": "Flattening of circadian glucocorticoid oscillations drives acute hyperinsulinemia and adipocyte hypertrophy (2022)",
+        "domain": "cell.com",
+        "category": "science",
+        "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(22)00807-5?",
+        "timestamp": 1656833488,
+        "sentiment": -8,
+        "published": "July 3, 2022 3:31 AM"
+    },
+    {
+        "title": "Scientists Discover “Holy Grail of Catalysis” – Converting Methane Into Methanol Using Light",
+        "domain": "scitechdaily.com",
+        "category": "technology",
+        "link": "https://scitechdaily.com/scientists-discover-holy-grail-of-catalysis-converting-methane-into-methanol-using-light/",
+        "timestamp": 1656848123,
+        "sentiment": 0,
+        "published": "July 3, 2022 7:35 AM"
+    },
+    {
+        "title": "Germany’s Scholz urges free transit for Russian goods to Kaliningrad",
+        "domain": "politico.eu",
         "category": "worldnews",
-        "link": "https://amp.cnn.com/cnn/2022/07/02/asia/north-korea-japan-united-states-asian-nato-intl-hnk/index.html",
-        "timestamp": 1656833814,
+        "link": "https://www.politico.eu/article/olaf-scholz-urges-free-transit-for-russian-goods-to-kaliningrad/",
+        "timestamp": 1656852370,
         "sentiment": -3,
-        "published": "July 3, 2022 3:36 AM"
+        "published": "July 3, 2022 8:46 AM"
+    },
+    {
+        "title": "Several hit by gunshots at shopping mall in Copenhagen, police say",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/reports-shooting-shopping-mall-copenhagen-danish-police-2022-07-03/",
+        "timestamp": 1656867353,
+        "sentiment": -3,
+        "published": "July 3, 2022 12:55 PM"
     },
     {
         "title": "As US Rolls Back Reproductive Rights, Sierra Leone Moves to Decriminalize Abortion | \"I'm hopeful today's announcement gives activists in the U.S., and especially Black women given the shared history, a restored faith that change is possible and progress can be made.\"",
