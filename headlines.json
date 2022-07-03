@@ -1,5 +1,23 @@
 [
     {
+        "title": "New York approves gun law requiring buyers to provide social media handles",
+        "domain": "foxnews.com",
+        "category": "nottheonion",
+        "link": "https://www.foxnews.com/us/new-york-approves-gun-law-requiring-buyers-provide-social-media-handles",
+        "timestamp": 1656823257,
+        "sentiment": 2,
+        "published": "July 3, 2022 12:40 AM"
+    },
+    {
+        "title": "Reproductive Rights For Women: Google To Erase More Location Info As Abortion Bans Expand In America",
+        "domain": "apnews.com",
+        "category": "UpliftingNews",
+        "link": "https://apnews.com/article/google-abortion-location-data-privacy-9fc5d01d6d626249d53c4df4a443a760",
+        "timestamp": 1656823814,
+        "sentiment": 2,
+        "published": "July 3, 2022 12:50 AM"
+    },
+    {
         "title": "Painkillers are dispensed less freely by night-shift doctors. Physicians show less empathy at the end of a night shift than after a daytime stint — and are less likely to prescribe drugs for treating pain.",
         "domain": "pnas.org",
         "category": "science",
