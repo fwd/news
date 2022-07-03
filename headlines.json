@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://abc7.com/heat-exhaustion-ups-driver-pasadena-esteban-chavez/12010038/",
         "timestamp": 1656830164,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 3, 2022 2:36 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "technology",
         "link": "https://www.kxan.com/news/local/austin/central-texas-man-puts-life-savings-into-buying-virtual-property/",
         "timestamp": 1656831122,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 3, 2022 2:52 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "nottheonion",
         "link": "https://www.npr.org/2022/07/02/1109576113/minnesota-thc-edibles-accident-delta-8",
         "timestamp": 1656834848,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "July 3, 2022 3:54 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-europe-62025541",
         "timestamp": 1656837710,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 3, 2022 4:41 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jul/03/meeting-of-afghan-clerics-ends-with-silence-on-education-for-girls",
         "timestamp": 1656843430,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 3, 2022 6:17 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/03/us/giant-african-snail-florida-scn-trnd/index.html",
         "timestamp": 1656844171,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 3, 2022 6:29 AM"
     },
     {
@@ -77,17 +77,8 @@
         "category": "news",
         "link": "https://www.kwtx.com/2022/07/01/northeast-texas-police-find-over-450000-during-traffic-stop/",
         "timestamp": 1656844875,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 3, 2022 6:41 AM"
-    },
-    {
-        "title": "Tsitsipas hitting a ball into the crowd at Wimbledon",
-        "domain": "twitter.com",
-        "category": "sports",
-        "link": "https://twitter.com/awcadena8/status/1543304008059604993",
-        "timestamp": 1656844928,
-        "sentiment": -3,
-        "published": "July 3, 2022 6:42 AM"
     },
     {
         "title": "Biden Urged to Embrace Windfall Tax as Exxon Says Profits Doubled in Second Quarter | \"It's time for the president to demand that Congress pass a windfall profits tax on Big Oil and use the revenue to provide rebates to consumers NOW!\" wrote Sen. Bernie Sanders.",
@@ -95,26 +86,8 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/07/03/biden-urged-embrace-windfall-tax-exxon-says-profits-doubled-second-quarter",
         "timestamp": 1656846296,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 3, 2022 7:04 AM"
-    },
-    {
-        "title": "Desperate plea as Putin ally threatens western cities: 'Don't touch us'",
-        "domain": "au.news.yahoo.com",
-        "category": "worldnews",
-        "link": "https://au.news.yahoo.com/desperate-plea-as-putin-ally-threatens-western-cities-020140045.html",
-        "timestamp": 1656846441,
-        "sentiment": -3,
-        "published": "July 3, 2022 7:07 AM"
-    },
-    {
-        "title": "\"If the goal is a quick and complete collapse of the Russian economy, then no, sanctions are not working because the Russian economy is still functioning. But if the goal is to weaken Russia economically over time, then sanctions are 100% working.\"",
-        "domain": "npr.org",
-        "category": "ukraine",
-        "link": "https://www.npr.org/2022/07/01/1109033582/are-sanctions-actually-hurting-russias-economy-heres-what-you-need-to-know",
-        "timestamp": 1656847453,
-        "sentiment": -3,
-        "published": "July 3, 2022 7:24 AM"
     },
     {
         "title": "Madison Catholic Church vandalized with ‘anti-“pro-life”’ message",
@@ -122,7 +95,7 @@
         "category": "news",
         "link": "https://www.nbc15.com/2022/07/02/madison-catholic-church-vandalized-with-anti-pro-life-message/",
         "timestamp": 1656847550,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 3, 2022 7:25 AM"
     },
     {
@@ -149,7 +122,7 @@
         "category": "technology",
         "link": "https://www.theguardian.com/technology/2022/jul/01/google-delete-location-data-abortion-clinic",
         "timestamp": 1656849202,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 3, 2022 7:53 AM"
     },
     {
@@ -167,7 +140,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/texas-inmate-asks-delay-execution-kidney-donation-rcna36464",
         "timestamp": 1656850417,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 3, 2022 8:13 AM"
     },
     {
@@ -176,7 +149,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/satellites-locate-source-of-methane-leaks-to-fight-climate-crisis-2022-7",
         "timestamp": 1656850554,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 3, 2022 8:15 AM"
     },
     {
@@ -185,7 +158,7 @@
         "category": "politics",
         "link": "https://www.al.com/news/2022/07/impeach-clarence-thomas-nearly-a-million-people-have-signed-a-petition-asking-for-it.html",
         "timestamp": 1656854306,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 3, 2022 9:18 AM"
     },
     {
@@ -194,7 +167,7 @@
         "category": "worldnews",
         "link": "https://www.asiamarkets.com/shanghai-police-database-for-sale-in-what-could-be-chinas-biggest-ever-data-breach/",
         "timestamp": 1656854334,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 3, 2022 9:18 AM"
     },
     {
@@ -203,7 +176,7 @@
         "category": "nottheonion",
         "link": "https://www.bbc.co.uk/news/uk-politics-62025612",
         "timestamp": 1656855228,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "July 3, 2022 9:33 AM"
     },
     {
@@ -212,7 +185,7 @@
         "category": "politics",
         "link": "https://abcnews.go.com/Politics/prosecuting-trump-jan-fuel-graver-threat-liz-cheney/story?id=86132933",
         "timestamp": 1656855681,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 3, 2022 9:41 AM"
     },
     {
@@ -248,7 +221,7 @@
         "category": "news",
         "link": "https://wset.com/news/nation-world/13-year-old-driving-stolen-car-while-live-streaming-causes-crash-that-kills-passenger-abilene-texas-teenagers-boy-dies-social-media-audi-s5-coupe-high-rate-of-speed",
         "timestamp": 1656856653,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 3, 2022 9:57 AM"
     },
     {
@@ -257,7 +230,7 @@
         "category": "technology",
         "link": "https://www.reuters.com/business/autos-transportation/german-road-traffic-agency-says-59000-tesla-vehicles-have-software-glitch-2022-07-03/",
         "timestamp": 1656858980,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 3, 2022 10:36 AM"
     },
     {
@@ -266,17 +239,8 @@
         "category": "ukraine",
         "link": "https://www.bbc.co.uk/news/live/world-europe-62022073?ns_mchannel=social&ns_source=twitter&ns_campaign=bbc_live&ns_linkname=62c1a2029db6d5693fa5801d%26Russian%20ship%20carrying%20Ukrainian%20grain%20detained%20in%20Turkey%262022-07-03T14%3A34%3A24.349Z&ns_fee=0&pinned_post_locator=urn:asset:aee7ca59-4f04-4c70-9855-a58d61c592f1&pinned_post_asset_id=62c1a2029db6d5693fa5801d&pinned_post_type=share",
         "timestamp": 1656859184,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "July 3, 2022 10:39 AM"
-    },
-    {
-        "title": "Gavin Newsom goes on the air against Ron DeSantis as political rivalry grows amid 2024 chatter",
-        "domain": "cnn.com",
-        "category": "politics",
-        "link": "https://www.cnn.com/2022/07/03/politics/gavin-newsom-ron-desantis-ad-2024/index.html",
-        "timestamp": 1656859484,
-        "sentiment": 0,
-        "published": "July 3, 2022 10:44 AM"
     },
     {
         "title": "Google will automatically delete trips to abortion clinics from your location history",
@@ -284,7 +248,7 @@
         "category": "nottheonion",
         "link": "https://www.androidcentral.com/apps-software/google-to-delete-location-data-for-those-who-visited-abortion-clinics",
         "timestamp": 1656860004,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "July 3, 2022 10:53 AM"
     },
     {
@@ -302,7 +266,7 @@
         "category": "politics",
         "link": "https://newrepublic.com/article/166983/supreme-court-epa-power-grab",
         "timestamp": 1656860322,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 3, 2022 10:58 AM"
     },
     {
@@ -320,7 +284,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/nbcblk/ohio-police-release-bodycam-footage-shooting-jayland-walker-rcna36494",
         "timestamp": 1656861498,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 3, 2022 11:18 AM"
     },
     {
@@ -338,7 +302,7 @@
         "category": "technology",
         "link": "https://www.macworld.com/article/797048/ios-16-customization-android-lock-screen-widgets.html",
         "timestamp": 1656862078,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 3, 2022 11:27 AM"
     },
     {
@@ -347,7 +311,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/ukraines-ambassador-turkey-says-russian-ship-carrying-ukrainian-grain-detained-2022-07-03/",
         "timestamp": 1656863006,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 3, 2022 11:43 AM"
     },
     {
@@ -356,7 +320,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/sunday-talk-shows/3545029-kinzinger-says-more-witnesses-have-come-forward-after-hutchinson-testimony/",
         "timestamp": 1656863360,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 3, 2022 11:49 AM"
     },
     {
@@ -365,7 +329,7 @@
         "category": "technology",
         "link": "https://finance.yahoo.com/news/silicon-valley-fantasizes-web3-india-130000320.html",
         "timestamp": 1656863739,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 3, 2022 11:55 AM"
     },
     {
@@ -374,7 +338,7 @@
         "category": "nottheonion",
         "link": "https://thehill.com/homenews/campaign/3545062-kinzinger-calls-cheney-primary-challengers-a-bunch-of-armpit-farters/",
         "timestamp": 1656865133,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "July 3, 2022 12:18 PM"
     },
     {
@@ -383,7 +347,7 @@
         "category": "worldnews",
         "link": "https://www.rferl.org/a/ukraine-gazprombank-sanctions-funds-russia-war-soldiers-wages/31920143.html",
         "timestamp": 1656865320,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 3, 2022 12:22 PM"
     },
     {
@@ -410,7 +374,7 @@
         "category": "politics",
         "link": "https://www.motherjones.com/politics/2022/07/liz-cheney-against-donald-trump-2024/",
         "timestamp": 1656866429,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 3, 2022 12:40 PM"
     },
     {
@@ -419,7 +383,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/ford-mustang-mach-e-recall-deliveries-halted-battery-overheating-2022-6",
         "timestamp": 1656866475,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 3, 2022 12:41 PM"
     },
     {
@@ -428,7 +392,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/liz-cheney-trump-january-6-committee-criminal-referrals-justice-department-2022-7",
         "timestamp": 1656866635,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 3, 2022 12:43 PM"
     },
     {
@@ -437,26 +401,8 @@
         "category": "worldnews",
         "link": "https://www.jpost.com/breaking-news/article-711084",
         "timestamp": 1656866956,
-        "sentiment": -3,
-        "published": "July 3, 2022 12:49 PM"
-    },
-    {
-        "title": "Report: Employees spend 89 days a year on wasted work",
-        "domain": "venturebeat.com",
-        "category": "technology",
-        "link": "https://venturebeat.com/2022/07/01/report-employees-spend-89-days-a-year-on-wasted-work/",
-        "timestamp": 1656867868,
         "sentiment": -2,
-        "published": "July 3, 2022 1:04 PM"
-    },
-    {
-        "title": "Man arrested smuggling at least 8 people in Brooksville",
-        "domain": "wfla.com",
-        "category": "florida",
-        "link": "https://www.wfla.com/news/local-news/hernando-county/man-arrested-smuggling-at-least-8-people-in-brooksville/amp/",
-        "timestamp": 1656867928,
-        "sentiment": -5,
-        "published": "July 3, 2022 1:05 PM"
+        "published": "July 3, 2022 12:49 PM"
     },
     {
         "title": "Researchers have found that extracting drawing features from a combination of five drawing tasks -- rather than from any single task alone -- leads to more accurate classification of people with normal cognition, mild cognitive impairment, and Alzheimer's disease",
@@ -473,7 +419,7 @@
         "category": "news",
         "link": "https://news.sky.com/story/danish-police-responding-to-reports-of-a-shooting-in-shopping-mall-12645139",
         "timestamp": 1656868202,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 3, 2022 1:10 PM"
     },
     {
@@ -482,7 +428,7 @@
         "category": "florida",
         "link": "https://www.nbcnews.com/news/us-news/rabbi-fighting-floridas-anti-abortion-law-mission-help-religious-group-rcna35812",
         "timestamp": 1656868977,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "July 3, 2022 1:22 PM"
     },
     {
@@ -500,7 +446,7 @@
         "category": "worldnews",
         "link": "https://www.albawaba.com/node/love-halal-berlin-mosque-becomes-first-raise-lgbtq-flag-1482830",
         "timestamp": 1656869559,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 3, 2022 1:32 PM"
     },
     {
@@ -518,7 +464,7 @@
         "category": "worldnews",
         "link": "https://nltimes.nl/2022/07/03/dutch-mps-ready-ban-video-game-loot-boxes-citing-manipulation",
         "timestamp": 1656870256,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 3, 2022 1:44 PM"
     },
     {
@@ -527,7 +473,7 @@
         "category": "technology",
         "link": "https://www.forbes.com/sites/thomasbrewster/2022/06/15/your-deleted-tiktok-content-can-still-be-used-against-you-by-the-fbi/",
         "timestamp": 1656870393,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 3, 2022 1:46 PM"
     },
     {
@@ -536,8 +482,17 @@
         "category": "sports",
         "link": "https://www.newsweek.com/nhl-player-ivan-fedotov-detained-russia-draft-dodging-missing-lawyer-1721289",
         "timestamp": 1656871375,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 3, 2022 2:02 PM"
+    },
+    {
+        "title": "Ruling could dampen government efforts to rein in Big Tech",
+        "domain": "abcnews.go.com",
+        "category": "technology",
+        "link": "https://abcnews.go.com/Business/wireStory/ruling-dampen-government-efforts-rein-big-tech-86149012",
+        "timestamp": 1656871550,
+        "sentiment": 1,
+        "published": "July 3, 2022 2:05 PM"
     },
     {
         "title": "Gov. Kristi Noem Implies a Raped 10-Year-Old Might Be Forced to Give Birth",
@@ -545,7 +500,7 @@
         "category": "politics",
         "link": "https://www.motherjones.com/politics/2022/07/kristi-noem-rape-10-year-old-forced-birth-abortion-south-dakota-roe/",
         "timestamp": 1656871714,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 3, 2022 2:08 PM"
     },
     {
@@ -554,17 +509,8 @@
         "category": "nottheonion",
         "link": "https://news.sky.com/story/dozens-kept-in-nigerian-church-basement-awaiting-second-coming-of-christ-freed-by-police-12644993",
         "timestamp": 1656872609,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "July 3, 2022 2:23 PM"
-    },
-    {
-        "title": "Fan accused of racial abuse, claims it was homophobic instead",
-        "domain": "dust2.us",
-        "category": "nottheonion",
-        "link": "https://www.dust2.us/news/29623/fan-accused-of-racial-abuse-claims-it-was-homophobic-instead",
-        "timestamp": 1656872874,
-        "sentiment": -2,
-        "published": "July 3, 2022 2:27 PM"
     },
     {
         "title": "Newsom pardons Sara Kruzan, imprisoned as a teen for killing man who trafficked her",
@@ -572,7 +518,16 @@
         "category": "politics",
         "link": "https://www.latimes.com/california/story/2022-07-02/newsom-pardons-sara-kruzan-woman-sent-to-prison-for-killing-man-who-sex-trafficked-her",
         "timestamp": 1656873708,
-        "sentiment": 0,
+        "sentiment": -3,
+        "published": "July 3, 2022 2:41 PM"
+    },
+    {
+        "title": "Slovakia planning to send MiG-29 fighter jets and tanks to Ukraine",
+        "domain": "ukrinform.net",
+        "category": "ukraine",
+        "link": "https://www.ukrinform.net/rubric-ato/3521138-slovakia-planning-to-send-mig29-fighter-jets-and-tanks-to-ukraine.html",
+        "timestamp": 1656873709,
+        "sentiment": 2,
         "published": "July 3, 2022 2:41 PM"
     },
     {
@@ -599,7 +554,7 @@
         "category": "nottheonion",
         "link": "https://thenationaldesk.com/news/from-the-desk/snip-for-shake-deal-restaurant-offering-free-milkshakes-for-those-who-get-vasectomies-nashville-tennessee-hot-dogs-daddys-dogs-united-states-instagram-social-media-response-health-care-medical-procedure",
         "timestamp": 1656874087,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "July 3, 2022 2:48 PM"
     },
     {
@@ -626,8 +581,17 @@
         "category": "nottheonion",
         "link": "https://www.newsweek.com/marjorie-taylor-greene-climate-change-good-droughts-1720634",
         "timestamp": 1656875933,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "July 3, 2022 3:18 PM"
+    },
+    {
+        "title": "Ukraine confirms Russia captured eastern city Lysychansk",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/world-europe-62030051",
+        "timestamp": 1656875953,
+        "sentiment": -2,
+        "published": "July 3, 2022 3:19 PM"
     },
     {
         "title": "Putin's invasion has shattered dreams of progress, German chancellor says",
@@ -635,7 +599,7 @@
         "category": "worldnews",
         "link": "https://www.politico.com/news/2022/07/03/olaf-scholz-germany-russia-ukraine-00043888",
         "timestamp": 1656876561,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 3, 2022 3:29 PM"
     },
     {
@@ -644,7 +608,7 @@
         "category": "sports",
         "link": "https://gfycat.com/narrowimmaterialboubou",
         "timestamp": 1656877924,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 3, 2022 3:52 PM"
     },
     {
@@ -653,7 +617,7 @@
         "category": "technology",
         "link": "https://www.swissinfo.ch/eng/sci-tech/cern-scientists-restart-hunt-for-answers-to-mysteries-of-universe/47720392",
         "timestamp": 1656878161,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 3, 2022 3:56 PM"
     },
     {
@@ -662,7 +626,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/immigration-free-health-care-california/",
         "timestamp": 1656878895,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 3, 2022 4:08 PM"
     },
     {
@@ -671,7 +635,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/black-man-unarmed-ohio-officers-opened-fire-family/story?id=86149929",
         "timestamp": 1656879363,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 3, 2022 4:16 PM"
     },
     {
@@ -689,7 +653,7 @@
         "category": "florida",
         "link": "https://www.bloomberg.com/news/articles/2022-07-03/california-governor-newsom-runs-ads-in-florida-attacking-gop",
         "timestamp": 1656882473,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "July 3, 2022 5:07 PM"
     },
     {
@@ -698,8 +662,17 @@
         "category": "sports",
         "link": "https://www.espn.com/tennis/story/_/id/34189682/nick-kyrgios-stefanos-tsitsipas-draw-fine-day-fiery-third-round-match-wimbledon",
         "timestamp": 1656883020,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 3, 2022 5:17 PM"
+    },
+    {
+        "title": "Kinzinger says new witnesses have been coming forward to the Jan. 6 committee since Cassidy Hutchinson's 'inspiring' testimony",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/kinzinger-new-witnesses-have-stepped-up-after-hutchinsons-testimony-2022-7?utm_source=feedly&utm_medium=webfeeds",
+        "timestamp": 1656883415,
+        "sentiment": -3,
+        "published": "July 3, 2022 5:23 PM"
     },
     {
         "title": "Couples wed as Swiss same-sex marriage law takes effect",
@@ -711,6 +684,15 @@
         "published": "July 3, 2022 5:58 PM"
     },
     {
+        "title": "Man who paid $2.9m for NFT of Jack Dorsey’s first tweet set to lose almost $2.9m",
+        "domain": "theguardian.com",
+        "category": "nottheonion",
+        "link": "https://www.theguardian.com/technology/2022/apr/14/twitter-nft-jack-dorsey-sina-estavi",
+        "timestamp": 1656886898,
+        "sentiment": 2,
+        "published": "July 3, 2022 6:21 PM"
+    },
+    {
         "title": "Tesla Megapacks to Power 185 MW/565 MWh Project in Hawaii to Shut Down a Coal-Fired Power Plant",
         "domain": "tesmanian.com",
         "category": "UpliftingNews",
@@ -720,6 +702,96 @@
         "published": "July 3, 2022 6:34 PM"
     },
     {
+        "title": "Angels outfielder Taylor Ward realizes that he was getting tagged out instead of receiving a souvenir from the Houston Astros",
+        "domain": "gfycat.com",
+        "category": "sports",
+        "link": "https://gfycat.com/impartialweepyeland",
+        "timestamp": 1656887949,
+        "sentiment": 0,
+        "published": "July 3, 2022 6:39 PM"
+    },
+    {
+        "title": "4th of July Protests re: Roe vs Wade | Orlando Viera Inverness Daytona Beach Lakeland Jacksonville",
+        "domain": "docs.google.com",
+        "category": "florida",
+        "link": "https://docs.google.com/spreadsheets/d/12-ZxL-PgvnGy2QSwHJWRGKJU_dcft4VI/edit#gid=1401779971",
+        "timestamp": 1656888803,
+        "sentiment": -2,
+        "published": "July 3, 2022 6:53 PM"
+    },
+    {
+        "title": "Miami Pride Event",
+        "domain": "twitter.com",
+        "category": "miami",
+        "link": "https://twitter.com/libsoftiktok/status/1543448293392277504",
+        "timestamp": 1656891796,
+        "sentiment": 0,
+        "published": "July 3, 2022 7:43 PM"
+    },
+    {
+        "title": "Tsitsipas hitting a ball into the crowd at Wimbledon",
+        "domain": "twitter.com",
+        "category": "sports",
+        "link": "https://twitter.com/awcadena8/status/1543304008059604993",
+        "timestamp": 1656844928,
+        "sentiment": -3,
+        "published": "July 3, 2022 6:42 AM"
+    },
+    {
+        "title": "Desperate plea as Putin ally threatens western cities: 'Don't touch us'",
+        "domain": "au.news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://au.news.yahoo.com/desperate-plea-as-putin-ally-threatens-western-cities-020140045.html",
+        "timestamp": 1656846441,
+        "sentiment": -3,
+        "published": "July 3, 2022 7:07 AM"
+    },
+    {
+        "title": "\"If the goal is a quick and complete collapse of the Russian economy, then no, sanctions are not working because the Russian economy is still functioning. But if the goal is to weaken Russia economically over time, then sanctions are 100% working.\"",
+        "domain": "npr.org",
+        "category": "ukraine",
+        "link": "https://www.npr.org/2022/07/01/1109033582/are-sanctions-actually-hurting-russias-economy-heres-what-you-need-to-know",
+        "timestamp": 1656847453,
+        "sentiment": -3,
+        "published": "July 3, 2022 7:24 AM"
+    },
+    {
+        "title": "Gavin Newsom goes on the air against Ron DeSantis as political rivalry grows amid 2024 chatter",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2022/07/03/politics/gavin-newsom-ron-desantis-ad-2024/index.html",
+        "timestamp": 1656859484,
+        "sentiment": 0,
+        "published": "July 3, 2022 10:44 AM"
+    },
+    {
+        "title": "Report: Employees spend 89 days a year on wasted work",
+        "domain": "venturebeat.com",
+        "category": "technology",
+        "link": "https://venturebeat.com/2022/07/01/report-employees-spend-89-days-a-year-on-wasted-work/",
+        "timestamp": 1656867868,
+        "sentiment": -2,
+        "published": "July 3, 2022 1:04 PM"
+    },
+    {
+        "title": "Man arrested smuggling at least 8 people in Brooksville",
+        "domain": "wfla.com",
+        "category": "florida",
+        "link": "https://www.wfla.com/news/local-news/hernando-county/man-arrested-smuggling-at-least-8-people-in-brooksville/amp/",
+        "timestamp": 1656867928,
+        "sentiment": -5,
+        "published": "July 3, 2022 1:05 PM"
+    },
+    {
+        "title": "Fan accused of racial abuse, claims it was homophobic instead",
+        "domain": "dust2.us",
+        "category": "nottheonion",
+        "link": "https://www.dust2.us/news/29623/fan-accused-of-racial-abuse-claims-it-was-homophobic-instead",
+        "timestamp": 1656872874,
+        "sentiment": -2,
+        "published": "July 3, 2022 2:27 PM"
+    },
+    {
         "title": "Bash asks GOP Gov. Kristi Noem if South Dakota would force a 10-year-old to have a baby - CNN Video",
         "domain": "cnn.com",
         "category": "politics",
@@ -727,15 +799,6 @@
         "timestamp": 1656863106,
         "sentiment": -3,
         "published": "July 3, 2022 11:45 AM"
-    },
-    {
-        "title": "Ukraine confirms Russia captured eastern city Lysychansk",
-        "domain": "bbc.co.uk",
-        "category": "worldnews",
-        "link": "https://www.bbc.co.uk/news/world-europe-62030051",
-        "timestamp": 1656875953,
-        "sentiment": -2,
-        "published": "July 3, 2022 3:19 PM"
     },
     {
         "title": "Florida Gov signs law requiring students, faculty be asked their political beliefs",
