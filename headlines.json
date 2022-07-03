@@ -1,14 +1,5 @@
 [
     {
-        "title": "Canadian rock legend Randy Bachmann reunited with cherished guitar after fan tracked it down in Tokyo using photos of woodgrain",
-        "domain": "theguardian.com",
-        "category": "UpliftingNews",
-        "link": "https://www.theguardian.com/world/2022/jul/02/i-was-crying-rock-legend-randy-bachman-reunited-with-stolen-guitar-45-years-on?utm_term=Autofeed&CMP=twt_b-gdnnews&utm_medium=Social&utm_source=Twitter&s=09#Echobox=1656730401",
-        "timestamp": 1656735862,
-        "sentiment": 5,
-        "published": "July 2, 2022 12:24 AM"
-    },
-    {
         "title": "Painkillers are dispensed less freely by night-shift doctors. Physicians show less empathy at the end of a night shift than after a daytime stint — and are less likely to prescribe drugs for treating pain.",
         "domain": "pnas.org",
         "category": "science",
@@ -23,7 +14,7 @@
         "category": "UpliftingNews",
         "link": "https://www.cnn.com/2022/07/01/india/india-bans-single-use-plastic-intl-hnk/index.html",
         "timestamp": 1656742693,
-        "sentiment": 5,
+        "sentiment": 0,
         "published": "July 2, 2022 2:18 AM"
     },
     {
@@ -32,7 +23,7 @@
         "category": "news",
         "link": "https://www.aljazeera.com/news/2022/7/1/ukraine-says-russia-dropped-phosphorus-bombs-on-snake-island",
         "timestamp": 1656753904,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "July 2, 2022 5:25 AM"
     },
     {
@@ -41,26 +32,8 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/ex-boyfriend-arrested-killing-mother-pushing-baby-stroller-nyc-rcna36436",
         "timestamp": 1656757351,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "July 2, 2022 6:22 AM"
-    },
-    {
-        "title": "How your brainwaves could be used in criminal trials",
-        "domain": "techxplore.com",
-        "category": "technology",
-        "link": "https://techxplore.com/news/2022-07-brainwaves-criminal-trials.html",
-        "timestamp": 1656759661,
-        "sentiment": -3,
-        "published": "July 2, 2022 7:01 AM"
-    },
-    {
-        "title": "Couple left 'petrified' after being approached by man in gimp suit",
-        "domain": "somersetlive.co.uk",
-        "category": "nottheonion",
-        "link": "https://www.somersetlive.co.uk/news/couple-left-petfrified-after-being-7264721",
-        "timestamp": 1656759860,
-        "sentiment": 0,
-        "published": "July 2, 2022 7:04 AM"
     },
     {
         "title": "Google let a sanctioned Russian company access data belonging to Americans and Europeans for months. The report's author says there's a 'huge danger' if it was shared with the Russian government.",
@@ -86,7 +59,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/technology/2022/jul/02/nft-sales-hit-12-month-low-after-cryptocurrency-crash",
         "timestamp": 1656761782,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "July 2, 2022 7:36 AM"
     },
     {
@@ -104,7 +77,7 @@
         "category": "UpliftingNews",
         "link": "https://6abc.com/20-year-old-saves-man-on-chicago-rail-electrified-third-anthony-perry-cta-station/11941169/",
         "timestamp": 1656762679,
-        "sentiment": 5,
+        "sentiment": 0,
         "published": "July 2, 2022 7:51 AM"
     },
     {
@@ -122,17 +95,8 @@
         "category": "technology",
         "link": "https://www.businessinsider.in/international/news/diehard-nintendo-fan-spent-over-40000-buying-stock-and-then-asked-top-executives-why-the-company-wont-make-more-of-a-fan-favorite-series/articleshow/92581607.cms",
         "timestamp": 1656763016,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 2, 2022 7:56 AM"
-    },
-    {
-        "title": "3 Americans found dead at a Sandals in the Bahamas last month died due to carbon monoxide poisoning, police say",
-        "domain": "edition.cnn.com",
-        "category": "news",
-        "link": "https://edition.cnn.com/2022/06/28/americas/sandals-bahamas-resort-deaths-carbon-monoxide-police/index.html",
-        "timestamp": 1656763088,
-        "sentiment": -5,
-        "published": "July 2, 2022 7:58 AM"
     },
     {
         "title": "Dinosaurs Took Over Amid Ice, Not Warmth, Says a New Study of Ancient Mass Extinction",
@@ -149,7 +113,7 @@
         "category": "television",
         "link": "https://people.com/tv/boy-meets-world-cast-on-william-daniels-giving-pearls-of-wisdom-today/",
         "timestamp": 1656764993,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 2, 2022 8:29 AM"
     },
     {
@@ -176,7 +140,7 @@
         "category": "UpliftingNews",
         "link": "https://www.euronews.com/green/2022/06/25/i-planted-a-giant-sequoia-tree-to-offset-the-carbon-footprint-of-my-whole-life",
         "timestamp": 1656767567,
-        "sentiment": 5,
+        "sentiment": 0,
         "published": "July 2, 2022 9:12 AM"
     },
     {
@@ -221,7 +185,7 @@
         "category": "television",
         "link": "https://tvline.com/2022/07/02/the-bear-season-1-episode-8-finale-jeremy-allen-white-hulu/",
         "timestamp": 1656770590,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 2, 2022 10:03 AM"
     },
     {
@@ -248,7 +212,7 @@
         "category": "technology",
         "link": "https://news.yahoo.com/mark-zuckerberg-told-meta-staff-090235785.html",
         "timestamp": 1656773253,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 2, 2022 10:47 AM"
     },
     {
@@ -293,7 +257,7 @@
         "category": "UpliftingNews",
         "link": "https://www.msn.com/en-us/news/us/kitten-rescued-from-inside-pepsi-vending-machine-at-walmart-store/ar-AAZ5vxK",
         "timestamp": 1656776789,
-        "sentiment": 5,
+        "sentiment": 0,
         "published": "July 2, 2022 11:46 AM"
     },
     {
@@ -302,7 +266,7 @@
         "category": "technology",
         "link": "https://arstechnica.com/tech-policy/2022/06/amazon-blocks-lgbt-products-in-uae-says-it-must-comply-with-local-laws/",
         "timestamp": 1656777143,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 2, 2022 11:52 AM"
     },
     {
@@ -329,7 +293,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/02/us/extinct-orchid-vermont-scn-trnd/index.html",
         "timestamp": 1656779082,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "July 2, 2022 12:24 PM"
     },
     {
@@ -338,7 +302,7 @@
         "category": "nottheonion",
         "link": "https://www.newsweek.com/idaho-lt-governor-defers-pay-after-office-ends-fiscal-year-72-cents-1721220",
         "timestamp": 1656779245,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 2, 2022 12:27 PM"
     },
     {
@@ -365,7 +329,7 @@
         "category": "technology",
         "link": "https://techxplore.com/news/2022-07-metaverse-years-global-phenomenon.html",
         "timestamp": 1656782689,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 2, 2022 1:24 PM"
     },
     {
@@ -374,7 +338,7 @@
         "category": "television",
         "link": "https://www.latimes.com/entertainment-arts/tv/story/2022-07-01/danny-roberts-hiv-positive-the-real-world-homecoming-new-orleans",
         "timestamp": 1656783275,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 2, 2022 1:34 PM"
     },
     {
@@ -383,7 +347,7 @@
         "category": "nottheonion",
         "link": "https://www.newindianexpress.com/states/tamil-nadu/2022/jul/01/worlds-first-tamil-biblestolen-from-thanjavurtraced-to-london-museum-2471836.html",
         "timestamp": 1656784380,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 2, 2022 1:53 PM"
     },
     {
@@ -392,7 +356,7 @@
         "category": "UpliftingNews",
         "link": "https://www.wkyt.com/2022/06/30/judge-grants-aclus-request-restraining-order-kentucky-abortion-ban/",
         "timestamp": 1656784766,
-        "sentiment": 5,
+        "sentiment": 0,
         "published": "July 2, 2022 1:59 PM"
     },
     {
@@ -410,8 +374,17 @@
         "category": "news",
         "link": "https://www.pbs.org/newshour/nation/uvalde-schools-police-chief-pete-arredondo-resigns-from-city-council",
         "timestamp": 1656785303,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "July 2, 2022 2:08 PM"
+    },
+    {
+        "title": "Trooper crawls into drainage pipe to rescue missing dog",
+        "domain": "abcnews.go.com",
+        "category": "UpliftingNews",
+        "link": "https://abcnews.go.com/Weird/wireStory/trooper-crawls-drainage-pipe-rescue-missing-dog-86114552?fbclid=IwAR2eBWei_kKCPQ7QdX-BegL_KoEyYWVmW7RmVq65PY1Q7rSPAjkbPdpjJ3c&fs=e&s=cl",
+        "timestamp": 1656785575,
+        "sentiment": 0,
+        "published": "July 2, 2022 2:12 PM"
     },
     {
         "title": "We can no longer avoid a criminal investigation into Donald Trump",
@@ -446,7 +419,7 @@
         "category": "television",
         "link": "https://slate.com/culture/2022/07/mormon-no-more-under-the-banner-heaven-stay-sweet-review.html",
         "timestamp": 1656787242,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 2, 2022 2:40 PM"
     },
     {
@@ -455,7 +428,7 @@
         "category": "nottheonion",
         "link": "https://nft.edieta.org/cryptocurrency/cryptonews/16274",
         "timestamp": 1656787380,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 2, 2022 2:43 PM"
     },
     {
@@ -473,7 +446,7 @@
         "category": "news",
         "link": "https://www.washingtonpost.com/nation/2022/07/01/texas-board-education-slavery-involuntary-relocation/",
         "timestamp": 1656789009,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "July 2, 2022 3:10 PM"
     },
     {
@@ -482,7 +455,7 @@
         "category": "news",
         "link": "https://www.newschannel5.com/news/newschannel-5-investigates/revealed/revealed-teachers-come-from-dumbest-parts-of-dumbest-colleges-tenn-governors-education-advisor-tells-him",
         "timestamp": 1656789148,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "July 2, 2022 3:12 PM"
     },
     {
@@ -500,7 +473,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/world/2022/jul/02/women-accused-of-abortions-in-england-and-wales-after-miscarriages-and-stillbirths",
         "timestamp": 1656789280,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "July 2, 2022 3:14 PM"
     },
     {
@@ -509,8 +482,17 @@
         "category": "television",
         "link": "https://collider.com/the-boys-season-3-soldier-boy-homelander-connection-showrunner-comments/",
         "timestamp": 1656791031,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 2, 2022 3:43 PM"
+    },
+    {
+        "title": "Moskva cruiser, many missile systems and boats - Russia's losses near Snake Island are approaching $1,000,000,000",
+        "domain": "gagadget.com",
+        "category": "ukraine",
+        "link": "https://gagadget.com/en/war/142322-moskva-cruiser-many-missile-systems-and-boats-russias-losses-near-snake-island-are-approaching-1000000000-amp/",
+        "timestamp": 1656791131,
+        "sentiment": 1,
+        "published": "July 2, 2022 3:45 PM"
     },
     {
         "title": "Lukashenko accused Ukraine of shelling Belarus and ordered to ''put” opponents’ capitals “at gunpoint”",
@@ -536,7 +518,7 @@
         "category": "UpliftingNews",
         "link": "https://pix11.com/news/local-news/brooklyn/ny-aquarium-to-fully-reopen-for-first-time-since-superstorm-sandy/?fbclid=IwAR3l-PF1x7L2m4Ya5W6pyxLSPWYwIThGrul5rHHY4HZ4TFgQBwElIc9ksmk&fs=e&s=cl",
         "timestamp": 1656792014,
-        "sentiment": 5,
+        "sentiment": 0,
         "published": "July 2, 2022 4:00 PM"
     },
     {
@@ -563,7 +545,7 @@
         "category": "technology",
         "link": "https://www.engadget.com/meta-novi-shutting-down-193612179.html",
         "timestamp": 1656794842,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 2, 2022 4:47 PM"
     },
     {
@@ -572,8 +554,17 @@
         "category": "nottheonion",
         "link": "https://www.cbsnews.com/newyork/news/r-kelly-suing-brooklyn-jail-for-putting-him-on-suicide-watch/",
         "timestamp": 1656795259,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 2, 2022 4:54 PM"
+    },
+    {
+        "title": "Google to Delete User Data on Trips to Abortion Clinics",
+        "domain": "bloomberg.com",
+        "category": "technology",
+        "link": "https://www.bloomberg.com/news/articles/2022-07-01/google-will-delete-sensitive-location-data-from-user-tracking?srnd=technology-vp",
+        "timestamp": 1656795757,
+        "sentiment": 0,
+        "published": "July 2, 2022 5:02 PM"
     },
     {
         "title": "Heart rate variability in patients with anxiety disorders: A systematic review and meta-analysis finds that anxiety disorder patients had a significantly lower resting-state HRV for parasympathetic activity compared to control (Hedges' g = −0.3897).",
@@ -599,7 +590,7 @@
         "category": "news",
         "link": "https://www.cleveland.com/akron/2022/07/akron-rallies-planned-for-jayland-walker-as-family-attorney-says-police-shot-him-60-times.html",
         "timestamp": 1656797361,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "July 2, 2022 5:29 PM"
     },
     {
@@ -617,7 +608,7 @@
         "category": "UpliftingNews",
         "link": "https://globalnews.ca/news/8962795/rescued-afghanistan-dogs-arrive-at-toronto-sanctuary/",
         "timestamp": 1656797835,
-        "sentiment": 5,
+        "sentiment": 0,
         "published": "July 2, 2022 5:37 PM"
     },
     {
@@ -628,15 +619,6 @@
         "timestamp": 1656798923,
         "sentiment": 3,
         "published": "July 2, 2022 5:55 PM"
-    },
-    {
-        "title": "Belarussian senior officers turn on Putin as top ranked troops rebel",
-        "domain": "express.co.uk",
-        "category": "ukraine",
-        "link": "https://www.express.co.uk/news/world/1634632/Ukraine-war-updates-Belarus-officers-Vladimir-Putin-troops-Russia-news",
-        "timestamp": 1656799518,
-        "sentiment": 1,
-        "published": "July 2, 2022 6:05 PM"
     },
     {
         "title": "Why Scottish Football Deserves More Respect - Total Scottish Football",
@@ -653,7 +635,7 @@
         "category": "television",
         "link": "https://jezebel.com/kim-fields-thinks-the-best-way-to-do-a-reboot-is-not-do-1849126120",
         "timestamp": 1656800579,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 2, 2022 6:22 PM"
     },
     {
@@ -666,12 +648,21 @@
         "published": "July 2, 2022 6:27 PM"
     },
     {
+        "title": "‘Better Call Saul’ New Teasers Promise a Return to Nebraska in Final Episodes",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/better-call-saul-final-season-episodes-teaser-1235308420/",
+        "timestamp": 1656801829,
+        "sentiment": -4,
+        "published": "July 2, 2022 6:43 PM"
+    },
+    {
         "title": "Tesla deliveries fall due to China Covid shutdowns and supply shortages",
         "domain": "ft.com",
         "category": "technology",
         "link": "https://www.ft.com/content/fce717e1-b98c-4e93-b7eb-86125fb798e9",
         "timestamp": 1656801912,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 2, 2022 6:45 PM"
     },
     {
@@ -680,8 +671,80 @@
         "category": "nottheonion",
         "link": "https://www.mylondon.news/lifestyle/travel/heathrow-british-airways-website-slammed-24369564",
         "timestamp": 1656802919,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 2, 2022 7:01 PM"
+    },
+    {
+        "title": "Leak of California gun owners’ private data far wider than originally reported",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2022/jun/30/california-gun-owners-data-breach",
+        "timestamp": 1656804233,
+        "sentiment": -1,
+        "published": "July 2, 2022 7:23 PM"
+    },
+    {
+        "title": "Island of wet wipes has 'changed the course of the Thames' as government considers ban",
+        "domain": "news.sky.com",
+        "category": "nottheonion",
+        "link": "https://news.sky.com/story/island-of-wet-wipes-has-changed-the-course-of-the-thames-as-government-considers-ban-12639847",
+        "timestamp": 1656806856,
+        "sentiment": -2,
+        "published": "July 2, 2022 8:07 PM"
+    },
+    {
+        "title": "Swedish Politicians Call For Rapists & Paedophiles To Be Chemically Castrated Before Being Released",
+        "domain": "donkeyjunk.com",
+        "category": "worldnews",
+        "link": "https://www.donkeyjunk.com/post/swedish-politicians-call-for-rapists-paedophiles-to-be-chemically-castrated",
+        "timestamp": 1656807750,
+        "sentiment": 0,
+        "published": "July 2, 2022 8:22 PM"
+    },
+    {
+        "title": "Canadian rock legend Randy Bachmann reunited with cherished guitar after fan tracked it down in Tokyo using photos of woodgrain",
+        "domain": "theguardian.com",
+        "category": "UpliftingNews",
+        "link": "https://www.theguardian.com/world/2022/jul/02/i-was-crying-rock-legend-randy-bachman-reunited-with-stolen-guitar-45-years-on?utm_term=Autofeed&CMP=twt_b-gdnnews&utm_medium=Social&utm_source=Twitter&s=09#Echobox=1656730401",
+        "timestamp": 1656735862,
+        "sentiment": 5,
+        "published": "July 2, 2022 12:24 AM"
+    },
+    {
+        "title": "How your brainwaves could be used in criminal trials",
+        "domain": "techxplore.com",
+        "category": "technology",
+        "link": "https://techxplore.com/news/2022-07-brainwaves-criminal-trials.html",
+        "timestamp": 1656759661,
+        "sentiment": -3,
+        "published": "July 2, 2022 7:01 AM"
+    },
+    {
+        "title": "Couple left 'petrified' after being approached by man in gimp suit",
+        "domain": "somersetlive.co.uk",
+        "category": "nottheonion",
+        "link": "https://www.somersetlive.co.uk/news/couple-left-petfrified-after-being-7264721",
+        "timestamp": 1656759860,
+        "sentiment": 0,
+        "published": "July 2, 2022 7:04 AM"
+    },
+    {
+        "title": "3 Americans found dead at a Sandals in the Bahamas last month died due to carbon monoxide poisoning, police say",
+        "domain": "edition.cnn.com",
+        "category": "news",
+        "link": "https://edition.cnn.com/2022/06/28/americas/sandals-bahamas-resort-deaths-carbon-monoxide-police/index.html",
+        "timestamp": 1656763088,
+        "sentiment": -5,
+        "published": "July 2, 2022 7:58 AM"
+    },
+    {
+        "title": "Belarussian senior officers turn on Putin as top ranked troops rebel",
+        "domain": "express.co.uk",
+        "category": "ukraine",
+        "link": "https://www.express.co.uk/news/world/1634632/Ukraine-war-updates-Belarus-officers-Vladimir-Putin-troops-Russia-news",
+        "timestamp": 1656799518,
+        "sentiment": 1,
+        "published": "July 2, 2022 6:05 PM"
     },
     {
         "title": "A 10-year-old rape victim sought an abortion. A judge urged: Stay pregnant.",
@@ -709,15 +772,6 @@
         "timestamp": 1656785208,
         "sentiment": 0,
         "published": "July 2, 2022 2:06 PM"
-    },
-    {
-        "title": "Google to Delete User Data on Trips to Abortion Clinics",
-        "domain": "bloomberg.com",
-        "category": "technology",
-        "link": "https://www.bloomberg.com/news/articles/2022-07-01/google-will-delete-sensitive-location-data-from-user-tracking?srnd=technology-vp",
-        "timestamp": 1656795757,
-        "sentiment": 0,
-        "published": "July 2, 2022 5:02 PM"
     },
     {
         "title": "Ukrainian artillery units destroy much-touted Russian Pantsyr missile system",
