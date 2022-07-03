@@ -1,14 +1,5 @@
 [
     {
-        "title": "Trump Likely To Announce Run Soon Because He's A 'Freaking Toddler,' Says Ex-GOP Official",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/kurt-bardella-trump-toddler-selfish-presidency-announcement_n_62c0c92ae4b014f50a32b934",
-        "timestamp": 1656825218,
-        "sentiment": 0,
-        "published": "July 3, 2022 1:13 AM"
-    },
-    {
         "title": "UPS driver, 24, collapses and dies while delivering packages in SoCal heat",
         "domain": "abc7.com",
         "category": "news",
@@ -16,15 +7,6 @@
         "timestamp": 1656830164,
         "sentiment": -2,
         "published": "July 3, 2022 2:36 AM"
-    },
-    {
-        "title": "A higher wakeup frequency was associated with atherogenic dyslipidemia in Taiwanese adults, particularly in women. This study also provided another evidence of increasing cardiovascular diseases in subjects with habitual interrupted sleep.",
-        "domain": "jstage.jst.go.jp",
-        "category": "science",
-        "link": "https://www.jstage.jst.go.jp/article/jat/advpub/0/advpub_63254/_article",
-        "timestamp": 1656831041,
-        "sentiment": -3,
-        "published": "July 3, 2022 2:50 AM"
     },
     {
         "title": "Texas man puts life savings into buying virtual property",
@@ -41,7 +23,7 @@
         "category": "science",
         "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(22)00807-5?",
         "timestamp": 1656833488,
-        "sentiment": -3,
+        "sentiment": -8,
         "published": "July 3, 2022 3:31 AM"
     },
     {
@@ -59,7 +41,7 @@
         "category": "nottheonion",
         "link": "https://www.npr.org/2022/07/02/1109576113/minnesota-thc-edibles-accident-delta-8",
         "timestamp": 1656834848,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "July 3, 2022 3:54 AM"
     },
     {
@@ -113,7 +95,7 @@
         "category": "science",
         "link": "https://www.eurekalert.org/news-releases/957305",
         "timestamp": 1656844441,
-        "sentiment": -3,
+        "sentiment": -8,
         "published": "July 3, 2022 6:34 AM"
     },
     {
@@ -133,24 +115,6 @@
         "timestamp": 1656844928,
         "sentiment": -2,
         "published": "July 3, 2022 6:42 AM"
-    },
-    {
-        "title": "3 years ago, her husband was murdered by orcs, now this inspirational ballerina kicks putin's ass. Olesia Vorotnyk!",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/Gerashchenko_en/status/1543491053399035904",
-        "timestamp": 1656845058,
-        "sentiment": -2,
-        "published": "July 3, 2022 6:44 AM"
-    },
-    {
-        "title": "Trump-backed Michigan secretary of state nominee said abortion is 'child sacrifice'",
-        "domain": "cnn.com",
-        "category": "politics",
-        "link": "https://www.cnn.com/2022/07/03/politics/kfile-kristina-karamo-abortion-child-sacrifice/index.html",
-        "timestamp": 1656845214,
-        "sentiment": 0,
-        "published": "July 3, 2022 6:46 AM"
     },
     {
         "title": "Biden Urged to Embrace Windfall Tax as Exxon Says Profits Doubled in Second Quarter | \"It's time for the president to demand that Congress pass a windfall profits tax on Big Oil and use the revenue to provide rebates to consumers NOW!\" wrote Sen. Bernie Sanders.",
@@ -194,7 +158,7 @@
         "category": "ukraine",
         "link": "https://www.npr.org/2022/07/01/1109033582/are-sanctions-actually-hurting-russias-economy-heres-what-you-need-to-know",
         "timestamp": 1656847453,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 3, 2022 7:24 AM"
     },
     {
@@ -203,7 +167,7 @@
         "category": "florida",
         "link": "https://www.cltampa.com/news/here-are-some-of-floridas-new-laws-going-into-effect-this-friday-13693808",
         "timestamp": 1656847458,
-        "sentiment": 0,
+        "sentiment": 5,
         "published": "July 3, 2022 7:24 AM"
     },
     {
@@ -221,7 +185,7 @@
         "category": "UpliftingNews",
         "link": "https://www.euronews.com/next/2022/07/03/scientists-think-sea-worms-could-be-the-key-to-keeping-transplant-organs-alive-longer",
         "timestamp": 1656847804,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 3, 2022 7:30 AM"
     },
     {
@@ -239,7 +203,7 @@
         "category": "UpliftingNews",
         "link": "https://www.kgun9.com/news/local-news/james-webb-space-telescope-operating-better-than-expected-image-release-on-july-12",
         "timestamp": 1656848284,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 3, 2022 7:38 AM"
     },
     {
@@ -257,7 +221,7 @@
         "category": "FLgovernment",
         "link": "https://www.wesh.com/article/pan-african-flag-burned-flamethrower-florida/40490493",
         "timestamp": 1656849615,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 3, 2022 8:00 AM"
     },
     {
@@ -329,7 +293,7 @@
         "category": "nottheonion",
         "link": "https://www.bbc.co.uk/news/uk-politics-62025612",
         "timestamp": 1656855228,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "July 3, 2022 9:33 AM"
     },
     {
@@ -347,7 +311,7 @@
         "category": "science",
         "link": "https://www.ox.ac.uk/news/2022-06-30-tonga-volcano-eruption-triggered-atmospheric-gravity-waves-reached-edge-space",
         "timestamp": 1656855956,
-        "sentiment": -3,
+        "sentiment": -8,
         "published": "July 3, 2022 9:45 AM"
     },
     {
@@ -365,7 +329,7 @@
         "category": "UpliftingNews",
         "link": "https://www.axios.com/2022/07/03/colombia-protected-ocean?utm_source=twitter&utm_medium=social&utm_campaign=editorial&utm_content=world-protectedocean",
         "timestamp": 1656856269,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 3, 2022 9:51 AM"
     },
     {
@@ -376,6 +340,15 @@
         "timestamp": 1656856653,
         "sentiment": -2,
         "published": "July 3, 2022 9:57 AM"
+    },
+    {
+        "title": "Slovakia can transfer MiG-29 fighters and tanks to Ukraine",
+        "domain": "unian.ua",
+        "category": "ukraine",
+        "link": "https://www.unian.ua/world/slovachchina-mozhe-peredati-ukrajini-vinishchuvachi-mig-29-i-tanki-prem-yer-novini-svitu-11889009.html?utm_source=twitter&utm_medium=twitter&utm_campaign=twitter_site",
+        "timestamp": 1656857498,
+        "sentiment": 0,
+        "published": "July 3, 2022 10:11 AM"
     },
     {
         "title": "Far-Right Extremists Are Using Personal Radios to Plan Violence",
@@ -401,8 +374,17 @@
         "category": "ukraine",
         "link": "https://www.bbc.co.uk/news/live/world-europe-62022073?ns_mchannel=social&ns_source=twitter&ns_campaign=bbc_live&ns_linkname=62c1a2029db6d5693fa5801d%26Russian%20ship%20carrying%20Ukrainian%20grain%20detained%20in%20Turkey%262022-07-03T14%3A34%3A24.349Z&ns_fee=0&pinned_post_locator=urn:asset:aee7ca59-4f04-4c70-9855-a58d61c592f1&pinned_post_asset_id=62c1a2029db6d5693fa5801d&pinned_post_type=share",
         "timestamp": 1656859184,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 3, 2022 10:39 AM"
+    },
+    {
+        "title": "Gavin Newsom goes on the air against Ron DeSantis as political rivalry grows amid 2024 chatter",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2022/07/03/politics/gavin-newsom-ron-desantis-ad-2024/index.html",
+        "timestamp": 1656859484,
+        "sentiment": 0,
+        "published": "July 3, 2022 10:44 AM"
     },
     {
         "title": "Texas education officials proposed changing \"slavery\" to \"involuntary relocation\" when teaching second graders",
@@ -410,7 +392,7 @@
         "category": "nottheonion",
         "link": "https://www.cbsnews.com/news/texas-education-officials-proposed-changing-slavery-to-involuntary-relocation-for-second-grade-standards/",
         "timestamp": 1656859633,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "July 3, 2022 10:47 AM"
     },
     {
@@ -419,7 +401,7 @@
         "category": "nottheonion",
         "link": "https://www.androidcentral.com/apps-software/google-to-delete-location-data-for-those-who-visited-abortion-clinics",
         "timestamp": 1656860004,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "July 3, 2022 10:53 AM"
     },
     {
@@ -428,7 +410,7 @@
         "category": "UpliftingNews",
         "link": "https://www.bbc.com/future/article/20220609-do-pets-help-childrens-development",
         "timestamp": 1656860265,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 3, 2022 10:57 AM"
     },
     {
@@ -446,7 +428,7 @@
         "category": "UpliftingNews",
         "link": "https://www.westernmassnews.com/2022/06/04/springfield-celebrates-first-annual-pride-parade/",
         "timestamp": 1656861179,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 3, 2022 11:12 AM"
     },
     {
@@ -464,7 +446,7 @@
         "category": "UpliftingNews",
         "link": "https://www.pbs.org/wgbh/nova/article/western-monarch-population-growth-2021/?utm_campaign=nova&utm_content=1656374605&utm_medium=social&utm_source=twitter",
         "timestamp": 1656862067,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 3, 2022 11:27 AM"
     },
     {
@@ -477,6 +459,24 @@
         "published": "July 3, 2022 11:27 AM"
     },
     {
+        "title": "Ukraine says Russian ship carrying Ukrainian grain detained by Turkey",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/ukraines-ambassador-turkey-says-russian-ship-carrying-ukrainian-grain-detained-2022-07-03/",
+        "timestamp": 1656863006,
+        "sentiment": -3,
+        "published": "July 3, 2022 11:43 AM"
+    },
+    {
+        "title": "Bash asks GOP Gov. Kristi Noem if South Dakota would force a 10-year-old to have a baby - CNN Video",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/videos/politics/2022/07/03/kristi-noem-south-dakota-governor-abortion-ban-bash-sotu-vpx.cnn",
+        "timestamp": 1656863106,
+        "sentiment": 0,
+        "published": "July 3, 2022 11:45 AM"
+    },
+    {
         "title": "Kinzinger says more witnesses have come forward after Hutchinson testimony",
         "domain": "thehill.com",
         "category": "politics",
@@ -484,6 +484,105 @@
         "timestamp": 1656863360,
         "sentiment": 0,
         "published": "July 3, 2022 11:49 AM"
+    },
+    {
+        "title": "As Silicon Valley fantasizes about Web3, India leaps ahead on payments",
+        "domain": "finance.yahoo.com",
+        "category": "technology",
+        "link": "https://finance.yahoo.com/news/silicon-valley-fantasizes-web3-india-130000320.html",
+        "timestamp": 1656863739,
+        "sentiment": 0,
+        "published": "July 3, 2022 11:55 AM"
+    },
+    {
+        "title": "Kinzinger calls Cheney primary challengers ‘a bunch of armpit farters’",
+        "domain": "thehill.com",
+        "category": "nottheonion",
+        "link": "https://thehill.com/homenews/campaign/3545062-kinzinger-calls-cheney-primary-challengers-a-bunch-of-armpit-farters/",
+        "timestamp": 1656865133,
+        "sentiment": 0,
+        "published": "July 3, 2022 12:18 PM"
+    },
+    {
+        "title": "B.C. women get an up-close encounter with humpback whale off coast of Vancouver Island | CBC News",
+        "domain": "cbc.ca",
+        "category": "UpliftingNews",
+        "link": "https://www.cbc.ca/news/canada/british-columbia/bc-woman-humpback-whale-1.6508956",
+        "timestamp": 1656865349,
+        "sentiment": 2,
+        "published": "July 3, 2022 12:22 PM"
+    },
+    {
+        "title": "Seth MacFarlane on ‘The Orville: New Horizons,’ Directing While Acting, and Why He’s Grateful to Hulu",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/seth-macfarlane-the-orville-new-horizons-interview-season-3-directing-hulu/",
+        "timestamp": 1656865639,
+        "sentiment": 3,
+        "published": "July 3, 2022 12:27 PM"
+    },
+    {
+        "title": "Liz Cheney Hints She Might Run Against Donald Trump in 2024",
+        "domain": "motherjones.com",
+        "category": "politics",
+        "link": "https://www.motherjones.com/politics/2022/07/liz-cheney-against-donald-trump-2024/",
+        "timestamp": 1656866429,
+        "sentiment": 0,
+        "published": "July 3, 2022 12:40 PM"
+    },
+    {
+        "title": "Researchers have found that extracting drawing features from a combination of five drawing tasks -- rather than from any single task alone -- leads to more accurate classification of people with normal cognition, mild cognitive impairment, and Alzheimer's disease",
+        "domain": "tsukuba.ac.jp",
+        "category": "science",
+        "link": "https://www.tsukuba.ac.jp/en/research-news/20220622140000.html",
+        "timestamp": 1656868183,
+        "sentiment": -8,
+        "published": "July 3, 2022 1:09 PM"
+    },
+    {
+        "title": "Newsom targets DeSantis in Independence Day ad: \"Freedom is under attack\"",
+        "domain": "newsweek.com",
+        "category": "FLgovernment",
+        "link": "https://www.newsweek.com/newsom-targets-desantis-independence-day-ad-freedom-under-attack-1721288",
+        "timestamp": 1656869018,
+        "sentiment": -3,
+        "published": "July 3, 2022 1:23 PM"
+    },
+    {
+        "title": "Trump Likely To Announce Run Soon Because He's A 'Freaking Toddler,' Says Ex-GOP Official",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/kurt-bardella-trump-toddler-selfish-presidency-announcement_n_62c0c92ae4b014f50a32b934",
+        "timestamp": 1656825218,
+        "sentiment": 0,
+        "published": "July 3, 2022 1:13 AM"
+    },
+    {
+        "title": "A higher wakeup frequency was associated with atherogenic dyslipidemia in Taiwanese adults, particularly in women. This study also provided another evidence of increasing cardiovascular diseases in subjects with habitual interrupted sleep.",
+        "domain": "jstage.jst.go.jp",
+        "category": "science",
+        "link": "https://www.jstage.jst.go.jp/article/jat/advpub/0/advpub_63254/_article",
+        "timestamp": 1656831041,
+        "sentiment": -3,
+        "published": "July 3, 2022 2:50 AM"
+    },
+    {
+        "title": "3 years ago, her husband was murdered by orcs, now this inspirational ballerina kicks putin's ass. Olesia Vorotnyk!",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/Gerashchenko_en/status/1543491053399035904",
+        "timestamp": 1656845058,
+        "sentiment": -2,
+        "published": "July 3, 2022 6:44 AM"
+    },
+    {
+        "title": "Trump-backed Michigan secretary of state nominee said abortion is 'child sacrifice'",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2022/07/03/politics/kfile-kristina-karamo-abortion-child-sacrifice/index.html",
+        "timestamp": 1656845214,
+        "sentiment": 0,
+        "published": "July 3, 2022 6:46 AM"
     },
     {
         "title": "Abortion protesters to swarm Supreme Court justices' homes",
