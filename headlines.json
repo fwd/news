@@ -5,7 +5,7 @@
         "category": "nottheonion",
         "link": "https://www.foxnews.com/us/new-york-approves-gun-law-requiring-buyers-provide-social-media-handles",
         "timestamp": 1656823257,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "July 3, 2022 12:40 AM"
     },
     {
@@ -27,15 +27,6 @@
         "published": "July 3, 2022 1:02 AM"
     },
     {
-        "title": "'She's 10': Child Rape Victim's Abortion Denial Sparks Outrage on Twitter",
-        "domain": "newsweek.com",
-        "category": "worldnews",
-        "link": "https://www.newsweek.com/shes-10-child-rape-victims-abortion-denial-sparks-outrage-twitter-1721248",
-        "timestamp": 1656826790,
-        "sentiment": 0,
-        "published": "July 3, 2022 1:39 AM"
-    },
-    {
         "title": "Ohio police officers shot fleeing Black man dozens of times, lawyer says",
         "domain": "reuters.com",
         "category": "news",
@@ -45,12 +36,30 @@
         "published": "July 3, 2022 2:23 AM"
     },
     {
+        "title": "UPS driver, 24, collapses and dies while delivering packages in SoCal heat",
+        "domain": "abc7.com",
+        "category": "news",
+        "link": "https://abc7.com/heat-exhaustion-ups-driver-pasadena-esteban-chavez/12010038/",
+        "timestamp": 1656830164,
+        "sentiment": 0,
+        "published": "July 3, 2022 2:36 AM"
+    },
+    {
+        "title": "A higher wakeup frequency was associated with atherogenic dyslipidemia in Taiwanese adults, particularly in women. This study also provided another evidence of increasing cardiovascular diseases in subjects with habitual interrupted sleep.",
+        "domain": "jstage.jst.go.jp",
+        "category": "science",
+        "link": "https://www.jstage.jst.go.jp/article/jat/advpub/0/advpub_63254/_article",
+        "timestamp": 1656831041,
+        "sentiment": -4,
+        "published": "July 3, 2022 2:50 AM"
+    },
+    {
         "title": "Chess - 3-time US champion but Philippine-born Wesley So reaffirms support for Philippine chess in PCAP Reinforced Conference | 'I thank all of you for helping Philippine chess which will always have a special place in my heart'",
         "domain": "goodnewspilipinas.com",
         "category": "sports",
         "link": "https://www.goodnewspilipinas.com/wesley-so-reaffirms-support-for-philippine-chess-in-pcap-reinforced-conference/",
         "timestamp": 1656831083,
-        "sentiment": -4,
+        "sentiment": 8,
         "published": "July 3, 2022 2:51 AM"
     },
     {
@@ -61,6 +70,24 @@
         "timestamp": 1656831122,
         "sentiment": 0,
         "published": "July 3, 2022 2:52 AM"
+    },
+    {
+        "title": "Minnesota lawmakers voted to legalize THC edibles. Some did it accidentally",
+        "domain": "npr.org",
+        "category": "nottheonion",
+        "link": "https://www.npr.org/2022/07/02/1109576113/minnesota-thc-edibles-accident-delta-8",
+        "timestamp": 1656834848,
+        "sentiment": -1,
+        "published": "July 3, 2022 3:54 AM"
+    },
+    {
+        "title": "'She's 10': Child Rape Victim's Abortion Denial Sparks Outrage on Twitter",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/shes-10-child-rape-victims-abortion-denial-sparks-outrage-twitter-1721248",
+        "timestamp": 1656826790,
+        "sentiment": 0,
+        "published": "July 3, 2022 1:39 AM"
     },
     {
         "title": "Painkillers are dispensed less freely by night-shift doctors. Physicians show less empathy at the end of a night shift than after a daytime stint — and are less likely to prescribe drugs for treating pain.",
