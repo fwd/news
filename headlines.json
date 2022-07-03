@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/ex-boyfriend-arrested-killing-mother-pushing-baby-stroller-nyc-rcna36436",
         "timestamp": 1656757351,
-        "sentiment": -5,
+        "sentiment": -6,
         "published": "July 2, 2022 6:22 AM"
     },
     {
@@ -41,17 +41,8 @@
         "category": "news",
         "link": "https://www.theguardian.com/technology/2022/jul/02/nft-sales-hit-12-month-low-after-cryptocurrency-crash",
         "timestamp": 1656761782,
-        "sentiment": -5,
+        "sentiment": -6,
         "published": "July 2, 2022 7:36 AM"
-    },
-    {
-        "title": "Turkey Revealed as Major Cocaine Trafficking Hub for Europe, Middle East",
-        "domain": "insightcrime.org",
-        "category": "worldnews",
-        "link": "https://insightcrime.org/news/turkey-cocaine-hub-between-europe-and-the-middle-east/",
-        "timestamp": 1656761907,
-        "sentiment": 0,
-        "published": "July 2, 2022 7:38 AM"
     },
     {
         "title": "Caught on Video: 20-year-old jumps into action, rescues man who fell onto electrified third rail",
@@ -61,15 +52,6 @@
         "timestamp": 1656762679,
         "sentiment": 0,
         "published": "July 2, 2022 7:51 AM"
-    },
-    {
-        "title": "A 10-year-old was forced to cross state lines for an abortion after Ohio's ban went into place. The Indiana doctor who helped her will soon be unable to assist others.",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/10-year-old-girl-travel-out-state-ohio-restricts-abortion-2022-7",
-        "timestamp": 1656762738,
-        "sentiment": -5,
-        "published": "July 2, 2022 7:52 AM"
     },
     {
         "title": "'Die-hard' Nintendo fan spent over $40,000 buying stock and then asked top executives why the company won't make more of a fan-favorite series",
@@ -95,7 +77,7 @@
         "category": "television",
         "link": "https://people.com/tv/boy-meets-world-cast-on-william-daniels-giving-pearls-of-wisdom-today/",
         "timestamp": 1656764993,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "July 2, 2022 8:29 AM"
     },
     {
@@ -158,7 +140,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/cassidy-hutchinsons-jan-6-testimony-exposed-the-entire-gop-as-complicit-in-the-coup-attempt?ref=wrap",
         "timestamp": 1656770299,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 2, 2022 9:58 AM"
     },
     {
@@ -167,7 +149,7 @@
         "category": "television",
         "link": "https://tvline.com/2022/07/02/the-bear-season-1-episode-8-finale-jeremy-allen-white-hulu/",
         "timestamp": 1656770590,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "July 2, 2022 10:03 AM"
     },
     {
@@ -176,7 +158,7 @@
         "category": "politics",
         "link": "https://thehill.com/policy/healthcare/3544588-10-year-old-girl-denied-abortion-in-ohio/",
         "timestamp": 1656771358,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 2, 2022 10:15 AM"
     },
     {
@@ -203,7 +185,7 @@
         "category": "politics",
         "link": "https://www.insider.com/thousands-of-people-signed-petition-for-justice-thomas-be-impeached-2022-7",
         "timestamp": 1656773545,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 2, 2022 10:52 AM"
     },
     {
@@ -252,15 +234,6 @@
         "published": "July 2, 2022 11:52 AM"
     },
     {
-        "title": "Ted Cruz confirms he casually went on vacation amid another Texas weather crisis",
-        "domain": "independent.co.uk",
-        "category": "politics",
-        "link": "https://www.independent.co.uk/news/world/americas/ted-cruz-bahamas-flight-cancun-b2113969.html",
-        "timestamp": 1656778492,
-        "sentiment": -5,
-        "published": "July 2, 2022 12:14 PM"
-    },
-    {
         "title": "Senior Hungarian officials say they are working with Republican lawmakers in the United States to defeat a global minimum tax backed by the Biden administration, as European and American leaders struggle to enact a groundbreaking international accord targeting multinational corporations",
         "domain": "washingtonpost.com",
         "category": "worldnews",
@@ -270,21 +243,12 @@
         "published": "July 2, 2022 12:16 PM"
     },
     {
-        "title": "How Spectrum Fusion empowers adults with autism",
-        "domain": "abc13.com",
-        "category": "UpliftingNews",
-        "link": "https://abc13.com/spectrum-fusion-studio-dr-heidi-ham-autism/12009058/",
-        "timestamp": 1656778728,
-        "sentiment": 0,
-        "published": "July 2, 2022 12:18 PM"
-    },
-    {
         "title": "A rare orchid thought to be extinct in Vermont was rediscovered after 120 years",
         "domain": "cnn.com",
         "category": "news",
         "link": "https://www.cnn.com/2022/07/02/us/extinct-orchid-vermont-scn-trnd/index.html",
         "timestamp": 1656779082,
-        "sentiment": -5,
+        "sentiment": -6,
         "published": "July 2, 2022 12:24 PM"
     },
     {
@@ -302,7 +266,7 @@
         "category": "politics",
         "link": "https://www.motherjones.com/politics/2022/07/minnesota-legalized-edibles-after-a-republican-didnt-read-the-bill/",
         "timestamp": 1656779440,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 2, 2022 12:30 PM"
     },
     {
@@ -329,7 +293,7 @@
         "category": "television",
         "link": "https://www.latimes.com/entertainment-arts/tv/story/2022-07-01/danny-roberts-hiv-positive-the-real-world-homecoming-new-orleans",
         "timestamp": 1656783275,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "July 2, 2022 1:34 PM"
     },
     {
@@ -356,7 +320,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/shes-10-child-rape-victims-abortion-denial-sparks-outrage-twitter-1721248",
         "timestamp": 1656785052,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 2, 2022 2:04 PM"
     },
     {
@@ -365,7 +329,7 @@
         "category": "news",
         "link": "https://www.pbs.org/newshour/nation/uvalde-schools-police-chief-pete-arredondo-resigns-from-city-council",
         "timestamp": 1656785303,
-        "sentiment": -5,
+        "sentiment": -6,
         "published": "July 2, 2022 2:08 PM"
     },
     {
@@ -374,7 +338,7 @@
         "category": "politics",
         "link": "https://www.washingtonpost.com/opinions/2022/07/02/donald-trump-criminal-investigation-jan-6/?utm_medium=social&utm_source=twitter&utm_campaign=wp_opinions",
         "timestamp": 1656786250,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 2, 2022 2:24 PM"
     },
     {
@@ -401,7 +365,7 @@
         "category": "television",
         "link": "https://slate.com/culture/2022/07/mormon-no-more-under-the-banner-heaven-stay-sweet-review.html",
         "timestamp": 1656787242,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "July 2, 2022 2:40 PM"
     },
     {
@@ -428,17 +392,8 @@
         "category": "news",
         "link": "https://www.washingtonpost.com/nation/2022/07/01/texas-board-education-slavery-involuntary-relocation/",
         "timestamp": 1656789009,
-        "sentiment": -5,
+        "sentiment": -6,
         "published": "July 2, 2022 3:10 PM"
-    },
-    {
-        "title": "Teachers come from 'dumbest parts of dumbest colleges,' Tenn. governor's education advisor tells him",
-        "domain": "newschannel5.com",
-        "category": "news",
-        "link": "https://www.newschannel5.com/news/newschannel-5-investigates/revealed/revealed-teachers-come-from-dumbest-parts-of-dumbest-colleges-tenn-governors-education-advisor-tells-him",
-        "timestamp": 1656789148,
-        "sentiment": -5,
-        "published": "July 2, 2022 3:12 PM"
     },
     {
         "title": "UM pediatrician removed from state board after publicly criticizing delayed access to COVID-19 vaccine for children under 5",
@@ -455,7 +410,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/world/2022/jul/02/women-accused-of-abortions-in-england-and-wales-after-miscarriages-and-stillbirths",
         "timestamp": 1656789280,
-        "sentiment": -5,
+        "sentiment": -6,
         "published": "July 2, 2022 3:14 PM"
     },
     {
@@ -464,7 +419,7 @@
         "category": "television",
         "link": "https://collider.com/the-boys-season-3-soldier-boy-homelander-connection-showrunner-comments/",
         "timestamp": 1656791031,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "July 2, 2022 3:43 PM"
     },
     {
@@ -473,7 +428,7 @@
         "category": "ukraine",
         "link": "https://gagadget.com/en/war/142322-moskva-cruiser-many-missile-systems-and-boats-russias-losses-near-snake-island-are-approaching-1000000000-amp/",
         "timestamp": 1656791131,
-        "sentiment": 4,
+        "sentiment": -3,
         "published": "July 2, 2022 3:45 PM"
     },
     {
@@ -482,7 +437,7 @@
         "category": "ukraine",
         "link": "https://www.pravda.com.ua/eng/news/2022/07/2/7356018/",
         "timestamp": 1656791215,
-        "sentiment": 4,
+        "sentiment": -3,
         "published": "July 2, 2022 3:46 PM"
     },
     {
@@ -509,7 +464,7 @@
         "category": "politics",
         "link": "https://www.thebulwark.com/texas-republicans-deadly-serious-toying-around-with-secession/",
         "timestamp": 1656793151,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 2, 2022 4:19 PM"
     },
     {
@@ -518,7 +473,7 @@
         "category": "ukraine",
         "link": "https://www.ukrinform.net/rubric-ato/3520593-russian-soldiers-take-their-commander-prisoner-so-that-he-would-not-flee-intercept.html",
         "timestamp": 1656793899,
-        "sentiment": 4,
+        "sentiment": -3,
         "published": "July 2, 2022 4:31 PM"
     },
     {
@@ -531,12 +486,21 @@
         "published": "July 2, 2022 4:47 PM"
     },
     {
+        "title": "Social networks won’t be able to stay neutral on abortion",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2022/7/1/23187995/social-networks-abortion-law-moderation-state-decisions",
+        "timestamp": 1656795111,
+        "sentiment": 0,
+        "published": "July 2, 2022 4:51 PM"
+    },
+    {
         "title": "Supreme Court asks Maryland officials to stop people picketing at justices’ houses",
         "domain": "nbcnews.com",
         "category": "politics",
         "link": "https://www.nbcnews.com/politics/supreme-court/supreme-court-asks-maryland-officials-stop-picketing-justices-houses-rcna36460",
         "timestamp": 1656795211,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 2, 2022 4:53 PM"
     },
     {
@@ -576,12 +540,21 @@
         "published": "July 2, 2022 5:22 PM"
     },
     {
+        "title": "Teachers come from 'dumbest parts of dumbest colleges,' Tenn. governor's education advisor tells him",
+        "domain": "newschannel5.com",
+        "category": "nottheonion",
+        "link": "https://www.newschannel5.com/news/newschannel-5-investigates/revealed/revealed-teachers-come-from-dumbest-parts-of-dumbest-colleges-tenn-governors-education-advisor-tells-him",
+        "timestamp": 1656797346,
+        "sentiment": 0,
+        "published": "July 2, 2022 5:29 PM"
+    },
+    {
         "title": "Akron rallies planned for Jayland Walker, as family attorney says police shot him 60 times",
         "domain": "cleveland.com",
         "category": "news",
         "link": "https://www.cleveland.com/akron/2022/07/akron-rallies-planned-for-jayland-walker-as-family-attorney-says-police-shot-him-60-times.html",
         "timestamp": 1656797361,
-        "sentiment": -5,
+        "sentiment": -6,
         "published": "July 2, 2022 5:29 PM"
     },
     {
@@ -626,7 +599,7 @@
         "category": "television",
         "link": "https://jezebel.com/kim-fields-thinks-the-best-way-to-do-a-reboot-is-not-do-1849126120",
         "timestamp": 1656800579,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "July 2, 2022 6:22 PM"
     },
     {
@@ -639,13 +612,31 @@
         "published": "July 2, 2022 6:27 PM"
     },
     {
+        "title": "DOJ subpoenas two Arizona state senators for communications with Trump attorneys: reports",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/regulation/court-battles/3544816-doj-subpoenas-two-arizona-state-senators-for-communications-with-trump-attorneys-reports/",
+        "timestamp": 1656801356,
+        "sentiment": 0,
+        "published": "July 2, 2022 6:35 PM"
+    },
+    {
         "title": "‘Better Call Saul’ New Teasers Promise a Return to Nebraska in Final Episodes",
         "domain": "variety.com",
         "category": "television",
         "link": "https://variety.com/2022/tv/news/better-call-saul-final-season-episodes-teaser-1235308420/",
         "timestamp": 1656801829,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "July 2, 2022 6:43 PM"
+    },
+    {
+        "title": "Biden urged to do more to defend abortion rights: ‘This is a five-alarm fire’",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2022/jul/02/biden-democrats-abortion-rights-roe-v-wade",
+        "timestamp": 1656801900,
+        "sentiment": 0,
+        "published": "July 2, 2022 6:45 PM"
     },
     {
         "title": "Tesla deliveries fall due to China Covid shutdowns and supply shortages",
@@ -671,7 +662,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/jun/30/california-gun-owners-data-breach",
         "timestamp": 1656804233,
-        "sentiment": -5,
+        "sentiment": -6,
         "published": "July 2, 2022 7:23 PM"
     },
     {
@@ -707,8 +698,17 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/01/us/california-plastic-law-climate/index.html",
         "timestamp": 1656809566,
-        "sentiment": -5,
+        "sentiment": -6,
         "published": "July 2, 2022 8:52 PM"
+    },
+    {
+        "title": "Belarussian officers turn on Putin as top ranked troops rebel against Russian invasion",
+        "domain": "express.co.uk",
+        "category": "worldnews",
+        "link": "https://www.express.co.uk/news/world/1634632/Ukraine-war-updates-Belarus-officers-Vladimir-Putin-troops-Russia-news",
+        "timestamp": 1656811228,
+        "sentiment": 0,
+        "published": "July 2, 2022 9:20 PM"
     },
     {
         "title": "Studio Trigger Reveals New 'Panty & Stocking with Garterbelt' Anime Project",
@@ -716,8 +716,71 @@
         "category": "television",
         "link": "https://www.animenewsnetwork.com/news/2022-07-02/studio-trigger-reveals-new-panty-and-stocking-with-garterbelt-project/.187308",
         "timestamp": 1656811591,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "July 2, 2022 9:26 PM"
+    },
+    {
+        "title": "Group wielding White nationalist flags march along Boston’s Freedom Trail on July 4 weekend",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/07/02/us/boston-patriot-front-white-nationalist-group-march/index.html",
+        "timestamp": 1656812626,
+        "sentiment": -6,
+        "published": "July 2, 2022 9:43 PM"
+    },
+    {
+        "title": "‘The Muppets Mayhem’ Crew Involved In Accident During Filming Of Disney+ Series",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/07/the-muppets-mayhem-crew-accident-disney-plus-series-1235057414/",
+        "timestamp": 1656813602,
+        "sentiment": -2,
+        "published": "July 2, 2022 10:00 PM"
+    },
+    {
+        "title": "Google says it will delete location history for visits to abortion clinics after overturning of Roe v. Wade",
+        "domain": "cnbc.com",
+        "category": "UpliftingNews",
+        "link": "https://www.cnbc.com/2022/07/01/google-will-delete-location-history-for-visits-to-abortion-clinics.html",
+        "timestamp": 1656818741,
+        "sentiment": 0,
+        "published": "July 2, 2022 11:25 PM"
+    },
+    {
+        "title": "Turkey Revealed as Major Cocaine Trafficking Hub for Europe, Middle East",
+        "domain": "insightcrime.org",
+        "category": "worldnews",
+        "link": "https://insightcrime.org/news/turkey-cocaine-hub-between-europe-and-the-middle-east/",
+        "timestamp": 1656761907,
+        "sentiment": 0,
+        "published": "July 2, 2022 7:38 AM"
+    },
+    {
+        "title": "A 10-year-old was forced to cross state lines for an abortion after Ohio's ban went into place. The Indiana doctor who helped her will soon be unable to assist others.",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/10-year-old-girl-travel-out-state-ohio-restricts-abortion-2022-7",
+        "timestamp": 1656762738,
+        "sentiment": -5,
+        "published": "July 2, 2022 7:52 AM"
+    },
+    {
+        "title": "Ted Cruz confirms he casually went on vacation amid another Texas weather crisis",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/ted-cruz-bahamas-flight-cancun-b2113969.html",
+        "timestamp": 1656778492,
+        "sentiment": -5,
+        "published": "July 2, 2022 12:14 PM"
+    },
+    {
+        "title": "How Spectrum Fusion empowers adults with autism",
+        "domain": "abc13.com",
+        "category": "UpliftingNews",
+        "link": "https://abc13.com/spectrum-fusion-studio-dr-heidi-ham-autism/12009058/",
+        "timestamp": 1656778728,
+        "sentiment": 0,
+        "published": "July 2, 2022 12:18 PM"
     },
     {
         "title": "Ukraine says Russia dropped phosphorus bombs on Snake Island | News",
@@ -1987,15 +2050,6 @@
         "timestamp": 1656719137,
         "sentiment": -1,
         "published": "July 1, 2022 7:45 PM"
-    },
-    {
-        "title": "Google says it will delete location history for visits to abortion clinics after overturning of Roe v. Wade",
-        "domain": "cnbc.com",
-        "category": "technology",
-        "link": "https://www.cnbc.com/2022/07/01/google-will-delete-location-history-for-visits-to-abortion-clinics.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard",
-        "timestamp": 1656719296,
-        "sentiment": 0,
-        "published": "July 1, 2022 7:48 PM"
     },
     {
         "title": "Ron DeSantis’s “Don’t Say Gay” Law Has Already Made Florida Schools Dystopian Hellscapes",
