@@ -5,7 +5,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jul/01/napalm-girl-vietnam-war-phan-thi-kim-phuc-final-burn-treatment",
         "timestamp": 1656823247,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 3, 2022 12:40 AM"
     },
     {
@@ -27,13 +27,13 @@
         "published": "July 3, 2022 1:02 AM"
     },
     {
-        "title": "Ohio police officers shot fleeing Black man dozens of times, lawyer says",
-        "domain": "reuters.com",
-        "category": "news",
-        "link": "https://www.reuters.com/world/us/ohio-police-officers-shot-fleeing-black-man-dozens-times-lawyer-says-2022-07-02",
-        "timestamp": 1656829418,
-        "sentiment": -2,
-        "published": "July 3, 2022 2:23 AM"
+        "title": "China Reports U.S. to UN for Human Rights Violations| Says U.S. “Incapable” & “Uninterested” in Ending Mass Shootings",
+        "domain": "bloomberg.com",
+        "category": "politics",
+        "link": "https://www.bloomberg.com/news/articles/2022-05-31/china-urges-un-rights-chief-to-look-into-school-shootings-in-us",
+        "timestamp": 1656829669,
+        "sentiment": 0,
+        "published": "July 3, 2022 2:27 AM"
     },
     {
         "title": "UPS driver, 24, collapses and dies while delivering packages in SoCal heat",
@@ -50,17 +50,8 @@
         "category": "ukraine",
         "link": "https://www.ukrinform.net/rubric-ato/3520685-ukrainian-forces-destroy-russian-military-base-in-melitopol.html",
         "timestamp": 1656830541,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 3, 2022 2:42 AM"
-    },
-    {
-        "title": "A higher wakeup frequency was associated with atherogenic dyslipidemia in Taiwanese adults, particularly in women. This study also provided another evidence of increasing cardiovascular diseases in subjects with habitual interrupted sleep.",
-        "domain": "jstage.jst.go.jp",
-        "category": "science",
-        "link": "https://www.jstage.jst.go.jp/article/jat/advpub/0/advpub_63254/_article",
-        "timestamp": 1656831041,
-        "sentiment": -3,
-        "published": "July 3, 2022 2:50 AM"
     },
     {
         "title": "Texas man puts life savings into buying virtual property",
@@ -77,7 +68,7 @@
         "category": "science",
         "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(22)00807-5?",
         "timestamp": 1656833488,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 3, 2022 3:31 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "worldnews",
         "link": "https://amp.cnn.com/cnn/2022/07/02/asia/north-korea-japan-united-states-asian-nato-intl-hnk/index.html",
         "timestamp": 1656833814,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 3, 2022 3:36 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "nottheonion",
         "link": "https://www.npr.org/2022/07/02/1109576113/minnesota-thc-edibles-accident-delta-8",
         "timestamp": 1656834848,
-        "sentiment": 1,
+        "sentiment": 2,
         "published": "July 3, 2022 3:54 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-europe-62025541",
         "timestamp": 1656837710,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 3, 2022 4:41 AM"
     },
     {
@@ -122,17 +113,8 @@
         "category": "television",
         "link": "https://www.digitalspy.com/tv/ustv/a40487901/stranger-things-season-4-volume-2-netflix-crash/",
         "timestamp": 1656839966,
-        "sentiment": 0,
-        "published": "July 3, 2022 5:19 AM"
-    },
-    {
-        "title": "Mark Zuckerberg Told Meta Staff He's Upping Performance Goals to Get Rid of Employees Who 'Shouldn't Be Here,' Report Says",
-        "domain": "qoshe.com",
-        "category": "nottheonion",
-        "link": "https://qoshe.com/entrepreneur/isobel-asher-hamilton/mark-zuckerberg-told-meta-staff-hes-upping-performance-goals-to-get-rid-of-employees-who-shouldnt-be-here-report-says/141584453",
-        "timestamp": 1656841340,
         "sentiment": 1,
-        "published": "July 3, 2022 5:42 AM"
+        "published": "July 3, 2022 5:19 AM"
     },
     {
         "title": "Meeting of Afghan clerics ends with silence on education for girls",
@@ -140,8 +122,17 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jul/03/meeting-of-afghan-clerics-ends-with-silence-on-education-for-girls",
         "timestamp": 1656843430,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 3, 2022 6:17 AM"
+    },
+    {
+        "title": "Russian scientist dies two days after arrest for state treason, lawyer says",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/russian-scientist-dies-two-days-after-arrest-state-treason-lawyer-2022-07-03/",
+        "timestamp": 1656843676,
+        "sentiment": -3,
+        "published": "July 3, 2022 6:21 AM"
     },
     {
         "title": "A Florida county is quarantining after discovery of invasive Giant African land snail",
@@ -158,7 +149,7 @@
         "category": "science",
         "link": "https://www.eurekalert.org/news-releases/957305",
         "timestamp": 1656844441,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 3, 2022 6:34 AM"
     },
     {
@@ -171,6 +162,24 @@
         "published": "July 3, 2022 6:42 AM"
     },
     {
+        "title": "Metaverse dating app popular with young people in China vies for HK listing",
+        "domain": "ft.com",
+        "category": "technology",
+        "link": "https://www.ft.com/content/a475774a-6f54-426d-99b0-08f05bd992dc",
+        "timestamp": 1656847116,
+        "sentiment": 0,
+        "published": "July 3, 2022 7:18 AM"
+    },
+    {
+        "title": "Madison Catholic Church vandalized with ‘anti-“pro-life”’ message",
+        "domain": "nbc15.com",
+        "category": "news",
+        "link": "https://www.nbc15.com/2022/07/02/madison-catholic-church-vandalized-with-anti-pro-life-message/",
+        "timestamp": 1656847550,
+        "sentiment": -2,
+        "published": "July 3, 2022 7:25 AM"
+    },
+    {
         "title": "These sea worms could be the key to keeping transplant organs 'alive' longer",
         "domain": "euronews.com",
         "category": "UpliftingNews",
@@ -180,6 +189,15 @@
         "published": "July 3, 2022 7:30 AM"
     },
     {
+        "title": "Mickey Mouse could soon leave Disney as 95-year copyright expiry nears",
+        "domain": "theguardian.com",
+        "category": "television",
+        "link": "https://www.theguardian.com/film/2022/jul/03/mickey-mouse-disney-copyright-expiry",
+        "timestamp": 1656848195,
+        "sentiment": 1,
+        "published": "July 3, 2022 7:36 AM"
+    },
+    {
         "title": "James Webb Space Telescope operating better than expected.",
         "domain": "kgun9.com",
         "category": "UpliftingNews",
@@ -187,6 +205,51 @@
         "timestamp": 1656848284,
         "sentiment": -3,
         "published": "July 3, 2022 7:38 AM"
+    },
+    {
+        "title": "The pandemic has led to more people choosing to become “microworkers”, thanks to the use of digital platforms to get paid for short tasks such as coding, translation, surveys and identifying images has provided new opportunities for workers but has also exacerbated labour market inequalities",
+        "domain": "exeter.ac.uk",
+        "category": "science",
+        "link": "https://www.exeter.ac.uk/research/news/articles/coronaviruspandemichasled.html",
+        "timestamp": 1656848962,
+        "sentiment": -2,
+        "published": "July 3, 2022 7:49 AM"
+    },
+    {
+        "title": "Pan-African flag flying on a pole outside the headquarters of a Black international socialist group based in St Petersburg attacked with a flamethrower",
+        "domain": "wesh.com",
+        "category": "FLgovernment",
+        "link": "https://www.wesh.com/article/pan-african-flag-burned-flamethrower-florida/40490493",
+        "timestamp": 1656849615,
+        "sentiment": 0,
+        "published": "July 3, 2022 8:00 AM"
+    },
+    {
+        "title": "Ohio police officers shot fleeing Black man dozens of times, lawyer says",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/ohio-police-officers-shot-fleeing-black-man-dozens-times-lawyer-says-2022-07-02",
+        "timestamp": 1656829418,
+        "sentiment": -2,
+        "published": "July 3, 2022 2:23 AM"
+    },
+    {
+        "title": "A higher wakeup frequency was associated with atherogenic dyslipidemia in Taiwanese adults, particularly in women. This study also provided another evidence of increasing cardiovascular diseases in subjects with habitual interrupted sleep.",
+        "domain": "jstage.jst.go.jp",
+        "category": "science",
+        "link": "https://www.jstage.jst.go.jp/article/jat/advpub/0/advpub_63254/_article",
+        "timestamp": 1656831041,
+        "sentiment": -3,
+        "published": "July 3, 2022 2:50 AM"
+    },
+    {
+        "title": "Mark Zuckerberg Told Meta Staff He's Upping Performance Goals to Get Rid of Employees Who 'Shouldn't Be Here,' Report Says",
+        "domain": "qoshe.com",
+        "category": "nottheonion",
+        "link": "https://qoshe.com/entrepreneur/isobel-asher-hamilton/mark-zuckerberg-told-meta-staff-hes-upping-performance-goals-to-get-rid-of-employees-who-shouldnt-be-here-report-says/141584453",
+        "timestamp": 1656841340,
+        "sentiment": 1,
+        "published": "July 3, 2022 5:42 AM"
     },
     {
         "title": "Notorious Trophy Hunter, Riaan Naude, Was Reportedly Shot & Killed In South Africa",
