@@ -1,23 +1,5 @@
 [
     {
-        "title": "‘Napalm girl’ Phan Thi Kim Phuc receives final burn treatment after 50 years | Vietnam war",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/jul/01/napalm-girl-vietnam-war-phan-thi-kim-phuc-final-burn-treatment",
-        "timestamp": 1656823247,
-        "sentiment": -3,
-        "published": "July 3, 2022 12:40 AM"
-    },
-    {
-        "title": "AI Algorithm Predicts Future Crimes One Week in Advance With 90% Accuracy",
-        "domain": "scitechdaily.com",
-        "category": "technology",
-        "link": "https://scitechdaily.com/ai-algorithm-predicts-future-crimes-one-week-in-advance-with-90-accuracy/",
-        "timestamp": 1656824545,
-        "sentiment": -3,
-        "published": "July 3, 2022 1:02 AM"
-    },
-    {
         "title": "Trump Likely To Announce Run Soon Because He's A 'Freaking Toddler,' Says Ex-GOP Official",
         "domain": "huffpost.com",
         "category": "politics",
@@ -41,8 +23,17 @@
         "category": "ukraine",
         "link": "https://www.ukrinform.net/rubric-ato/3520685-ukrainian-forces-destroy-russian-military-base-in-melitopol.html",
         "timestamp": 1656830541,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 3, 2022 2:42 AM"
+    },
+    {
+        "title": "A higher wakeup frequency was associated with atherogenic dyslipidemia in Taiwanese adults, particularly in women. This study also provided another evidence of increasing cardiovascular diseases in subjects with habitual interrupted sleep.",
+        "domain": "jstage.jst.go.jp",
+        "category": "science",
+        "link": "https://www.jstage.jst.go.jp/article/jat/advpub/0/advpub_63254/_article",
+        "timestamp": 1656831041,
+        "sentiment": -3,
+        "published": "July 3, 2022 2:50 AM"
     },
     {
         "title": "Texas man puts life savings into buying virtual property",
@@ -50,7 +41,7 @@
         "category": "technology",
         "link": "https://www.kxan.com/news/local/austin/central-texas-man-puts-life-savings-into-buying-virtual-property/",
         "timestamp": 1656831122,
-        "sentiment": -3,
+        "sentiment": 3,
         "published": "July 3, 2022 2:52 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "science",
         "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(22)00807-5?",
         "timestamp": 1656833488,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "July 3, 2022 3:31 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "worldnews",
         "link": "https://amp.cnn.com/cnn/2022/07/02/asia/north-korea-japan-united-states-asian-nato-intl-hnk/index.html",
         "timestamp": 1656833814,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "July 3, 2022 3:36 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "nottheonion",
         "link": "https://www.npr.org/2022/07/02/1109576113/minnesota-thc-edibles-accident-delta-8",
         "timestamp": 1656834848,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 3, 2022 3:54 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-europe-62025541",
         "timestamp": 1656837710,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "July 3, 2022 4:41 AM"
     },
     {
@@ -95,17 +86,8 @@
         "category": "television",
         "link": "https://www.digitalspy.com/tv/ustv/a40487901/stranger-things-season-4-volume-2-netflix-crash/",
         "timestamp": 1656839966,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 3, 2022 5:19 AM"
-    },
-    {
-        "title": "Fake Human Meat Burgers Are Winning Awards",
-        "domain": "insider.com",
-        "category": "nottheonion",
-        "link": "https://www.insider.com/oumph-fake-human-meat-burger-winning-awards-cannes-lions-festival-2022-7",
-        "timestamp": 1656841337,
-        "sentiment": 4,
-        "published": "July 3, 2022 5:42 AM"
     },
     {
         "title": "Meeting of Afghan clerics ends with silence on education for girls",
@@ -113,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jul/03/meeting-of-afghan-clerics-ends-with-silence-on-education-for-girls",
         "timestamp": 1656843430,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "July 3, 2022 6:17 AM"
     },
     {
@@ -122,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/russian-scientist-dies-two-days-after-arrest-state-treason-lawyer-2022-07-03/",
         "timestamp": 1656843676,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "July 3, 2022 6:21 AM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "science",
         "link": "https://www.eurekalert.org/news-releases/957305",
         "timestamp": 1656844441,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "July 3, 2022 6:34 AM"
     },
     {
@@ -158,7 +140,7 @@
         "category": "sports",
         "link": "https://twitter.com/awcadena8/status/1543304008059604993",
         "timestamp": 1656844928,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 3, 2022 6:42 AM"
     },
     {
@@ -167,8 +149,17 @@
         "category": "ukraine",
         "link": "https://twitter.com/Gerashchenko_en/status/1543491053399035904",
         "timestamp": 1656845058,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 3, 2022 6:44 AM"
+    },
+    {
+        "title": "Trump-backed Michigan secretary of state nominee said abortion is 'child sacrifice'",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2022/07/03/politics/kfile-kristina-karamo-abortion-child-sacrifice/index.html",
+        "timestamp": 1656845214,
+        "sentiment": 0,
+        "published": "July 3, 2022 6:46 AM"
     },
     {
         "title": "Biden Urged to Embrace Windfall Tax as Exxon Says Profits Doubled in Second Quarter | \"It's time for the president to demand that Congress pass a windfall profits tax on Big Oil and use the revenue to provide rebates to consumers NOW!\" wrote Sen. Bernie Sanders.",
@@ -180,21 +171,12 @@
         "published": "July 3, 2022 7:04 AM"
     },
     {
-        "title": "Desperate plea as Putin ally threatens western cities: 'Don't touch us'",
-        "domain": "au.news.yahoo.com",
-        "category": "worldnews",
-        "link": "https://au.news.yahoo.com/desperate-plea-as-putin-ally-threatens-western-cities-020140045.html",
-        "timestamp": 1656846441,
-        "sentiment": -3,
-        "published": "July 3, 2022 7:07 AM"
-    },
-    {
         "title": "Metaverse dating app popular with young people in China vies for HK listing",
         "domain": "ft.com",
         "category": "technology",
         "link": "https://www.ft.com/content/a475774a-6f54-426d-99b0-08f05bd992dc",
         "timestamp": 1656847116,
-        "sentiment": -3,
+        "sentiment": 3,
         "published": "July 3, 2022 7:18 AM"
     },
     {
@@ -203,7 +185,7 @@
         "category": "worldnews",
         "link": "https://www.commondreams.org/news/2022/07/01/us-rolls-back-reproductive-rights-sierra-leone-moves-decriminalize-abortion",
         "timestamp": 1656847142,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "July 3, 2022 7:19 AM"
     },
     {
@@ -221,7 +203,7 @@
         "category": "ukraine",
         "link": "https://www.npr.org/2022/07/01/1109033582/are-sanctions-actually-hurting-russias-economy-heres-what-you-need-to-know",
         "timestamp": 1656847453,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 3, 2022 7:24 AM"
     },
     {
@@ -248,17 +230,8 @@
         "category": "UpliftingNews",
         "link": "https://www.euronews.com/next/2022/07/03/scientists-think-sea-worms-could-be-the-key-to-keeping-transplant-organs-alive-longer",
         "timestamp": 1656847804,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "July 3, 2022 7:30 AM"
-    },
-    {
-        "title": "Mickey Mouse could soon leave Disney as 95-year copyright expiry nears",
-        "domain": "theguardian.com",
-        "category": "television",
-        "link": "https://www.theguardian.com/film/2022/jul/03/mickey-mouse-disney-copyright-expiry",
-        "timestamp": 1656848195,
-        "sentiment": 0,
-        "published": "July 3, 2022 7:36 AM"
     },
     {
         "title": "James Webb Space Telescope operating better than expected.",
@@ -266,7 +239,7 @@
         "category": "UpliftingNews",
         "link": "https://www.kgun9.com/news/local-news/james-webb-space-telescope-operating-better-than-expected-image-release-on-july-12",
         "timestamp": 1656848284,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "July 3, 2022 7:38 AM"
     },
     {
@@ -275,7 +248,7 @@
         "category": "technology",
         "link": "https://www.theguardian.com/technology/2022/jul/01/google-delete-location-data-abortion-clinic",
         "timestamp": 1656849202,
-        "sentiment": -3,
+        "sentiment": 3,
         "published": "July 3, 2022 7:53 AM"
     },
     {
@@ -293,8 +266,17 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-in/news/other/ukraine-s-drones-are-becoming-increasingly-ineffective-as-russia-ramps-up-its-electronic-warfare-and-air-defenses/ar-AAZ8SvV?ocid=msedgntp&cvid=6970bc13f2054caa8af357473adafe81",
         "timestamp": 1656849858,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "July 3, 2022 8:04 AM"
+    },
+    {
+        "title": "‘Everyone was beaten’: Ukrainians held captive by Russia recover from physical, emotional scars",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/world/russia-ukraine-war-prisoners-of-war-beaten-taunted-kyiv-rcna36225",
+        "timestamp": 1656850279,
+        "sentiment": -2,
+        "published": "July 3, 2022 8:11 AM"
     },
     {
         "title": "Texas inmate asks to delay execution for kidney donation",
@@ -311,8 +293,26 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/satellites-locate-source-of-methane-leaks-to-fight-climate-crisis-2022-7",
         "timestamp": 1656850554,
-        "sentiment": -3,
+        "sentiment": 3,
         "published": "July 3, 2022 8:15 AM"
+    },
+    {
+        "title": "Filming of 'Mayor of Kingstown' Scenes starring Jeremy Renner Brings Economic Benefits to Erie",
+        "domain": "erienewsnow.com",
+        "category": "television",
+        "link": "https://www.erienewsnow.com/story/46792878/filming-of-mayor-of-kingstown-scenes-brings-economic-benefits-to-erie",
+        "timestamp": 1656851529,
+        "sentiment": 2,
+        "published": "July 3, 2022 8:32 AM"
+    },
+    {
+        "title": "Germany’s Scholz urges free transit for Russian goods to Kaliningrad",
+        "domain": "politico.eu",
+        "category": "worldnews",
+        "link": "https://www.politico.eu/article/olaf-scholz-urges-free-transit-for-russian-goods-to-kaliningrad/",
+        "timestamp": 1656852370,
+        "sentiment": 1,
+        "published": "July 3, 2022 8:46 AM"
     },
     {
         "title": "Are Password Managers A Single Point Of Failure? | Password Bits",
@@ -320,7 +320,7 @@
         "category": "technology",
         "link": "https://passwordbits.com/are-password-managers-a-single-point-of-failure/",
         "timestamp": 1656853749,
-        "sentiment": -3,
+        "sentiment": 3,
         "published": "July 3, 2022 9:09 AM"
     },
     {
@@ -333,31 +333,13 @@
         "published": "July 3, 2022 9:18 AM"
     },
     {
-        "title": "I did not have Giant African Land Snails on my Disaster Bingo Card!",
-        "domain": "cnn.com",
-        "category": "nottheonion",
-        "link": "https://www.cnn.com/2022/07/03/us/giant-african-snail-florida-scn-trnd/index.html",
-        "timestamp": 1656855076,
-        "sentiment": 4,
-        "published": "July 3, 2022 9:31 AM"
-    },
-    {
         "title": "Tory MP Chris Pincher suspended for groping two men.",
         "domain": "bbc.co.uk",
         "category": "nottheonion",
         "link": "https://www.bbc.co.uk/news/uk-politics-62025612",
         "timestamp": 1656855228,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 3, 2022 9:33 AM"
-    },
-    {
-        "title": "This Open-Source tool helps with getting the Related Work sections done without missing out any important paper. The tool produces a report about the most cited authors and papers within selected papers and unveils overlaps in the references.",
-        "domain": "github.com",
-        "category": "science",
-        "link": "https://github.com/Nerolation/Related-Work-Analyser",
-        "timestamp": 1656855375,
-        "sentiment": 2,
-        "published": "July 3, 2022 9:36 AM"
     },
     {
         "title": "Not prosecuting Trump for Jan. 6 would fuel a 'much graver threat,' Liz Cheney says",
@@ -374,7 +356,7 @@
         "category": "science",
         "link": "https://www.ox.ac.uk/news/2022-06-30-tonga-volcano-eruption-triggered-atmospheric-gravity-waves-reached-edge-space",
         "timestamp": 1656855956,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "July 3, 2022 9:45 AM"
     },
     {
@@ -383,7 +365,7 @@
         "category": "television",
         "link": "https://www.salon.com/2022/07/02/the-stranger-things-season-4-finale-gives-metallicas-master-of-puppets-the-kate-bush-push/",
         "timestamp": 1656856115,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 3, 2022 9:48 AM"
     },
     {
@@ -392,8 +374,152 @@
         "category": "UpliftingNews",
         "link": "https://www.axios.com/2022/07/03/colombia-protected-ocean?utm_source=twitter&utm_medium=social&utm_campaign=editorial&utm_content=world-protectedocean",
         "timestamp": 1656856269,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "July 3, 2022 9:51 AM"
+    },
+    {
+        "title": "13-year-old driving stolen car while live-streaming causes crash that kills passenger | WSET",
+        "domain": "wset.com",
+        "category": "news",
+        "link": "https://wset.com/news/nation-world/13-year-old-driving-stolen-car-while-live-streaming-causes-crash-that-kills-passenger-abilene-texas-teenagers-boy-dies-social-media-audi-s5-coupe-high-rate-of-speed",
+        "timestamp": 1656856653,
+        "sentiment": -2,
+        "published": "July 3, 2022 9:57 AM"
+    },
+    {
+        "title": "Far-Right Extremists Are Using Personal Radios to Plan Violence",
+        "domain": "slate.com",
+        "category": "technology",
+        "link": "https://slate.com/technology/2022/06/far-right-extremism-radio-jan-6.html",
+        "timestamp": 1656858097,
+        "sentiment": 3,
+        "published": "July 3, 2022 10:21 AM"
+    },
+    {
+        "title": "Worker mistakenly paid 330 times salary, quits and runs with $180k",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/chile-man-mistakenly-gets-330-times-salary-quits-runs-180k-2022-7",
+        "timestamp": 1656859001,
+        "sentiment": 1,
+        "published": "July 3, 2022 10:36 AM"
+    },
+    {
+        "title": "Texas education officials proposed changing \"slavery\" to \"involuntary relocation\" when teaching second graders",
+        "domain": "cbsnews.com",
+        "category": "nottheonion",
+        "link": "https://www.cbsnews.com/news/texas-education-officials-proposed-changing-slavery-to-involuntary-relocation-for-second-grade-standards/",
+        "timestamp": 1656859633,
+        "sentiment": 0,
+        "published": "July 3, 2022 10:47 AM"
+    },
+    {
+        "title": "What a beautiful story",
+        "domain": "cbc.ca",
+        "category": "UpliftingNews",
+        "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/charlie-comrie-plate-cove-west-love-story-1.6505104",
+        "timestamp": 1656859775,
+        "sentiment": 2,
+        "published": "July 3, 2022 10:49 AM"
+    },
+    {
+        "title": "Google will automatically delete trips to abortion clinics from your location history",
+        "domain": "androidcentral.com",
+        "category": "nottheonion",
+        "link": "https://www.androidcentral.com/apps-software/google-to-delete-location-data-for-those-who-visited-abortion-clinics",
+        "timestamp": 1656860004,
+        "sentiment": 0,
+        "published": "July 3, 2022 10:53 AM"
+    },
+    {
+        "title": "How pets give your kids a brain boost | pets can influence children's social skills, physical health, and even cognitive development, and that keeping them is associated with higher levels of empathy.",
+        "domain": "bbc.com",
+        "category": "UpliftingNews",
+        "link": "https://www.bbc.com/future/article/20220609-do-pets-help-childrens-development",
+        "timestamp": 1656860265,
+        "sentiment": 2,
+        "published": "July 3, 2022 10:57 AM"
+    },
+    {
+        "title": "Springfield celebrates first annual Pride parade",
+        "domain": "westernmassnews.com",
+        "category": "UpliftingNews",
+        "link": "https://www.westernmassnews.com/2022/06/04/springfield-celebrates-first-annual-pride-parade/",
+        "timestamp": 1656861179,
+        "sentiment": 2,
+        "published": "July 3, 2022 11:12 AM"
+    },
+    {
+        "title": "Western monarch populations grew over 100-fold in 2021. Why?",
+        "domain": "pbs.org",
+        "category": "UpliftingNews",
+        "link": "https://www.pbs.org/wgbh/nova/article/western-monarch-population-growth-2021/?utm_campaign=nova&utm_content=1656374605&utm_medium=social&utm_source=twitter",
+        "timestamp": 1656862067,
+        "sentiment": 2,
+        "published": "July 3, 2022 11:27 AM"
+    },
+    {
+        "title": "‘Napalm girl’ Phan Thi Kim Phuc receives final burn treatment after 50 years | Vietnam war",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jul/01/napalm-girl-vietnam-war-phan-thi-kim-phuc-final-burn-treatment",
+        "timestamp": 1656823247,
+        "sentiment": -3,
+        "published": "July 3, 2022 12:40 AM"
+    },
+    {
+        "title": "AI Algorithm Predicts Future Crimes One Week in Advance With 90% Accuracy",
+        "domain": "scitechdaily.com",
+        "category": "technology",
+        "link": "https://scitechdaily.com/ai-algorithm-predicts-future-crimes-one-week-in-advance-with-90-accuracy/",
+        "timestamp": 1656824545,
+        "sentiment": -3,
+        "published": "July 3, 2022 1:02 AM"
+    },
+    {
+        "title": "Fake Human Meat Burgers Are Winning Awards",
+        "domain": "insider.com",
+        "category": "nottheonion",
+        "link": "https://www.insider.com/oumph-fake-human-meat-burger-winning-awards-cannes-lions-festival-2022-7",
+        "timestamp": 1656841337,
+        "sentiment": 4,
+        "published": "July 3, 2022 5:42 AM"
+    },
+    {
+        "title": "Desperate plea as Putin ally threatens western cities: 'Don't touch us'",
+        "domain": "au.news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://au.news.yahoo.com/desperate-plea-as-putin-ally-threatens-western-cities-020140045.html",
+        "timestamp": 1656846441,
+        "sentiment": -3,
+        "published": "July 3, 2022 7:07 AM"
+    },
+    {
+        "title": "Mickey Mouse could soon leave Disney as 95-year copyright expiry nears",
+        "domain": "theguardian.com",
+        "category": "television",
+        "link": "https://www.theguardian.com/film/2022/jul/03/mickey-mouse-disney-copyright-expiry",
+        "timestamp": 1656848195,
+        "sentiment": 0,
+        "published": "July 3, 2022 7:36 AM"
+    },
+    {
+        "title": "I did not have Giant African Land Snails on my Disaster Bingo Card!",
+        "domain": "cnn.com",
+        "category": "nottheonion",
+        "link": "https://www.cnn.com/2022/07/03/us/giant-african-snail-florida-scn-trnd/index.html",
+        "timestamp": 1656855076,
+        "sentiment": 4,
+        "published": "July 3, 2022 9:31 AM"
+    },
+    {
+        "title": "This Open-Source tool helps with getting the Related Work sections done without missing out any important paper. The tool produces a report about the most cited authors and papers within selected papers and unveils overlaps in the references.",
+        "domain": "github.com",
+        "category": "science",
+        "link": "https://github.com/Nerolation/Related-Work-Analyser",
+        "timestamp": 1656855375,
+        "sentiment": 2,
+        "published": "July 3, 2022 9:36 AM"
     },
     {
         "title": "Reproductive Rights For Women: Google To Erase More Location Info As Abortion Bans Expand In America",
@@ -412,15 +538,6 @@
         "timestamp": 1656829669,
         "sentiment": 0,
         "published": "July 3, 2022 2:27 AM"
-    },
-    {
-        "title": "A higher wakeup frequency was associated with atherogenic dyslipidemia in Taiwanese adults, particularly in women. This study also provided another evidence of increasing cardiovascular diseases in subjects with habitual interrupted sleep.",
-        "domain": "jstage.jst.go.jp",
-        "category": "science",
-        "link": "https://www.jstage.jst.go.jp/article/jat/advpub/0/advpub_63254/_article",
-        "timestamp": 1656831041,
-        "sentiment": -3,
-        "published": "July 3, 2022 2:50 AM"
     },
     {
         "title": "Google will reimburse developers $90M over Play Store earnings – TechCrunch",
