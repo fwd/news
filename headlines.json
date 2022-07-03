@@ -5,15 +5,6 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jul/01/napalm-girl-vietnam-war-phan-thi-kim-phuc-final-burn-treatment",
         "timestamp": 1656823247,
-        "sentiment": -2,
-        "published": "July 3, 2022 12:40 AM"
-    },
-    {
-        "title": "New York approves gun law requiring buyers to provide social media handles",
-        "domain": "foxnews.com",
-        "category": "nottheonion",
-        "link": "https://www.foxnews.com/us/new-york-approves-gun-law-requiring-buyers-provide-social-media-handles",
-        "timestamp": 1656823257,
         "sentiment": -1,
         "published": "July 3, 2022 12:40 AM"
     },
@@ -72,15 +63,6 @@
         "published": "July 3, 2022 2:50 AM"
     },
     {
-        "title": "Chess - 3-time US champion but Philippine-born Wesley So reaffirms support for Philippine chess in PCAP Reinforced Conference | 'I thank all of you for helping Philippine chess which will always have a special place in my heart'",
-        "domain": "goodnewspilipinas.com",
-        "category": "sports",
-        "link": "https://www.goodnewspilipinas.com/wesley-so-reaffirms-support-for-philippine-chess-in-pcap-reinforced-conference/",
-        "timestamp": 1656831083,
-        "sentiment": 4,
-        "published": "July 3, 2022 2:51 AM"
-    },
-    {
         "title": "Texas man puts life savings into buying virtual property",
         "domain": "kxan.com",
         "category": "technology",
@@ -104,7 +86,7 @@
         "category": "worldnews",
         "link": "https://amp.cnn.com/cnn/2022/07/02/asia/north-korea-japan-united-states-asian-nato-intl-hnk/index.html",
         "timestamp": 1656833814,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 3, 2022 3:36 AM"
     },
     {
@@ -113,8 +95,71 @@
         "category": "nottheonion",
         "link": "https://www.npr.org/2022/07/02/1109576113/minnesota-thc-edibles-accident-delta-8",
         "timestamp": 1656834848,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "July 3, 2022 3:54 AM"
+    },
+    {
+        "title": "Deadly blasts hit Russian border city",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-europe-62025541",
+        "timestamp": 1656837710,
+        "sentiment": -1,
+        "published": "July 3, 2022 4:41 AM"
+    },
+    {
+        "title": "Stranger Things season 4 volume 2 release causes Netflix crash worldwide",
+        "domain": "digitalspy.com",
+        "category": "television",
+        "link": "https://www.digitalspy.com/tv/ustv/a40487901/stranger-things-season-4-volume-2-netflix-crash/",
+        "timestamp": 1656839966,
+        "sentiment": 0,
+        "published": "July 3, 2022 5:19 AM"
+    },
+    {
+        "title": "Notorious Trophy Hunter, Riaan Naude, Was Reportedly Shot & Killed In South Africa",
+        "domain": "worldanimalnews.com",
+        "category": "worldnews",
+        "link": "https://worldanimalnews.com/breaking-trophy-hunter-riaan-naude-reportedly-shot-killed-in-south-africa/",
+        "timestamp": 1656840722,
+        "sentiment": -1,
+        "published": "July 3, 2022 5:32 AM"
+    },
+    {
+        "title": "Mark Zuckerberg Told Meta Staff He's Upping Performance Goals to Get Rid of Employees Who 'Shouldn't Be Here,' Report Says",
+        "domain": "qoshe.com",
+        "category": "nottheonion",
+        "link": "https://qoshe.com/entrepreneur/isobel-asher-hamilton/mark-zuckerberg-told-meta-staff-hes-upping-performance-goals-to-get-rid-of-employees-who-shouldnt-be-here-report-says/141584453",
+        "timestamp": 1656841340,
+        "sentiment": 1,
+        "published": "July 3, 2022 5:42 AM"
+    },
+    {
+        "title": "Tsitsipas hitting a ball into the crowd at Wimbledon",
+        "domain": "twitter.com",
+        "category": "sports",
+        "link": "https://twitter.com/awcadena8/status/1543304008059604993",
+        "timestamp": 1656844928,
+        "sentiment": 0,
+        "published": "July 3, 2022 6:42 AM"
+    },
+    {
+        "title": "New York approves gun law requiring buyers to provide social media handles",
+        "domain": "foxnews.com",
+        "category": "nottheonion",
+        "link": "https://www.foxnews.com/us/new-york-approves-gun-law-requiring-buyers-provide-social-media-handles",
+        "timestamp": 1656823257,
+        "sentiment": -1,
+        "published": "July 3, 2022 12:40 AM"
+    },
+    {
+        "title": "Chess - 3-time US champion but Philippine-born Wesley So reaffirms support for Philippine chess in PCAP Reinforced Conference | 'I thank all of you for helping Philippine chess which will always have a special place in my heart'",
+        "domain": "goodnewspilipinas.com",
+        "category": "sports",
+        "link": "https://www.goodnewspilipinas.com/wesley-so-reaffirms-support-for-philippine-chess-in-pcap-reinforced-conference/",
+        "timestamp": 1656831083,
+        "sentiment": 4,
+        "published": "July 3, 2022 2:51 AM"
     },
     {
         "title": "'She's 10': Child Rape Victim's Abortion Denial Sparks Outrage on Twitter",
