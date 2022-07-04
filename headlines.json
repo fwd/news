@@ -32,7 +32,7 @@
         "category": "nottheonion",
         "link": "https://www.theguardian.com/world/2022/jul/04/call-to-tighten-new-zealand-law-that-allows-public-pooping-if-no-one-watching",
         "timestamp": 1656917208,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "July 4, 2022 2:46 AM"
     },
     {
@@ -45,21 +45,12 @@
         "published": "July 4, 2022 3:04 AM"
     },
     {
-        "title": "Ukrainians taken captive by Russia say they were held in brutal conditions: ‘Everyone was beaten’",
-        "domain": "nbcnews.com",
-        "category": "worldnews",
-        "link": "https://www.nbcnews.com/news/world/russia-ukraine-war-prisoners-of-war-beaten-taunted-kyiv-rcna36225",
-        "timestamp": 1656919813,
-        "sentiment": -1,
-        "published": "July 4, 2022 3:30 AM"
-    },
-    {
         "title": "Fox and friends confront billion-dollar US lawsuits over election fraud claims",
         "domain": "theguardian.com",
         "category": "news",
         "link": "https://www.theguardian.com/media/2022/jul/04/fox-oan-newsmax-lawsuits-election-fraud-claims",
         "timestamp": 1656921586,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 4, 2022 3:59 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/03/us/california-sara-kruzan-pardon-shooting-abuser/index.html",
         "timestamp": 1656922519,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 4, 2022 4:15 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/global/hbo-max-europe-originals-development-1235308730/",
         "timestamp": 1656932462,
-        "sentiment": -2,
+        "sentiment": 3,
         "published": "July 4, 2022 7:01 AM"
     },
     {
@@ -176,7 +167,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/nexta_tv/status/1543885315915628545?s=21",
         "timestamp": 1656936275,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 4, 2022 8:04 AM"
     },
     {
@@ -203,7 +194,7 @@
         "category": "nottheonion",
         "link": "https://www.cnn.com/2022/07/03/us/farmington-hills-police-department-black-target/index.html",
         "timestamp": 1656936654,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "July 4, 2022 8:10 AM"
     },
     {
@@ -257,7 +248,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/International/wireStory/colognes-pride-parade-draws-upwards-million-germany-86151653",
         "timestamp": 1656937794,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 4, 2022 8:29 AM"
     },
     {
@@ -266,7 +257,7 @@
         "category": "news",
         "link": "https://www.standard.co.uk/news/world/amber-heard-libel-trial-appeal-johnny-depp-fairfax-jury-domestic-violence-washington-post-b1009994.html",
         "timestamp": 1656938018,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 4, 2022 8:33 AM"
     },
     {
@@ -311,7 +302,7 @@
         "category": "sports",
         "link": "https://www.espn.com/tennis/story/_/id/34192599/wimbledon-appealing-fine-wta-russia-ban",
         "timestamp": 1656939345,
-        "sentiment": 4,
+        "sentiment": 2,
         "published": "July 4, 2022 8:55 AM"
     },
     {
@@ -347,7 +338,7 @@
         "category": "television",
         "link": "https://www.empireonline.com/tv/news/andor-tony-gilroy-explains-star-wars-rogue-one-prequel-structure-exclusive/",
         "timestamp": 1656940877,
-        "sentiment": -2,
+        "sentiment": 3,
         "published": "July 4, 2022 9:21 AM"
     },
     {
@@ -369,12 +360,21 @@
         "published": "July 4, 2022 10:08 AM"
     },
     {
+        "title": "Expert on White House chiefs of staff says Mark Meadows 'absolutely owns' the title of 'worst' chief in history after ex-aide's damning testimony",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/mark-meadows-worst-chief-of-staff-january-6-chris-whipple-2022-6",
+        "timestamp": 1656944078,
+        "sentiment": -3,
+        "published": "July 4, 2022 10:14 AM"
+    },
+    {
         "title": "U.S. concludes Israeli fire killed Palestinian American journalist",
         "domain": "washingtonpost.com",
         "category": "news",
         "link": "https://www.washingtonpost.com/world/2022/07/04/shireen-abu-akleh-bullet-israel/",
         "timestamp": 1656944621,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 4, 2022 10:23 AM"
     },
     {
@@ -387,31 +387,13 @@
         "published": "July 4, 2022 10:28 AM"
     },
     {
-        "title": "St Andrew's to welcome host of Hollywood stars ahead of The Open Championship",
-        "domain": "scottishdailyexpress.co.uk",
-        "category": "sports",
-        "link": "https://www.scottishdailyexpress.co.uk/news/scottish-news/st-andrews-set-welcome-host-27395285",
-        "timestamp": 1656945429,
-        "sentiment": 4,
-        "published": "July 4, 2022 10:37 AM"
-    },
-    {
         "title": "Outrage after video of police fatally shooting Jayland Walker released",
         "domain": "theguardian.com",
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/jul/04/jayland-walker-shooting-body-cam-video-outrage",
         "timestamp": 1656945833,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 4, 2022 10:43 AM"
-    },
-    {
-        "title": "Cinemas Are Banning Formal Wear for ‘Minions the Rise of Gru’ Screenings",
-        "domain": "wegotthiscovered.com",
-        "category": "nottheonion",
-        "link": "https://wegotthiscovered.com/movies/cinemas-are-banning-formal-wear-for-minions-the-rise-of-gru-screenings/",
-        "timestamp": 1656946442,
-        "sentiment": -3,
-        "published": "July 4, 2022 10:54 AM"
     },
     {
         "title": "How the bacteria on an all-sugar diet could bring the aviation industry closer to net-zero",
@@ -428,7 +410,7 @@
         "category": "nottheonion",
         "link": "https://www.wral.com/kitten-rescued-from-walmart-vending-machine/20359585/",
         "timestamp": 1656946934,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "July 4, 2022 11:02 AM"
     },
     {
@@ -464,7 +446,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-features/westworld-ed-harris-season-4-predicament-golf-scene-1235173606/",
         "timestamp": 1656948372,
-        "sentiment": -2,
+        "sentiment": 3,
         "published": "July 4, 2022 11:26 AM"
     },
     {
@@ -473,8 +455,17 @@
         "category": "nottheonion",
         "link": "https://www.npr.org/2022/07/04/1109044833/a-provocative-exhibit-at-nycs-met-museum-takes-a-new-point-of-view",
         "timestamp": 1656949150,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "July 4, 2022 11:39 AM"
+    },
+    {
+        "title": "Revolutionary Precedent: Canada Allows Confiscation of Russian Assets for Rebuilding Ukraine",
+        "domain": "eurointegration.com.ua",
+        "category": "worldnews",
+        "link": "https://www.eurointegration.com.ua/eng/news/2022/07/4/7142525/",
+        "timestamp": 1656949347,
+        "sentiment": -1,
+        "published": "July 4, 2022 11:42 AM"
     },
     {
         "title": "Police: New Port Richey man arrested after throwing hot dog at St. Pete officer",
@@ -482,7 +473,7 @@
         "category": "nottheonion",
         "link": "https://www.fox13news.com/news/police-new-port-richey-man-arrested-after-throwing-hot-dog-at-st-pete-officer",
         "timestamp": 1656949391,
-        "sentiment": -3,
+        "sentiment": -5,
         "published": "July 4, 2022 11:43 AM"
     },
     {
@@ -502,6 +493,78 @@
         "timestamp": 1656949706,
         "sentiment": 0,
         "published": "July 4, 2022 11:48 AM"
+    },
+    {
+        "title": "Police Respond to ‘Incident' in Downtown Highland Park, Urge Public to Avoid Area",
+        "domain": "nbcchicago.com",
+        "category": "news",
+        "link": "https://www.nbcchicago.com/news/local/police-respond-to-incident-in-downtown-highland-park-urge-public-to-avoid-area/2872781/?amp",
+        "timestamp": 1656950484,
+        "sentiment": 0,
+        "published": "July 4, 2022 12:01 PM"
+    },
+    {
+        "title": "Demand for abortion providers is expected to surge in some states. Doctors and nurses turned to TikTok to offer help",
+        "domain": "cnn.com",
+        "category": "UpliftingNews",
+        "link": "https://www.cnn.com/2022/07/04/health/tiktok-medical-professionals-abortion-assistance/index.html",
+        "timestamp": 1656950655,
+        "sentiment": 0,
+        "published": "July 4, 2022 12:04 PM"
+    },
+    {
+        "title": "Education 'is like the plague,' Hillsdale College president says at closed-door event",
+        "domain": "deadlinedetroit.com",
+        "category": "news",
+        "link": "https://www.deadlinedetroit.com/articles/30847/education_is_like_the_plague_hillsdale_college_president_says_at_closed-door_event",
+        "timestamp": 1656952230,
+        "sentiment": 0,
+        "published": "July 4, 2022 12:30 PM"
+    },
+    {
+        "title": "Highland Park shooting: Police respond to shooting at Fourth of July event in Illinois",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/07/04/us/highland-park-illinois-shooting-july-4-parade/index.html",
+        "timestamp": 1656952861,
+        "sentiment": 0,
+        "published": "July 4, 2022 12:41 PM"
+    },
+    {
+        "title": "'Stranger Things 5': Duffer Brothers Say Final Season Will Be Shorter Than Season 4, Feature Length-Series Finale Planned",
+        "domain": "thewrap.com",
+        "category": "television",
+        "link": "https://www.thewrap.com/stranger-things-season-5-finale-runtime/",
+        "timestamp": 1656954364,
+        "sentiment": 3,
+        "published": "July 4, 2022 1:06 PM"
+    },
+    {
+        "title": "Ukrainians taken captive by Russia say they were held in brutal conditions: ‘Everyone was beaten’",
+        "domain": "nbcnews.com",
+        "category": "worldnews",
+        "link": "https://www.nbcnews.com/news/world/russia-ukraine-war-prisoners-of-war-beaten-taunted-kyiv-rcna36225",
+        "timestamp": 1656919813,
+        "sentiment": -1,
+        "published": "July 4, 2022 3:30 AM"
+    },
+    {
+        "title": "St Andrew's to welcome host of Hollywood stars ahead of The Open Championship",
+        "domain": "scottishdailyexpress.co.uk",
+        "category": "sports",
+        "link": "https://www.scottishdailyexpress.co.uk/news/scottish-news/st-andrews-set-welcome-host-27395285",
+        "timestamp": 1656945429,
+        "sentiment": 4,
+        "published": "July 4, 2022 10:37 AM"
+    },
+    {
+        "title": "Cinemas Are Banning Formal Wear for ‘Minions the Rise of Gru’ Screenings",
+        "domain": "wegotthiscovered.com",
+        "category": "nottheonion",
+        "link": "https://wegotthiscovered.com/movies/cinemas-are-banning-formal-wear-for-minions-the-rise-of-gru-screenings/",
+        "timestamp": 1656946442,
+        "sentiment": -3,
+        "published": "July 4, 2022 10:54 AM"
     },
     {
         "title": "Watergate prosecutor says slapping Trump with a charge for rebellion or insurrection could prevent him from ever holding office again",
