@@ -14,17 +14,8 @@
         "category": "technology",
         "link": "https://www.theverge.com/2022/7/3/23193443/apple-watch-series-8-detect-fever-body-temperature-sensor-rumors",
         "timestamp": 1656908986,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 4, 2022 12:29 AM"
-    },
-    {
-        "title": "'Love is Halal': Berlin Mosque Becomes the First to Raise LGBTQ+ Flag",
-        "domain": "albawaba.com",
-        "category": "UpliftingNews",
-        "link": "https://www.albawaba.com/node/love-halal-berlin-mosque-becomes-first-raise-lgbtq-flag-1482830",
-        "timestamp": 1656912429,
-        "sentiment": 3,
-        "published": "July 4, 2022 1:27 AM"
     },
     {
         "title": "Chip makers are refusing to build new semiconductor plants in the U.S. unless Congress unlocks $52 billion in funding",
@@ -32,17 +23,8 @@
         "category": "technology",
         "link": "https://finance.yahoo.com/news/chip-makers-refusing-build-semiconductor-061349212.html",
         "timestamp": 1656914637,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 4, 2022 2:03 AM"
-    },
-    {
-        "title": "A Michigan police chief has apologized after it emerged that the department used images of Black men during target practice",
-        "domain": "cnn.com",
-        "category": "nottheonion",
-        "link": "https://www.cnn.com/2022/07/03/us/farmington-hills-police-department-black-target/index.html",
-        "timestamp": 1656915267,
-        "sentiment": 2,
-        "published": "July 4, 2022 2:14 AM"
     },
     {
         "title": "Newly identified species is the world’s largest known giant water lily: Almost 180 years after specimens were first brought from Bolivia to the UK, a giant water lily has been confirmed as a distinct species",
@@ -59,8 +41,44 @@
         "category": "nottheonion",
         "link": "https://www.theguardian.com/world/2022/jul/04/call-to-tighten-new-zealand-law-that-allows-public-pooping-if-no-one-watching",
         "timestamp": 1656917208,
-        "sentiment": 2,
+        "sentiment": -4,
         "published": "July 4, 2022 2:46 AM"
+    },
+    {
+        "title": "Fox and friends confront billion-dollar US lawsuits over election fraud claims",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/media/2022/jul/04/fox-oan-newsmax-lawsuits-election-fraud-claims",
+        "timestamp": 1656921586,
+        "sentiment": 0,
+        "published": "July 4, 2022 3:59 AM"
+    },
+    {
+        "title": "Berlin mosque flies rainbow flag in support of LGBTQ community",
+        "domain": "m.dw.com",
+        "category": "UpliftingNews",
+        "link": "https://m.dw.com/en/berlin-mosque-flies-rainbow-flag-in-support-of-lgbtq-community/a-62333570",
+        "timestamp": 1656925257,
+        "sentiment": 3,
+        "published": "July 4, 2022 5:00 AM"
+    },
+    {
+        "title": "'Love is Halal': Berlin Mosque Becomes the First to Raise LGBTQ+ Flag",
+        "domain": "albawaba.com",
+        "category": "UpliftingNews",
+        "link": "https://www.albawaba.com/node/love-halal-berlin-mosque-becomes-first-raise-lgbtq-flag-1482830",
+        "timestamp": 1656912429,
+        "sentiment": 3,
+        "published": "July 4, 2022 1:27 AM"
+    },
+    {
+        "title": "A Michigan police chief has apologized after it emerged that the department used images of Black men during target practice",
+        "domain": "cnn.com",
+        "category": "nottheonion",
+        "link": "https://www.cnn.com/2022/07/03/us/farmington-hills-police-department-black-target/index.html",
+        "timestamp": 1656915267,
+        "sentiment": 2,
+        "published": "July 4, 2022 2:14 AM"
     },
     {
         "title": "Michigan police chief has apologized after it emerged that the department used images of Black men during target practice",
