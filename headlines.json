@@ -5,7 +5,7 @@
         "category": "science",
         "link": "https://www.clinicalnutritionjournal.com/article/S0261-5614(22)00181-9/fulltext",
         "timestamp": 1656908212,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 4, 2022 12:16 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "technology",
         "link": "https://www.theverge.com/2022/7/3/23193443/apple-watch-series-8-detect-fever-body-temperature-sensor-rumors",
         "timestamp": 1656908986,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 4, 2022 12:29 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "technology",
         "link": "https://finance.yahoo.com/news/chip-makers-refusing-build-semiconductor-061349212.html",
         "timestamp": 1656914637,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 4, 2022 2:03 AM"
     },
     {
@@ -36,21 +36,12 @@
         "published": "July 4, 2022 2:46 AM"
     },
     {
-        "title": "Impeach Clarence Thomas petition hits 1M signatures: \"Justice is needed\"",
-        "domain": "newsweek.com",
-        "category": "politics",
-        "link": "https://www.newsweek.com/impeach-clarence-thomas-petition-hits-1m-signatures-1721317?utm_medium=Social&utm_source=Twitter#Echobox=1656917750-1",
-        "timestamp": 1656918287,
-        "sentiment": 2,
-        "published": "July 4, 2022 3:04 AM"
-    },
-    {
         "title": "Fox and friends confront billion-dollar US lawsuits over election fraud claims",
         "domain": "theguardian.com",
         "category": "news",
         "link": "https://www.theguardian.com/media/2022/jul/04/fox-oan-newsmax-lawsuits-election-fraud-claims",
         "timestamp": 1656921586,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 4, 2022 3:59 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/03/us/california-sara-kruzan-pardon-shooting-abuser/index.html",
         "timestamp": 1656922519,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 4, 2022 4:15 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "florida",
         "link": "https://thehill.com/homenews/state-watch/3545351-newsom-running-ads-attacking-gop-in-florida-dont-let-them-take-your-freedom/",
         "timestamp": 1656924384,
-        "sentiment": -2,
+        "sentiment": 8,
         "published": "July 4, 2022 4:46 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "science",
         "link": "https://www.mpg.de/18884791/sanitizer-in-the-galactic-centre-region",
         "timestamp": 1656929248,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 4, 2022 6:07 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "science",
         "link": "http://www.sci-news.com/biology/well-digging-chimpanzees-10947.html",
         "timestamp": 1656929715,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 4, 2022 6:15 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.euractiv.com/section/politics/short_news/bulgarian-secret-services-russia-pays-public-figures-to-spread-propaganda/",
         "timestamp": 1656929853,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "July 4, 2022 6:17 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/global/hbo-max-europe-originals-development-1235308730/",
         "timestamp": 1656932462,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 4, 2022 7:01 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "technology",
         "link": "https://interestingengineering.com/switzerlands-water-battery-operational",
         "timestamp": 1656932987,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 4, 2022 7:09 AM"
     },
     {
@@ -122,17 +113,8 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jul/04/eiffel-tower-riddled-with-rust-and-in-need-of-repair-leaked-reports-say",
         "timestamp": 1656935595,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "July 4, 2022 7:53 AM"
-    },
-    {
-        "title": "South Dakota governor defends state's abortion 'trigger' ban when asked if 10-year-old should be forced to give birth",
-        "domain": "edition.cnn.com",
-        "category": "politics",
-        "link": "https://edition.cnn.com/2022/07/03/politics/kristi-noem-south-dakota-abortion-trigger-ban/index.html",
-        "timestamp": 1656935771,
-        "sentiment": 2,
-        "published": "July 4, 2022 7:56 AM"
     },
     {
         "title": "Russian tourists complain that they have found postcards addressed to them at #Turkish resorts. They inform that they are financing the production of #Bayraktars for #Ukraine with taxes.",
@@ -149,7 +131,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jul/04/russian-cosmonauts-display-flag-of-occupied-luhansk-region-on-iss-ukraine",
         "timestamp": 1656936355,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "July 4, 2022 8:05 AM"
     },
     {
@@ -158,7 +140,7 @@
         "category": "science",
         "link": "https://theconversation.com/kids-neighborhoods-can-affect-their-developing-brains-a-new-study-finds-184035",
         "timestamp": 1656936745,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 4, 2022 8:12 AM"
     },
     {
@@ -176,7 +158,7 @@
         "category": "technology",
         "link": "https://apnews.com/article/entertainment-music-tennessee-f76d8df96043153f8bd735539795ddaf",
         "timestamp": 1656937267,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 4, 2022 8:21 AM"
     },
     {
@@ -185,7 +167,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/International/wireStory/colognes-pride-parade-draws-upwards-million-germany-86151653",
         "timestamp": 1656937794,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 4, 2022 8:29 AM"
     },
     {
@@ -194,7 +176,7 @@
         "category": "news",
         "link": "https://www.standard.co.uk/news/world/amber-heard-libel-trial-appeal-johnny-depp-fairfax-jury-domestic-violence-washington-post-b1009994.html",
         "timestamp": 1656938018,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 4, 2022 8:33 AM"
     },
     {
@@ -203,17 +185,8 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/hamburg-russia-energy-natural-gas-ration-hot-water-putin-war-2022-7",
         "timestamp": 1656938141,
-        "sentiment": -4,
-        "published": "July 4, 2022 8:35 AM"
-    },
-    {
-        "title": "Is your smartphone ruining your memory? A special report on the rise of ‘digital amnesia’",
-        "domain": "theguardian.com",
-        "category": "technology",
-        "link": "https://www.theguardian.com/global/2022/jul/03/is-your-smartphone-ruining-your-memory-the-rise-of-digital-amenesia",
-        "timestamp": 1656938947,
         "sentiment": -1,
-        "published": "July 4, 2022 8:49 AM"
+        "published": "July 4, 2022 8:35 AM"
     },
     {
         "title": "2 Arizona election officials abruptly quit before the primaries, citing continuous threats from Trump supporters over 2020 elections",
@@ -221,7 +194,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/2-arizona-election-officials-quit-trump-supporters-threatened-2022-7",
         "timestamp": 1656939224,
-        "sentiment": 2,
+        "sentiment": 6,
         "published": "July 4, 2022 8:53 AM"
     },
     {
@@ -234,13 +207,13 @@
         "published": "July 4, 2022 8:55 AM"
     },
     {
-        "title": "A synthetic cannabinoid (JWH-108) induces more pronounced dissociative effects than natural cannabis, whereas both drugs equally impair cognitive functioning- suggests a new placebo-controlled study in healthy volunteers.",
-        "domain": "frontiersin.org",
-        "category": "science",
-        "link": "https://www.frontiersin.org/articles/10.3389/fpsyt.2022.891811/full",
-        "timestamp": 1656939596,
-        "sentiment": 1,
-        "published": "July 4, 2022 8:59 AM"
+        "title": "Ukrainian flag raised over Snake Island after Russian retreat",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jul/04/ukrainian-flag-raised-over-snake-island-after-russian-retreat",
+        "timestamp": 1656940032,
+        "sentiment": -1,
+        "published": "July 4, 2022 9:07 AM"
     },
     {
         "title": "Andor: Tony Gilroy Explains Star Wars’ Rogue One Prequel Series’ Epic Five-Year Structure – Exclusive Image",
@@ -248,7 +221,7 @@
         "category": "television",
         "link": "https://www.empireonline.com/tv/news/andor-tony-gilroy-explains-star-wars-rogue-one-prequel-structure-exclusive/",
         "timestamp": 1656940877,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 4, 2022 9:21 AM"
     },
     {
@@ -257,26 +230,8 @@
         "category": "politics",
         "link": "https://www.kvue.com/mobile/article/news/local/texas/texan-woman-drives-new-mexico-abortion-senate-bill-8/269-4f1502ed-8f83-4142-85d9-acfc778189ac",
         "timestamp": 1656943686,
-        "sentiment": 2,
+        "sentiment": 6,
         "published": "July 4, 2022 10:08 AM"
-    },
-    {
-        "title": "Expert on White House chiefs of staff says Mark Meadows 'absolutely owns' the title of 'worst' chief in history after ex-aide's damning testimony",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/mark-meadows-worst-chief-of-staff-january-6-chris-whipple-2022-6",
-        "timestamp": 1656944078,
-        "sentiment": 2,
-        "published": "July 4, 2022 10:14 AM"
-    },
-    {
-        "title": "US Officials: 'Shot that killed American journalist likely fired by Israelis'",
-        "domain": "thehill.com",
-        "category": "worldnews",
-        "link": "https://thehill.com/homenews/ap/ap-international/us-shot-that-killed-journalist-likely-fired-from-israelis/",
-        "timestamp": 1656944905,
-        "sentiment": -4,
-        "published": "July 4, 2022 10:28 AM"
     },
     {
         "title": "St Andrew's to welcome host of Hollywood stars ahead of The Open Championship",
@@ -293,7 +248,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/jul/04/jayland-walker-shooting-body-cam-video-outrage",
         "timestamp": 1656945833,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 4, 2022 10:43 AM"
     },
     {
@@ -302,17 +257,8 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/right-wing-protestors-carry-out-short-lived-july-4-attack-on-dc-area-highways",
         "timestamp": 1656946045,
-        "sentiment": 2,
+        "sentiment": 6,
         "published": "July 4, 2022 10:47 AM"
-    },
-    {
-        "title": "Russia military deaths pass 36k as Putin's Ukraine gains exact heavy toll",
-        "domain": "newsweek.com",
-        "category": "worldnews",
-        "link": "https://www.newsweek.com/russia-military-deaths-36k-putin-ukraine-war-gains-luhansk-1721452",
-        "timestamp": 1656946327,
-        "sentiment": -4,
-        "published": "July 4, 2022 10:52 AM"
     },
     {
         "title": "How the bacteria on an all-sugar diet could bring the aviation industry closer to net-zero",
@@ -329,7 +275,7 @@
         "category": "technology",
         "link": "https://www.theguardian.com/technology/2022/jul/04/hacker-claims-access-data-billion-chinese-citizens",
         "timestamp": 1656947246,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 4, 2022 11:07 AM"
     },
     {
@@ -338,7 +284,7 @@
         "category": "science",
         "link": "https://www.psypost.org/2022/07/narcissistic-men-are-more-prone-to-premature-ejaculation-and-to-difficulty-reaching-orgasm-63442",
         "timestamp": 1656947849,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 4, 2022 11:17 AM"
     },
     {
@@ -356,7 +302,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-features/westworld-ed-harris-season-4-predicament-golf-scene-1235173606/",
         "timestamp": 1656948372,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 4, 2022 11:26 AM"
     },
     {
@@ -374,7 +320,7 @@
         "category": "worldnews",
         "link": "https://www.eurointegration.com.ua/eng/news/2022/07/4/7142525/",
         "timestamp": 1656949347,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "July 4, 2022 11:42 AM"
     },
     {
@@ -383,7 +329,7 @@
         "category": "politics",
         "link": "https://salon.com/2022/07/04/this-independence-day-we-are-less-free-than-the-year-before-we-must-work-together-for-liberty/",
         "timestamp": 1656949581,
-        "sentiment": 2,
+        "sentiment": 6,
         "published": "July 4, 2022 11:46 AM"
     },
     {
@@ -392,7 +338,7 @@
         "category": "florida",
         "link": "https://www.salon.com/2022/04/04/betsy-devos-is-back--and-her-family-is-flooding-florida-gov-ron-desantis-with-cash/",
         "timestamp": 1656949679,
-        "sentiment": -2,
+        "sentiment": 8,
         "published": "July 4, 2022 11:47 AM"
     },
     {
@@ -401,7 +347,7 @@
         "category": "news",
         "link": "https://www.nbcchicago.com/news/local/police-respond-to-incident-in-downtown-highland-park-urge-public-to-avoid-area/2872781/?amp",
         "timestamp": 1656950484,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 4, 2022 12:01 PM"
     },
     {
@@ -410,7 +356,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/akron-ohio-sets-downtown-curfew-cancels-fireworks-wake-jayland-walker-rcna36557",
         "timestamp": 1656950575,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 4, 2022 12:02 PM"
     },
     {
@@ -428,7 +374,7 @@
         "category": "politics",
         "link": "https://www.bostonglobe.com/2022/07/01/opinion/now-can-we-all-agree-that-jan-6-was-an-insurrection/",
         "timestamp": 1656950990,
-        "sentiment": 2,
+        "sentiment": 6,
         "published": "July 4, 2022 12:09 PM"
     },
     {
@@ -437,7 +383,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/senate/3545580-romney-trumps-return-would-likely-make-malady-of-denial-deceit-and-distrust-in-u-s-incurable/",
         "timestamp": 1656951171,
-        "sentiment": 2,
+        "sentiment": 6,
         "published": "July 4, 2022 12:12 PM"
     },
     {
@@ -446,7 +392,7 @@
         "category": "news",
         "link": "https://www.deadlinedetroit.com/articles/30847/education_is_like_the_plague_hillsdale_college_president_says_at_closed-door_event",
         "timestamp": 1656952230,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 4, 2022 12:30 PM"
     },
     {
@@ -464,8 +410,17 @@
         "category": "television",
         "link": "https://www.thewrap.com/stranger-things-season-5-finale-runtime/",
         "timestamp": 1656954364,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 4, 2022 1:06 PM"
+    },
+    {
+        "title": "Petition calling for Supreme Court’s Clarence Thomas to be impeached tops one million signatures",
+        "domain": "pinknews.co.uk",
+        "category": "politics",
+        "link": "https://www.pinknews.co.uk/2022/07/04/impeach-clarence-thomas-supreme-court-petition/",
+        "timestamp": 1656954684,
+        "sentiment": 6,
+        "published": "July 4, 2022 1:11 PM"
     },
     {
         "title": "A Former US Army Soldier Who Is Out Of Prison On Parole & Was Dishonorably Discharged & Convicted Of Murdering Iraqi Detainees Is Honored By A Florida Mayor With A Flag At Independence Day Celebration",
@@ -473,7 +428,7 @@
         "category": "florida",
         "link": "https://thespacecoastrocket.com/mayor-medina-fine-honor-dishonorably-discharged-convicted-war-criminal-out-on-parole-with-a-flag-at-independence-day-celebration/",
         "timestamp": 1656955012,
-        "sentiment": -2,
+        "sentiment": 8,
         "published": "July 4, 2022 1:16 PM"
     },
     {
@@ -482,7 +437,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/state-watch/3545611-missouri-state-rep-resigns-after-federal-conviction-for-covid-19-fraud-scheme/",
         "timestamp": 1656955216,
-        "sentiment": 2,
+        "sentiment": 6,
         "published": "July 4, 2022 1:20 PM"
     },
     {
@@ -509,15 +464,6 @@
         "category": "technology",
         "link": "https://www.theregister.com/2022/07/04/uk_us_border_biometric_data/",
         "timestamp": 1656956832,
-        "sentiment": -1,
-        "published": "July 4, 2022 1:47 PM"
-    },
-    {
-        "title": "Cinemas ban teens in suits after Minions mayhem",
-        "domain": "bbc.co.uk",
-        "category": "nottheonion",
-        "link": "https://www.bbc.co.uk/news/uk-61988793",
-        "timestamp": 1656956856,
         "sentiment": 0,
         "published": "July 4, 2022 1:47 PM"
     },
@@ -527,7 +473,7 @@
         "category": "news",
         "link": "https://www.wilx.com/2022/07/04/pro-choice-protestors-blocked-4th-july-parade-downtown-lansing/?outputType=amp",
         "timestamp": 1656957904,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 4, 2022 2:05 PM"
     },
     {
@@ -536,7 +482,7 @@
         "category": "worldnews",
         "link": "https://babel.ua/en/news/80969-wagner-pmc-is-recruiting-russian-prisoners-for-the-war-in-ukraine",
         "timestamp": 1656958197,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "July 4, 2022 2:09 PM"
     },
     {
@@ -563,7 +509,7 @@
         "category": "worldnews",
         "link": "https://www.scmp.com/news/world/russia-central-asia/article/3184109/rich-russians-should-foot-us750-billion-bill-rebuild?utm_source=rss_feed",
         "timestamp": 1656960143,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "July 4, 2022 2:42 PM"
     },
     {
@@ -572,7 +518,7 @@
         "category": "science",
         "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9225941/",
         "timestamp": 1656960144,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 4, 2022 2:42 PM"
     },
     {
@@ -581,7 +527,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/pope-compares-abortion-hit-man-1721444",
         "timestamp": 1656960517,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "July 4, 2022 2:48 PM"
     },
     {
@@ -590,7 +536,7 @@
         "category": "technology",
         "link": "https://www.theverge.com/2022/7/4/23194412/amazon-ebike-walking-delivery-london-hub",
         "timestamp": 1656960553,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 4, 2022 2:49 PM"
     },
     {
@@ -599,8 +545,17 @@
         "category": "technology",
         "link": "https://www.engadget.com/china-hack-data-billion-citizens-police-173052297.html",
         "timestamp": 1656961623,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 4, 2022 3:07 PM"
+    },
+    {
+        "title": "Two former White House aides say top Secret Service official defending Trump on Jan. 6 has history of lying",
+        "domain": "usatoday.com",
+        "category": "politics",
+        "link": "https://www.usatoday.com/story/news/politics/2022/07/03/two-former-white-house-aides-say-top-secret-service-official-may-lying-protect-trump/7796127001/?gnt-cfr=1",
+        "timestamp": 1656962996,
+        "sentiment": 6,
+        "published": "July 4, 2022 3:29 PM"
     },
     {
         "title": "New review of the immune system's circadian rhythm supports that morning vaccinations lead to improved responses",
@@ -608,7 +563,7 @@
         "category": "science",
         "link": "https://www.science.org/doi/abs/10.1126/sciimmunol.abm2465",
         "timestamp": 1656963687,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 4, 2022 3:41 PM"
     },
     {
@@ -617,7 +572,7 @@
         "category": "science",
         "link": "https://stri.si.edu/story/wanderlust",
         "timestamp": 1656963942,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 4, 2022 3:45 PM"
     },
     {
@@ -626,7 +581,7 @@
         "category": "television",
         "link": "https://tvline.com/lists/magnum-pi-when-will-season-5-premiere-on-nbc-time-slot/",
         "timestamp": 1656965198,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 4, 2022 4:06 PM"
     },
     {
@@ -639,13 +594,13 @@
         "published": "July 4, 2022 4:33 PM"
     },
     {
-        "title": "Kid Rock, who swears he's not homophobic, posts homophobic Fourth of July meme",
-        "domain": "consequence.net",
-        "category": "nottheonion",
-        "link": "https://consequence.net/2022/07/kid-rock-homophobic-meme/",
-        "timestamp": 1656966935,
-        "sentiment": 0,
-        "published": "July 4, 2022 4:35 PM"
+        "title": "Hours After Mass Shooting, GOP Candidate Says Time to ‘Move On’ and ‘Celebrate’",
+        "domain": "vice.com",
+        "category": "politics",
+        "link": "https://www.vice.com/en/article/v7vmwd/illinois-darren-bailey-highland-park-",
+        "timestamp": 1656967185,
+        "sentiment": 6,
+        "published": "July 4, 2022 4:39 PM"
     },
     {
         "title": "China uses ‘mind-reading AI’ to test loyalty of Communist Party members",
@@ -653,8 +608,26 @@
         "category": "technology",
         "link": "https://www.telegraph.co.uk/world-news/2022/07/04/china-uses-mind-reading-ai-test-loyalty-communist-party-members/",
         "timestamp": 1656967190,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 4, 2022 4:39 PM"
+    },
+    {
+        "title": "A swarm of Cruise robotaxis blocked San Francisco traffic for hours",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/cruise-driverless-taxis-blocked-san-francisco-traffic-for-hours-robotaxi-gm-204000451.html",
+        "timestamp": 1656967194,
+        "sentiment": 0,
+        "published": "July 4, 2022 4:39 PM"
+    },
+    {
+        "title": "Ukraine, Zelensky wish US a happy July 4th, release video of military band playing ‘Star-Spangled Banner’",
+        "domain": "thehill.com",
+        "category": "worldnews",
+        "link": "https://thehill.com/policy/international/3545795-ukraine-zelensky-wish-us-a-happy-july-4th-release-video-of-military-band-playing-star-spangled-banner/",
+        "timestamp": 1656967695,
+        "sentiment": -1,
+        "published": "July 4, 2022 4:48 PM"
     },
     {
         "title": "Spain and Portugal suffering driest climate for 1,200 years, research shows.",
@@ -662,7 +635,7 @@
         "category": "science",
         "link": "https://www.theguardian.com/environment/2022/jul/04/spain-and-portugal-suffering-driest-climate-for-1200-years-research-shows?CMP=share_btn_tw",
         "timestamp": 1656967998,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 4, 2022 4:53 PM"
     },
     {
@@ -671,8 +644,143 @@
         "category": "miami",
         "link": "https://docdro.id/s3OwS8u",
         "timestamp": 1656968181,
-        "sentiment": -2,
+        "sentiment": 10,
         "published": "July 4, 2022 4:56 PM"
+    },
+    {
+        "title": "Study indicates that thin influencers do not motivate healthy food choices among tweens",
+        "domain": "psypost.org",
+        "category": "science",
+        "link": "https://www.psypost.org/2022/07/study-indicates-that-thin-influencers-do-not-motivate-healthy-food-choices-among-tweens-63449",
+        "timestamp": 1656968804,
+        "sentiment": 0,
+        "published": "July 4, 2022 5:06 PM"
+    },
+    {
+        "title": "14 arrested after climate activists shut down all lanes of traffic on I-495 in Montgomery County, Maryland",
+        "domain": "fox5dc.com",
+        "category": "news",
+        "link": "https://www.fox5dc.com/news/14-arrested-after-climate-activists-shut-down-all-lanes-of-traffic-on-i-495-in-montgomery-county",
+        "timestamp": 1656969071,
+        "sentiment": 0,
+        "published": "July 4, 2022 5:11 PM"
+    },
+    {
+        "title": "Kelsey Grammer teases Frasier reboot: 'I cried reading the script'",
+        "domain": "radiotimes.com",
+        "category": "television",
+        "link": "https://www.radiotimes.com/tv/comedy/frasier-reboot-kelsey-grammer-script-newsupdate/",
+        "timestamp": 1656972028,
+        "sentiment": -2,
+        "published": "July 4, 2022 6:00 PM"
+    },
+    {
+        "title": "Businessman forced to sell house to pay abused staff",
+        "domain": "odt.co.nz",
+        "category": "UpliftingNews",
+        "link": "https://www.odt.co.nz/news/dunedin/crime/businessman-forced-sell-house-pay-abused-staff",
+        "timestamp": 1656972683,
+        "sentiment": 0,
+        "published": "July 4, 2022 6:11 PM"
+    },
+    {
+        "title": "'Terrified' Griner appeals to Biden for her freedom",
+        "domain": "espn.com",
+        "category": "sports",
+        "link": "https://www.espn.com/wnba/story/_/id/34193867/wnba-star-brittney-griner-makes-direct-appeal-president-biden-freedom-asks-letter-please-forget-me?linkId=171905743",
+        "timestamp": 1656972706,
+        "sentiment": 2,
+        "published": "July 4, 2022 6:11 PM"
+    },
+    {
+        "title": "Channel 10’s new breakfast show records 44 Sydney viewers in dismal debut",
+        "domain": "news.com.au",
+        "category": "nottheonion",
+        "link": "https://www.news.com.au/entertainment/tv/morning-shows/channel-10s-new-breakfast-show-records-44-sydney-viewers-in-dismal-debut/news-story/9062e152f6a6ac7553b8a9f025fd094a",
+        "timestamp": 1656974366,
+        "sentiment": 0,
+        "published": "July 4, 2022 6:39 PM"
+    },
+    {
+        "title": "Impeach Clarence Thomas petition hits 1M signatures: \"Justice is needed\"",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/impeach-clarence-thomas-petition-hits-1m-signatures-1721317?utm_medium=Social&utm_source=Twitter#Echobox=1656917750-1",
+        "timestamp": 1656918287,
+        "sentiment": 2,
+        "published": "July 4, 2022 3:04 AM"
+    },
+    {
+        "title": "South Dakota governor defends state's abortion 'trigger' ban when asked if 10-year-old should be forced to give birth",
+        "domain": "edition.cnn.com",
+        "category": "politics",
+        "link": "https://edition.cnn.com/2022/07/03/politics/kristi-noem-south-dakota-abortion-trigger-ban/index.html",
+        "timestamp": 1656935771,
+        "sentiment": 2,
+        "published": "July 4, 2022 7:56 AM"
+    },
+    {
+        "title": "Is your smartphone ruining your memory? A special report on the rise of ‘digital amnesia’",
+        "domain": "theguardian.com",
+        "category": "technology",
+        "link": "https://www.theguardian.com/global/2022/jul/03/is-your-smartphone-ruining-your-memory-the-rise-of-digital-amenesia",
+        "timestamp": 1656938947,
+        "sentiment": -1,
+        "published": "July 4, 2022 8:49 AM"
+    },
+    {
+        "title": "A synthetic cannabinoid (JWH-108) induces more pronounced dissociative effects than natural cannabis, whereas both drugs equally impair cognitive functioning- suggests a new placebo-controlled study in healthy volunteers.",
+        "domain": "frontiersin.org",
+        "category": "science",
+        "link": "https://www.frontiersin.org/articles/10.3389/fpsyt.2022.891811/full",
+        "timestamp": 1656939596,
+        "sentiment": 1,
+        "published": "July 4, 2022 8:59 AM"
+    },
+    {
+        "title": "Expert on White House chiefs of staff says Mark Meadows 'absolutely owns' the title of 'worst' chief in history after ex-aide's damning testimony",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/mark-meadows-worst-chief-of-staff-january-6-chris-whipple-2022-6",
+        "timestamp": 1656944078,
+        "sentiment": 2,
+        "published": "July 4, 2022 10:14 AM"
+    },
+    {
+        "title": "US Officials: 'Shot that killed American journalist likely fired by Israelis'",
+        "domain": "thehill.com",
+        "category": "worldnews",
+        "link": "https://thehill.com/homenews/ap/ap-international/us-shot-that-killed-journalist-likely-fired-from-israelis/",
+        "timestamp": 1656944905,
+        "sentiment": -4,
+        "published": "July 4, 2022 10:28 AM"
+    },
+    {
+        "title": "Russia military deaths pass 36k as Putin's Ukraine gains exact heavy toll",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/russia-military-deaths-36k-putin-ukraine-war-gains-luhansk-1721452",
+        "timestamp": 1656946327,
+        "sentiment": -4,
+        "published": "July 4, 2022 10:52 AM"
+    },
+    {
+        "title": "Cinemas ban teens in suits after Minions mayhem",
+        "domain": "bbc.co.uk",
+        "category": "nottheonion",
+        "link": "https://www.bbc.co.uk/news/uk-61988793",
+        "timestamp": 1656956856,
+        "sentiment": 0,
+        "published": "July 4, 2022 1:47 PM"
+    },
+    {
+        "title": "Kid Rock, who swears he's not homophobic, posts homophobic Fourth of July meme",
+        "domain": "consequence.net",
+        "category": "nottheonion",
+        "link": "https://consequence.net/2022/07/kid-rock-homophobic-meme/",
+        "timestamp": 1656966935,
+        "sentiment": 0,
+        "published": "July 4, 2022 4:35 PM"
     },
     {
         "title": "Chinese real-estate developers are accepting wheat, garlic, and peaches as down payments for properties as the market slumps and bond defaults mount",
@@ -700,15 +808,6 @@
         "timestamp": 1656938670,
         "sentiment": 1,
         "published": "July 4, 2022 8:44 AM"
-    },
-    {
-        "title": "Ukrainian flag raised over Snake Island after Russian retreat",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/jul/04/ukrainian-flag-raised-over-snake-island-after-russian-retreat",
-        "timestamp": 1656940032,
-        "sentiment": -1,
-        "published": "July 4, 2022 9:07 AM"
     },
     {
         "title": "Kitten rescued from Walmart vending machine",
