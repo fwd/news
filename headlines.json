@@ -5,7 +5,7 @@
         "category": "science",
         "link": "https://www.clinicalnutritionjournal.com/article/S0261-5614(22)00181-9/fulltext",
         "timestamp": 1656908212,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 4, 2022 12:16 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "science",
         "link": "https://www.mpg.de/18884791/sanitizer-in-the-galactic-centre-region",
         "timestamp": 1656929248,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 4, 2022 6:07 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "science",
         "link": "http://www.sci-news.com/biology/well-digging-chimpanzees-10947.html",
         "timestamp": 1656929715,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 4, 2022 6:15 AM"
     },
     {
@@ -126,15 +126,6 @@
         "published": "July 4, 2022 7:09 AM"
     },
     {
-        "title": "Ukraine flag raised again on Snake Island, military says",
-        "domain": "msn.com",
-        "category": "worldnews",
-        "link": "https://www.msn.com/en-us/news/world/ukraine-flag-raised-again-on-snake-island-military-says/ar-AAZb1h2?ocid=EMMX&cvid=8b9ec57889b24b0eace8fbd66c050b7d",
-        "timestamp": 1656933255,
-        "sentiment": -1,
-        "published": "July 4, 2022 7:14 AM"
-    },
-    {
         "title": "Eiffel Tower riddled with rust and in need of repair. leaked reports say",
         "domain": "theguardian.com",
         "category": "worldnews",
@@ -158,7 +149,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/nexta_tv/status/1543885315915628545?s=21",
         "timestamp": 1656936275,
-        "sentiment": 3,
+        "sentiment": -4,
         "published": "July 4, 2022 8:04 AM"
     },
     {
@@ -185,7 +176,7 @@
         "category": "science",
         "link": "https://theconversation.com/kids-neighborhoods-can-affect-their-developing-brains-a-new-study-finds-184035",
         "timestamp": 1656936745,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 4, 2022 8:12 AM"
     },
     {
@@ -194,7 +185,7 @@
         "category": "UpliftingNews",
         "link": "https://www.euronews.com/green/2022/06/30/enormous-water-battery-in-switzerland-will-help-prevent-power-shortages",
         "timestamp": 1656936844,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 4, 2022 8:14 AM"
     },
     {
@@ -261,12 +252,21 @@
         "published": "July 4, 2022 8:53 AM"
     },
     {
+        "title": "Wimbledon appealing WTA fine over Russia ban.",
+        "domain": "espn.com",
+        "category": "sports",
+        "link": "https://www.espn.com/tennis/story/_/id/34192599/wimbledon-appealing-fine-wta-russia-ban",
+        "timestamp": 1656939345,
+        "sentiment": 2,
+        "published": "July 4, 2022 8:55 AM"
+    },
+    {
         "title": "A synthetic cannabinoid (JWH-108) induces more pronounced dissociative effects than natural cannabis, whereas both drugs equally impair cognitive functioning- suggests a new placebo-controlled study in healthy volunteers.",
         "domain": "frontiersin.org",
         "category": "science",
         "link": "https://www.frontiersin.org/articles/10.3389/fpsyt.2022.891811/full",
         "timestamp": 1656939596,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 4, 2022 8:59 AM"
     },
     {
@@ -277,15 +277,6 @@
         "timestamp": 1656940032,
         "sentiment": -1,
         "published": "July 4, 2022 9:07 AM"
-    },
-    {
-        "title": "From Rep. Marjorie Taylor Greene to Sen. Tommy Tuberville, meet the Republican lawmakers heavily invested in companies that will pay for employees to get out-of-state abortions",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/abortion-republicans-corporations-companies-travel-payments-congress-2022-7?utm_source=feedly&utm_medium=webfeeds",
-        "timestamp": 1656940780,
-        "sentiment": 1,
-        "published": "July 4, 2022 9:19 AM"
     },
     {
         "title": "Andor: Tony Gilroy Explains Star Wars’ Rogue One Prequel Series’ Epic Five-Year Structure – Exclusive Image",
@@ -324,6 +315,15 @@
         "published": "July 4, 2022 10:28 AM"
     },
     {
+        "title": "St Andrew's to welcome host of Hollywood stars ahead of The Open Championship",
+        "domain": "scottishdailyexpress.co.uk",
+        "category": "sports",
+        "link": "https://www.scottishdailyexpress.co.uk/news/scottish-news/st-andrews-set-welcome-host-27395285",
+        "timestamp": 1656945429,
+        "sentiment": 2,
+        "published": "July 4, 2022 10:37 AM"
+    },
+    {
         "title": "Outrage after video of police fatally shooting Jayland Walker released",
         "domain": "theguardian.com",
         "category": "news",
@@ -356,7 +356,7 @@
         "category": "UpliftingNews",
         "link": "https://www.euronews.com/green/2022/07/04/how-the-bacteria-on-an-all-sugar-diet-could-bring-the-aviation-industry-closer-to-net-zero",
         "timestamp": 1656946741,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 4, 2022 10:59 AM"
     },
     {
@@ -383,7 +383,7 @@
         "category": "science",
         "link": "https://www.psypost.org/2022/07/narcissistic-men-are-more-prone-to-premature-ejaculation-and-to-difficulty-reaching-orgasm-63442",
         "timestamp": 1656947849,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 4, 2022 11:17 AM"
     },
     {
@@ -392,7 +392,7 @@
         "category": "UpliftingNews",
         "link": "https://www.euronews.com/next/2022/07/04/amazon-launches-cargo-bike-and-on-foot-deliveries-in-london-to-cut-carbon-emissions",
         "timestamp": 1656947937,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 4, 2022 11:18 AM"
     },
     {
@@ -441,15 +441,6 @@
         "published": "July 4, 2022 11:47 AM"
     },
     {
-        "title": "$300,000 raised for Burger King employee who never missed work in 27 years and got mediocre gift",
-        "domain": "marketwatch.com",
-        "category": "UpliftingNews",
-        "link": "https://www.marketwatch.com/story/300-000-raised-for-burger-king-employee-who-never-missed-work-in-27-years-and-got-mediocre-gift-11656916534",
-        "timestamp": 1656949706,
-        "sentiment": 1,
-        "published": "July 4, 2022 11:48 AM"
-    },
-    {
         "title": "Police Respond to ‘Incident' in Downtown Highland Park, Urge Public to Avoid Area",
         "domain": "nbcchicago.com",
         "category": "news",
@@ -473,7 +464,7 @@
         "category": "UpliftingNews",
         "link": "https://www.cnn.com/2022/07/04/health/tiktok-medical-professionals-abortion-assistance/index.html",
         "timestamp": 1656950655,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 4, 2022 12:04 PM"
     },
     {
@@ -484,6 +475,15 @@
         "timestamp": 1656950990,
         "sentiment": 1,
         "published": "July 4, 2022 12:09 PM"
+    },
+    {
+        "title": "Romney: Trump’s return would likely make ‘malady of denial, deceit and distrust’ in U.S. ‘incurable’",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/senate/3545580-romney-trumps-return-would-likely-make-malady-of-denial-deceit-and-distrust-in-u-s-incurable/",
+        "timestamp": 1656951171,
+        "sentiment": 1,
+        "published": "July 4, 2022 12:12 PM"
     },
     {
         "title": "Education 'is like the plague,' Hillsdale College president says at closed-door event",
@@ -518,7 +518,7 @@
         "category": "sports",
         "link": "https://toronto.ctvnews.ca/daughter-of-toronto-blue-jays-coach-killed-in-terrible-accident-while-tubing-in-u-s-1.5973459",
         "timestamp": 1656955506,
-        "sentiment": -3,
+        "sentiment": 2,
         "published": "July 4, 2022 1:25 PM"
     },
     {
@@ -536,7 +536,7 @@
         "category": "UpliftingNews",
         "link": "https://www.reuters.com/business/environment/after-40-years-extinction-rhinos-return-mozambique-2022-07-04/",
         "timestamp": 1656956741,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 4, 2022 1:45 PM"
     },
     {
@@ -599,7 +599,7 @@
         "category": "UpliftingNews",
         "link": "https://www.speciesunite.com/news-stories/petition-update-tanzania-bans-the-slaughter-of-donkeys-for-their-skins",
         "timestamp": 1656959768,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 4, 2022 2:36 PM"
     },
     {
@@ -608,8 +608,80 @@
         "category": "science",
         "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9225941/",
         "timestamp": 1656960144,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 4, 2022 2:42 PM"
+    },
+    {
+        "title": "Pope Francis describes abortion as like 'hiring a hit man'",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/pope-compares-abortion-hit-man-1721444",
+        "timestamp": 1656960517,
+        "sentiment": -1,
+        "published": "July 4, 2022 2:48 PM"
+    },
+    {
+        "title": "Amazon is using electric cargo bikes that look like mini-trucks to make deliveries in the UK",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2022/7/4/23194412/amazon-ebike-walking-delivery-london-hub",
+        "timestamp": 1656960553,
+        "sentiment": 0,
+        "published": "July 4, 2022 2:49 PM"
+    },
+    {
+        "title": "Hacker claims they stole police data on a billion Chinese citizens",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/china-hack-data-billion-citizens-police-173052297.html",
+        "timestamp": 1656961623,
+        "sentiment": 0,
+        "published": "July 4, 2022 3:07 PM"
+    },
+    {
+        "title": "New review of the immune system's circadian rhythm supports that morning vaccinations lead to improved responses",
+        "domain": "science.org",
+        "category": "science",
+        "link": "https://www.science.org/doi/abs/10.1126/sciimmunol.abm2465",
+        "timestamp": 1656963687,
+        "sentiment": 0,
+        "published": "July 4, 2022 3:41 PM"
+    },
+    {
+        "title": "Movement, Behavior, and Habitat Use of Whale Sharks (Rhincodon typus) in the Tropical Eastern Pacific Ocean",
+        "domain": "stri.si.edu",
+        "category": "science",
+        "link": "https://stri.si.edu/story/wanderlust",
+        "timestamp": 1656963942,
+        "sentiment": 0,
+        "published": "July 4, 2022 3:45 PM"
+    },
+    {
+        "title": "Ukraine flag raised again on Snake Island, military says",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-us/news/world/ukraine-flag-raised-again-on-snake-island-military-says/ar-AAZb1h2?ocid=EMMX&cvid=8b9ec57889b24b0eace8fbd66c050b7d",
+        "timestamp": 1656933255,
+        "sentiment": -1,
+        "published": "July 4, 2022 7:14 AM"
+    },
+    {
+        "title": "From Rep. Marjorie Taylor Greene to Sen. Tommy Tuberville, meet the Republican lawmakers heavily invested in companies that will pay for employees to get out-of-state abortions",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/abortion-republicans-corporations-companies-travel-payments-congress-2022-7?utm_source=feedly&utm_medium=webfeeds",
+        "timestamp": 1656940780,
+        "sentiment": 1,
+        "published": "July 4, 2022 9:19 AM"
+    },
+    {
+        "title": "$300,000 raised for Burger King employee who never missed work in 27 years and got mediocre gift",
+        "domain": "marketwatch.com",
+        "category": "UpliftingNews",
+        "link": "https://www.marketwatch.com/story/300-000-raised-for-burger-king-employee-who-never-missed-work-in-27-years-and-got-mediocre-gift-11656916534",
+        "timestamp": 1656949706,
+        "sentiment": 1,
+        "published": "July 4, 2022 11:48 AM"
     },
     {
         "title": "'Impeach Justice Clarence Thomas' Petition Nears 1 Million Signatures| \"He has shown he cannot be an impartial justice and is more concerned with covering up his wife's coup attempts than the health of the Supreme Court,\" reads the petition.",
@@ -666,15 +738,6 @@
         "published": "July 4, 2022 8:24 AM"
     },
     {
-        "title": "Wimbledon appealing WTA fine over Russia ban.",
-        "domain": "espn.com",
-        "category": "sports",
-        "link": "https://www.espn.com/tennis/story/_/id/34192599/wimbledon-appealing-fine-wta-russia-ban",
-        "timestamp": 1656939345,
-        "sentiment": 2,
-        "published": "July 4, 2022 8:55 AM"
-    },
-    {
         "title": "U.S. concludes Israeli fire killed Palestinian American journalist",
         "domain": "washingtonpost.com",
         "category": "news",
@@ -700,15 +763,6 @@
         "timestamp": 1656919813,
         "sentiment": -1,
         "published": "July 4, 2022 3:30 AM"
-    },
-    {
-        "title": "St Andrew's to welcome host of Hollywood stars ahead of The Open Championship",
-        "domain": "scottishdailyexpress.co.uk",
-        "category": "sports",
-        "link": "https://www.scottishdailyexpress.co.uk/news/scottish-news/st-andrews-set-welcome-host-27395285",
-        "timestamp": 1656945429,
-        "sentiment": 4,
-        "published": "July 4, 2022 10:37 AM"
     },
     {
         "title": "Cinemas Are Banning Formal Wear for ‘Minions the Rise of Gru’ Screenings",
