@@ -1,5 +1,32 @@
 [
     {
+        "title": "Based on the results from this study, we hypothesized that a high-protein diet coupled with low carbohydrate intake would be beneficiary for prevention of bone loss in adults.",
+        "domain": "clinicalnutritionjournal.com",
+        "category": "science",
+        "link": "https://www.clinicalnutritionjournal.com/article/S0261-5614(22)00181-9/fulltext",
+        "timestamp": 1656908212,
+        "sentiment": 0,
+        "published": "July 4, 2022 12:16 AM"
+    },
+    {
+        "title": "Apple Watch Series 8 will reportedly be able to detect if you have a fever",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2022/7/3/23193443/apple-watch-series-8-detect-fever-body-temperature-sensor-rumors",
+        "timestamp": 1656908986,
+        "sentiment": -2,
+        "published": "July 4, 2022 12:29 AM"
+    },
+    {
+        "title": "'Love is Halal': Berlin Mosque Becomes the First to Raise LGBTQ+ Flag",
+        "domain": "albawaba.com",
+        "category": "UpliftingNews",
+        "link": "https://www.albawaba.com/node/love-halal-berlin-mosque-becomes-first-raise-lgbtq-flag-1482830",
+        "timestamp": 1656912429,
+        "sentiment": 3,
+        "published": "July 4, 2022 1:27 AM"
+    },
+    {
         "title": "UPS driver, 24, collapses and dies while delivering packages in SoCal heat",
         "domain": "abc7.com",
         "category": "news",
@@ -376,15 +403,6 @@
         "timestamp": 1656869018,
         "sentiment": -3,
         "published": "July 3, 2022 1:23 PM"
-    },
-    {
-        "title": "'Love is Halal': Berlin Mosque Becomes the First to Raise LGBTQ+ Flag",
-        "domain": "albawaba.com",
-        "category": "worldnews",
-        "link": "https://www.albawaba.com/node/love-halal-berlin-mosque-becomes-first-raise-lgbtq-flag-1482830",
-        "timestamp": 1656869559,
-        "sentiment": -2,
-        "published": "July 3, 2022 1:32 PM"
     },
     {
         "title": "How \"Gravity Falls\" (and its creators) changed animated television for the better",
