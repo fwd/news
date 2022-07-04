@@ -5,7 +5,7 @@
         "category": "science",
         "link": "https://www.clinicalnutritionjournal.com/article/S0261-5614(22)00181-9/fulltext",
         "timestamp": 1656908212,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 4, 2022 12:16 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "technology",
         "link": "https://www.theverge.com/2022/7/3/23193443/apple-watch-series-8-detect-fever-body-temperature-sensor-rumors",
         "timestamp": 1656908986,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 4, 2022 12:29 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "technology",
         "link": "https://finance.yahoo.com/news/chip-makers-refusing-build-semiconductor-061349212.html",
         "timestamp": 1656914637,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 4, 2022 2:03 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "science",
         "link": "https://www.frontiersin.org/articles/10.3389/fpls.2022.883151/full",
         "timestamp": 1656915566,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 4, 2022 2:19 AM"
     },
     {
@@ -50,8 +50,26 @@
         "category": "news",
         "link": "https://www.theguardian.com/media/2022/jul/04/fox-oan-newsmax-lawsuits-election-fraud-claims",
         "timestamp": 1656921586,
-        "sentiment": 0,
+        "sentiment": -7,
         "published": "July 4, 2022 3:59 AM"
+    },
+    {
+        "title": "California governor pardons woman sentenced to life as a teen in 90s for fatally shooting abuser",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/07/03/us/california-sara-kruzan-pardon-shooting-abuser/index.html",
+        "timestamp": 1656922519,
+        "sentiment": -7,
+        "published": "July 4, 2022 4:15 AM"
+    },
+    {
+        "title": "Newsom running ads attacking GOP in Florida: ‘Don’t let them take your freedom’",
+        "domain": "thehill.com",
+        "category": "florida",
+        "link": "https://thehill.com/homenews/state-watch/3545351-newsom-running-ads-attacking-gop-in-florida-dont-let-them-take-your-freedom/",
+        "timestamp": 1656924384,
+        "sentiment": 0,
+        "published": "July 4, 2022 4:46 AM"
     },
     {
         "title": "Berlin mosque flies rainbow flag in support of LGBTQ community",
@@ -61,6 +79,15 @@
         "timestamp": 1656925257,
         "sentiment": 3,
         "published": "July 4, 2022 5:00 AM"
+    },
+    {
+        "title": "Forest-Living East African Chimpanzees are Digging Wells for Cleaner Water. Digging wells to access or filter drinking water is a relatively rare behavior in the animal kingdom — only a handful of species have been documented to do so. This is the 1st report of habitual well-digging among chimpanzee",
+        "domain": "sci-news.com",
+        "category": "science",
+        "link": "http://www.sci-news.com/biology/well-digging-chimpanzees-10947.html",
+        "timestamp": 1656929715,
+        "sentiment": 2,
+        "published": "July 4, 2022 6:15 AM"
     },
     {
         "title": "'Love is Halal': Berlin Mosque Becomes the First to Raise LGBTQ+ Flag",
