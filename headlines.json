@@ -5,7 +5,7 @@
         "category": "science",
         "link": "https://www.clinicalnutritionjournal.com/article/S0261-5614(22)00181-9/fulltext",
         "timestamp": 1656908212,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 4, 2022 12:16 AM"
     },
     {
@@ -27,6 +27,15 @@
         "published": "July 4, 2022 1:27 AM"
     },
     {
+        "title": "Chip makers are refusing to build new semiconductor plants in the U.S. unless Congress unlocks $52 billion in funding",
+        "domain": "finance.yahoo.com",
+        "category": "technology",
+        "link": "https://finance.yahoo.com/news/chip-makers-refusing-build-semiconductor-061349212.html",
+        "timestamp": 1656914637,
+        "sentiment": -2,
+        "published": "July 4, 2022 2:03 AM"
+    },
+    {
         "title": "A Michigan police chief has apologized after it emerged that the department used images of Black men during target practice",
         "domain": "cnn.com",
         "category": "nottheonion",
@@ -34,6 +43,33 @@
         "timestamp": 1656915267,
         "sentiment": 0,
         "published": "July 4, 2022 2:14 AM"
+    },
+    {
+        "title": "Newly identified species is the world’s largest known giant water lily: Almost 180 years after specimens were first brought from Bolivia to the UK, a giant water lily has been confirmed as a distinct species",
+        "domain": "frontiersin.org",
+        "category": "science",
+        "link": "https://www.frontiersin.org/articles/10.3389/fpls.2022.883151/full",
+        "timestamp": 1656915566,
+        "sentiment": -1,
+        "published": "July 4, 2022 2:19 AM"
+    },
+    {
+        "title": "Call to tighten New Zealand law that allows public pooing if no one watching",
+        "domain": "theguardian.com",
+        "category": "nottheonion",
+        "link": "https://www.theguardian.com/world/2022/jul/04/call-to-tighten-new-zealand-law-that-allows-public-pooping-if-no-one-watching",
+        "timestamp": 1656917208,
+        "sentiment": 0,
+        "published": "July 4, 2022 2:46 AM"
+    },
+    {
+        "title": "“How many times do we have to see these same type situations. Always the same color doing the shooting, and the same color dying… RIP Jayland Walker.” Jamal Crawford on Twitter",
+        "domain": "twitter.com",
+        "category": "sports",
+        "link": "https://twitter.com/JCrossover/status/1542882704315666434?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1542882704315666434%7Ctwgr%5E%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fd-34881126013834822308.ampproject.net%2F2206101637000%2Fframe.html",
+        "timestamp": 1656920458,
+        "sentiment": 0,
+        "published": "July 4, 2022 3:40 AM"
     },
     {
         "title": "The \"Gas Leak\" That Forced The Evacuation Of The German Post Office Was Actually a Shipment Of The Stenchiest Fruit",
