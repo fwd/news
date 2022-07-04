@@ -5,7 +5,7 @@
         "category": "science",
         "link": "https://www.clinicalnutritionjournal.com/article/S0261-5614(22)00181-9/fulltext",
         "timestamp": 1656908212,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "July 4, 2022 12:16 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/media/2022/jul/04/fox-oan-newsmax-lawsuits-election-fraud-claims",
         "timestamp": 1656921586,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "July 4, 2022 3:59 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/03/us/california-sara-kruzan-pardon-shooting-abuser/index.html",
         "timestamp": 1656922519,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "July 4, 2022 4:15 AM"
     },
     {
@@ -68,17 +68,8 @@
         "category": "florida",
         "link": "https://thehill.com/homenews/state-watch/3545351-newsom-running-ads-attacking-gop-in-florida-dont-let-them-take-your-freedom/",
         "timestamp": 1656924384,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 4, 2022 4:46 AM"
-    },
-    {
-        "title": "'Impeach Justice Clarence Thomas' Petition Nears 1 Million Signatures| \"He has shown he cannot be an impartial justice and is more concerned with covering up his wife's coup attempts than the health of the Supreme Court,\" reads the petition.",
-        "domain": "commondreams.org",
-        "category": "politics",
-        "link": "https://www.commondreams.org/news/2022/07/03/impeach-justice-clarence-thomas-petition-nears-1-million-signatures",
-        "timestamp": 1656927643,
-        "sentiment": 1,
-        "published": "July 4, 2022 5:40 AM"
     },
     {
         "title": "Astronomers have detected the alcohol molecule in interstellar space for the first time, in the form of propanol isomers -- normal-propanol (which has been detected in a star-forming region) & iso-propanol (the key ingredient in hand sanitizer).",
@@ -86,7 +77,7 @@
         "category": "science",
         "link": "https://www.mpg.de/18884791/sanitizer-in-the-galactic-centre-region",
         "timestamp": 1656929248,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "July 4, 2022 6:07 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.yahoo.com/finance/news/chinese-real-estate-developers-accepting-072814280.html",
         "timestamp": 1656929613,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "July 4, 2022 6:13 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "science",
         "link": "http://www.sci-news.com/biology/well-digging-chimpanzees-10947.html",
         "timestamp": 1656929715,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "July 4, 2022 6:15 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.euractiv.com/section/politics/short_news/bulgarian-secret-services-russia-pays-public-figures-to-spread-propaganda/",
         "timestamp": 1656929853,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "July 4, 2022 6:17 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/global/hbo-max-europe-originals-development-1235308730/",
         "timestamp": 1656932462,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 4, 2022 7:01 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/ukraine-flag-raised-again-on-snake-island-military-says/ar-AAZb1h2?ocid=EMMX&cvid=8b9ec57889b24b0eace8fbd66c050b7d",
         "timestamp": 1656933255,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "July 4, 2022 7:14 AM"
     },
     {
@@ -149,7 +140,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jul/04/eiffel-tower-riddled-with-rust-and-in-need-of-repair-leaked-reports-say",
         "timestamp": 1656935595,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "July 4, 2022 7:53 AM"
     },
     {
@@ -167,7 +158,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/nexta_tv/status/1543885315915628545?s=21",
         "timestamp": 1656936275,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 4, 2022 8:04 AM"
     },
     {
@@ -176,7 +167,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jul/04/russian-cosmonauts-display-flag-of-occupied-luhansk-region-on-iss-ukraine",
         "timestamp": 1656936355,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "July 4, 2022 8:05 AM"
     },
     {
@@ -194,7 +185,7 @@
         "category": "science",
         "link": "https://theconversation.com/kids-neighborhoods-can-affect-their-developing-brains-a-new-study-finds-184035",
         "timestamp": 1656936745,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "July 4, 2022 8:12 AM"
     },
     {
@@ -203,7 +194,7 @@
         "category": "UpliftingNews",
         "link": "https://www.euronews.com/green/2022/06/30/enormous-water-battery-in-switzerland-will-help-prevent-power-shortages",
         "timestamp": 1656936844,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 4, 2022 8:14 AM"
     },
     {
@@ -221,7 +212,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/International/wireStory/colognes-pride-parade-draws-upwards-million-germany-86151653",
         "timestamp": 1656937794,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "July 4, 2022 8:29 AM"
     },
     {
@@ -230,7 +221,7 @@
         "category": "news",
         "link": "https://www.standard.co.uk/news/world/amber-heard-libel-trial-appeal-johnny-depp-fairfax-jury-domestic-violence-washington-post-b1009994.html",
         "timestamp": 1656938018,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "July 4, 2022 8:33 AM"
     },
     {
@@ -239,7 +230,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/hamburg-russia-energy-natural-gas-ration-hot-water-putin-war-2022-7",
         "timestamp": 1656938141,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "July 4, 2022 8:35 AM"
     },
     {
@@ -275,8 +266,17 @@
         "category": "science",
         "link": "https://www.frontiersin.org/articles/10.3389/fpsyt.2022.891811/full",
         "timestamp": 1656939596,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "July 4, 2022 8:59 AM"
+    },
+    {
+        "title": "Ukrainian flag raised over Snake Island after Russian retreat",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jul/04/ukrainian-flag-raised-over-snake-island-after-russian-retreat",
+        "timestamp": 1656940032,
+        "sentiment": -1,
+        "published": "July 4, 2022 9:07 AM"
     },
     {
         "title": "From Rep. Marjorie Taylor Greene to Sen. Tommy Tuberville, meet the Republican lawmakers heavily invested in companies that will pay for employees to get out-of-state abortions",
@@ -293,7 +293,7 @@
         "category": "television",
         "link": "https://www.empireonline.com/tv/news/andor-tony-gilroy-explains-star-wars-rogue-one-prequel-structure-exclusive/",
         "timestamp": 1656940877,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 4, 2022 9:21 AM"
     },
     {
@@ -302,15 +302,6 @@
         "category": "politics",
         "link": "https://www.kvue.com/mobile/article/news/local/texas/texan-woman-drives-new-mexico-abortion-senate-bill-8/269-4f1502ed-8f83-4142-85d9-acfc778189ac",
         "timestamp": 1656943686,
-        "sentiment": 1,
-        "published": "July 4, 2022 10:08 AM"
-    },
-    {
-        "title": "The Large Hadron Collider Is About to Ramp Up to 13.6 Trillion Electronvolts",
-        "domain": "frontstory.io",
-        "category": "worldnews",
-        "link": "https://frontstory.io/the-large-hadron-collider-is-about-to-ramp-up-to-13-6-trillion-electronvolts/",
-        "timestamp": 1656943708,
         "sentiment": 1,
         "published": "July 4, 2022 10:08 AM"
     },
@@ -329,7 +320,7 @@
         "category": "worldnews",
         "link": "https://thehill.com/homenews/ap/ap-international/us-shot-that-killed-journalist-likely-fired-from-israelis/",
         "timestamp": 1656944905,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "July 4, 2022 10:28 AM"
     },
     {
@@ -338,7 +329,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/jul/04/jayland-walker-shooting-body-cam-video-outrage",
         "timestamp": 1656945833,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "July 4, 2022 10:43 AM"
     },
     {
@@ -356,7 +347,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/russia-military-deaths-36k-putin-ukraine-war-gains-luhansk-1721452",
         "timestamp": 1656946327,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "July 4, 2022 10:52 AM"
     },
     {
@@ -365,7 +356,7 @@
         "category": "UpliftingNews",
         "link": "https://www.euronews.com/green/2022/07/04/how-the-bacteria-on-an-all-sugar-diet-could-bring-the-aviation-industry-closer-to-net-zero",
         "timestamp": 1656946741,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 4, 2022 10:59 AM"
     },
     {
@@ -392,7 +383,7 @@
         "category": "science",
         "link": "https://www.psypost.org/2022/07/narcissistic-men-are-more-prone-to-premature-ejaculation-and-to-difficulty-reaching-orgasm-63442",
         "timestamp": 1656947849,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "July 4, 2022 11:17 AM"
     },
     {
@@ -401,7 +392,7 @@
         "category": "UpliftingNews",
         "link": "https://www.euronews.com/next/2022/07/04/amazon-launches-cargo-bike-and-on-foot-deliveries-in-london-to-cut-carbon-emissions",
         "timestamp": 1656947937,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 4, 2022 11:18 AM"
     },
     {
@@ -410,17 +401,8 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-features/westworld-ed-harris-season-4-predicament-golf-scene-1235173606/",
         "timestamp": 1656948372,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 4, 2022 11:26 AM"
-    },
-    {
-        "title": "Native American exhibit at the Met Museum explores the politics of water : NPR",
-        "domain": "npr.org",
-        "category": "nottheonion",
-        "link": "https://www.npr.org/2022/07/04/1109044833/a-provocative-exhibit-at-nycs-met-museum-takes-a-new-point-of-view",
-        "timestamp": 1656949150,
-        "sentiment": 0,
-        "published": "July 4, 2022 11:39 AM"
     },
     {
         "title": "Revolutionary Precedent: Canada Allows Confiscation of Russian Assets for Rebuilding Ukraine",
@@ -428,7 +410,7 @@
         "category": "worldnews",
         "link": "https://www.eurointegration.com.ua/eng/news/2022/07/4/7142525/",
         "timestamp": 1656949347,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "July 4, 2022 11:42 AM"
     },
     {
@@ -455,7 +437,7 @@
         "category": "florida",
         "link": "https://www.salon.com/2022/04/04/betsy-devos-is-back--and-her-family-is-flooding-florida-gov-ron-desantis-with-cash/",
         "timestamp": 1656949679,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 4, 2022 11:47 AM"
     },
     {
@@ -464,7 +446,7 @@
         "category": "UpliftingNews",
         "link": "https://www.marketwatch.com/story/300-000-raised-for-burger-king-employee-who-never-missed-work-in-27-years-and-got-mediocre-gift-11656916534",
         "timestamp": 1656949706,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 4, 2022 11:48 AM"
     },
     {
@@ -473,7 +455,7 @@
         "category": "news",
         "link": "https://www.nbcchicago.com/news/local/police-respond-to-incident-in-downtown-highland-park-urge-public-to-avoid-area/2872781/?amp",
         "timestamp": 1656950484,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "July 4, 2022 12:01 PM"
     },
     {
@@ -482,7 +464,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/akron-ohio-sets-downtown-curfew-cancels-fireworks-wake-jayland-walker-rcna36557",
         "timestamp": 1656950575,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "July 4, 2022 12:02 PM"
     },
     {
@@ -491,8 +473,17 @@
         "category": "UpliftingNews",
         "link": "https://www.cnn.com/2022/07/04/health/tiktok-medical-professionals-abortion-assistance/index.html",
         "timestamp": 1656950655,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 4, 2022 12:04 PM"
+    },
+    {
+        "title": "Now can we all agree that Jan. 6 was an insurrection?",
+        "domain": "bostonglobe.com",
+        "category": "politics",
+        "link": "https://www.bostonglobe.com/2022/07/01/opinion/now-can-we-all-agree-that-jan-6-was-an-insurrection/",
+        "timestamp": 1656950990,
+        "sentiment": 1,
+        "published": "July 4, 2022 12:09 PM"
     },
     {
         "title": "Education 'is like the plague,' Hillsdale College president says at closed-door event",
@@ -500,7 +491,7 @@
         "category": "news",
         "link": "https://www.deadlinedetroit.com/articles/30847/education_is_like_the_plague_hillsdale_college_president_says_at_closed-door_event",
         "timestamp": 1656952230,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "July 4, 2022 12:30 PM"
     },
     {
@@ -509,7 +500,7 @@
         "category": "television",
         "link": "https://www.thewrap.com/stranger-things-season-5-finale-runtime/",
         "timestamp": 1656954364,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 4, 2022 1:06 PM"
     },
     {
@@ -518,8 +509,17 @@
         "category": "florida",
         "link": "https://thespacecoastrocket.com/mayor-medina-fine-honor-dishonorably-discharged-convicted-war-criminal-out-on-parole-with-a-flag-at-independence-day-celebration/",
         "timestamp": 1656955012,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 4, 2022 1:16 PM"
+    },
+    {
+        "title": "Daughter of Toronto Blue Jays coach killed in 'terrible accident' while tubing in U.S.",
+        "domain": "toronto.ctvnews.ca",
+        "category": "sports",
+        "link": "https://toronto.ctvnews.ca/daughter-of-toronto-blue-jays-coach-killed-in-terrible-accident-while-tubing-in-u-s-1.5973459",
+        "timestamp": 1656955506,
+        "sentiment": -3,
+        "published": "July 4, 2022 1:25 PM"
     },
     {
         "title": "Gunman at large after firing on Chicago-area parade, police say",
@@ -527,7 +527,7 @@
         "category": "news",
         "link": "https://www.washingtonpost.com/nation/2022/07/04/highland-park-parade-shooting/",
         "timestamp": 1656956167,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "July 4, 2022 1:36 PM"
     },
     {
@@ -536,7 +536,7 @@
         "category": "UpliftingNews",
         "link": "https://www.reuters.com/business/environment/after-40-years-extinction-rhinos-return-mozambique-2022-07-04/",
         "timestamp": 1656956741,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 4, 2022 1:45 PM"
     },
     {
@@ -558,6 +558,24 @@
         "published": "July 4, 2022 1:47 PM"
     },
     {
+        "title": "Lansing, MI 4th of July parade ends early after blockage by pro-choice protestors",
+        "domain": "wilx.com",
+        "category": "news",
+        "link": "https://www.wilx.com/2022/07/04/pro-choice-protestors-blocked-4th-july-parade-downtown-lansing/?outputType=amp",
+        "timestamp": 1656957904,
+        "sentiment": -6,
+        "published": "July 4, 2022 2:05 PM"
+    },
+    {
+        "title": "Scientists discover a new giant waterlily that was hiding in plain sight for 177 years",
+        "domain": "nbcnews.com",
+        "category": "nottheonion",
+        "link": "https://www.nbcnews.com/news/world/scientists-discover-new-giant-waterlily-was-hiding-plain-sight-177-yea-rcna36533",
+        "timestamp": 1656959227,
+        "sentiment": 0,
+        "published": "July 4, 2022 2:27 PM"
+    },
+    {
         "title": "'Google' is most searched word on Bing, Google says",
         "domain": "bbc.com",
         "category": "nottheonion",
@@ -565,6 +583,60 @@
         "timestamp": 1656959241,
         "sentiment": 0,
         "published": "July 4, 2022 2:27 PM"
+    },
+    {
+        "title": "Chicago Fourth of July parade shooting: Six dead as locals told to stay indoors as gunman still 'active'",
+        "domain": "news.sky.com",
+        "category": "nottheonion",
+        "link": "https://news.sky.com/story/chicago-fourth-of-july-parade-shooting-witnesses-report-seeing-bodies-covered-with-blankets-at-event-12645818",
+        "timestamp": 1656959686,
+        "sentiment": 0,
+        "published": "July 4, 2022 2:34 PM"
+    },
+    {
+        "title": "Tanzania Bans the Slaughter of Donkeys for their Skins",
+        "domain": "speciesunite.com",
+        "category": "UpliftingNews",
+        "link": "https://www.speciesunite.com/news-stories/petition-update-tanzania-bans-the-slaughter-of-donkeys-for-their-skins",
+        "timestamp": 1656959768,
+        "sentiment": 1,
+        "published": "July 4, 2022 2:36 PM"
+    },
+    {
+        "title": "Association of triglyceride-glucose index (insulin resistance)with prognosis of COVID-19: A population-based study — TyG index was positively associated with severe complications of COVID-19 (adjusted odds ratio: 1.42)",
+        "domain": "ncbi.nlm.nih.gov",
+        "category": "science",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9225941/",
+        "timestamp": 1656960144,
+        "sentiment": 3,
+        "published": "July 4, 2022 2:42 PM"
+    },
+    {
+        "title": "'Impeach Justice Clarence Thomas' Petition Nears 1 Million Signatures| \"He has shown he cannot be an impartial justice and is more concerned with covering up his wife's coup attempts than the health of the Supreme Court,\" reads the petition.",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/07/03/impeach-justice-clarence-thomas-petition-nears-1-million-signatures",
+        "timestamp": 1656927643,
+        "sentiment": 1,
+        "published": "July 4, 2022 5:40 AM"
+    },
+    {
+        "title": "The Large Hadron Collider Is About to Ramp Up to 13.6 Trillion Electronvolts",
+        "domain": "frontstory.io",
+        "category": "worldnews",
+        "link": "https://frontstory.io/the-large-hadron-collider-is-about-to-ramp-up-to-13-6-trillion-electronvolts/",
+        "timestamp": 1656943708,
+        "sentiment": 1,
+        "published": "July 4, 2022 10:08 AM"
+    },
+    {
+        "title": "Native American exhibit at the Met Museum explores the politics of water : NPR",
+        "domain": "npr.org",
+        "category": "nottheonion",
+        "link": "https://www.npr.org/2022/07/04/1109044833/a-provocative-exhibit-at-nycs-met-museum-takes-a-new-point-of-view",
+        "timestamp": 1656949150,
+        "sentiment": 0,
+        "published": "July 4, 2022 11:39 AM"
     },
     {
         "title": "Opinion: Nearly every American has a foreboding the country they love is losing its way",
@@ -601,15 +673,6 @@
         "timestamp": 1656939345,
         "sentiment": 2,
         "published": "July 4, 2022 8:55 AM"
-    },
-    {
-        "title": "Ukrainian flag raised over Snake Island after Russian retreat",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/jul/04/ukrainian-flag-raised-over-snake-island-after-russian-retreat",
-        "timestamp": 1656940032,
-        "sentiment": -1,
-        "published": "July 4, 2022 9:07 AM"
     },
     {
         "title": "U.S. concludes Israeli fire killed Palestinian American journalist",
