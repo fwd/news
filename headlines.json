@@ -23,7 +23,7 @@
         "category": "nottheonion",
         "link": "https://www.npr.org/2022/07/02/1109576113/minnesota-thc-edibles-accident-delta-8",
         "timestamp": 1656834848,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "July 3, 2022 3:54 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "science",
         "link": "https://www.eurekalert.org/news-releases/957305",
         "timestamp": 1656844441,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 3, 2022 6:34 AM"
     },
     {
@@ -126,21 +126,12 @@
         "published": "July 3, 2022 9:18 AM"
     },
     {
-        "title": "Shanghai police database for sale in what could be China’s biggest ever data breach",
-        "domain": "asiamarkets.com",
-        "category": "worldnews",
-        "link": "https://www.asiamarkets.com/shanghai-police-database-for-sale-in-what-could-be-chinas-biggest-ever-data-breach/",
-        "timestamp": 1656854334,
-        "sentiment": -2,
-        "published": "July 3, 2022 9:18 AM"
-    },
-    {
         "title": "Tory MP Chris Pincher suspended for groping two men.",
         "domain": "bbc.co.uk",
         "category": "nottheonion",
         "link": "https://www.bbc.co.uk/news/uk-politics-62025612",
         "timestamp": 1656855228,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "July 3, 2022 9:33 AM"
     },
     {
@@ -158,7 +149,7 @@
         "category": "science",
         "link": "https://www.ox.ac.uk/news/2022-06-30-tonga-volcano-eruption-triggered-atmospheric-gravity-waves-reached-edge-space",
         "timestamp": 1656855956,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 3, 2022 9:45 AM"
     },
     {
@@ -212,7 +203,7 @@
         "category": "nottheonion",
         "link": "https://www.androidcentral.com/apps-software/google-to-delete-location-data-for-those-who-visited-abortion-clinics",
         "timestamp": 1656860004,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "July 3, 2022 10:53 AM"
     },
     {
@@ -302,7 +293,7 @@
         "category": "nottheonion",
         "link": "https://thehill.com/homenews/campaign/3545062-kinzinger-calls-cheney-primary-challengers-a-bunch-of-armpit-farters/",
         "timestamp": 1656865133,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "July 3, 2022 12:18 PM"
     },
     {
@@ -356,7 +347,7 @@
         "category": "science",
         "link": "https://www.tsukuba.ac.jp/en/research-news/20220622140000.html",
         "timestamp": 1656868183,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 3, 2022 1:09 PM"
     },
     {
@@ -441,15 +432,6 @@
         "published": "July 3, 2022 2:08 PM"
     },
     {
-        "title": "At least 77 rescued from Nigerian church basement after awaiting second coming of Christ",
-        "domain": "news.sky.com",
-        "category": "nottheonion",
-        "link": "https://news.sky.com/story/dozens-kept-in-nigerian-church-basement-awaiting-second-coming-of-christ-freed-by-police-12644993",
-        "timestamp": 1656872609,
-        "sentiment": 2,
-        "published": "July 3, 2022 2:23 PM"
-    },
-    {
         "title": "Newsom pardons Sara Kruzan, imprisoned as a teen for killing man who trafficked her",
         "domain": "latimes.com",
         "category": "politics",
@@ -473,7 +455,7 @@
         "category": "science",
         "link": "https://www.postech.ac.kr/eng/hearing-better-with-skin-than-ears/",
         "timestamp": 1656873776,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 3, 2022 2:42 PM"
     },
     {
@@ -491,7 +473,7 @@
         "category": "nottheonion",
         "link": "https://thenationaldesk.com/news/from-the-desk/snip-for-shake-deal-restaurant-offering-free-milkshakes-for-those-who-get-vasectomies-nashville-tennessee-hot-dogs-daddys-dogs-united-states-instagram-social-media-response-health-care-medical-procedure",
         "timestamp": 1656874087,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "July 3, 2022 2:48 PM"
     },
     {
@@ -500,7 +482,7 @@
         "category": "science",
         "link": "https://engineering.nyu.edu/news/tandon-team-captures-elusive-shadow-state-state-gun-ownership",
         "timestamp": 1656875044,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 3, 2022 3:04 PM"
     },
     {
@@ -518,7 +500,7 @@
         "category": "nottheonion",
         "link": "https://www.newsweek.com/marjorie-taylor-greene-climate-change-good-droughts-1720634",
         "timestamp": 1656875933,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "July 3, 2022 3:18 PM"
     },
     {
@@ -538,6 +520,15 @@
         "timestamp": 1656876561,
         "sentiment": -2,
         "published": "July 3, 2022 3:29 PM"
+    },
+    {
+        "title": "Chile Man, Accidentally Paid 286 Times His Salary By Employer, Disappears",
+        "domain": "news18.com",
+        "category": "nottheonion",
+        "link": "https://www.news18.com/news/buzz/chile-man-accidentally-paid-286-times-his-salary-by-employer-disappears-5460955.html",
+        "timestamp": 1656876772,
+        "sentiment": -3,
+        "published": "July 3, 2022 3:32 PM"
     },
     {
         "title": "Severe drought leads North Texas counties to issue disaster declarations, banning fireworks",
@@ -653,7 +644,7 @@
         "category": "nottheonion",
         "link": "https://www.theguardian.com/technology/2022/apr/14/twitter-nft-jack-dorsey-sina-estavi",
         "timestamp": 1656886898,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "July 3, 2022 6:21 PM"
     },
     {
@@ -680,7 +671,7 @@
         "category": "nottheonion",
         "link": "https://www.matookerepublic.com/2022/06/27/ugandan-prophet-claims-he-was-driving-along-the-entebbe-express-highway-when-his-car-was-lifted-up-by-jesus-to-heaven/",
         "timestamp": 1656891347,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "July 3, 2022 7:35 PM"
     },
     {
@@ -700,6 +691,15 @@
         "timestamp": 1656893026,
         "sentiment": 0,
         "published": "July 3, 2022 8:03 PM"
+    },
+    {
+        "title": "A major Russian ammo depot hit way behind the front lines in the Donetsk oblast. I’ve seen many of them burn but this one takes the cake - the fireworks are truly magnificent.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/tinso_ww/status/1543727348171816960?s=21&t=TEN0DAJ2P6xcRa15FvuGBw",
+        "timestamp": 1656893134,
+        "sentiment": -10,
+        "published": "July 3, 2022 8:05 PM"
     },
     {
         "title": "Firefighters came to the rescue of a kitten trapped in a Walmart Pepsi machine",
@@ -725,8 +725,17 @@
         "category": "science",
         "link": "https://www.sciencedirect.com/science/article/pii/S2352853222000402",
         "timestamp": 1656898818,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 3, 2022 9:40 PM"
+    },
+    {
+        "title": "German chancellor says many thought the world moved past countries trying to conquer their neighbors but that 'agreement is now canceled by Putin'",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/olaf-scholz-putin-smashed-idea-that-nations-wont-conquer-neighbors-2022-7",
+        "timestamp": 1656899009,
+        "sentiment": -2,
+        "published": "July 3, 2022 9:43 PM"
     },
     {
         "title": "US newspapers continuing to die at rate of 2 each week",
@@ -734,8 +743,35 @@
         "category": "nottheonion",
         "link": "https://abcnews.go.com/Entertainment/wireStory/us-newspapers-continuing-die-rate-week-86066968?cid=social_fb_abcn",
         "timestamp": 1656900090,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "July 3, 2022 10:01 PM"
+    },
+    {
+        "title": "The Climate and Ozone Impacts of Black Carbon Emissions From Global Rocket Launches",
+        "domain": "agupubs.onlinelibrary.wiley.com",
+        "category": "science",
+        "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD036373",
+        "timestamp": 1656900932,
+        "sentiment": 0,
+        "published": "July 3, 2022 10:15 PM"
+    },
+    {
+        "title": "Shanghai police database for sale in what could be China’s biggest ever data breach",
+        "domain": "asiamarkets.com",
+        "category": "worldnews",
+        "link": "https://www.asiamarkets.com/shanghai-police-database-for-sale-in-what-could-be-chinas-biggest-ever-data-breach/",
+        "timestamp": 1656854334,
+        "sentiment": -2,
+        "published": "July 3, 2022 9:18 AM"
+    },
+    {
+        "title": "At least 77 rescued from Nigerian church basement after awaiting second coming of Christ",
+        "domain": "news.sky.com",
+        "category": "nottheonion",
+        "link": "https://news.sky.com/story/dozens-kept-in-nigerian-church-basement-awaiting-second-coming-of-christ-freed-by-police-12644993",
+        "timestamp": 1656872609,
+        "sentiment": 2,
+        "published": "July 3, 2022 2:23 PM"
     },
     {
         "title": "Flattening of circadian glucocorticoid oscillations drives acute hyperinsulinemia and adipocyte hypertrophy (2022)",
