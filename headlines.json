@@ -14,7 +14,7 @@
         "category": "technology",
         "link": "https://www.theverge.com/2022/7/3/23193443/apple-watch-series-8-detect-fever-body-temperature-sensor-rumors",
         "timestamp": 1656908986,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 4, 2022 12:29 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "technology",
         "link": "https://finance.yahoo.com/news/chip-makers-refusing-build-semiconductor-061349212.html",
         "timestamp": 1656914637,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 4, 2022 2:03 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "nottheonion",
         "link": "https://www.theguardian.com/world/2022/jul/04/call-to-tighten-new-zealand-law-that-allows-public-pooping-if-no-one-watching",
         "timestamp": 1656917208,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 4, 2022 2:46 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/impeach-clarence-thomas-petition-hits-1m-signatures-1721317?utm_medium=Social&utm_source=Twitter#Echobox=1656917750-1",
         "timestamp": 1656918287,
-        "sentiment": 1,
+        "sentiment": -3,
         "published": "July 4, 2022 3:04 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.nbcnews.com/news/world/russia-ukraine-war-prisoners-of-war-beaten-taunted-kyiv-rcna36225",
         "timestamp": 1656919813,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "July 4, 2022 3:30 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/media/2022/jul/04/fox-oan-newsmax-lawsuits-election-fraud-claims",
         "timestamp": 1656921586,
-        "sentiment": -5,
+        "sentiment": -3,
         "published": "July 4, 2022 3:59 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/03/us/california-sara-kruzan-pardon-shooting-abuser/index.html",
         "timestamp": 1656922519,
-        "sentiment": -5,
+        "sentiment": -3,
         "published": "July 4, 2022 4:15 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "florida",
         "link": "https://thehill.com/homenews/state-watch/3545351-newsom-running-ads-attacking-gop-in-florida-dont-let-them-take-your-freedom/",
         "timestamp": 1656924384,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 4, 2022 4:46 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/07/03/impeach-justice-clarence-thomas-petition-nears-1-million-signatures",
         "timestamp": 1656927643,
-        "sentiment": 1,
+        "sentiment": -3,
         "published": "July 4, 2022 5:40 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.yahoo.com/finance/news/chinese-real-estate-developers-accepting-072814280.html",
         "timestamp": 1656929613,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "July 4, 2022 6:13 AM"
     },
     {
@@ -122,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.euractiv.com/section/politics/short_news/bulgarian-secret-services-russia-pays-public-figures-to-spread-propaganda/",
         "timestamp": 1656929853,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "July 4, 2022 6:17 AM"
     },
     {
@@ -140,7 +140,7 @@
         "category": "technology",
         "link": "https://interestingengineering.com/switzerlands-water-battery-operational",
         "timestamp": 1656932987,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 4, 2022 7:09 AM"
     },
     {
@@ -149,8 +149,260 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/ukraine-flag-raised-again-on-snake-island-military-says/ar-AAZb1h2?ocid=EMMX&cvid=8b9ec57889b24b0eace8fbd66c050b7d",
         "timestamp": 1656933255,
-        "sentiment": -1,
+        "sentiment": 1,
         "published": "July 4, 2022 7:14 AM"
+    },
+    {
+        "title": "Eiffel Tower riddled with rust and in need of repair. leaked reports say",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jul/04/eiffel-tower-riddled-with-rust-and-in-need-of-repair-leaked-reports-say",
+        "timestamp": 1656935595,
+        "sentiment": 1,
+        "published": "July 4, 2022 7:53 AM"
+    },
+    {
+        "title": "South Dakota governor defends state's abortion 'trigger' ban when asked if 10-year-old should be forced to give birth",
+        "domain": "edition.cnn.com",
+        "category": "politics",
+        "link": "https://edition.cnn.com/2022/07/03/politics/kristi-noem-south-dakota-abortion-trigger-ban/index.html",
+        "timestamp": 1656935771,
+        "sentiment": -3,
+        "published": "July 4, 2022 7:56 AM"
+    },
+    {
+        "title": "Russian tourists complain that they have found postcards addressed to them at #Turkish resorts. They inform that they are financing the production of #Bayraktars for #Ukraine with taxes.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/nexta_tv/status/1543885315915628545?s=21",
+        "timestamp": 1656936275,
+        "sentiment": 2,
+        "published": "July 4, 2022 8:04 AM"
+    },
+    {
+        "title": "Russian cosmonauts display flag of occupied Luhansk region on ISS | Russia",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jul/04/russian-cosmonauts-display-flag-of-occupied-luhansk-region-on-iss-ukraine",
+        "timestamp": 1656936355,
+        "sentiment": 1,
+        "published": "July 4, 2022 8:05 AM"
+    },
+    {
+        "title": "Opinion: Nearly every American has a foreboding the country they love is losing its way",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/opinions/2022/07/03/july-4-america-national-character-decline/",
+        "timestamp": 1656936576,
+        "sentiment": -3,
+        "published": "July 4, 2022 8:09 AM"
+    },
+    {
+        "title": "Michigan police chief Jeff King has apologized after it emerged that the department used images of Black men during target practice",
+        "domain": "cnn.com",
+        "category": "nottheonion",
+        "link": "https://www.cnn.com/2022/07/03/us/farmington-hills-police-department-black-target/index.html",
+        "timestamp": 1656936654,
+        "sentiment": -3,
+        "published": "July 4, 2022 8:10 AM"
+    },
+    {
+        "title": "Watergate prosecutor says slapping Trump with a charge for rebellion or insurrection could prevent him from ever holding office again",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/watergate-prosecutor-says-trump-could-be-charged-rebellion-and-insurrection-2022-7",
+        "timestamp": 1656936693,
+        "sentiment": -3,
+        "published": "July 4, 2022 8:11 AM"
+    },
+    {
+        "title": "Kids' neighborhoods can affect their developing brains, a new study finds",
+        "domain": "theconversation.com",
+        "category": "science",
+        "link": "https://theconversation.com/kids-neighborhoods-can-affect-their-developing-brains-a-new-study-finds-184035",
+        "timestamp": 1656936745,
+        "sentiment": 0,
+        "published": "July 4, 2022 8:12 AM"
+    },
+    {
+        "title": "Revolutionary new Swiss 'water battery' will be one of Europe's main renewable sources of energy",
+        "domain": "euronews.com",
+        "category": "UpliftingNews",
+        "link": "https://www.euronews.com/green/2022/06/30/enormous-water-battery-in-switzerland-will-help-prevent-power-shortages",
+        "timestamp": 1656936844,
+        "sentiment": 0,
+        "published": "July 4, 2022 8:14 AM"
+    },
+    {
+        "title": "Tesla sued by 15 Black employees alleging racial harassment. One said he was tackled at work and told to 'suck it up and be a man.'",
+        "domain": "businessinsider.in",
+        "category": "technology",
+        "link": "https://www.businessinsider.in/tech/news/tesla-sued-by-15-black-employees-alleging-racial-harassment-one-said-he-was-tackled-at-work-and-told-to-suck-it-up-and-be-a-man-/articleshow/92654816.cms",
+        "timestamp": 1656937014,
+        "sentiment": 0,
+        "published": "July 4, 2022 8:16 AM"
+    },
+    {
+        "title": "Manufacturers struggle to keep pace with vinyl record demand",
+        "domain": "apnews.com",
+        "category": "technology",
+        "link": "https://apnews.com/article/entertainment-music-tennessee-f76d8df96043153f8bd735539795ddaf",
+        "timestamp": 1656937267,
+        "sentiment": 0,
+        "published": "July 4, 2022 8:21 AM"
+    },
+    {
+        "title": "The Problem With Moderate Democrats Is Not That They’re “Vanishing.” It’s That They Have No Ideas.",
+        "domain": "newrepublic.com",
+        "category": "politics",
+        "link": "https://newrepublic.com/amp/article/166978/midterms-moderates-gottheimer-2022-biden",
+        "timestamp": 1656937485,
+        "sentiment": -3,
+        "published": "July 4, 2022 8:24 AM"
+    },
+    {
+        "title": "Cologne's Pride parade draws upwards of 1 million in Germany",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/International/wireStory/colognes-pride-parade-draws-upwards-million-germany-86151653",
+        "timestamp": 1656937794,
+        "sentiment": -3,
+        "published": "July 4, 2022 8:29 AM"
+    },
+    {
+        "title": "Amber Heard launches bid to overturn result of US libel battle with Johnny Depp",
+        "domain": "standard.co.uk",
+        "category": "news",
+        "link": "https://www.standard.co.uk/news/world/amber-heard-libel-trial-appeal-johnny-depp-fairfax-jury-domestic-violence-washington-post-b1009994.html",
+        "timestamp": 1656938018,
+        "sentiment": -3,
+        "published": "July 4, 2022 8:33 AM"
+    },
+    {
+        "title": "Germany's second-largest city is preparing to ration hot water as the Russia energy crisis escalates",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/hamburg-russia-energy-natural-gas-ration-hot-water-putin-war-2022-7",
+        "timestamp": 1656938141,
+        "sentiment": 1,
+        "published": "July 4, 2022 8:35 AM"
+    },
+    {
+        "title": "Cassidy Hutchinson testimony prompts reassessment of Trump legal culpability",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/house/3544336-cassidy-hutchinson-testimony-prompts-reassessment-of-trump-legal-culpability/",
+        "timestamp": 1656938670,
+        "sentiment": -3,
+        "published": "July 4, 2022 8:44 AM"
+    },
+    {
+        "title": "Is your smartphone ruining your memory? A special report on the rise of ‘digital amnesia’",
+        "domain": "theguardian.com",
+        "category": "technology",
+        "link": "https://www.theguardian.com/global/2022/jul/03/is-your-smartphone-ruining-your-memory-the-rise-of-digital-amenesia",
+        "timestamp": 1656938947,
+        "sentiment": 0,
+        "published": "July 4, 2022 8:49 AM"
+    },
+    {
+        "title": "2 Arizona election officials abruptly quit before the primaries, citing continuous threats from Trump supporters over 2020 elections",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/2-arizona-election-officials-quit-trump-supporters-threatened-2022-7",
+        "timestamp": 1656939224,
+        "sentiment": -3,
+        "published": "July 4, 2022 8:53 AM"
+    },
+    {
+        "title": "Wimbledon appealing WTA fine over Russia ban.",
+        "domain": "espn.com",
+        "category": "sports",
+        "link": "https://www.espn.com/tennis/story/_/id/34192599/wimbledon-appealing-fine-wta-russia-ban",
+        "timestamp": 1656939345,
+        "sentiment": 5,
+        "published": "July 4, 2022 8:55 AM"
+    },
+    {
+        "title": "A synthetic cannabinoid (JWH-108) induces more pronounced dissociative effects than natural cannabis, whereas both drugs equally impair cognitive functioning- suggests a new placebo-controlled study in healthy volunteers.",
+        "domain": "frontiersin.org",
+        "category": "science",
+        "link": "https://www.frontiersin.org/articles/10.3389/fpsyt.2022.891811/full",
+        "timestamp": 1656939596,
+        "sentiment": 0,
+        "published": "July 4, 2022 8:59 AM"
+    },
+    {
+        "title": "The Large Hadron Collider Is About to Ramp Up to 13.6 Trillion Electronvolts",
+        "domain": "frontstory.io",
+        "category": "worldnews",
+        "link": "https://frontstory.io/the-large-hadron-collider-is-about-to-ramp-up-to-13-6-trillion-electronvolts/",
+        "timestamp": 1656943708,
+        "sentiment": 1,
+        "published": "July 4, 2022 10:08 AM"
+    },
+    {
+        "title": "U.S. concludes Israeli fire killed Palestinian American journalist",
+        "domain": "washingtonpost.com",
+        "category": "news",
+        "link": "https://www.washingtonpost.com/world/2022/07/04/shireen-abu-akleh-bullet-israel/",
+        "timestamp": 1656944621,
+        "sentiment": -3,
+        "published": "July 4, 2022 10:23 AM"
+    },
+    {
+        "title": "Outrage after video of police fatally shooting Jayland Walker released",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2022/jul/04/jayland-walker-shooting-body-cam-video-outrage",
+        "timestamp": 1656945833,
+        "sentiment": -3,
+        "published": "July 4, 2022 10:43 AM"
+    },
+    {
+        "title": "Cinemas Are Banning Formal Wear for ‘Minions the Rise of Gru’ Screenings",
+        "domain": "wegotthiscovered.com",
+        "category": "nottheonion",
+        "link": "https://wegotthiscovered.com/movies/cinemas-are-banning-formal-wear-for-minions-the-rise-of-gru-screenings/",
+        "timestamp": 1656946442,
+        "sentiment": -3,
+        "published": "July 4, 2022 10:54 AM"
+    },
+    {
+        "title": "How the bacteria on an all-sugar diet could bring the aviation industry closer to net-zero",
+        "domain": "euronews.com",
+        "category": "UpliftingNews",
+        "link": "https://www.euronews.com/green/2022/07/04/how-the-bacteria-on-an-all-sugar-diet-could-bring-the-aviation-industry-closer-to-net-zero",
+        "timestamp": 1656946741,
+        "sentiment": 0,
+        "published": "July 4, 2022 10:59 AM"
+    },
+    {
+        "title": "Kitten rescued from Walmart vending machine",
+        "domain": "wral.com",
+        "category": "nottheonion",
+        "link": "https://www.wral.com/kitten-rescued-from-walmart-vending-machine/20359585/",
+        "timestamp": 1656946934,
+        "sentiment": -3,
+        "published": "July 4, 2022 11:02 AM"
+    },
+    {
+        "title": "Amazon launches cargo bike and on-foot deliveries in London in bid to cut carbon emissions.",
+        "domain": "euronews.com",
+        "category": "UpliftingNews",
+        "link": "https://www.euronews.com/next/2022/07/04/amazon-launches-cargo-bike-and-on-foot-deliveries-in-london-to-cut-carbon-emissions",
+        "timestamp": 1656947937,
+        "sentiment": 0,
+        "published": "July 4, 2022 11:18 AM"
+    },
+    {
+        "title": "Police: New Port Richey man arrested after throwing hot dog at St. Pete officer",
+        "domain": "fox13news.com",
+        "category": "nottheonion",
+        "link": "https://www.fox13news.com/news/police-new-port-richey-man-arrested-after-throwing-hot-dog-at-st-pete-officer",
+        "timestamp": 1656949391,
+        "sentiment": -3,
+        "published": "July 4, 2022 11:43 AM"
     },
     {
         "title": "Tractorgate MP says his wife chases him around the kitchen with scissors",
@@ -178,159 +430,6 @@
         "timestamp": 1656935558,
         "sentiment": -5,
         "published": "July 4, 2022 7:52 AM"
-    },
-    {
-        "title": "Eiffel Tower riddled with rust and in need of repair. leaked reports say",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/jul/04/eiffel-tower-riddled-with-rust-and-in-need-of-repair-leaked-reports-say",
-        "timestamp": 1656935595,
-        "sentiment": -1,
-        "published": "July 4, 2022 7:53 AM"
-    },
-    {
-        "title": "South Dakota governor defends state's abortion 'trigger' ban when asked if 10-year-old should be forced to give birth",
-        "domain": "edition.cnn.com",
-        "category": "politics",
-        "link": "https://edition.cnn.com/2022/07/03/politics/kristi-noem-south-dakota-abortion-trigger-ban/index.html",
-        "timestamp": 1656935771,
-        "sentiment": 1,
-        "published": "July 4, 2022 7:56 AM"
-    },
-    {
-        "title": "Russian tourists complain that they have found postcards addressed to them at #Turkish resorts. They inform that they are financing the production of #Bayraktars for #Ukraine with taxes.",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/nexta_tv/status/1543885315915628545?s=21",
-        "timestamp": 1656936275,
-        "sentiment": 6,
-        "published": "July 4, 2022 8:04 AM"
-    },
-    {
-        "title": "Russian cosmonauts display flag of occupied Luhansk region on ISS | Russia",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/jul/04/russian-cosmonauts-display-flag-of-occupied-luhansk-region-on-iss-ukraine",
-        "timestamp": 1656936355,
-        "sentiment": -1,
-        "published": "July 4, 2022 8:05 AM"
-    },
-    {
-        "title": "Opinion: Nearly every American has a foreboding the country they love is losing its way",
-        "domain": "washingtonpost.com",
-        "category": "politics",
-        "link": "https://www.washingtonpost.com/opinions/2022/07/03/july-4-america-national-character-decline/",
-        "timestamp": 1656936576,
-        "sentiment": 1,
-        "published": "July 4, 2022 8:09 AM"
-    },
-    {
-        "title": "Tesla sued by 15 Black employees alleging racial harassment. One said he was tackled at work and told to 'suck it up and be a man.'",
-        "domain": "businessinsider.com",
-        "category": "technology",
-        "link": "https://www.businessinsider.com/tesla-sued-15-black-employees-racial-discrimination-2022-7",
-        "timestamp": 1656936609,
-        "sentiment": -5,
-        "published": "July 4, 2022 8:10 AM"
-    },
-    {
-        "title": "Michigan police chief Jeff King has apologized after it emerged that the department used images of Black men during target practice",
-        "domain": "cnn.com",
-        "category": "nottheonion",
-        "link": "https://www.cnn.com/2022/07/03/us/farmington-hills-police-department-black-target/index.html",
-        "timestamp": 1656936654,
-        "sentiment": 0,
-        "published": "July 4, 2022 8:10 AM"
-    },
-    {
-        "title": "Watergate prosecutor says slapping Trump with a charge for rebellion or insurrection could prevent him from ever holding office again",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/watergate-prosecutor-says-trump-could-be-charged-rebellion-and-insurrection-2022-7",
-        "timestamp": 1656936693,
-        "sentiment": 1,
-        "published": "July 4, 2022 8:11 AM"
-    },
-    {
-        "title": "Kids' neighborhoods can affect their developing brains, a new study finds",
-        "domain": "theconversation.com",
-        "category": "science",
-        "link": "https://theconversation.com/kids-neighborhoods-can-affect-their-developing-brains-a-new-study-finds-184035",
-        "timestamp": 1656936745,
-        "sentiment": 0,
-        "published": "July 4, 2022 8:12 AM"
-    },
-    {
-        "title": "Revolutionary new Swiss 'water battery' will be one of Europe's main renewable sources of energy",
-        "domain": "euronews.com",
-        "category": "UpliftingNews",
-        "link": "https://www.euronews.com/green/2022/06/30/enormous-water-battery-in-switzerland-will-help-prevent-power-shortages",
-        "timestamp": 1656936844,
-        "sentiment": 0,
-        "published": "July 4, 2022 8:14 AM"
-    },
-    {
-        "title": "Manufacturers struggle to keep pace with vinyl record demand",
-        "domain": "apnews.com",
-        "category": "technology",
-        "link": "https://apnews.com/article/entertainment-music-tennessee-f76d8df96043153f8bd735539795ddaf",
-        "timestamp": 1656937267,
-        "sentiment": -5,
-        "published": "July 4, 2022 8:21 AM"
-    },
-    {
-        "title": "Cologne's Pride parade draws upwards of 1 million in Germany",
-        "domain": "abcnews.go.com",
-        "category": "news",
-        "link": "https://abcnews.go.com/International/wireStory/colognes-pride-parade-draws-upwards-million-germany-86151653",
-        "timestamp": 1656937794,
-        "sentiment": -5,
-        "published": "July 4, 2022 8:29 AM"
-    },
-    {
-        "title": "Amber Heard launches bid to overturn result of US libel battle with Johnny Depp",
-        "domain": "standard.co.uk",
-        "category": "news",
-        "link": "https://www.standard.co.uk/news/world/amber-heard-libel-trial-appeal-johnny-depp-fairfax-jury-domestic-violence-washington-post-b1009994.html",
-        "timestamp": 1656938018,
-        "sentiment": -5,
-        "published": "July 4, 2022 8:33 AM"
-    },
-    {
-        "title": "Cassidy Hutchinson testimony prompts reassessment of Trump legal culpability",
-        "domain": "thehill.com",
-        "category": "politics",
-        "link": "https://thehill.com/homenews/house/3544336-cassidy-hutchinson-testimony-prompts-reassessment-of-trump-legal-culpability/",
-        "timestamp": 1656938670,
-        "sentiment": 1,
-        "published": "July 4, 2022 8:44 AM"
-    },
-    {
-        "title": "2 Arizona election officials abruptly quit before the primaries, citing continuous threats from Trump supporters over 2020 elections",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/2-arizona-election-officials-quit-trump-supporters-threatened-2022-7",
-        "timestamp": 1656939224,
-        "sentiment": 1,
-        "published": "July 4, 2022 8:53 AM"
-    },
-    {
-        "title": "Wimbledon appealing WTA fine over Russia ban.",
-        "domain": "espn.com",
-        "category": "sports",
-        "link": "https://www.espn.com/tennis/story/_/id/34192599/wimbledon-appealing-fine-wta-russia-ban",
-        "timestamp": 1656939345,
-        "sentiment": 5,
-        "published": "July 4, 2022 8:55 AM"
-    },
-    {
-        "title": "A synthetic cannabinoid (JWH-108) induces more pronounced dissociative effects than natural cannabis, whereas both drugs equally impair cognitive functioning- suggests a new placebo-controlled study in healthy volunteers.",
-        "domain": "frontiersin.org",
-        "category": "science",
-        "link": "https://www.frontiersin.org/articles/10.3389/fpsyt.2022.891811/full",
-        "timestamp": 1656939596,
-        "sentiment": 0,
-        "published": "July 4, 2022 8:59 AM"
     },
     {
         "title": "Kyiv Independent:⚡️ Russia’s Finance Ministry proposes to cut spending by 1.6 trillion rubles within next three years. Russia’s Finance Ministry suggests decreasing funding for the development of transportation systems, science, and multiple other initiatives in 2023-2025.",
