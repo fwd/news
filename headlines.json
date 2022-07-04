@@ -5,7 +5,7 @@
         "category": "science",
         "link": "https://www.clinicalnutritionjournal.com/article/S0261-5614(22)00181-9/fulltext",
         "timestamp": 1656908212,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 4, 2022 12:16 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "technology",
         "link": "https://www.theverge.com/2022/7/3/23193443/apple-watch-series-8-detect-fever-body-temperature-sensor-rumors",
         "timestamp": 1656908986,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 4, 2022 12:29 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "technology",
         "link": "https://finance.yahoo.com/news/chip-makers-refusing-build-semiconductor-061349212.html",
         "timestamp": 1656914637,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 4, 2022 2:03 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/impeach-clarence-thomas-petition-hits-1m-signatures-1721317?utm_medium=Social&utm_source=Twitter#Echobox=1656917750-1",
         "timestamp": 1656918287,
-        "sentiment": 1,
+        "sentiment": 2,
         "published": "July 4, 2022 3:04 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/media/2022/jul/04/fox-oan-newsmax-lawsuits-election-fraud-claims",
         "timestamp": 1656921586,
-        "sentiment": -6,
+        "sentiment": -1,
         "published": "July 4, 2022 3:59 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/03/us/california-sara-kruzan-pardon-shooting-abuser/index.html",
         "timestamp": 1656922519,
-        "sentiment": -6,
+        "sentiment": -1,
         "published": "July 4, 2022 4:15 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "florida",
         "link": "https://thehill.com/homenews/state-watch/3545351-newsom-running-ads-attacking-gop-in-florida-dont-let-them-take-your-freedom/",
         "timestamp": 1656924384,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 4, 2022 4:46 AM"
     },
     {
@@ -77,17 +77,8 @@
         "category": "science",
         "link": "https://www.mpg.de/18884791/sanitizer-in-the-galactic-centre-region",
         "timestamp": 1656929248,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 4, 2022 6:07 AM"
-    },
-    {
-        "title": "Chinese real-estate developers are accepting wheat, garlic, and peaches as down payments for properties as the market slumps and bond defaults mount",
-        "domain": "yahoo.com",
-        "category": "worldnews",
-        "link": "https://www.yahoo.com/finance/news/chinese-real-estate-developers-accepting-072814280.html",
-        "timestamp": 1656929613,
-        "sentiment": -1,
-        "published": "July 4, 2022 6:13 AM"
     },
     {
         "title": "Forest-Living East African Chimpanzees are Digging Wells for Cleaner Water. Digging wells to access or filter drinking water is a relatively rare behavior in the animal kingdom — only a handful of species have been documented to do so. This is the 1st report of habitual well-digging among chimpanzee",
@@ -95,7 +86,7 @@
         "category": "science",
         "link": "http://www.sci-news.com/biology/well-digging-chimpanzees-10947.html",
         "timestamp": 1656929715,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 4, 2022 6:15 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.euractiv.com/section/politics/short_news/bulgarian-secret-services-russia-pays-public-figures-to-spread-propaganda/",
         "timestamp": 1656929853,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "July 4, 2022 6:17 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "technology",
         "link": "https://interestingengineering.com/switzerlands-water-battery-operational",
         "timestamp": 1656932987,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 4, 2022 7:09 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jul/04/eiffel-tower-riddled-with-rust-and-in-need-of-repair-leaked-reports-say",
         "timestamp": 1656935595,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "July 4, 2022 7:53 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "politics",
         "link": "https://edition.cnn.com/2022/07/03/politics/kristi-noem-south-dakota-abortion-trigger-ban/index.html",
         "timestamp": 1656935771,
-        "sentiment": 1,
+        "sentiment": 2,
         "published": "July 4, 2022 7:56 AM"
     },
     {
@@ -149,7 +140,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/nexta_tv/status/1543885315915628545?s=21",
         "timestamp": 1656936275,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 4, 2022 8:04 AM"
     },
     {
@@ -158,17 +149,8 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jul/04/russian-cosmonauts-display-flag-of-occupied-luhansk-region-on-iss-ukraine",
         "timestamp": 1656936355,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "July 4, 2022 8:05 AM"
-    },
-    {
-        "title": "Michigan police chief Jeff King has apologized after it emerged that the department used images of Black men during target practice",
-        "domain": "cnn.com",
-        "category": "nottheonion",
-        "link": "https://www.cnn.com/2022/07/03/us/farmington-hills-police-department-black-target/index.html",
-        "timestamp": 1656936654,
-        "sentiment": 0,
-        "published": "July 4, 2022 8:10 AM"
     },
     {
         "title": "Kids' neighborhoods can affect their developing brains, a new study finds",
@@ -176,7 +158,7 @@
         "category": "science",
         "link": "https://theconversation.com/kids-neighborhoods-can-affect-their-developing-brains-a-new-study-finds-184035",
         "timestamp": 1656936745,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 4, 2022 8:12 AM"
     },
     {
@@ -194,7 +176,7 @@
         "category": "technology",
         "link": "https://apnews.com/article/entertainment-music-tennessee-f76d8df96043153f8bd735539795ddaf",
         "timestamp": 1656937267,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 4, 2022 8:21 AM"
     },
     {
@@ -203,7 +185,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/International/wireStory/colognes-pride-parade-draws-upwards-million-germany-86151653",
         "timestamp": 1656937794,
-        "sentiment": -6,
+        "sentiment": -1,
         "published": "July 4, 2022 8:29 AM"
     },
     {
@@ -212,7 +194,7 @@
         "category": "news",
         "link": "https://www.standard.co.uk/news/world/amber-heard-libel-trial-appeal-johnny-depp-fairfax-jury-domestic-violence-washington-post-b1009994.html",
         "timestamp": 1656938018,
-        "sentiment": -6,
+        "sentiment": -1,
         "published": "July 4, 2022 8:33 AM"
     },
     {
@@ -221,17 +203,8 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/hamburg-russia-energy-natural-gas-ration-hot-water-putin-war-2022-7",
         "timestamp": 1656938141,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "July 4, 2022 8:35 AM"
-    },
-    {
-        "title": "Cassidy Hutchinson testimony prompts reassessment of Trump legal culpability",
-        "domain": "thehill.com",
-        "category": "politics",
-        "link": "https://thehill.com/homenews/house/3544336-cassidy-hutchinson-testimony-prompts-reassessment-of-trump-legal-culpability/",
-        "timestamp": 1656938670,
-        "sentiment": 1,
-        "published": "July 4, 2022 8:44 AM"
     },
     {
         "title": "Is your smartphone ruining your memory? A special report on the rise of ‘digital amnesia’",
@@ -239,7 +212,7 @@
         "category": "technology",
         "link": "https://www.theguardian.com/global/2022/jul/03/is-your-smartphone-ruining-your-memory-the-rise-of-digital-amenesia",
         "timestamp": 1656938947,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 4, 2022 8:49 AM"
     },
     {
@@ -248,7 +221,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/2-arizona-election-officials-quit-trump-supporters-threatened-2022-7",
         "timestamp": 1656939224,
-        "sentiment": 1,
+        "sentiment": 2,
         "published": "July 4, 2022 8:53 AM"
     },
     {
@@ -266,17 +239,8 @@
         "category": "science",
         "link": "https://www.frontiersin.org/articles/10.3389/fpsyt.2022.891811/full",
         "timestamp": 1656939596,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 4, 2022 8:59 AM"
-    },
-    {
-        "title": "Ukrainian flag raised over Snake Island after Russian retreat",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/jul/04/ukrainian-flag-raised-over-snake-island-after-russian-retreat",
-        "timestamp": 1656940032,
-        "sentiment": -1,
-        "published": "July 4, 2022 9:07 AM"
     },
     {
         "title": "Andor: Tony Gilroy Explains Star Wars’ Rogue One Prequel Series’ Epic Five-Year Structure – Exclusive Image",
@@ -293,7 +257,7 @@
         "category": "politics",
         "link": "https://www.kvue.com/mobile/article/news/local/texas/texan-woman-drives-new-mexico-abortion-senate-bill-8/269-4f1502ed-8f83-4142-85d9-acfc778189ac",
         "timestamp": 1656943686,
-        "sentiment": 1,
+        "sentiment": 2,
         "published": "July 4, 2022 10:08 AM"
     },
     {
@@ -302,7 +266,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/mark-meadows-worst-chief-of-staff-january-6-chris-whipple-2022-6",
         "timestamp": 1656944078,
-        "sentiment": 1,
+        "sentiment": 2,
         "published": "July 4, 2022 10:14 AM"
     },
     {
@@ -311,7 +275,7 @@
         "category": "worldnews",
         "link": "https://thehill.com/homenews/ap/ap-international/us-shot-that-killed-journalist-likely-fired-from-israelis/",
         "timestamp": 1656944905,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "July 4, 2022 10:28 AM"
     },
     {
@@ -329,7 +293,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/jul/04/jayland-walker-shooting-body-cam-video-outrage",
         "timestamp": 1656945833,
-        "sentiment": -6,
+        "sentiment": -1,
         "published": "July 4, 2022 10:43 AM"
     },
     {
@@ -338,7 +302,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/right-wing-protestors-carry-out-short-lived-july-4-attack-on-dc-area-highways",
         "timestamp": 1656946045,
-        "sentiment": 1,
+        "sentiment": 2,
         "published": "July 4, 2022 10:47 AM"
     },
     {
@@ -347,7 +311,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/russia-military-deaths-36k-putin-ukraine-war-gains-luhansk-1721452",
         "timestamp": 1656946327,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "July 4, 2022 10:52 AM"
     },
     {
@@ -360,21 +324,12 @@
         "published": "July 4, 2022 10:59 AM"
     },
     {
-        "title": "Kitten rescued from Walmart vending machine",
-        "domain": "wral.com",
-        "category": "nottheonion",
-        "link": "https://www.wral.com/kitten-rescued-from-walmart-vending-machine/20359585/",
-        "timestamp": 1656946934,
-        "sentiment": 0,
-        "published": "July 4, 2022 11:02 AM"
-    },
-    {
         "title": "Hacker claims to have obtained data on 1 billion Chinese citizens | Hacking",
         "domain": "theguardian.com",
         "category": "technology",
         "link": "https://www.theguardian.com/technology/2022/jul/04/hacker-claims-access-data-billion-chinese-citizens",
         "timestamp": 1656947246,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 4, 2022 11:07 AM"
     },
     {
@@ -383,7 +338,7 @@
         "category": "science",
         "link": "https://www.psypost.org/2022/07/narcissistic-men-are-more-prone-to-premature-ejaculation-and-to-difficulty-reaching-orgasm-63442",
         "timestamp": 1656947849,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 4, 2022 11:17 AM"
     },
     {
@@ -405,22 +360,22 @@
         "published": "July 4, 2022 11:26 AM"
     },
     {
+        "title": "Native American exhibit at the Met Museum explores the politics of water : NPR",
+        "domain": "npr.org",
+        "category": "nottheonion",
+        "link": "https://www.npr.org/2022/07/04/1109044833/a-provocative-exhibit-at-nycs-met-museum-takes-a-new-point-of-view",
+        "timestamp": 1656949150,
+        "sentiment": 0,
+        "published": "July 4, 2022 11:39 AM"
+    },
+    {
         "title": "Revolutionary Precedent: Canada Allows Confiscation of Russian Assets for Rebuilding Ukraine",
         "domain": "eurointegration.com.ua",
         "category": "worldnews",
         "link": "https://www.eurointegration.com.ua/eng/news/2022/07/4/7142525/",
         "timestamp": 1656949347,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "July 4, 2022 11:42 AM"
-    },
-    {
-        "title": "Police: New Port Richey man arrested after throwing hot dog at St. Pete officer",
-        "domain": "fox13news.com",
-        "category": "nottheonion",
-        "link": "https://www.fox13news.com/news/police-new-port-richey-man-arrested-after-throwing-hot-dog-at-st-pete-officer",
-        "timestamp": 1656949391,
-        "sentiment": 0,
-        "published": "July 4, 2022 11:43 AM"
     },
     {
         "title": "This Independence Day, we are less free than the year before. We must work together for liberty",
@@ -428,7 +383,7 @@
         "category": "politics",
         "link": "https://salon.com/2022/07/04/this-independence-day-we-are-less-free-than-the-year-before-we-must-work-together-for-liberty/",
         "timestamp": 1656949581,
-        "sentiment": 1,
+        "sentiment": 2,
         "published": "July 4, 2022 11:46 AM"
     },
     {
@@ -437,7 +392,7 @@
         "category": "florida",
         "link": "https://www.salon.com/2022/04/04/betsy-devos-is-back--and-her-family-is-flooding-florida-gov-ron-desantis-with-cash/",
         "timestamp": 1656949679,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 4, 2022 11:47 AM"
     },
     {
@@ -446,7 +401,7 @@
         "category": "news",
         "link": "https://www.nbcchicago.com/news/local/police-respond-to-incident-in-downtown-highland-park-urge-public-to-avoid-area/2872781/?amp",
         "timestamp": 1656950484,
-        "sentiment": -6,
+        "sentiment": -1,
         "published": "July 4, 2022 12:01 PM"
     },
     {
@@ -455,7 +410,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/akron-ohio-sets-downtown-curfew-cancels-fireworks-wake-jayland-walker-rcna36557",
         "timestamp": 1656950575,
-        "sentiment": -6,
+        "sentiment": -1,
         "published": "July 4, 2022 12:02 PM"
     },
     {
@@ -473,7 +428,7 @@
         "category": "politics",
         "link": "https://www.bostonglobe.com/2022/07/01/opinion/now-can-we-all-agree-that-jan-6-was-an-insurrection/",
         "timestamp": 1656950990,
-        "sentiment": 1,
+        "sentiment": 2,
         "published": "July 4, 2022 12:09 PM"
     },
     {
@@ -482,7 +437,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/senate/3545580-romney-trumps-return-would-likely-make-malady-of-denial-deceit-and-distrust-in-u-s-incurable/",
         "timestamp": 1656951171,
-        "sentiment": 1,
+        "sentiment": 2,
         "published": "July 4, 2022 12:12 PM"
     },
     {
@@ -491,8 +446,17 @@
         "category": "news",
         "link": "https://www.deadlinedetroit.com/articles/30847/education_is_like_the_plague_hillsdale_college_president_says_at_closed-door_event",
         "timestamp": 1656952230,
-        "sentiment": -6,
+        "sentiment": -1,
         "published": "July 4, 2022 12:30 PM"
+    },
+    {
+        "title": "Russians are 'worn down' in Lysychansk and have had 'real problems', intelligence expert says",
+        "domain": "news.sky.com",
+        "category": "ukraine",
+        "link": "https://news.sky.com/story/russians-are-worn-down-in-lysychansk-and-have-had-real-problems-intelligence-expert-says-12645591",
+        "timestamp": 1656953792,
+        "sentiment": 0,
+        "published": "July 4, 2022 12:56 PM"
     },
     {
         "title": "'Stranger Things 5': Duffer Brothers Say Final Season Will Be Shorter Than Season 4, Feature Length-Series Finale Planned",
@@ -509,8 +473,17 @@
         "category": "florida",
         "link": "https://thespacecoastrocket.com/mayor-medina-fine-honor-dishonorably-discharged-convicted-war-criminal-out-on-parole-with-a-flag-at-independence-day-celebration/",
         "timestamp": 1656955012,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 4, 2022 1:16 PM"
+    },
+    {
+        "title": "Missouri state rep resigns after federal conviction for COVID-19 fraud scheme",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/state-watch/3545611-missouri-state-rep-resigns-after-federal-conviction-for-covid-19-fraud-scheme/",
+        "timestamp": 1656955216,
+        "sentiment": 2,
+        "published": "July 4, 2022 1:20 PM"
     },
     {
         "title": "Daughter of Toronto Blue Jays coach killed in 'terrible accident' while tubing in U.S.",
@@ -520,15 +493,6 @@
         "timestamp": 1656955506,
         "sentiment": 2,
         "published": "July 4, 2022 1:25 PM"
-    },
-    {
-        "title": "Gunman at large after firing on Chicago-area parade, police say",
-        "domain": "washingtonpost.com",
-        "category": "news",
-        "link": "https://www.washingtonpost.com/nation/2022/07/04/highland-park-parade-shooting/",
-        "timestamp": 1656956167,
-        "sentiment": -6,
-        "published": "July 4, 2022 1:36 PM"
     },
     {
         "title": "After 40 years of extinction, rhinos return to Mozambique",
@@ -545,7 +509,7 @@
         "category": "technology",
         "link": "https://www.theregister.com/2022/07/04/uk_us_border_biometric_data/",
         "timestamp": 1656956832,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 4, 2022 1:47 PM"
     },
     {
@@ -563,8 +527,17 @@
         "category": "news",
         "link": "https://www.wilx.com/2022/07/04/pro-choice-protestors-blocked-4th-july-parade-downtown-lansing/?outputType=amp",
         "timestamp": 1656957904,
-        "sentiment": -6,
+        "sentiment": -1,
         "published": "July 4, 2022 2:05 PM"
+    },
+    {
+        "title": "Wagner Mercenaries begin recruiting for Ukrainian war from Russian prison colonies",
+        "domain": "babel.ua",
+        "category": "worldnews",
+        "link": "https://babel.ua/en/news/80969-wagner-pmc-is-recruiting-russian-prisoners-for-the-war-in-ukraine",
+        "timestamp": 1656958197,
+        "sentiment": -4,
+        "published": "July 4, 2022 2:09 PM"
     },
     {
         "title": "Scientists discover a new giant waterlily that was hiding in plain sight for 177 years",
@@ -574,6 +547,195 @@
         "timestamp": 1656959227,
         "sentiment": 0,
         "published": "July 4, 2022 2:27 PM"
+    },
+    {
+        "title": "Tanzania Bans the Slaughter of Donkeys for their Skins",
+        "domain": "speciesunite.com",
+        "category": "UpliftingNews",
+        "link": "https://www.speciesunite.com/news-stories/petition-update-tanzania-bans-the-slaughter-of-donkeys-for-their-skins",
+        "timestamp": 1656959768,
+        "sentiment": 0,
+        "published": "July 4, 2022 2:36 PM"
+    },
+    {
+        "title": "Rich Russians should foot US$750 billion bill to rebuild, Ukraine PM says",
+        "domain": "scmp.com",
+        "category": "worldnews",
+        "link": "https://www.scmp.com/news/world/russia-central-asia/article/3184109/rich-russians-should-foot-us750-billion-bill-rebuild?utm_source=rss_feed",
+        "timestamp": 1656960143,
+        "sentiment": -4,
+        "published": "July 4, 2022 2:42 PM"
+    },
+    {
+        "title": "Association of triglyceride-glucose index (insulin resistance)with prognosis of COVID-19: A population-based study — TyG index was positively associated with severe complications of COVID-19 (adjusted odds ratio: 1.42)",
+        "domain": "ncbi.nlm.nih.gov",
+        "category": "science",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9225941/",
+        "timestamp": 1656960144,
+        "sentiment": 1,
+        "published": "July 4, 2022 2:42 PM"
+    },
+    {
+        "title": "Pope Francis describes abortion as like 'hiring a hit man'",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/pope-compares-abortion-hit-man-1721444",
+        "timestamp": 1656960517,
+        "sentiment": -4,
+        "published": "July 4, 2022 2:48 PM"
+    },
+    {
+        "title": "Amazon is using electric cargo bikes that look like mini-trucks to make deliveries in the UK",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2022/7/4/23194412/amazon-ebike-walking-delivery-london-hub",
+        "timestamp": 1656960553,
+        "sentiment": -1,
+        "published": "July 4, 2022 2:49 PM"
+    },
+    {
+        "title": "Hacker claims they stole police data on a billion Chinese citizens",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/china-hack-data-billion-citizens-police-173052297.html",
+        "timestamp": 1656961623,
+        "sentiment": -1,
+        "published": "July 4, 2022 3:07 PM"
+    },
+    {
+        "title": "New review of the immune system's circadian rhythm supports that morning vaccinations lead to improved responses",
+        "domain": "science.org",
+        "category": "science",
+        "link": "https://www.science.org/doi/abs/10.1126/sciimmunol.abm2465",
+        "timestamp": 1656963687,
+        "sentiment": 1,
+        "published": "July 4, 2022 3:41 PM"
+    },
+    {
+        "title": "Movement, Behavior, and Habitat Use of Whale Sharks (Rhincodon typus) in the Tropical Eastern Pacific Ocean",
+        "domain": "stri.si.edu",
+        "category": "science",
+        "link": "https://stri.si.edu/story/wanderlust",
+        "timestamp": 1656963942,
+        "sentiment": 1,
+        "published": "July 4, 2022 3:45 PM"
+    },
+    {
+        "title": "Magnum PI starts filming season five this fall",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/lists/magnum-pi-when-will-season-5-premiere-on-nbc-time-slot/",
+        "timestamp": 1656965198,
+        "sentiment": 1,
+        "published": "July 4, 2022 4:06 PM"
+    },
+    {
+        "title": "Tuscaloosa road closed due to chicken parts spill",
+        "domain": "wvtm13.com",
+        "category": "nottheonion",
+        "link": "https://www.wvtm13.com/article/tuscaloosa-road-closed-due-to-chicken-parts-spill/40502090",
+        "timestamp": 1656966814,
+        "sentiment": 0,
+        "published": "July 4, 2022 4:33 PM"
+    },
+    {
+        "title": "Kid Rock, who swears he's not homophobic, posts homophobic Fourth of July meme",
+        "domain": "consequence.net",
+        "category": "nottheonion",
+        "link": "https://consequence.net/2022/07/kid-rock-homophobic-meme/",
+        "timestamp": 1656966935,
+        "sentiment": 0,
+        "published": "July 4, 2022 4:35 PM"
+    },
+    {
+        "title": "China uses ‘mind-reading AI’ to test loyalty of Communist Party members",
+        "domain": "telegraph.co.uk",
+        "category": "technology",
+        "link": "https://www.telegraph.co.uk/world-news/2022/07/04/china-uses-mind-reading-ai-test-loyalty-communist-party-members/",
+        "timestamp": 1656967190,
+        "sentiment": -1,
+        "published": "July 4, 2022 4:39 PM"
+    },
+    {
+        "title": "Spain and Portugal suffering driest climate for 1,200 years, research shows.",
+        "domain": "theguardian.com",
+        "category": "science",
+        "link": "https://www.theguardian.com/environment/2022/jul/04/spain-and-portugal-suffering-driest-climate-for-1200-years-research-shows?CMP=share_btn_tw",
+        "timestamp": 1656967998,
+        "sentiment": 1,
+        "published": "July 4, 2022 4:53 PM"
+    },
+    {
+        "title": "Pro-Choice Resource Masterpost",
+        "domain": "docdro.id",
+        "category": "miami",
+        "link": "https://docdro.id/s3OwS8u",
+        "timestamp": 1656968181,
+        "sentiment": -2,
+        "published": "July 4, 2022 4:56 PM"
+    },
+    {
+        "title": "Chinese real-estate developers are accepting wheat, garlic, and peaches as down payments for properties as the market slumps and bond defaults mount",
+        "domain": "yahoo.com",
+        "category": "worldnews",
+        "link": "https://www.yahoo.com/finance/news/chinese-real-estate-developers-accepting-072814280.html",
+        "timestamp": 1656929613,
+        "sentiment": -1,
+        "published": "July 4, 2022 6:13 AM"
+    },
+    {
+        "title": "Michigan police chief Jeff King has apologized after it emerged that the department used images of Black men during target practice",
+        "domain": "cnn.com",
+        "category": "nottheonion",
+        "link": "https://www.cnn.com/2022/07/03/us/farmington-hills-police-department-black-target/index.html",
+        "timestamp": 1656936654,
+        "sentiment": 0,
+        "published": "July 4, 2022 8:10 AM"
+    },
+    {
+        "title": "Cassidy Hutchinson testimony prompts reassessment of Trump legal culpability",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/house/3544336-cassidy-hutchinson-testimony-prompts-reassessment-of-trump-legal-culpability/",
+        "timestamp": 1656938670,
+        "sentiment": 1,
+        "published": "July 4, 2022 8:44 AM"
+    },
+    {
+        "title": "Ukrainian flag raised over Snake Island after Russian retreat",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jul/04/ukrainian-flag-raised-over-snake-island-after-russian-retreat",
+        "timestamp": 1656940032,
+        "sentiment": -1,
+        "published": "July 4, 2022 9:07 AM"
+    },
+    {
+        "title": "Kitten rescued from Walmart vending machine",
+        "domain": "wral.com",
+        "category": "nottheonion",
+        "link": "https://www.wral.com/kitten-rescued-from-walmart-vending-machine/20359585/",
+        "timestamp": 1656946934,
+        "sentiment": 0,
+        "published": "July 4, 2022 11:02 AM"
+    },
+    {
+        "title": "Police: New Port Richey man arrested after throwing hot dog at St. Pete officer",
+        "domain": "fox13news.com",
+        "category": "nottheonion",
+        "link": "https://www.fox13news.com/news/police-new-port-richey-man-arrested-after-throwing-hot-dog-at-st-pete-officer",
+        "timestamp": 1656949391,
+        "sentiment": 0,
+        "published": "July 4, 2022 11:43 AM"
+    },
+    {
+        "title": "Gunman at large after firing on Chicago-area parade, police say",
+        "domain": "washingtonpost.com",
+        "category": "news",
+        "link": "https://www.washingtonpost.com/nation/2022/07/04/highland-park-parade-shooting/",
+        "timestamp": 1656956167,
+        "sentiment": -6,
+        "published": "July 4, 2022 1:36 PM"
     },
     {
         "title": "'Google' is most searched word on Bing, Google says",
@@ -592,69 +754,6 @@
         "timestamp": 1656959686,
         "sentiment": 0,
         "published": "July 4, 2022 2:34 PM"
-    },
-    {
-        "title": "Tanzania Bans the Slaughter of Donkeys for their Skins",
-        "domain": "speciesunite.com",
-        "category": "UpliftingNews",
-        "link": "https://www.speciesunite.com/news-stories/petition-update-tanzania-bans-the-slaughter-of-donkeys-for-their-skins",
-        "timestamp": 1656959768,
-        "sentiment": 0,
-        "published": "July 4, 2022 2:36 PM"
-    },
-    {
-        "title": "Association of triglyceride-glucose index (insulin resistance)with prognosis of COVID-19: A population-based study — TyG index was positively associated with severe complications of COVID-19 (adjusted odds ratio: 1.42)",
-        "domain": "ncbi.nlm.nih.gov",
-        "category": "science",
-        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9225941/",
-        "timestamp": 1656960144,
-        "sentiment": 0,
-        "published": "July 4, 2022 2:42 PM"
-    },
-    {
-        "title": "Pope Francis describes abortion as like 'hiring a hit man'",
-        "domain": "newsweek.com",
-        "category": "worldnews",
-        "link": "https://www.newsweek.com/pope-compares-abortion-hit-man-1721444",
-        "timestamp": 1656960517,
-        "sentiment": -1,
-        "published": "July 4, 2022 2:48 PM"
-    },
-    {
-        "title": "Amazon is using electric cargo bikes that look like mini-trucks to make deliveries in the UK",
-        "domain": "theverge.com",
-        "category": "technology",
-        "link": "https://www.theverge.com/2022/7/4/23194412/amazon-ebike-walking-delivery-london-hub",
-        "timestamp": 1656960553,
-        "sentiment": 0,
-        "published": "July 4, 2022 2:49 PM"
-    },
-    {
-        "title": "Hacker claims they stole police data on a billion Chinese citizens",
-        "domain": "engadget.com",
-        "category": "technology",
-        "link": "https://www.engadget.com/china-hack-data-billion-citizens-police-173052297.html",
-        "timestamp": 1656961623,
-        "sentiment": 0,
-        "published": "July 4, 2022 3:07 PM"
-    },
-    {
-        "title": "New review of the immune system's circadian rhythm supports that morning vaccinations lead to improved responses",
-        "domain": "science.org",
-        "category": "science",
-        "link": "https://www.science.org/doi/abs/10.1126/sciimmunol.abm2465",
-        "timestamp": 1656963687,
-        "sentiment": 0,
-        "published": "July 4, 2022 3:41 PM"
-    },
-    {
-        "title": "Movement, Behavior, and Habitat Use of Whale Sharks (Rhincodon typus) in the Tropical Eastern Pacific Ocean",
-        "domain": "stri.si.edu",
-        "category": "science",
-        "link": "https://stri.si.edu/story/wanderlust",
-        "timestamp": 1656963942,
-        "sentiment": 0,
-        "published": "July 4, 2022 3:45 PM"
     },
     {
         "title": "Ukraine flag raised again on Snake Island, military says",
@@ -700,15 +799,6 @@
         "timestamp": 1656943708,
         "sentiment": 1,
         "published": "July 4, 2022 10:08 AM"
-    },
-    {
-        "title": "Native American exhibit at the Met Museum explores the politics of water : NPR",
-        "domain": "npr.org",
-        "category": "nottheonion",
-        "link": "https://www.npr.org/2022/07/04/1109044833/a-provocative-exhibit-at-nycs-met-museum-takes-a-new-point-of-view",
-        "timestamp": 1656949150,
-        "sentiment": 0,
-        "published": "July 4, 2022 11:39 AM"
     },
     {
         "title": "Opinion: Nearly every American has a foreboding the country they love is losing its way",
