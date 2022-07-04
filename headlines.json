@@ -14,7 +14,7 @@
         "category": "technology",
         "link": "https://www.theverge.com/2022/7/3/23193443/apple-watch-series-8-detect-fever-body-temperature-sensor-rumors",
         "timestamp": 1656908986,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 4, 2022 12:29 AM"
     },
     {
@@ -23,17 +23,8 @@
         "category": "technology",
         "link": "https://finance.yahoo.com/news/chip-makers-refusing-build-semiconductor-061349212.html",
         "timestamp": 1656914637,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 4, 2022 2:03 AM"
-    },
-    {
-        "title": "Newly identified species is the world’s largest known giant water lily: Almost 180 years after specimens were first brought from Bolivia to the UK, a giant water lily has been confirmed as a distinct species",
-        "domain": "frontiersin.org",
-        "category": "science",
-        "link": "https://www.frontiersin.org/articles/10.3389/fpls.2022.883151/full",
-        "timestamp": 1656915566,
-        "sentiment": 2,
-        "published": "July 4, 2022 2:19 AM"
     },
     {
         "title": "Call to tighten New Zealand law that allows public pooing if no one watching",
@@ -41,8 +32,17 @@
         "category": "nottheonion",
         "link": "https://www.theguardian.com/world/2022/jul/04/call-to-tighten-new-zealand-law-that-allows-public-pooping-if-no-one-watching",
         "timestamp": 1656917208,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "July 4, 2022 2:46 AM"
+    },
+    {
+        "title": "Impeach Clarence Thomas petition hits 1M signatures: \"Justice is needed\"",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/impeach-clarence-thomas-petition-hits-1m-signatures-1721317?utm_medium=Social&utm_source=Twitter#Echobox=1656917750-1",
+        "timestamp": 1656918287,
+        "sentiment": 2,
+        "published": "July 4, 2022 3:04 AM"
     },
     {
         "title": "Fox and friends confront billion-dollar US lawsuits over election fraud claims",
@@ -68,7 +68,7 @@
         "category": "florida",
         "link": "https://thehill.com/homenews/state-watch/3545351-newsom-running-ads-attacking-gop-in-florida-dont-let-them-take-your-freedom/",
         "timestamp": 1656924384,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 4, 2022 4:46 AM"
     },
     {
@@ -81,6 +81,24 @@
         "published": "July 4, 2022 5:00 AM"
     },
     {
+        "title": "Winds of change for Samsung’s militant work culture",
+        "domain": "koreaherald.com",
+        "category": "technology",
+        "link": "https://www.koreaherald.com/view.php?ud=20220704000647",
+        "timestamp": 1656928398,
+        "sentiment": 0,
+        "published": "July 4, 2022 5:53 AM"
+    },
+    {
+        "title": "Astronomers have detected the alcohol molecule in interstellar space for the first time, in the form of propanol isomers -- normal-propanol (which has been detected in a star-forming region) & iso-propanol (the key ingredient in hand sanitizer).",
+        "domain": "mpg.de",
+        "category": "science",
+        "link": "https://www.mpg.de/18884791/sanitizer-in-the-galactic-centre-region",
+        "timestamp": 1656929248,
+        "sentiment": 2,
+        "published": "July 4, 2022 6:07 AM"
+    },
+    {
         "title": "Forest-Living East African Chimpanzees are Digging Wells for Cleaner Water. Digging wells to access or filter drinking water is a relatively rare behavior in the animal kingdom — only a handful of species have been documented to do so. This is the 1st report of habitual well-digging among chimpanzee",
         "domain": "sci-news.com",
         "category": "science",
@@ -88,6 +106,69 @@
         "timestamp": 1656929715,
         "sentiment": 2,
         "published": "July 4, 2022 6:15 AM"
+    },
+    {
+        "title": "‘Umbrella Academy’ showrunner reveals comic scenes too expensive for TV",
+        "domain": "streamingdigitally.com",
+        "category": "television",
+        "link": "https://www.streamingdigitally.com/news/umbrella-academy-showrunner-reveals-comic-scenes-too-expensive-for-tv/",
+        "timestamp": 1656931444,
+        "sentiment": 0,
+        "published": "July 4, 2022 6:44 AM"
+    },
+    {
+        "title": "A study found that tattoos and piercings are more common among those who experienced childhood abuse and neglect",
+        "domain": "psypost.org",
+        "category": "science",
+        "link": "https://www.psypost.org/2022/07/tattoos-and-piercings-are-more-common-among-those-who-experienced-childhood-abuse-and-neglect-63440",
+        "timestamp": 1656931683,
+        "sentiment": 2,
+        "published": "July 4, 2022 6:48 AM"
+    },
+    {
+        "title": "A game-changing study! Women should exercise in the morning, men in the evening...",
+        "domain": "fikrikadim.com",
+        "category": "sports",
+        "link": "https://www.fikrikadim.com/2022/07/04/a-game-changing-study-women-should-exercise-in-the-morning-men-in-the-evening/",
+        "timestamp": 1656931824,
+        "sentiment": 3,
+        "published": "July 4, 2022 6:50 AM"
+    },
+    {
+        "title": "Switzerland’s 20 million kWh ‘water battery’ is now operational",
+        "domain": "interestingengineering.com",
+        "category": "technology",
+        "link": "https://interestingengineering.com/switzerlands-water-battery-operational",
+        "timestamp": 1656932987,
+        "sentiment": 0,
+        "published": "July 4, 2022 7:09 AM"
+    },
+    {
+        "title": "Tractorgate MP says his wife chases him around the kitchen with scissors",
+        "domain": "scottishdailyexpress.co.uk",
+        "category": "nottheonion",
+        "link": "https://www.scottishdailyexpress.co.uk/news/politics/tractorgate-mp-neil-parish-tells-27392359",
+        "timestamp": 1656933560,
+        "sentiment": 2,
+        "published": "July 4, 2022 7:19 AM"
+    },
+    {
+        "title": "Bodycam video doesn't show Walker making a threatening move, family lawyer says : NPR",
+        "domain": "npr.org",
+        "category": "nottheonion",
+        "link": "https://www.npr.org/2022/07/04/1109667508/bodycam-doesnt-show-walker-making-a-threatening-movement-family-lawyer-says",
+        "timestamp": 1656934369,
+        "sentiment": 2,
+        "published": "July 4, 2022 7:32 AM"
+    },
+    {
+        "title": "Newly identified species is the world’s largest known giant water lily: Almost 180 years after specimens were first brought from Bolivia to the UK, a giant water lily has been confirmed as a distinct species",
+        "domain": "frontiersin.org",
+        "category": "science",
+        "link": "https://www.frontiersin.org/articles/10.3389/fpls.2022.883151/full",
+        "timestamp": 1656915566,
+        "sentiment": 2,
+        "published": "July 4, 2022 2:19 AM"
     },
     {
         "title": "'Love is Halal': Berlin Mosque Becomes the First to Raise LGBTQ+ Flag",
