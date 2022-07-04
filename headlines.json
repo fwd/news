@@ -14,7 +14,7 @@
         "category": "technology",
         "link": "https://www.theverge.com/2022/7/3/23193443/apple-watch-series-8-detect-fever-body-temperature-sensor-rumors",
         "timestamp": 1656908986,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 4, 2022 12:29 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "technology",
         "link": "https://finance.yahoo.com/news/chip-makers-refusing-build-semiconductor-061349212.html",
         "timestamp": 1656914637,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 4, 2022 2:03 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "nottheonion",
         "link": "https://www.theguardian.com/world/2022/jul/04/call-to-tighten-new-zealand-law-that-allows-public-pooping-if-no-one-watching",
         "timestamp": 1656917208,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 4, 2022 2:46 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.nbcnews.com/news/world/russia-ukraine-war-prisoners-of-war-beaten-taunted-kyiv-rcna36225",
         "timestamp": 1656919813,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 4, 2022 3:30 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/media/2022/jul/04/fox-oan-newsmax-lawsuits-election-fraud-claims",
         "timestamp": 1656921586,
-        "sentiment": -4,
+        "sentiment": -5,
         "published": "July 4, 2022 3:59 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/03/us/california-sara-kruzan-pardon-shooting-abuser/index.html",
         "timestamp": 1656922519,
-        "sentiment": -4,
+        "sentiment": -5,
         "published": "July 4, 2022 4:15 AM"
     },
     {
@@ -77,17 +77,8 @@
         "category": "florida",
         "link": "https://thehill.com/homenews/state-watch/3545351-newsom-running-ads-attacking-gop-in-florida-dont-let-them-take-your-freedom/",
         "timestamp": 1656924384,
-        "sentiment": 3,
+        "sentiment": 4,
         "published": "July 4, 2022 4:46 AM"
-    },
-    {
-        "title": "Kyiv Independent:⚡️ Russia’s Finance Ministry proposes to cut spending by 1.6 trillion rubles within next three years. Russia’s Finance Ministry suggests decreasing funding for the development of transportation systems, science, and multiple other initiatives in 2023-2025.",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/KyivIndependent/status/1543865499402002432?t=3wIM0mmlttFpxnzGvJ2MVw&s=09",
-        "timestamp": 1656924615,
-        "sentiment": -1,
-        "published": "July 4, 2022 4:50 AM"
     },
     {
         "title": "'Impeach Justice Clarence Thomas' Petition Nears 1 Million Signatures| \"He has shown he cannot be an impartial justice and is more concerned with covering up his wife's coup attempts than the health of the Supreme Court,\" reads the petition.",
@@ -113,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.yahoo.com/finance/news/chinese-real-estate-developers-accepting-072814280.html",
         "timestamp": 1656929613,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 4, 2022 6:13 AM"
     },
     {
@@ -131,35 +122,8 @@
         "category": "worldnews",
         "link": "https://www.euractiv.com/section/politics/short_news/bulgarian-secret-services-russia-pays-public-figures-to-spread-propaganda/",
         "timestamp": 1656929853,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 4, 2022 6:17 AM"
-    },
-    {
-        "title": "Entire industries in Germany could collapse due to Russian natural-gas supply cuts: union head",
-        "domain": "yahoo.com",
-        "category": "worldnews",
-        "link": "https://www.yahoo.com/finance/news/entire-industries-germany-could-collapse-053819136.html",
-        "timestamp": 1656931015,
-        "sentiment": -3,
-        "published": "July 4, 2022 6:36 AM"
-    },
-    {
-        "title": "‘Umbrella Academy’ showrunner reveals comic scenes too expensive for TV",
-        "domain": "streamingdigitally.com",
-        "category": "television",
-        "link": "https://www.streamingdigitally.com/news/umbrella-academy-showrunner-reveals-comic-scenes-too-expensive-for-tv/",
-        "timestamp": 1656931444,
-        "sentiment": 0,
-        "published": "July 4, 2022 6:44 AM"
-    },
-    {
-        "title": "A study found that tattoos and piercings are more common among those who experienced childhood abuse and neglect",
-        "domain": "psypost.org",
-        "category": "science",
-        "link": "https://www.psypost.org/2022/07/tattoos-and-piercings-are-more-common-among-those-who-experienced-childhood-abuse-and-neglect-63440",
-        "timestamp": 1656931683,
-        "sentiment": 0,
-        "published": "July 4, 2022 6:48 AM"
     },
     {
         "title": "HBO Max Halts Originals in Parts of Europe in Major Restructure",
@@ -176,7 +140,7 @@
         "category": "technology",
         "link": "https://interestingengineering.com/switzerlands-water-battery-operational",
         "timestamp": 1656932987,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 4, 2022 7:09 AM"
     },
     {
@@ -185,7 +149,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/ukraine-flag-raised-again-on-snake-island-military-says/ar-AAZb1h2?ocid=EMMX&cvid=8b9ec57889b24b0eace8fbd66c050b7d",
         "timestamp": 1656933255,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 4, 2022 7:14 AM"
     },
     {
@@ -194,7 +158,7 @@
         "category": "nottheonion",
         "link": "https://www.scottishdailyexpress.co.uk/news/politics/tractorgate-mp-neil-parish-tells-27392359",
         "timestamp": 1656933560,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 4, 2022 7:19 AM"
     },
     {
@@ -203,8 +167,26 @@
         "category": "nottheonion",
         "link": "https://www.npr.org/2022/07/04/1109667508/bodycam-doesnt-show-walker-making-a-threatening-movement-family-lawyer-says",
         "timestamp": 1656934369,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 4, 2022 7:32 AM"
+    },
+    {
+        "title": "Two dead, three officers injured in Haltom City, Texas, shooting",
+        "domain": "deltaplexnews.com",
+        "category": "news",
+        "link": "https://www.deltaplexnews.com/two-dead-three-officers-injured-in-haltom-city-texas-shooting/",
+        "timestamp": 1656935558,
+        "sentiment": -5,
+        "published": "July 4, 2022 7:52 AM"
+    },
+    {
+        "title": "Eiffel Tower riddled with rust and in need of repair. leaked reports say",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jul/04/eiffel-tower-riddled-with-rust-and-in-need-of-repair-leaked-reports-say",
+        "timestamp": 1656935595,
+        "sentiment": -1,
+        "published": "July 4, 2022 7:53 AM"
     },
     {
         "title": "South Dakota governor defends state's abortion 'trigger' ban when asked if 10-year-old should be forced to give birth",
@@ -221,7 +203,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/nexta_tv/status/1543885315915628545?s=21",
         "timestamp": 1656936275,
-        "sentiment": -1,
+        "sentiment": 6,
         "published": "July 4, 2022 8:04 AM"
     },
     {
@@ -230,7 +212,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jul/04/russian-cosmonauts-display-flag-of-occupied-luhansk-region-on-iss-ukraine",
         "timestamp": 1656936355,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 4, 2022 8:05 AM"
     },
     {
@@ -248,7 +230,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/tesla-sued-15-black-employees-racial-discrimination-2022-7",
         "timestamp": 1656936609,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 4, 2022 8:10 AM"
     },
     {
@@ -257,7 +239,7 @@
         "category": "nottheonion",
         "link": "https://www.cnn.com/2022/07/03/us/farmington-hills-police-department-black-target/index.html",
         "timestamp": 1656936654,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 4, 2022 8:10 AM"
     },
     {
@@ -293,17 +275,17 @@
         "category": "technology",
         "link": "https://apnews.com/article/entertainment-music-tennessee-f76d8df96043153f8bd735539795ddaf",
         "timestamp": 1656937267,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 4, 2022 8:21 AM"
     },
     {
         "title": "Cologne's Pride parade draws upwards of 1 million in Germany",
         "domain": "abcnews.go.com",
-        "category": "UpliftingNews",
+        "category": "news",
         "link": "https://abcnews.go.com/International/wireStory/colognes-pride-parade-draws-upwards-million-germany-86151653",
-        "timestamp": 1656937809,
-        "sentiment": 0,
-        "published": "July 4, 2022 8:30 AM"
+        "timestamp": 1656937794,
+        "sentiment": -5,
+        "published": "July 4, 2022 8:29 AM"
     },
     {
         "title": "Amber Heard launches bid to overturn result of US libel battle with Johnny Depp",
@@ -311,8 +293,17 @@
         "category": "news",
         "link": "https://www.standard.co.uk/news/world/amber-heard-libel-trial-appeal-johnny-depp-fairfax-jury-domestic-violence-washington-post-b1009994.html",
         "timestamp": 1656938018,
-        "sentiment": -4,
+        "sentiment": -5,
         "published": "July 4, 2022 8:33 AM"
+    },
+    {
+        "title": "Cassidy Hutchinson testimony prompts reassessment of Trump legal culpability",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/house/3544336-cassidy-hutchinson-testimony-prompts-reassessment-of-trump-legal-culpability/",
+        "timestamp": 1656938670,
+        "sentiment": 1,
+        "published": "July 4, 2022 8:44 AM"
     },
     {
         "title": "2 Arizona election officials abruptly quit before the primaries, citing continuous threats from Trump supporters over 2020 elections",
@@ -329,8 +320,53 @@
         "category": "sports",
         "link": "https://www.espn.com/tennis/story/_/id/34192599/wimbledon-appealing-fine-wta-russia-ban",
         "timestamp": 1656939345,
-        "sentiment": 1,
+        "sentiment": 5,
         "published": "July 4, 2022 8:55 AM"
+    },
+    {
+        "title": "A synthetic cannabinoid (JWH-108) induces more pronounced dissociative effects than natural cannabis, whereas both drugs equally impair cognitive functioning- suggests a new placebo-controlled study in healthy volunteers.",
+        "domain": "frontiersin.org",
+        "category": "science",
+        "link": "https://www.frontiersin.org/articles/10.3389/fpsyt.2022.891811/full",
+        "timestamp": 1656939596,
+        "sentiment": 0,
+        "published": "July 4, 2022 8:59 AM"
+    },
+    {
+        "title": "Kyiv Independent:⚡️ Russia’s Finance Ministry proposes to cut spending by 1.6 trillion rubles within next three years. Russia’s Finance Ministry suggests decreasing funding for the development of transportation systems, science, and multiple other initiatives in 2023-2025.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/KyivIndependent/status/1543865499402002432?t=3wIM0mmlttFpxnzGvJ2MVw&s=09",
+        "timestamp": 1656924615,
+        "sentiment": -1,
+        "published": "July 4, 2022 4:50 AM"
+    },
+    {
+        "title": "Entire industries in Germany could collapse due to Russian natural-gas supply cuts: union head",
+        "domain": "yahoo.com",
+        "category": "worldnews",
+        "link": "https://www.yahoo.com/finance/news/entire-industries-germany-could-collapse-053819136.html",
+        "timestamp": 1656931015,
+        "sentiment": -3,
+        "published": "July 4, 2022 6:36 AM"
+    },
+    {
+        "title": "‘Umbrella Academy’ showrunner reveals comic scenes too expensive for TV",
+        "domain": "streamingdigitally.com",
+        "category": "television",
+        "link": "https://www.streamingdigitally.com/news/umbrella-academy-showrunner-reveals-comic-scenes-too-expensive-for-tv/",
+        "timestamp": 1656931444,
+        "sentiment": 0,
+        "published": "July 4, 2022 6:44 AM"
+    },
+    {
+        "title": "A study found that tattoos and piercings are more common among those who experienced childhood abuse and neglect",
+        "domain": "psypost.org",
+        "category": "science",
+        "link": "https://www.psypost.org/2022/07/tattoos-and-piercings-are-more-common-among-those-who-experienced-childhood-abuse-and-neglect-63440",
+        "timestamp": 1656931683,
+        "sentiment": 0,
+        "published": "July 4, 2022 6:48 AM"
     },
     {
         "title": "Berlin mosque flies rainbow flag in support of LGBTQ community",
