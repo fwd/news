@@ -14,7 +14,7 @@
         "category": "technology",
         "link": "https://www.theverge.com/2022/7/3/23193443/apple-watch-series-8-detect-fever-body-temperature-sensor-rumors",
         "timestamp": 1656908986,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 4, 2022 12:29 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "technology",
         "link": "https://finance.yahoo.com/news/chip-makers-refusing-build-semiconductor-061349212.html",
         "timestamp": 1656914637,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 4, 2022 2:03 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "nottheonion",
         "link": "https://www.theguardian.com/world/2022/jul/04/call-to-tighten-new-zealand-law-that-allows-public-pooping-if-no-one-watching",
         "timestamp": 1656917208,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "July 4, 2022 2:46 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/impeach-clarence-thomas-petition-hits-1m-signatures-1721317?utm_medium=Social&utm_source=Twitter#Echobox=1656917750-1",
         "timestamp": 1656918287,
-        "sentiment": 2,
+        "sentiment": -5,
         "published": "July 4, 2022 3:04 AM"
     },
     {
@@ -77,17 +77,8 @@
         "category": "UpliftingNews",
         "link": "https://m.dw.com/en/berlin-mosque-flies-rainbow-flag-in-support-of-lgbtq-community/a-62333570",
         "timestamp": 1656925257,
-        "sentiment": 3,
-        "published": "July 4, 2022 5:00 AM"
-    },
-    {
-        "title": "Winds of change for Samsung’s militant work culture",
-        "domain": "koreaherald.com",
-        "category": "technology",
-        "link": "https://www.koreaherald.com/view.php?ud=20220704000647",
-        "timestamp": 1656928398,
         "sentiment": 0,
-        "published": "July 4, 2022 5:53 AM"
+        "published": "July 4, 2022 5:00 AM"
     },
     {
         "title": "Astronomers have detected the alcohol molecule in interstellar space for the first time, in the form of propanol isomers -- normal-propanol (which has been detected in a star-forming region) & iso-propanol (the key ingredient in hand sanitizer).",
@@ -108,6 +99,24 @@
         "published": "July 4, 2022 6:15 AM"
     },
     {
+        "title": "Bulgarian secret services: Russia pays public figures to spread propaganda",
+        "domain": "euractiv.com",
+        "category": "worldnews",
+        "link": "https://www.euractiv.com/section/politics/short_news/bulgarian-secret-services-russia-pays-public-figures-to-spread-propaganda/",
+        "timestamp": 1656929853,
+        "sentiment": -2,
+        "published": "July 4, 2022 6:17 AM"
+    },
+    {
+        "title": "Entire industries in Germany could collapse due to Russian natural-gas supply cuts: union head",
+        "domain": "yahoo.com",
+        "category": "worldnews",
+        "link": "https://www.yahoo.com/finance/news/entire-industries-germany-could-collapse-053819136.html",
+        "timestamp": 1656931015,
+        "sentiment": -2,
+        "published": "July 4, 2022 6:36 AM"
+    },
+    {
         "title": "‘Umbrella Academy’ showrunner reveals comic scenes too expensive for TV",
         "domain": "streamingdigitally.com",
         "category": "television",
@@ -126,21 +135,12 @@
         "published": "July 4, 2022 6:48 AM"
     },
     {
-        "title": "A game-changing study! Women should exercise in the morning, men in the evening...",
-        "domain": "fikrikadim.com",
-        "category": "sports",
-        "link": "https://www.fikrikadim.com/2022/07/04/a-game-changing-study-women-should-exercise-in-the-morning-men-in-the-evening/",
-        "timestamp": 1656931824,
-        "sentiment": 3,
-        "published": "July 4, 2022 6:50 AM"
-    },
-    {
         "title": "Switzerland’s 20 million kWh ‘water battery’ is now operational",
         "domain": "interestingengineering.com",
         "category": "technology",
         "link": "https://interestingengineering.com/switzerlands-water-battery-operational",
         "timestamp": 1656932987,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 4, 2022 7:09 AM"
     },
     {
@@ -149,7 +149,7 @@
         "category": "nottheonion",
         "link": "https://www.scottishdailyexpress.co.uk/news/politics/tractorgate-mp-neil-parish-tells-27392359",
         "timestamp": 1656933560,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "July 4, 2022 7:19 AM"
     },
     {
@@ -158,8 +158,62 @@
         "category": "nottheonion",
         "link": "https://www.npr.org/2022/07/04/1109667508/bodycam-doesnt-show-walker-making-a-threatening-movement-family-lawyer-says",
         "timestamp": 1656934369,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "July 4, 2022 7:32 AM"
+    },
+    {
+        "title": "Tesla sued by 15 Black employees alleging racial harassment. One said he was tackled at work and told to 'suck it up and be a man.'",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/tesla-sued-15-black-employees-racial-discrimination-2022-7",
+        "timestamp": 1656936609,
+        "sentiment": -5,
+        "published": "July 4, 2022 8:10 AM"
+    },
+    {
+        "title": "Michigan police chief Jeff King has apologized after it emerged that the department used images of Black men during target practice",
+        "domain": "cnn.com",
+        "category": "nottheonion",
+        "link": "https://www.cnn.com/2022/07/03/us/farmington-hills-police-department-black-target/index.html",
+        "timestamp": 1656936654,
+        "sentiment": -1,
+        "published": "July 4, 2022 8:10 AM"
+    },
+    {
+        "title": "Revolutionary new Swiss 'water battery' will be one of Europe's main renewable sources of energy",
+        "domain": "euronews.com",
+        "category": "UpliftingNews",
+        "link": "https://www.euronews.com/green/2022/06/30/enormous-water-battery-in-switzerland-will-help-prevent-power-shortages",
+        "timestamp": 1656936844,
+        "sentiment": 0,
+        "published": "July 4, 2022 8:14 AM"
+    },
+    {
+        "title": "Cologne's Pride parade draws upwards of 1 million in Germany",
+        "domain": "abcnews.go.com",
+        "category": "UpliftingNews",
+        "link": "https://abcnews.go.com/International/wireStory/colognes-pride-parade-draws-upwards-million-germany-86151653",
+        "timestamp": 1656937809,
+        "sentiment": 0,
+        "published": "July 4, 2022 8:30 AM"
+    },
+    {
+        "title": "Winds of change for Samsung’s militant work culture",
+        "domain": "koreaherald.com",
+        "category": "technology",
+        "link": "https://www.koreaherald.com/view.php?ud=20220704000647",
+        "timestamp": 1656928398,
+        "sentiment": 0,
+        "published": "July 4, 2022 5:53 AM"
+    },
+    {
+        "title": "A game-changing study! Women should exercise in the morning, men in the evening...",
+        "domain": "fikrikadim.com",
+        "category": "sports",
+        "link": "https://www.fikrikadim.com/2022/07/04/a-game-changing-study-women-should-exercise-in-the-morning-men-in-the-evening/",
+        "timestamp": 1656931824,
+        "sentiment": 3,
+        "published": "July 4, 2022 6:50 AM"
     },
     {
         "title": "Newly identified species is the world’s largest known giant water lily: Almost 180 years after specimens were first brought from Bolivia to the UK, a giant water lily has been confirmed as a distinct species",
