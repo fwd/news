@@ -5,7 +5,7 @@
         "category": "science",
         "link": "https://www.clinicalnutritionjournal.com/article/S0261-5614(22)00181-9/fulltext",
         "timestamp": 1656908212,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 4, 2022 12:16 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "technology",
         "link": "https://www.theverge.com/2022/7/3/23193443/apple-watch-series-8-detect-fever-body-temperature-sensor-rumors",
         "timestamp": 1656908986,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 4, 2022 12:29 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "technology",
         "link": "https://finance.yahoo.com/news/chip-makers-refusing-build-semiconductor-061349212.html",
         "timestamp": 1656914637,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 4, 2022 2:03 AM"
     },
     {
@@ -41,8 +41,17 @@
         "category": "politics",
         "link": "https://www.newsweek.com/impeach-clarence-thomas-petition-hits-1m-signatures-1721317?utm_medium=Social&utm_source=Twitter#Echobox=1656917750-1",
         "timestamp": 1656918287,
-        "sentiment": -5,
+        "sentiment": 1,
         "published": "July 4, 2022 3:04 AM"
+    },
+    {
+        "title": "Ukrainians taken captive by Russia say they were held in brutal conditions: ‘Everyone was beaten’",
+        "domain": "nbcnews.com",
+        "category": "worldnews",
+        "link": "https://www.nbcnews.com/news/world/russia-ukraine-war-prisoners-of-war-beaten-taunted-kyiv-rcna36225",
+        "timestamp": 1656919813,
+        "sentiment": -3,
+        "published": "July 4, 2022 3:30 AM"
     },
     {
         "title": "Fox and friends confront billion-dollar US lawsuits over election fraud claims",
@@ -50,7 +59,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/media/2022/jul/04/fox-oan-newsmax-lawsuits-election-fraud-claims",
         "timestamp": 1656921586,
-        "sentiment": -7,
+        "sentiment": -4,
         "published": "July 4, 2022 3:59 AM"
     },
     {
@@ -59,7 +68,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/03/us/california-sara-kruzan-pardon-shooting-abuser/index.html",
         "timestamp": 1656922519,
-        "sentiment": -7,
+        "sentiment": -4,
         "published": "July 4, 2022 4:15 AM"
     },
     {
@@ -72,13 +81,22 @@
         "published": "July 4, 2022 4:46 AM"
     },
     {
-        "title": "Berlin mosque flies rainbow flag in support of LGBTQ community",
-        "domain": "m.dw.com",
-        "category": "UpliftingNews",
-        "link": "https://m.dw.com/en/berlin-mosque-flies-rainbow-flag-in-support-of-lgbtq-community/a-62333570",
-        "timestamp": 1656925257,
-        "sentiment": 0,
-        "published": "July 4, 2022 5:00 AM"
+        "title": "Kyiv Independent:⚡️ Russia’s Finance Ministry proposes to cut spending by 1.6 trillion rubles within next three years. Russia’s Finance Ministry suggests decreasing funding for the development of transportation systems, science, and multiple other initiatives in 2023-2025.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/KyivIndependent/status/1543865499402002432?t=3wIM0mmlttFpxnzGvJ2MVw&s=09",
+        "timestamp": 1656924615,
+        "sentiment": -1,
+        "published": "July 4, 2022 4:50 AM"
+    },
+    {
+        "title": "'Impeach Justice Clarence Thomas' Petition Nears 1 Million Signatures| \"He has shown he cannot be an impartial justice and is more concerned with covering up his wife's coup attempts than the health of the Supreme Court,\" reads the petition.",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/07/03/impeach-justice-clarence-thomas-petition-nears-1-million-signatures",
+        "timestamp": 1656927643,
+        "sentiment": 1,
+        "published": "July 4, 2022 5:40 AM"
     },
     {
         "title": "Astronomers have detected the alcohol molecule in interstellar space for the first time, in the form of propanol isomers -- normal-propanol (which has been detected in a star-forming region) & iso-propanol (the key ingredient in hand sanitizer).",
@@ -86,8 +104,17 @@
         "category": "science",
         "link": "https://www.mpg.de/18884791/sanitizer-in-the-galactic-centre-region",
         "timestamp": 1656929248,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 4, 2022 6:07 AM"
+    },
+    {
+        "title": "Chinese real-estate developers are accepting wheat, garlic, and peaches as down payments for properties as the market slumps and bond defaults mount",
+        "domain": "yahoo.com",
+        "category": "worldnews",
+        "link": "https://www.yahoo.com/finance/news/chinese-real-estate-developers-accepting-072814280.html",
+        "timestamp": 1656929613,
+        "sentiment": -3,
+        "published": "July 4, 2022 6:13 AM"
     },
     {
         "title": "Forest-Living East African Chimpanzees are Digging Wells for Cleaner Water. Digging wells to access or filter drinking water is a relatively rare behavior in the animal kingdom — only a handful of species have been documented to do so. This is the 1st report of habitual well-digging among chimpanzee",
@@ -95,7 +122,7 @@
         "category": "science",
         "link": "http://www.sci-news.com/biology/well-digging-chimpanzees-10947.html",
         "timestamp": 1656929715,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 4, 2022 6:15 AM"
     },
     {
@@ -104,7 +131,7 @@
         "category": "worldnews",
         "link": "https://www.euractiv.com/section/politics/short_news/bulgarian-secret-services-russia-pays-public-figures-to-spread-propaganda/",
         "timestamp": 1656929853,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 4, 2022 6:17 AM"
     },
     {
@@ -113,7 +140,7 @@
         "category": "worldnews",
         "link": "https://www.yahoo.com/finance/news/entire-industries-germany-could-collapse-053819136.html",
         "timestamp": 1656931015,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 4, 2022 6:36 AM"
     },
     {
@@ -131,8 +158,17 @@
         "category": "science",
         "link": "https://www.psypost.org/2022/07/tattoos-and-piercings-are-more-common-among-those-who-experienced-childhood-abuse-and-neglect-63440",
         "timestamp": 1656931683,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 4, 2022 6:48 AM"
+    },
+    {
+        "title": "HBO Max Halts Originals in Parts of Europe in Major Restructure",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/global/hbo-max-europe-originals-development-1235308730/",
+        "timestamp": 1656932462,
+        "sentiment": 0,
+        "published": "July 4, 2022 7:01 AM"
     },
     {
         "title": "Switzerland’s 20 million kWh ‘water battery’ is now operational",
@@ -140,8 +176,17 @@
         "category": "technology",
         "link": "https://interestingengineering.com/switzerlands-water-battery-operational",
         "timestamp": 1656932987,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 4, 2022 7:09 AM"
+    },
+    {
+        "title": "Ukraine flag raised again on Snake Island, military says",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-us/news/world/ukraine-flag-raised-again-on-snake-island-military-says/ar-AAZb1h2?ocid=EMMX&cvid=8b9ec57889b24b0eace8fbd66c050b7d",
+        "timestamp": 1656933255,
+        "sentiment": -3,
+        "published": "July 4, 2022 7:14 AM"
     },
     {
         "title": "Tractorgate MP says his wife chases him around the kitchen with scissors",
@@ -162,12 +207,48 @@
         "published": "July 4, 2022 7:32 AM"
     },
     {
+        "title": "South Dakota governor defends state's abortion 'trigger' ban when asked if 10-year-old should be forced to give birth",
+        "domain": "edition.cnn.com",
+        "category": "politics",
+        "link": "https://edition.cnn.com/2022/07/03/politics/kristi-noem-south-dakota-abortion-trigger-ban/index.html",
+        "timestamp": 1656935771,
+        "sentiment": 1,
+        "published": "July 4, 2022 7:56 AM"
+    },
+    {
+        "title": "Russian tourists complain that they have found postcards addressed to them at #Turkish resorts. They inform that they are financing the production of #Bayraktars for #Ukraine with taxes.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/nexta_tv/status/1543885315915628545?s=21",
+        "timestamp": 1656936275,
+        "sentiment": -1,
+        "published": "July 4, 2022 8:04 AM"
+    },
+    {
+        "title": "Russian cosmonauts display flag of occupied Luhansk region on ISS | Russia",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jul/04/russian-cosmonauts-display-flag-of-occupied-luhansk-region-on-iss-ukraine",
+        "timestamp": 1656936355,
+        "sentiment": -3,
+        "published": "July 4, 2022 8:05 AM"
+    },
+    {
+        "title": "Opinion: Nearly every American has a foreboding the country they love is losing its way",
+        "domain": "washingtonpost.com",
+        "category": "politics",
+        "link": "https://www.washingtonpost.com/opinions/2022/07/03/july-4-america-national-character-decline/",
+        "timestamp": 1656936576,
+        "sentiment": 1,
+        "published": "July 4, 2022 8:09 AM"
+    },
+    {
         "title": "Tesla sued by 15 Black employees alleging racial harassment. One said he was tackled at work and told to 'suck it up and be a man.'",
         "domain": "businessinsider.com",
         "category": "technology",
         "link": "https://www.businessinsider.com/tesla-sued-15-black-employees-racial-discrimination-2022-7",
         "timestamp": 1656936609,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 4, 2022 8:10 AM"
     },
     {
@@ -180,6 +261,24 @@
         "published": "July 4, 2022 8:10 AM"
     },
     {
+        "title": "Watergate prosecutor says slapping Trump with a charge for rebellion or insurrection could prevent him from ever holding office again",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/watergate-prosecutor-says-trump-could-be-charged-rebellion-and-insurrection-2022-7",
+        "timestamp": 1656936693,
+        "sentiment": 1,
+        "published": "July 4, 2022 8:11 AM"
+    },
+    {
+        "title": "Kids' neighborhoods can affect their developing brains, a new study finds",
+        "domain": "theconversation.com",
+        "category": "science",
+        "link": "https://theconversation.com/kids-neighborhoods-can-affect-their-developing-brains-a-new-study-finds-184035",
+        "timestamp": 1656936745,
+        "sentiment": 0,
+        "published": "July 4, 2022 8:12 AM"
+    },
+    {
         "title": "Revolutionary new Swiss 'water battery' will be one of Europe's main renewable sources of energy",
         "domain": "euronews.com",
         "category": "UpliftingNews",
@@ -189,6 +288,15 @@
         "published": "July 4, 2022 8:14 AM"
     },
     {
+        "title": "Manufacturers struggle to keep pace with vinyl record demand",
+        "domain": "apnews.com",
+        "category": "technology",
+        "link": "https://apnews.com/article/entertainment-music-tennessee-f76d8df96043153f8bd735539795ddaf",
+        "timestamp": 1656937267,
+        "sentiment": 0,
+        "published": "July 4, 2022 8:21 AM"
+    },
+    {
         "title": "Cologne's Pride parade draws upwards of 1 million in Germany",
         "domain": "abcnews.go.com",
         "category": "UpliftingNews",
@@ -196,6 +304,42 @@
         "timestamp": 1656937809,
         "sentiment": 0,
         "published": "July 4, 2022 8:30 AM"
+    },
+    {
+        "title": "Amber Heard launches bid to overturn result of US libel battle with Johnny Depp",
+        "domain": "standard.co.uk",
+        "category": "news",
+        "link": "https://www.standard.co.uk/news/world/amber-heard-libel-trial-appeal-johnny-depp-fairfax-jury-domestic-violence-washington-post-b1009994.html",
+        "timestamp": 1656938018,
+        "sentiment": -4,
+        "published": "July 4, 2022 8:33 AM"
+    },
+    {
+        "title": "2 Arizona election officials abruptly quit before the primaries, citing continuous threats from Trump supporters over 2020 elections",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/2-arizona-election-officials-quit-trump-supporters-threatened-2022-7",
+        "timestamp": 1656939224,
+        "sentiment": 1,
+        "published": "July 4, 2022 8:53 AM"
+    },
+    {
+        "title": "Wimbledon appealing WTA fine over Russia ban.",
+        "domain": "espn.com",
+        "category": "sports",
+        "link": "https://www.espn.com/tennis/story/_/id/34192599/wimbledon-appealing-fine-wta-russia-ban",
+        "timestamp": 1656939345,
+        "sentiment": 1,
+        "published": "July 4, 2022 8:55 AM"
+    },
+    {
+        "title": "Berlin mosque flies rainbow flag in support of LGBTQ community",
+        "domain": "m.dw.com",
+        "category": "UpliftingNews",
+        "link": "https://m.dw.com/en/berlin-mosque-flies-rainbow-flag-in-support-of-lgbtq-community/a-62333570",
+        "timestamp": 1656925257,
+        "sentiment": 0,
+        "published": "July 4, 2022 5:00 AM"
     },
     {
         "title": "Winds of change for Samsung’s militant work culture",
