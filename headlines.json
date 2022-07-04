@@ -32,7 +32,7 @@
         "category": "nottheonion",
         "link": "https://www.npr.org/2022/07/02/1109576113/minnesota-thc-edibles-accident-delta-8",
         "timestamp": 1656834848,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "July 3, 2022 3:54 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-europe-62025541",
         "timestamp": 1656837710,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 3, 2022 4:41 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "television",
         "link": "https://www.digitalspy.com/tv/ustv/a40487901/stranger-things-season-4-volume-2-netflix-crash/",
         "timestamp": 1656839966,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 3, 2022 5:19 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jul/03/meeting-of-afghan-clerics-ends-with-silence-on-education-for-girls",
         "timestamp": 1656843430,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 3, 2022 6:17 AM"
     },
     {
@@ -88,15 +88,6 @@
         "timestamp": 1656844875,
         "sentiment": -2,
         "published": "July 3, 2022 6:41 AM"
-    },
-    {
-        "title": "Biden Urged to Embrace Windfall Tax as Exxon Says Profits Doubled in Second Quarter | \"It's time for the president to demand that Congress pass a windfall profits tax on Big Oil and use the revenue to provide rebates to consumers NOW!\" wrote Sen. Bernie Sanders.",
-        "domain": "commondreams.org",
-        "category": "politics",
-        "link": "https://www.commondreams.org/news/2022/07/03/biden-urged-embrace-windfall-tax-exxon-says-profits-doubled-second-quarter",
-        "timestamp": 1656846296,
-        "sentiment": 5,
-        "published": "July 3, 2022 7:04 AM"
     },
     {
         "title": "Madison Catholic Church vandalized with ‘anti-“pro-life”’ message",
@@ -158,16 +149,7 @@
         "category": "politics",
         "link": "https://www.al.com/news/2022/07/impeach-clarence-thomas-nearly-a-million-people-have-signed-a-petition-asking-for-it.html",
         "timestamp": 1656854306,
-        "sentiment": 5,
-        "published": "July 3, 2022 9:18 AM"
-    },
-    {
-        "title": "Shanghai police database for sale in what could be China’s biggest ever data breach",
-        "domain": "asiamarkets.com",
-        "category": "worldnews",
-        "link": "https://www.asiamarkets.com/shanghai-police-database-for-sale-in-what-could-be-chinas-biggest-ever-data-breach/",
-        "timestamp": 1656854334,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 3, 2022 9:18 AM"
     },
     {
@@ -176,7 +158,7 @@
         "category": "nottheonion",
         "link": "https://www.bbc.co.uk/news/uk-politics-62025612",
         "timestamp": 1656855228,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "July 3, 2022 9:33 AM"
     },
     {
@@ -185,7 +167,7 @@
         "category": "politics",
         "link": "https://abcnews.go.com/Politics/prosecuting-trump-jan-fuel-graver-threat-liz-cheney/story?id=86132933",
         "timestamp": 1656855681,
-        "sentiment": 5,
+        "sentiment": -3,
         "published": "July 3, 2022 9:41 AM"
     },
     {
@@ -203,7 +185,7 @@
         "category": "television",
         "link": "https://www.salon.com/2022/07/02/the-stranger-things-season-4-finale-gives-metallicas-master-of-puppets-the-kate-bush-push/",
         "timestamp": 1656856115,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 3, 2022 9:48 AM"
     },
     {
@@ -239,7 +221,7 @@
         "category": "ukraine",
         "link": "https://www.bbc.co.uk/news/live/world-europe-62022073?ns_mchannel=social&ns_source=twitter&ns_campaign=bbc_live&ns_linkname=62c1a2029db6d5693fa5801d%26Russian%20ship%20carrying%20Ukrainian%20grain%20detained%20in%20Turkey%262022-07-03T14%3A34%3A24.349Z&ns_fee=0&pinned_post_locator=urn:asset:aee7ca59-4f04-4c70-9855-a58d61c592f1&pinned_post_asset_id=62c1a2029db6d5693fa5801d&pinned_post_type=share",
         "timestamp": 1656859184,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 3, 2022 10:39 AM"
     },
     {
@@ -248,7 +230,7 @@
         "category": "nottheonion",
         "link": "https://www.androidcentral.com/apps-software/google-to-delete-location-data-for-those-who-visited-abortion-clinics",
         "timestamp": 1656860004,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "July 3, 2022 10:53 AM"
     },
     {
@@ -266,7 +248,7 @@
         "category": "politics",
         "link": "https://newrepublic.com/article/166983/supreme-court-epa-power-grab",
         "timestamp": 1656860322,
-        "sentiment": 5,
+        "sentiment": -3,
         "published": "July 3, 2022 10:58 AM"
     },
     {
@@ -311,7 +293,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/ukraines-ambassador-turkey-says-russian-ship-carrying-ukrainian-grain-detained-2022-07-03/",
         "timestamp": 1656863006,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 3, 2022 11:43 AM"
     },
     {
@@ -320,7 +302,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/sunday-talk-shows/3545029-kinzinger-says-more-witnesses-have-come-forward-after-hutchinson-testimony/",
         "timestamp": 1656863360,
-        "sentiment": 5,
+        "sentiment": -3,
         "published": "July 3, 2022 11:49 AM"
     },
     {
@@ -338,7 +320,7 @@
         "category": "nottheonion",
         "link": "https://thehill.com/homenews/campaign/3545062-kinzinger-calls-cheney-primary-challengers-a-bunch-of-armpit-farters/",
         "timestamp": 1656865133,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "July 3, 2022 12:18 PM"
     },
     {
@@ -347,16 +329,7 @@
         "category": "worldnews",
         "link": "https://www.rferl.org/a/ukraine-gazprombank-sanctions-funds-russia-war-soldiers-wages/31920143.html",
         "timestamp": 1656865320,
-        "sentiment": -2,
-        "published": "July 3, 2022 12:22 PM"
-    },
-    {
-        "title": "B.C. women get an up-close encounter with humpback whale off coast of Vancouver Island | CBC News",
-        "domain": "cbc.ca",
-        "category": "UpliftingNews",
-        "link": "https://www.cbc.ca/news/canada/british-columbia/bc-woman-humpback-whale-1.6508956",
-        "timestamp": 1656865349,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 3, 2022 12:22 PM"
     },
     {
@@ -365,7 +338,7 @@
         "category": "television",
         "link": "https://collider.com/seth-macfarlane-the-orville-new-horizons-interview-season-3-directing-hulu/",
         "timestamp": 1656865639,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 3, 2022 12:27 PM"
     },
     {
@@ -374,7 +347,7 @@
         "category": "politics",
         "link": "https://www.motherjones.com/politics/2022/07/liz-cheney-against-donald-trump-2024/",
         "timestamp": 1656866429,
-        "sentiment": 5,
+        "sentiment": -3,
         "published": "July 3, 2022 12:40 PM"
     },
     {
@@ -387,12 +360,21 @@
         "published": "July 3, 2022 12:41 PM"
     },
     {
+        "title": "Liz Cheney says the Jan. 6 committee could potentially make multiple criminal referrals, including one against Trump",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/liz-cheney-trump-january-6-committee-criminal-referrals-justice-department-2022-7",
+        "timestamp": 1656866635,
+        "sentiment": -3,
+        "published": "July 3, 2022 12:43 PM"
+    },
+    {
         "title": "Russian ship carrying Ukrainian grain detained by Turkish customs",
         "domain": "jpost.com",
         "category": "worldnews",
         "link": "https://www.jpost.com/breaking-news/article-711084",
         "timestamp": 1656866956,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 3, 2022 12:49 PM"
     },
     {
@@ -419,7 +401,7 @@
         "category": "florida",
         "link": "https://www.nbcnews.com/news/us-news/rabbi-fighting-floridas-anti-abortion-law-mission-help-religious-group-rcna35812",
         "timestamp": 1656868977,
-        "sentiment": 8,
+        "sentiment": -1,
         "published": "July 3, 2022 1:22 PM"
     },
     {
@@ -437,7 +419,7 @@
         "category": "worldnews",
         "link": "https://www.albawaba.com/node/love-halal-berlin-mosque-becomes-first-raise-lgbtq-flag-1482830",
         "timestamp": 1656869559,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 3, 2022 1:32 PM"
     },
     {
@@ -446,7 +428,7 @@
         "category": "television",
         "link": "https://www.avclub.com/gravity-falls-storytelling-queer-representation-tv-1849131480",
         "timestamp": 1656869639,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 3, 2022 1:33 PM"
     },
     {
@@ -455,7 +437,7 @@
         "category": "worldnews",
         "link": "https://nltimes.nl/2022/07/03/dutch-mps-ready-ban-video-game-loot-boxes-citing-manipulation",
         "timestamp": 1656870256,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 3, 2022 1:44 PM"
     },
     {
@@ -491,7 +473,7 @@
         "category": "politics",
         "link": "https://www.motherjones.com/politics/2022/07/kristi-noem-rape-10-year-old-forced-birth-abortion-south-dakota-roe/",
         "timestamp": 1656871714,
-        "sentiment": 5,
+        "sentiment": -3,
         "published": "July 3, 2022 2:08 PM"
     },
     {
@@ -500,7 +482,7 @@
         "category": "nottheonion",
         "link": "https://news.sky.com/story/dozens-kept-in-nigerian-church-basement-awaiting-second-coming-of-christ-freed-by-police-12644993",
         "timestamp": 1656872609,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "July 3, 2022 2:23 PM"
     },
     {
@@ -509,7 +491,7 @@
         "category": "politics",
         "link": "https://www.latimes.com/california/story/2022-07-02/newsom-pardons-sara-kruzan-woman-sent-to-prison-for-killing-man-who-sex-trafficked-her",
         "timestamp": 1656873708,
-        "sentiment": 5,
+        "sentiment": -3,
         "published": "July 3, 2022 2:41 PM"
     },
     {
@@ -518,7 +500,7 @@
         "category": "ukraine",
         "link": "https://www.ukrinform.net/rubric-ato/3521138-slovakia-planning-to-send-mig29-fighter-jets-and-tanks-to-ukraine.html",
         "timestamp": 1656873709,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 3, 2022 2:41 PM"
     },
     {
@@ -536,7 +518,7 @@
         "category": "television",
         "link": "https://www.pastemagazine.com/tv/netflix/stranger-things-season-4-finale-extended-runtime/",
         "timestamp": 1656873936,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 3, 2022 2:45 PM"
     },
     {
@@ -545,7 +527,7 @@
         "category": "nottheonion",
         "link": "https://thenationaldesk.com/news/from-the-desk/snip-for-shake-deal-restaurant-offering-free-milkshakes-for-those-who-get-vasectomies-nashville-tennessee-hot-dogs-daddys-dogs-united-states-instagram-social-media-response-health-care-medical-procedure",
         "timestamp": 1656874087,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "July 3, 2022 2:48 PM"
     },
     {
@@ -563,7 +545,7 @@
         "category": "television",
         "link": "https://www.crunchyroll.com/anime-news/2022/07/03-1/solo-leveling-anime-officially-announced-coming-2023-from-aniplex-and-crunchyroll",
         "timestamp": 1656875764,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 3, 2022 3:16 PM"
     },
     {
@@ -572,7 +554,7 @@
         "category": "nottheonion",
         "link": "https://www.newsweek.com/marjorie-taylor-greene-climate-change-good-droughts-1720634",
         "timestamp": 1656875933,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "July 3, 2022 3:18 PM"
     },
     {
@@ -581,7 +563,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.co.uk/news/world-europe-62030051",
         "timestamp": 1656875953,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 3, 2022 3:19 PM"
     },
     {
@@ -590,7 +572,7 @@
         "category": "worldnews",
         "link": "https://www.politico.com/news/2022/07/03/olaf-scholz-germany-russia-ukraine-00043888",
         "timestamp": 1656876561,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 3, 2022 3:29 PM"
     },
     {
@@ -635,7 +617,7 @@
         "category": "politics",
         "link": "https://talkingpointsmemo.com/news/supreme-court-maryland-virginia-protests-conservative-justices-roe",
         "timestamp": 1656881593,
-        "sentiment": 5,
+        "sentiment": -3,
         "published": "July 3, 2022 4:53 PM"
     },
     {
@@ -653,8 +635,17 @@
         "category": "florida",
         "link": "https://www.bloomberg.com/news/articles/2022-07-03/california-governor-newsom-runs-ads-in-florida-attacking-gop",
         "timestamp": 1656882473,
-        "sentiment": 8,
+        "sentiment": -1,
         "published": "July 3, 2022 5:07 PM"
+    },
+    {
+        "title": "Canadian fighting in Ukraine pleads for more equipment",
+        "domain": "globalnews.ca",
+        "category": "worldnews",
+        "link": "https://globalnews.ca/news/8959668/canadian-ukraine-more-equipment/",
+        "timestamp": 1656882953,
+        "sentiment": -3,
+        "published": "July 3, 2022 5:15 PM"
     },
     {
         "title": "Kyrgios, Tsitsipas fined after fiery 3rd-round match.",
@@ -671,7 +662,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/kinzinger-new-witnesses-have-stepped-up-after-hutchinsons-testimony-2022-7?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1656883415,
-        "sentiment": 5,
+        "sentiment": -3,
         "published": "July 3, 2022 5:23 PM"
     },
     {
@@ -689,7 +680,7 @@
         "category": "nottheonion",
         "link": "https://www.theguardian.com/technology/2022/apr/14/twitter-nft-jack-dorsey-sina-estavi",
         "timestamp": 1656886898,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "July 3, 2022 6:21 PM"
     },
     {
@@ -702,13 +693,13 @@
         "published": "July 3, 2022 6:34 PM"
     },
     {
-        "title": "Angels outfielder Taylor Ward realizes that he was getting tagged out instead of receiving a souvenir from the Houston Astros",
-        "domain": "gfycat.com",
-        "category": "sports",
-        "link": "https://gfycat.com/impartialweepyeland",
-        "timestamp": 1656887949,
-        "sentiment": 0,
-        "published": "July 3, 2022 6:39 PM"
+        "title": "Ugandan prophet claims he was driving along the Entebbe Express Highway when his car was lifted up by Jesus to heaven",
+        "domain": "matookerepublic.com",
+        "category": "nottheonion",
+        "link": "https://www.matookerepublic.com/2022/06/27/ugandan-prophet-claims-he-was-driving-along-the-entebbe-express-highway-when-his-car-was-lifted-up-by-jesus-to-heaven/",
+        "timestamp": 1656891347,
+        "sentiment": 2,
+        "published": "July 3, 2022 7:35 PM"
     },
     {
         "title": "California Gov. Gavin Newsom Has July 4 Attack Ad Fireworks For Florida’s Gov. Ron DeSantis",
@@ -716,7 +707,7 @@
         "category": "florida",
         "link": "https://deadline.com/2022/07/gavin-newsom-ron-desantis-attack-ad-1235057531/",
         "timestamp": 1656892525,
-        "sentiment": 8,
+        "sentiment": -1,
         "published": "July 3, 2022 7:55 PM"
     },
     {
@@ -729,6 +720,51 @@
         "published": "July 3, 2022 8:03 PM"
     },
     {
+        "title": "Firefighters came to the rescue of a kitten trapped in a Walmart Pepsi machine",
+        "domain": "cnn.com",
+        "category": "UpliftingNews",
+        "link": "https://www.cnn.com/2022/07/03/us/kitten-rescued-pepsi-machine-tennessee-trnd/index.html",
+        "timestamp": 1656894480,
+        "sentiment": 0,
+        "published": "July 3, 2022 8:28 PM"
+    },
+    {
+        "title": "Biden Urged to Embrace Windfall Tax as Exxon Says Profits Doubled in Second Quarter | \"It's time for the president to demand that Congress pass a windfall profits tax on Big Oil and use the revenue to provide rebates to consumers NOW!\" wrote Sen. Bernie Sanders.",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/07/03/biden-urged-embrace-windfall-tax-exxon-says-profits-doubled-second-quarter",
+        "timestamp": 1656846296,
+        "sentiment": 5,
+        "published": "July 3, 2022 7:04 AM"
+    },
+    {
+        "title": "Shanghai police database for sale in what could be China’s biggest ever data breach",
+        "domain": "asiamarkets.com",
+        "category": "worldnews",
+        "link": "https://www.asiamarkets.com/shanghai-police-database-for-sale-in-what-could-be-chinas-biggest-ever-data-breach/",
+        "timestamp": 1656854334,
+        "sentiment": -2,
+        "published": "July 3, 2022 9:18 AM"
+    },
+    {
+        "title": "B.C. women get an up-close encounter with humpback whale off coast of Vancouver Island | CBC News",
+        "domain": "cbc.ca",
+        "category": "UpliftingNews",
+        "link": "https://www.cbc.ca/news/canada/british-columbia/bc-woman-humpback-whale-1.6508956",
+        "timestamp": 1656865349,
+        "sentiment": 0,
+        "published": "July 3, 2022 12:22 PM"
+    },
+    {
+        "title": "Angels outfielder Taylor Ward realizes that he was getting tagged out instead of receiving a souvenir from the Houston Astros",
+        "domain": "gfycat.com",
+        "category": "sports",
+        "link": "https://gfycat.com/impartialweepyeland",
+        "timestamp": 1656887949,
+        "sentiment": 0,
+        "published": "July 3, 2022 6:39 PM"
+    },
+    {
         "title": "These sea worms could be the key to keeping transplant organs 'alive' longer",
         "domain": "euronews.com",
         "category": "UpliftingNews",
@@ -736,15 +772,6 @@
         "timestamp": 1656847804,
         "sentiment": 0,
         "published": "July 3, 2022 7:30 AM"
-    },
-    {
-        "title": "Liz Cheney says the Jan. 6 committee could potentially make multiple criminal referrals, including one against Trump",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/liz-cheney-trump-january-6-committee-criminal-referrals-justice-department-2022-7",
-        "timestamp": 1656866635,
-        "sentiment": -3,
-        "published": "July 3, 2022 12:43 PM"
     },
     {
         "title": "4th of July Protests re: Roe vs Wade | Orlando Viera Inverness Daytona Beach Lakeland Jacksonville",
