@@ -23,7 +23,7 @@
         "category": "nottheonion",
         "link": "https://www.theguardian.com/world/2022/jul/06/free-noodles-offered-as-japan-wrestles-with-low-youth-turnout-for-elections",
         "timestamp": 1657089537,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 6, 2022 2:38 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "technology",
         "link": "https://www.theregister.com/2022/07/06/apple_tribunal/",
         "timestamp": 1657098054,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 6, 2022 5:00 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "politics",
         "link": "https://www.npr.org/2022/07/06/1109193929/the-first-gen-z-candidates-are-running-for-congress-and-running-against-compromi",
         "timestamp": 1657099423,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 6, 2022 5:23 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "technology",
         "link": "https://mashable.com/article/anti-speeding-isa-europe?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1657099959,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 6, 2022 5:32 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "technology",
         "link": "https://news.sky.com/story/amazon-being-investigated-in-uk-for-practices-which-may-give-customers-worse-deal-12646765",
         "timestamp": 1657100131,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 6, 2022 5:35 AM"
     },
     {
@@ -81,21 +81,12 @@
         "published": "July 6, 2022 6:31 AM"
     },
     {
-        "title": "Lindsey Graham sought \"more favorable outcome\" for Trump—Georgia subpoena",
-        "domain": "newsweek.com",
-        "category": "politics",
-        "link": "https://www.newsweek.com/lindsey-graham-subpoena-georgia-ballots-brad-raffensperger-1722033",
-        "timestamp": 1657103730,
-        "sentiment": 0,
-        "published": "July 6, 2022 6:35 AM"
-    },
-    {
         "title": "British Triathlon becomes first UK sport to create 'open' category for transgender athletes",
         "domain": "bbc.co.uk",
         "category": "sports",
         "link": "https://www.bbc.co.uk/sport/triathlon/62063359",
         "timestamp": 1657106258,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 6, 2022 7:17 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/jan-6-hearing-focus-trump-ally-links-to-extremists-nyt-2022-7",
         "timestamp": 1657108625,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 6, 2022 7:57 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "science",
         "link": "https://arstechnica.com/science/2022/07/covid-was-the-leading-cause-of-death-in-americans-aged-45-54-in-2021/",
         "timestamp": 1657108886,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 6, 2022 8:01 AM"
     },
     {
@@ -122,17 +113,8 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/administration/3546837-frustrated-democrats-express-alarm-over-bidens-powerlessness/",
         "timestamp": 1657108899,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 6, 2022 8:01 AM"
-    },
-    {
-        "title": "Woman lit on fire in attack on transit bus at Kipling station in Toronto has died, sources say",
-        "domain": "cbc.ca",
-        "category": "news",
-        "link": "https://www.cbc.ca/news/canada/toronto/woman-lit-on-fire-kipling-station-dead-1.6511371?__vfz=medium%3Dsharebar",
-        "timestamp": 1657109660,
-        "sentiment": -6,
-        "published": "July 6, 2022 8:14 AM"
     },
     {
         "title": "'Conjuring Kesha': the pop star’s ghost-hunting show is a bizarre blast",
@@ -149,7 +131,7 @@
         "category": "nottheonion",
         "link": "https://www.cbc.ca/news/canada/montreal/curly-hair-searched-3-times-at-airport-1.6510949",
         "timestamp": 1657110358,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 6, 2022 8:25 AM"
     },
     {
@@ -158,7 +140,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/technology/2022/jul/05/tiktok-girls-dead-blackout-challenge",
         "timestamp": 1657110654,
-        "sentiment": -6,
+        "sentiment": -1,
         "published": "July 6, 2022 8:30 AM"
     },
     {
@@ -167,7 +149,7 @@
         "category": "technology",
         "link": "https://english.kyodonews.net/news/2022/07/1590b983e681-japan-to-introduce-jail-time-tougher-penalties-for-online-insults.html",
         "timestamp": 1657111005,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 6, 2022 8:36 AM"
     },
     {
@@ -185,7 +167,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/gop-plans-undermine-jan-6-committee-if-retakes-house-axios-2022-7?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1657112401,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 6, 2022 9:00 AM"
     },
     {
@@ -194,7 +176,7 @@
         "category": "science",
         "link": "https://www.sciencenews.org/article/alien-quantum-communication-extraterrestrial-communication-signal",
         "timestamp": 1657112542,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 6, 2022 9:02 AM"
     },
     {
@@ -212,7 +194,7 @@
         "category": "worldnews",
         "link": "https://www.abc.net.au/news/2022-07-06/caribbean-court-gay-sex-law-unconstitutional/101213962",
         "timestamp": 1657112849,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 6, 2022 9:07 AM"
     },
     {
@@ -221,7 +203,7 @@
         "category": "nottheonion",
         "link": "https://www.newsweek.com/tucker-carlson-mass-shooting-male-privilege-fourth-july-parade-robert-crimo-1722071",
         "timestamp": 1657113218,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 6, 2022 9:13 AM"
     },
     {
@@ -239,7 +221,7 @@
         "category": "technology",
         "link": "https://appleinsider.com/articles/22/07/06/uk-pushing-for-on-device-scanning-for-child-abuse-materials",
         "timestamp": 1657113686,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 6, 2022 9:21 AM"
     },
     {
@@ -248,7 +230,7 @@
         "category": "news",
         "link": "https://www.news4jax.com/news/local/2022/07/04/largest-teachers-union-florida-is-9000-teachers-short-for-the-upcoming-school-year/",
         "timestamp": 1657113823,
-        "sentiment": -6,
+        "sentiment": -1,
         "published": "July 6, 2022 9:23 AM"
     },
     {
@@ -258,15 +240,6 @@
         "link": "https://abcnews.go.com/International/wireStory/dalai-lama-marks-87th-birthday-opening-library-museum-86293692",
         "timestamp": 1657113886,
         "sentiment": 3,
-        "published": "July 6, 2022 9:24 AM"
-    },
-    {
-        "title": "'Robin Hood' in underpants arrested for stealing Banana phones",
-        "domain": "bangkokpost.com",
-        "category": "nottheonion",
-        "link": "https://www.bangkokpost.com/thailand/general/2340982/robin-hood-in-underpants-arrested-for-stealing-banana-phones",
-        "timestamp": 1657113891,
-        "sentiment": -2,
         "published": "July 6, 2022 9:24 AM"
     },
     {
@@ -284,7 +257,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-gb/news/world/russian-prisoners-offered-2-800-and-freedom-if-they-serve-in-ukraine-and-come-back-alive/ar-AAZdeif?ocid=msedgntphdr&cvid=83bc7ccb2f814e96afdd314237fe84f2",
         "timestamp": 1657114637,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 6, 2022 9:37 AM"
     },
     {
@@ -293,7 +266,7 @@
         "category": "news",
         "link": "https://www.kltv.com/2022/07/06/couple-fined-1500-parking-their-own-driveway/",
         "timestamp": 1657115265,
-        "sentiment": -6,
+        "sentiment": -1,
         "published": "July 6, 2022 9:47 AM"
     },
     {
@@ -311,7 +284,7 @@
         "category": "politics",
         "link": "https://abcnews.go.com/Politics/cushman-wakefield-held-contempt-turning-trump-documents/story?id=86300300&cid=social_twitter_wnt",
         "timestamp": 1657115658,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 6, 2022 9:54 AM"
     },
     {
@@ -329,7 +302,7 @@
         "category": "worldnews",
         "link": "https://www.helsinkitimes.fi/finland/finland-news/domestic/21835-canada-denmark-and-norway-ratify-finnish-membership-in-nato.html",
         "timestamp": 1657116657,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 6, 2022 10:10 AM"
     },
     {
@@ -338,7 +311,7 @@
         "category": "sports",
         "link": "https://abc7.com/demaryius-thomas-stage-2-cte-nfl-champion-what-is/12020343/",
         "timestamp": 1657117103,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 6, 2022 10:18 AM"
     },
     {
@@ -347,7 +320,7 @@
         "category": "science",
         "link": "https://www.inverse.com/science/cat-scratching-furniture-destructive-behavior-science",
         "timestamp": 1657117535,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 6, 2022 10:25 AM"
     },
     {
@@ -356,7 +329,7 @@
         "category": "worldnews",
         "link": "https://english.nv.ua/business/russian-parliament-adopts-package-of-wartime-laws-forcing-businesses-to-work-for-army-50254667.html",
         "timestamp": 1657117846,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 6, 2022 10:30 AM"
     },
     {
@@ -365,7 +338,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/georgia-election-2022-lindsey-graham-b2117159.html?utm_content=Echobox&utm_medium=Social&utm_campaign=Main&utm_source=Twitter#Echobox=1657118386",
         "timestamp": 1657118439,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 6, 2022 10:40 AM"
     },
     {
@@ -374,17 +347,8 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/jul/06/us-drinking-water-pfas-toxic-forever-chemicals-epa-tests",
         "timestamp": 1657118698,
-        "sentiment": -6,
+        "sentiment": -1,
         "published": "July 6, 2022 10:44 AM"
-    },
-    {
-        "title": "New psychology research indicates that partisan biases can promote false memories",
-        "domain": "psypost.org",
-        "category": "science",
-        "link": "https://www.psypost.org/2022/07/new-psychology-research-indicates-that-partisan-biases-can-promote-false-memories-63455",
-        "timestamp": 1657119025,
-        "sentiment": 0,
-        "published": "July 6, 2022 10:50 AM"
     },
     {
         "title": "Stranger Things Got Eddie a Little Help With His Outrageously Rad Guitar Solo in the Finale | Tye Trujillo, son of Metallica bassist Rob Trujillo, stepped in to record the most metal moment in the show's history.",
@@ -401,7 +365,7 @@
         "category": "miami",
         "link": "https://wsvn.com/news/miami-couple-arrested-for-stealing-french-bulldog-blackmailed-owner-for-its-return/",
         "timestamp": 1657120991,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 6, 2022 11:23 AM"
     },
     {
@@ -410,7 +374,7 @@
         "category": "worldnews",
         "link": "https://www.euractiv.com/section/central-asia/news/russia-shuts-down-terminal-after-kazakhstan-offers-to-send-more-oil-to-the-eu/",
         "timestamp": 1657121346,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 6, 2022 11:29 AM"
     },
     {
@@ -419,7 +383,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/07/06/lindsey-graham-to-fight-subpoena-in-trump-georgia-election-probe.html",
         "timestamp": 1657121375,
-        "sentiment": -6,
+        "sentiment": -1,
         "published": "July 6, 2022 11:29 AM"
     },
     {
@@ -428,7 +392,7 @@
         "category": "nottheonion",
         "link": "https://www.cnn.com/2022/06/26/business/retail-returns/index.html",
         "timestamp": 1657121937,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 6, 2022 11:38 AM"
     },
     {
@@ -437,7 +401,7 @@
         "category": "politics",
         "link": "https://www.npr.org/2022/06/30/1108841462/new-zealands-government-classifies-the-proud-boys-as-a-terrorist-organization",
         "timestamp": 1657122889,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 6, 2022 11:54 AM"
     },
     {
@@ -455,7 +419,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/06/politics/trump-appraiser-cushman-wakefield/index.html",
         "timestamp": 1657124139,
-        "sentiment": -6,
+        "sentiment": -1,
         "published": "July 6, 2022 12:15 PM"
     },
     {
@@ -464,7 +428,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/business/2022/jul/06/bp-accused-of-dumping-industrial-waste-marine-protected-area-shetland-regulator-clearance-oil-firm-pipe-cables-drilling",
         "timestamp": 1657124435,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 6, 2022 12:20 PM"
     },
     {
@@ -473,7 +437,7 @@
         "category": "miami",
         "link": "https://www.miamiherald.com/opinion/op-ed/article261358322.html",
         "timestamp": 1657124875,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 6, 2022 12:27 PM"
     },
     {
@@ -482,7 +446,7 @@
         "category": "science",
         "link": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2793913",
         "timestamp": 1657125231,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 6, 2022 12:33 PM"
     },
     {
@@ -491,7 +455,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/right-wing-truckers-leader-gets-arrested-while-protesting-non-existent-covid-mandates-in-dc",
         "timestamp": 1657125338,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 6, 2022 12:35 PM"
     },
     {
@@ -500,7 +464,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-jan-6-hearing-sarah-matthews-b2117000.html",
         "timestamp": 1657125987,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 6, 2022 12:46 PM"
     },
     {
@@ -509,7 +473,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.co.uk/news/world-asia-china-62064506",
         "timestamp": 1657126581,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 6, 2022 12:56 PM"
     },
     {
@@ -536,7 +500,16 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/nbcblk/wisconsin-supreme-court-rules-favor-chrystul-kizer-allows-sex-traffick-rcna36914",
         "timestamp": 1657127427,
-        "sentiment": -6,
+        "sentiment": -1,
+        "published": "July 6, 2022 1:10 PM"
+    },
+    {
+        "title": "Russian Lieutenant Colonel Roman Igolkin [Cargo ID #285] was killed in Melitopol on June 3, \"carrying out air defense duties\". I assume this means he successfully intercepted a HIMARS rocket with his body.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/yalpski/status/1544729710587953152",
+        "timestamp": 1657127440,
+        "sentiment": 0,
         "published": "July 6, 2022 1:10 PM"
     },
     {
@@ -545,7 +518,7 @@
         "category": "nottheonion",
         "link": "https://www.ourmidland.com/news/article/Women-steal-Michigan-State-Police-recruiting-tent-17287291.php",
         "timestamp": 1657128677,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 6, 2022 1:31 PM"
     },
     {
@@ -554,7 +527,7 @@
         "category": "science",
         "link": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2793913?utm_source=For_The_Media&utm_medium=referral&utm_campaign=ftm_links&utm_term=070622",
         "timestamp": 1657129493,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 6, 2022 1:44 PM"
     },
     {
@@ -563,7 +536,7 @@
         "category": "sports",
         "link": "https://www.wkyc.com/article/sports/nfl/browns/cleveland-browns-trade-baker-mayfield-to-carolina-panthers/95-161ac278-3b88-4183-9803-98988cda5d02",
         "timestamp": 1657129533,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 6, 2022 1:45 PM"
     },
     {
@@ -581,7 +554,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/rivian-amazon-apple-hire-tesla-workers-elon-musk-layoffs-2022-7?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1657129654,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 6, 2022 1:47 PM"
     },
     {
@@ -590,7 +563,7 @@
         "category": "technology",
         "link": "https://gizmodo.com/chinadan-hacker-shanghai-police-database-china-1849142152",
         "timestamp": 1657130732,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 6, 2022 2:05 PM"
     },
     {
@@ -599,8 +572,197 @@
         "category": "worldnews",
         "link": "https://www.news.az/news/britain-ratifies-nato-membership-for-finland-and-sweden",
         "timestamp": 1657130932,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 6, 2022 2:08 PM"
+    },
+    {
+        "title": "Highland Park suspect’s father sponsored gun permit application, police say",
+        "domain": "washingtonpost.com",
+        "category": "news",
+        "link": "https://www.washingtonpost.com/nation/2022/07/06/highland-park-shooting-crimo-gun-application-foid/",
+        "timestamp": 1657131275,
+        "sentiment": -1,
+        "published": "July 6, 2022 2:14 PM"
+    },
+    {
+        "title": "Canadian mountain no longer named for Nazi collaborator thanks to father and son",
+        "domain": "cbc.ca",
+        "category": "UpliftingNews",
+        "link": "https://www.cbc.ca/radio/asithappens/as-it-happens-tuesday-edition-1.6510937/canadian-mountain-no-longer-named-for-nazi-collaborator-thanks-to-father-and-son-1.6510938",
+        "timestamp": 1657131630,
+        "sentiment": 3,
+        "published": "July 6, 2022 2:20 PM"
+    },
+    {
+        "title": "Researchers have discovered a very fast brain rhythm that helps your left brain and right brain communicate better as you run faster—and even when you dream, called ‘splines’: “These spline brain rhythms are faster than all other healthy, awake brain rhythms”",
+        "domain": "news.umich.edu",
+        "category": "science",
+        "link": "https://news.umich.edu/running-dreaming-improve-left-brain-right-brain-communication/",
+        "timestamp": 1657132144,
+        "sentiment": -5,
+        "published": "July 6, 2022 2:29 PM"
+    },
+    {
+        "title": "Rafael Nadal Survives Challenge from Taylor Fritz in Five-Set Thriller",
+        "domain": "lastwordonsports.com",
+        "category": "sports",
+        "link": "https://lastwordonsports.com/tennis/2022/07/06/rafael-nadal-survives-taylor-fritz-wimbledon/",
+        "timestamp": 1657133354,
+        "sentiment": 2,
+        "published": "July 6, 2022 2:49 PM"
+    },
+    {
+        "title": "Father breaks down after son he tutored daily for a year scores a 6/100 on math exam",
+        "domain": "myjoyonline.com",
+        "category": "nottheonion",
+        "link": "https://www.myjoyonline.com/father-breaks-down-after-son-he-tutored-daily-for-a-year-scores-a-6-100-on-math-exam/",
+        "timestamp": 1657133659,
+        "sentiment": 0,
+        "published": "July 6, 2022 2:54 PM"
+    },
+    {
+        "title": "Women who take hormonal contraceptives show superior object memory, study finds",
+        "domain": "psypost.org",
+        "category": "science",
+        "link": "https://www.psypost.org/2022/07/women-who-take-hormonal-contraceptives-show-superior-object-memory-study-finds-63454",
+        "timestamp": 1657133739,
+        "sentiment": -5,
+        "published": "July 6, 2022 2:55 PM"
+    },
+    {
+        "title": "White children are especially likely to be overdiagnosed and overtreated for ADHD, according to a new study",
+        "domain": "theconversation.com",
+        "category": "science",
+        "link": "https://theconversation.com/white-children-are-especially-likely-to-be-overdiagnosed-and-overtreated-for-adhd-according-to-a-new-study-185102",
+        "timestamp": 1657134203,
+        "sentiment": -5,
+        "published": "July 6, 2022 3:03 PM"
+    },
+    {
+        "title": "Majority of Public Disapproves of Supreme Court’s Decision To Overturn Roe v. Wade",
+        "domain": "pewresearch.org",
+        "category": "politics",
+        "link": "https://www.pewresearch.org/politics/2022/07/06/majority-of-public-disapproves-of-supreme-courts-decision-to-overturn-roe-v-wade/",
+        "timestamp": 1657134669,
+        "sentiment": -2,
+        "published": "July 6, 2022 3:11 PM"
+    },
+    {
+        "title": "A law criminalising same-sex acts between consenting adults in Antigua and Barbuda has been declared unconstitutional",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-latin-america-62068589?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_custom3=%40BBCWorld&at_campaign=64&at_custom1=%5Bpost+type%5D&at_custom4=FBB7F8D4-FD3D-11EC-8C8B-EB934744363C&at_medium=custom7&at_custom2=twitter",
+        "timestamp": 1657134784,
+        "sentiment": -1,
+        "published": "July 6, 2022 3:13 PM"
+    },
+    {
+        "title": "Man living inside Children's Museum with stockpile of weapons, drugs arrested for child neglect after toddler wanders into traffic",
+        "domain": "carsonnow.org",
+        "category": "nottheonion",
+        "link": "https://carsonnow.org/story/07/01/2022/man-found-be-living-inside-childrens-museum-stockpiling-weapons-arrested-child-negl",
+        "timestamp": 1657134831,
+        "sentiment": 0,
+        "published": "July 6, 2022 3:13 PM"
+    },
+    {
+        "title": "Bulgaria blocks bank transfer to Russian embassy citing EU sanctions",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/bulgaria-blocks-bank-transfer-russian-embassy-citing-eu-sanctions-2022-07-06/",
+        "timestamp": 1657135031,
+        "sentiment": -1,
+        "published": "July 6, 2022 3:17 PM"
+    },
+    {
+        "title": "The Moral Panic Is Spreading: Think Tank Proposes Banning Teens From Social Media; Texas Rep Promises To Intro Bill",
+        "domain": "techdirt.com",
+        "category": "technology",
+        "link": "https://www.techdirt.com/2022/07/06/the-moral-panic-is-spreading-think-tank-proposes-banning-teens-from-social-media/",
+        "timestamp": 1657135267,
+        "sentiment": 1,
+        "published": "July 6, 2022 3:21 PM"
+    },
+    {
+        "title": "\"Love is Halal\": Erste Moschee in Deutschland hisst Regenbogenflagge und unterstützt LGBT-Community",
+        "domain": "stern.de",
+        "category": "UpliftingNews",
+        "link": "https://www.stern.de/gesellschaft/berlin--erste-moschee-in-deutschland-hisst-regenbogenflagge-32513894.html?utm_medium=posting&utm_campaign=stern_fanpage&utm_source=facebook",
+        "timestamp": 1657135564,
+        "sentiment": 3,
+        "published": "July 6, 2022 3:26 PM"
+    },
+    {
+        "title": "New report details missed chances to stop Uvalde shooting",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/shootings-texas-1ae2b6406868d398a2ecadf960c3a1df",
+        "timestamp": 1657137034,
+        "sentiment": -1,
+        "published": "July 6, 2022 3:50 PM"
+    },
+    {
+        "title": "US carriers want to bring “screen zero” lock screen ads to smartphones",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/gadgets/2022/07/coming-soon-to-a-carrier-phone-near-you-lock-screen-ads/",
+        "timestamp": 1657138708,
+        "sentiment": 1,
+        "published": "July 6, 2022 4:18 PM"
+    },
+    {
+        "title": "Study Finds \"Video Games With Sexualized Content\" Do Not Cause Misogynistic Attitudes Or Body Image Issues",
+        "domain": "boundingintocomics.com",
+        "category": "science",
+        "link": "https://boundingintocomics.com/2022/07/01/study-finds-video-games-with-sexualized-content-do-not-cause-misogynistic-attitudes-or-body-image-issues/",
+        "timestamp": 1657139932,
+        "sentiment": -5,
+        "published": "July 6, 2022 4:38 PM"
+    },
+    {
+        "title": "Carlos Santana collapses onstage after forgetting to eat or drink water",
+        "domain": "cbc.ca",
+        "category": "nottheonion",
+        "link": "https://www.cbc.ca/news/entertainment/carlos-santana-collapses-stage-1.6511630",
+        "timestamp": 1657142336,
+        "sentiment": 0,
+        "published": "July 6, 2022 5:18 PM"
+    },
+    {
+        "title": "Lindsey Graham sought \"more favorable outcome\" for Trump—Georgia subpoena",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/lindsey-graham-subpoena-georgia-ballots-brad-raffensperger-1722033",
+        "timestamp": 1657103730,
+        "sentiment": 0,
+        "published": "July 6, 2022 6:35 AM"
+    },
+    {
+        "title": "Woman lit on fire in attack on transit bus at Kipling station in Toronto has died, sources say",
+        "domain": "cbc.ca",
+        "category": "news",
+        "link": "https://www.cbc.ca/news/canada/toronto/woman-lit-on-fire-kipling-station-dead-1.6511371?__vfz=medium%3Dsharebar",
+        "timestamp": 1657109660,
+        "sentiment": -6,
+        "published": "July 6, 2022 8:14 AM"
+    },
+    {
+        "title": "'Robin Hood' in underpants arrested for stealing Banana phones",
+        "domain": "bangkokpost.com",
+        "category": "nottheonion",
+        "link": "https://www.bangkokpost.com/thailand/general/2340982/robin-hood-in-underpants-arrested-for-stealing-banana-phones",
+        "timestamp": 1657113891,
+        "sentiment": -2,
+        "published": "July 6, 2022 9:24 AM"
+    },
+    {
+        "title": "New psychology research indicates that partisan biases can promote false memories",
+        "domain": "psypost.org",
+        "category": "science",
+        "link": "https://www.psypost.org/2022/07/new-psychology-research-indicates-that-partisan-biases-can-promote-false-memories-63455",
+        "timestamp": 1657119025,
+        "sentiment": 0,
+        "published": "July 6, 2022 10:50 AM"
     },
     {
         "title": "Draft legislation shows DeSantis plan to control higher ed",
@@ -619,105 +781,6 @@
         "timestamp": 1657131103,
         "sentiment": 3,
         "published": "July 6, 2022 2:11 PM"
-    },
-    {
-        "title": "Highland Park suspect’s father sponsored gun permit application, police say",
-        "domain": "washingtonpost.com",
-        "category": "news",
-        "link": "https://www.washingtonpost.com/nation/2022/07/06/highland-park-shooting-crimo-gun-application-foid/",
-        "timestamp": 1657131275,
-        "sentiment": -6,
-        "published": "July 6, 2022 2:14 PM"
-    },
-    {
-        "title": "Canadian mountain no longer named for Nazi collaborator thanks to father and son",
-        "domain": "cbc.ca",
-        "category": "UpliftingNews",
-        "link": "https://www.cbc.ca/radio/asithappens/as-it-happens-tuesday-edition-1.6510937/canadian-mountain-no-longer-named-for-nazi-collaborator-thanks-to-father-and-son-1.6510938",
-        "timestamp": 1657131630,
-        "sentiment": 3,
-        "published": "July 6, 2022 2:20 PM"
-    },
-    {
-        "title": "Researchers have discovered a very fast brain rhythm that helps your left brain and right brain communicate better as you run faster—and even when you dream, called ‘splines’: “These spline brain rhythms are faster than all other healthy, awake brain rhythms”",
-        "domain": "news.umich.edu",
-        "category": "science",
-        "link": "https://news.umich.edu/running-dreaming-improve-left-brain-right-brain-communication/",
-        "timestamp": 1657132144,
-        "sentiment": 0,
-        "published": "July 6, 2022 2:29 PM"
-    },
-    {
-        "title": "Rafael Nadal Survives Challenge from Taylor Fritz in Five-Set Thriller",
-        "domain": "lastwordonsports.com",
-        "category": "sports",
-        "link": "https://lastwordonsports.com/tennis/2022/07/06/rafael-nadal-survives-taylor-fritz-wimbledon/",
-        "timestamp": 1657133354,
-        "sentiment": -1,
-        "published": "July 6, 2022 2:49 PM"
-    },
-    {
-        "title": "Father breaks down after son he tutored daily for a year scores a 6/100 on math exam",
-        "domain": "myjoyonline.com",
-        "category": "nottheonion",
-        "link": "https://www.myjoyonline.com/father-breaks-down-after-son-he-tutored-daily-for-a-year-scores-a-6-100-on-math-exam/",
-        "timestamp": 1657133659,
-        "sentiment": -2,
-        "published": "July 6, 2022 2:54 PM"
-    },
-    {
-        "title": "Women who take hormonal contraceptives show superior object memory, study finds",
-        "domain": "psypost.org",
-        "category": "science",
-        "link": "https://www.psypost.org/2022/07/women-who-take-hormonal-contraceptives-show-superior-object-memory-study-finds-63454",
-        "timestamp": 1657133739,
-        "sentiment": 0,
-        "published": "July 6, 2022 2:55 PM"
-    },
-    {
-        "title": "White children are especially likely to be overdiagnosed and overtreated for ADHD, according to a new study",
-        "domain": "theconversation.com",
-        "category": "science",
-        "link": "https://theconversation.com/white-children-are-especially-likely-to-be-overdiagnosed-and-overtreated-for-adhd-according-to-a-new-study-185102",
-        "timestamp": 1657134203,
-        "sentiment": 0,
-        "published": "July 6, 2022 3:03 PM"
-    },
-    {
-        "title": "A law criminalising same-sex acts between consenting adults in Antigua and Barbuda has been declared unconstitutional",
-        "domain": "bbc.com",
-        "category": "news",
-        "link": "https://www.bbc.com/news/world-latin-america-62068589?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_custom3=%40BBCWorld&at_campaign=64&at_custom1=%5Bpost+type%5D&at_custom4=FBB7F8D4-FD3D-11EC-8C8B-EB934744363C&at_medium=custom7&at_custom2=twitter",
-        "timestamp": 1657134784,
-        "sentiment": -6,
-        "published": "July 6, 2022 3:13 PM"
-    },
-    {
-        "title": "Man living inside Children's Museum with stockpile of weapons, drugs arrested for child neglect after toddler wanders into traffic",
-        "domain": "carsonnow.org",
-        "category": "nottheonion",
-        "link": "https://carsonnow.org/story/07/01/2022/man-found-be-living-inside-childrens-museum-stockpiling-weapons-arrested-child-negl",
-        "timestamp": 1657134831,
-        "sentiment": -2,
-        "published": "July 6, 2022 3:13 PM"
-    },
-    {
-        "title": "The Moral Panic Is Spreading: Think Tank Proposes Banning Teens From Social Media; Texas Rep Promises To Intro Bill",
-        "domain": "techdirt.com",
-        "category": "technology",
-        "link": "https://www.techdirt.com/2022/07/06/the-moral-panic-is-spreading-think-tank-proposes-banning-teens-from-social-media/",
-        "timestamp": 1657135267,
-        "sentiment": 0,
-        "published": "July 6, 2022 3:21 PM"
-    },
-    {
-        "title": "\"Love is Halal\": Erste Moschee in Deutschland hisst Regenbogenflagge und unterstützt LGBT-Community",
-        "domain": "stern.de",
-        "category": "UpliftingNews",
-        "link": "https://www.stern.de/gesellschaft/berlin--erste-moschee-in-deutschland-hisst-regenbogenflagge-32513894.html?utm_medium=posting&utm_campaign=stern_fanpage&utm_source=facebook",
-        "timestamp": 1657135564,
-        "sentiment": 3,
-        "published": "July 6, 2022 3:26 PM"
     },
     {
         "title": "Judges throw out rape case citing red underwear as evidence of consent",
