@@ -32,7 +32,7 @@
         "category": "sports",
         "link": "https://sports.yahoo.com/sportswashing-comes-to-america-153014884.html",
         "timestamp": 1657087311,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "July 6, 2022 2:01 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/nexta_tv/status/1544585786724581377",
         "timestamp": 1657093846,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "July 6, 2022 3:50 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "technology",
         "link": "https://techxplore.com/news/2022-07-senators-tiktok.html",
         "timestamp": 1657093962,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 6, 2022 3:52 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "technology",
         "link": "https://www.theregister.com/2022/07/06/apple_tribunal/",
         "timestamp": 1657098054,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 6, 2022 5:00 AM"
     },
     {
@@ -113,7 +113,7 @@
         "category": "politics",
         "link": "https://www.npr.org/2022/07/06/1109193929/the-first-gen-z-candidates-are-running-for-congress-and-running-against-compromi",
         "timestamp": 1657099423,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 6, 2022 5:23 AM"
     },
     {
@@ -131,7 +131,7 @@
         "category": "technology",
         "link": "https://mashable.com/article/anti-speeding-isa-europe?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1657099959,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 6, 2022 5:32 AM"
     },
     {
@@ -140,7 +140,7 @@
         "category": "technology",
         "link": "https://news.sky.com/story/amazon-being-investigated-in-uk-for-practices-which-may-give-customers-worse-deal-12646765",
         "timestamp": 1657100131,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 6, 2022 5:35 AM"
     },
     {
@@ -158,17 +158,8 @@
         "category": "ukraine",
         "link": "https://twitter.com/mhmck/status/1544483243151577088?t=hXVkFdWnARqEPBPLXyBR_Q&s=09",
         "timestamp": 1657101675,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "July 6, 2022 6:01 AM"
-    },
-    {
-        "title": "Xi'an shuts back down as China finds first cases of new Omicron subvariant",
-        "domain": "edition.cnn.com",
-        "category": "news",
-        "link": "https://edition.cnn.com/2022/07/06/china/china-covid-xian-new-omicron-variant-intl-hnk/index.html",
-        "timestamp": 1657102523,
-        "sentiment": 0,
-        "published": "July 6, 2022 6:15 AM"
     },
     {
         "title": "UK watchdog opens investigation into Amazon’s marketplace practices",
@@ -176,7 +167,7 @@
         "category": "technology",
         "link": "https://www.theguardian.com/technology/2022/jul/06/uk-watchdog-opens-investigation-into-amazon-marketplace-practices",
         "timestamp": 1657102746,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 6, 2022 6:19 AM"
     },
     {
@@ -203,17 +194,8 @@
         "category": "politics",
         "link": "https://www.newsweek.com/lindsey-graham-subpoena-georgia-ballots-brad-raffensperger-1722033",
         "timestamp": 1657103730,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 6, 2022 6:35 AM"
-    },
-    {
-        "title": "Selling a child for food: ‘Several suitors showed up and I tried to choose the youngest’",
-        "domain": "english.elpais.com",
-        "category": "worldnews",
-        "link": "https://english.elpais.com/international/2022-07-06/selling-a-child-for-food-several-suitors-showed-up-and-i-tried-to-choose-the-youngest.html",
-        "timestamp": 1657104080,
-        "sentiment": 0,
-        "published": "July 6, 2022 6:41 AM"
     },
     {
         "title": "July 4 parade shooting suspect slipped past Illinois \"red flag\" safeguards",
@@ -230,7 +212,7 @@
         "category": "sports",
         "link": "https://www.bbc.co.uk/sport/triathlon/62063359",
         "timestamp": 1657106258,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "July 6, 2022 7:17 AM"
     },
     {
@@ -248,7 +230,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/07/06/white-life-and-the-fascist-movement-hey-at-least-theyre-telling-us-the-truth/",
         "timestamp": 1657107170,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 6, 2022 7:32 AM"
     },
     {
@@ -257,7 +239,7 @@
         "category": "politics",
         "link": "https://www.texastribune.org/2022/07/05/uvalde-shooting-victims-fund/",
         "timestamp": 1657107344,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 6, 2022 7:35 AM"
     },
     {
@@ -266,7 +248,7 @@
         "category": "science",
         "link": "https://www.gsb.stanford.edu/insights/thinking-inside-box-why-virtual-meetings-generate-fewer-ideas",
         "timestamp": 1657108217,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 6, 2022 7:50 AM"
     },
     {
@@ -284,7 +266,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/jan-6-hearing-focus-trump-ally-links-to-extremists-nyt-2022-7",
         "timestamp": 1657108625,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 6, 2022 7:57 AM"
     },
     {
@@ -293,7 +275,7 @@
         "category": "science",
         "link": "https://arstechnica.com/science/2022/07/covid-was-the-leading-cause-of-death-in-americans-aged-45-54-in-2021/",
         "timestamp": 1657108886,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 6, 2022 8:01 AM"
     },
     {
@@ -302,7 +284,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/administration/3546837-frustrated-democrats-express-alarm-over-bidens-powerlessness/",
         "timestamp": 1657108899,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 6, 2022 8:01 AM"
     },
     {
@@ -320,7 +302,7 @@
         "category": "ukraine",
         "link": "https://www.forbes.com/sites/davidaxe/2022/07/06/ukraines-american-made-rockets-are-blowing-up-russias-ammo-dumps/?sh=758c08ee1e0f",
         "timestamp": 1657109577,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "July 6, 2022 8:12 AM"
     },
     {
@@ -365,7 +347,7 @@
         "category": "florida",
         "link": "https://www.tampabay.com/news/florida/2022/07/06/rural-florida-county-had-9-fatal-drug-overdoses-over-holiday-weekend/",
         "timestamp": 1657110364,
-        "sentiment": 3,
+        "sentiment": 2,
         "published": "July 6, 2022 8:26 AM"
     },
     {
@@ -383,7 +365,7 @@
         "category": "technology",
         "link": "https://english.kyodonews.net/news/2022/07/1590b983e681-japan-to-introduce-jail-time-tougher-penalties-for-online-insults.html",
         "timestamp": 1657111005,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 6, 2022 8:36 AM"
     },
     {
@@ -392,8 +374,17 @@
         "category": "ukraine",
         "link": "https://english.nv.ua/nation/russia-no-longer-has-enough-real-combat-capabilities-and-modern-military-equipment-50254634.html",
         "timestamp": 1657111312,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "July 6, 2022 8:41 AM"
+    },
+    {
+        "title": "Republicans plan ways to get revenge on the Jan 6 committee if they retake the House, report says",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/gop-plans-undermine-jan-6-committee-if-retakes-house-axios-2022-7?utm_source=feedly&utm_medium=webfeeds",
+        "timestamp": 1657112401,
+        "sentiment": -2,
+        "published": "July 6, 2022 9:00 AM"
     },
     {
         "title": "Aliens could send quantum messages to Earth, calculations suggest. Particles of light, or photons, could be transmitted over vast, interstellar distances without losing their quantum nature.That means scientists searching for extraterrestrial signals could also look for quantum messages.",
@@ -401,7 +392,7 @@
         "category": "science",
         "link": "https://www.sciencenews.org/article/alien-quantum-communication-extraterrestrial-communication-signal",
         "timestamp": 1657112542,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 6, 2022 9:02 AM"
     },
     {
@@ -410,8 +401,17 @@
         "category": "florida",
         "link": "https://www.nbcnews.com/health/health-news/listeria-outbreak-linked-florida-ice-cream-rcna36690",
         "timestamp": 1657112715,
-        "sentiment": 3,
+        "sentiment": 2,
         "published": "July 6, 2022 9:05 AM"
+    },
+    {
+        "title": "Caribbean court rules law criminalizing gay sex is 'unconstitutional'",
+        "domain": "abc.net.au",
+        "category": "worldnews",
+        "link": "https://www.abc.net.au/news/2022-07-06/caribbean-court-gay-sex-law-unconstitutional/101213962",
+        "timestamp": 1657112849,
+        "sentiment": 0,
+        "published": "July 6, 2022 9:07 AM"
     },
     {
         "title": "Tucker Carlson suggests shootings are result of lectures on male privilege",
@@ -428,8 +428,17 @@
         "category": "florida",
         "link": "https://www.wesh.com/article/volusia-county-teacher-shortage/40515975#",
         "timestamp": 1657113463,
-        "sentiment": 3,
+        "sentiment": 2,
         "published": "July 6, 2022 9:17 AM"
+    },
+    {
+        "title": "UK pushing for on-device scanning for child abuse materials",
+        "domain": "appleinsider.com",
+        "category": "technology",
+        "link": "https://appleinsider.com/articles/22/07/06/uk-pushing-for-on-device-scanning-for-child-abuse-materials",
+        "timestamp": 1657113686,
+        "sentiment": 0,
+        "published": "July 6, 2022 9:21 AM"
     },
     {
         "title": "Largest teachers union: Florida is 9,000 teachers short for the upcoming school year",
@@ -455,8 +464,17 @@
         "category": "florida",
         "link": "https://www.msnbc.com/msnbc/amp/ncna1296843",
         "timestamp": 1657114406,
-        "sentiment": 3,
+        "sentiment": 2,
         "published": "July 6, 2022 9:33 AM"
+    },
+    {
+        "title": "Couple fined $1,500 for parking in their own driveway",
+        "domain": "kltv.com",
+        "category": "news",
+        "link": "https://www.kltv.com/2022/07/06/couple-fined-1500-parking-their-own-driveway/",
+        "timestamp": 1657115265,
+        "sentiment": 0,
+        "published": "July 6, 2022 9:47 AM"
     },
     {
         "title": "FIFA will track players’ bodies using AI to make offside calls at 2022 World Cup",
@@ -464,7 +482,7 @@
         "category": "sports",
         "link": "https://www.theverge.com/2022/7/5/23195009/fifa-ai-automated-offside-ball-body-tracking-2022-qatar-world-cup",
         "timestamp": 1657115660,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "July 6, 2022 9:54 AM"
     },
     {
@@ -482,8 +500,62 @@
         "category": "sports",
         "link": "https://abc7.com/demaryius-thomas-stage-2-cte-nfl-champion-what-is/12020343/",
         "timestamp": 1657117103,
-        "sentiment": 1,
+        "sentiment": -1,
         "published": "July 6, 2022 10:18 AM"
+    },
+    {
+        "title": "Researchers find that cats with a higher level of emotional closeness to their owners were more likely to scratch furniture, but not engage in other “problem” behaviors.",
+        "domain": "inverse.com",
+        "category": "science",
+        "link": "https://www.inverse.com/science/cat-scratching-furniture-destructive-behavior-science",
+        "timestamp": 1657117535,
+        "sentiment": 0,
+        "published": "July 6, 2022 10:25 AM"
+    },
+    {
+        "title": "Senator Lindsey Graham will not comply with subpoena in Georgia election probe",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/georgia-election-2022-lindsey-graham-b2117159.html?utm_content=Echobox&utm_medium=Social&utm_campaign=Main&utm_source=Twitter#Echobox=1657118386",
+        "timestamp": 1657118439,
+        "sentiment": -2,
+        "published": "July 6, 2022 10:40 AM"
+    },
+    {
+        "title": "Revealed: US water likely contains more ‘forever chemicals’ than EPA tests show",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/us-news/2022/jul/06/us-drinking-water-pfas-toxic-forever-chemicals-epa-tests",
+        "timestamp": 1657118698,
+        "sentiment": 0,
+        "published": "July 6, 2022 10:44 AM"
+    },
+    {
+        "title": "Miami couple arrested for stealing French Bulldog, blackmailed owner for its return",
+        "domain": "wsvn.com",
+        "category": "miami",
+        "link": "https://wsvn.com/news/miami-couple-arrested-for-stealing-french-bulldog-blackmailed-owner-for-its-return/",
+        "timestamp": 1657120991,
+        "sentiment": 2,
+        "published": "July 6, 2022 11:23 AM"
+    },
+    {
+        "title": "Xi'an shuts back down as China finds first cases of new Omicron subvariant",
+        "domain": "edition.cnn.com",
+        "category": "news",
+        "link": "https://edition.cnn.com/2022/07/06/china/china-covid-xian-new-omicron-variant-intl-hnk/index.html",
+        "timestamp": 1657102523,
+        "sentiment": 0,
+        "published": "July 6, 2022 6:15 AM"
+    },
+    {
+        "title": "Selling a child for food: ‘Several suitors showed up and I tried to choose the youngest’",
+        "domain": "english.elpais.com",
+        "category": "worldnews",
+        "link": "https://english.elpais.com/international/2022-07-06/selling-a-child-for-food-several-suitors-showed-up-and-i-tried-to-choose-the-youngest.html",
+        "timestamp": 1657104080,
+        "sentiment": 0,
+        "published": "July 6, 2022 6:41 AM"
     },
     {
         "title": "Ukraine forces down nine Russian missiles, two ammo depots, invaders' strongholds",
