@@ -23,7 +23,7 @@
         "category": "sports",
         "link": "https://sports.yahoo.com/sportswashing-comes-to-america-153014884.html",
         "timestamp": 1657087311,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 6, 2022 2:01 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "nottheonion",
         "link": "https://www.theguardian.com/world/2022/jul/06/free-noodles-offered-as-japan-wrestles-with-low-youth-turnout-for-elections",
         "timestamp": 1657089537,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 6, 2022 2:38 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/nexta_tv/status/1544585786724581377",
         "timestamp": 1657093846,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 6, 2022 3:50 AM"
     },
     {
@@ -68,17 +68,8 @@
         "category": "television",
         "link": "https://www.digitalspy.com/tv/a40518398/the-grand-tour-james-may-retirement/",
         "timestamp": 1657096177,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "July 6, 2022 4:29 AM"
-    },
-    {
-        "title": "Russia's McDonald's replacement serving mouldy buns and 'insects legs'",
-        "domain": "metro.co.uk",
-        "category": "worldnews",
-        "link": "https://metro.co.uk/2022/07/05/russias-mcdonalds-replacement-serving-mouldy-buns-and-insects-legs-16945837/",
-        "timestamp": 1657097005,
-        "sentiment": -1,
-        "published": "July 6, 2022 4:43 AM"
     },
     {
         "title": "UK tribunal: App Store class action seeking up to $1.8b can continue",
@@ -95,7 +86,7 @@
         "category": "politics",
         "link": "https://www.npr.org/2022/07/06/1109193929/the-first-gen-z-candidates-are-running-for-congress-and-running-against-compromi",
         "timestamp": 1657099423,
-        "sentiment": 1,
+        "sentiment": 4,
         "published": "July 6, 2022 5:23 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.sundayguardianlive.com/news/china-grabs-nepals-territory-erects-fences-blocking-locals",
         "timestamp": 1657099452,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "July 6, 2022 5:24 AM"
     },
     {
@@ -126,13 +117,13 @@
         "published": "July 6, 2022 5:35 AM"
     },
     {
-        "title": "Europe wants a high-speed rail network to replace airplanes",
-        "domain": "edition.cnn.com",
+        "title": "Fourth Gazprom-Linked Executive Reported Dead in Russia - The Moscow Times",
+        "domain": "themoscowtimes.com",
         "category": "worldnews",
-        "link": "https://edition.cnn.com/travel/article/europe-high-speed-rail-network/index.html",
-        "timestamp": 1657100998,
-        "sentiment": -1,
-        "published": "July 6, 2022 5:49 AM"
+        "link": "https://www.themoscowtimes.com/2022/07/06/fourth-gazprom-linked-executive-reported-dead-in-russia-a78214",
+        "timestamp": 1657101067,
+        "sentiment": -3,
+        "published": "July 6, 2022 5:51 AM"
     },
     {
         "title": "UK watchdog opens investigation into Amazon’s marketplace practices",
@@ -149,8 +140,17 @@
         "category": "television",
         "link": "https://tvline.com/2022/07/05/the-orville-seth-macfarlane-abortion-episode-roe-wade-overturned/",
         "timestamp": 1657103491,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "July 6, 2022 6:31 AM"
+    },
+    {
+        "title": "Ukraine Is Turning The Tide Against Russian Navy In Black Sea",
+        "domain": "navalnews.com",
+        "category": "worldnews",
+        "link": "https://www.navalnews.com/naval-news/2022/07/how-ukraine-is-turning-the-tide-against-russian-navy-in-black-sea/",
+        "timestamp": 1657103716,
+        "sentiment": -3,
+        "published": "July 6, 2022 6:35 AM"
     },
     {
         "title": "Lindsey Graham sought \"more favorable outcome\" for Trump—Georgia subpoena",
@@ -158,17 +158,8 @@
         "category": "politics",
         "link": "https://www.newsweek.com/lindsey-graham-subpoena-georgia-ballots-brad-raffensperger-1722033",
         "timestamp": 1657103730,
-        "sentiment": 1,
+        "sentiment": 4,
         "published": "July 6, 2022 6:35 AM"
-    },
-    {
-        "title": "July 4 parade shooting suspect slipped past Illinois \"red flag\" safeguards",
-        "domain": "reuters.com",
-        "category": "news",
-        "link": "https://www.reuters.com/world/us/july-4-parade-shooting-suspect-slipped-past-illinois-red-flag-safeguards-2022-07-06/",
-        "timestamp": 1657105284,
-        "sentiment": -2,
-        "published": "July 6, 2022 7:01 AM"
     },
     {
         "title": "British Triathlon becomes first UK sport to create 'open' category for transgender athletes",
@@ -176,17 +167,8 @@
         "category": "sports",
         "link": "https://www.bbc.co.uk/sport/triathlon/62063359",
         "timestamp": 1657106258,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 6, 2022 7:17 AM"
-    },
-    {
-        "title": "Superbug that is resistant to a \"last resort\" antibiotic found in 10% of British supermarket pork sampled",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/jul/05/potentially-deadly-superbug-found-in-british-supermarket-pork",
-        "timestamp": 1657106619,
-        "sentiment": -1,
-        "published": "July 6, 2022 7:23 AM"
     },
     {
         "title": "\"White life\" and the fascist movement: Hey, at least they're telling us the truth. Republicans don't bother to speak in code anymore. Why should they? Their big plans for America are no mystery",
@@ -194,7 +176,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/07/06/white-life-and-the-fascist-movement-hey-at-least-theyre-telling-us-the-truth/",
         "timestamp": 1657107170,
-        "sentiment": 1,
+        "sentiment": 4,
         "published": "July 6, 2022 7:32 AM"
     },
     {
@@ -203,7 +185,7 @@
         "category": "politics",
         "link": "https://www.texastribune.org/2022/07/05/uvalde-shooting-victims-fund/",
         "timestamp": 1657107344,
-        "sentiment": 1,
+        "sentiment": 4,
         "published": "July 6, 2022 7:35 AM"
     },
     {
@@ -212,7 +194,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/jan-6-hearing-focus-trump-ally-links-to-extremists-nyt-2022-7",
         "timestamp": 1657108625,
-        "sentiment": 1,
+        "sentiment": 4,
         "published": "July 6, 2022 7:57 AM"
     },
     {
@@ -230,17 +212,8 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/administration/3546837-frustrated-democrats-express-alarm-over-bidens-powerlessness/",
         "timestamp": 1657108899,
-        "sentiment": 1,
+        "sentiment": 4,
         "published": "July 6, 2022 8:01 AM"
-    },
-    {
-        "title": "Russian Oligarch Yuri Voronov Found Dead in Swimming Pool",
-        "domain": "newsweek.com",
-        "category": "worldnews",
-        "link": "https://www.newsweek.com/yuri-voronov-russia-gas-oligarch-death-1722057",
-        "timestamp": 1657108988,
-        "sentiment": -1,
-        "published": "July 6, 2022 8:03 AM"
     },
     {
         "title": "Ukraine’s American-Made Rockets Are Blowing Up Russia’s Ammo Dumps",
@@ -248,7 +221,7 @@
         "category": "ukraine",
         "link": "https://www.forbes.com/sites/davidaxe/2022/07/06/ukraines-american-made-rockets-are-blowing-up-russias-ammo-dumps/?sh=758c08ee1e0f",
         "timestamp": 1657109577,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 6, 2022 8:12 AM"
     },
     {
@@ -266,17 +239,8 @@
         "category": "television",
         "link": "https://www.theguardian.com/tv-and-radio/2022/jul/06/conjuring-kesha-the-pop-stars-ghost-hunting-show-is-a-bizarre-blast",
         "timestamp": 1657109665,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "July 6, 2022 8:14 AM"
-    },
-    {
-        "title": "Russian executive with Gazprom contracts found dead in his swimming pool after being shot in the head",
-        "domain": "businessinsider.com",
-        "category": "worldnews",
-        "link": "https://www.businessinsider.com/russian-gazprom-linked-executive-found-dead-in-his-swimming-pool-2022-7?utm_source=feedly&utm_medium=webfeeds",
-        "timestamp": 1657109721,
-        "sentiment": -1,
-        "published": "July 6, 2022 8:15 AM"
     },
     {
         "title": "Montreal woman's curly hair searched at airports 3 times since May",
@@ -284,7 +248,7 @@
         "category": "nottheonion",
         "link": "https://www.cbc.ca/news/canada/montreal/curly-hair-searched-3-times-at-airport-1.6510949",
         "timestamp": 1657110358,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 6, 2022 8:25 AM"
     },
     {
@@ -293,7 +257,7 @@
         "category": "florida",
         "link": "https://www.tampabay.com/news/florida/2022/07/06/rural-florida-county-had-9-fatal-drug-overdoses-over-holiday-weekend/",
         "timestamp": 1657110364,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "July 6, 2022 8:26 AM"
     },
     {
@@ -304,6 +268,15 @@
         "timestamp": 1657110654,
         "sentiment": -2,
         "published": "July 6, 2022 8:30 AM"
+    },
+    {
+        "title": "North Texans are seeking sterilizations after Supreme Court overturns Roe v Wade",
+        "domain": "keranews.org",
+        "category": "politics",
+        "link": "https://www.keranews.org/news/2022-07-06/north-texans-are-seeking-sterilizations-after-supreme-court-overturns-roe-v-wade?_ga=2.173480743.523076450.1657110780-1768287348.1657110780",
+        "timestamp": 1657110883,
+        "sentiment": 4,
+        "published": "July 6, 2022 8:34 AM"
     },
     {
         "title": "Japan to introduce jail time, tougher penalties for online insults",
@@ -320,7 +293,7 @@
         "category": "ukraine",
         "link": "https://english.nv.ua/nation/russia-no-longer-has-enough-real-combat-capabilities-and-modern-military-equipment-50254634.html",
         "timestamp": 1657111312,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 6, 2022 8:41 AM"
     },
     {
@@ -329,7 +302,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/gop-plans-undermine-jan-6-committee-if-retakes-house-axios-2022-7?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1657112401,
-        "sentiment": 1,
+        "sentiment": 4,
         "published": "July 6, 2022 9:00 AM"
     },
     {
@@ -347,7 +320,7 @@
         "category": "florida",
         "link": "https://www.nbcnews.com/health/health-news/listeria-outbreak-linked-florida-ice-cream-rcna36690",
         "timestamp": 1657112715,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "July 6, 2022 9:05 AM"
     },
     {
@@ -356,7 +329,7 @@
         "category": "worldnews",
         "link": "https://www.abc.net.au/news/2022-07-06/caribbean-court-gay-sex-law-unconstitutional/101213962",
         "timestamp": 1657112849,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "July 6, 2022 9:07 AM"
     },
     {
@@ -374,7 +347,7 @@
         "category": "nottheonion",
         "link": "https://www.newsweek.com/tucker-carlson-mass-shooting-male-privilege-fourth-july-parade-robert-crimo-1722071",
         "timestamp": 1657113218,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 6, 2022 9:13 AM"
     },
     {
@@ -383,7 +356,7 @@
         "category": "florida",
         "link": "https://www.wesh.com/article/volusia-county-teacher-shortage/40515975#",
         "timestamp": 1657113463,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "July 6, 2022 9:17 AM"
     },
     {
@@ -419,7 +392,7 @@
         "category": "nottheonion",
         "link": "https://www.bangkokpost.com/thailand/general/2340982/robin-hood-in-underpants-arrested-for-stealing-banana-phones",
         "timestamp": 1657113891,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 6, 2022 9:24 AM"
     },
     {
@@ -428,7 +401,7 @@
         "category": "florida",
         "link": "https://www.msnbc.com/msnbc/amp/ncna1296843",
         "timestamp": 1657114406,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "July 6, 2022 9:33 AM"
     },
     {
@@ -437,7 +410,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-gb/news/world/russian-prisoners-offered-2-800-and-freedom-if-they-serve-in-ukraine-and-come-back-alive/ar-AAZdeif?ocid=msedgntphdr&cvid=83bc7ccb2f814e96afdd314237fe84f2",
         "timestamp": 1657114637,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "July 6, 2022 9:37 AM"
     },
     {
@@ -450,12 +423,21 @@
         "published": "July 6, 2022 9:47 AM"
     },
     {
+        "title": "France, Germany and Swiss will rebuild Chernihiv & Odesa; Italy & Poland : Donetsk. USA + Turkey : Kharkiv, Sweden + Holland : Kherson, Scandinavia + Czechia : Lugansk. Amongst others. Слава Украине",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/KyivIndependent/status/1544480697158606848",
+        "timestamp": 1657115606,
+        "sentiment": -1,
+        "published": "July 6, 2022 9:53 AM"
+    },
+    {
         "title": "Cushman & Wakefield held in contempt for not turning over Trump documents",
         "domain": "abcnews.go.com",
         "category": "politics",
         "link": "https://abcnews.go.com/Politics/cushman-wakefield-held-contempt-turning-trump-documents/story?id=86300300&cid=social_twitter_wnt",
         "timestamp": 1657115658,
-        "sentiment": 1,
+        "sentiment": 4,
         "published": "July 6, 2022 9:54 AM"
     },
     {
@@ -464,7 +446,7 @@
         "category": "sports",
         "link": "https://www.theverge.com/2022/7/5/23195009/fifa-ai-automated-offside-ball-body-tracking-2022-qatar-world-cup",
         "timestamp": 1657115660,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 6, 2022 9:54 AM"
     },
     {
@@ -473,8 +455,17 @@
         "category": "television",
         "link": "https://tvline.com/2022/07/06/stranger-things-final-season-major-deaths-debate-millie-bobby-brown/",
         "timestamp": 1657116515,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "July 6, 2022 10:08 AM"
+    },
+    {
+        "title": "Canada, Denmark and Norway ratify Finnish membership in Nato",
+        "domain": "helsinkitimes.fi",
+        "category": "worldnews",
+        "link": "https://www.helsinkitimes.fi/finland/finland-news/domestic/21835-canada-denmark-and-norway-ratify-finnish-membership-in-nato.html",
+        "timestamp": 1657116657,
+        "sentiment": -3,
+        "published": "July 6, 2022 10:10 AM"
     },
     {
         "title": "Parents of late Super Bowl champion Demaryius Thomas reveal he suffered from Stage 2 CTE",
@@ -482,7 +473,7 @@
         "category": "sports",
         "link": "https://abc7.com/demaryius-thomas-stage-2-cte-nfl-champion-what-is/12020343/",
         "timestamp": 1657117103,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 6, 2022 10:18 AM"
     },
     {
@@ -495,12 +486,21 @@
         "published": "July 6, 2022 10:25 AM"
     },
     {
+        "title": "Russian parliament adopts package of ‘wartime’ laws forcing businesses to work for army",
+        "domain": "english.nv.ua",
+        "category": "worldnews",
+        "link": "https://english.nv.ua/business/russian-parliament-adopts-package-of-wartime-laws-forcing-businesses-to-work-for-army-50254667.html",
+        "timestamp": 1657117846,
+        "sentiment": -3,
+        "published": "July 6, 2022 10:30 AM"
+    },
+    {
         "title": "Senator Lindsey Graham will not comply with subpoena in Georgia election probe",
         "domain": "independent.co.uk",
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/georgia-election-2022-lindsey-graham-b2117159.html?utm_content=Echobox&utm_medium=Social&utm_campaign=Main&utm_source=Twitter#Echobox=1657118386",
         "timestamp": 1657118439,
-        "sentiment": 1,
+        "sentiment": 4,
         "published": "July 6, 2022 10:40 AM"
     },
     {
@@ -527,7 +527,7 @@
         "category": "television",
         "link": "https://gizmodo.com/stranger-things-season-4-metallica-eddie-munson-1849146699",
         "timestamp": 1657119576,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "July 6, 2022 10:59 AM"
     },
     {
@@ -536,7 +536,7 @@
         "category": "ukraine",
         "link": "https://www.newsweek.com/russia-father-missing-moskva-sailor-country-betrayed-me-ukraine-1721843",
         "timestamp": 1657120411,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 6, 2022 11:13 AM"
     },
     {
@@ -545,8 +545,17 @@
         "category": "miami",
         "link": "https://wsvn.com/news/miami-couple-arrested-for-stealing-french-bulldog-blackmailed-owner-for-its-return/",
         "timestamp": 1657120991,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 6, 2022 11:23 AM"
+    },
+    {
+        "title": "Russia shuts down terminal after Kazakhstan offers to send more oil to the EU",
+        "domain": "euractiv.com",
+        "category": "worldnews",
+        "link": "https://www.euractiv.com/section/central-asia/news/russia-shuts-down-terminal-after-kazakhstan-offers-to-send-more-oil-to-the-eu/",
+        "timestamp": 1657121346,
+        "sentiment": -3,
+        "published": "July 6, 2022 11:29 AM"
     },
     {
         "title": "Sen. Lindsey Graham will challenge Georgia grand jury subpoena in Trump election interference probe",
@@ -563,7 +572,7 @@
         "category": "nottheonion",
         "link": "https://www.cnn.com/2022/06/26/business/retail-returns/index.html",
         "timestamp": 1657121937,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 6, 2022 11:38 AM"
     },
     {
@@ -576,13 +585,112 @@
         "published": "July 6, 2022 11:59 AM"
     },
     {
+        "title": "'Primal' Season 2: Creator Genndy Tartakovsky Teases More Action and New Worlds",
+        "domain": "ew.com",
+        "category": "television",
+        "link": "https://ew.com/tv/primal-season-2-premiere-trailer-exclusive/",
+        "timestamp": 1657123858,
+        "sentiment": -3,
+        "published": "July 6, 2022 12:10 PM"
+    },
+    {
+        "title": "AMBER ALERT: Have you seen this child? Angie Diaz Rodriguez",
+        "domain": "missingkids.org",
+        "category": "florida",
+        "link": "https://www.missingkids.org/poster/NCMC/1451168/1/screen",
+        "timestamp": 1657124042,
+        "sentiment": -1,
+        "published": "July 6, 2022 12:14 PM"
+    },
+    {
+        "title": "NY judge holds Trump appraiser in contempt, fines it $10,000 a day",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/07/06/politics/trump-appraiser-cushman-wakefield/index.html",
+        "timestamp": 1657124139,
+        "sentiment": -2,
+        "published": "July 6, 2022 12:15 PM"
+    },
+    {
         "title": "How to find your tribe in Miami: A guide to making new friends in the 305",
         "domain": "miamiherald.com",
         "category": "miami",
         "link": "https://www.miamiherald.com/opinion/op-ed/article261358322.html",
         "timestamp": 1657124875,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 6, 2022 12:27 PM"
+    },
+    {
+        "title": "More than half of Floridians oppose abortion bans. Will they push back at the polls?",
+        "domain": "latimes.com",
+        "category": "FLgovernment",
+        "link": "https://www.latimes.com/world-nation/story/2022-07-06/more-than-half-of-floridians-oppose-abortion-restrictions-will-they-push-back-at-the-polls",
+        "timestamp": 1657127288,
+        "sentiment": -1,
+        "published": "July 6, 2022 1:08 PM"
+    },
+    {
+        "title": "Women steal Michigan State Police recruiting tent at Traverse City Cherry Festival in northern Michigan",
+        "domain": "ourmidland.com",
+        "category": "nottheonion",
+        "link": "https://www.ourmidland.com/news/article/Women-steal-Michigan-State-Police-recruiting-tent-17287291.php",
+        "timestamp": 1657128677,
+        "sentiment": -2,
+        "published": "July 6, 2022 1:31 PM"
+    },
+    {
+        "title": "Russia's McDonald's replacement serving mouldy buns and 'insects legs'",
+        "domain": "metro.co.uk",
+        "category": "worldnews",
+        "link": "https://metro.co.uk/2022/07/05/russias-mcdonalds-replacement-serving-mouldy-buns-and-insects-legs-16945837/",
+        "timestamp": 1657097005,
+        "sentiment": -1,
+        "published": "July 6, 2022 4:43 AM"
+    },
+    {
+        "title": "Europe wants a high-speed rail network to replace airplanes",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/travel/article/europe-high-speed-rail-network/index.html",
+        "timestamp": 1657100998,
+        "sentiment": -1,
+        "published": "July 6, 2022 5:49 AM"
+    },
+    {
+        "title": "July 4 parade shooting suspect slipped past Illinois \"red flag\" safeguards",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/us/july-4-parade-shooting-suspect-slipped-past-illinois-red-flag-safeguards-2022-07-06/",
+        "timestamp": 1657105284,
+        "sentiment": -2,
+        "published": "July 6, 2022 7:01 AM"
+    },
+    {
+        "title": "Superbug that is resistant to a \"last resort\" antibiotic found in 10% of British supermarket pork sampled",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jul/05/potentially-deadly-superbug-found-in-british-supermarket-pork",
+        "timestamp": 1657106619,
+        "sentiment": -1,
+        "published": "July 6, 2022 7:23 AM"
+    },
+    {
+        "title": "Russian Oligarch Yuri Voronov Found Dead in Swimming Pool",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/yuri-voronov-russia-gas-oligarch-death-1722057",
+        "timestamp": 1657108988,
+        "sentiment": -1,
+        "published": "July 6, 2022 8:03 AM"
+    },
+    {
+        "title": "Russian executive with Gazprom contracts found dead in his swimming pool after being shot in the head",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/russian-gazprom-linked-executive-found-dead-in-his-swimming-pool-2022-7?utm_source=feedly&utm_medium=webfeeds",
+        "timestamp": 1657109721,
+        "sentiment": -1,
+        "published": "July 6, 2022 8:15 AM"
     },
     {
         "title": "Couple fined $1,500 for parking in own driveway",
