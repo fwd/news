@@ -14,7 +14,7 @@
         "category": "nottheonion",
         "link": "https://www.theguardian.com/world/2022/jul/06/free-noodles-offered-as-japan-wrestles-with-low-youth-turnout-for-elections",
         "timestamp": 1657089537,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "July 6, 2022 2:38 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "television",
         "link": "https://tvline.com/2022/07/05/the-orville-seth-macfarlane-abortion-episode-roe-wade-overturned/",
         "timestamp": 1657103491,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 6, 2022 6:31 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "sports",
         "link": "https://www.bbc.co.uk/sport/triathlon/62063359",
         "timestamp": 1657106258,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "July 6, 2022 7:17 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "science",
         "link": "https://arstechnica.com/science/2022/07/covid-was-the-leading-cause-of-death-in-americans-aged-45-54-in-2021/",
         "timestamp": 1657108886,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 6, 2022 8:01 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "television",
         "link": "https://www.theguardian.com/tv-and-radio/2022/jul/06/conjuring-kesha-the-pop-stars-ghost-hunting-show-is-a-bizarre-blast",
         "timestamp": 1657109665,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 6, 2022 8:14 AM"
     },
     {
@@ -113,7 +113,7 @@
         "category": "nottheonion",
         "link": "https://www.cbc.ca/news/canada/montreal/curly-hair-searched-3-times-at-airport-1.6510949",
         "timestamp": 1657110358,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "July 6, 2022 8:25 AM"
     },
     {
@@ -122,7 +122,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/technology/2022/jul/05/tiktok-girls-dead-blackout-challenge",
         "timestamp": 1657110654,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 6, 2022 8:30 AM"
     },
     {
@@ -140,7 +140,7 @@
         "category": "ukraine",
         "link": "https://english.nv.ua/nation/russia-no-longer-has-enough-real-combat-capabilities-and-modern-military-equipment-50254634.html",
         "timestamp": 1657111312,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 6, 2022 8:41 AM"
     },
     {
@@ -158,7 +158,7 @@
         "category": "science",
         "link": "https://www.sciencenews.org/article/alien-quantum-communication-extraterrestrial-communication-signal",
         "timestamp": 1657112542,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 6, 2022 9:02 AM"
     },
     {
@@ -176,7 +176,7 @@
         "category": "nottheonion",
         "link": "https://www.newsweek.com/tucker-carlson-mass-shooting-male-privilege-fourth-july-parade-robert-crimo-1722071",
         "timestamp": 1657113218,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "July 6, 2022 9:13 AM"
     },
     {
@@ -194,7 +194,7 @@
         "category": "news",
         "link": "https://www.news4jax.com/news/local/2022/07/04/largest-teachers-union-florida-is-9000-teachers-short-for-the-upcoming-school-year/",
         "timestamp": 1657113823,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 6, 2022 9:23 AM"
     },
     {
@@ -230,7 +230,7 @@
         "category": "news",
         "link": "https://www.kltv.com/2022/07/06/couple-fined-1500-parking-their-own-driveway/",
         "timestamp": 1657115265,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 6, 2022 9:47 AM"
     },
     {
@@ -239,17 +239,8 @@
         "category": "ukraine",
         "link": "https://twitter.com/KyivIndependent/status/1544480697158606848",
         "timestamp": 1657115606,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 6, 2022 9:53 AM"
-    },
-    {
-        "title": "Cushman & Wakefield held in contempt for not turning over Trump documents",
-        "domain": "abcnews.go.com",
-        "category": "politics",
-        "link": "https://abcnews.go.com/Politics/cushman-wakefield-held-contempt-turning-trump-documents/story?id=86300300&cid=social_twitter_wnt",
-        "timestamp": 1657115658,
-        "sentiment": -2,
-        "published": "July 6, 2022 9:54 AM"
     },
     {
         "title": "Stranger Things Co-Creator Responds to Millie Bobby Brown's Call for More Deaths: 'This Is Hawkins, Not Westeros'",
@@ -257,7 +248,7 @@
         "category": "television",
         "link": "https://tvline.com/2022/07/06/stranger-things-final-season-major-deaths-debate-millie-bobby-brown/",
         "timestamp": 1657116515,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 6, 2022 10:08 AM"
     },
     {
@@ -275,7 +266,7 @@
         "category": "sports",
         "link": "https://abc7.com/demaryius-thomas-stage-2-cte-nfl-champion-what-is/12020343/",
         "timestamp": 1657117103,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "July 6, 2022 10:18 AM"
     },
     {
@@ -284,7 +275,7 @@
         "category": "science",
         "link": "https://www.inverse.com/science/cat-scratching-furniture-destructive-behavior-science",
         "timestamp": 1657117535,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 6, 2022 10:25 AM"
     },
     {
@@ -311,17 +302,8 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/jul/06/us-drinking-water-pfas-toxic-forever-chemicals-epa-tests",
         "timestamp": 1657118698,
-        "sentiment": 4,
-        "published": "July 6, 2022 10:44 AM"
-    },
-    {
-        "title": "New psychology research indicates that partisan biases can promote false memories",
-        "domain": "psypost.org",
-        "category": "science",
-        "link": "https://www.psypost.org/2022/07/new-psychology-research-indicates-that-partisan-biases-can-promote-false-memories-63455",
-        "timestamp": 1657119025,
         "sentiment": 0,
-        "published": "July 6, 2022 10:50 AM"
+        "published": "July 6, 2022 10:44 AM"
     },
     {
         "title": "Stranger Things Got Eddie a Little Help With His Outrageously Rad Guitar Solo in the Finale | Tye Trujillo, son of Metallica bassist Rob Trujillo, stepped in to record the most metal moment in the show's history.",
@@ -329,7 +311,7 @@
         "category": "television",
         "link": "https://gizmodo.com/stranger-things-season-4-metallica-eddie-munson-1849146699",
         "timestamp": 1657119576,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 6, 2022 10:59 AM"
     },
     {
@@ -338,7 +320,7 @@
         "category": "miami",
         "link": "https://wsvn.com/news/miami-couple-arrested-for-stealing-french-bulldog-blackmailed-owner-for-its-return/",
         "timestamp": 1657120991,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 6, 2022 11:23 AM"
     },
     {
@@ -356,17 +338,8 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/07/06/lindsey-graham-to-fight-subpoena-in-trump-georgia-election-probe.html",
         "timestamp": 1657121375,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 6, 2022 11:29 AM"
-    },
-    {
-        "title": "Just keep your returns: Stores weigh paying you not to bring back unwanted items",
-        "domain": "cnn.com",
-        "category": "nottheonion",
-        "link": "https://www.cnn.com/2022/06/26/business/retail-returns/index.html",
-        "timestamp": 1657121937,
-        "sentiment": -2,
-        "published": "July 6, 2022 11:38 AM"
     },
     {
         "title": "New Zealand's government classifies the Proud Boys as a terrorist organization — how long until the U.S. does the same?",
@@ -392,7 +365,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/06/politics/trump-appraiser-cushman-wakefield/index.html",
         "timestamp": 1657124139,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 6, 2022 12:15 PM"
     },
     {
@@ -410,7 +383,7 @@
         "category": "miami",
         "link": "https://www.miamiherald.com/opinion/op-ed/article261358322.html",
         "timestamp": 1657124875,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 6, 2022 12:27 PM"
     },
     {
@@ -419,7 +392,7 @@
         "category": "science",
         "link": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2793913",
         "timestamp": 1657125231,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 6, 2022 12:33 PM"
     },
     {
@@ -455,7 +428,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/07/stranger-things-duffer-brothers-netflix-upside-down-pictures-deal-spinoff-series-stephen-daldry-stage-play-manga-death-note-the-talisman-1235058665/",
         "timestamp": 1657127185,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 6, 2022 1:06 PM"
     },
     {
@@ -473,7 +446,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/nbcblk/wisconsin-supreme-court-rules-favor-chrystul-kizer-allows-sex-traffick-rcna36914",
         "timestamp": 1657127427,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 6, 2022 1:10 PM"
     },
     {
@@ -482,7 +455,7 @@
         "category": "nottheonion",
         "link": "https://www.ourmidland.com/news/article/Women-steal-Michigan-State-Police-recruiting-tent-17287291.php",
         "timestamp": 1657128677,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "July 6, 2022 1:31 PM"
     },
     {
@@ -491,7 +464,7 @@
         "category": "science",
         "link": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2793913?utm_source=For_The_Media&utm_medium=referral&utm_campaign=ftm_links&utm_term=070622",
         "timestamp": 1657129493,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 6, 2022 1:44 PM"
     },
     {
@@ -500,7 +473,7 @@
         "category": "sports",
         "link": "https://www.wkyc.com/article/sports/nfl/browns/cleveland-browns-trade-baker-mayfield-to-carolina-panthers/95-161ac278-3b88-4183-9803-98988cda5d02",
         "timestamp": 1657129533,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "July 6, 2022 1:45 PM"
     },
     {
@@ -509,7 +482,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/evil-scores-speedy-season-4-renewal-at-paramount-1235176069/",
         "timestamp": 1657129613,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 6, 2022 1:46 PM"
     },
     {
@@ -554,7 +527,7 @@
         "category": "news",
         "link": "https://www.washingtonpost.com/nation/2022/07/06/highland-park-shooting-crimo-gun-application-foid/",
         "timestamp": 1657131275,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 6, 2022 2:14 PM"
     },
     {
@@ -572,7 +545,7 @@
         "category": "science",
         "link": "https://news.umich.edu/running-dreaming-improve-left-brain-right-brain-communication/",
         "timestamp": 1657132144,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 6, 2022 2:29 PM"
     },
     {
@@ -581,7 +554,7 @@
         "category": "sports",
         "link": "https://lastwordonsports.com/tennis/2022/07/06/rafael-nadal-survives-taylor-fritz-wimbledon/",
         "timestamp": 1657133354,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "July 6, 2022 2:49 PM"
     },
     {
@@ -590,7 +563,7 @@
         "category": "nottheonion",
         "link": "https://www.myjoyonline.com/father-breaks-down-after-son-he-tutored-daily-for-a-year-scores-a-6-100-on-math-exam/",
         "timestamp": 1657133659,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "July 6, 2022 2:54 PM"
     },
     {
@@ -599,7 +572,7 @@
         "category": "science",
         "link": "https://www.psypost.org/2022/07/women-who-take-hormonal-contraceptives-show-superior-object-memory-study-finds-63454",
         "timestamp": 1657133739,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 6, 2022 2:55 PM"
     },
     {
@@ -608,7 +581,7 @@
         "category": "science",
         "link": "https://theconversation.com/white-children-are-especially-likely-to-be-overdiagnosed-and-overtreated-for-adhd-according-to-a-new-study-185102",
         "timestamp": 1657134203,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 6, 2022 3:03 PM"
     },
     {
@@ -626,7 +599,7 @@
         "category": "news",
         "link": "https://www.bbc.com/news/world-latin-america-62068589?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_custom3=%40BBCWorld&at_campaign=64&at_custom1=%5Bpost+type%5D&at_custom4=FBB7F8D4-FD3D-11EC-8C8B-EB934744363C&at_medium=custom7&at_custom2=twitter",
         "timestamp": 1657134784,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 6, 2022 3:13 PM"
     },
     {
@@ -635,7 +608,7 @@
         "category": "nottheonion",
         "link": "https://carsonnow.org/story/07/01/2022/man-found-be-living-inside-childrens-museum-stockpiling-weapons-arrested-child-negl",
         "timestamp": 1657134831,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "July 6, 2022 3:13 PM"
     },
     {
@@ -680,7 +653,7 @@
         "category": "ukraine",
         "link": "https://news.yahoo.com/state-duma-russian-federation-hints-153300271.html",
         "timestamp": 1657140094,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 6, 2022 4:41 PM"
     },
     {
@@ -689,8 +662,17 @@
         "category": "news",
         "link": "https://abc7.com/uvalde-texas-robb-elementary-school-officer-asked-to-shoot-suspect-active-shooter/12024385/",
         "timestamp": 1657140383,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 6, 2022 4:46 PM"
+    },
+    {
+        "title": "Michael Gove sacked after he urges Prime Minister to resign - BBC News",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/uk-politics-62073049",
+        "timestamp": 1657141749,
+        "sentiment": -1,
+        "published": "July 6, 2022 5:09 PM"
     },
     {
         "title": "Europe wants a high-speed rail network to replace airplanes",
@@ -702,12 +684,21 @@
         "published": "July 6, 2022 5:12 PM"
     },
     {
+        "title": "Obama Beats Reagan as Favorite President Since Reagan Era: Poll",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/obama-beats-reagan-favorite-president-since-reagan-era-poll-1721078",
+        "timestamp": 1657142115,
+        "sentiment": -2,
+        "published": "July 6, 2022 5:15 PM"
+    },
+    {
         "title": "Carlos Santana collapses onstage after forgetting to eat or drink water",
         "domain": "cbc.ca",
         "category": "nottheonion",
         "link": "https://www.cbc.ca/news/entertainment/carlos-santana-collapses-stage-1.6511630",
         "timestamp": 1657142336,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "July 6, 2022 5:18 PM"
     },
     {
@@ -725,7 +716,7 @@
         "category": "nottheonion",
         "link": "https://www.cbsnews.com/news/uvalde-texas-school-shooting-police-missed-opportunity-to-shoot-gunman-report/",
         "timestamp": 1657143371,
-        "sentiment": -2,
+        "sentiment": -5,
         "published": "July 6, 2022 5:36 PM"
     },
     {
@@ -745,6 +736,69 @@
         "timestamp": 1657143579,
         "sentiment": 0,
         "published": "July 6, 2022 5:39 PM"
+    },
+    {
+        "title": "'Cheer' Star Jerry Harris Sentenced To 12 Years In Federal Prison For Sex Crimes",
+        "domain": "usatoday.com",
+        "category": "television",
+        "link": "https://www.usatoday.com/story/news/investigations/2022/07/06/netflix-cheer-jerry-harris-sentenced-federal-prison-sex-crimes/7808938001/",
+        "timestamp": 1657145684,
+        "sentiment": 0,
+        "published": "July 6, 2022 6:14 PM"
+    },
+    {
+        "title": "The Ketogenic Diet for Refractory Mental Illness: A Retrospective Analysis of 31 Inpatients - Depression, schizoaffective illness, and metabolic health measures including weight, blood pressure, blood glucose, and triglycerides all significantly improved",
+        "domain": "frontiersin.org",
+        "category": "science",
+        "link": "https://www.frontiersin.org/articles/10.3389/fpsyt.2022.951376/full",
+        "timestamp": 1657145824,
+        "sentiment": -5,
+        "published": "July 6, 2022 6:17 PM"
+    },
+    {
+        "title": "Man Claims He Was Unjustly Jailed For Killing Rooster: 'Defending Myself'",
+        "domain": "newsweek.com",
+        "category": "nottheonion",
+        "link": "https://www.newsweek.com/man-claims-unjustly-jailed-killing-rooster-defending-myself-1722308",
+        "timestamp": 1657146878,
+        "sentiment": -5,
+        "published": "July 6, 2022 6:34 PM"
+    },
+    {
+        "title": "Pastor Creflo Dollar Who Once Asked Congregants to Help Him Buy $65 Million Jet, Now Admits He Misled Them About Tithing",
+        "domain": "blackenterprise.com",
+        "category": "nottheonion",
+        "link": "https://www.blackenterprise.com/pastor-creflo-dollar-misled-congregants-about-tithing/",
+        "timestamp": 1657147538,
+        "sentiment": -5,
+        "published": "July 6, 2022 6:45 PM"
+    },
+    {
+        "title": "Cushman & Wakefield held in contempt for not turning over Trump documents",
+        "domain": "abcnews.go.com",
+        "category": "politics",
+        "link": "https://abcnews.go.com/Politics/cushman-wakefield-held-contempt-turning-trump-documents/story?id=86300300&cid=social_twitter_wnt",
+        "timestamp": 1657115658,
+        "sentiment": -2,
+        "published": "July 6, 2022 9:54 AM"
+    },
+    {
+        "title": "New psychology research indicates that partisan biases can promote false memories",
+        "domain": "psypost.org",
+        "category": "science",
+        "link": "https://www.psypost.org/2022/07/new-psychology-research-indicates-that-partisan-biases-can-promote-false-memories-63455",
+        "timestamp": 1657119025,
+        "sentiment": 0,
+        "published": "July 6, 2022 10:50 AM"
+    },
+    {
+        "title": "Just keep your returns: Stores weigh paying you not to bring back unwanted items",
+        "domain": "cnn.com",
+        "category": "nottheonion",
+        "link": "https://www.cnn.com/2022/06/26/business/retail-returns/index.html",
+        "timestamp": 1657121937,
+        "sentiment": -2,
+        "published": "July 6, 2022 11:38 AM"
     },
     {
         "title": "Mississippi teen saves 3 girls and police officer after vehicle sinks in river",
