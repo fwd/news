@@ -5,7 +5,7 @@
         "category": "UpliftingNews",
         "link": "https://www.indiatimes.com/trending/environment/man-catches-rare-blue-lobster-573973.html",
         "timestamp": 1657081005,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 6, 2022 12:16 AM"
     },
     {
@@ -14,17 +14,8 @@
         "category": "UpliftingNews",
         "link": "https://www.wlox.com/2022/07/04/pascagoula-teen-saves-3-girls-officer-after-vehicle-sinks-river/",
         "timestamp": 1657083096,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 6, 2022 12:51 AM"
-    },
-    {
-        "title": "Sportswashing comes to America",
-        "domain": "sports.yahoo.com",
-        "category": "sports",
-        "link": "https://sports.yahoo.com/sportswashing-comes-to-america-153014884.html",
-        "timestamp": 1657087311,
-        "sentiment": 0,
-        "published": "July 6, 2022 2:01 AM"
     },
     {
         "title": "Free noodles offered as Japan wrestles with low youth turnout for elections",
@@ -32,7 +23,7 @@
         "category": "nottheonion",
         "link": "https://www.theguardian.com/world/2022/jul/06/free-noodles-offered-as-japan-wrestles-with-low-youth-turnout-for-elections",
         "timestamp": 1657089537,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 6, 2022 2:38 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "UpliftingNews",
         "link": "https://www.heise.de/news/Deutschland-produziert-mehr-Strom-aus-Erneuerbaren-Frankreich-importiert-ihn-7162907.html",
         "timestamp": 1657093754,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 6, 2022 3:49 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "television",
         "link": "https://www.digitalspy.com/tv/a40518398/the-grand-tour-james-may-retirement/",
         "timestamp": 1657096177,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 6, 2022 4:29 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "technology",
         "link": "https://www.theregister.com/2022/07/06/apple_tribunal/",
         "timestamp": 1657098054,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 6, 2022 5:00 AM"
     },
     {
@@ -68,17 +59,8 @@
         "category": "politics",
         "link": "https://www.npr.org/2022/07/06/1109193929/the-first-gen-z-candidates-are-running-for-congress-and-running-against-compromi",
         "timestamp": 1657099423,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 6, 2022 5:23 AM"
-    },
-    {
-        "title": "China grabs Nepal’s territory, erects fences blocking locals",
-        "domain": "sundayguardianlive.com",
-        "category": "worldnews",
-        "link": "https://www.sundayguardianlive.com/news/china-grabs-nepals-territory-erects-fences-blocking-locals",
-        "timestamp": 1657099452,
-        "sentiment": 0,
-        "published": "July 6, 2022 5:24 AM"
     },
     {
         "title": "Anti-speeding tech is now mandatory for new car models in the EU",
@@ -86,7 +68,7 @@
         "category": "technology",
         "link": "https://mashable.com/article/anti-speeding-isa-europe?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1657099959,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 6, 2022 5:32 AM"
     },
     {
@@ -95,7 +77,7 @@
         "category": "technology",
         "link": "https://news.sky.com/story/amazon-being-investigated-in-uk-for-practices-which-may-give-customers-worse-deal-12646765",
         "timestamp": 1657100131,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 6, 2022 5:35 AM"
     },
     {
@@ -104,7 +86,7 @@
         "category": "technology",
         "link": "https://www.theguardian.com/technology/2022/jul/06/uk-watchdog-opens-investigation-into-amazon-marketplace-practices",
         "timestamp": 1657102746,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 6, 2022 6:19 AM"
     },
     {
@@ -113,7 +95,7 @@
         "category": "television",
         "link": "https://tvline.com/2022/07/05/the-orville-seth-macfarlane-abortion-episode-roe-wade-overturned/",
         "timestamp": 1657103491,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 6, 2022 6:31 AM"
     },
     {
@@ -122,7 +104,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/lindsey-graham-subpoena-georgia-ballots-brad-raffensperger-1722033",
         "timestamp": 1657103730,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 6, 2022 6:35 AM"
     },
     {
@@ -131,7 +113,7 @@
         "category": "sports",
         "link": "https://www.bbc.co.uk/sport/triathlon/62063359",
         "timestamp": 1657106258,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 6, 2022 7:17 AM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/07/06/white-life-and-the-fascist-movement-hey-at-least-theyre-telling-us-the-truth/",
         "timestamp": 1657107170,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 6, 2022 7:32 AM"
     },
     {
@@ -149,7 +131,7 @@
         "category": "politics",
         "link": "https://www.texastribune.org/2022/07/05/uvalde-shooting-victims-fund/",
         "timestamp": 1657107344,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 6, 2022 7:35 AM"
     },
     {
@@ -158,7 +140,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/jan-6-hearing-focus-trump-ally-links-to-extremists-nyt-2022-7",
         "timestamp": 1657108625,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 6, 2022 7:57 AM"
     },
     {
@@ -167,7 +149,7 @@
         "category": "science",
         "link": "https://arstechnica.com/science/2022/07/covid-was-the-leading-cause-of-death-in-americans-aged-45-54-in-2021/",
         "timestamp": 1657108886,
-        "sentiment": 0,
+        "sentiment": 6,
         "published": "July 6, 2022 8:01 AM"
     },
     {
@@ -176,7 +158,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/administration/3546837-frustrated-democrats-express-alarm-over-bidens-powerlessness/",
         "timestamp": 1657108899,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 6, 2022 8:01 AM"
     },
     {
@@ -194,7 +176,7 @@
         "category": "news",
         "link": "https://www.cbc.ca/news/canada/toronto/woman-lit-on-fire-kipling-station-dead-1.6511371?__vfz=medium%3Dsharebar",
         "timestamp": 1657109660,
-        "sentiment": -3,
+        "sentiment": -6,
         "published": "July 6, 2022 8:14 AM"
     },
     {
@@ -203,7 +185,7 @@
         "category": "television",
         "link": "https://www.theguardian.com/tv-and-radio/2022/jul/06/conjuring-kesha-the-pop-stars-ghost-hunting-show-is-a-bizarre-blast",
         "timestamp": 1657109665,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 6, 2022 8:14 AM"
     },
     {
@@ -212,17 +194,8 @@
         "category": "nottheonion",
         "link": "https://www.cbc.ca/news/canada/montreal/curly-hair-searched-3-times-at-airport-1.6510949",
         "timestamp": 1657110358,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 6, 2022 8:25 AM"
-    },
-    {
-        "title": "Rural Florida county had 9 fatal drug overdoses over holiday weekend",
-        "domain": "tampabay.com",
-        "category": "florida",
-        "link": "https://www.tampabay.com/news/florida/2022/07/06/rural-florida-county-had-9-fatal-drug-overdoses-over-holiday-weekend/",
-        "timestamp": 1657110364,
-        "sentiment": -3,
-        "published": "July 6, 2022 8:26 AM"
     },
     {
         "title": "Families sue TikTok after girls died while trying ‘blackout challenge’",
@@ -230,7 +203,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/technology/2022/jul/05/tiktok-girls-dead-blackout-challenge",
         "timestamp": 1657110654,
-        "sentiment": -3,
+        "sentiment": -6,
         "published": "July 6, 2022 8:30 AM"
     },
     {
@@ -239,7 +212,7 @@
         "category": "technology",
         "link": "https://english.kyodonews.net/news/2022/07/1590b983e681-japan-to-introduce-jail-time-tougher-penalties-for-online-insults.html",
         "timestamp": 1657111005,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 6, 2022 8:36 AM"
     },
     {
@@ -257,7 +230,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/gop-plans-undermine-jan-6-committee-if-retakes-house-axios-2022-7?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1657112401,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 6, 2022 9:00 AM"
     },
     {
@@ -266,7 +239,7 @@
         "category": "science",
         "link": "https://www.sciencenews.org/article/alien-quantum-communication-extraterrestrial-communication-signal",
         "timestamp": 1657112542,
-        "sentiment": 0,
+        "sentiment": 6,
         "published": "July 6, 2022 9:02 AM"
     },
     {
@@ -275,7 +248,7 @@
         "category": "florida",
         "link": "https://www.nbcnews.com/health/health-news/listeria-outbreak-linked-florida-ice-cream-rcna36690",
         "timestamp": 1657112715,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 6, 2022 9:05 AM"
     },
     {
@@ -288,21 +261,12 @@
         "published": "July 6, 2022 9:07 AM"
     },
     {
-        "title": "Cloned mice created from freeze dried skin cells in world first",
-        "domain": "theguardian.com",
-        "category": "science",
-        "link": "https://www.theguardian.com/science/2022/jul/05/cloned-mice-created-from-freeze-dried-skin-cells-in-world-first",
-        "timestamp": 1657113026,
-        "sentiment": 0,
-        "published": "July 6, 2022 9:10 AM"
-    },
-    {
         "title": "Tucker Carlson suggests shootings are result of lectures on male privilege",
         "domain": "newsweek.com",
         "category": "nottheonion",
         "link": "https://www.newsweek.com/tucker-carlson-mass-shooting-male-privilege-fourth-july-parade-robert-crimo-1722071",
         "timestamp": 1657113218,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 6, 2022 9:13 AM"
     },
     {
@@ -311,7 +275,7 @@
         "category": "florida",
         "link": "https://www.wesh.com/article/volusia-county-teacher-shortage/40515975#",
         "timestamp": 1657113463,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 6, 2022 9:17 AM"
     },
     {
@@ -320,7 +284,7 @@
         "category": "technology",
         "link": "https://appleinsider.com/articles/22/07/06/uk-pushing-for-on-device-scanning-for-child-abuse-materials",
         "timestamp": 1657113686,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 6, 2022 9:21 AM"
     },
     {
@@ -329,7 +293,7 @@
         "category": "news",
         "link": "https://www.news4jax.com/news/local/2022/07/04/largest-teachers-union-florida-is-9000-teachers-short-for-the-upcoming-school-year/",
         "timestamp": 1657113823,
-        "sentiment": -3,
+        "sentiment": -6,
         "published": "July 6, 2022 9:23 AM"
     },
     {
@@ -338,7 +302,7 @@
         "category": "UpliftingNews",
         "link": "https://abcnews.go.com/International/wireStory/dalai-lama-marks-87th-birthday-opening-library-museum-86293692",
         "timestamp": 1657113886,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 6, 2022 9:24 AM"
     },
     {
@@ -347,7 +311,7 @@
         "category": "nottheonion",
         "link": "https://www.bangkokpost.com/thailand/general/2340982/robin-hood-in-underpants-arrested-for-stealing-banana-phones",
         "timestamp": 1657113891,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 6, 2022 9:24 AM"
     },
     {
@@ -356,7 +320,7 @@
         "category": "florida",
         "link": "https://www.msnbc.com/msnbc/amp/ncna1296843",
         "timestamp": 1657114406,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 6, 2022 9:33 AM"
     },
     {
@@ -374,7 +338,7 @@
         "category": "news",
         "link": "https://www.kltv.com/2022/07/06/couple-fined-1500-parking-their-own-driveway/",
         "timestamp": 1657115265,
-        "sentiment": -3,
+        "sentiment": -6,
         "published": "July 6, 2022 9:47 AM"
     },
     {
@@ -392,7 +356,7 @@
         "category": "politics",
         "link": "https://abcnews.go.com/Politics/cushman-wakefield-held-contempt-turning-trump-documents/story?id=86300300&cid=social_twitter_wnt",
         "timestamp": 1657115658,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 6, 2022 9:54 AM"
     },
     {
@@ -401,7 +365,7 @@
         "category": "television",
         "link": "https://tvline.com/2022/07/06/stranger-things-final-season-major-deaths-debate-millie-bobby-brown/",
         "timestamp": 1657116515,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 6, 2022 10:08 AM"
     },
     {
@@ -419,7 +383,7 @@
         "category": "sports",
         "link": "https://abc7.com/demaryius-thomas-stage-2-cte-nfl-champion-what-is/12020343/",
         "timestamp": 1657117103,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 6, 2022 10:18 AM"
     },
     {
@@ -428,7 +392,7 @@
         "category": "science",
         "link": "https://www.inverse.com/science/cat-scratching-furniture-destructive-behavior-science",
         "timestamp": 1657117535,
-        "sentiment": 0,
+        "sentiment": 6,
         "published": "July 6, 2022 10:25 AM"
     },
     {
@@ -446,7 +410,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/georgia-election-2022-lindsey-graham-b2117159.html?utm_content=Echobox&utm_medium=Social&utm_campaign=Main&utm_source=Twitter#Echobox=1657118386",
         "timestamp": 1657118439,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 6, 2022 10:40 AM"
     },
     {
@@ -455,7 +419,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/jul/06/us-drinking-water-pfas-toxic-forever-chemicals-epa-tests",
         "timestamp": 1657118698,
-        "sentiment": -3,
+        "sentiment": -6,
         "published": "July 6, 2022 10:44 AM"
     },
     {
@@ -464,7 +428,7 @@
         "category": "science",
         "link": "https://www.psypost.org/2022/07/new-psychology-research-indicates-that-partisan-biases-can-promote-false-memories-63455",
         "timestamp": 1657119025,
-        "sentiment": 0,
+        "sentiment": 6,
         "published": "July 6, 2022 10:50 AM"
     },
     {
@@ -473,17 +437,8 @@
         "category": "television",
         "link": "https://gizmodo.com/stranger-things-season-4-metallica-eddie-munson-1849146699",
         "timestamp": 1657119576,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 6, 2022 10:59 AM"
-    },
-    {
-        "title": "Father of missing Moskva sailor says \"my country has betrayed me\"",
-        "domain": "newsweek.com",
-        "category": "ukraine",
-        "link": "https://www.newsweek.com/russia-father-missing-moskva-sailor-country-betrayed-me-ukraine-1721843",
-        "timestamp": 1657120411,
-        "sentiment": -1,
-        "published": "July 6, 2022 11:13 AM"
     },
     {
         "title": "Miami couple arrested for stealing French Bulldog, blackmailed owner for its return",
@@ -491,7 +446,7 @@
         "category": "miami",
         "link": "https://wsvn.com/news/miami-couple-arrested-for-stealing-french-bulldog-blackmailed-owner-for-its-return/",
         "timestamp": 1657120991,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 6, 2022 11:23 AM"
     },
     {
@@ -509,7 +464,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/07/06/lindsey-graham-to-fight-subpoena-in-trump-georgia-election-probe.html",
         "timestamp": 1657121375,
-        "sentiment": -3,
+        "sentiment": -6,
         "published": "July 6, 2022 11:29 AM"
     },
     {
@@ -518,7 +473,7 @@
         "category": "nottheonion",
         "link": "https://www.cnn.com/2022/06/26/business/retail-returns/index.html",
         "timestamp": 1657121937,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 6, 2022 11:38 AM"
     },
     {
@@ -527,7 +482,7 @@
         "category": "politics",
         "link": "https://www.npr.org/2022/06/30/1108841462/new-zealands-government-classifies-the-proud-boys-as-a-terrorist-organization",
         "timestamp": 1657122889,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 6, 2022 11:54 AM"
     },
     {
@@ -536,17 +491,8 @@
         "category": "UpliftingNews",
         "link": "https://www.bloomberg.com/news/articles/2022-07-05/south-korea-to-build-nuclear-plants-to-meet-net-zero-targets",
         "timestamp": 1657123145,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 6, 2022 11:59 AM"
-    },
-    {
-        "title": "'Primal' Season 2: Creator Genndy Tartakovsky Teases More Action and New Worlds",
-        "domain": "ew.com",
-        "category": "television",
-        "link": "https://ew.com/tv/primal-season-2-premiere-trailer-exclusive/",
-        "timestamp": 1657123858,
-        "sentiment": 0,
-        "published": "July 6, 2022 12:10 PM"
     },
     {
         "title": "NY judge holds Trump appraiser in contempt, fines it $10,000 a day",
@@ -554,7 +500,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/06/politics/trump-appraiser-cushman-wakefield/index.html",
         "timestamp": 1657124139,
-        "sentiment": -3,
+        "sentiment": -6,
         "published": "July 6, 2022 12:15 PM"
     },
     {
@@ -563,7 +509,7 @@
         "category": "miami",
         "link": "https://www.miamiherald.com/opinion/op-ed/article261358322.html",
         "timestamp": 1657124875,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 6, 2022 12:27 PM"
     },
     {
@@ -572,7 +518,7 @@
         "category": "science",
         "link": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2793913",
         "timestamp": 1657125231,
-        "sentiment": 0,
+        "sentiment": 6,
         "published": "July 6, 2022 12:33 PM"
     },
     {
@@ -590,7 +536,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/07/stranger-things-duffer-brothers-netflix-upside-down-pictures-deal-spinoff-series-stephen-daldry-stage-play-manga-death-note-the-talisman-1235058665/",
         "timestamp": 1657127185,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 6, 2022 1:06 PM"
     },
     {
@@ -603,6 +549,15 @@
         "published": "July 6, 2022 1:08 PM"
     },
     {
+        "title": "Wisconsin Supreme Court rules in favor of Chrystul Kizer, allows sex trafficking defense in homicide trial",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/nbcblk/wisconsin-supreme-court-rules-favor-chrystul-kizer-allows-sex-traffick-rcna36914",
+        "timestamp": 1657127427,
+        "sentiment": -6,
+        "published": "July 6, 2022 1:10 PM"
+    },
+    {
         "title": "Boris Johnson suffers more resignations in one day than any prime minister in history",
         "domain": "news.sky.com",
         "category": "worldnews",
@@ -612,21 +567,12 @@
         "published": "July 6, 2022 1:14 PM"
     },
     {
-        "title": "Highland Park shooting: Robert Crimo’s father liked tweet about Second Amendment after Uvalde school massacre",
-        "domain": "independent.co.uk",
-        "category": "news",
-        "link": "https://www.independent.co.uk/news/world/americas/crime/robert-crimo-chicago-shooting-highland-park-b2115876.html",
-        "timestamp": 1657127997,
-        "sentiment": -3,
-        "published": "July 6, 2022 1:19 PM"
-    },
-    {
         "title": "Women steal Michigan State Police recruiting tent at Traverse City Cherry Festival in northern Michigan",
         "domain": "ourmidland.com",
         "category": "nottheonion",
         "link": "https://www.ourmidland.com/news/article/Women-steal-Michigan-State-Police-recruiting-tent-17287291.php",
         "timestamp": 1657128677,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 6, 2022 1:31 PM"
     },
     {
@@ -635,7 +581,7 @@
         "category": "science",
         "link": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2793913?utm_source=For_The_Media&utm_medium=referral&utm_campaign=ftm_links&utm_term=070622",
         "timestamp": 1657129493,
-        "sentiment": 0,
+        "sentiment": 6,
         "published": "July 6, 2022 1:44 PM"
     },
     {
@@ -644,8 +590,17 @@
         "category": "sports",
         "link": "https://www.wkyc.com/article/sports/nfl/browns/cleveland-browns-trade-baker-mayfield-to-carolina-panthers/95-161ac278-3b88-4183-9803-98988cda5d02",
         "timestamp": 1657129533,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 6, 2022 1:45 PM"
+    },
+    {
+        "title": "‘Evil’ Scores Speedy Season 4 Renewal at Paramount+",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/evil-scores-speedy-season-4-renewal-at-paramount-1235176069/",
+        "timestamp": 1657129613,
+        "sentiment": 2,
+        "published": "July 6, 2022 1:46 PM"
     },
     {
         "title": "Rivian, Amazon, and Apple are snapping up laid-off Tesla employees amid Elon Musk's workforce reduction plans",
@@ -653,8 +608,44 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/rivian-amazon-apple-hire-tesla-workers-elon-musk-layoffs-2022-7?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1657129654,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 6, 2022 1:47 PM"
+    },
+    {
+        "title": "China Tries to Censor What Could Be Biggest Data Hack in History",
+        "domain": "gizmodo.com",
+        "category": "technology",
+        "link": "https://gizmodo.com/chinadan-hacker-shanghai-police-database-china-1849142152",
+        "timestamp": 1657130732,
+        "sentiment": 0,
+        "published": "July 6, 2022 2:05 PM"
+    },
+    {
+        "title": "Draft legislation shows DeSantis plan to control higher ed",
+        "domain": "insidehighered.com",
+        "category": "florida",
+        "link": "https://www.insidehighered.com/news/2022/06/06/draft-legislation-shows-desantis-plan-control-higher-ed",
+        "timestamp": 1657131041,
+        "sentiment": 0,
+        "published": "July 6, 2022 2:10 PM"
+    },
+    {
+        "title": "Coldplay aims to promote togetherness for hard-of-hearing fans at concerts",
+        "domain": "cbsnews.com",
+        "category": "UpliftingNews",
+        "link": "https://www.cbsnews.com/news/coldplay-deaf-hard-of-hearing-fans-concert/",
+        "timestamp": 1657131103,
+        "sentiment": 1,
+        "published": "July 6, 2022 2:11 PM"
+    },
+    {
+        "title": "Highland Park suspect’s father sponsored gun permit application, police say",
+        "domain": "washingtonpost.com",
+        "category": "news",
+        "link": "https://www.washingtonpost.com/nation/2022/07/06/highland-park-shooting-crimo-gun-application-foid/",
+        "timestamp": 1657131275,
+        "sentiment": -6,
+        "published": "July 6, 2022 2:14 PM"
     },
     {
         "title": "Canadian mountain no longer named for Nazi collaborator thanks to father and son",
@@ -662,8 +653,125 @@
         "category": "UpliftingNews",
         "link": "https://www.cbc.ca/radio/asithappens/as-it-happens-tuesday-edition-1.6510937/canadian-mountain-no-longer-named-for-nazi-collaborator-thanks-to-father-and-son-1.6510938",
         "timestamp": 1657131630,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 6, 2022 2:20 PM"
+    },
+    {
+        "title": "Europe Wants to Use Russian Oligarch Money to Rebuild War-Torn Ukraine",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/europe-wants-use-russian-oligarch-money-rebuild-war-torn-ukraine-1722323",
+        "timestamp": 1657132124,
+        "sentiment": 0,
+        "published": "July 6, 2022 2:28 PM"
+    },
+    {
+        "title": "Researchers have discovered a very fast brain rhythm that helps your left brain and right brain communicate better as you run faster—and even when you dream, called ‘splines’: “These spline brain rhythms are faster than all other healthy, awake brain rhythms”",
+        "domain": "news.umich.edu",
+        "category": "science",
+        "link": "https://news.umich.edu/running-dreaming-improve-left-brain-right-brain-communication/",
+        "timestamp": 1657132144,
+        "sentiment": 6,
+        "published": "July 6, 2022 2:29 PM"
+    },
+    {
+        "title": "Rafael Nadal Survives Challenge from Taylor Fritz in Five-Set Thriller",
+        "domain": "lastwordonsports.com",
+        "category": "sports",
+        "link": "https://lastwordonsports.com/tennis/2022/07/06/rafael-nadal-survives-taylor-fritz-wimbledon/",
+        "timestamp": 1657133354,
+        "sentiment": -1,
+        "published": "July 6, 2022 2:49 PM"
+    },
+    {
+        "title": "Father breaks down after son he tutored daily for a year scores a 6/100 on math exam",
+        "domain": "myjoyonline.com",
+        "category": "nottheonion",
+        "link": "https://www.myjoyonline.com/father-breaks-down-after-son-he-tutored-daily-for-a-year-scores-a-6-100-on-math-exam/",
+        "timestamp": 1657133659,
+        "sentiment": 0,
+        "published": "July 6, 2022 2:54 PM"
+    },
+    {
+        "title": "White children are especially likely to be overdiagnosed and overtreated for ADHD, according to a new study",
+        "domain": "theconversation.com",
+        "category": "science",
+        "link": "https://theconversation.com/white-children-are-especially-likely-to-be-overdiagnosed-and-overtreated-for-adhd-according-to-a-new-study-185102",
+        "timestamp": 1657134203,
+        "sentiment": 6,
+        "published": "July 6, 2022 3:03 PM"
+    },
+    {
+        "title": "Man living inside Children's Museum with stockpile of weapons, drugs arrested for child neglect after toddler wanders into traffic",
+        "domain": "carsonnow.org",
+        "category": "nottheonion",
+        "link": "https://carsonnow.org/story/07/01/2022/man-found-be-living-inside-childrens-museum-stockpiling-weapons-arrested-child-negl",
+        "timestamp": 1657134831,
+        "sentiment": 0,
+        "published": "July 6, 2022 3:13 PM"
+    },
+    {
+        "title": "Sportswashing comes to America",
+        "domain": "sports.yahoo.com",
+        "category": "sports",
+        "link": "https://sports.yahoo.com/sportswashing-comes-to-america-153014884.html",
+        "timestamp": 1657087311,
+        "sentiment": 0,
+        "published": "July 6, 2022 2:01 AM"
+    },
+    {
+        "title": "China grabs Nepal’s territory, erects fences blocking locals",
+        "domain": "sundayguardianlive.com",
+        "category": "worldnews",
+        "link": "https://www.sundayguardianlive.com/news/china-grabs-nepals-territory-erects-fences-blocking-locals",
+        "timestamp": 1657099452,
+        "sentiment": 0,
+        "published": "July 6, 2022 5:24 AM"
+    },
+    {
+        "title": "Rural Florida county had 9 fatal drug overdoses over holiday weekend",
+        "domain": "tampabay.com",
+        "category": "florida",
+        "link": "https://www.tampabay.com/news/florida/2022/07/06/rural-florida-county-had-9-fatal-drug-overdoses-over-holiday-weekend/",
+        "timestamp": 1657110364,
+        "sentiment": -3,
+        "published": "July 6, 2022 8:26 AM"
+    },
+    {
+        "title": "Cloned mice created from freeze dried skin cells in world first",
+        "domain": "theguardian.com",
+        "category": "science",
+        "link": "https://www.theguardian.com/science/2022/jul/05/cloned-mice-created-from-freeze-dried-skin-cells-in-world-first",
+        "timestamp": 1657113026,
+        "sentiment": 0,
+        "published": "July 6, 2022 9:10 AM"
+    },
+    {
+        "title": "Father of missing Moskva sailor says \"my country has betrayed me\"",
+        "domain": "newsweek.com",
+        "category": "ukraine",
+        "link": "https://www.newsweek.com/russia-father-missing-moskva-sailor-country-betrayed-me-ukraine-1721843",
+        "timestamp": 1657120411,
+        "sentiment": -1,
+        "published": "July 6, 2022 11:13 AM"
+    },
+    {
+        "title": "'Primal' Season 2: Creator Genndy Tartakovsky Teases More Action and New Worlds",
+        "domain": "ew.com",
+        "category": "television",
+        "link": "https://ew.com/tv/primal-season-2-premiere-trailer-exclusive/",
+        "timestamp": 1657123858,
+        "sentiment": 0,
+        "published": "July 6, 2022 12:10 PM"
+    },
+    {
+        "title": "Highland Park shooting: Robert Crimo’s father liked tweet about Second Amendment after Uvalde school massacre",
+        "domain": "independent.co.uk",
+        "category": "news",
+        "link": "https://www.independent.co.uk/news/world/americas/crime/robert-crimo-chicago-shooting-highland-park-b2115876.html",
+        "timestamp": 1657127997,
+        "sentiment": -3,
+        "published": "July 6, 2022 1:19 PM"
     },
     {
         "title": "The Combat Organisation of Anarcho-Communists is claiming responsibility for the burning of military recruitment centres and railway sabotage in #Russia. It states that the idea of derailing military trains was borrowed from the #Belarusian partisans.",
