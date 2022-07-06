@@ -23,7 +23,7 @@
         "category": "sports",
         "link": "https://sports.yahoo.com/sportswashing-comes-to-america-153014884.html",
         "timestamp": 1657087311,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "July 6, 2022 2:01 AM"
     },
     {
@@ -45,30 +45,12 @@
         "published": "July 6, 2022 3:49 AM"
     },
     {
-        "title": "The Combat Organisation of Anarcho-Communists is claiming responsibility for the burning of military recruitment centres and railway sabotage in #Russia. It states that the idea of derailing military trains was borrowed from the #Belarusian partisans.",
-        "domain": "mobile.twitter.com",
-        "category": "ukraine",
-        "link": "https://mobile.twitter.com/nexta_tv/status/1544585786724581377",
-        "timestamp": 1657093846,
-        "sentiment": -1,
-        "published": "July 6, 2022 3:50 AM"
-    },
-    {
-        "title": "US senators call for close look at TikTok",
-        "domain": "techxplore.com",
-        "category": "technology",
-        "link": "https://techxplore.com/news/2022-07-senators-tiktok.html",
-        "timestamp": 1657093962,
-        "sentiment": 0,
-        "published": "July 6, 2022 3:52 AM"
-    },
-    {
         "title": "The Grand Tour's James May admits \"contemplating\" retirement from TV",
         "domain": "digitalspy.com",
         "category": "television",
         "link": "https://www.digitalspy.com/tv/a40518398/the-grand-tour-james-may-retirement/",
         "timestamp": 1657096177,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 6, 2022 4:29 AM"
     },
     {
@@ -77,7 +59,7 @@
         "category": "technology",
         "link": "https://www.theregister.com/2022/07/06/apple_tribunal/",
         "timestamp": 1657098054,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 6, 2022 5:00 AM"
     },
     {
@@ -86,7 +68,7 @@
         "category": "politics",
         "link": "https://www.npr.org/2022/07/06/1109193929/the-first-gen-z-candidates-are-running-for-congress-and-running-against-compromi",
         "timestamp": 1657099423,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 6, 2022 5:23 AM"
     },
     {
@@ -95,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.sundayguardianlive.com/news/china-grabs-nepals-territory-erects-fences-blocking-locals",
         "timestamp": 1657099452,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 6, 2022 5:24 AM"
     },
     {
@@ -104,7 +86,7 @@
         "category": "technology",
         "link": "https://mashable.com/article/anti-speeding-isa-europe?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1657099959,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 6, 2022 5:32 AM"
     },
     {
@@ -113,17 +95,8 @@
         "category": "technology",
         "link": "https://news.sky.com/story/amazon-being-investigated-in-uk-for-practices-which-may-give-customers-worse-deal-12646765",
         "timestamp": 1657100131,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 6, 2022 5:35 AM"
-    },
-    {
-        "title": "Fourth Gazprom-Linked Executive Reported Dead in Russia - The Moscow Times",
-        "domain": "themoscowtimes.com",
-        "category": "worldnews",
-        "link": "https://www.themoscowtimes.com/2022/07/06/fourth-gazprom-linked-executive-reported-dead-in-russia-a78214",
-        "timestamp": 1657101067,
-        "sentiment": -3,
-        "published": "July 6, 2022 5:51 AM"
     },
     {
         "title": "UK watchdog opens investigation into Amazon’s marketplace practices",
@@ -131,7 +104,7 @@
         "category": "technology",
         "link": "https://www.theguardian.com/technology/2022/jul/06/uk-watchdog-opens-investigation-into-amazon-marketplace-practices",
         "timestamp": 1657102746,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 6, 2022 6:19 AM"
     },
     {
@@ -140,17 +113,8 @@
         "category": "television",
         "link": "https://tvline.com/2022/07/05/the-orville-seth-macfarlane-abortion-episode-roe-wade-overturned/",
         "timestamp": 1657103491,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 6, 2022 6:31 AM"
-    },
-    {
-        "title": "Ukraine Is Turning The Tide Against Russian Navy In Black Sea",
-        "domain": "navalnews.com",
-        "category": "worldnews",
-        "link": "https://www.navalnews.com/naval-news/2022/07/how-ukraine-is-turning-the-tide-against-russian-navy-in-black-sea/",
-        "timestamp": 1657103716,
-        "sentiment": -3,
-        "published": "July 6, 2022 6:35 AM"
     },
     {
         "title": "Lindsey Graham sought \"more favorable outcome\" for Trump—Georgia subpoena",
@@ -158,7 +122,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/lindsey-graham-subpoena-georgia-ballots-brad-raffensperger-1722033",
         "timestamp": 1657103730,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 6, 2022 6:35 AM"
     },
     {
@@ -167,7 +131,7 @@
         "category": "sports",
         "link": "https://www.bbc.co.uk/sport/triathlon/62063359",
         "timestamp": 1657106258,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "July 6, 2022 7:17 AM"
     },
     {
@@ -176,7 +140,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/07/06/white-life-and-the-fascist-movement-hey-at-least-theyre-telling-us-the-truth/",
         "timestamp": 1657107170,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 6, 2022 7:32 AM"
     },
     {
@@ -185,7 +149,7 @@
         "category": "politics",
         "link": "https://www.texastribune.org/2022/07/05/uvalde-shooting-victims-fund/",
         "timestamp": 1657107344,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 6, 2022 7:35 AM"
     },
     {
@@ -194,7 +158,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/jan-6-hearing-focus-trump-ally-links-to-extremists-nyt-2022-7",
         "timestamp": 1657108625,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 6, 2022 7:57 AM"
     },
     {
@@ -212,7 +176,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/administration/3546837-frustrated-democrats-express-alarm-over-bidens-powerlessness/",
         "timestamp": 1657108899,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 6, 2022 8:01 AM"
     },
     {
@@ -230,7 +194,7 @@
         "category": "news",
         "link": "https://www.cbc.ca/news/canada/toronto/woman-lit-on-fire-kipling-station-dead-1.6511371?__vfz=medium%3Dsharebar",
         "timestamp": 1657109660,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 6, 2022 8:14 AM"
     },
     {
@@ -239,7 +203,7 @@
         "category": "television",
         "link": "https://www.theguardian.com/tv-and-radio/2022/jul/06/conjuring-kesha-the-pop-stars-ghost-hunting-show-is-a-bizarre-blast",
         "timestamp": 1657109665,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 6, 2022 8:14 AM"
     },
     {
@@ -257,7 +221,7 @@
         "category": "florida",
         "link": "https://www.tampabay.com/news/florida/2022/07/06/rural-florida-county-had-9-fatal-drug-overdoses-over-holiday-weekend/",
         "timestamp": 1657110364,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "July 6, 2022 8:26 AM"
     },
     {
@@ -266,17 +230,8 @@
         "category": "news",
         "link": "https://www.theguardian.com/technology/2022/jul/05/tiktok-girls-dead-blackout-challenge",
         "timestamp": 1657110654,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 6, 2022 8:30 AM"
-    },
-    {
-        "title": "North Texans are seeking sterilizations after Supreme Court overturns Roe v Wade",
-        "domain": "keranews.org",
-        "category": "politics",
-        "link": "https://www.keranews.org/news/2022-07-06/north-texans-are-seeking-sterilizations-after-supreme-court-overturns-roe-v-wade?_ga=2.173480743.523076450.1657110780-1768287348.1657110780",
-        "timestamp": 1657110883,
-        "sentiment": 4,
-        "published": "July 6, 2022 8:34 AM"
     },
     {
         "title": "Japan to introduce jail time, tougher penalties for online insults",
@@ -284,7 +239,7 @@
         "category": "technology",
         "link": "https://english.kyodonews.net/news/2022/07/1590b983e681-japan-to-introduce-jail-time-tougher-penalties-for-online-insults.html",
         "timestamp": 1657111005,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 6, 2022 8:36 AM"
     },
     {
@@ -302,7 +257,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/gop-plans-undermine-jan-6-committee-if-retakes-house-axios-2022-7?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1657112401,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 6, 2022 9:00 AM"
     },
     {
@@ -320,7 +275,7 @@
         "category": "florida",
         "link": "https://www.nbcnews.com/health/health-news/listeria-outbreak-linked-florida-ice-cream-rcna36690",
         "timestamp": 1657112715,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "July 6, 2022 9:05 AM"
     },
     {
@@ -329,7 +284,7 @@
         "category": "worldnews",
         "link": "https://www.abc.net.au/news/2022-07-06/caribbean-court-gay-sex-law-unconstitutional/101213962",
         "timestamp": 1657112849,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 6, 2022 9:07 AM"
     },
     {
@@ -356,7 +311,7 @@
         "category": "florida",
         "link": "https://www.wesh.com/article/volusia-county-teacher-shortage/40515975#",
         "timestamp": 1657113463,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "July 6, 2022 9:17 AM"
     },
     {
@@ -365,7 +320,7 @@
         "category": "technology",
         "link": "https://appleinsider.com/articles/22/07/06/uk-pushing-for-on-device-scanning-for-child-abuse-materials",
         "timestamp": 1657113686,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 6, 2022 9:21 AM"
     },
     {
@@ -374,7 +329,7 @@
         "category": "news",
         "link": "https://www.news4jax.com/news/local/2022/07/04/largest-teachers-union-florida-is-9000-teachers-short-for-the-upcoming-school-year/",
         "timestamp": 1657113823,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 6, 2022 9:23 AM"
     },
     {
@@ -401,7 +356,7 @@
         "category": "florida",
         "link": "https://www.msnbc.com/msnbc/amp/ncna1296843",
         "timestamp": 1657114406,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "July 6, 2022 9:33 AM"
     },
     {
@@ -410,7 +365,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-gb/news/world/russian-prisoners-offered-2-800-and-freedom-if-they-serve-in-ukraine-and-come-back-alive/ar-AAZdeif?ocid=msedgntphdr&cvid=83bc7ccb2f814e96afdd314237fe84f2",
         "timestamp": 1657114637,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 6, 2022 9:37 AM"
     },
     {
@@ -419,7 +374,7 @@
         "category": "news",
         "link": "https://www.kltv.com/2022/07/06/couple-fined-1500-parking-their-own-driveway/",
         "timestamp": 1657115265,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 6, 2022 9:47 AM"
     },
     {
@@ -437,16 +392,7 @@
         "category": "politics",
         "link": "https://abcnews.go.com/Politics/cushman-wakefield-held-contempt-turning-trump-documents/story?id=86300300&cid=social_twitter_wnt",
         "timestamp": 1657115658,
-        "sentiment": 4,
-        "published": "July 6, 2022 9:54 AM"
-    },
-    {
-        "title": "FIFA will track players’ bodies using AI to make offside calls at 2022 World Cup",
-        "domain": "theverge.com",
-        "category": "sports",
-        "link": "https://www.theverge.com/2022/7/5/23195009/fifa-ai-automated-offside-ball-body-tracking-2022-qatar-world-cup",
-        "timestamp": 1657115660,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "July 6, 2022 9:54 AM"
     },
     {
@@ -455,7 +401,7 @@
         "category": "television",
         "link": "https://tvline.com/2022/07/06/stranger-things-final-season-major-deaths-debate-millie-bobby-brown/",
         "timestamp": 1657116515,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 6, 2022 10:08 AM"
     },
     {
@@ -464,7 +410,7 @@
         "category": "worldnews",
         "link": "https://www.helsinkitimes.fi/finland/finland-news/domestic/21835-canada-denmark-and-norway-ratify-finnish-membership-in-nato.html",
         "timestamp": 1657116657,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 6, 2022 10:10 AM"
     },
     {
@@ -473,7 +419,7 @@
         "category": "sports",
         "link": "https://abc7.com/demaryius-thomas-stage-2-cte-nfl-champion-what-is/12020343/",
         "timestamp": 1657117103,
-        "sentiment": -6,
+        "sentiment": 0,
         "published": "July 6, 2022 10:18 AM"
     },
     {
@@ -491,7 +437,7 @@
         "category": "worldnews",
         "link": "https://english.nv.ua/business/russian-parliament-adopts-package-of-wartime-laws-forcing-businesses-to-work-for-army-50254667.html",
         "timestamp": 1657117846,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 6, 2022 10:30 AM"
     },
     {
@@ -500,7 +446,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/georgia-election-2022-lindsey-graham-b2117159.html?utm_content=Echobox&utm_medium=Social&utm_campaign=Main&utm_source=Twitter#Echobox=1657118386",
         "timestamp": 1657118439,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 6, 2022 10:40 AM"
     },
     {
@@ -509,7 +455,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/jul/06/us-drinking-water-pfas-toxic-forever-chemicals-epa-tests",
         "timestamp": 1657118698,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 6, 2022 10:44 AM"
     },
     {
@@ -527,7 +473,7 @@
         "category": "television",
         "link": "https://gizmodo.com/stranger-things-season-4-metallica-eddie-munson-1849146699",
         "timestamp": 1657119576,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 6, 2022 10:59 AM"
     },
     {
@@ -545,7 +491,7 @@
         "category": "miami",
         "link": "https://wsvn.com/news/miami-couple-arrested-for-stealing-french-bulldog-blackmailed-owner-for-its-return/",
         "timestamp": 1657120991,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 6, 2022 11:23 AM"
     },
     {
@@ -554,7 +500,7 @@
         "category": "worldnews",
         "link": "https://www.euractiv.com/section/central-asia/news/russia-shuts-down-terminal-after-kazakhstan-offers-to-send-more-oil-to-the-eu/",
         "timestamp": 1657121346,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 6, 2022 11:29 AM"
     },
     {
@@ -563,7 +509,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/07/06/lindsey-graham-to-fight-subpoena-in-trump-georgia-election-probe.html",
         "timestamp": 1657121375,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 6, 2022 11:29 AM"
     },
     {
@@ -574,6 +520,15 @@
         "timestamp": 1657121937,
         "sentiment": -2,
         "published": "July 6, 2022 11:38 AM"
+    },
+    {
+        "title": "New Zealand's government classifies the Proud Boys as a terrorist organization — how long until the U.S. does the same?",
+        "domain": "npr.org",
+        "category": "politics",
+        "link": "https://www.npr.org/2022/06/30/1108841462/new-zealands-government-classifies-the-proud-boys-as-a-terrorist-organization",
+        "timestamp": 1657122889,
+        "sentiment": 0,
+        "published": "July 6, 2022 11:54 AM"
     },
     {
         "title": "South Korea to Build Nuclear Plants to Meet Net-Zero Targets",
@@ -590,17 +545,8 @@
         "category": "television",
         "link": "https://ew.com/tv/primal-season-2-premiere-trailer-exclusive/",
         "timestamp": 1657123858,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 6, 2022 12:10 PM"
-    },
-    {
-        "title": "AMBER ALERT: Have you seen this child? Angie Diaz Rodriguez",
-        "domain": "missingkids.org",
-        "category": "florida",
-        "link": "https://www.missingkids.org/poster/NCMC/1451168/1/screen",
-        "timestamp": 1657124042,
-        "sentiment": -1,
-        "published": "July 6, 2022 12:14 PM"
     },
     {
         "title": "NY judge holds Trump appraiser in contempt, fines it $10,000 a day",
@@ -608,7 +554,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/06/politics/trump-appraiser-cushman-wakefield/index.html",
         "timestamp": 1657124139,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 6, 2022 12:15 PM"
     },
     {
@@ -617,8 +563,35 @@
         "category": "miami",
         "link": "https://www.miamiherald.com/opinion/op-ed/article261358322.html",
         "timestamp": 1657124875,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 6, 2022 12:27 PM"
+    },
+    {
+        "title": "Research has found in the U.S. COVID-19 vaccination was estimated to prevent 27 million SARS-CoV-2 infections, 1.6 million COVID-19–associated hospitalizations, and 235 000 COVID-19–associated deaths among vaccinated persons 18 years or older from December 1, 2020, to September 30, 2021.",
+        "domain": "jamanetwork.com",
+        "category": "science",
+        "link": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2793913",
+        "timestamp": 1657125231,
+        "sentiment": 0,
+        "published": "July 6, 2022 12:33 PM"
+    },
+    {
+        "title": "China: MI5 and FBI heads warn of ‘immense’ threat",
+        "domain": "bbc.co.uk",
+        "category": "worldnews",
+        "link": "https://www.bbc.co.uk/news/world-asia-china-62064506",
+        "timestamp": 1657126581,
+        "sentiment": 0,
+        "published": "July 6, 2022 12:56 PM"
+    },
+    {
+        "title": "Duffer Brothers Launch New Production Studio, Upside Down Pictures; ‘Stranger Things’ Spinoff, Live-Action 'Death Note' Series Officially In the Works at Netflix",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/07/stranger-things-duffer-brothers-netflix-upside-down-pictures-deal-spinoff-series-stephen-daldry-stage-play-manga-death-note-the-talisman-1235058665/",
+        "timestamp": 1657127185,
+        "sentiment": 0,
+        "published": "July 6, 2022 1:06 PM"
     },
     {
         "title": "More than half of Floridians oppose abortion bans. Will they push back at the polls?",
@@ -630,6 +603,24 @@
         "published": "July 6, 2022 1:08 PM"
     },
     {
+        "title": "Boris Johnson suffers more resignations in one day than any prime minister in history",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/boris-johnson-suffers-more-resignations-in-one-day-than-any-prime-minister-in-history-12647012",
+        "timestamp": 1657127685,
+        "sentiment": 0,
+        "published": "July 6, 2022 1:14 PM"
+    },
+    {
+        "title": "Highland Park shooting: Robert Crimo’s father liked tweet about Second Amendment after Uvalde school massacre",
+        "domain": "independent.co.uk",
+        "category": "news",
+        "link": "https://www.independent.co.uk/news/world/americas/crime/robert-crimo-chicago-shooting-highland-park-b2115876.html",
+        "timestamp": 1657127997,
+        "sentiment": -3,
+        "published": "July 6, 2022 1:19 PM"
+    },
+    {
         "title": "Women steal Michigan State Police recruiting tent at Traverse City Cherry Festival in northern Michigan",
         "domain": "ourmidland.com",
         "category": "nottheonion",
@@ -637,6 +628,105 @@
         "timestamp": 1657128677,
         "sentiment": -2,
         "published": "July 6, 2022 1:31 PM"
+    },
+    {
+        "title": "COVID-19 vaccination was estimated to prevent 27 million SARS-CoV-2 infections, 1.6 million hospitalizations and 235,000 deaths among vaccinated U.S. adults 18 years or older from December 2020 through September 2021, new study finds",
+        "domain": "jamanetwork.com",
+        "category": "science",
+        "link": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2793913?utm_source=For_The_Media&utm_medium=referral&utm_campaign=ftm_links&utm_term=070622",
+        "timestamp": 1657129493,
+        "sentiment": 0,
+        "published": "July 6, 2022 1:44 PM"
+    },
+    {
+        "title": "Report: Cleveland Browns trade Baker Mayfield to Carolina Panthers",
+        "domain": "wkyc.com",
+        "category": "sports",
+        "link": "https://www.wkyc.com/article/sports/nfl/browns/cleveland-browns-trade-baker-mayfield-to-carolina-panthers/95-161ac278-3b88-4183-9803-98988cda5d02",
+        "timestamp": 1657129533,
+        "sentiment": 0,
+        "published": "July 6, 2022 1:45 PM"
+    },
+    {
+        "title": "Rivian, Amazon, and Apple are snapping up laid-off Tesla employees amid Elon Musk's workforce reduction plans",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/rivian-amazon-apple-hire-tesla-workers-elon-musk-layoffs-2022-7?utm_source=feedly&utm_medium=webfeeds",
+        "timestamp": 1657129654,
+        "sentiment": -2,
+        "published": "July 6, 2022 1:47 PM"
+    },
+    {
+        "title": "Canadian mountain no longer named for Nazi collaborator thanks to father and son",
+        "domain": "cbc.ca",
+        "category": "UpliftingNews",
+        "link": "https://www.cbc.ca/radio/asithappens/as-it-happens-tuesday-edition-1.6510937/canadian-mountain-no-longer-named-for-nazi-collaborator-thanks-to-father-and-son-1.6510938",
+        "timestamp": 1657131630,
+        "sentiment": 0,
+        "published": "July 6, 2022 2:20 PM"
+    },
+    {
+        "title": "The Combat Organisation of Anarcho-Communists is claiming responsibility for the burning of military recruitment centres and railway sabotage in #Russia. It states that the idea of derailing military trains was borrowed from the #Belarusian partisans.",
+        "domain": "mobile.twitter.com",
+        "category": "ukraine",
+        "link": "https://mobile.twitter.com/nexta_tv/status/1544585786724581377",
+        "timestamp": 1657093846,
+        "sentiment": -1,
+        "published": "July 6, 2022 3:50 AM"
+    },
+    {
+        "title": "US senators call for close look at TikTok",
+        "domain": "techxplore.com",
+        "category": "technology",
+        "link": "https://techxplore.com/news/2022-07-senators-tiktok.html",
+        "timestamp": 1657093962,
+        "sentiment": 0,
+        "published": "July 6, 2022 3:52 AM"
+    },
+    {
+        "title": "Fourth Gazprom-Linked Executive Reported Dead in Russia - The Moscow Times",
+        "domain": "themoscowtimes.com",
+        "category": "worldnews",
+        "link": "https://www.themoscowtimes.com/2022/07/06/fourth-gazprom-linked-executive-reported-dead-in-russia-a78214",
+        "timestamp": 1657101067,
+        "sentiment": -3,
+        "published": "July 6, 2022 5:51 AM"
+    },
+    {
+        "title": "Ukraine Is Turning The Tide Against Russian Navy In Black Sea",
+        "domain": "navalnews.com",
+        "category": "worldnews",
+        "link": "https://www.navalnews.com/naval-news/2022/07/how-ukraine-is-turning-the-tide-against-russian-navy-in-black-sea/",
+        "timestamp": 1657103716,
+        "sentiment": -3,
+        "published": "July 6, 2022 6:35 AM"
+    },
+    {
+        "title": "North Texans are seeking sterilizations after Supreme Court overturns Roe v Wade",
+        "domain": "keranews.org",
+        "category": "politics",
+        "link": "https://www.keranews.org/news/2022-07-06/north-texans-are-seeking-sterilizations-after-supreme-court-overturns-roe-v-wade?_ga=2.173480743.523076450.1657110780-1768287348.1657110780",
+        "timestamp": 1657110883,
+        "sentiment": 4,
+        "published": "July 6, 2022 8:34 AM"
+    },
+    {
+        "title": "FIFA will track players’ bodies using AI to make offside calls at 2022 World Cup",
+        "domain": "theverge.com",
+        "category": "sports",
+        "link": "https://www.theverge.com/2022/7/5/23195009/fifa-ai-automated-offside-ball-body-tracking-2022-qatar-world-cup",
+        "timestamp": 1657115660,
+        "sentiment": -6,
+        "published": "July 6, 2022 9:54 AM"
+    },
+    {
+        "title": "AMBER ALERT: Have you seen this child? Angie Diaz Rodriguez",
+        "domain": "missingkids.org",
+        "category": "florida",
+        "link": "https://www.missingkids.org/poster/NCMC/1451168/1/screen",
+        "timestamp": 1657124042,
+        "sentiment": -1,
+        "published": "July 6, 2022 12:14 PM"
     },
     {
         "title": "Russia's McDonald's replacement serving mouldy buns and 'insects legs'",
@@ -1564,15 +1654,6 @@
         "timestamp": 1657068403,
         "sentiment": 0,
         "published": "July 5, 2022 8:46 PM"
-    },
-    {
-        "title": "Canadian mountain no longer named for Nazi collaborator thanks to father and son",
-        "domain": "cbc.ca",
-        "category": "UpliftingNews",
-        "link": "https://www.cbc.ca/radio/asithappens/as-it-happens-tuesday-edition-1.6510937/canadian-mountain-no-longer-named-for-nazi-collaborator-thanks-to-father-and-son-1.6510938",
-        "timestamp": 1657068838,
-        "sentiment": 6,
-        "published": "July 5, 2022 8:53 PM"
     },
     {
         "title": "Hulu on the Rise? Demand for Platform's Original Series Has Doubled in the Last 3 Years",
