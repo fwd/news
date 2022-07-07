@@ -5,7 +5,7 @@
         "category": "science",
         "link": "https://ccforum.biomedcentral.com/articles/10.1186/s13054-022-04038-5",
         "timestamp": 1657167887,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "July 7, 2022 12:24 AM"
     },
     {
@@ -14,8 +14,17 @@
         "category": "nottheonion",
         "link": "https://www.cnn.com/2022/07/06/us/uvalde-school-shooting-alerrt-report-law-enforcement-response/index.html",
         "timestamp": 1657168033,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 7, 2022 12:27 AM"
+    },
+    {
+        "title": "Ukrainian medic released in prisoner exchange accuses captors of torture",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2022/07/07/europe/ukrainian-medic-captive-torture-claim-intl-cmd/index.html",
+        "timestamp": 1657169045,
+        "sentiment": 0,
+        "published": "July 7, 2022 12:44 AM"
     },
     {
         "title": "Tucker Carlson suggests shootings are result of lectures on male privilege",
@@ -23,8 +32,44 @@
         "category": "nottheonion",
         "link": "https://www.newsweek.com/tucker-carlson-mass-shooting-male-privilege-fourth-july-parade-robert-crimo-1722071",
         "timestamp": 1657172179,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 7, 2022 1:36 AM"
+    },
+    {
+        "title": "Musk Secretly Fathered Twins With Neuralink Executive, Report Says",
+        "domain": "businesshala.com",
+        "category": "nottheonion",
+        "link": "https://businesshala.com/elon-musk-secretly-fathered-twins-with-neuralink-executive-report-says/",
+        "timestamp": 1657173721,
+        "sentiment": -2,
+        "published": "July 7, 2022 2:02 AM"
+    },
+    {
+        "title": "Driver in Stolen Car Hits Driver in Stolen Car",
+        "domain": "oregonlive.com",
+        "category": "nottheonion",
+        "link": "https://www.oregonlive.com/pacific-northwest-news/2020/07/oregon-driver-in-stolen-car-hits-second-driver-in-stolen-car-police-say.html",
+        "timestamp": 1657173721,
+        "sentiment": -2,
+        "published": "July 7, 2022 2:02 AM"
+    },
+    {
+        "title": "Video game sales set to fall for first time in years as industry braces for recession",
+        "domain": "cnbc.com",
+        "category": "technology",
+        "link": "https://www.cnbc.com/2022/07/07/video-game-industry-not-recession-proof-sales-set-to-fall-in-2022.html",
+        "timestamp": 1657174821,
+        "sentiment": 0,
+        "published": "July 7, 2022 2:20 AM"
+    },
+    {
+        "title": "New research shows hunger is associated with stronger feelings of anger and irritability, as well as lower ratings of pleasure, and the effects were substantial, even after taking into account demographic factors such as age and sex, body mass index, dietary behaviour",
+        "domain": "eurekalert.org",
+        "category": "science",
+        "link": "https://www.eurekalert.org/news-releases/957699?",
+        "timestamp": 1657176859,
+        "sentiment": -3,
+        "published": "July 7, 2022 2:54 AM"
     },
     {
         "title": "US: Fisherman Catches Extremely Rare 'Blue Lobster' In Portland, Releases It Back Into The Ocean",
