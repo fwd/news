@@ -5,7 +5,7 @@
         "category": "science",
         "link": "https://ccforum.biomedcentral.com/articles/10.1186/s13054-022-04038-5",
         "timestamp": 1657167887,
-        "sentiment": -3,
+        "sentiment": 7,
         "published": "July 7, 2022 12:24 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "nottheonion",
         "link": "https://www.cnn.com/2022/07/06/us/uvalde-school-shooting-alerrt-report-law-enforcement-response/index.html",
         "timestamp": 1657168033,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 7, 2022 12:27 AM"
     },
     {
@@ -27,21 +27,12 @@
         "published": "July 7, 2022 12:44 AM"
     },
     {
-        "title": "Tucker Carlson suggests shootings are result of lectures on male privilege",
-        "domain": "newsweek.com",
-        "category": "nottheonion",
-        "link": "https://www.newsweek.com/tucker-carlson-mass-shooting-male-privilege-fourth-july-parade-robert-crimo-1722071",
-        "timestamp": 1657172179,
-        "sentiment": -2,
-        "published": "July 7, 2022 1:36 AM"
-    },
-    {
         "title": "Musk Secretly Fathered Twins With Neuralink Executive, Report Says",
         "domain": "businesshala.com",
         "category": "nottheonion",
         "link": "https://businesshala.com/elon-musk-secretly-fathered-twins-with-neuralink-executive-report-says/",
         "timestamp": 1657173721,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 7, 2022 2:02 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "nottheonion",
         "link": "https://www.oregonlive.com/pacific-northwest-news/2020/07/oregon-driver-in-stolen-car-hits-second-driver-in-stolen-car-police-say.html",
         "timestamp": 1657173721,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 7, 2022 2:02 AM"
     },
     {
@@ -77,8 +68,17 @@
         "category": "science",
         "link": "https://www.eurekalert.org/news-releases/957699?",
         "timestamp": 1657176859,
-        "sentiment": -3,
+        "sentiment": 7,
         "published": "July 7, 2022 2:54 AM"
+    },
+    {
+        "title": "Zelensky Says Western Weapons Finally Working 'Powerfully' on Front Lines",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/zelensky-says-western-weapons-finally-working-powerfully-front-lines-1722402?utm_source=Flipboard&utm_medium=App&utm_campaign=Partnerships",
+        "timestamp": 1657179483,
+        "sentiment": 0,
+        "published": "July 7, 2022 3:38 AM"
     },
     {
         "title": "Boris Johnson: Resignations exceed 50 but PM stays in post",
@@ -95,7 +95,7 @@
         "category": "UpliftingNews",
         "link": "https://nltimes.nl/2022/07/06/netherlands-ban-exotic-pets-report",
         "timestamp": 1657179885,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 3:44 AM"
     },
     {
@@ -108,13 +108,22 @@
         "published": "July 7, 2022 3:51 AM"
     },
     {
-        "title": "Yu-Gi-Oh! creator Kazuki Takahashi dies at age 60, found dead off the coast of Okinawa",
-        "domain": "nhk.or.jp",
-        "category": "worldnews",
-        "link": "https://www3.nhk.or.jp/news/html/20220707/k10013706461000.html",
-        "timestamp": 1657181364,
+        "title": "Some employers offering 'pawternity leave' for workers",
+        "domain": "abc7.com",
+        "category": "UpliftingNews",
+        "link": "https://abc7.com/pawternity-leave-pet-care-employment-benefits-perks/12025510/?ex_cid=TA_KABC_FB&utm_campaign=trueAnthem%3A+New+Content+%28Feed%29&utm_medium=trueAnthem&utm_source=facebook&fbclid=IwAR2ZVKLEVw91XVa115PQ9y6WFZe0i2jvKZdRygLBkDX6I96SZaV_qFHobjk&fs=e&s=cl",
+        "timestamp": 1657180588,
         "sentiment": 0,
-        "published": "July 7, 2022 4:09 AM"
+        "published": "July 7, 2022 3:56 AM"
+    },
+    {
+        "title": "Author of manga 'Yu-Gi-Oh' Kazuki Takahashi found dead in ocean",
+        "domain": "japantimes.co.jp",
+        "category": "news",
+        "link": "https://www.japantimes.co.jp/culture/2022/07/07/entertainment-news/kazuo-takahashi-found-dead/",
+        "timestamp": 1657180711,
+        "sentiment": 0,
+        "published": "July 7, 2022 3:58 AM"
     },
     {
         "title": "Yu-Gi-Oh Manga Creator Kazuki Takahashi Passes Away at 60",
@@ -144,12 +153,21 @@
         "published": "July 7, 2022 4:16 AM"
     },
     {
+        "title": "Uvalde officer saw gunman before he entered school and asked for permission to shoot him: Report",
+        "domain": "abc7.com",
+        "category": "nottheonion",
+        "link": "https://abc7.com/uvalde-texas-robb-elementary-school-officer-asked-to-shoot-suspect-active-shooter/12024385/",
+        "timestamp": 1657182828,
+        "sentiment": -1,
+        "published": "July 7, 2022 4:33 AM"
+    },
+    {
         "title": "Adolescence is an intensely stressful life stage. Scientists developed a brief online training module to help young people to understand stress and to respond to it constructively. The module improved their psychological and physiological responses to stress and boosted academic performance.",
         "domain": "nature.com",
         "category": "science",
         "link": "https://www.nature.com/articles/s41586-022-04907-7",
         "timestamp": 1657183229,
-        "sentiment": -3,
+        "sentiment": 7,
         "published": "July 7, 2022 4:40 AM"
     },
     {
@@ -158,8 +176,62 @@
         "category": "UpliftingNews",
         "link": "https://apnews.com/article/boris-johnson-london-michael-gove-60da3c4b29a4e9c93c7db9f53034ad0e",
         "timestamp": 1657183785,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 4:49 AM"
+    },
+    {
+        "title": "28% of Americans still won’t consider buying an EV",
+        "domain": "techcrunch.com",
+        "category": "technology",
+        "link": "https://techcrunch.com/2022/07/06/28-of-americans-still-wont-consider-buying-an-ev/",
+        "timestamp": 1657186858,
+        "sentiment": 0,
+        "published": "July 7, 2022 5:40 AM"
+    },
+    {
+        "title": "Study says Oklahoma is the worst state for women and one state senator wants to know why",
+        "domain": "kfor.com",
+        "category": "nottheonion",
+        "link": "https://kfor.com/news/local/study-says-oklahoma-is-the-worst-state-for-women-and-one-state-senator-wants-to-know-why/",
+        "timestamp": 1657187999,
+        "sentiment": -1,
+        "published": "July 7, 2022 5:59 AM"
+    },
+    {
+        "title": "A new analysis of observed temperatures shows the Arctic is heating up more than four times faster than the rate of global warming. The trend has stepped upward steeply twice in the last 50 years, a finding missed by all but four of 39 climate models.",
+        "domain": "discover.lanl.gov",
+        "category": "science",
+        "link": "https://discover.lanl.gov/news/0706-arctic-temperatures",
+        "timestamp": 1657188707,
+        "sentiment": 7,
+        "published": "July 7, 2022 6:11 AM"
+    },
+    {
+        "title": "Cannibalism Study Finds People Are Not That Nutritious",
+        "domain": "nationalgeographic.com",
+        "category": "science",
+        "link": "https://www.nationalgeographic.com/science/article/human-cannibalism-nutrition-archaeology-science",
+        "timestamp": 1657189057,
+        "sentiment": 7,
+        "published": "July 7, 2022 6:17 AM"
+    },
+    {
+        "title": "Tucker Carlson suggests shootings are result of lectures on male privilege",
+        "domain": "newsweek.com",
+        "category": "nottheonion",
+        "link": "https://www.newsweek.com/tucker-carlson-mass-shooting-male-privilege-fourth-july-parade-robert-crimo-1722071",
+        "timestamp": 1657172179,
+        "sentiment": -2,
+        "published": "July 7, 2022 1:36 AM"
+    },
+    {
+        "title": "Yu-Gi-Oh! creator Kazuki Takahashi dies at age 60, found dead off the coast of Okinawa",
+        "domain": "nhk.or.jp",
+        "category": "worldnews",
+        "link": "https://www3.nhk.or.jp/news/html/20220707/k10013706461000.html",
+        "timestamp": 1657181364,
+        "sentiment": 0,
+        "published": "July 7, 2022 4:09 AM"
     },
     {
         "title": "Yu-Gi-Oh creator Kazuki Takahashi found dead at Age 60",
@@ -700,15 +772,6 @@
         "timestamp": 1657138708,
         "sentiment": 0,
         "published": "July 6, 2022 4:18 PM"
-    },
-    {
-        "title": "Uvalde officer saw gunman before he entered school and asked for permission to shoot him: Report",
-        "domain": "abc7.com",
-        "category": "news",
-        "link": "https://abc7.com/uvalde-texas-robb-elementary-school-officer-asked-to-shoot-suspect-active-shooter/12024385/",
-        "timestamp": 1657140383,
-        "sentiment": -1,
-        "published": "July 6, 2022 4:46 PM"
     },
     {
         "title": "President Zelensky: Artillery from partners started working powerfully, Russia’s losses will increase",
