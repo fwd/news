@@ -5,7 +5,7 @@
         "category": "science",
         "link": "https://ccforum.biomedcentral.com/articles/10.1186/s13054-022-04038-5",
         "timestamp": 1657167887,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 12:24 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://edition.cnn.com/2022/07/07/europe/ukrainian-medic-captive-torture-claim-intl-cmd/index.html",
         "timestamp": 1657169045,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 7, 2022 12:44 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "technology",
         "link": "https://www.cnbc.com/2022/07/07/video-game-industry-not-recession-proof-sales-set-to-fall-in-2022.html",
         "timestamp": 1657174821,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 7, 2022 2:20 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "science",
         "link": "https://www.eurekalert.org/news-releases/957699?",
         "timestamp": 1657176859,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 2:54 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/zelensky-says-western-weapons-finally-working-powerfully-front-lines-1722402?utm_source=Flipboard&utm_medium=App&utm_campaign=Partnerships",
         "timestamp": 1657179483,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 7, 2022 3:38 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "news",
         "link": "https://www.japantimes.co.jp/culture/2022/07/07/entertainment-news/kazuo-takahashi-found-dead/",
         "timestamp": 1657180711,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 7, 2022 3:58 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "television",
         "link": "https://www.animenewsnetwork.com/news/2022-07-07/yu-gi-oh-manga-creator-kazuki-takahashi-passes-away-at-60/.187468",
         "timestamp": 1657181413,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 7, 2022 4:10 AM"
     },
     {
@@ -113,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.itv.com/news/2022-07-07/boris-johnson-set-to-resign-say-reports",
         "timestamp": 1657181659,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 7, 2022 4:14 AM"
     },
     {
@@ -122,7 +122,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/boris-johnson-to-resign-as-prime-minister-12646836",
         "timestamp": 1657181775,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 7, 2022 4:16 AM"
     },
     {
@@ -140,7 +140,7 @@
         "category": "science",
         "link": "https://www.nature.com/articles/s41586-022-04907-7",
         "timestamp": 1657183229,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 4:40 AM"
     },
     {
@@ -149,7 +149,7 @@
         "category": "technology",
         "link": "https://techcrunch.com/2022/07/06/28-of-americans-still-wont-consider-buying-an-ev/",
         "timestamp": 1657186858,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 7, 2022 5:40 AM"
     },
     {
@@ -167,7 +167,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/uk-politics-62068421?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_medium=custom7&at_custom2=twitter&at_custom4=twitter&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom3=%40BBCPolitics",
         "timestamp": 1657188341,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 7, 2022 6:05 AM"
     },
     {
@@ -176,7 +176,7 @@
         "category": "science",
         "link": "https://discover.lanl.gov/news/0706-arctic-temperatures",
         "timestamp": 1657188707,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 6:11 AM"
     },
     {
@@ -185,17 +185,8 @@
         "category": "worldnews",
         "link": "https://news.yahoo.com/romania-reopens-soviet-era-rail-075341939.html",
         "timestamp": 1657189982,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 7, 2022 6:33 AM"
-    },
-    {
-        "title": "‘Stath Lets Flats’ Creator Jamie Demetriou Strikes BBC Studios Deal",
-        "domain": "deadline.com",
-        "category": "television",
-        "link": "https://deadline.com/2022/07/jamie-demetriou-bbc-studios-1235058608/",
-        "timestamp": 1657190498,
-        "sentiment": -1,
-        "published": "July 7, 2022 6:41 AM"
     },
     {
         "title": "Cannibalism Study Finds People Are Not That Nutritious",
@@ -212,7 +203,7 @@
         "category": "science",
         "link": "https://ucsdnews.ucsd.edu/pressrelease/these-energy-packed-batteries-work-well-in-extreme-cold-and-heat",
         "timestamp": 1657191624,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 7:00 AM"
     },
     {
@@ -221,7 +212,7 @@
         "category": "politics",
         "link": "https://www.theatlantic.com/newsletters/archive/2022/07/are-the-last-rational-republicans-in-denial/661503/",
         "timestamp": 1657191728,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "July 7, 2022 7:02 AM"
     },
     {
@@ -230,7 +221,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/commentisfree/2022/jul/07/the-us-supreme-court-poses-a-real-threat-to-americans-democracy",
         "timestamp": 1657193109,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "July 7, 2022 7:25 AM"
     },
     {
@@ -239,7 +230,7 @@
         "category": "politics",
         "link": "https://apnews.com/article/health-medicare-joe-manchin-congress-6ab089d3e7acb7ecf675d55c5468168f",
         "timestamp": 1657193113,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "July 7, 2022 7:25 AM"
     },
     {
@@ -248,7 +239,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/senate/3548128-grahams-relationship-with-trump-comes-back-to-bite-him/",
         "timestamp": 1657193561,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "July 7, 2022 7:32 AM"
     },
     {
@@ -266,7 +257,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/ex-facebook-staffer-airforce-vet-accessed-deleted-user-data-lawsuit-2022-7",
         "timestamp": 1657193866,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 7, 2022 7:37 AM"
     },
     {
@@ -284,7 +275,7 @@
         "category": "florida",
         "link": "https://www.cltampa.com/news/tampa-police-use-geofencing-to-investigate-crimes-a-spying-tactic-critics-call-unconstitutional-13712912",
         "timestamp": 1657194630,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 7, 2022 7:50 AM"
     },
     {
@@ -293,7 +284,7 @@
         "category": "television",
         "link": "https://www.empireonline.com/tv/news/gwendoline-christie-the-sandman-lucifer-its-fun-to-be-awful-exclusive-image/",
         "timestamp": 1657195420,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 7, 2022 8:03 AM"
     },
     {
@@ -302,7 +293,7 @@
         "category": "science",
         "link": "https://www.science.org/doi/10.1126/science.abm6536",
         "timestamp": 1657196514,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 8:21 AM"
     },
     {
@@ -311,7 +302,7 @@
         "category": "worldnews",
         "link": "https://www.themoscowtimes.com/2022/07/07/russian-ruble-drops-17-on-falling-exports-rumored-intervention-a78224",
         "timestamp": 1657196597,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 7, 2022 8:23 AM"
     },
     {
@@ -320,17 +311,8 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/volodymr-zelensky-ukraine-russia-weapons-ammunition-depot-1722519",
         "timestamp": 1657196644,
-        "sentiment": 0,
-        "published": "July 7, 2022 8:24 AM"
-    },
-    {
-        "title": "The N.R.A. Lobbyist Behind Florida’s Pro-Gun Policies",
-        "domain": "newyorker.com",
-        "category": "florida",
-        "link": "https://www.newyorker.com/magazine/2018/03/05/the-nra-lobbyist-behind-floridas-pro-gun-policies",
-        "timestamp": 1657196778,
         "sentiment": -3,
-        "published": "July 7, 2022 8:26 AM"
+        "published": "July 7, 2022 8:24 AM"
     },
     {
         "title": "Belarus people in Poland buy Bayraktar TB2 for Ukraine - over $1,300,000 raised",
@@ -342,12 +324,21 @@
         "published": "July 7, 2022 8:27 AM"
     },
     {
+        "title": "Disinformation Has Become Another Untouchable Problem in Washington",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2022/07/06/business/disinformation-board-dc.html",
+        "timestamp": 1657197736,
+        "sentiment": -2,
+        "published": "July 7, 2022 8:42 AM"
+    },
+    {
         "title": "Lindsey Graham \"desperate\" not to self-incriminate in Georgia: Kirschner",
         "domain": "newsweek.com",
         "category": "politics",
         "link": "https://www.newsweek.com/lindsey-graham-subpoena-testify-georgia-glenn-kirschner-1722572",
         "timestamp": 1657198224,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "July 7, 2022 8:50 AM"
     },
     {
@@ -356,7 +347,7 @@
         "category": "television",
         "link": "https://www.empireonline.com/movies/news/quentin-tarantino-watches-a-lot-of-peppa-pig-with-his-son-exclusive/",
         "timestamp": 1657198570,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 7, 2022 8:56 AM"
     },
     {
@@ -365,17 +356,8 @@
         "category": "technology",
         "link": "https://www.vice.com/en/article/z34xvw/googles-democratic-ai-is-better-at-redistributing-wealth-than-america",
         "timestamp": 1657198854,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 7, 2022 9:00 AM"
-    },
-    {
-        "title": "Europe faces Facebook blackout",
-        "domain": "politico.eu",
-        "category": "worldnews",
-        "link": "https://www.politico.eu/article/europe-faces-facebook-blackout-instagram-meta-data-protection/amp/",
-        "timestamp": 1657199273,
-        "sentiment": 0,
-        "published": "July 7, 2022 9:07 AM"
     },
     {
         "title": "City of Houston sues to shut down Lucky Evening Food Store for not addressing crime in their area",
@@ -387,12 +369,21 @@
         "published": "July 7, 2022 9:13 AM"
     },
     {
+        "title": "Race for governor tightens as Abbott's lead over O'Rourke shrinks to 6 points, poll finds",
+        "domain": "statesman.com",
+        "category": "politics",
+        "link": "https://www.statesman.com/story/news/politics/state/2022/07/07/gap-between-abbott-and-orourke-shrinks-to-6-points-new-poll-shows/65368173007/",
+        "timestamp": 1657199770,
+        "sentiment": -2,
+        "published": "July 7, 2022 9:16 AM"
+    },
+    {
         "title": "PlayStation Store will remove customers' purchased movies",
         "domain": "flatpanelshd.com",
         "category": "technology",
         "link": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1657022591",
         "timestamp": 1657200473,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 7, 2022 9:27 AM"
     },
     {
@@ -401,7 +392,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/beto-orourke-greg-abbott-texas-governor-election-poll-1722287",
         "timestamp": 1657200482,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "July 7, 2022 9:28 AM"
     },
     {
@@ -414,22 +405,22 @@
         "published": "July 7, 2022 9:34 AM"
     },
     {
-        "title": "Russian Soldier Breaks Down: We Are Just Meat Here",
-        "domain": "news.yahoo.com",
-        "category": "worldnews",
-        "link": "https://news.yahoo.com/russian-soldier-breaks-down-just-125109876.html",
-        "timestamp": 1657200990,
-        "sentiment": 0,
-        "published": "July 7, 2022 9:36 AM"
-    },
-    {
         "title": "Trump may have committed “serious federal crime” with “targeted” IRS audits of Comey, McCabe: expert - Comey and McCabe suspiciously both faced audits targeting just 1 in 30,000 people each year",
         "domain": "salon.com",
         "category": "politics",
         "link": "https://www.salon.com/2022/07/07/may-have-committed-serious-crime-with-targeted-irs-audits-of-comey-mccabe-expert/",
         "timestamp": 1657201041,
-        "sentiment": -5,
+        "sentiment": -2,
         "published": "July 7, 2022 9:37 AM"
+    },
+    {
+        "title": "Voter registration spiked in Kansas and Missouri after Roe reversal, ahead of primaries",
+        "domain": "kansascity.com",
+        "category": "politics",
+        "link": "https://www.kansascity.com/news/politics-government/article263235743.html#storylink=mainstage_lead",
+        "timestamp": 1657201202,
+        "sentiment": -2,
+        "published": "July 7, 2022 9:40 AM"
     },
     {
         "title": "‘The Bear’ is the most stressful thing on TV right now. It’s also great. FX’s surprise hit show — about a family restaurant in Chicago — will either have you pumping your fist or give you have a heart attack. Possibly both.",
@@ -437,8 +428,17 @@
         "category": "television",
         "link": "https://www.rollingstone.com/tv-movies/tv-movie-features/the-bear-review-fx-1377878/",
         "timestamp": 1657201728,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 7, 2022 9:48 AM"
+    },
+    {
+        "title": "Mexico seizes 'historic' half-ton of fentanyl at warehouse",
+        "domain": "abcnews.go.com",
+        "category": "worldnews",
+        "link": "https://abcnews.go.com/International/wireStory/mexico-seizes-historic-half-ton-fentanyl-warehouse-86366377",
+        "timestamp": 1657201801,
+        "sentiment": -3,
+        "published": "July 7, 2022 9:50 AM"
     },
     {
         "title": "Michigan Abortion Rights Petition Breaks Signature Record - and Heads for 2022 Ballot",
@@ -464,7 +464,7 @@
         "category": "news",
         "link": "https://www.wsoctv.com/news/local/juvenile-found-with-loaded-handgun-summer-camp-police-say/XHLPNXEHRBCDRHDGRNBSZJSIZQ/",
         "timestamp": 1657202286,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 7, 2022 9:58 AM"
     },
     {
@@ -482,7 +482,7 @@
         "category": "sports",
         "link": "https://www.reuters.com/world/us-basketball-player-griner-pleads-guilty-drugs-charges-russian-court-2022-07-07/",
         "timestamp": 1657202785,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 7, 2022 10:06 AM"
     },
     {
@@ -491,7 +491,7 @@
         "category": "sports",
         "link": "https://news.yahoo.com/wimbledon-asks-tennis-stars-not-142110984.html",
         "timestamp": 1657202844,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 7, 2022 10:07 AM"
     },
     {
@@ -500,7 +500,7 @@
         "category": "news",
         "link": "https://www.bbc.com/news/business-62075835",
         "timestamp": 1657203142,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 7, 2022 10:12 AM"
     },
     {
@@ -509,7 +509,16 @@
         "category": "news",
         "link": "https://www.bbc.com/news/world-europe-62084185",
         "timestamp": 1657203177,
-        "sentiment": 0,
+        "sentiment": -1,
+        "published": "July 7, 2022 10:12 AM"
+    },
+    {
+        "title": "BA.5, now dominant U.S. variant, may pose the biggest threat to immune protection yet",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/health/health-news/omicron-ba5-ba4-covid-symptoms-vaccines-rcna36894",
+        "timestamp": 1657203179,
+        "sentiment": -1,
         "published": "July 7, 2022 10:12 AM"
     },
     {
@@ -518,7 +527,7 @@
         "category": "television",
         "link": "https://www.engadget.com/star-trek-strange-new-worlds-110-a-quality-of-mercy-review-130037849.html",
         "timestamp": 1657203436,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 7, 2022 10:17 AM"
     },
     {
@@ -527,7 +536,7 @@
         "category": "science",
         "link": "https://www.zmescience.com/science/myrkl-new-anti-hangover-pill-said-to-break-down-up-to-70-of-alcohol-in-an-hour-what-you-need-to-know/",
         "timestamp": 1657204130,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 10:28 AM"
     },
     {
@@ -545,17 +554,8 @@
         "category": "news",
         "link": "https://www.nbcnews.com/pop-culture/music/nicki-minajs-husband-sentenced-home-confinement-register-sex-offender-rcna37042",
         "timestamp": 1657204958,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 7, 2022 10:42 AM"
-    },
-    {
-        "title": "Hummer EV is so inefficient (and its battery so huge) that it produces more CO₂ emissions than a gas-powered Chevy Malibu",
-        "domain": "aceee.org",
-        "category": "technology",
-        "link": "https://www.aceee.org/blog-post/2022/06/9000-pound-electric-hummer-shows-we-cant-ignore-efficiency-evs",
-        "timestamp": 1657205297,
-        "sentiment": 1,
-        "published": "July 7, 2022 10:48 AM"
     },
     {
         "title": "Florida police officer charged with DUI in patrol car",
@@ -565,6 +565,87 @@
         "timestamp": 1657205885,
         "sentiment": 0,
         "published": "July 7, 2022 10:58 AM"
+    },
+    {
+        "title": "Monkeypox cases rise 77% in a week, WHO reports: \"Concerned by the scale and spread of the virus\"",
+        "domain": "cbsnews.com",
+        "category": "science",
+        "link": "https://www.cbsnews.com/news/monkeypox-cases-rise-77-percent-week-world-health-organization/",
+        "timestamp": 1657207789,
+        "sentiment": 0,
+        "published": "July 7, 2022 11:29 AM"
+    },
+    {
+        "title": "Polis signs executive order stating Colorado won't cooperate with other states' abortion investigations",
+        "domain": "thedenverchannel.com",
+        "category": "news",
+        "link": "https://www.thedenverchannel.com/news/politics/polis-signs-executive-order-saying-colorado-wont-cooperate-with-other-states-abortion-investigations",
+        "timestamp": 1657209277,
+        "sentiment": -1,
+        "published": "July 7, 2022 11:54 AM"
+    },
+    {
+        "title": "Sacha Baron Cohen Again Beats Roy Moore’s $95M ‘Who Is America?’ Defamation Suit; Satirist Wins Appeal",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/07/sacha-baron-cohen-lawsuit-victory-ray-moore-who-is-america-borat-1234791912/",
+        "timestamp": 1657209499,
+        "sentiment": 0,
+        "published": "July 7, 2022 11:58 AM"
+    },
+    {
+        "title": "Inside the collapse of Florida college football’s Big Three",
+        "domain": "tampabay.com",
+        "category": "sports",
+        "link": "https://www.tampabay.com/sports/gators/2022/07/07/inside-the-collapse-of-florida-college-footballs-big-three/",
+        "timestamp": 1657210103,
+        "sentiment": -1,
+        "published": "July 7, 2022 12:08 PM"
+    },
+    {
+        "title": "‘Stath Lets Flats’ Creator Jamie Demetriou Strikes BBC Studios Deal",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/07/jamie-demetriou-bbc-studios-1235058608/",
+        "timestamp": 1657190498,
+        "sentiment": -1,
+        "published": "July 7, 2022 6:41 AM"
+    },
+    {
+        "title": "The N.R.A. Lobbyist Behind Florida’s Pro-Gun Policies",
+        "domain": "newyorker.com",
+        "category": "florida",
+        "link": "https://www.newyorker.com/magazine/2018/03/05/the-nra-lobbyist-behind-floridas-pro-gun-policies",
+        "timestamp": 1657196778,
+        "sentiment": -3,
+        "published": "July 7, 2022 8:26 AM"
+    },
+    {
+        "title": "Europe faces Facebook blackout",
+        "domain": "politico.eu",
+        "category": "worldnews",
+        "link": "https://www.politico.eu/article/europe-faces-facebook-blackout-instagram-meta-data-protection/amp/",
+        "timestamp": 1657199273,
+        "sentiment": 0,
+        "published": "July 7, 2022 9:07 AM"
+    },
+    {
+        "title": "Russian Soldier Breaks Down: We Are Just Meat Here",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/russian-soldier-breaks-down-just-125109876.html",
+        "timestamp": 1657200990,
+        "sentiment": 0,
+        "published": "July 7, 2022 9:36 AM"
+    },
+    {
+        "title": "Hummer EV is so inefficient (and its battery so huge) that it produces more CO₂ emissions than a gas-powered Chevy Malibu",
+        "domain": "aceee.org",
+        "category": "technology",
+        "link": "https://www.aceee.org/blog-post/2022/06/9000-pound-electric-hummer-shows-we-cant-ignore-efficiency-evs",
+        "timestamp": 1657205297,
+        "sentiment": 1,
+        "published": "July 7, 2022 10:48 AM"
     },
     {
         "title": "DeSantis Tests Fascism in Florida Before Nationwide Debut",
