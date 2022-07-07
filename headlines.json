@@ -5,7 +5,7 @@
         "category": "UpliftingNews",
         "link": "https://www.indiatimes.com/trending/environment/man-catches-rare-blue-lobster-573973.html",
         "timestamp": 1657081005,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 6, 2022 12:16 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "nottheonion",
         "link": "https://www.theguardian.com/world/2022/jul/06/free-noodles-offered-as-japan-wrestles-with-low-youth-turnout-for-elections",
         "timestamp": 1657089537,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "July 6, 2022 2:38 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "UpliftingNews",
         "link": "https://www.heise.de/news/Deutschland-produziert-mehr-Strom-aus-Erneuerbaren-Frankreich-importiert-ihn-7162907.html",
         "timestamp": 1657093754,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 6, 2022 3:49 AM"
     },
     {
@@ -59,17 +59,8 @@
         "category": "sports",
         "link": "https://www.bbc.co.uk/sport/triathlon/62063359",
         "timestamp": 1657106258,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 6, 2022 7:17 AM"
-    },
-    {
-        "title": "Next Jan. 6 hearing will reveal details of contact between Trump allies and extremist groups ahead of insurrection, report says",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/jan-6-hearing-focus-trump-ally-links-to-extremists-nyt-2022-7",
-        "timestamp": 1657108625,
-        "sentiment": 0,
-        "published": "July 6, 2022 7:57 AM"
     },
     {
         "title": "COVID was the leading cause of death in Americans aged 45-54 in 2021 | About 1 in 8 US deaths were from COVID-19 between March 2020 and October 2021.",
@@ -104,7 +95,7 @@
         "category": "nottheonion",
         "link": "https://www.cbc.ca/news/canada/montreal/curly-hair-searched-3-times-at-airport-1.6510949",
         "timestamp": 1657110358,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "July 6, 2022 8:25 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/technology/2022/jul/05/tiktok-girls-dead-blackout-challenge",
         "timestamp": 1657110654,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "July 6, 2022 8:30 AM"
     },
     {
@@ -149,7 +140,7 @@
         "category": "worldnews",
         "link": "https://www.abc.net.au/news/2022-07-06/caribbean-court-gay-sex-law-unconstitutional/101213962",
         "timestamp": 1657112849,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "July 6, 2022 9:07 AM"
     },
     {
@@ -158,7 +149,7 @@
         "category": "nottheonion",
         "link": "https://www.newsweek.com/tucker-carlson-mass-shooting-male-privilege-fourth-july-parade-robert-crimo-1722071",
         "timestamp": 1657113218,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "July 6, 2022 9:13 AM"
     },
     {
@@ -167,7 +158,7 @@
         "category": "florida",
         "link": "https://www.wesh.com/article/volusia-county-teacher-shortage/40515975#",
         "timestamp": 1657113463,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 6, 2022 9:17 AM"
     },
     {
@@ -176,7 +167,7 @@
         "category": "news",
         "link": "https://www.news4jax.com/news/local/2022/07/04/largest-teachers-union-florida-is-9000-teachers-short-for-the-upcoming-school-year/",
         "timestamp": 1657113823,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "July 6, 2022 9:23 AM"
     },
     {
@@ -185,16 +176,7 @@
         "category": "UpliftingNews",
         "link": "https://abcnews.go.com/International/wireStory/dalai-lama-marks-87th-birthday-opening-library-museum-86293692",
         "timestamp": 1657113886,
-        "sentiment": 3,
-        "published": "July 6, 2022 9:24 AM"
-    },
-    {
-        "title": "'Robin Hood' in underpants arrested for stealing Banana phones",
-        "domain": "bangkokpost.com",
-        "category": "nottheonion",
-        "link": "https://www.bangkokpost.com/thailand/general/2340982/robin-hood-in-underpants-arrested-for-stealing-banana-phones",
-        "timestamp": 1657113891,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 6, 2022 9:24 AM"
     },
     {
@@ -203,7 +185,7 @@
         "category": "florida",
         "link": "https://www.msnbc.com/msnbc/amp/ncna1296843",
         "timestamp": 1657114406,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 6, 2022 9:33 AM"
     },
     {
@@ -212,7 +194,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-gb/news/world/russian-prisoners-offered-2-800-and-freedom-if-they-serve-in-ukraine-and-come-back-alive/ar-AAZdeif?ocid=msedgntphdr&cvid=83bc7ccb2f814e96afdd314237fe84f2",
         "timestamp": 1657114637,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "July 6, 2022 9:37 AM"
     },
     {
@@ -239,7 +221,7 @@
         "category": "worldnews",
         "link": "https://www.helsinkitimes.fi/finland/finland-news/domestic/21835-canada-denmark-and-norway-ratify-finnish-membership-in-nato.html",
         "timestamp": 1657116657,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "July 6, 2022 10:10 AM"
     },
     {
@@ -248,7 +230,7 @@
         "category": "sports",
         "link": "https://abc7.com/demaryius-thomas-stage-2-cte-nfl-champion-what-is/12020343/",
         "timestamp": 1657117103,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 6, 2022 10:18 AM"
     },
     {
@@ -266,7 +248,7 @@
         "category": "worldnews",
         "link": "https://english.nv.ua/business/russian-parliament-adopts-package-of-wartime-laws-forcing-businesses-to-work-for-army-50254667.html",
         "timestamp": 1657117846,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "July 6, 2022 10:30 AM"
     },
     {
@@ -284,7 +266,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/jul/06/us-drinking-water-pfas-toxic-forever-chemicals-epa-tests",
         "timestamp": 1657118698,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "July 6, 2022 10:44 AM"
     },
     {
@@ -302,7 +284,7 @@
         "category": "miami",
         "link": "https://wsvn.com/news/miami-couple-arrested-for-stealing-french-bulldog-blackmailed-owner-for-its-return/",
         "timestamp": 1657120991,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 6, 2022 11:23 AM"
     },
     {
@@ -311,7 +293,7 @@
         "category": "worldnews",
         "link": "https://www.euractiv.com/section/central-asia/news/russia-shuts-down-terminal-after-kazakhstan-offers-to-send-more-oil-to-the-eu/",
         "timestamp": 1657121346,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "July 6, 2022 11:29 AM"
     },
     {
@@ -320,7 +302,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/07/06/lindsey-graham-to-fight-subpoena-in-trump-georgia-election-probe.html",
         "timestamp": 1657121375,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "July 6, 2022 11:29 AM"
     },
     {
@@ -329,7 +311,7 @@
         "category": "nottheonion",
         "link": "https://www.cnn.com/2022/06/26/business/retail-returns/index.html",
         "timestamp": 1657121937,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "July 6, 2022 11:38 AM"
     },
     {
@@ -338,7 +320,7 @@
         "category": "UpliftingNews",
         "link": "https://www.bloomberg.com/news/articles/2022-07-05/south-korea-to-build-nuclear-plants-to-meet-net-zero-targets",
         "timestamp": 1657123145,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 6, 2022 11:59 AM"
     },
     {
@@ -347,7 +329,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/06/politics/trump-appraiser-cushman-wakefield/index.html",
         "timestamp": 1657124139,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "July 6, 2022 12:15 PM"
     },
     {
@@ -356,7 +338,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/business/2022/jul/06/bp-accused-of-dumping-industrial-waste-marine-protected-area-shetland-regulator-clearance-oil-firm-pipe-cables-drilling",
         "timestamp": 1657124435,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "July 6, 2022 12:20 PM"
     },
     {
@@ -365,7 +347,7 @@
         "category": "miami",
         "link": "https://www.miamiherald.com/opinion/op-ed/article261358322.html",
         "timestamp": 1657124875,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 6, 2022 12:27 PM"
     },
     {
@@ -392,7 +374,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.co.uk/news/world-asia-china-62064506",
         "timestamp": 1657126581,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "July 6, 2022 12:56 PM"
     },
     {
@@ -419,7 +401,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/nbcblk/wisconsin-supreme-court-rules-favor-chrystul-kizer-allows-sex-traffick-rcna36914",
         "timestamp": 1657127427,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "July 6, 2022 1:10 PM"
     },
     {
@@ -428,7 +410,7 @@
         "category": "nottheonion",
         "link": "https://www.ourmidland.com/news/article/Women-steal-Michigan-State-Police-recruiting-tent-17287291.php",
         "timestamp": 1657128677,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "July 6, 2022 1:31 PM"
     },
     {
@@ -446,7 +428,7 @@
         "category": "sports",
         "link": "https://www.wkyc.com/article/sports/nfl/browns/cleveland-browns-trade-baker-mayfield-to-carolina-panthers/95-161ac278-3b88-4183-9803-98988cda5d02",
         "timestamp": 1657129533,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 6, 2022 1:45 PM"
     },
     {
@@ -482,7 +464,7 @@
         "category": "worldnews",
         "link": "https://www.news.az/news/britain-ratifies-nato-membership-for-finland-and-sweden",
         "timestamp": 1657130932,
-        "sentiment": -4,
+        "sentiment": -1,
         "published": "July 6, 2022 2:08 PM"
     },
     {
@@ -491,17 +473,8 @@
         "category": "news",
         "link": "https://www.washingtonpost.com/nation/2022/07/06/highland-park-shooting-crimo-gun-application-foid/",
         "timestamp": 1657131275,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "July 6, 2022 2:14 PM"
-    },
-    {
-        "title": "Canadian mountain no longer named for Nazi collaborator thanks to father and son",
-        "domain": "cbc.ca",
-        "category": "UpliftingNews",
-        "link": "https://www.cbc.ca/radio/asithappens/as-it-happens-tuesday-edition-1.6510937/canadian-mountain-no-longer-named-for-nazi-collaborator-thanks-to-father-and-son-1.6510938",
-        "timestamp": 1657131630,
-        "sentiment": 3,
-        "published": "July 6, 2022 2:20 PM"
     },
     {
         "title": "Researchers have discovered a very fast brain rhythm that helps your left brain and right brain communicate better as you run faster—and even when you dream, called ‘splines’: “These spline brain rhythms are faster than all other healthy, awake brain rhythms”",
@@ -518,7 +491,7 @@
         "category": "sports",
         "link": "https://lastwordonsports.com/tennis/2022/07/06/rafael-nadal-survives-taylor-fritz-wimbledon/",
         "timestamp": 1657133354,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 6, 2022 2:49 PM"
     },
     {
@@ -563,7 +536,7 @@
         "category": "news",
         "link": "https://www.bbc.com/news/world-latin-america-62068589?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_custom3=%40BBCWorld&at_campaign=64&at_custom1=%5Bpost+type%5D&at_custom4=FBB7F8D4-FD3D-11EC-8C8B-EB934744363C&at_medium=custom7&at_custom2=twitter",
         "timestamp": 1657134784,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "July 6, 2022 3:13 PM"
     },
     {
@@ -572,8 +545,17 @@
         "category": "nottheonion",
         "link": "https://carsonnow.org/story/07/01/2022/man-found-be-living-inside-childrens-museum-stockpiling-weapons-arrested-child-negl",
         "timestamp": 1657134831,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "July 6, 2022 3:13 PM"
+    },
+    {
+        "title": "Bulgaria blocks bank transfer to Russian embassy citing EU sanctions",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/bulgaria-blocks-bank-transfer-russian-embassy-citing-eu-sanctions-2022-07-06/",
+        "timestamp": 1657135031,
+        "sentiment": -1,
+        "published": "July 6, 2022 3:17 PM"
     },
     {
         "title": "The Moral Panic Is Spreading: Think Tank Proposes Banning Teens From Social Media; Texas Rep Promises To Intro Bill",
@@ -583,15 +565,6 @@
         "timestamp": 1657135267,
         "sentiment": -2,
         "published": "July 6, 2022 3:21 PM"
-    },
-    {
-        "title": "\"Love is Halal\": Erste Moschee in Deutschland hisst Regenbogenflagge und unterstützt LGBT-Community",
-        "domain": "stern.de",
-        "category": "UpliftingNews",
-        "link": "https://www.stern.de/gesellschaft/berlin--erste-moschee-in-deutschland-hisst-regenbogenflagge-32513894.html?utm_medium=posting&utm_campaign=stern_fanpage&utm_source=facebook",
-        "timestamp": 1657135564,
-        "sentiment": 3,
-        "published": "July 6, 2022 3:26 PM"
     },
     {
         "title": "Warren, Sanders, and Others Blast Biden's 'Failure' on Federal Cannabis Policy",
@@ -612,15 +585,6 @@
         "published": "July 6, 2022 3:31 PM"
     },
     {
-        "title": "New report details missed chances to stop Uvalde shooting",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/shootings-texas-1ae2b6406868d398a2ecadf960c3a1df",
-        "timestamp": 1657137034,
-        "sentiment": -1,
-        "published": "July 6, 2022 3:50 PM"
-    },
-    {
         "title": "US carriers want to bring “screen zero” lock screen ads to smartphones",
         "domain": "arstechnica.com",
         "category": "technology",
@@ -635,8 +599,17 @@
         "category": "news",
         "link": "https://abc7.com/uvalde-texas-robb-elementary-school-officer-asked-to-shoot-suspect-active-shooter/12024385/",
         "timestamp": 1657140383,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "July 6, 2022 4:46 PM"
+    },
+    {
+        "title": "President Zelensky: Artillery from partners started working powerfully, Russia’s losses will increase",
+        "domain": "ukrinform.net",
+        "category": "ukraine",
+        "link": "https://www.ukrinform.net/rubric-ato/3523499-president-zelensky-artillery-from-partners-started-working-powerfully-russias-losses-will-increase.html",
+        "timestamp": 1657141093,
+        "sentiment": 0,
+        "published": "July 6, 2022 4:58 PM"
     },
     {
         "title": "Europe wants a high-speed rail network to replace airplanes",
@@ -662,7 +635,7 @@
         "category": "UpliftingNews",
         "link": "https://go.nasa.gov/3nLAQGS",
         "timestamp": 1657143425,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 6, 2022 5:37 PM"
     },
     {
@@ -671,7 +644,7 @@
         "category": "florida",
         "link": "https://www.nbcmiami.com/news/local/video-shows-13-year-old-girl-arrested-during-florida-abortion-rights-protest/2798774/",
         "timestamp": 1657143579,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 6, 2022 5:39 PM"
     },
     {
@@ -707,7 +680,7 @@
         "category": "nottheonion",
         "link": "https://www.newsweek.com/man-claims-unjustly-jailed-killing-rooster-defending-myself-1722308",
         "timestamp": 1657146878,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "July 6, 2022 6:34 PM"
     },
     {
@@ -725,8 +698,17 @@
         "category": "nottheonion",
         "link": "https://www.abc.net.au/news/2022-07-07/council-steps-up-fight-against-bats-with-wavy-tube-people/101196824",
         "timestamp": 1657148201,
-        "sentiment": -5,
+        "sentiment": -1,
         "published": "July 6, 2022 6:56 PM"
+    },
+    {
+        "title": "NC governor signs executive order protecting abortion access",
+        "domain": "wunc.org",
+        "category": "politics",
+        "link": "https://www.wunc.org/news/2022-07-06/nc-governor-signs-executive-order-protecting-abortion-access",
+        "timestamp": 1657149016,
+        "sentiment": 0,
+        "published": "July 6, 2022 7:10 PM"
     },
     {
         "title": "Startups are rebelling against South Korea’s toxic work culture",
@@ -734,7 +716,7 @@
         "category": "UpliftingNews",
         "link": "https://restofworld.org/2022/south-korea-toxic-tech-culture/",
         "timestamp": 1657149172,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 6, 2022 7:12 PM"
     },
     {
@@ -745,6 +727,96 @@
         "timestamp": 1657151158,
         "sentiment": -2,
         "published": "July 6, 2022 7:45 PM"
+    },
+    {
+        "title": "Oregon Health Officials Delayed a Meeting Because 'Urgency Is a White Supremacy Value'",
+        "domain": "reason.com",
+        "category": "nottheonion",
+        "link": "https://reason.com/2022/07/02/urgency-is-a-white-supremacy-value-oregon-health-authority?poopoo",
+        "timestamp": 1657155321,
+        "sentiment": -1,
+        "published": "July 6, 2022 8:55 PM"
+    },
+    {
+        "title": "The 4-day workweek: How realistic is it really? : NPR",
+        "domain": "npr.org",
+        "category": "UpliftingNews",
+        "link": "https://www.npr.org/2022/07/06/1109316972/more-companies-are-trying-out-the-4-day-workweek-but-it-might-not-be-for-everyon",
+        "timestamp": 1657155837,
+        "sentiment": 0,
+        "published": "July 6, 2022 9:03 PM"
+    },
+    {
+        "title": "Elon Musk Reportedly Had Twins With One of His Executives",
+        "domain": "cnet.com",
+        "category": "news",
+        "link": "https://www.cnet.com/tech/elon-musk-reportedly-had-twins-with-one-of-his-execs/",
+        "timestamp": 1657156759,
+        "sentiment": 4,
+        "published": "July 6, 2022 9:19 PM"
+    },
+    {
+        "title": "Russia Threatens To Take Back Alaska From US Over War Sanctions",
+        "domain": "ibtimes.com",
+        "category": "worldnews",
+        "link": "https://www.ibtimes.com/russia-threatens-take-back-alaska-us-over-war-sanctions-3564746",
+        "timestamp": 1657159866,
+        "sentiment": -1,
+        "published": "July 6, 2022 10:11 PM"
+    },
+    {
+        "title": "All of the bases in DNA and RNA have now been found in meteorites",
+        "domain": "24leak.com",
+        "category": "UpliftingNews",
+        "link": "https://24leak.com/2022/07/06/all-of-the-bases-in-dna-and-rna-have-now-been-found-in-meteorites/",
+        "timestamp": 1657160354,
+        "sentiment": 0,
+        "published": "July 6, 2022 10:19 PM"
+    },
+    {
+        "title": "Next Jan. 6 hearing will reveal details of contact between Trump allies and extremist groups ahead of insurrection, report says",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/jan-6-hearing-focus-trump-ally-links-to-extremists-nyt-2022-7",
+        "timestamp": 1657108625,
+        "sentiment": 0,
+        "published": "July 6, 2022 7:57 AM"
+    },
+    {
+        "title": "'Robin Hood' in underpants arrested for stealing Banana phones",
+        "domain": "bangkokpost.com",
+        "category": "nottheonion",
+        "link": "https://www.bangkokpost.com/thailand/general/2340982/robin-hood-in-underpants-arrested-for-stealing-banana-phones",
+        "timestamp": 1657113891,
+        "sentiment": -5,
+        "published": "July 6, 2022 9:24 AM"
+    },
+    {
+        "title": "Canadian mountain no longer named for Nazi collaborator thanks to father and son",
+        "domain": "cbc.ca",
+        "category": "UpliftingNews",
+        "link": "https://www.cbc.ca/radio/asithappens/as-it-happens-tuesday-edition-1.6510937/canadian-mountain-no-longer-named-for-nazi-collaborator-thanks-to-father-and-son-1.6510938",
+        "timestamp": 1657131630,
+        "sentiment": 3,
+        "published": "July 6, 2022 2:20 PM"
+    },
+    {
+        "title": "\"Love is Halal\": Erste Moschee in Deutschland hisst Regenbogenflagge und unterstützt LGBT-Community",
+        "domain": "stern.de",
+        "category": "UpliftingNews",
+        "link": "https://www.stern.de/gesellschaft/berlin--erste-moschee-in-deutschland-hisst-regenbogenflagge-32513894.html?utm_medium=posting&utm_campaign=stern_fanpage&utm_source=facebook",
+        "timestamp": 1657135564,
+        "sentiment": 3,
+        "published": "July 6, 2022 3:26 PM"
+    },
+    {
+        "title": "New report details missed chances to stop Uvalde shooting",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/shootings-texas-1ae2b6406868d398a2ecadf960c3a1df",
+        "timestamp": 1657137034,
+        "sentiment": -1,
+        "published": "July 6, 2022 3:50 PM"
     },
     {
         "title": "Things get messy for Elon Musk with reports about new twins he shares with Neuralink exec",
@@ -853,15 +925,6 @@
         "timestamp": 1657133659,
         "sentiment": -5,
         "published": "July 6, 2022 2:54 PM"
-    },
-    {
-        "title": "Bulgaria blocks bank transfer to Russian embassy citing EU sanctions",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/europe/bulgaria-blocks-bank-transfer-russian-embassy-citing-eu-sanctions-2022-07-06/",
-        "timestamp": 1657135031,
-        "sentiment": -1,
-        "published": "July 6, 2022 3:17 PM"
     },
     {
         "title": "Chairman of the Russian Parliament (Duma) warns that the USA should remember that Alaska was Russian and the Russian Federation can start \"reclaiming\" it.",
