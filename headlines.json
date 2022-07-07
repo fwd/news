@@ -9,6 +9,24 @@
         "published": "July 7, 2022 12:24 AM"
     },
     {
+        "title": "An officer sought permission to shoot the Uvalde gunman before he entered school but didn't hear back in time, report says",
+        "domain": "cnn.com",
+        "category": "nottheonion",
+        "link": "https://www.cnn.com/2022/07/06/us/uvalde-school-shooting-alerrt-report-law-enforcement-response/index.html",
+        "timestamp": 1657168033,
+        "sentiment": 0,
+        "published": "July 7, 2022 12:27 AM"
+    },
+    {
+        "title": "Tucker Carlson suggests shootings are result of lectures on male privilege",
+        "domain": "newsweek.com",
+        "category": "nottheonion",
+        "link": "https://www.newsweek.com/tucker-carlson-mass-shooting-male-privilege-fourth-july-parade-robert-crimo-1722071",
+        "timestamp": 1657172179,
+        "sentiment": 0,
+        "published": "July 7, 2022 1:36 AM"
+    },
+    {
         "title": "US: Fisherman Catches Extremely Rare 'Blue Lobster' In Portland, Releases It Back Into The Ocean",
         "domain": "indiatimes.com",
         "category": "UpliftingNews",
@@ -133,15 +151,6 @@
         "timestamp": 1657112849,
         "sentiment": -2,
         "published": "July 6, 2022 9:07 AM"
-    },
-    {
-        "title": "Tucker Carlson suggests shootings are result of lectures on male privilege",
-        "domain": "newsweek.com",
-        "category": "nottheonion",
-        "link": "https://www.newsweek.com/tucker-carlson-mass-shooting-male-privilege-fourth-july-parade-robert-crimo-1722071",
-        "timestamp": 1657113218,
-        "sentiment": -1,
-        "published": "July 6, 2022 9:13 AM"
     },
     {
         "title": "Volusia County school officials say district is short 365 teachers",
