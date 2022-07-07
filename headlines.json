@@ -14,7 +14,7 @@
         "category": "technology",
         "link": "https://www.cnbc.com/2022/07/07/video-game-industry-not-recession-proof-sales-set-to-fall-in-2022.html",
         "timestamp": 1657174821,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 7, 2022 2:20 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/zelensky-says-western-weapons-finally-working-powerfully-front-lines-1722402?utm_source=Flipboard&utm_medium=App&utm_campaign=Partnerships",
         "timestamp": 1657179483,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 7, 2022 3:38 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "UpliftingNews",
         "link": "https://nltimes.nl/2022/07/06/netherlands-ban-exotic-pets-report",
         "timestamp": 1657179885,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 7, 2022 3:44 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/boris-johnson-to-resign-as-prime-minister-12646836",
         "timestamp": 1657181775,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 7, 2022 4:16 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "technology",
         "link": "https://techcrunch.com/2022/07/06/28-of-americans-still-wont-consider-buying-an-ev/",
         "timestamp": 1657186858,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 7, 2022 5:40 AM"
     },
     {
@@ -90,15 +90,6 @@
         "published": "July 7, 2022 5:59 AM"
     },
     {
-        "title": "Boris Johnson met Russian oligarch Lebedev without aides",
-        "domain": "bbc.com",
-        "category": "worldnews",
-        "link": "https://www.bbc.com/news/uk-politics-62068421?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_medium=custom7&at_custom2=twitter&at_custom4=twitter&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom3=%40BBCPolitics",
-        "timestamp": 1657188341,
-        "sentiment": 0,
-        "published": "July 7, 2022 6:05 AM"
-    },
-    {
         "title": "A new analysis of observed temperatures shows the Arctic is heating up more than four times faster than the rate of global warming. The trend has stepped upward steeply twice in the last 50 years, a finding missed by all but four of 39 climate models.",
         "domain": "discover.lanl.gov",
         "category": "science",
@@ -106,24 +97,6 @@
         "timestamp": 1657188707,
         "sentiment": 0,
         "published": "July 7, 2022 6:11 AM"
-    },
-    {
-        "title": "Romania Reopens Soviet-Era Rail Line to Aid Ukraine Grain Sales",
-        "domain": "news.yahoo.com",
-        "category": "worldnews",
-        "link": "https://news.yahoo.com/romania-reopens-soviet-era-rail-075341939.html",
-        "timestamp": 1657189982,
-        "sentiment": 0,
-        "published": "July 7, 2022 6:33 AM"
-    },
-    {
-        "title": "Cannibalism Study Finds People Are Not That Nutritious",
-        "domain": "nationalgeographic.com",
-        "category": "nottheonion",
-        "link": "https://www.nationalgeographic.com/science/article/human-cannibalism-nutrition-archaeology-science",
-        "timestamp": 1657191617,
-        "sentiment": 0,
-        "published": "July 7, 2022 7:00 AM"
     },
     {
         "title": "Are the Last Rational Republicans in Denial? The current GOP is beyond rescue.",
@@ -149,7 +122,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/ex-facebook-staffer-airforce-vet-accessed-deleted-user-data-lawsuit-2022-7",
         "timestamp": 1657193866,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 7, 2022 7:37 AM"
     },
     {
@@ -158,7 +131,7 @@
         "category": "florida",
         "link": "https://www.cltampa.com/news/tampa-police-use-geofencing-to-investigate-crimes-a-spying-tactic-critics-call-unconstitutional-13712912",
         "timestamp": 1657194630,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 7, 2022 7:50 AM"
     },
     {
@@ -185,8 +158,17 @@
         "category": "worldnews",
         "link": "https://www.themoscowtimes.com/2022/07/07/russian-ruble-drops-17-on-falling-exports-rumored-intervention-a78224",
         "timestamp": 1657196597,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 7, 2022 8:23 AM"
+    },
+    {
+        "title": "Cannibalism Study Finds People Are Not That Nutritious",
+        "domain": "nationalgeographic.com",
+        "category": "nottheonion",
+        "link": "https://www.nationalgeographic.com/science/article/human-cannibalism-nutrition-archaeology-science",
+        "timestamp": 1657196989,
+        "sentiment": 0,
+        "published": "July 7, 2022 8:29 AM"
     },
     {
         "title": "Lindsey Graham \"desperate\" not to self-incriminate in Georgia: Kirschner",
@@ -212,7 +194,7 @@
         "category": "technology",
         "link": "https://www.vice.com/en/article/z34xvw/googles-democratic-ai-is-better-at-redistributing-wealth-than-america",
         "timestamp": 1657198854,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 7, 2022 9:00 AM"
     },
     {
@@ -230,7 +212,7 @@
         "category": "UpliftingNews",
         "link": "https://www.newscentermaine.com/article/life/animals/wildlife/10-rescued-sea-turtles-released-off-of-cape-cod-ma/97-68113c11-095f-4f91-b3d3-19f41880bc03",
         "timestamp": 1657200854,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 7, 2022 9:34 AM"
     },
     {
@@ -241,15 +223,6 @@
         "timestamp": 1657201041,
         "sentiment": 1,
         "published": "July 7, 2022 9:37 AM"
-    },
-    {
-        "title": "Quentin Tarantino says Peppa Pig is the greatest British import of this decade.",
-        "domain": "empireonline.com",
-        "category": "nottheonion",
-        "link": "https://www.empireonline.com/movies/news/quentin-tarantino-watches-a-lot-of-peppa-pig-with-his-son-exclusive/",
-        "timestamp": 1657201159,
-        "sentiment": 0,
-        "published": "July 7, 2022 9:39 AM"
     },
     {
         "title": "Voter registration spiked in Kansas and Missouri after Roe reversal, ahead of primaries",
@@ -266,7 +239,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jul/07/finland-passes-law-to-bolster-border-fence-with-russia",
         "timestamp": 1657201711,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 7, 2022 9:48 AM"
     },
     {
@@ -342,15 +315,6 @@
         "published": "July 7, 2022 10:42 AM"
     },
     {
-        "title": "A newfound dinosaur evolved a giant head and tiny arms independently of T. rex, suggesting the scrawny forelimbs had a purpose. Meraxes gigas went extinct 20 million years before T. rex walked on Earth.",
-        "domain": "sciencenews.org",
-        "category": "science",
-        "link": "https://www.sciencenews.org/article/dinosaur-short-arms-tyrannosaurus-rex-meraxes-gigas-paleontology?utm_source=Reddit&utm_medium=social&utm_campaign=r_science",
-        "timestamp": 1657206641,
-        "sentiment": 0,
-        "published": "July 7, 2022 11:10 AM"
-    },
-    {
         "title": "Ken Griffin Spent $54 Million Fighting a Tax Increase for the Rich. Secret IRS Data Shows It Paid Off for Him.",
         "domain": "propublica.org",
         "category": "politics",
@@ -365,17 +329,8 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/abortion-us-supreme-court-health-european-parliament-660014a8f37c31e33a0f4540a34f5bd6",
         "timestamp": 1657207806,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 7, 2022 11:30 AM"
-    },
-    {
-        "title": "Scientists rediscover oak tree thought to be extinct",
-        "domain": "mortonarb.org",
-        "category": "UpliftingNews",
-        "link": "https://mortonarb.org/news/researchers-rediscover-extinct-oak/",
-        "timestamp": 1657208235,
-        "sentiment": 0,
-        "published": "July 7, 2022 11:37 AM"
     },
     {
         "title": "Supreme Court justices prayed with conservative Christian legal group, member claims",
@@ -392,7 +347,7 @@
         "category": "worldnews",
         "link": "https://www.eurointegration.com.ua/eng/news/2022/07/7/7142774/",
         "timestamp": 1657209150,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 7, 2022 11:52 AM"
     },
     {
@@ -419,7 +374,7 @@
         "category": "technology",
         "link": "https://uploadvr.com/quest-2-no-longer-requires-facebook/",
         "timestamp": 1657210341,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 7, 2022 12:12 PM"
     },
     {
@@ -446,8 +401,17 @@
         "category": "technology",
         "link": "https://www.thedrive.com/news/heres-why-some-automakers-tune-out-am-radios-in-new-cars",
         "timestamp": 1657212168,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 7, 2022 12:42 PM"
+    },
+    {
+        "title": "Germany's largest landlord to reduce heating for tenants to save energy",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/business/energy/germanys-largest-landlord-reduce-heating-tenants-save-energy-2022-07-07/",
+        "timestamp": 1657212360,
+        "sentiment": 2,
+        "published": "July 7, 2022 12:46 PM"
     },
     {
         "title": "Boris Johnson's waxwork appears outside job centre",
@@ -482,7 +446,7 @@
         "category": "worldnews",
         "link": "https://www.cbsnews.com/news/mexico-fentanyl-seizure-half-ton-warehouse/?ftag=CNM-00-10aab7e&linkId=172312288",
         "timestamp": 1657213926,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 7, 2022 1:12 PM"
     },
     {
@@ -545,7 +509,7 @@
         "category": "technology",
         "link": "https://www.pcgamesn.com/nvidia/rtx-4000-gpu-launch-delay-geforce-3000-oversupply",
         "timestamp": 1657215669,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 7, 2022 1:41 PM"
     },
     {
@@ -556,15 +520,6 @@
         "timestamp": 1657217405,
         "sentiment": -5,
         "published": "July 7, 2022 2:10 PM"
-    },
-    {
-        "title": "Communist Party of Ukraine banned and all its assets seized by the state",
-        "domain": "morningstaronline.co.uk",
-        "category": "ukraine",
-        "link": "https://morningstaronline.co.uk/article/w/communist-party-of-ukraine-banned-and-all-its-assets-seized-by-the-state",
-        "timestamp": 1657217582,
-        "sentiment": 0,
-        "published": "July 7, 2022 2:13 PM"
     },
     {
         "title": "Rafael Nadal Withdraws From Wimbledon before Semifinal Match",
@@ -590,7 +545,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/putins-military-stole-famous-artwork-ukraine-museum-mariupol-council-1722614",
         "timestamp": 1657220226,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 7, 2022 2:57 PM"
     },
     {
@@ -608,7 +563,7 @@
         "category": "UpliftingNews",
         "link": "https://www.koco.com/article/oklahoma-city-zoo-sumatran-tiger-twins-born/40541047",
         "timestamp": 1657221124,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 7, 2022 3:12 PM"
     },
     {
@@ -617,7 +572,7 @@
         "category": "technology",
         "link": "https://www.cnn.com/2022/07/07/tech/sunny-balwani-verdict-theranos/index.html",
         "timestamp": 1657221396,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 7, 2022 3:16 PM"
     },
     {
@@ -644,7 +599,7 @@
         "category": "florida",
         "link": "https://www.newsmax.com/politics/florida-voters-republican-voters/2022/07/06/id/1077571/",
         "timestamp": 1657223715,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 7, 2022 3:55 PM"
     },
     {
@@ -653,7 +608,7 @@
         "category": "UpliftingNews",
         "link": "https://www.bloomberg.com/news/articles/2022-07-05/dutch-parliament-approves-to-make-work-from-home-a-legal-right",
         "timestamp": 1657223762,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 7, 2022 3:56 PM"
     },
     {
@@ -662,7 +617,7 @@
         "category": "technology",
         "link": "https://techcrunch.com/2022/07/07/tesla-reportedly-nowhere-near-goal-of-installing-1000-solar-roofs-a-week/",
         "timestamp": 1657224413,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 7, 2022 4:06 PM"
     },
     {
@@ -698,8 +653,17 @@
         "category": "UpliftingNews",
         "link": "https://coloradosun.com/2022/07/06/colorado-abortion-investigations-polis-executive-order/",
         "timestamp": 1657226652,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 7, 2022 4:44 PM"
+    },
+    {
+        "title": "Vladimir Putin ally's aircraft seized and handed to Ukrainian army",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/helicopter-airplane-putin-ally-seized-given-ukrainian-army-1722621",
+        "timestamp": 1657226767,
+        "sentiment": 2,
+        "published": "July 7, 2022 4:46 PM"
     },
     {
         "title": "Dallas Cowboys face criticism after announcing partnership with gun-themed coffee company one day after July 4 mass shooting",
@@ -725,7 +689,7 @@
         "category": "UpliftingNews",
         "link": "https://apnews.com/article/simone-biles-biden-gun-violence-covid-sports-8aa59ba8aa52ef22b4ec7c4d13cdb5ab",
         "timestamp": 1657227445,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 7, 2022 4:57 PM"
     },
     {
@@ -734,8 +698,17 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/07/07/politics/volodymyr-zelensky-interview-cnntv/index.html",
         "timestamp": 1657227870,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 7, 2022 5:04 PM"
+    },
+    {
+        "title": "Skinny dipping record attempt to take place Sunday at Treasure Coast nude beach",
+        "domain": "cbs12.com",
+        "category": "florida",
+        "link": "https://cbs12.com/news/local/skinny-dipping-record-attempt-july-10-treasure-coast-naturists-nude-beach-blind-creek-beach-st-lucie-county-florida?fbclid=IwAR2L6YLBhQ2Barpwr7T94u1GQr1KukxqK9h2cfsdLM-dHw_ZQX3QlMJFYxI",
+        "timestamp": 1657228155,
+        "sentiment": 2,
+        "published": "July 7, 2022 5:09 PM"
     },
     {
         "title": "This Florida synagogue is using religious freedom to challenge abortion restrictions",
@@ -743,7 +716,7 @@
         "category": "florida",
         "link": "https://www.deseret.com/faith/2022/7/5/23189733/this-florida-synagogue-is-using-religious-freedom-to-challenge-abortion-restrictions-supreme-court",
         "timestamp": 1657228757,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 7, 2022 5:19 PM"
     },
     {
@@ -761,7 +734,7 @@
         "category": "UpliftingNews",
         "link": "https://newsreleases.sandia.gov/solar_chile/",
         "timestamp": 1657229732,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 7, 2022 5:35 PM"
     },
     {
@@ -770,7 +743,7 @@
         "category": "UpliftingNews",
         "link": "https://kion546.com/news/2022/07/07/governor-gavin-newsom-announces-california-will-make-its-own-insulin/",
         "timestamp": 1657229812,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 7, 2022 5:36 PM"
     },
     {
@@ -799,6 +772,105 @@
         "timestamp": 1657230339,
         "sentiment": -5,
         "published": "July 7, 2022 5:45 PM"
+    },
+    {
+        "title": "Researchers are a step closer to understanding how the brain interprets the visual world after discovering how ganglion cells share the task of processing, coding, and conveying visual information to the brain.",
+        "domain": "qbi.uq.edu.au",
+        "category": "science",
+        "link": "https://qbi.uq.edu.au/article/2022/07/making-sense-how-we-see-world",
+        "timestamp": 1657231570,
+        "sentiment": 0,
+        "published": "July 7, 2022 6:06 PM"
+    },
+    {
+        "title": "EU moving closer to Facebook ban",
+        "domain": "blog.simpleanalytics.com",
+        "category": "UpliftingNews",
+        "link": "https://blog.simpleanalytics.com/eu-moving-closer-to-facebook-ban",
+        "timestamp": 1657232022,
+        "sentiment": 2,
+        "published": "July 7, 2022 6:13 PM"
+    },
+    {
+        "title": "North Carolina Looks to Remove Public EV Chargers, Probably to the Trash",
+        "domain": "caranddriver.com",
+        "category": "nottheonion",
+        "link": "https://www.caranddriver.com/news/a40543385/north-carolina-wants-remove-free-public-ev-chargers/",
+        "timestamp": 1657234071,
+        "sentiment": 0,
+        "published": "July 7, 2022 6:47 PM"
+    },
+    {
+        "title": "Penguins refuse to eat cheaper fish as inflation hits Japanese aquarium",
+        "domain": "ctvnews.ca",
+        "category": "nottheonion",
+        "link": "https://www.ctvnews.ca/world/penguins-refuse-to-eat-cheaper-fish-as-inflation-hits-japanese-aquarium-1.5978364",
+        "timestamp": 1657234688,
+        "sentiment": 0,
+        "published": "July 7, 2022 6:58 PM"
+    },
+    {
+        "title": "Florida once again has giant calamitous snails that spew parasitic brain worms",
+        "domain": "arstechnica.com",
+        "category": "nottheonion",
+        "link": "https://arstechnica.com/science/2022/07/florida-battling-giant-savage-snails-that-spread-brain-invading-worms-again/",
+        "timestamp": 1657235500,
+        "sentiment": 0,
+        "published": "July 7, 2022 7:11 PM"
+    },
+    {
+        "title": "Boris Johnson met Russian oligarch Lebedev without aides",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/uk-politics-62068421?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_medium=custom7&at_custom2=twitter&at_custom4=twitter&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom3=%40BBCPolitics",
+        "timestamp": 1657188341,
+        "sentiment": 0,
+        "published": "July 7, 2022 6:05 AM"
+    },
+    {
+        "title": "Romania Reopens Soviet-Era Rail Line to Aid Ukraine Grain Sales",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/romania-reopens-soviet-era-rail-075341939.html",
+        "timestamp": 1657189982,
+        "sentiment": 0,
+        "published": "July 7, 2022 6:33 AM"
+    },
+    {
+        "title": "Quentin Tarantino says Peppa Pig is the greatest British import of this decade.",
+        "domain": "empireonline.com",
+        "category": "nottheonion",
+        "link": "https://www.empireonline.com/movies/news/quentin-tarantino-watches-a-lot-of-peppa-pig-with-his-son-exclusive/",
+        "timestamp": 1657201159,
+        "sentiment": 0,
+        "published": "July 7, 2022 9:39 AM"
+    },
+    {
+        "title": "A newfound dinosaur evolved a giant head and tiny arms independently of T. rex, suggesting the scrawny forelimbs had a purpose. Meraxes gigas went extinct 20 million years before T. rex walked on Earth.",
+        "domain": "sciencenews.org",
+        "category": "science",
+        "link": "https://www.sciencenews.org/article/dinosaur-short-arms-tyrannosaurus-rex-meraxes-gigas-paleontology?utm_source=Reddit&utm_medium=social&utm_campaign=r_science",
+        "timestamp": 1657206641,
+        "sentiment": 0,
+        "published": "July 7, 2022 11:10 AM"
+    },
+    {
+        "title": "Scientists rediscover oak tree thought to be extinct",
+        "domain": "mortonarb.org",
+        "category": "UpliftingNews",
+        "link": "https://mortonarb.org/news/researchers-rediscover-extinct-oak/",
+        "timestamp": 1657208235,
+        "sentiment": 0,
+        "published": "July 7, 2022 11:37 AM"
+    },
+    {
+        "title": "Communist Party of Ukraine banned and all its assets seized by the state",
+        "domain": "morningstaronline.co.uk",
+        "category": "ukraine",
+        "link": "https://morningstaronline.co.uk/article/w/communist-party-of-ukraine-banned-and-all-its-assets-seized-by-the-state",
+        "timestamp": 1657217582,
+        "sentiment": 0,
+        "published": "July 7, 2022 2:13 PM"
     },
     {
         "title": "Researches have developed lithium-ion batteries that perform well at freezing cold and scorching hot temperatures (retained 87.5% and 115.9% of their energy capacity at -40 and +50 C), while packing a lot of energy and their electrolyte is also compatible with a high energy anode and cathode",
