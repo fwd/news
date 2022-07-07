@@ -68,7 +68,7 @@
         "category": "ukraine",
         "link": "https://www.news.ro/economic/sorin-grindeanu-anunta-deschiderea-liniei-ferate-ecartament-larg-portul-galati-trenurile-marfa-vin-ucraina-via-republica-moldova-pot-descarca-cerealele-direct-portul-galati-avea-nevoie-transbordare-1922400807502022070920766177",
         "timestamp": 1657175485,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 7, 2022 2:31 AM"
     },
     {
@@ -81,13 +81,58 @@
         "published": "July 7, 2022 2:54 AM"
     },
     {
+        "title": "Boris Johnson: Resignations exceed 50 but PM stays in post",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/uk-politics-62069494",
+        "timestamp": 1657179863,
+        "sentiment": 0,
+        "published": "July 7, 2022 3:44 AM"
+    },
+    {
         "title": "Netherlands to ban exotic pets: report",
         "domain": "nltimes.nl",
         "category": "UpliftingNews",
         "link": "https://nltimes.nl/2022/07/06/netherlands-ban-exotic-pets-report",
         "timestamp": 1657179885,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 7, 2022 3:44 AM"
+    },
+    {
+        "title": "Russia says the West risks the ‘wrath’ of God if it punishes Moscow over the war; heavy weapons start to have an impact",
+        "domain": "cnbc.com",
+        "category": "ukraine",
+        "link": "https://www.cnbc.com/2022/07/07/russia-ukraine-live-updates.html",
+        "timestamp": 1657180289,
+        "sentiment": 3,
+        "published": "July 7, 2022 3:51 AM"
+    },
+    {
+        "title": "Yu-Gi-Oh Manga Creator Kazuki Takahashi Passes Away at 60",
+        "domain": "animenewsnetwork.com",
+        "category": "television",
+        "link": "https://www.animenewsnetwork.com/news/2022-07-07/yu-gi-oh-manga-creator-kazuki-takahashi-passes-away-at-60/.187468",
+        "timestamp": 1657181413,
+        "sentiment": -2,
+        "published": "July 7, 2022 4:10 AM"
+    },
+    {
+        "title": "Yu-Gi-Oh creator Kazuki Takahashi found dead at Age 60",
+        "domain": "nhk.or.jp",
+        "category": "television",
+        "link": "https://www3.nhk.or.jp/news/html/20220707/k10013706461000.html",
+        "timestamp": 1657181431,
+        "sentiment": -2,
+        "published": "July 7, 2022 4:10 AM"
+    },
+    {
+        "title": "Boris Johnson set to resign, say reports",
+        "domain": "itv.com",
+        "category": "worldnews",
+        "link": "https://www.itv.com/news/2022-07-07/boris-johnson-set-to-resign-say-reports",
+        "timestamp": 1657181659,
+        "sentiment": 0,
+        "published": "July 7, 2022 4:14 AM"
     },
     {
         "title": "Boris Johnson to resign as prime minister",
@@ -97,6 +142,15 @@
         "timestamp": 1657181775,
         "sentiment": 0,
         "published": "July 7, 2022 4:16 AM"
+    },
+    {
+        "title": "United Kingdom: Embattled UK Prime Minister Boris Johnson agrees to resign",
+        "domain": "apnews.com",
+        "category": "UpliftingNews",
+        "link": "https://apnews.com/article/boris-johnson-london-michael-gove-60da3c4b29a4e9c93c7db9f53034ad0e",
+        "timestamp": 1657183785,
+        "sentiment": -2,
+        "published": "July 7, 2022 4:49 AM"
     },
     {
         "title": "US: Fisherman Catches Extremely Rare 'Blue Lobster' In Portland, Releases It Back Into The Ocean",
