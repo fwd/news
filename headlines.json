@@ -63,6 +63,15 @@
         "published": "July 7, 2022 2:20 AM"
     },
     {
+        "title": "Romania announces the opening of the Port of Galati wide gauge railway: Freight trains coming from Ukraine, via the Republic of Moldova, can unload grain directly in the Port of Galati, without the need for transhipment at the border.",
+        "domain": "news.ro",
+        "category": "ukraine",
+        "link": "https://www.news.ro/economic/sorin-grindeanu-anunta-deschiderea-liniei-ferate-ecartament-larg-portul-galati-trenurile-marfa-vin-ucraina-via-republica-moldova-pot-descarca-cerealele-direct-portul-galati-avea-nevoie-transbordare-1922400807502022070920766177",
+        "timestamp": 1657175485,
+        "sentiment": 0,
+        "published": "July 7, 2022 2:31 AM"
+    },
+    {
         "title": "New research shows hunger is associated with stronger feelings of anger and irritability, as well as lower ratings of pleasure, and the effects were substantial, even after taking into account demographic factors such as age and sex, body mass index, dietary behaviour",
         "domain": "eurekalert.org",
         "category": "science",
@@ -70,6 +79,24 @@
         "timestamp": 1657176859,
         "sentiment": -3,
         "published": "July 7, 2022 2:54 AM"
+    },
+    {
+        "title": "Netherlands to ban exotic pets: report",
+        "domain": "nltimes.nl",
+        "category": "UpliftingNews",
+        "link": "https://nltimes.nl/2022/07/06/netherlands-ban-exotic-pets-report",
+        "timestamp": 1657179885,
+        "sentiment": 0,
+        "published": "July 7, 2022 3:44 AM"
+    },
+    {
+        "title": "Boris Johnson to resign as prime minister",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/boris-johnson-to-resign-as-prime-minister-12646836",
+        "timestamp": 1657181775,
+        "sentiment": 0,
+        "published": "July 7, 2022 4:16 AM"
     },
     {
         "title": "US: Fisherman Catches Extremely Rare 'Blue Lobster' In Portland, Releases It Back Into The Ocean",
