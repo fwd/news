@@ -5,7 +5,7 @@
         "category": "science",
         "link": "https://ccforum.biomedcentral.com/articles/10.1186/s13054-022-04038-5",
         "timestamp": 1657167887,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 7, 2022 12:24 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "nottheonion",
         "link": "https://www.cnn.com/2022/07/06/us/uvalde-school-shooting-alerrt-report-law-enforcement-response/index.html",
         "timestamp": 1657168033,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 7, 2022 12:27 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://edition.cnn.com/2022/07/07/europe/ukrainian-medic-captive-torture-claim-intl-cmd/index.html",
         "timestamp": 1657169045,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 7, 2022 12:44 AM"
     },
     {
@@ -32,17 +32,8 @@
         "category": "nottheonion",
         "link": "https://www.oregonlive.com/pacific-northwest-news/2020/07/oregon-driver-in-stolen-car-hits-second-driver-in-stolen-car-police-say.html",
         "timestamp": 1657173721,
-        "sentiment": 1,
-        "published": "July 7, 2022 2:02 AM"
-    },
-    {
-        "title": "DeSantis Tests Fascism in Florida Before Nationwide Debut",
-        "domain": "freespeech.org",
-        "category": "politics",
-        "link": "https://freespeech.org/stories/desantis-tests-fascism-in-florida-before-nationwide-debut/",
-        "timestamp": 1657174595,
         "sentiment": 0,
-        "published": "July 7, 2022 2:16 AM"
+        "published": "July 7, 2022 2:02 AM"
     },
     {
         "title": "Video game sales set to fall for first time in years as industry braces for recession",
@@ -50,7 +41,7 @@
         "category": "technology",
         "link": "https://www.cnbc.com/2022/07/07/video-game-industry-not-recession-proof-sales-set-to-fall-in-2022.html",
         "timestamp": 1657174821,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 7, 2022 2:20 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "ukraine",
         "link": "https://www.news.ro/economic/sorin-grindeanu-anunta-deschiderea-liniei-ferate-ecartament-larg-portul-galati-trenurile-marfa-vin-ucraina-via-republica-moldova-pot-descarca-cerealele-direct-portul-galati-avea-nevoie-transbordare-1922400807502022070920766177",
         "timestamp": 1657175485,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 7, 2022 2:31 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "science",
         "link": "https://www.eurekalert.org/news-releases/957699?",
         "timestamp": 1657176859,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 7, 2022 2:54 AM"
     },
     {
@@ -77,17 +68,8 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/zelensky-says-western-weapons-finally-working-powerfully-front-lines-1722402?utm_source=Flipboard&utm_medium=App&utm_campaign=Partnerships",
         "timestamp": 1657179483,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 7, 2022 3:38 AM"
-    },
-    {
-        "title": "Boris Johnson: Resignations exceed 50 but PM stays in post",
-        "domain": "bbc.com",
-        "category": "worldnews",
-        "link": "https://www.bbc.com/news/uk-politics-62069494",
-        "timestamp": 1657179863,
-        "sentiment": -4,
-        "published": "July 7, 2022 3:44 AM"
     },
     {
         "title": "Netherlands to ban exotic pets: report",
@@ -95,7 +77,7 @@
         "category": "UpliftingNews",
         "link": "https://nltimes.nl/2022/07/06/netherlands-ban-exotic-pets-report",
         "timestamp": 1657179885,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 7, 2022 3:44 AM"
     },
     {
@@ -104,17 +86,8 @@
         "category": "ukraine",
         "link": "https://www.cnbc.com/2022/07/07/russia-ukraine-live-updates.html",
         "timestamp": 1657180289,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 7, 2022 3:51 AM"
-    },
-    {
-        "title": "Some employers offering 'pawternity leave' for workers",
-        "domain": "abc7.com",
-        "category": "UpliftingNews",
-        "link": "https://abc7.com/pawternity-leave-pet-care-employment-benefits-perks/12025510/?ex_cid=TA_KABC_FB&utm_campaign=trueAnthem%3A+New+Content+%28Feed%29&utm_medium=trueAnthem&utm_source=facebook&fbclid=IwAR2ZVKLEVw91XVa115PQ9y6WFZe0i2jvKZdRygLBkDX6I96SZaV_qFHobjk&fs=e&s=cl",
-        "timestamp": 1657180588,
-        "sentiment": 0,
-        "published": "July 7, 2022 3:56 AM"
     },
     {
         "title": "Author of manga 'Yu-Gi-Oh' Kazuki Takahashi found dead in ocean",
@@ -131,7 +104,7 @@
         "category": "television",
         "link": "https://www.animenewsnetwork.com/news/2022-07-07/yu-gi-oh-manga-creator-kazuki-takahashi-passes-away-at-60/.187468",
         "timestamp": 1657181413,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 7, 2022 4:10 AM"
     },
     {
@@ -140,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.itv.com/news/2022-07-07/boris-johnson-set-to-resign-say-reports",
         "timestamp": 1657181659,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 7, 2022 4:14 AM"
     },
     {
@@ -149,7 +122,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/boris-johnson-to-resign-as-prime-minister-12646836",
         "timestamp": 1657181775,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 7, 2022 4:16 AM"
     },
     {
@@ -158,7 +131,7 @@
         "category": "ukraine",
         "link": "https://www.reuters.com/world/russia-warns-humanity-risk-if-west-seeks-punish-it-over-ukraine-2022-07-07/",
         "timestamp": 1657182564,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 7, 2022 4:29 AM"
     },
     {
@@ -167,17 +140,8 @@
         "category": "science",
         "link": "https://www.nature.com/articles/s41586-022-04907-7",
         "timestamp": 1657183229,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 7, 2022 4:40 AM"
-    },
-    {
-        "title": "Highest General of Bundeswehr and MoD Lambrecht do not see room for sending 200 Fuchs APC to Ukraine, while opposition and parts of goverment parties want to force delivery through a motion in parliament.",
-        "domain": "tagesschau.de",
-        "category": "ukraine",
-        "link": "https://www.tagesschau.de/newsticker/liveblog-ukraine-donnerstag-137.html",
-        "timestamp": 1657185065,
-        "sentiment": 1,
-        "published": "July 7, 2022 5:11 AM"
     },
     {
         "title": "28% of Americans still won’t consider buying an EV",
@@ -185,7 +149,7 @@
         "category": "technology",
         "link": "https://techcrunch.com/2022/07/06/28-of-americans-still-wont-consider-buying-an-ev/",
         "timestamp": 1657186858,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 7, 2022 5:40 AM"
     },
     {
@@ -194,8 +158,17 @@
         "category": "nottheonion",
         "link": "https://kfor.com/news/local/study-says-oklahoma-is-the-worst-state-for-women-and-one-state-senator-wants-to-know-why/",
         "timestamp": 1657187999,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 7, 2022 5:59 AM"
+    },
+    {
+        "title": "Boris Johnson met Russian oligarch Lebedev without aides",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/uk-politics-62068421?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_medium=custom7&at_custom2=twitter&at_custom4=twitter&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom3=%40BBCPolitics",
+        "timestamp": 1657188341,
+        "sentiment": 0,
+        "published": "July 7, 2022 6:05 AM"
     },
     {
         "title": "A new analysis of observed temperatures shows the Arctic is heating up more than four times faster than the rate of global warming. The trend has stepped upward steeply twice in the last 50 years, a finding missed by all but four of 39 climate models.",
@@ -203,8 +176,26 @@
         "category": "science",
         "link": "https://discover.lanl.gov/news/0706-arctic-temperatures",
         "timestamp": 1657188707,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 7, 2022 6:11 AM"
+    },
+    {
+        "title": "Romania Reopens Soviet-Era Rail Line to Aid Ukraine Grain Sales",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/romania-reopens-soviet-era-rail-075341939.html",
+        "timestamp": 1657189982,
+        "sentiment": 0,
+        "published": "July 7, 2022 6:33 AM"
+    },
+    {
+        "title": "‘Stath Lets Flats’ Creator Jamie Demetriou Strikes BBC Studios Deal",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/07/jamie-demetriou-bbc-studios-1235058608/",
+        "timestamp": 1657190498,
+        "sentiment": -1,
+        "published": "July 7, 2022 6:41 AM"
     },
     {
         "title": "Cannibalism Study Finds People Are Not That Nutritious",
@@ -212,7 +203,7 @@
         "category": "nottheonion",
         "link": "https://www.nationalgeographic.com/science/article/human-cannibalism-nutrition-archaeology-science",
         "timestamp": 1657191617,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 7, 2022 7:00 AM"
     },
     {
@@ -221,7 +212,7 @@
         "category": "science",
         "link": "https://ucsdnews.ucsd.edu/pressrelease/these-energy-packed-batteries-work-well-in-extreme-cold-and-heat",
         "timestamp": 1657191624,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 7, 2022 7:00 AM"
     },
     {
@@ -230,7 +221,7 @@
         "category": "politics",
         "link": "https://www.theatlantic.com/newsletters/archive/2022/07/are-the-last-rational-republicans-in-denial/661503/",
         "timestamp": 1657191728,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 7, 2022 7:02 AM"
     },
     {
@@ -239,7 +230,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/commentisfree/2022/jul/07/the-us-supreme-court-poses-a-real-threat-to-americans-democracy",
         "timestamp": 1657193109,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 7, 2022 7:25 AM"
     },
     {
@@ -248,8 +239,17 @@
         "category": "politics",
         "link": "https://apnews.com/article/health-medicare-joe-manchin-congress-6ab089d3e7acb7ecf675d55c5468168f",
         "timestamp": 1657193113,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 7, 2022 7:25 AM"
+    },
+    {
+        "title": "Graham’s relationship with Trump comes back to bite him",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/senate/3548128-grahams-relationship-with-trump-comes-back-to-bite-him/",
+        "timestamp": 1657193561,
+        "sentiment": -5,
+        "published": "July 7, 2022 7:32 AM"
     },
     {
         "title": "I just can't wait to be queen| New female lion cub born at Zoo Knoxville",
@@ -257,7 +257,7 @@
         "category": "UpliftingNews",
         "link": "https://www.wbir.com/article/entertainment/places/zoo-knoxville/new-female-lion-cub-born-at-zoo-knoxville/51-90d79a47-6d30-4fad-acee-3910e3a7e5de",
         "timestamp": 1657193812,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 7, 2022 7:36 AM"
     },
     {
@@ -266,7 +266,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/ex-facebook-staffer-airforce-vet-accessed-deleted-user-data-lawsuit-2022-7",
         "timestamp": 1657193866,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 7, 2022 7:37 AM"
     },
     {
@@ -275,17 +275,8 @@
         "category": "ukraine",
         "link": "https://twitter.com/TpyxaNews/status/1545010070454427654",
         "timestamp": 1657194353,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 7, 2022 7:45 AM"
-    },
-    {
-        "title": "Indian director threatened over film poster depicting goddess smoking | India",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/world/2022/jul/06/indian-director-facing-threats-over-film-poster-of-goddess-with-pride-flag",
-        "timestamp": 1657194404,
-        "sentiment": 0,
-        "published": "July 7, 2022 7:46 AM"
     },
     {
         "title": "Tampa police use 'geofencing' to investigate crimes, a spying tactic critics call unconstitutional",
@@ -293,7 +284,7 @@
         "category": "florida",
         "link": "https://www.cltampa.com/news/tampa-police-use-geofencing-to-investigate-crimes-a-spying-tactic-critics-call-unconstitutional-13712912",
         "timestamp": 1657194630,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 7, 2022 7:50 AM"
     },
     {
@@ -302,7 +293,7 @@
         "category": "television",
         "link": "https://www.empireonline.com/tv/news/gwendoline-christie-the-sandman-lucifer-its-fun-to-be-awful-exclusive-image/",
         "timestamp": 1657195420,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 7, 2022 8:03 AM"
     },
     {
@@ -311,7 +302,7 @@
         "category": "science",
         "link": "https://www.science.org/doi/10.1126/science.abm6536",
         "timestamp": 1657196514,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 7, 2022 8:21 AM"
     },
     {
@@ -320,7 +311,7 @@
         "category": "worldnews",
         "link": "https://www.themoscowtimes.com/2022/07/07/russian-ruble-drops-17-on-falling-exports-rumored-intervention-a78224",
         "timestamp": 1657196597,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 7, 2022 8:23 AM"
     },
     {
@@ -329,7 +320,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/volodymr-zelensky-ukraine-russia-weapons-ammunition-depot-1722519",
         "timestamp": 1657196644,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 7, 2022 8:24 AM"
     },
     {
@@ -338,8 +329,17 @@
         "category": "florida",
         "link": "https://www.newyorker.com/magazine/2018/03/05/the-nra-lobbyist-behind-floridas-pro-gun-policies",
         "timestamp": 1657196778,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 7, 2022 8:26 AM"
+    },
+    {
+        "title": "Belarus people in Poland buy Bayraktar TB2 for Ukraine - over $1,300,000 raised",
+        "domain": "gagadget.com",
+        "category": "ukraine",
+        "link": "https://gagadget.com/en/143612-belarusians-in-poland-buy-bayraktar-tb2-for-ukraine-over-1300000-raised/",
+        "timestamp": 1657196831,
+        "sentiment": -2,
+        "published": "July 7, 2022 8:27 AM"
     },
     {
         "title": "Lindsey Graham \"desperate\" not to self-incriminate in Georgia: Kirschner",
@@ -347,7 +347,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/lindsey-graham-subpoena-testify-georgia-glenn-kirschner-1722572",
         "timestamp": 1657198224,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 7, 2022 8:50 AM"
     },
     {
@@ -356,7 +356,7 @@
         "category": "television",
         "link": "https://www.empireonline.com/movies/news/quentin-tarantino-watches-a-lot-of-peppa-pig-with-his-son-exclusive/",
         "timestamp": 1657198570,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 7, 2022 8:56 AM"
     },
     {
@@ -365,7 +365,7 @@
         "category": "technology",
         "link": "https://www.vice.com/en/article/z34xvw/googles-democratic-ai-is-better-at-redistributing-wealth-than-america",
         "timestamp": 1657198854,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 7, 2022 9:00 AM"
     },
     {
@@ -374,7 +374,7 @@
         "category": "worldnews",
         "link": "https://www.politico.eu/article/europe-faces-facebook-blackout-instagram-meta-data-protection/amp/",
         "timestamp": 1657199273,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 7, 2022 9:07 AM"
     },
     {
@@ -383,7 +383,7 @@
         "category": "nottheonion",
         "link": "https://abc13.com/houston-crime-lucky-evening-food-store-caught-in-south-braeswood/12024958/",
         "timestamp": 1657199628,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 7, 2022 9:13 AM"
     },
     {
@@ -392,8 +392,17 @@
         "category": "technology",
         "link": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1657022591",
         "timestamp": 1657200473,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 7, 2022 9:27 AM"
+    },
+    {
+        "title": "Beto O'Rourke's chances of ousting Greg Abbott are getting better",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/beto-orourke-greg-abbott-texas-governor-election-poll-1722287",
+        "timestamp": 1657200482,
+        "sentiment": -5,
+        "published": "July 7, 2022 9:28 AM"
     },
     {
         "title": "10 rescued sea turtles released off Cape Cod",
@@ -401,17 +410,26 @@
         "category": "UpliftingNews",
         "link": "https://www.newscentermaine.com/article/life/animals/wildlife/10-rescued-sea-turtles-released-off-of-cape-cod-ma/97-68113c11-095f-4f91-b3d3-19f41880bc03",
         "timestamp": 1657200854,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 7, 2022 9:34 AM"
     },
     {
-        "title": "Quentin Tarantino says Peppa Pig is the greatest British import of this decade.",
-        "domain": "empireonline.com",
-        "category": "nottheonion",
-        "link": "https://www.empireonline.com/movies/news/quentin-tarantino-watches-a-lot-of-peppa-pig-with-his-son-exclusive/",
-        "timestamp": 1657201159,
-        "sentiment": 1,
-        "published": "July 7, 2022 9:39 AM"
+        "title": "Russian Soldier Breaks Down: We Are Just Meat Here",
+        "domain": "news.yahoo.com",
+        "category": "worldnews",
+        "link": "https://news.yahoo.com/russian-soldier-breaks-down-just-125109876.html",
+        "timestamp": 1657200990,
+        "sentiment": 0,
+        "published": "July 7, 2022 9:36 AM"
+    },
+    {
+        "title": "Trump may have committed “serious federal crime” with “targeted” IRS audits of Comey, McCabe: expert - Comey and McCabe suspiciously both faced audits targeting just 1 in 30,000 people each year",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/07/07/may-have-committed-serious-crime-with-targeted-irs-audits-of-comey-mccabe-expert/",
+        "timestamp": 1657201041,
+        "sentiment": -5,
+        "published": "July 7, 2022 9:37 AM"
     },
     {
         "title": "‘The Bear’ is the most stressful thing on TV right now. It’s also great. FX’s surprise hit show — about a family restaurant in Chicago — will either have you pumping your fist or give you have a heart attack. Possibly both.",
@@ -419,7 +437,7 @@
         "category": "television",
         "link": "https://www.rollingstone.com/tv-movies/tv-movie-features/the-bear-review-fx-1377878/",
         "timestamp": 1657201728,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 7, 2022 9:48 AM"
     },
     {
@@ -428,8 +446,17 @@
         "category": "UpliftingNews",
         "link": "https://gandernewsroom.com/2022/07/06/abortion-petition-breaks-signature-record/",
         "timestamp": 1657201836,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 7, 2022 9:50 AM"
+    },
+    {
+        "title": "Nashville Zoo welcomes baby Clouded Leopards",
+        "domain": "wsmv.com",
+        "category": "UpliftingNews",
+        "link": "https://www.wsmv.com/2022/07/06/nashville-zoo-welcomes-baby-clouded-leopards/",
+        "timestamp": 1657202280,
+        "sentiment": 1,
+        "published": "July 7, 2022 9:58 AM"
     },
     {
         "title": "Child found with loaded handgun at Concord summer camp, police say",
@@ -446,7 +473,7 @@
         "category": "UpliftingNews",
         "link": "https://www.bbc.com/news/business-62075835",
         "timestamp": 1657202403,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 7, 2022 10:00 AM"
     },
     {
@@ -455,8 +482,143 @@
         "category": "sports",
         "link": "https://www.reuters.com/world/us-basketball-player-griner-pleads-guilty-drugs-charges-russian-court-2022-07-07/",
         "timestamp": 1657202785,
-        "sentiment": 5,
+        "sentiment": -3,
         "published": "July 7, 2022 10:06 AM"
+    },
+    {
+        "title": "Wimbledon asks tennis stars not to max out their $108-a-day restaurant budget to prevent food and drink shortages",
+        "domain": "news.yahoo.com",
+        "category": "sports",
+        "link": "https://news.yahoo.com/wimbledon-asks-tennis-stars-not-142110984.html",
+        "timestamp": 1657202844,
+        "sentiment": -3,
+        "published": "July 7, 2022 10:07 AM"
+    },
+    {
+        "title": "Pound rises as Boris Johnson announces resignation",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/business-62075835",
+        "timestamp": 1657203142,
+        "sentiment": 0,
+        "published": "July 7, 2022 10:12 AM"
+    },
+    {
+        "title": "Brittney Griner pleads guilty to Russian drugs charge",
+        "domain": "bbc.com",
+        "category": "news",
+        "link": "https://www.bbc.com/news/world-europe-62084185",
+        "timestamp": 1657203177,
+        "sentiment": 0,
+        "published": "July 7, 2022 10:12 AM"
+    },
+    {
+        "title": "‘Star Trek: Strange New Worlds’ cements its first season with a strong finale",
+        "domain": "engadget.com",
+        "category": "television",
+        "link": "https://www.engadget.com/star-trek-strange-new-worlds-110-a-quality-of-mercy-review-130037849.html",
+        "timestamp": 1657203436,
+        "sentiment": -1,
+        "published": "July 7, 2022 10:17 AM"
+    },
+    {
+        "title": "Myrkl: new anti-hangover pill said to break down up to 70% of alcohol in an hour",
+        "domain": "zmescience.com",
+        "category": "science",
+        "link": "https://www.zmescience.com/science/myrkl-new-anti-hangover-pill-said-to-break-down-up-to-70-of-alcohol-in-an-hour-what-you-need-to-know/",
+        "timestamp": 1657204130,
+        "sentiment": -2,
+        "published": "July 7, 2022 10:28 AM"
+    },
+    {
+        "title": "Giant snails that can carry parasite known to cause meningitis in humans found in Florida",
+        "domain": "news.sky.com",
+        "category": "nottheonion",
+        "link": "https://news.sky.com/story/giant-snails-that-can-carry-parasite-known-to-cause-meningitis-in-humans-found-in-florida-12647393",
+        "timestamp": 1657204886,
+        "sentiment": 0,
+        "published": "July 7, 2022 10:41 AM"
+    },
+    {
+        "title": "Nicki Minaj’s husband sentenced to home confinement for failing to register as sex offender",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/pop-culture/music/nicki-minajs-husband-sentenced-home-confinement-register-sex-offender-rcna37042",
+        "timestamp": 1657204958,
+        "sentiment": 0,
+        "published": "July 7, 2022 10:42 AM"
+    },
+    {
+        "title": "Hummer EV is so inefficient (and its battery so huge) that it produces more CO₂ emissions than a gas-powered Chevy Malibu",
+        "domain": "aceee.org",
+        "category": "technology",
+        "link": "https://www.aceee.org/blog-post/2022/06/9000-pound-electric-hummer-shows-we-cant-ignore-efficiency-evs",
+        "timestamp": 1657205297,
+        "sentiment": 1,
+        "published": "July 7, 2022 10:48 AM"
+    },
+    {
+        "title": "Florida police officer charged with DUI in patrol car",
+        "domain": "wfla.com",
+        "category": "nottheonion",
+        "link": "https://www.wfla.com/news/florida/florida-officer-charged-with-dui-in-patrol-car/?",
+        "timestamp": 1657205885,
+        "sentiment": 0,
+        "published": "July 7, 2022 10:58 AM"
+    },
+    {
+        "title": "DeSantis Tests Fascism in Florida Before Nationwide Debut",
+        "domain": "freespeech.org",
+        "category": "politics",
+        "link": "https://freespeech.org/stories/desantis-tests-fascism-in-florida-before-nationwide-debut/",
+        "timestamp": 1657174595,
+        "sentiment": 0,
+        "published": "July 7, 2022 2:16 AM"
+    },
+    {
+        "title": "Boris Johnson: Resignations exceed 50 but PM stays in post",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/uk-politics-62069494",
+        "timestamp": 1657179863,
+        "sentiment": -4,
+        "published": "July 7, 2022 3:44 AM"
+    },
+    {
+        "title": "Some employers offering 'pawternity leave' for workers",
+        "domain": "abc7.com",
+        "category": "UpliftingNews",
+        "link": "https://abc7.com/pawternity-leave-pet-care-employment-benefits-perks/12025510/?ex_cid=TA_KABC_FB&utm_campaign=trueAnthem%3A+New+Content+%28Feed%29&utm_medium=trueAnthem&utm_source=facebook&fbclid=IwAR2ZVKLEVw91XVa115PQ9y6WFZe0i2jvKZdRygLBkDX6I96SZaV_qFHobjk&fs=e&s=cl",
+        "timestamp": 1657180588,
+        "sentiment": 0,
+        "published": "July 7, 2022 3:56 AM"
+    },
+    {
+        "title": "Highest General of Bundeswehr and MoD Lambrecht do not see room for sending 200 Fuchs APC to Ukraine, while opposition and parts of goverment parties want to force delivery through a motion in parliament.",
+        "domain": "tagesschau.de",
+        "category": "ukraine",
+        "link": "https://www.tagesschau.de/newsticker/liveblog-ukraine-donnerstag-137.html",
+        "timestamp": 1657185065,
+        "sentiment": 1,
+        "published": "July 7, 2022 5:11 AM"
+    },
+    {
+        "title": "Indian director threatened over film poster depicting goddess smoking | India",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/world/2022/jul/06/indian-director-facing-threats-over-film-poster-of-goddess-with-pride-flag",
+        "timestamp": 1657194404,
+        "sentiment": 0,
+        "published": "July 7, 2022 7:46 AM"
+    },
+    {
+        "title": "Quentin Tarantino says Peppa Pig is the greatest British import of this decade.",
+        "domain": "empireonline.com",
+        "category": "nottheonion",
+        "link": "https://www.empireonline.com/movies/news/quentin-tarantino-watches-a-lot-of-peppa-pig-with-his-son-exclusive/",
+        "timestamp": 1657201159,
+        "sentiment": 1,
+        "published": "July 7, 2022 9:39 AM"
     },
     {
         "title": "Uvalde officer saw gunman before he entered school and asked for permission to shoot him: Report",
