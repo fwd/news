@@ -5,7 +5,7 @@
         "category": "science",
         "link": "https://ccforum.biomedcentral.com/articles/10.1186/s13054-022-04038-5",
         "timestamp": 1657167887,
-        "sentiment": 7,
+        "sentiment": 0,
         "published": "July 7, 2022 12:24 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://edition.cnn.com/2022/07/07/europe/ukrainian-medic-captive-torture-claim-intl-cmd/index.html",
         "timestamp": 1657169045,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "July 7, 2022 12:44 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "ukraine",
         "link": "https://www.news.ro/economic/sorin-grindeanu-anunta-deschiderea-liniei-ferate-ecartament-larg-portul-galati-trenurile-marfa-vin-ucraina-via-republica-moldova-pot-descarca-cerealele-direct-portul-galati-avea-nevoie-transbordare-1922400807502022070920766177",
         "timestamp": 1657175485,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 7, 2022 2:31 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "science",
         "link": "https://www.eurekalert.org/news-releases/957699?",
         "timestamp": 1657176859,
-        "sentiment": 7,
+        "sentiment": 0,
         "published": "July 7, 2022 2:54 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/zelensky-says-western-weapons-finally-working-powerfully-front-lines-1722402?utm_source=Flipboard&utm_medium=App&utm_campaign=Partnerships",
         "timestamp": 1657179483,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "July 7, 2022 3:38 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/uk-politics-62069494",
         "timestamp": 1657179863,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "July 7, 2022 3:44 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "ukraine",
         "link": "https://www.cnbc.com/2022/07/07/russia-ukraine-live-updates.html",
         "timestamp": 1657180289,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 7, 2022 3:51 AM"
     },
     {
@@ -122,7 +122,7 @@
         "category": "television",
         "link": "https://www.animenewsnetwork.com/news/2022-07-07/yu-gi-oh-manga-creator-kazuki-takahashi-passes-away-at-60/.187468",
         "timestamp": 1657181413,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 7, 2022 4:10 AM"
     },
     {
@@ -131,7 +131,7 @@
         "category": "worldnews",
         "link": "https://www.itv.com/news/2022-07-07/boris-johnson-set-to-resign-say-reports",
         "timestamp": 1657181659,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "July 7, 2022 4:14 AM"
     },
     {
@@ -140,7 +140,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/boris-johnson-to-resign-as-prime-minister-12646836",
         "timestamp": 1657181775,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "July 7, 2022 4:16 AM"
     },
     {
@@ -149,7 +149,7 @@
         "category": "ukraine",
         "link": "https://www.reuters.com/world/russia-warns-humanity-risk-if-west-seeks-punish-it-over-ukraine-2022-07-07/",
         "timestamp": 1657182564,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 7, 2022 4:29 AM"
     },
     {
@@ -167,8 +167,17 @@
         "category": "science",
         "link": "https://www.nature.com/articles/s41586-022-04907-7",
         "timestamp": 1657183229,
-        "sentiment": 7,
+        "sentiment": 0,
         "published": "July 7, 2022 4:40 AM"
+    },
+    {
+        "title": "Highest General of Bundeswehr and MoD Lambrecht do not see room for sending 200 Fuchs APC to Ukraine, while opposition and parts of goverment parties want to force delivery through a motion in parliament.",
+        "domain": "tagesschau.de",
+        "category": "ukraine",
+        "link": "https://www.tagesschau.de/newsticker/liveblog-ukraine-donnerstag-137.html",
+        "timestamp": 1657185065,
+        "sentiment": 1,
+        "published": "July 7, 2022 5:11 AM"
     },
     {
         "title": "28% of Americans still won’t consider buying an EV",
@@ -180,13 +189,13 @@
         "published": "July 7, 2022 5:40 AM"
     },
     {
-        "title": "gas prices drop by almost 25 cents per gallon.",
-        "domain": "npr.org",
-        "category": "politics",
-        "link": "https://www.npr.org/2022/07/06/1110155926/gas-prices-drop-by-almost-25-cents-per-gallon",
-        "timestamp": 1657187579,
-        "sentiment": 0,
-        "published": "July 7, 2022 5:52 AM"
+        "title": "Author of manga 'Yu-Gi-Oh' Kazuki Takahashi found dead",
+        "domain": "japantimes.co.jp",
+        "category": "worldnews",
+        "link": "https://www.japantimes.co.jp/culture/2022/07/07/entertainment-news/kazuo-takahashi-found-dead/",
+        "timestamp": 1657187177,
+        "sentiment": -3,
+        "published": "July 7, 2022 5:46 AM"
     },
     {
         "title": "Study says Oklahoma is the worst state for women and one state senator wants to know why",
@@ -203,7 +212,7 @@
         "category": "science",
         "link": "https://discover.lanl.gov/news/0706-arctic-temperatures",
         "timestamp": 1657188707,
-        "sentiment": 7,
+        "sentiment": 0,
         "published": "July 7, 2022 6:11 AM"
     },
     {
@@ -212,8 +221,17 @@
         "category": "science",
         "link": "https://www.nationalgeographic.com/science/article/human-cannibalism-nutrition-archaeology-science",
         "timestamp": 1657189057,
-        "sentiment": 7,
+        "sentiment": 0,
         "published": "July 7, 2022 6:17 AM"
+    },
+    {
+        "title": "Researches have developed lithium-ion batteries that perform well at freezing cold and scorching hot temperatures (retained 87.5% and 115.9% of their energy capacity at -40 and +50 C), while packing a lot of energy and their electrolyte is also compatible with a high energy anode and cathode",
+        "domain": "ucsdnews.ucsd.edu",
+        "category": "science",
+        "link": "https://ucsdnews.ucsd.edu/pressrelease/these-energy-packed-batteries-work-well-in-extreme-cold-and-heat",
+        "timestamp": 1657191624,
+        "sentiment": 0,
+        "published": "July 7, 2022 7:00 AM"
     },
     {
         "title": "Are the Last Rational Republicans in Denial? The current GOP is beyond rescue.",
@@ -221,17 +239,17 @@
         "category": "politics",
         "link": "https://www.theatlantic.com/newsletters/archive/2022/07/are-the-last-rational-republicans-in-denial/661503/",
         "timestamp": 1657191728,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 7, 2022 7:02 AM"
     },
     {
-        "title": "Boris Johnson resigns as UK prime minister",
-        "domain": "cnbc.com",
-        "category": "worldnews",
-        "link": "https://www.cnbc.com/2022/07/07/boris-johnson-resigns-as-uk-prime-minister.html",
-        "timestamp": 1657193676,
-        "sentiment": -1,
-        "published": "July 7, 2022 7:34 AM"
+        "title": "The US supreme court poses a real threat to Americans’ democracy",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/commentisfree/2022/jul/07/the-us-supreme-court-poses-a-real-threat-to-americans-democracy",
+        "timestamp": 1657193109,
+        "sentiment": 2,
+        "published": "July 7, 2022 7:25 AM"
     },
     {
         "title": "I just can't wait to be queen| New female lion cub born at Zoo Knoxville",
@@ -252,15 +270,6 @@
         "published": "July 7, 2022 7:37 AM"
     },
     {
-        "title": "Boris Johnson Officially Resigns as Britain's Conservative Party Leader",
-        "domain": "albawaba.com",
-        "category": "worldnews",
-        "link": "https://www.albawaba.com/news/boris-johnson-officially-resigns-britains-conservative-party-leader-1483443",
-        "timestamp": 1657194272,
-        "sentiment": -1,
-        "published": "July 7, 2022 7:44 AM"
-    },
-    {
         "title": "Tampa police use 'geofencing' to investigate crimes, a spying tactic critics call unconstitutional",
         "domain": "cltampa.com",
         "category": "florida",
@@ -275,8 +284,80 @@
         "category": "television",
         "link": "https://www.empireonline.com/tv/news/gwendoline-christie-the-sandman-lucifer-its-fun-to-be-awful-exclusive-image/",
         "timestamp": 1657195420,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 7, 2022 8:03 AM"
+    },
+    {
+        "title": "Ancient DNA reveals five streams of migration into Micronesia and matrilocality in early Pacific seafarers",
+        "domain": "science.org",
+        "category": "science",
+        "link": "https://www.science.org/doi/10.1126/science.abm6536",
+        "timestamp": 1657196514,
+        "sentiment": 0,
+        "published": "July 7, 2022 8:21 AM"
+    },
+    {
+        "title": "Russian Ruble Drops 17% Amid Falling Exports, Rumored Intervention",
+        "domain": "themoscowtimes.com",
+        "category": "worldnews",
+        "link": "https://www.themoscowtimes.com/2022/07/07/russian-ruble-drops-17-on-falling-exports-rumored-intervention-a78224",
+        "timestamp": 1657196597,
+        "sentiment": -3,
+        "published": "July 7, 2022 8:23 AM"
+    },
+    {
+        "title": "The N.R.A. Lobbyist Behind Florida’s Pro-Gun Policies",
+        "domain": "newyorker.com",
+        "category": "florida",
+        "link": "https://www.newyorker.com/magazine/2018/03/05/the-nra-lobbyist-behind-floridas-pro-gun-policies",
+        "timestamp": 1657196778,
+        "sentiment": 0,
+        "published": "July 7, 2022 8:26 AM"
+    },
+    {
+        "title": "Quentin Tarantino says ‘Peppa Pig’ is the “greatest British import of this decade”",
+        "domain": "empireonline.com",
+        "category": "television",
+        "link": "https://www.empireonline.com/movies/news/quentin-tarantino-watches-a-lot-of-peppa-pig-with-his-son-exclusive/",
+        "timestamp": 1657198570,
+        "sentiment": 0,
+        "published": "July 7, 2022 8:56 AM"
+    },
+    {
+        "title": "Army cuts off more than 60K unvaccinated guard and reserve soldiers from pay and benefits",
+        "domain": "military.com",
+        "category": "UpliftingNews",
+        "link": "https://www.military.com/daily-news/2022/07/06/army-cuts-off-more-60k-unvaccinated-guard-and-reserve-soldiers-pay-and-benefits.html",
+        "timestamp": 1657200848,
+        "sentiment": 0,
+        "published": "July 7, 2022 9:34 AM"
+    },
+    {
+        "title": "gas prices drop by almost 25 cents per gallon.",
+        "domain": "npr.org",
+        "category": "politics",
+        "link": "https://www.npr.org/2022/07/06/1110155926/gas-prices-drop-by-almost-25-cents-per-gallon",
+        "timestamp": 1657187579,
+        "sentiment": 0,
+        "published": "July 7, 2022 5:52 AM"
+    },
+    {
+        "title": "Boris Johnson resigns as UK prime minister",
+        "domain": "cnbc.com",
+        "category": "worldnews",
+        "link": "https://www.cnbc.com/2022/07/07/boris-johnson-resigns-as-uk-prime-minister.html",
+        "timestamp": 1657193676,
+        "sentiment": -1,
+        "published": "July 7, 2022 7:34 AM"
+    },
+    {
+        "title": "Boris Johnson Officially Resigns as Britain's Conservative Party Leader",
+        "domain": "albawaba.com",
+        "category": "worldnews",
+        "link": "https://www.albawaba.com/news/boris-johnson-officially-resigns-britains-conservative-party-leader-1483443",
+        "timestamp": 1657194272,
+        "sentiment": -1,
+        "published": "July 7, 2022 7:44 AM"
     },
     {
         "title": "Musk Secretly Fathered Twins With Neuralink Executive, Report Says",
