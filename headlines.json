@@ -14,7 +14,7 @@
         "category": "nottheonion",
         "link": "https://www.cnn.com/2022/07/06/us/uvalde-school-shooting-alerrt-report-law-enforcement-response/index.html",
         "timestamp": 1657168033,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 7, 2022 12:27 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://edition.cnn.com/2022/07/07/europe/ukrainian-medic-captive-torture-claim-intl-cmd/index.html",
         "timestamp": 1657169045,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 7, 2022 12:44 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "nottheonion",
         "link": "https://www.oregonlive.com/pacific-northwest-news/2020/07/oregon-driver-in-stolen-car-hits-second-driver-in-stolen-car-police-say.html",
         "timestamp": 1657173721,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 7, 2022 2:02 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "technology",
         "link": "https://www.cnbc.com/2022/07/07/video-game-industry-not-recession-proof-sales-set-to-fall-in-2022.html",
         "timestamp": 1657174821,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 7, 2022 2:20 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "ukraine",
         "link": "https://www.news.ro/economic/sorin-grindeanu-anunta-deschiderea-liniei-ferate-ecartament-larg-portul-galati-trenurile-marfa-vin-ucraina-via-republica-moldova-pot-descarca-cerealele-direct-portul-galati-avea-nevoie-transbordare-1922400807502022070920766177",
         "timestamp": 1657175485,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 2:31 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/zelensky-says-western-weapons-finally-working-powerfully-front-lines-1722402?utm_source=Flipboard&utm_medium=App&utm_campaign=Partnerships",
         "timestamp": 1657179483,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 7, 2022 3:38 AM"
     },
     {
@@ -81,21 +81,12 @@
         "published": "July 7, 2022 3:44 AM"
     },
     {
-        "title": "Russia says the West risks the ‘wrath’ of God if it punishes Moscow over the war; heavy weapons start to have an impact",
-        "domain": "cnbc.com",
-        "category": "ukraine",
-        "link": "https://www.cnbc.com/2022/07/07/russia-ukraine-live-updates.html",
-        "timestamp": 1657180289,
-        "sentiment": -2,
-        "published": "July 7, 2022 3:51 AM"
-    },
-    {
         "title": "Author of manga 'Yu-Gi-Oh' Kazuki Takahashi found dead in ocean",
         "domain": "japantimes.co.jp",
         "category": "news",
         "link": "https://www.japantimes.co.jp/culture/2022/07/07/entertainment-news/kazuo-takahashi-found-dead/",
         "timestamp": 1657180711,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "July 7, 2022 3:58 AM"
     },
     {
@@ -110,11 +101,11 @@
     {
         "title": "Boris Johnson set to resign, say reports",
         "domain": "itv.com",
-        "category": "worldnews",
+        "category": "news",
         "link": "https://www.itv.com/news/2022-07-07/boris-johnson-set-to-resign-say-reports",
-        "timestamp": 1657181659,
-        "sentiment": -3,
-        "published": "July 7, 2022 4:14 AM"
+        "timestamp": 1657181710,
+        "sentiment": -5,
+        "published": "July 7, 2022 4:15 AM"
     },
     {
         "title": "Boris Johnson to resign as prime minister",
@@ -122,17 +113,8 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/boris-johnson-to-resign-as-prime-minister-12646836",
         "timestamp": 1657181775,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 7, 2022 4:16 AM"
-    },
-    {
-        "title": "Russia warns humanity at risk if West seeks to punish it over Ukraine",
-        "domain": "reuters.com",
-        "category": "ukraine",
-        "link": "https://www.reuters.com/world/russia-warns-humanity-risk-if-west-seeks-punish-it-over-ukraine-2022-07-07/",
-        "timestamp": 1657182564,
-        "sentiment": -2,
-        "published": "July 7, 2022 4:29 AM"
     },
     {
         "title": "Adolescence is an intensely stressful life stage. Scientists developed a brief online training module to help young people to understand stress and to respond to it constructively. The module improved their psychological and physiological responses to stress and boosted academic performance.",
@@ -149,7 +131,7 @@
         "category": "technology",
         "link": "https://techcrunch.com/2022/07/06/28-of-americans-still-wont-consider-buying-an-ev/",
         "timestamp": 1657186858,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 7, 2022 5:40 AM"
     },
     {
@@ -158,7 +140,7 @@
         "category": "nottheonion",
         "link": "https://kfor.com/news/local/study-says-oklahoma-is-the-worst-state-for-women-and-one-state-senator-wants-to-know-why/",
         "timestamp": 1657187999,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 7, 2022 5:59 AM"
     },
     {
@@ -167,7 +149,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/uk-politics-62068421?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_medium=custom7&at_custom2=twitter&at_custom4=twitter&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom3=%40BBCPolitics",
         "timestamp": 1657188341,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 7, 2022 6:05 AM"
     },
     {
@@ -185,7 +167,7 @@
         "category": "worldnews",
         "link": "https://news.yahoo.com/romania-reopens-soviet-era-rail-075341939.html",
         "timestamp": 1657189982,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 7, 2022 6:33 AM"
     },
     {
@@ -194,7 +176,7 @@
         "category": "nottheonion",
         "link": "https://www.nationalgeographic.com/science/article/human-cannibalism-nutrition-archaeology-science",
         "timestamp": 1657191617,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 7, 2022 7:00 AM"
     },
     {
@@ -212,7 +194,7 @@
         "category": "politics",
         "link": "https://www.theatlantic.com/newsletters/archive/2022/07/are-the-last-rational-republicans-in-denial/661503/",
         "timestamp": 1657191728,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 7:02 AM"
     },
     {
@@ -221,7 +203,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/commentisfree/2022/jul/07/the-us-supreme-court-poses-a-real-threat-to-americans-democracy",
         "timestamp": 1657193109,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 7:25 AM"
     },
     {
@@ -230,7 +212,7 @@
         "category": "politics",
         "link": "https://apnews.com/article/health-medicare-joe-manchin-congress-6ab089d3e7acb7ecf675d55c5468168f",
         "timestamp": 1657193113,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 7:25 AM"
     },
     {
@@ -239,17 +221,8 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/senate/3548128-grahams-relationship-with-trump-comes-back-to-bite-him/",
         "timestamp": 1657193561,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 7:32 AM"
-    },
-    {
-        "title": "I just can't wait to be queen| New female lion cub born at Zoo Knoxville",
-        "domain": "wbir.com",
-        "category": "UpliftingNews",
-        "link": "https://www.wbir.com/article/entertainment/places/zoo-knoxville/new-female-lion-cub-born-at-zoo-knoxville/51-90d79a47-6d30-4fad-acee-3910e3a7e5de",
-        "timestamp": 1657193812,
-        "sentiment": 1,
-        "published": "July 7, 2022 7:36 AM"
     },
     {
         "title": "An Air Force vet who worked at Facebook is suing the company saying it accessed deleted user data and shared it with law enforcement",
@@ -257,7 +230,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/ex-facebook-staffer-airforce-vet-accessed-deleted-user-data-lawsuit-2022-7",
         "timestamp": 1657193866,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 7, 2022 7:37 AM"
     },
     {
@@ -266,7 +239,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/TpyxaNews/status/1545010070454427654",
         "timestamp": 1657194353,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 7:45 AM"
     },
     {
@@ -275,7 +248,7 @@
         "category": "florida",
         "link": "https://www.cltampa.com/news/tampa-police-use-geofencing-to-investigate-crimes-a-spying-tactic-critics-call-unconstitutional-13712912",
         "timestamp": 1657194630,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 7, 2022 7:50 AM"
     },
     {
@@ -302,7 +275,7 @@
         "category": "worldnews",
         "link": "https://www.themoscowtimes.com/2022/07/07/russian-ruble-drops-17-on-falling-exports-rumored-intervention-a78224",
         "timestamp": 1657196597,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 7, 2022 8:23 AM"
     },
     {
@@ -311,8 +284,17 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/volodymr-zelensky-ukraine-russia-weapons-ammunition-depot-1722519",
         "timestamp": 1657196644,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 7, 2022 8:24 AM"
+    },
+    {
+        "title": "The N.R.A. Lobbyist Behind Florida’s Pro-Gun Policies",
+        "domain": "newyorker.com",
+        "category": "florida",
+        "link": "https://www.newyorker.com/magazine/2018/03/05/the-nra-lobbyist-behind-floridas-pro-gun-policies",
+        "timestamp": 1657196778,
+        "sentiment": -2,
+        "published": "July 7, 2022 8:26 AM"
     },
     {
         "title": "Belarus people in Poland buy Bayraktar TB2 for Ukraine - over $1,300,000 raised",
@@ -320,17 +302,8 @@
         "category": "ukraine",
         "link": "https://gagadget.com/en/143612-belarusians-in-poland-buy-bayraktar-tb2-for-ukraine-over-1300000-raised/",
         "timestamp": 1657196831,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 8:27 AM"
-    },
-    {
-        "title": "Disinformation Has Become Another Untouchable Problem in Washington",
-        "domain": "nytimes.com",
-        "category": "politics",
-        "link": "https://www.nytimes.com/2022/07/06/business/disinformation-board-dc.html",
-        "timestamp": 1657197736,
-        "sentiment": -2,
-        "published": "July 7, 2022 8:42 AM"
     },
     {
         "title": "Lindsey Graham \"desperate\" not to self-incriminate in Georgia: Kirschner",
@@ -338,7 +311,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/lindsey-graham-subpoena-testify-georgia-glenn-kirschner-1722572",
         "timestamp": 1657198224,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 8:50 AM"
     },
     {
@@ -356,17 +329,8 @@
         "category": "technology",
         "link": "https://www.vice.com/en/article/z34xvw/googles-democratic-ai-is-better-at-redistributing-wealth-than-america",
         "timestamp": 1657198854,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 7, 2022 9:00 AM"
-    },
-    {
-        "title": "City of Houston sues to shut down Lucky Evening Food Store for not addressing crime in their area",
-        "domain": "abc13.com",
-        "category": "nottheonion",
-        "link": "https://abc13.com/houston-crime-lucky-evening-food-store-caught-in-south-braeswood/12024958/",
-        "timestamp": 1657199628,
-        "sentiment": 0,
-        "published": "July 7, 2022 9:13 AM"
     },
     {
         "title": "Race for governor tightens as Abbott's lead over O'Rourke shrinks to 6 points, poll finds",
@@ -374,7 +338,7 @@
         "category": "politics",
         "link": "https://www.statesman.com/story/news/politics/state/2022/07/07/gap-between-abbott-and-orourke-shrinks-to-6-points-new-poll-shows/65368173007/",
         "timestamp": 1657199770,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 9:16 AM"
     },
     {
@@ -383,7 +347,7 @@
         "category": "technology",
         "link": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1657022591",
         "timestamp": 1657200473,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 7, 2022 9:27 AM"
     },
     {
@@ -392,7 +356,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/beto-orourke-greg-abbott-texas-governor-election-poll-1722287",
         "timestamp": 1657200482,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 9:28 AM"
     },
     {
@@ -410,8 +374,17 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/07/07/may-have-committed-serious-crime-with-targeted-irs-audits-of-comey-mccabe-expert/",
         "timestamp": 1657201041,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 9:37 AM"
+    },
+    {
+        "title": "Quentin Tarantino says Peppa Pig is the greatest British import of this decade.",
+        "domain": "empireonline.com",
+        "category": "nottheonion",
+        "link": "https://www.empireonline.com/movies/news/quentin-tarantino-watches-a-lot-of-peppa-pig-with-his-son-exclusive/",
+        "timestamp": 1657201159,
+        "sentiment": 3,
+        "published": "July 7, 2022 9:39 AM"
     },
     {
         "title": "Voter registration spiked in Kansas and Missouri after Roe reversal, ahead of primaries",
@@ -419,8 +392,17 @@
         "category": "politics",
         "link": "https://www.kansascity.com/news/politics-government/article263235743.html#storylink=mainstage_lead",
         "timestamp": 1657201202,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 9:40 AM"
+    },
+    {
+        "title": "Finland passes law to bolster border fence with Russia",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jul/07/finland-passes-law-to-bolster-border-fence-with-russia",
+        "timestamp": 1657201711,
+        "sentiment": 0,
+        "published": "July 7, 2022 9:48 AM"
     },
     {
         "title": "‘The Bear’ is the most stressful thing on TV right now. It’s also great. FX’s surprise hit show — about a family restaurant in Chicago — will either have you pumping your fist or give you have a heart attack. Possibly both.",
@@ -432,15 +414,6 @@
         "published": "July 7, 2022 9:48 AM"
     },
     {
-        "title": "Mexico seizes 'historic' half-ton of fentanyl at warehouse",
-        "domain": "abcnews.go.com",
-        "category": "worldnews",
-        "link": "https://abcnews.go.com/International/wireStory/mexico-seizes-historic-half-ton-fentanyl-warehouse-86366377",
-        "timestamp": 1657201801,
-        "sentiment": -3,
-        "published": "July 7, 2022 9:50 AM"
-    },
-    {
         "title": "Michigan Abortion Rights Petition Breaks Signature Record - and Heads for 2022 Ballot",
         "domain": "gandernewsroom.com",
         "category": "UpliftingNews",
@@ -448,6 +421,15 @@
         "timestamp": 1657201836,
         "sentiment": 1,
         "published": "July 7, 2022 9:50 AM"
+    },
+    {
+        "title": "European Parliament urges EU to make abortion a basic right",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://www.dw.com/en/european-parliament-urges-eu-to-make-abortion-a-basic-right/a-62396892",
+        "timestamp": 1657202150,
+        "sentiment": 0,
+        "published": "July 7, 2022 9:55 AM"
     },
     {
         "title": "Nashville Zoo welcomes baby Clouded Leopards",
@@ -464,7 +446,7 @@
         "category": "news",
         "link": "https://www.wsoctv.com/news/local/juvenile-found-with-loaded-handgun-summer-camp-police-say/XHLPNXEHRBCDRHDGRNBSZJSIZQ/",
         "timestamp": 1657202286,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "July 7, 2022 9:58 AM"
     },
     {
@@ -500,7 +482,7 @@
         "category": "news",
         "link": "https://www.bbc.com/news/business-62075835",
         "timestamp": 1657203142,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "July 7, 2022 10:12 AM"
     },
     {
@@ -509,7 +491,7 @@
         "category": "news",
         "link": "https://www.bbc.com/news/world-europe-62084185",
         "timestamp": 1657203177,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "July 7, 2022 10:12 AM"
     },
     {
@@ -518,7 +500,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/health/health-news/omicron-ba5-ba4-covid-symptoms-vaccines-rcna36894",
         "timestamp": 1657203179,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "July 7, 2022 10:12 AM"
     },
     {
@@ -540,12 +522,30 @@
         "published": "July 7, 2022 10:28 AM"
     },
     {
+        "title": "Duma Chairman Volodin threatens to reclaim Alaska over seizure of Russian assets abroad.",
+        "domain": "businessinsider.com",
+        "category": "ukraine",
+        "link": "https://www.businessinsider.com/kremlin-official-suggests-US-remember-Alaska-belonged-to-Russia-2022-7",
+        "timestamp": 1657204366,
+        "sentiment": 0,
+        "published": "July 7, 2022 10:32 AM"
+    },
+    {
+        "title": "Responding to Boris Johnson's resignation, Defence Secretary Ben Wallace says Britain is \"full square\" behind Ukraine and the country knows it.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/SkyNews/status/1545054155294724104",
+        "timestamp": 1657204636,
+        "sentiment": 0,
+        "published": "July 7, 2022 10:37 AM"
+    },
+    {
         "title": "Giant snails that can carry parasite known to cause meningitis in humans found in Florida",
         "domain": "news.sky.com",
         "category": "nottheonion",
         "link": "https://news.sky.com/story/giant-snails-that-can-carry-parasite-known-to-cause-meningitis-in-humans-found-in-florida-12647393",
         "timestamp": 1657204886,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 7, 2022 10:41 AM"
     },
     {
@@ -554,7 +554,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/pop-culture/music/nicki-minajs-husband-sentenced-home-confinement-register-sex-offender-rcna37042",
         "timestamp": 1657204958,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "July 7, 2022 10:42 AM"
     },
     {
@@ -563,17 +563,62 @@
         "category": "nottheonion",
         "link": "https://www.wfla.com/news/florida/florida-officer-charged-with-dui-in-patrol-car/?",
         "timestamp": 1657205885,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 7, 2022 10:58 AM"
     },
     {
-        "title": "Monkeypox cases rise 77% in a week, WHO reports: \"Concerned by the scale and spread of the virus\"",
-        "domain": "cbsnews.com",
+        "title": "A newfound dinosaur evolved a giant head and tiny arms independently of T. rex, suggesting the scrawny forelimbs had a purpose. Meraxes gigas went extinct 20 million years before T. rex walked on Earth.",
+        "domain": "sciencenews.org",
         "category": "science",
-        "link": "https://www.cbsnews.com/news/monkeypox-cases-rise-77-percent-week-world-health-organization/",
-        "timestamp": 1657207789,
+        "link": "https://www.sciencenews.org/article/dinosaur-short-arms-tyrannosaurus-rex-meraxes-gigas-paleontology?utm_source=Reddit&utm_medium=social&utm_campaign=r_science",
+        "timestamp": 1657206641,
         "sentiment": 0,
-        "published": "July 7, 2022 11:29 AM"
+        "published": "July 7, 2022 11:10 AM"
+    },
+    {
+        "title": "EU Parliament condemns US abortion ruling, seeks safeguards",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/abortion-us-supreme-court-health-european-parliament-660014a8f37c31e33a0f4540a34f5bd6",
+        "timestamp": 1657207806,
+        "sentiment": 0,
+        "published": "July 7, 2022 11:30 AM"
+    },
+    {
+        "title": "Scientists rediscover oak tree thought to be extinct",
+        "domain": "mortonarb.org",
+        "category": "UpliftingNews",
+        "link": "https://mortonarb.org/news/researchers-rediscover-extinct-oak/",
+        "timestamp": 1657208235,
+        "sentiment": 1,
+        "published": "July 7, 2022 11:37 AM"
+    },
+    {
+        "title": "Supreme Court justices prayed with conservative Christian legal group, member claims",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/supreme-court-prayer-roe-v-wade-b2117558.html",
+        "timestamp": 1657208260,
+        "sentiment": 0,
+        "published": "July 7, 2022 11:37 AM"
+    },
+    {
+        "title": "Ex-cop Chauvin to get federal sentence for Floyd's killing",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/cc85ce3ac443a7e3494c99488b824eec",
+        "timestamp": 1657208983,
+        "sentiment": -5,
+        "published": "July 7, 2022 11:49 AM"
+    },
+    {
+        "title": "Belarus Threatens to Attack Poland in Case of ''Provocations by the West''",
+        "domain": "eurointegration.com.ua",
+        "category": "worldnews",
+        "link": "https://www.eurointegration.com.ua/eng/news/2022/07/7/7142774/",
+        "timestamp": 1657209150,
+        "sentiment": 0,
+        "published": "July 7, 2022 11:52 AM"
     },
     {
         "title": "Polis signs executive order stating Colorado won't cooperate with other states' abortion investigations",
@@ -581,7 +626,7 @@
         "category": "news",
         "link": "https://www.thedenverchannel.com/news/politics/polis-signs-executive-order-saying-colorado-wont-cooperate-with-other-states-abortion-investigations",
         "timestamp": 1657209277,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "July 7, 2022 11:54 AM"
     },
     {
@@ -592,6 +637,123 @@
         "timestamp": 1657209499,
         "sentiment": 0,
         "published": "July 7, 2022 11:58 AM"
+    },
+    {
+        "title": "Quest 2 Will No Longer Require A Facebook Account From Next Month",
+        "domain": "uploadvr.com",
+        "category": "technology",
+        "link": "https://uploadvr.com/quest-2-no-longer-requires-facebook/",
+        "timestamp": 1657210341,
+        "sentiment": 1,
+        "published": "July 7, 2022 12:12 PM"
+    },
+    {
+        "title": "Charlie Cox, Vincent D’Onofrio Returning for Marvel Series ‘Echo’",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/charlie-cox-vincent-donofrio-echo-1235170929/",
+        "timestamp": 1657210595,
+        "sentiment": 0,
+        "published": "July 7, 2022 12:16 PM"
+    },
+    {
+        "title": "Some great news! The 🇺🇸HIMARS🇺🇸 are proving extremely effective in assisting Ukraine 🇺🇦! Russian🇷🇺 Telegram chats literally beg Putin to “please do something!” And that HIMARS are wiping-out 🇷🇺 positions w/ mass casualties. Map of 🇷🇺 stockpiles destroyed by 🇺🇦 using HIMARS 🇺🇸.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/officejjsmart/status/1545031539326685184?t=RUXJxIzE17pWa4I4YV9Rhg&s=09",
+        "timestamp": 1657211541,
+        "sentiment": 0,
+        "published": "July 7, 2022 12:32 PM"
+    },
+    {
+        "title": "Bye bye Boris: UK PM Johnson bows out with regrets but no apologies",
+        "domain": "reuters.com",
+        "category": "UpliftingNews",
+        "link": "https://www.reuters.com/world/uk/bye-bye-boris-uk-pm-johnson-bows-out-with-regrets-no-apologies-2022-07-07/",
+        "timestamp": 1657213891,
+        "sentiment": 1,
+        "published": "July 7, 2022 1:11 PM"
+    },
+    {
+        "title": "Florida Gov. Ron DeSantis plans Utah fundraiser with GOP megadonors, signaling possible presidential run",
+        "domain": "cnbc.com",
+        "category": "FLgovernment",
+        "link": "https://www.cnbc.com/2022/07/07/ron-desantis-plans-utah-fundraiser-with-gop-megadonors-signaling-possible-presidential-run.html",
+        "timestamp": 1657214284,
+        "sentiment": -3,
+        "published": "July 7, 2022 1:18 PM"
+    },
+    {
+        "title": "Brief showers form and fade on Florida sea breezes, 7/6/2022",
+        "domain": "rammb.cira.colostate.edu",
+        "category": "florida",
+        "link": "http://rammb.cira.colostate.edu/ramsdis/online/images/loop_of_the_day/goes-16/20220707000000/video/20220706000000_floridcubreeze.GIF",
+        "timestamp": 1657214546,
+        "sentiment": -2,
+        "published": "July 7, 2022 1:22 PM"
+    },
+    {
+        "title": "Russia says the West risks the ‘wrath’ of God if it punishes Moscow over the war; heavy weapons start to have an impact",
+        "domain": "cnbc.com",
+        "category": "ukraine",
+        "link": "https://www.cnbc.com/2022/07/07/russia-ukraine-live-updates.html",
+        "timestamp": 1657180289,
+        "sentiment": -2,
+        "published": "July 7, 2022 3:51 AM"
+    },
+    {
+        "title": "Russia warns humanity at risk if West seeks to punish it over Ukraine",
+        "domain": "reuters.com",
+        "category": "ukraine",
+        "link": "https://www.reuters.com/world/russia-warns-humanity-risk-if-west-seeks-punish-it-over-ukraine-2022-07-07/",
+        "timestamp": 1657182564,
+        "sentiment": -2,
+        "published": "July 7, 2022 4:29 AM"
+    },
+    {
+        "title": "I just can't wait to be queen| New female lion cub born at Zoo Knoxville",
+        "domain": "wbir.com",
+        "category": "UpliftingNews",
+        "link": "https://www.wbir.com/article/entertainment/places/zoo-knoxville/new-female-lion-cub-born-at-zoo-knoxville/51-90d79a47-6d30-4fad-acee-3910e3a7e5de",
+        "timestamp": 1657193812,
+        "sentiment": 1,
+        "published": "July 7, 2022 7:36 AM"
+    },
+    {
+        "title": "Disinformation Has Become Another Untouchable Problem in Washington",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2022/07/06/business/disinformation-board-dc.html",
+        "timestamp": 1657197736,
+        "sentiment": -2,
+        "published": "July 7, 2022 8:42 AM"
+    },
+    {
+        "title": "City of Houston sues to shut down Lucky Evening Food Store for not addressing crime in their area",
+        "domain": "abc13.com",
+        "category": "nottheonion",
+        "link": "https://abc13.com/houston-crime-lucky-evening-food-store-caught-in-south-braeswood/12024958/",
+        "timestamp": 1657199628,
+        "sentiment": 0,
+        "published": "July 7, 2022 9:13 AM"
+    },
+    {
+        "title": "Mexico seizes 'historic' half-ton of fentanyl at warehouse",
+        "domain": "abcnews.go.com",
+        "category": "worldnews",
+        "link": "https://abcnews.go.com/International/wireStory/mexico-seizes-historic-half-ton-fentanyl-warehouse-86366377",
+        "timestamp": 1657201801,
+        "sentiment": -3,
+        "published": "July 7, 2022 9:50 AM"
+    },
+    {
+        "title": "Monkeypox cases rise 77% in a week, WHO reports: \"Concerned by the scale and spread of the virus\"",
+        "domain": "cbsnews.com",
+        "category": "science",
+        "link": "https://www.cbsnews.com/news/monkeypox-cases-rise-77-percent-week-world-health-organization/",
+        "timestamp": 1657207789,
+        "sentiment": 0,
+        "published": "July 7, 2022 11:29 AM"
     },
     {
         "title": "Inside the collapse of Florida college football’s Big Three",
@@ -610,15 +772,6 @@
         "timestamp": 1657190498,
         "sentiment": -1,
         "published": "July 7, 2022 6:41 AM"
-    },
-    {
-        "title": "The N.R.A. Lobbyist Behind Florida’s Pro-Gun Policies",
-        "domain": "newyorker.com",
-        "category": "florida",
-        "link": "https://www.newyorker.com/magazine/2018/03/05/the-nra-lobbyist-behind-floridas-pro-gun-policies",
-        "timestamp": 1657196778,
-        "sentiment": -3,
-        "published": "July 7, 2022 8:26 AM"
     },
     {
         "title": "Europe faces Facebook blackout",
@@ -691,15 +844,6 @@
         "timestamp": 1657194404,
         "sentiment": 0,
         "published": "July 7, 2022 7:46 AM"
-    },
-    {
-        "title": "Quentin Tarantino says Peppa Pig is the greatest British import of this decade.",
-        "domain": "empireonline.com",
-        "category": "nottheonion",
-        "link": "https://www.empireonline.com/movies/news/quentin-tarantino-watches-a-lot-of-peppa-pig-with-his-son-exclusive/",
-        "timestamp": 1657201159,
-        "sentiment": 1,
-        "published": "July 7, 2022 9:39 AM"
     },
     {
         "title": "Uvalde officer saw gunman before he entered school and asked for permission to shoot him: Report",
