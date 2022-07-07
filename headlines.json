@@ -27,21 +27,12 @@
         "published": "July 6, 2022 3:49 AM"
     },
     {
-        "title": "Anti-speeding tech is now mandatory for new car models in the EU",
-        "domain": "mashable.com",
-        "category": "technology",
-        "link": "https://mashable.com/article/anti-speeding-isa-europe?utm_source=feedly&utm_medium=webfeeds",
-        "timestamp": 1657099959,
-        "sentiment": -2,
-        "published": "July 6, 2022 5:32 AM"
-    },
-    {
         "title": "Amazon being investigated in UK for practices which may give customers 'worse deal'",
         "domain": "news.sky.com",
         "category": "technology",
         "link": "https://news.sky.com/story/amazon-being-investigated-in-uk-for-practices-which-may-give-customers-worse-deal-12646765",
         "timestamp": 1657100131,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 6, 2022 5:35 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "science",
         "link": "https://arstechnica.com/science/2022/07/covid-was-the-leading-cause-of-death-in-americans-aged-45-54-in-2021/",
         "timestamp": 1657108886,
-        "sentiment": -1,
+        "sentiment": -11,
         "published": "July 6, 2022 8:01 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/administration/3546837-frustrated-democrats-express-alarm-over-bidens-powerlessness/",
         "timestamp": 1657108899,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 6, 2022 8:01 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/technology/2022/jul/05/tiktok-girls-dead-blackout-challenge",
         "timestamp": 1657110654,
-        "sentiment": 4,
+        "sentiment": -1,
         "published": "July 6, 2022 8:30 AM"
     },
     {
@@ -113,17 +104,8 @@
         "category": "technology",
         "link": "https://english.kyodonews.net/news/2022/07/1590b983e681-japan-to-introduce-jail-time-tougher-penalties-for-online-insults.html",
         "timestamp": 1657111005,
-        "sentiment": -2,
-        "published": "July 6, 2022 8:36 AM"
-    },
-    {
-        "title": "Russia no longer has enough real combat capabilities and modern military equipment for invasion – Podolyak",
-        "domain": "english.nv.ua",
-        "category": "ukraine",
-        "link": "https://english.nv.ua/nation/russia-no-longer-has-enough-real-combat-capabilities-and-modern-military-equipment-50254634.html",
-        "timestamp": 1657111312,
         "sentiment": 0,
-        "published": "July 6, 2022 8:41 AM"
+        "published": "July 6, 2022 8:36 AM"
     },
     {
         "title": "Aliens could send quantum messages to Earth, calculations suggest. Particles of light, or photons, could be transmitted over vast, interstellar distances without losing their quantum nature.That means scientists searching for extraterrestrial signals could also look for quantum messages.",
@@ -131,7 +113,7 @@
         "category": "science",
         "link": "https://www.sciencenews.org/article/alien-quantum-communication-extraterrestrial-communication-signal",
         "timestamp": 1657112542,
-        "sentiment": -1,
+        "sentiment": -11,
         "published": "July 6, 2022 9:02 AM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.abc.net.au/news/2022-07-06/caribbean-court-gay-sex-law-unconstitutional/101213962",
         "timestamp": 1657112849,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 6, 2022 9:07 AM"
     },
     {
@@ -167,7 +149,7 @@
         "category": "news",
         "link": "https://www.news4jax.com/news/local/2022/07/04/largest-teachers-union-florida-is-9000-teachers-short-for-the-upcoming-school-year/",
         "timestamp": 1657113823,
-        "sentiment": 4,
+        "sentiment": -1,
         "published": "July 6, 2022 9:23 AM"
     },
     {
@@ -194,7 +176,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-gb/news/world/russian-prisoners-offered-2-800-and-freedom-if-they-serve-in-ukraine-and-come-back-alive/ar-AAZdeif?ocid=msedgntphdr&cvid=83bc7ccb2f814e96afdd314237fe84f2",
         "timestamp": 1657114637,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 6, 2022 9:37 AM"
     },
     {
@@ -221,7 +203,7 @@
         "category": "worldnews",
         "link": "https://www.helsinkitimes.fi/finland/finland-news/domestic/21835-canada-denmark-and-norway-ratify-finnish-membership-in-nato.html",
         "timestamp": 1657116657,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 6, 2022 10:10 AM"
     },
     {
@@ -239,7 +221,7 @@
         "category": "science",
         "link": "https://www.inverse.com/science/cat-scratching-furniture-destructive-behavior-science",
         "timestamp": 1657117535,
-        "sentiment": -1,
+        "sentiment": -11,
         "published": "July 6, 2022 10:25 AM"
     },
     {
@@ -248,7 +230,7 @@
         "category": "worldnews",
         "link": "https://english.nv.ua/business/russian-parliament-adopts-package-of-wartime-laws-forcing-businesses-to-work-for-army-50254667.html",
         "timestamp": 1657117846,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 6, 2022 10:30 AM"
     },
     {
@@ -257,7 +239,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/georgia-election-2022-lindsey-graham-b2117159.html?utm_content=Echobox&utm_medium=Social&utm_campaign=Main&utm_source=Twitter#Echobox=1657118386",
         "timestamp": 1657118439,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 6, 2022 10:40 AM"
     },
     {
@@ -266,7 +248,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/jul/06/us-drinking-water-pfas-toxic-forever-chemicals-epa-tests",
         "timestamp": 1657118698,
-        "sentiment": 4,
+        "sentiment": -1,
         "published": "July 6, 2022 10:44 AM"
     },
     {
@@ -293,7 +275,7 @@
         "category": "worldnews",
         "link": "https://www.euractiv.com/section/central-asia/news/russia-shuts-down-terminal-after-kazakhstan-offers-to-send-more-oil-to-the-eu/",
         "timestamp": 1657121346,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 6, 2022 11:29 AM"
     },
     {
@@ -302,17 +284,8 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/07/06/lindsey-graham-to-fight-subpoena-in-trump-georgia-election-probe.html",
         "timestamp": 1657121375,
-        "sentiment": 4,
-        "published": "July 6, 2022 11:29 AM"
-    },
-    {
-        "title": "Just keep your returns: Stores weigh paying you not to bring back unwanted items",
-        "domain": "cnn.com",
-        "category": "nottheonion",
-        "link": "https://www.cnn.com/2022/06/26/business/retail-returns/index.html",
-        "timestamp": 1657121937,
         "sentiment": -1,
-        "published": "July 6, 2022 11:38 AM"
+        "published": "July 6, 2022 11:29 AM"
     },
     {
         "title": "South Korea to Build Nuclear Plants to Meet Net-Zero Targets",
@@ -329,7 +302,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/06/politics/trump-appraiser-cushman-wakefield/index.html",
         "timestamp": 1657124139,
-        "sentiment": 4,
+        "sentiment": -1,
         "published": "July 6, 2022 12:15 PM"
     },
     {
@@ -338,7 +311,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/business/2022/jul/06/bp-accused-of-dumping-industrial-waste-marine-protected-area-shetland-regulator-clearance-oil-firm-pipe-cables-drilling",
         "timestamp": 1657124435,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 6, 2022 12:20 PM"
     },
     {
@@ -356,7 +329,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/right-wing-truckers-leader-gets-arrested-while-protesting-non-existent-covid-mandates-in-dc",
         "timestamp": 1657125338,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 6, 2022 12:35 PM"
     },
     {
@@ -365,7 +338,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-jan-6-hearing-sarah-matthews-b2117000.html",
         "timestamp": 1657125987,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 6, 2022 12:46 PM"
     },
     {
@@ -374,7 +347,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.co.uk/news/world-asia-china-62064506",
         "timestamp": 1657126581,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 6, 2022 12:56 PM"
     },
     {
@@ -396,15 +369,6 @@
         "published": "July 6, 2022 1:08 PM"
     },
     {
-        "title": "Wisconsin Supreme Court rules in favor of Chrystul Kizer, allows sex trafficking defense in homicide trial",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/news/nbcblk/wisconsin-supreme-court-rules-favor-chrystul-kizer-allows-sex-traffick-rcna36914",
-        "timestamp": 1657127427,
-        "sentiment": 4,
-        "published": "July 6, 2022 1:10 PM"
-    },
-    {
         "title": "Women steal Michigan State Police recruiting tent at Traverse City Cherry Festival in northern Michigan",
         "domain": "ourmidland.com",
         "category": "nottheonion",
@@ -419,7 +383,7 @@
         "category": "science",
         "link": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2793913?utm_source=For_The_Media&utm_medium=referral&utm_campaign=ftm_links&utm_term=070622",
         "timestamp": 1657129493,
-        "sentiment": -1,
+        "sentiment": -11,
         "published": "July 6, 2022 1:44 PM"
     },
     {
@@ -446,17 +410,8 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/rivian-amazon-apple-hire-tesla-workers-elon-musk-layoffs-2022-7?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1657129654,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 6, 2022 1:47 PM"
-    },
-    {
-        "title": "China Tries to Censor What Could Be Biggest Data Hack in History",
-        "domain": "gizmodo.com",
-        "category": "technology",
-        "link": "https://gizmodo.com/chinadan-hacker-shanghai-police-database-china-1849142152",
-        "timestamp": 1657130732,
-        "sentiment": -2,
-        "published": "July 6, 2022 2:05 PM"
     },
     {
         "title": "Britain ratifies NATO membership for Finland and Sweden",
@@ -464,7 +419,7 @@
         "category": "worldnews",
         "link": "https://www.news.az/news/britain-ratifies-nato-membership-for-finland-and-sweden",
         "timestamp": 1657130932,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 6, 2022 2:08 PM"
     },
     {
@@ -473,7 +428,7 @@
         "category": "news",
         "link": "https://www.washingtonpost.com/nation/2022/07/06/highland-park-shooting-crimo-gun-application-foid/",
         "timestamp": 1657131275,
-        "sentiment": 4,
+        "sentiment": -1,
         "published": "July 6, 2022 2:14 PM"
     },
     {
@@ -482,7 +437,7 @@
         "category": "science",
         "link": "https://news.umich.edu/running-dreaming-improve-left-brain-right-brain-communication/",
         "timestamp": 1657132144,
-        "sentiment": -1,
+        "sentiment": -11,
         "published": "July 6, 2022 2:29 PM"
     },
     {
@@ -495,21 +450,12 @@
         "published": "July 6, 2022 2:49 PM"
     },
     {
-        "title": "NY Candidate Leaves GOP, Ends Campaign Over Party's Stances on Trump, NRA",
-        "domain": "newsweek.com",
-        "category": "politics",
-        "link": "https://www.newsweek.com/ny-candidate-leaves-gop-ends-campaign-over-partys-stances-trump-nra-1722285",
-        "timestamp": 1657133390,
-        "sentiment": 0,
-        "published": "July 6, 2022 2:49 PM"
-    },
-    {
         "title": "Women who take hormonal contraceptives show superior object memory, study finds",
         "domain": "psypost.org",
         "category": "science",
         "link": "https://www.psypost.org/2022/07/women-who-take-hormonal-contraceptives-show-superior-object-memory-study-finds-63454",
         "timestamp": 1657133739,
-        "sentiment": -1,
+        "sentiment": -11,
         "published": "July 6, 2022 2:55 PM"
     },
     {
@@ -518,7 +464,7 @@
         "category": "science",
         "link": "https://theconversation.com/white-children-are-especially-likely-to-be-overdiagnosed-and-overtreated-for-adhd-according-to-a-new-study-185102",
         "timestamp": 1657134203,
-        "sentiment": -1,
+        "sentiment": -11,
         "published": "July 6, 2022 3:03 PM"
     },
     {
@@ -527,7 +473,7 @@
         "category": "politics",
         "link": "https://www.pewresearch.org/politics/2022/07/06/majority-of-public-disapproves-of-supreme-courts-decision-to-overturn-roe-v-wade/",
         "timestamp": 1657134669,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 6, 2022 3:11 PM"
     },
     {
@@ -536,7 +482,7 @@
         "category": "news",
         "link": "https://www.bbc.com/news/world-latin-america-62068589?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_custom3=%40BBCWorld&at_campaign=64&at_custom1=%5Bpost+type%5D&at_custom4=FBB7F8D4-FD3D-11EC-8C8B-EB934744363C&at_medium=custom7&at_custom2=twitter",
         "timestamp": 1657134784,
-        "sentiment": 4,
+        "sentiment": -1,
         "published": "July 6, 2022 3:13 PM"
     },
     {
@@ -549,21 +495,12 @@
         "published": "July 6, 2022 3:13 PM"
     },
     {
-        "title": "Bulgaria blocks bank transfer to Russian embassy citing EU sanctions",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/europe/bulgaria-blocks-bank-transfer-russian-embassy-citing-eu-sanctions-2022-07-06/",
-        "timestamp": 1657135031,
-        "sentiment": -1,
-        "published": "July 6, 2022 3:17 PM"
-    },
-    {
         "title": "The Moral Panic Is Spreading: Think Tank Proposes Banning Teens From Social Media; Texas Rep Promises To Intro Bill",
         "domain": "techdirt.com",
         "category": "technology",
         "link": "https://www.techdirt.com/2022/07/06/the-moral-panic-is-spreading-think-tank-proposes-banning-teens-from-social-media/",
         "timestamp": 1657135267,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 6, 2022 3:21 PM"
     },
     {
@@ -572,7 +509,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/07/06/warren-sanders-and-others-blast-bidens-failure-federal-cannabis-policy",
         "timestamp": 1657135768,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 6, 2022 3:29 PM"
     },
     {
@@ -581,8 +518,17 @@
         "category": "politics",
         "link": "https://www.texastribune.org/2022/07/06/greg-abbott-beto-orourke-poll-governor-2022/",
         "timestamp": 1657135884,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 6, 2022 3:31 PM"
+    },
+    {
+        "title": "New report details missed chances to stop Uvalde shooting",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/shootings-texas-1ae2b6406868d398a2ecadf960c3a1df",
+        "timestamp": 1657137034,
+        "sentiment": -1,
+        "published": "July 6, 2022 3:50 PM"
     },
     {
         "title": "US carriers want to bring “screen zero” lock screen ads to smartphones",
@@ -590,7 +536,7 @@
         "category": "technology",
         "link": "https://arstechnica.com/gadgets/2022/07/coming-soon-to-a-carrier-phone-near-you-lock-screen-ads/",
         "timestamp": 1657138708,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 6, 2022 4:18 PM"
     },
     {
@@ -599,7 +545,7 @@
         "category": "news",
         "link": "https://abc7.com/uvalde-texas-robb-elementary-school-officer-asked-to-shoot-suspect-active-shooter/12024385/",
         "timestamp": 1657140383,
-        "sentiment": 4,
+        "sentiment": -1,
         "published": "July 6, 2022 4:46 PM"
     },
     {
@@ -617,7 +563,7 @@
         "category": "technology",
         "link": "https://edition.cnn.com/travel/article/europe-high-speed-rail-network/index.html",
         "timestamp": 1657141977,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 6, 2022 5:12 PM"
     },
     {
@@ -626,8 +572,17 @@
         "category": "technology",
         "link": "https://www.theverge.com/2022/7/6/23196979/walmart-inhome-direct-fridge-deliveries-plus-perk",
         "timestamp": 1657142932,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 6, 2022 5:28 PM"
+    },
+    {
+        "title": "One of the Arizona Republicans seeking to take on Greg Stanton released an ad saying he needs an AR-15 to fight \"a dozen angry Democrats in Klan hoods.\"",
+        "domain": "politico.com",
+        "category": "politics",
+        "link": "https://www.politico.com/minutes/congress/07-6-2022/an-campaign-spot/",
+        "timestamp": 1657143015,
+        "sentiment": -4,
+        "published": "July 6, 2022 5:30 PM"
     },
     {
         "title": "JWT's provides us with first real test image",
@@ -662,7 +617,7 @@
         "category": "science",
         "link": "https://www.frontiersin.org/articles/10.3389/fpsyt.2022.951376/full",
         "timestamp": 1657145824,
-        "sentiment": -1,
+        "sentiment": -11,
         "published": "July 6, 2022 6:17 PM"
     },
     {
@@ -671,7 +626,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/07/06/fight-us-goddamnit-frustration-grows-over-biden-fecklessness-amid-gop-destruction",
         "timestamp": 1657146228,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 6, 2022 6:23 PM"
     },
     {
@@ -689,7 +644,7 @@
         "category": "science",
         "link": "https://www.psychologytoday.com/us/blog/finding-new-home/202207/partners-can-help-each-other-change-using-technique",
         "timestamp": 1657147081,
-        "sentiment": -1,
+        "sentiment": -11,
         "published": "July 6, 2022 6:38 PM"
     },
     {
@@ -707,7 +662,7 @@
         "category": "politics",
         "link": "https://www.wunc.org/news/2022-07-06/nc-governor-signs-executive-order-protecting-abortion-access",
         "timestamp": 1657149016,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 6, 2022 7:10 PM"
     },
     {
@@ -720,13 +675,31 @@
         "published": "July 6, 2022 7:12 PM"
     },
     {
+        "title": "Case-controlled study conducted in Qatar found that three doses of BNT162b2 (Pfizer-BioNTech) vaccine and no prior infection had 52.3% effectiveness against symptomatic BA.2 infection. Two doses + prior infection was 55.1%. Three doses + prior infection was 77.3%. Previous infection alone was 46.1%.",
+        "domain": "doi.org",
+        "category": "science",
+        "link": "https://doi.org/10.1056/NEJMoa2203965",
+        "timestamp": 1657151051,
+        "sentiment": -11,
+        "published": "July 6, 2022 7:44 PM"
+    },
+    {
         "title": "YouTuber gets scam ring in India arrested after hacking into their office's CCTV cameras",
         "domain": "nextshark.com",
         "category": "technology",
         "link": "https://nextshark.com/youtuber-exposes-scam-ring-by-hacking/",
         "timestamp": 1657151158,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 6, 2022 7:45 PM"
+    },
+    {
+        "title": "Defiant Boris Johnson rejects calls to step down, vows to \"keep going\"",
+        "domain": "cbsnews.com",
+        "category": "worldnews",
+        "link": "https://www.cbsnews.com/news/boris-johnson-rejects-calls-to-resign/",
+        "timestamp": 1657155066,
+        "sentiment": -2,
+        "published": "July 6, 2022 8:51 PM"
     },
     {
         "title": "Oregon Health Officials Delayed a Meeting Because 'Urgency Is a White Supremacy Value'",
@@ -752,8 +725,26 @@
         "category": "news",
         "link": "https://www.cnet.com/tech/elon-musk-reportedly-had-twins-with-one-of-his-execs/",
         "timestamp": 1657156759,
-        "sentiment": 4,
+        "sentiment": -1,
         "published": "July 6, 2022 9:19 PM"
+    },
+    {
+        "title": "FBI, treasury department issue joint advisory against N. Korean ransomware",
+        "domain": "yna.kr",
+        "category": "technology",
+        "link": "http://yna.kr/AEN20220707000200325",
+        "timestamp": 1657157886,
+        "sentiment": 0,
+        "published": "July 6, 2022 9:38 PM"
+    },
+    {
+        "title": "New Gene Technology Allows Growers To Boost THC Levels In Cannabis",
+        "domain": "forbes.com",
+        "category": "technology",
+        "link": "https://www.forbes.com/sites/ajherrington/2022/06/22/new-gene-technology-allows-growers-to-boost-thc-levels-in-cannabis/",
+        "timestamp": 1657158656,
+        "sentiment": 0,
+        "published": "July 6, 2022 9:50 PM"
     },
     {
         "title": "Russia Threatens To Take Back Alaska From US Over War Sanctions",
@@ -761,7 +752,7 @@
         "category": "worldnews",
         "link": "https://www.ibtimes.com/russia-threatens-take-back-alaska-us-over-war-sanctions-3564746",
         "timestamp": 1657159866,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 6, 2022 10:11 PM"
     },
     {
@@ -772,6 +763,78 @@
         "timestamp": 1657160354,
         "sentiment": 0,
         "published": "July 6, 2022 10:19 PM"
+    },
+    {
+        "title": "Canadian mountain no longer named for Nazi collaborator thanks to father and son",
+        "domain": "cbc.ca",
+        "category": "nottheonion",
+        "link": "https://www.cbc.ca/radio/asithappens/as-it-happens-tuesday-edition-1.6510937/canadian-mountain-no-longer-named-for-nazi-collaborator-thanks-to-father-and-son-1.6510938",
+        "timestamp": 1657162478,
+        "sentiment": -1,
+        "published": "July 6, 2022 10:54 PM"
+    },
+    {
+        "title": "Anti-speeding tech is now mandatory for new car models in the EU",
+        "domain": "mashable.com",
+        "category": "technology",
+        "link": "https://mashable.com/article/anti-speeding-isa-europe?utm_source=feedly&utm_medium=webfeeds",
+        "timestamp": 1657099959,
+        "sentiment": -2,
+        "published": "July 6, 2022 5:32 AM"
+    },
+    {
+        "title": "Russia no longer has enough real combat capabilities and modern military equipment for invasion – Podolyak",
+        "domain": "english.nv.ua",
+        "category": "ukraine",
+        "link": "https://english.nv.ua/nation/russia-no-longer-has-enough-real-combat-capabilities-and-modern-military-equipment-50254634.html",
+        "timestamp": 1657111312,
+        "sentiment": 0,
+        "published": "July 6, 2022 8:41 AM"
+    },
+    {
+        "title": "Just keep your returns: Stores weigh paying you not to bring back unwanted items",
+        "domain": "cnn.com",
+        "category": "nottheonion",
+        "link": "https://www.cnn.com/2022/06/26/business/retail-returns/index.html",
+        "timestamp": 1657121937,
+        "sentiment": -1,
+        "published": "July 6, 2022 11:38 AM"
+    },
+    {
+        "title": "Wisconsin Supreme Court rules in favor of Chrystul Kizer, allows sex trafficking defense in homicide trial",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/nbcblk/wisconsin-supreme-court-rules-favor-chrystul-kizer-allows-sex-traffick-rcna36914",
+        "timestamp": 1657127427,
+        "sentiment": 4,
+        "published": "July 6, 2022 1:10 PM"
+    },
+    {
+        "title": "China Tries to Censor What Could Be Biggest Data Hack in History",
+        "domain": "gizmodo.com",
+        "category": "technology",
+        "link": "https://gizmodo.com/chinadan-hacker-shanghai-police-database-china-1849142152",
+        "timestamp": 1657130732,
+        "sentiment": -2,
+        "published": "July 6, 2022 2:05 PM"
+    },
+    {
+        "title": "NY Candidate Leaves GOP, Ends Campaign Over Party's Stances on Trump, NRA",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/ny-candidate-leaves-gop-ends-campaign-over-partys-stances-trump-nra-1722285",
+        "timestamp": 1657133390,
+        "sentiment": 0,
+        "published": "July 6, 2022 2:49 PM"
+    },
+    {
+        "title": "Bulgaria blocks bank transfer to Russian embassy citing EU sanctions",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/bulgaria-blocks-bank-transfer-russian-embassy-citing-eu-sanctions-2022-07-06/",
+        "timestamp": 1657135031,
+        "sentiment": -1,
+        "published": "July 6, 2022 3:17 PM"
     },
     {
         "title": "Next Jan. 6 hearing will reveal details of contact between Trump allies and extremist groups ahead of insurrection, report says",
@@ -792,15 +855,6 @@
         "published": "July 6, 2022 9:24 AM"
     },
     {
-        "title": "Canadian mountain no longer named for Nazi collaborator thanks to father and son",
-        "domain": "cbc.ca",
-        "category": "UpliftingNews",
-        "link": "https://www.cbc.ca/radio/asithappens/as-it-happens-tuesday-edition-1.6510937/canadian-mountain-no-longer-named-for-nazi-collaborator-thanks-to-father-and-son-1.6510938",
-        "timestamp": 1657131630,
-        "sentiment": 3,
-        "published": "July 6, 2022 2:20 PM"
-    },
-    {
         "title": "\"Love is Halal\": Erste Moschee in Deutschland hisst Regenbogenflagge und unterstützt LGBT-Community",
         "domain": "stern.de",
         "category": "UpliftingNews",
@@ -808,15 +862,6 @@
         "timestamp": 1657135564,
         "sentiment": 3,
         "published": "July 6, 2022 3:26 PM"
-    },
-    {
-        "title": "New report details missed chances to stop Uvalde shooting",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/shootings-texas-1ae2b6406868d398a2ecadf960c3a1df",
-        "timestamp": 1657137034,
-        "sentiment": -1,
-        "published": "July 6, 2022 3:50 PM"
     },
     {
         "title": "Things get messy for Elon Musk with reports about new twins he shares with Neuralink exec",
