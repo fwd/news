@@ -5,7 +5,7 @@
         "category": "science",
         "link": "https://corporate.dukehealth.org/news/social-stress-factors-drive-cancer-mechanisms-help-explain-racial-disparities",
         "timestamp": 1657254326,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 8, 2022 12:25 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "nottheonion",
         "link": "https://www.theguardian.com/culture/2022/jul/07/sacha-baron-cohen-defeats-roy-moore-lawsuit",
         "timestamp": 1657255953,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 8, 2022 12:52 AM"
     },
     {
@@ -34,6 +34,33 @@
         "timestamp": 1657257498,
         "sentiment": 1,
         "published": "July 8, 2022 1:18 AM"
+    },
+    {
+        "title": "Reading Literary Fiction Is Associated With a More Complex Worldview",
+        "domain": "journals.sagepub.com",
+        "category": "science",
+        "link": "https://journals.sagepub.com/doi/abs/10.1177/01461672221106059",
+        "timestamp": 1657259115,
+        "sentiment": 0,
+        "published": "July 8, 2022 1:45 AM"
+    },
+    {
+        "title": "Twitter has laid off a third of its recruiting team amid Elon Musk takeover drama",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/twitter-layoffs-recruiting-team-elon-musk-takeover-spam-bot-2022-7?utm_source=feedly&utm_medium=webfeeds",
+        "timestamp": 1657261978,
+        "sentiment": -1,
+        "published": "July 8, 2022 2:32 AM"
+    },
+    {
+        "title": "10 millionth tree in Sudbury, Ont., planted with Jane Goodall pitching in",
+        "domain": "cbc.ca",
+        "category": "UpliftingNews",
+        "link": "https://www.cbc.ca/news/canada/sudbury/ten-millionth-tree-planted-sudbury-regreening-1.6513393",
+        "timestamp": 1657262513,
+        "sentiment": 0,
+        "published": "July 8, 2022 2:41 AM"
     },
     {
         "title": "An officer sought permission to shoot the Uvalde gunman before he entered school but didn't hear back in time, report says",
