@@ -5,7 +5,7 @@
         "category": "science",
         "link": "https://corporate.dukehealth.org/news/social-stress-factors-drive-cancer-mechanisms-help-explain-racial-disparities",
         "timestamp": 1657254326,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 8, 2022 12:25 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "UpliftingNews",
         "link": "https://www.cbc.ca/news/canada/sudbury/ten-millionth-tree-planted-sudbury-regreening-1.6513393",
         "timestamp": 1657262513,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 8, 2022 2:41 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "science",
         "link": "http://www.sci-news.com/geology/moab-khotsong-groundwater-10972.html",
         "timestamp": 1657263871,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 8, 2022 3:04 AM"
     },
     {
@@ -59,17 +59,8 @@
         "category": "UpliftingNews",
         "link": "https://www.axios.com/2022/07/07/fin-whales-return-antarctica?utm_source=twitter&utm_medium=social&utm_campaign=editorial&utm_content=energy-environment-finwhales",
         "timestamp": 1657264264,
-        "sentiment": -3,
-        "published": "July 8, 2022 3:11 AM"
-    },
-    {
-        "title": "25 Republican State Senators In Ohio Were Sent Feces In The Mail",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/ohio-gop-state-senators-feces-packages_n_62c76545e4b0d7401981498b",
-        "timestamp": 1657266865,
         "sentiment": 0,
-        "published": "July 8, 2022 3:54 AM"
+        "published": "July 8, 2022 3:11 AM"
     },
     {
         "title": "Germany's parliament votes in favor of NATO accession for Sweden and Finland",
@@ -86,7 +77,7 @@
         "category": "technology",
         "link": "https://www.engadget.com/twitter-layoffs-233150630.html",
         "timestamp": 1657269756,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "July 8, 2022 4:42 AM"
     },
     {
@@ -117,21 +108,12 @@
         "published": "July 8, 2022 4:51 AM"
     },
     {
-        "title": "The TikTok ‘blackout challenge’ has now allegedly killed seven kids",
-        "domain": "theverge.com",
-        "category": "technology",
-        "link": "https://www.theverge.com/2022/7/7/23199058/tiktok-lawsuits-blackout-challenge-children-death",
-        "timestamp": 1657272753,
-        "sentiment": -1,
-        "published": "July 8, 2022 5:32 AM"
-    },
-    {
         "title": "Gardening can cultivate better mental health. Scientists found that gardening activities lowered stress, anxiety and depression in healthy women who attended twice-weekly gardening classes. None of study participants had gardened before.",
         "domain": "blogs.ifas.ufl.edu",
         "category": "science",
         "link": "https://blogs.ifas.ufl.edu/news/2022/07/06/gardening-can-cultivate-better-mental-health/",
         "timestamp": 1657273321,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 8, 2022 5:42 AM"
     },
     {
@@ -149,8 +131,17 @@
         "category": "technology",
         "link": "https://techxplore.com/news/2022-07-tiktok-sued-girls-die-blackout.html",
         "timestamp": 1657273650,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "July 8, 2022 5:47 AM"
+    },
+    {
+        "title": "Dutch doctor Dr. Rebecca Gomperts and the internet are making sure Americans have access to abortion pills through her online service Aid Access",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/tech/tech-news/dutch-doctor-internet-are-making-sure-americans-access-abortion-pills-rcna35630",
+        "timestamp": 1657273829,
+        "sentiment": 0,
+        "published": "July 8, 2022 5:50 AM"
     },
     {
         "title": "India announces day of mourning for former Japanese Prime Minister Shinzo Abe",
@@ -176,8 +167,17 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/campaign/3549453-gavin-newsom-punches-gop-to-democratic-applause/",
         "timestamp": 1657275388,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 8, 2022 6:16 AM"
+    },
+    {
+        "title": "Chip off the ol’ trailer: Container storing 40,000 pounds of potato chips catches fire in Ocala",
+        "domain": "clickorlando.com",
+        "category": "florida",
+        "link": "https://www.clickorlando.com/news/local/2022/07/07/chip-off-the-ol-trailer-container-storing-40000-pounds-of-potato-chips-catches-fire-in-ocala/",
+        "timestamp": 1657275983,
+        "sentiment": -2,
+        "published": "July 8, 2022 6:26 AM"
     },
     {
         "title": "Record-setting quantum entanglement connects two atoms across 20 miles",
@@ -185,7 +185,7 @@
         "category": "science",
         "link": "https://newatlas.com/telecommunications/quantum-entanglement-atoms-distance-record/",
         "timestamp": 1657276864,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 8, 2022 6:41 AM"
     },
     {
@@ -194,7 +194,7 @@
         "category": "ukraine",
         "link": "https://ukrainetoday.org/2022/07/08/another-stab-in-the-back-of-the-russian-federation-kazakhstan-withdraws-from-the-cis-agreement-on-the-currency-committee/",
         "timestamp": 1657276944,
-        "sentiment": -5,
+        "sentiment": 2,
         "published": "July 8, 2022 6:42 AM"
     },
     {
@@ -207,21 +207,12 @@
         "published": "July 8, 2022 6:49 AM"
     },
     {
-        "title": "Lavrov walks out G-20, says no talks needed if West hopes Ukraine's win",
-        "domain": "english.kyodonews.net",
-        "category": "worldnews",
-        "link": "https://english.kyodonews.net/news/2022/07/5ba00e971fc4-g-20-begins-talks-on-food-energy-issues-with-us-russia-row-expected.html",
-        "timestamp": 1657279618,
-        "sentiment": 2,
-        "published": "July 8, 2022 7:26 AM"
-    },
-    {
         "title": "Biden to announce executive action to protect abortion access",
         "domain": "thehill.com",
         "category": "politics",
         "link": "https://thehill.com/homenews/administration/3549678-biden-to-announce-executive-action-to-protect-abortion-access/",
         "timestamp": 1657280920,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 8, 2022 7:48 AM"
     },
     {
@@ -230,7 +221,7 @@
         "category": "politics",
         "link": "https://www.bostonglobe.com/2022/07/08/opinion/georgia-das-trump-investigation-is-making-history/",
         "timestamp": 1657280938,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 8, 2022 7:48 AM"
     },
     {
@@ -266,7 +257,7 @@
         "category": "science",
         "link": "https://www.psypost.org/2022/07/curiosity-is-linked-to-crystallized-intelligence-but-not-fluid-intelligence-study-finds-63472",
         "timestamp": 1657282806,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 8, 2022 8:20 AM"
     },
     {
@@ -302,7 +293,7 @@
         "category": "UpliftingNews",
         "link": "https://www.speciesunite.com/news-stories/petition-update-anti-horse-slaughter-bill-advances-through-subcommittee-hearing",
         "timestamp": 1657284964,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 8, 2022 8:56 AM"
     },
     {
@@ -311,7 +302,7 @@
         "category": "UpliftingNews",
         "link": "https://www.cnn.com/2022/07/08/economy/june-jobs-report-final/index.html",
         "timestamp": 1657285820,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 8, 2022 9:10 AM"
     },
     {
@@ -320,7 +311,7 @@
         "category": "technology",
         "link": "https://www.vice.com/en/article/g5vb44/amazon-workers-who-commute-across-the-us-mexico-border-every-day-are-organizing-for-better-working-conditions",
         "timestamp": 1657285855,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "July 8, 2022 9:10 AM"
     },
     {
@@ -338,16 +329,7 @@
         "category": "UpliftingNews",
         "link": "https://www.forbes.com/sites/traversmark/2022/07/06/psychedelics-may-be-your-ticket-to-self-actualization-says-new-research/",
         "timestamp": 1657286475,
-        "sentiment": -3,
-        "published": "July 8, 2022 9:21 AM"
-    },
-    {
-        "title": "NEW POLL: Florida Governor Democratic Primary Tied, Crist 39% Fried 39",
-        "domain": "orlando-politics.com",
-        "category": "florida",
-        "link": "https://orlando-politics.com/2022/07/08/new-poll-florida-governor-democratic-primary-tied-crist-39-fried-39/",
-        "timestamp": 1657286505,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 8, 2022 9:21 AM"
     },
     {
@@ -356,8 +338,17 @@
         "category": "politics",
         "link": "https://www.ktbs.com/news/national/fed-report-finds-75-of-800-billion-paycheck-protection-program-didnt-reach-employees/article_5a08fbfe-65ed-5f5d-b86c-959297fe09b4.html",
         "timestamp": 1657286556,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 8, 2022 9:22 AM"
+    },
+    {
+        "title": "Unsustainable logging, fishing and hunting 'driving extinction'",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/science-environment-62094405",
+        "timestamp": 1657286838,
+        "sentiment": 2,
+        "published": "July 8, 2022 9:27 AM"
     },
     {
         "title": "The Supreme Court is now run by extremists who are endangering US democracy. We need to recognise there is a carefully laid plan to turn the US into a repressive regime, particularly targeting women",
@@ -365,7 +356,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/voices/george-soros-democracy-supreme-court-abortion-b2116943.html",
         "timestamp": 1657287284,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 8, 2022 9:34 AM"
     },
     {
@@ -374,7 +365,7 @@
         "category": "politics",
         "link": "https://www.msnbc.com/the-beat-with-ari/watch/trump-up-to-his-eyeballs-in-criminality-ahead-of-w-h-counsel-s-jan-6-testimony-143620677920",
         "timestamp": 1657287880,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 8, 2022 9:44 AM"
     },
     {
@@ -383,7 +374,7 @@
         "category": "politics",
         "link": "https://www.fresnobee.com/opinion/readers-opinion/article263183583.html",
         "timestamp": 1657288597,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 8, 2022 9:56 AM"
     },
     {
@@ -392,7 +383,7 @@
         "category": "politics",
         "link": "https://thehill.com/regulation/court-battles/3549907-mortons-condemns-abortion-rights-protestors-for-disrupting-kavanaughs-freedom-to-eat-dinner/",
         "timestamp": 1657288663,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 8, 2022 9:57 AM"
     },
     {
@@ -437,7 +428,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/KyivIndependent/status/1545402499447783425?t=OEH-7ftJb7Msl-Le8UMI8A&s=09",
         "timestamp": 1657290560,
-        "sentiment": -5,
+        "sentiment": 2,
         "published": "July 8, 2022 10:29 AM"
     },
     {
@@ -446,7 +437,7 @@
         "category": "ukraine",
         "link": "https://www.democracynow.org/2022/7/8/headlines/us_senators_in_kyiv_call_on_congress_to_declare_russia_a_state_sponsor_of_terror",
         "timestamp": 1657290941,
-        "sentiment": -5,
+        "sentiment": 2,
         "published": "July 8, 2022 10:35 AM"
     },
     {
@@ -455,7 +446,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/07/08/house-dem-urges-biden-fire-trump-picked-irs-chief-over-titanic-audit-scandal",
         "timestamp": 1657291122,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 8, 2022 10:38 AM"
     },
     {
@@ -464,7 +455,7 @@
         "category": "ukraine",
         "link": "https://www.thetimes.co.uk/article/cut-off-russias-link-to-crimea-says-ex-nato-commander-qh93slq0k",
         "timestamp": 1657292243,
-        "sentiment": -5,
+        "sentiment": 2,
         "published": "July 8, 2022 10:57 AM"
     },
     {
@@ -491,7 +482,7 @@
         "category": "technology",
         "link": "https://www.upi.com/Top_News/US/2022/07/07/FCC-orders-carriers-stop-delivering-auto-warranty-robocalls/6041657245371/",
         "timestamp": 1657293039,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "July 8, 2022 11:10 AM"
     },
     {
@@ -513,22 +504,22 @@
         "published": "July 8, 2022 11:28 AM"
     },
     {
-        "title": "Shinzo Abe Assassin Misidentified as Hideo Kojima by Politicians and Media",
-        "domain": "playstationlifestyle.net",
-        "category": "nottheonion",
-        "link": "https://www.playstationlifestyle.net/2022/07/08/shinzo-abe-assassin-hideo-kojima-confusion/",
-        "timestamp": 1657294438,
-        "sentiment": -3,
-        "published": "July 8, 2022 11:33 AM"
-    },
-    {
         "title": "Activist Asks To Lead Satanic Prayer At FL High School Football Game",
         "domain": "patch.com",
         "category": "florida",
         "link": "https://patch.com/florida/miami/activist-asks-lead-satanic-prayer-fl-high-school-football-game",
         "timestamp": 1657296890,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 8, 2022 12:14 PM"
+    },
+    {
+        "title": "AOC calls for Senate to end filibuster & codify marriage equality as a federal right",
+        "domain": "lgbtqnation.com",
+        "category": "politics",
+        "link": "https://www.lgbtqnation.com/2022/06/aoc-calls-senate-end-filibuster-codify-marriage-equality-federal-right/",
+        "timestamp": 1657296903,
+        "sentiment": -1,
+        "published": "July 8, 2022 12:15 PM"
     },
     {
         "title": "Using phages to kill anti-biotic resistant Superbugs.",
@@ -536,7 +527,7 @@
         "category": "UpliftingNews",
         "link": "https://www.cnn.com/2022/07/08/health/phage-superbug-killer-life-itself-wellness/index.html",
         "timestamp": 1657297675,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 8, 2022 12:27 PM"
     },
     {
@@ -554,17 +545,17 @@
         "category": "UpliftingNews",
         "link": "https://www.cam.ac.uk/stories/DarwinExhibition",
         "timestamp": 1657298014,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 8, 2022 12:33 PM"
     },
     {
-        "title": "Biden signs executive order to protect abortion access",
-        "domain": "nbcnews.com",
-        "category": "UpliftingNews",
-        "link": "https://www.nbcnews.com/politics/white-house/biden-sign-executive-order-protect-abortion-access-rcna37226",
-        "timestamp": 1657298439,
+        "title": "'Thor: Love and Thunder' director asked Natalie Portman if she wanted to be in his 'Star Wars' movie, forgetting that she starred in the prequel trilogy",
+        "domain": "insider.com",
+        "category": "nottheonion",
+        "link": "https://www.insider.com/thor-director-taika-waititi-forgot-natalie-portman-star-wars-2022-7",
+        "timestamp": 1657298183,
         "sentiment": -3,
-        "published": "July 8, 2022 12:40 PM"
+        "published": "July 8, 2022 12:36 PM"
     },
     {
         "title": "Shocking study reveals most government websites serve tracking cookies without consent",
@@ -572,7 +563,7 @@
         "category": "technology",
         "link": "https://hothardware.com/news/study-reveals-government-websites-serve-tracking-cookies-without-consent",
         "timestamp": 1657298477,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "July 8, 2022 12:41 PM"
     },
     {
@@ -585,13 +576,103 @@
         "published": "July 8, 2022 12:46 PM"
     },
     {
+        "title": "60-hour shifts and an ER scramble: Fentanyl overdoses takes 'toll' on TMH, Gadsden County EMS",
+        "domain": "tallahassee.com",
+        "category": "florida",
+        "link": "https://www.tallahassee.com/story/news/2022/07/08/fentanyl-gadsden-quincy-havana-er-tmh-drugs-overdose-narcan/7830028001/",
+        "timestamp": 1657299461,
+        "sentiment": -2,
+        "published": "July 8, 2022 12:57 PM"
+    },
+    {
         "title": "New York law requires gun permit applicants to submit social media accounts for review",
         "domain": "engadget.com",
         "category": "technology",
         "link": "https://www.engadget.com/new-york-concealed-carry-permit-social-media-accounts-154624629.html",
         "timestamp": 1657300299,
-        "sentiment": -1,
+        "sentiment": -4,
         "published": "July 8, 2022 1:11 PM"
+    },
+    {
+        "title": "North Carolina Looks to Remove Public EV Chargers, Probably to the Trash",
+        "domain": "caranddriver.com",
+        "category": "technology",
+        "link": "https://www.caranddriver.com/news/a40543385/north-carolina-wants-remove-free-public-ev-chargers/",
+        "timestamp": 1657300368,
+        "sentiment": -4,
+        "published": "July 8, 2022 1:12 PM"
+    },
+    {
+        "title": "Plant-based meat by far the best climate investment, report finds",
+        "domain": "theguardian.com",
+        "category": "science",
+        "link": "https://www.theguardian.com/environment/2022/jul/07/plant-based-meat-by-far-the-best-climate-investment-report-finds",
+        "timestamp": 1657302453,
+        "sentiment": 0,
+        "published": "July 8, 2022 1:47 PM"
+    },
+    {
+        "title": "London Zoo releases first footage of rare newborn tiger cub triplets",
+        "domain": "turnto23.com",
+        "category": "UpliftingNews",
+        "link": "https://www.turnto23.com/news/world/london-zoo-releases-first-footage-of-rare-newborn-tiger-cub-triplets?_amp=true",
+        "timestamp": 1657303387,
+        "sentiment": 0,
+        "published": "July 8, 2022 2:03 PM"
+    },
+    {
+        "title": "25 Republican State Senators In Ohio Were Sent Feces In The Mail",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/ohio-gop-state-senators-feces-packages_n_62c76545e4b0d7401981498b",
+        "timestamp": 1657266865,
+        "sentiment": 0,
+        "published": "July 8, 2022 3:54 AM"
+    },
+    {
+        "title": "The TikTok ‘blackout challenge’ has now allegedly killed seven kids",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2022/7/7/23199058/tiktok-lawsuits-blackout-challenge-children-death",
+        "timestamp": 1657272753,
+        "sentiment": -1,
+        "published": "July 8, 2022 5:32 AM"
+    },
+    {
+        "title": "Lavrov walks out G-20, says no talks needed if West hopes Ukraine's win",
+        "domain": "english.kyodonews.net",
+        "category": "worldnews",
+        "link": "https://english.kyodonews.net/news/2022/07/5ba00e971fc4-g-20-begins-talks-on-food-energy-issues-with-us-russia-row-expected.html",
+        "timestamp": 1657279618,
+        "sentiment": 2,
+        "published": "July 8, 2022 7:26 AM"
+    },
+    {
+        "title": "NEW POLL: Florida Governor Democratic Primary Tied, Crist 39% Fried 39",
+        "domain": "orlando-politics.com",
+        "category": "florida",
+        "link": "https://orlando-politics.com/2022/07/08/new-poll-florida-governor-democratic-primary-tied-crist-39-fried-39/",
+        "timestamp": 1657286505,
+        "sentiment": -3,
+        "published": "July 8, 2022 9:21 AM"
+    },
+    {
+        "title": "Shinzo Abe Assassin Misidentified as Hideo Kojima by Politicians and Media",
+        "domain": "playstationlifestyle.net",
+        "category": "nottheonion",
+        "link": "https://www.playstationlifestyle.net/2022/07/08/shinzo-abe-assassin-hideo-kojima-confusion/",
+        "timestamp": 1657294438,
+        "sentiment": -3,
+        "published": "July 8, 2022 11:33 AM"
+    },
+    {
+        "title": "Biden signs executive order to protect abortion access",
+        "domain": "nbcnews.com",
+        "category": "UpliftingNews",
+        "link": "https://www.nbcnews.com/politics/white-house/biden-sign-executive-order-protect-abortion-access-rcna37226",
+        "timestamp": 1657298439,
+        "sentiment": -3,
+        "published": "July 8, 2022 12:40 PM"
     },
     {
         "title": "Microplastics detected in meat, milk and blood of farm animals",
@@ -655,15 +736,6 @@
         "timestamp": 1657269594,
         "sentiment": 0,
         "published": "July 8, 2022 4:39 AM"
-    },
-    {
-        "title": "Chip off the ol’ trailer: Container storing 40,000 pounds of potato chips catches fire in Ocala",
-        "domain": "clickorlando.com",
-        "category": "florida",
-        "link": "https://www.clickorlando.com/news/local/2022/07/07/chip-off-the-ol-trailer-container-storing-40000-pounds-of-potato-chips-catches-fire-in-ocala/",
-        "timestamp": 1657275983,
-        "sentiment": -2,
-        "published": "July 8, 2022 6:26 AM"
     },
     {
         "title": "The once-lost mythical burial site of Viking king Harald \"Bluetooth\" Gormsson, ruler of Denmark and Norway, has been found in Poland, after ten centuries.",
@@ -1474,15 +1546,6 @@
         "timestamp": 1657233705,
         "sentiment": 1,
         "published": "July 7, 2022 6:41 PM"
-    },
-    {
-        "title": "North Carolina Looks to Remove Public EV Chargers, Probably to the Trash",
-        "domain": "caranddriver.com",
-        "category": "nottheonion",
-        "link": "https://www.caranddriver.com/news/a40543385/north-carolina-wants-remove-free-public-ev-chargers/",
-        "timestamp": 1657234071,
-        "sentiment": 0,
-        "published": "July 7, 2022 6:47 PM"
     },
     {
         "title": "Penguins refuse to eat cheaper fish as inflation hits Japanese aquarium",
