@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://focustaiwan.tw/politics/202207080007",
         "timestamp": 1657258110,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 8, 2022 1:28 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/china-demands-end-to-us-taiwan-military-collusion/ar-AAZlo6C?ocid=EMMX&cvid=5b7713ba2a894ec2b8c4ae10680e5669",
         "timestamp": 1657258454,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 8, 2022 1:34 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "UpliftingNews",
         "link": "https://www.cbc.ca/news/canada/sudbury/ten-millionth-tree-planted-sudbury-regreening-1.6513393",
         "timestamp": 1657262513,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 8, 2022 2:41 AM"
     },
     {
@@ -59,17 +59,8 @@
         "category": "UpliftingNews",
         "link": "https://www.axios.com/2022/07/07/fin-whales-return-antarctica?utm_source=twitter&utm_medium=social&utm_campaign=editorial&utm_content=energy-environment-finwhales",
         "timestamp": 1657264264,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 8, 2022 3:11 AM"
-    },
-    {
-        "title": "Microplastics detected in meat, milk and blood of farm animals",
-        "domain": "theguardian.com",
-        "category": "news",
-        "link": "https://www.theguardian.com/environment/2022/jul/08/microplastics-detected-in-meat-milk-and-blood-of-farm-animals",
-        "timestamp": 1657266152,
-        "sentiment": 0,
-        "published": "July 8, 2022 3:42 AM"
     },
     {
         "title": "25 Republican State Senators In Ohio Were Sent Feces In The Mail",
@@ -77,17 +68,8 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/ohio-gop-state-senators-feces-packages_n_62c76545e4b0d7401981498b",
         "timestamp": 1657266865,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 8, 2022 3:54 AM"
-    },
-    {
-        "title": "Putin claims Russia has barely started campaign in Ukraine, dares west to fight on battlefield | Russia",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/jul/08/putin-claims-russia-has-barely-started-campaign-in-ukraine-dares-west-to-fight-on-battlefield",
-        "timestamp": 1657266968,
-        "sentiment": -1,
-        "published": "July 8, 2022 3:56 AM"
     },
     {
         "title": "Germany's parliament votes in favor of NATO accession for Sweden and Finland",
@@ -95,7 +77,7 @@
         "category": "worldnews",
         "link": "https://dw.com/en/germany-approves-finland-and-sweden-nato-membership-bid/a-62403489",
         "timestamp": 1657269633,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 8, 2022 4:40 AM"
     },
     {
@@ -104,7 +86,7 @@
         "category": "technology",
         "link": "https://www.engadget.com/twitter-layoffs-233150630.html",
         "timestamp": 1657269756,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 8, 2022 4:42 AM"
     },
     {
@@ -131,7 +113,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/shinzo-abe-former-japanese-prime-minister-dies-after-being-shot-while-giving-speech-state-broadcaster-says-12648011",
         "timestamp": 1657270303,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 8, 2022 4:51 AM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "technology",
         "link": "https://www.theverge.com/2022/7/7/23199058/tiktok-lawsuits-blackout-challenge-children-death",
         "timestamp": 1657272753,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 8, 2022 5:32 AM"
     },
     {
@@ -167,7 +149,7 @@
         "category": "technology",
         "link": "https://techxplore.com/news/2022-07-tiktok-sued-girls-die-blackout.html",
         "timestamp": 1657273650,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 8, 2022 5:47 AM"
     },
     {
@@ -176,7 +158,16 @@
         "category": "worldnews",
         "link": "https://www.hindustantimes.com/india-news/india-announces-day-of-mourning-for-shinzo-abe-101657274058494.html",
         "timestamp": 1657274297,
-        "sentiment": -1,
+        "sentiment": 2,
+        "published": "July 8, 2022 5:58 AM"
+    },
+    {
+        "title": "Zambian Barbra Banda ruled out over 'gender eligibility' issues",
+        "domain": "bbc.com",
+        "category": "sports",
+        "link": "https://www.bbc.com/sport/africa/62057259",
+        "timestamp": 1657274329,
+        "sentiment": -3,
         "published": "July 8, 2022 5:58 AM"
     },
     {
@@ -185,7 +176,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/campaign/3549453-gavin-newsom-punches-gop-to-democratic-applause/",
         "timestamp": 1657275388,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 8, 2022 6:16 AM"
     },
     {
@@ -203,7 +194,7 @@
         "category": "ukraine",
         "link": "https://ukrainetoday.org/2022/07/08/another-stab-in-the-back-of-the-russian-federation-kazakhstan-withdraws-from-the-cis-agreement-on-the-currency-committee/",
         "timestamp": 1657276944,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 8, 2022 6:42 AM"
     },
     {
@@ -221,7 +212,7 @@
         "category": "worldnews",
         "link": "https://english.kyodonews.net/news/2022/07/5ba00e971fc4-g-20-begins-talks-on-food-energy-issues-with-us-russia-row-expected.html",
         "timestamp": 1657279618,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 8, 2022 7:26 AM"
     },
     {
@@ -230,7 +221,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/administration/3549678-biden-to-announce-executive-action-to-protect-abortion-access/",
         "timestamp": 1657280920,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 8, 2022 7:48 AM"
     },
     {
@@ -239,7 +230,7 @@
         "category": "politics",
         "link": "https://www.bostonglobe.com/2022/07/08/opinion/georgia-das-trump-investigation-is-making-history/",
         "timestamp": 1657280938,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 8, 2022 7:48 AM"
     },
     {
@@ -257,7 +248,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/multiple-russian-soldiers-detained-refusing-fight-putins-war-1722915",
         "timestamp": 1657281366,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 8, 2022 7:56 AM"
     },
     {
@@ -311,7 +302,7 @@
         "category": "UpliftingNews",
         "link": "https://www.speciesunite.com/news-stories/petition-update-anti-horse-slaughter-bill-advances-through-subcommittee-hearing",
         "timestamp": 1657284964,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 8, 2022 8:56 AM"
     },
     {
@@ -320,7 +311,7 @@
         "category": "UpliftingNews",
         "link": "https://www.cnn.com/2022/07/08/economy/june-jobs-report-final/index.html",
         "timestamp": 1657285820,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 8, 2022 9:10 AM"
     },
     {
@@ -329,7 +320,7 @@
         "category": "technology",
         "link": "https://www.vice.com/en/article/g5vb44/amazon-workers-who-commute-across-the-us-mexico-border-every-day-are-organizing-for-better-working-conditions",
         "timestamp": 1657285855,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 8, 2022 9:10 AM"
     },
     {
@@ -347,7 +338,7 @@
         "category": "UpliftingNews",
         "link": "https://www.forbes.com/sites/traversmark/2022/07/06/psychedelics-may-be-your-ticket-to-self-actualization-says-new-research/",
         "timestamp": 1657286475,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 8, 2022 9:21 AM"
     },
     {
@@ -356,7 +347,7 @@
         "category": "florida",
         "link": "https://orlando-politics.com/2022/07/08/new-poll-florida-governor-democratic-primary-tied-crist-39-fried-39/",
         "timestamp": 1657286505,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "July 8, 2022 9:21 AM"
     },
     {
@@ -365,7 +356,7 @@
         "category": "politics",
         "link": "https://www.ktbs.com/news/national/fed-report-finds-75-of-800-billion-paycheck-protection-program-didnt-reach-employees/article_5a08fbfe-65ed-5f5d-b86c-959297fe09b4.html",
         "timestamp": 1657286556,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 8, 2022 9:22 AM"
     },
     {
@@ -374,7 +365,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/voices/george-soros-democracy-supreme-court-abortion-b2116943.html",
         "timestamp": 1657287284,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 8, 2022 9:34 AM"
     },
     {
@@ -383,7 +374,7 @@
         "category": "politics",
         "link": "https://www.msnbc.com/the-beat-with-ari/watch/trump-up-to-his-eyeballs-in-criminality-ahead-of-w-h-counsel-s-jan-6-testimony-143620677920",
         "timestamp": 1657287880,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 8, 2022 9:44 AM"
     },
     {
@@ -392,7 +383,7 @@
         "category": "politics",
         "link": "https://www.fresnobee.com/opinion/readers-opinion/article263183583.html",
         "timestamp": 1657288597,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 8, 2022 9:56 AM"
     },
     {
@@ -401,8 +392,17 @@
         "category": "politics",
         "link": "https://thehill.com/regulation/court-battles/3549907-mortons-condemns-abortion-rights-protestors-for-disrupting-kavanaughs-freedom-to-eat-dinner/",
         "timestamp": 1657288663,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 8, 2022 9:57 AM"
+    },
+    {
+        "title": "Constitutional Court of Slovenia: Same-Sex Couples Can Marry and Adopt",
+        "domain": "english.sta.si",
+        "category": "worldnews",
+        "link": "https://english.sta.si/3058551/court-orders-parliament-to-allow-same-sex-marriages-adoptions",
+        "timestamp": 1657288788,
+        "sentiment": 2,
+        "published": "July 8, 2022 9:59 AM"
     },
     {
         "title": "Plastics found in 80% of meat and dairy samples in the Netherlands, could be caused by feeding livestock whole packaging including the plastic.",
@@ -437,7 +437,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/KyivIndependent/status/1545402499447783425?t=OEH-7ftJb7Msl-Le8UMI8A&s=09",
         "timestamp": 1657290560,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 8, 2022 10:29 AM"
     },
     {
@@ -446,7 +446,7 @@
         "category": "ukraine",
         "link": "https://www.democracynow.org/2022/7/8/headlines/us_senators_in_kyiv_call_on_congress_to_declare_russia_a_state_sponsor_of_terror",
         "timestamp": 1657290941,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 8, 2022 10:35 AM"
     },
     {
@@ -455,7 +455,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/07/08/house-dem-urges-biden-fire-trump-picked-irs-chief-over-titanic-audit-scandal",
         "timestamp": 1657291122,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 8, 2022 10:38 AM"
     },
     {
@@ -464,7 +464,7 @@
         "category": "ukraine",
         "link": "https://www.thetimes.co.uk/article/cut-off-russias-link-to-crimea-says-ex-nato-commander-qh93slq0k",
         "timestamp": 1657292243,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 8, 2022 10:57 AM"
     },
     {
@@ -473,7 +473,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-europe-62092196",
         "timestamp": 1657292343,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 8, 2022 10:59 AM"
     },
     {
@@ -491,7 +491,7 @@
         "category": "technology",
         "link": "https://www.upi.com/Top_News/US/2022/07/07/FCC-orders-carriers-stop-delivering-auto-warranty-robocalls/6041657245371/",
         "timestamp": 1657293039,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 8, 2022 11:10 AM"
     },
     {
@@ -527,8 +527,89 @@
         "category": "florida",
         "link": "https://patch.com/florida/miami/activist-asks-lead-satanic-prayer-fl-high-school-football-game",
         "timestamp": 1657296890,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "July 8, 2022 12:14 PM"
+    },
+    {
+        "title": "Using phages to kill anti-biotic resistant Superbugs.",
+        "domain": "cnn.com",
+        "category": "UpliftingNews",
+        "link": "https://www.cnn.com/2022/07/08/health/phage-superbug-killer-life-itself-wellness/index.html",
+        "timestamp": 1657297675,
+        "sentiment": -3,
+        "published": "July 8, 2022 12:27 PM"
+    },
+    {
+        "title": "Black man misidentified by police and jailed for 6 days wins $90,000 settlement",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/07/08/us/nevada-man-jailed-misidentified-wins-settlement/index.html",
+        "timestamp": 1657297867,
+        "sentiment": 0,
+        "published": "July 8, 2022 12:31 PM"
+    },
+    {
+        "title": "Darwin's Tree of Life goes on free public display following it's mysterious two decade disappearance and return",
+        "domain": "cam.ac.uk",
+        "category": "UpliftingNews",
+        "link": "https://www.cam.ac.uk/stories/DarwinExhibition",
+        "timestamp": 1657298014,
+        "sentiment": -3,
+        "published": "July 8, 2022 12:33 PM"
+    },
+    {
+        "title": "Biden signs executive order to protect abortion access",
+        "domain": "nbcnews.com",
+        "category": "UpliftingNews",
+        "link": "https://www.nbcnews.com/politics/white-house/biden-sign-executive-order-protect-abortion-access-rcna37226",
+        "timestamp": 1657298439,
+        "sentiment": -3,
+        "published": "July 8, 2022 12:40 PM"
+    },
+    {
+        "title": "Shocking study reveals most government websites serve tracking cookies without consent",
+        "domain": "hothardware.com",
+        "category": "technology",
+        "link": "https://hothardware.com/news/study-reveals-government-websites-serve-tracking-cookies-without-consent",
+        "timestamp": 1657298477,
+        "sentiment": -1,
+        "published": "July 8, 2022 12:41 PM"
+    },
+    {
+        "title": "Brightline's Aventura Station set to open this Fall (Downtown to Aventura in 15 minutes)",
+        "domain": "thenextmiami.com",
+        "category": "miami",
+        "link": "https://www.thenextmiami.com/photos-construction-progress-at-brightlines-aventura-station/",
+        "timestamp": 1657298767,
+        "sentiment": 1,
+        "published": "July 8, 2022 12:46 PM"
+    },
+    {
+        "title": "New York law requires gun permit applicants to submit social media accounts for review",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/new-york-concealed-carry-permit-social-media-accounts-154624629.html",
+        "timestamp": 1657300299,
+        "sentiment": -1,
+        "published": "July 8, 2022 1:11 PM"
+    },
+    {
+        "title": "Microplastics detected in meat, milk and blood of farm animals",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/environment/2022/jul/08/microplastics-detected-in-meat-milk-and-blood-of-farm-animals",
+        "timestamp": 1657266152,
+        "sentiment": 0,
+        "published": "July 8, 2022 3:42 AM"
+    },
+    {
+        "title": "Putin claims Russia has barely started campaign in Ukraine, dares west to fight on battlefield | Russia",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jul/08/putin-claims-russia-has-barely-started-campaign-in-ukraine-dares-west-to-fight-on-battlefield",
+        "timestamp": 1657266968,
+        "sentiment": -1,
+        "published": "July 8, 2022 3:56 AM"
     },
     {
         "title": "Florida man sentenced to three years of probation and a $7,000 fine in death threat to Rep. Ilhan Omar",
@@ -574,15 +655,6 @@
         "timestamp": 1657269594,
         "sentiment": 0,
         "published": "July 8, 2022 4:39 AM"
-    },
-    {
-        "title": "Zambian Barbra Banda ruled out over 'gender eligibility' issues",
-        "domain": "bbc.com",
-        "category": "sports",
-        "link": "https://www.bbc.com/sport/africa/62057259",
-        "timestamp": 1657274329,
-        "sentiment": 0,
-        "published": "July 8, 2022 5:58 AM"
     },
     {
         "title": "Chip off the ol’ trailer: Container storing 40,000 pounds of potato chips catches fire in Ocala",
