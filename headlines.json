@@ -5,7 +5,7 @@
         "category": "science",
         "link": "https://corporate.dukehealth.org/news/social-stress-factors-drive-cancer-mechanisms-help-explain-racial-disparities",
         "timestamp": 1657254326,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 8, 2022 12:25 AM"
     },
     {
@@ -36,6 +36,15 @@
         "published": "July 8, 2022 1:34 AM"
     },
     {
+        "title": "Florida man sentenced to three years of probation and a $7,000 fine in death threat to Rep. Ilhan Omar",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/minnesota/news/florida-man-sentenced-in-death-threat-to-rep-ilhan-omar/",
+        "timestamp": 1657258988,
+        "sentiment": -4,
+        "published": "July 8, 2022 1:43 AM"
+    },
+    {
         "title": "Another Russian observer says that Russian forces are sustaining very serious losses from Ukrainian HIMARS, which are very accurately targeting Russian command posts.",
         "domain": "twitter.com",
         "category": "ukraine",
@@ -59,7 +68,7 @@
         "category": "science",
         "link": "https://www.theguardian.com/environment/2022/jul/08/microplastics-detected-in-meat-milk-and-blood-of-farm-animals",
         "timestamp": 1657263822,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 8, 2022 3:03 AM"
     },
     {
@@ -68,7 +77,7 @@
         "category": "science",
         "link": "http://www.sci-news.com/geology/moab-khotsong-groundwater-10972.html",
         "timestamp": 1657263871,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 8, 2022 3:04 AM"
     },
     {
@@ -86,7 +95,7 @@
         "category": "television",
         "link": "https://www.apple.com/tv-pr/news/2022/07/apple-tv-tops-hollywood-critics-association-awards-as-the-most-nominated-streaming-service-with-severance-and-ted-lasso-leading-best-drama-and-best-comedy-categories/",
         "timestamp": 1657266217,
-        "sentiment": 0,
+        "sentiment": 12,
         "published": "July 8, 2022 3:43 AM"
     },
     {
@@ -122,7 +131,7 @@
         "category": "technology",
         "link": "https://www.engadget.com/twitter-layoffs-233150630.html",
         "timestamp": 1657269756,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 8, 2022 4:42 AM"
     },
     {
@@ -140,7 +149,7 @@
         "category": "sports",
         "link": "https://news.sky.com/story/sepp-blatter-and-michel-platini-acquitted-of-corruption-by-swiss-court-12647951",
         "timestamp": 1657269878,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 8, 2022 4:44 AM"
     },
     {
@@ -158,26 +167,17 @@
         "category": "technology",
         "link": "https://www.theverge.com/2022/7/7/23199058/tiktok-lawsuits-blackout-challenge-children-death",
         "timestamp": 1657272753,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 8, 2022 5:32 AM"
     },
     {
-        "title": "Blinken to Russian delegation: Ukraine is not your country, and its grain is not your grain",
-        "domain": "ukrinform.net",
-        "category": "ukraine",
-        "link": "https://www.ukrinform.net/rubric-polytics/3524615-blinken-to-russian-delegation-ukraine-is-not-your-country-and-its-grain-is-not-your-grain.html",
-        "timestamp": 1657273228,
-        "sentiment": -4,
-        "published": "July 8, 2022 5:40 AM"
-    },
-    {
-        "title": "Lavrov Walks Out of G20 Talks as West Presses Moscow on Ukraine - The Moscow Times",
-        "domain": "themoscowtimes.com",
-        "category": "ukraine",
-        "link": "https://www.themoscowtimes.com/2022/07/08/lavrov-walks-out-of-g20-talks-as-west-presses-moscow-on-ukraine-a78242",
-        "timestamp": 1657273614,
-        "sentiment": -4,
-        "published": "July 8, 2022 5:46 AM"
+        "title": "Gardening can cultivate better mental health. Scientists found that gardening activities lowered stress, anxiety and depression in healthy women who attended twice-weekly gardening classes. None of study participants had gardened before.",
+        "domain": "blogs.ifas.ufl.edu",
+        "category": "science",
+        "link": "https://blogs.ifas.ufl.edu/news/2022/07/06/gardening-can-cultivate-better-mental-health/",
+        "timestamp": 1657273321,
+        "sentiment": -6,
+        "published": "July 8, 2022 5:42 AM"
     },
     {
         "title": "The FBI didn’t finish over 1 million gun background checks in time to stop a sale in 2020 and 2021",
@@ -185,7 +185,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/fbi-gun-background-checks-delayed-rcna36391",
         "timestamp": 1657273622,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 8, 2022 5:47 AM"
     },
     {
@@ -194,7 +194,7 @@
         "category": "technology",
         "link": "https://techxplore.com/news/2022-07-tiktok-sued-girls-die-blackout.html",
         "timestamp": 1657273650,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 8, 2022 5:47 AM"
     },
     {
@@ -212,7 +212,7 @@
         "category": "sports",
         "link": "https://www.bbc.com/sport/africa/62057259",
         "timestamp": 1657274329,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 8, 2022 5:58 AM"
     },
     {
@@ -225,12 +225,21 @@
         "published": "July 8, 2022 6:16 AM"
     },
     {
+        "title": "Chip off the ol’ trailer: Container storing 40,000 pounds of potato chips catches fire in Ocala",
+        "domain": "clickorlando.com",
+        "category": "florida",
+        "link": "https://www.clickorlando.com/news/local/2022/07/07/chip-off-the-ol-trailer-container-storing-40000-pounds-of-potato-chips-catches-fire-in-ocala/",
+        "timestamp": 1657275983,
+        "sentiment": -2,
+        "published": "July 8, 2022 6:26 AM"
+    },
+    {
         "title": "Record-setting quantum entanglement connects two atoms across 20 miles",
         "domain": "newatlas.com",
         "category": "science",
         "link": "https://newatlas.com/telecommunications/quantum-entanglement-atoms-distance-record/",
         "timestamp": 1657276864,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 8, 2022 6:41 AM"
     },
     {
@@ -250,15 +259,6 @@
         "timestamp": 1657277389,
         "sentiment": -1,
         "published": "July 8, 2022 6:49 AM"
-    },
-    {
-        "title": "Russia needs to release Brittney Griner. And US leaders need to fix our cannabis laws.",
-        "domain": "usatoday.com",
-        "category": "politics",
-        "link": "https://www.usatoday.com/story/opinion/policing/2022/07/08/brittney-grinerrussia-cannabis-weed-marijuana/7793000001/",
-        "timestamp": 1657278788,
-        "sentiment": 0,
-        "published": "July 8, 2022 7:13 AM"
     },
     {
         "title": "Lavrov walks out G-20, says no talks needed if West hopes Ukraine's win",
@@ -288,6 +288,15 @@
         "published": "July 8, 2022 7:48 AM"
     },
     {
+        "title": "The Las Vegas Raiders have hired the first Black female team president in the NFL",
+        "domain": "npr.org",
+        "category": "sports",
+        "link": "https://www.npr.org/2022/07/08/1110427911/las-vegas-raiders-president-sandra-douglass-morgan-first-black-woman-nfl",
+        "timestamp": 1657281000,
+        "sentiment": 0,
+        "published": "July 8, 2022 7:50 AM"
+    },
+    {
         "title": "The once-lost mythical burial site of Viking king Harald \"Bluetooth\" Gormsson, ruler of Denmark and Norway, has been found in Poland, after ten centuries.",
         "domain": "warhistoryonline.com",
         "category": "worldnews",
@@ -306,12 +315,21 @@
         "published": "July 8, 2022 7:56 AM"
     },
     {
+        "title": "Taron Egerton Shines in Apple TV+'s Engrossing Psychological Thriller Black Bird",
+        "domain": "pastemagazine.com",
+        "category": "television",
+        "link": "https://www.pastemagazine.com/tv/apple-tv-plus/blackbird-review/",
+        "timestamp": 1657282122,
+        "sentiment": 12,
+        "published": "July 8, 2022 8:08 AM"
+    },
+    {
         "title": "Curiosity is linked to crystallized intelligence but not fluid intelligence, study finds",
         "domain": "psypost.org",
         "category": "science",
         "link": "https://www.psypost.org/2022/07/curiosity-is-linked-to-crystallized-intelligence-but-not-fluid-intelligence-study-finds-63472",
         "timestamp": 1657282806,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 8, 2022 8:20 AM"
     },
     {
@@ -320,7 +338,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/tech/tech-news/gun-applicants-new-york-will-hand-social-accounts-rcna37251",
         "timestamp": 1657283404,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 8, 2022 8:30 AM"
     },
     {
@@ -338,7 +356,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/missing-man-fell-shredder-south-carolina-recycling-plant-coroner-finds-rcna37240",
         "timestamp": 1657284889,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 8, 2022 8:54 AM"
     },
     {
@@ -349,15 +367,6 @@
         "timestamp": 1657284964,
         "sentiment": 0,
         "published": "July 8, 2022 8:56 AM"
-    },
-    {
-        "title": "Skeptical Man Investigating Claim That Hiking Family Died Of Dehydration After Getting Lost Rescued After Getting Lost and Nearly Dying Of Dehydration",
-        "domain": "outsideonline.com",
-        "category": "nottheonion",
-        "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/jonathan-gerrish-ellen-chung-missing-hiker-2022/",
-        "timestamp": 1657285152,
-        "sentiment": -1,
-        "published": "July 8, 2022 8:59 AM"
     },
     {
         "title": "[CNN] The economy added 372,000 jobs in June, outpacing expectations",
@@ -374,7 +383,7 @@
         "category": "technology",
         "link": "https://www.vice.com/en/article/g5vb44/amazon-workers-who-commute-across-the-us-mexico-border-every-day-are-organizing-for-better-working-conditions",
         "timestamp": 1657285855,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 8, 2022 9:10 AM"
     },
     {
@@ -383,7 +392,7 @@
         "category": "television",
         "link": "https://www.radiotimes.com/tv/drama/gregory-itzin-dead-24-newsupdate/",
         "timestamp": 1657286369,
-        "sentiment": 0,
+        "sentiment": 12,
         "published": "July 8, 2022 9:19 AM"
     },
     {
@@ -401,7 +410,7 @@
         "category": "florida",
         "link": "https://orlando-politics.com/2022/07/08/new-poll-florida-governor-democratic-primary-tied-crist-39-fried-39/",
         "timestamp": 1657286505,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 8, 2022 9:21 AM"
     },
     {
@@ -419,7 +428,7 @@
         "category": "science",
         "link": "https://nltimes.nl/2022/07/08/microplastics-milk-meat-dutch-cows-pigs-amsterdam-researchers",
         "timestamp": 1657287047,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 8, 2022 9:30 AM"
     },
     {
@@ -432,6 +441,78 @@
         "published": "July 8, 2022 9:34 AM"
     },
     {
+        "title": "Morton’s condemns abortion rights protesters for disrupting Kavanaugh’s freedom to ‘eat dinner’",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/regulation/court-battles/3549907-mortons-condemns-abortion-rights-protestors-for-disrupting-kavanaughs-freedom-to-eat-dinner/",
+        "timestamp": 1657288663,
+        "sentiment": 0,
+        "published": "July 8, 2022 9:57 AM"
+    },
+    {
+        "title": "Lenny Von Dohlen, best known as the reclusive Harold from Twin Peaks, has passed away at age 63",
+        "domain": "film.org.pl",
+        "category": "television",
+        "link": "https://film.org.pl/news/nie-zyje-lenny-von-dohlen-znany-z-miasteczka-twin-peaks",
+        "timestamp": 1657288986,
+        "sentiment": 12,
+        "published": "July 8, 2022 10:03 AM"
+    },
+    {
+        "title": "Texas trans activist, 11, flees the state after years of advocacy",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/nbc-out/out-community-voices/texas-trans-activist-kai-shappley-flees-state-years-advocacy-rcna37000?cid=sm_npd_nn_tw_ma",
+        "timestamp": 1657290179,
+        "sentiment": -4,
+        "published": "July 8, 2022 10:22 AM"
+    },
+    {
+        "title": "FCC orders carriers to stop delivering auto warranty robocalls",
+        "domain": "upi.com",
+        "category": "technology",
+        "link": "https://www.upi.com/Top_News/US/2022/07/07/FCC-orders-carriers-stop-delivering-auto-warranty-robocalls/6041657245371/",
+        "timestamp": 1657293039,
+        "sentiment": 0,
+        "published": "July 8, 2022 11:10 AM"
+    },
+    {
+        "title": "Blinken to Russian delegation: Ukraine is not your country, and its grain is not your grain",
+        "domain": "ukrinform.net",
+        "category": "ukraine",
+        "link": "https://www.ukrinform.net/rubric-polytics/3524615-blinken-to-russian-delegation-ukraine-is-not-your-country-and-its-grain-is-not-your-grain.html",
+        "timestamp": 1657273228,
+        "sentiment": -4,
+        "published": "July 8, 2022 5:40 AM"
+    },
+    {
+        "title": "Lavrov Walks Out of G20 Talks as West Presses Moscow on Ukraine - The Moscow Times",
+        "domain": "themoscowtimes.com",
+        "category": "ukraine",
+        "link": "https://www.themoscowtimes.com/2022/07/08/lavrov-walks-out-of-g20-talks-as-west-presses-moscow-on-ukraine-a78242",
+        "timestamp": 1657273614,
+        "sentiment": -4,
+        "published": "July 8, 2022 5:46 AM"
+    },
+    {
+        "title": "Russia needs to release Brittney Griner. And US leaders need to fix our cannabis laws.",
+        "domain": "usatoday.com",
+        "category": "politics",
+        "link": "https://www.usatoday.com/story/opinion/policing/2022/07/08/brittney-grinerrussia-cannabis-weed-marijuana/7793000001/",
+        "timestamp": 1657278788,
+        "sentiment": 0,
+        "published": "July 8, 2022 7:13 AM"
+    },
+    {
+        "title": "Skeptical Man Investigating Claim That Hiking Family Died Of Dehydration After Getting Lost Rescued After Getting Lost and Nearly Dying Of Dehydration",
+        "domain": "outsideonline.com",
+        "category": "nottheonion",
+        "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/jonathan-gerrish-ellen-chung-missing-hiker-2022/",
+        "timestamp": 1657285152,
+        "sentiment": -1,
+        "published": "July 8, 2022 8:59 AM"
+    },
+    {
         "title": "Wimbledon stars forced to play braless as rule come under heightened scrutiny",
         "domain": "express.co.uk",
         "category": "sports",
@@ -439,15 +520,6 @@
         "timestamp": 1657291347,
         "sentiment": -1,
         "published": "July 8, 2022 10:42 AM"
-    },
-    {
-        "title": "Florida man sentenced to three years of probation and a $7,000 fine in death threat to Rep. Ilhan Omar",
-        "domain": "cbsnews.com",
-        "category": "news",
-        "link": "https://www.cbsnews.com/minnesota/news/florida-man-sentenced-in-death-threat-to-rep-ilhan-omar/",
-        "timestamp": 1657258988,
-        "sentiment": -4,
-        "published": "July 8, 2022 1:43 AM"
     },
     {
         "title": "Japan and Argentina condemn Russia for invading Ukraine",
