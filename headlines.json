@@ -5,7 +5,7 @@
         "category": "science",
         "link": "https://corporate.dukehealth.org/news/social-stress-factors-drive-cancer-mechanisms-help-explain-racial-disparities",
         "timestamp": 1657254326,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 8, 2022 12:25 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "science",
         "link": "https://journals.sagepub.com/doi/abs/10.1177/01461672221106059",
         "timestamp": 1657259115,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 8, 2022 1:45 AM"
     },
     {
@@ -68,17 +68,17 @@
         "category": "ukraine",
         "link": "https://twitter.com/RALee85/status/1545290028355567617?t=xiRpUiNCLNsH_noqCTwGYw&s=19",
         "timestamp": 1657260991,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 8, 2022 2:16 AM"
     },
     {
-        "title": "10 millionth tree in Sudbury, Ont., planted with Jane Goodall pitching in",
-        "domain": "cbc.ca",
-        "category": "UpliftingNews",
-        "link": "https://www.cbc.ca/news/canada/sudbury/ten-millionth-tree-planted-sudbury-regreening-1.6513393",
-        "timestamp": 1657262513,
-        "sentiment": 0,
-        "published": "July 8, 2022 2:41 AM"
+        "title": "Japan and Argentina condemn Russia for invading Ukraine",
+        "domain": "english.kyodonews.net",
+        "category": "worldnews",
+        "link": "https://english.kyodonews.net/news/2022/07/387769540908-japan-argentina-condemn-russia-for-invading-ukraine.html",
+        "timestamp": 1657262691,
+        "sentiment": -2,
+        "published": "July 8, 2022 2:44 AM"
     },
     {
         "title": "Microplastics detected in meat, milk and blood of farm animals, worrying scientists",
@@ -86,7 +86,7 @@
         "category": "science",
         "link": "https://www.theguardian.com/environment/2022/jul/08/microplastics-detected-in-meat-milk-and-blood-of-farm-animals",
         "timestamp": 1657263822,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 8, 2022 3:03 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "science",
         "link": "http://www.sci-news.com/geology/moab-khotsong-groundwater-10972.html",
         "timestamp": 1657263871,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 8, 2022 3:04 AM"
     },
     {
@@ -108,13 +108,31 @@
         "published": "July 8, 2022 3:11 AM"
     },
     {
-        "title": "$7 million for 2 years of flower between the pipes in MN",
-        "domain": "espn.com",
-        "category": "sports",
-        "link": "https://www.espn.com/nhl/story/_/id/34208620/minnesota-wild-bring-back-goaltender-marc-andre-fleury-7-million-2-year-deal",
-        "timestamp": 1657264806,
+        "title": "Apple TV+ tops Hollywood Critics Association Awards as the most nominated streaming service, with “Severance” and “Ted Lasso” leading Best Drama and Best Comedy categories",
+        "domain": "apple.com",
+        "category": "television",
+        "link": "https://www.apple.com/tv-pr/news/2022/07/apple-tv-tops-hollywood-critics-association-awards-as-the-most-nominated-streaming-service-with-severance-and-ted-lasso-leading-best-drama-and-best-comedy-categories/",
+        "timestamp": 1657266217,
+        "sentiment": 12,
+        "published": "July 8, 2022 3:43 AM"
+    },
+    {
+        "title": "Charles Darwin's stolen and returned Tree of Life sketch has gone on free public display",
+        "domain": "cam.ac.uk",
+        "category": "UpliftingNews",
+        "link": "https://www.cam.ac.uk/stories/DarwinExhibition",
+        "timestamp": 1657269214,
         "sentiment": 0,
-        "published": "July 8, 2022 3:20 AM"
+        "published": "July 8, 2022 4:33 AM"
+    },
+    {
+        "title": "Twitter lays off nearly 100 employees from its recruiting team",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/twitter-layoffs-233150630.html",
+        "timestamp": 1657269756,
+        "sentiment": -7,
+        "published": "July 8, 2022 4:42 AM"
     },
     {
         "title": "Boris Johnson resignation: Hugh Grant encouraged protesters to blast Benny Hill theme",
@@ -142,6 +160,33 @@
         "timestamp": 1657270303,
         "sentiment": -2,
         "published": "July 8, 2022 4:51 AM"
+    },
+    {
+        "title": "TikTok sued in US after girls die in 'Blackout Challenge'",
+        "domain": "techxplore.com",
+        "category": "technology",
+        "link": "https://techxplore.com/news/2022-07-tiktok-sued-girls-die-blackout.html",
+        "timestamp": 1657273650,
+        "sentiment": -7,
+        "published": "July 8, 2022 5:47 AM"
+    },
+    {
+        "title": "10 millionth tree in Sudbury, Ont., planted with Jane Goodall pitching in",
+        "domain": "cbc.ca",
+        "category": "UpliftingNews",
+        "link": "https://www.cbc.ca/news/canada/sudbury/ten-millionth-tree-planted-sudbury-regreening-1.6513393",
+        "timestamp": 1657262513,
+        "sentiment": 0,
+        "published": "July 8, 2022 2:41 AM"
+    },
+    {
+        "title": "$7 million for 2 years of flower between the pipes in MN",
+        "domain": "espn.com",
+        "category": "sports",
+        "link": "https://www.espn.com/nhl/story/_/id/34208620/minnesota-wild-bring-back-goaltender-marc-andre-fleury-7-million-2-year-deal",
+        "timestamp": 1657264806,
+        "sentiment": 0,
+        "published": "July 8, 2022 3:20 AM"
     },
     {
         "title": "Chinese nationalists welcome attack on Japan's ex-PM amid anniversary of Sino-Japanese war",
