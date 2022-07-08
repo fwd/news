@@ -5,17 +5,8 @@
         "category": "science",
         "link": "https://corporate.dukehealth.org/news/social-stress-factors-drive-cancer-mechanisms-help-explain-racial-disparities",
         "timestamp": 1657254326,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "July 8, 2022 12:25 AM"
-    },
-    {
-        "title": "Pest controller called to 'rat infestation' finds single rubber mouse",
-        "domain": "bbc.com",
-        "category": "nottheonion",
-        "link": "https://www.bbc.com/news/uk-england-bristol-62081056",
-        "timestamp": 1657260794,
-        "sentiment": 0,
-        "published": "July 8, 2022 2:13 AM"
     },
     {
         "title": "Geologists have discovered 1.2-billion-year-old groundwater about 3 km below surface in Moab Khotsong, a gold- and uranium-producing mine in South Africa. This ancient groundwater is enriched in the highest concentrations of radiogenic products yet discovered in fluid.",
@@ -23,7 +14,7 @@
         "category": "science",
         "link": "http://www.sci-news.com/geology/moab-khotsong-groundwater-10972.html",
         "timestamp": 1657263871,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "July 8, 2022 3:04 AM"
     },
     {
@@ -32,7 +23,7 @@
         "category": "UpliftingNews",
         "link": "https://www.axios.com/2022/07/07/fin-whales-return-antarctica?utm_source=twitter&utm_medium=social&utm_campaign=editorial&utm_content=energy-environment-finwhales",
         "timestamp": 1657264264,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 8, 2022 3:11 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/fbi-gun-background-checks-delayed-rcna36391",
         "timestamp": 1657273622,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 8, 2022 5:47 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "science",
         "link": "https://newatlas.com/telecommunications/quantum-entanglement-atoms-distance-record/",
         "timestamp": 1657276864,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "July 8, 2022 6:41 AM"
     },
     {
@@ -176,7 +167,7 @@
         "category": "science",
         "link": "https://www.psypost.org/2022/07/curiosity-is-linked-to-crystallized-intelligence-but-not-fluid-intelligence-study-finds-63472",
         "timestamp": 1657282806,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "July 8, 2022 8:20 AM"
     },
     {
@@ -185,7 +176,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/tech/tech-news/gun-applicants-new-york-will-hand-social-accounts-rcna37251",
         "timestamp": 1657283404,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 8, 2022 8:30 AM"
     },
     {
@@ -194,7 +185,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/missing-man-fell-shredder-south-carolina-recycling-plant-coroner-finds-rcna37240",
         "timestamp": 1657284889,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 8, 2022 8:54 AM"
     },
     {
@@ -203,7 +194,7 @@
         "category": "UpliftingNews",
         "link": "https://www.speciesunite.com/news-stories/petition-update-anti-horse-slaughter-bill-advances-through-subcommittee-hearing",
         "timestamp": 1657284964,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 8, 2022 8:56 AM"
     },
     {
@@ -212,7 +203,7 @@
         "category": "UpliftingNews",
         "link": "https://www.cnn.com/2022/07/08/economy/june-jobs-report-final/index.html",
         "timestamp": 1657285820,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 8, 2022 9:10 AM"
     },
     {
@@ -239,7 +230,7 @@
         "category": "UpliftingNews",
         "link": "https://www.forbes.com/sites/traversmark/2022/07/06/psychedelics-may-be-your-ticket-to-self-actualization-says-new-research/",
         "timestamp": 1657286475,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 8, 2022 9:21 AM"
     },
     {
@@ -311,17 +302,8 @@
         "category": "news",
         "link": "https://www.nbcnews.com/nbc-out/out-community-voices/texas-trans-activist-kai-shappley-flees-state-years-advocacy-rcna37000?cid=sm_npd_nn_tw_ma",
         "timestamp": 1657290179,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 8, 2022 10:22 AM"
-    },
-    {
-        "title": "U.S. Senators in Kyiv Call on Congress to Declare Russia a “State Sponsor of Terror”",
-        "domain": "democracynow.org",
-        "category": "ukraine",
-        "link": "https://www.democracynow.org/2022/7/8/headlines/us_senators_in_kyiv_call_on_congress_to_declare_russia_a_state_sponsor_of_terror",
-        "timestamp": 1657290941,
-        "sentiment": 0,
-        "published": "July 8, 2022 10:35 AM"
     },
     {
         "title": "House Dem Urges Biden to Fire Trump-Picked IRS Chief Over 'Titanic' Audit Scandal",
@@ -356,7 +338,7 @@
         "category": "news",
         "link": "https://www.nbc15.com/2022/07/08/wisconsin-supreme-court-disallows-absentee-ballot-drop-boxes-2/",
         "timestamp": 1657292517,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 8, 2022 11:01 AM"
     },
     {
@@ -410,7 +392,7 @@
         "category": "florida",
         "link": "https://patch.com/florida/miami/activist-asks-lead-satanic-prayer-fl-high-school-football-game",
         "timestamp": 1657296890,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 8, 2022 12:14 PM"
     },
     {
@@ -428,7 +410,7 @@
         "category": "UpliftingNews",
         "link": "https://www.cnn.com/2022/07/08/health/phage-superbug-killer-life-itself-wellness/index.html",
         "timestamp": 1657297675,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 8, 2022 12:27 PM"
     },
     {
@@ -437,7 +419,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/08/us/nevada-man-jailed-misidentified-wins-settlement/index.html",
         "timestamp": 1657297867,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 8, 2022 12:31 PM"
     },
     {
@@ -446,7 +428,7 @@
         "category": "UpliftingNews",
         "link": "https://www.cam.ac.uk/stories/DarwinExhibition",
         "timestamp": 1657298014,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 8, 2022 12:33 PM"
     },
     {
@@ -491,7 +473,7 @@
         "category": "science",
         "link": "https://www.sciencedirect.com/science/article/pii/S1550413122001899",
         "timestamp": 1657301292,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "July 8, 2022 1:28 PM"
     },
     {
@@ -518,7 +500,7 @@
         "category": "science",
         "link": "https://www.science.org/doi/10.1126/science.adc9782",
         "timestamp": 1657302327,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "July 8, 2022 1:45 PM"
     },
     {
@@ -529,15 +511,6 @@
         "timestamp": 1657303333,
         "sentiment": -3,
         "published": "July 8, 2022 2:02 PM"
-    },
-    {
-        "title": "London Zoo releases first footage of rare newborn tiger cub triplets",
-        "domain": "turnto23.com",
-        "category": "UpliftingNews",
-        "link": "https://www.turnto23.com/news/world/london-zoo-releases-first-footage-of-rare-newborn-tiger-cub-triplets?_amp=true",
-        "timestamp": 1657303387,
-        "sentiment": 0,
-        "published": "July 8, 2022 2:03 PM"
     },
     {
         "title": "Activists say Amazon misled shareholders about warehouse working conditions",
@@ -563,7 +536,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/08/media/vince-mcmahon-wwe-money/index.html?utm_medium=social&utm_term=link&utm_content=2022-07-08T18%3A00%3A13&utm_source=twCNN",
         "timestamp": 1657304530,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 8, 2022 2:22 PM"
     },
     {
@@ -608,7 +581,7 @@
         "category": "science",
         "link": "https://www.sciencedirect.com/science/article/pii/S2352250X2200094X?via%3Dihub",
         "timestamp": 1657306216,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "July 8, 2022 2:50 PM"
     },
     {
@@ -617,16 +590,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/watchdog-finds-department-of-homeland-security-falls-short-in-addressing-domestic-terrorism-threat/",
         "timestamp": 1657307658,
-        "sentiment": -1,
-        "published": "July 8, 2022 3:14 PM"
-    },
-    {
-        "title": "Officer who fatally shot Tamir Rice sworn in and resigned from new law enforcement position in the same week, official says",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/07/07/us/tamir-rice-officer-resigns-law-enforcement-position/index.html",
-        "timestamp": 1657307663,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 8, 2022 3:14 PM"
     },
     {
@@ -644,7 +608,7 @@
         "category": "science",
         "link": "https://www.frontiersin.org/articles/10.3389/fnut.2021.748847/full",
         "timestamp": 1657308587,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "July 8, 2022 3:29 PM"
     },
     {
@@ -657,6 +621,15 @@
         "published": "July 8, 2022 4:02 PM"
     },
     {
+        "title": "Rumor In addition to the 4 new HIMARS, Ukraine will get ammo with a range of 300km. Awaiting confirmation",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/UkrWarReport/status/1545497333579776000",
+        "timestamp": 1657310734,
+        "sentiment": 0,
+        "published": "July 8, 2022 4:05 PM"
+    },
+    {
         "title": "There Is No Constitutional Right to Eat Dinner: Claims that Justice Brett Kavanaugh had his rights violated by protesters outside a D.C. restaurant fail on originalist grounds.",
         "domain": "newrepublic.com",
         "category": "politics",
@@ -666,22 +639,31 @@
         "published": "July 8, 2022 4:09 PM"
     },
     {
-        "title": "UW Medicine-developed Covid vaccine effective in phase 3 clinical trial",
-        "domain": "newsroom.uw.edu",
-        "category": "science",
-        "link": "https://newsroom.uw.edu/news/uw-medicine-developed-covid-vaccine-effective-test",
-        "timestamp": 1657313473,
-        "sentiment": 2,
-        "published": "July 8, 2022 4:51 PM"
-    },
-    {
         "title": "Florida begins fining drivers for playing music too loud",
         "domain": "yahoo.com",
         "category": "florida",
         "link": "https://www.yahoo.com/autos/florida-begins-fining-drivers-playing-165000761.html",
         "timestamp": 1657314299,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 8, 2022 5:04 PM"
+    },
+    {
+        "title": "Elon Musk notifies Twitter he is terminating deal",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/07/08/elon-musk-notifies-twitter-he-is-terminating-deal.html?__source=androidappshare",
+        "timestamp": 1657315436,
+        "sentiment": -2,
+        "published": "July 8, 2022 5:23 PM"
+    },
+    {
+        "title": "Elon Musk tells Twitter he wants out of his deal to buy it",
+        "domain": "edition.cnn.com",
+        "category": "worldnews",
+        "link": "https://edition.cnn.com/2022/07/08/tech/elon-musk-twitter-deal-exit/index.html",
+        "timestamp": 1657316162,
+        "sentiment": 0,
+        "published": "July 8, 2022 5:36 PM"
     },
     {
         "title": "Florida Cop Arrested For Alleged DUI In Marked Police Car",
@@ -689,8 +671,89 @@
         "category": "florida",
         "link": "https://www.yahoo.com/news/florida-cop-arrested-alleged-dui-083954563.html?guccounter=1&guce_referrer=aHR0cHM6Ly9vdXQucmVkZGl0LmNvbS8&guce_referrer_sig=AQAAADY7A-qt1bZxXcMhcw-NMKrG4XE_GUYTEjStmNobrXgON1ZG2WIAdfq9gZVIH1pI_RjRNQjVY3IwV7chvN6FwjVCsNQANy37Z8DxE04sjhYx6mFTdjV73dFlcDxUP1zlNzsPx0ODrB_ADp1GI9wg0K6ydjAVtcT-y9ou0y7Afl19",
         "timestamp": 1657316288,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 8, 2022 5:38 PM"
+    },
+    {
+        "title": "Family stunned by man’s death in ‘squeegee’ confrontation",
+        "domain": "abcnews.go.com",
+        "category": "nottheonion",
+        "link": "https://abcnews.go.com/US/wireStory/family-stunned-mans-killing-squeegee-confrontation-86486413",
+        "timestamp": 1657317571,
+        "sentiment": 0,
+        "published": "July 8, 2022 5:59 PM"
+    },
+    {
+        "title": "George R.R. Martin Says Forthcoming Novel ‘The Winds Of Winter’ Will Be “Quite Different” From HBO Storyline",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/07/george-rr-martin-winds-of-winter-quite-different-hbo-storyline-1235060696/",
+        "timestamp": 1657317954,
+        "sentiment": -3,
+        "published": "July 8, 2022 6:05 PM"
+    },
+    {
+        "title": "UN says that overexploitation, climate change, pollution, and deforestation are pushing one million species towards extinction",
+        "domain": "time.com",
+        "category": "science",
+        "link": "https://time.com/6195102/one-million-species-risk-extinction-un/",
+        "timestamp": 1657317964,
+        "sentiment": -2,
+        "published": "July 8, 2022 6:06 PM"
+    },
+    {
+        "title": "Politicians, News Networks Misidentify Hideo Kojima as Assassin",
+        "domain": "rafu.com",
+        "category": "nottheonion",
+        "link": "https://rafu.com/2022/07/politicians-news-channels-misidentify-hideo-kojima-as-shinzo-abe-assassin/",
+        "timestamp": 1657318879,
+        "sentiment": 0,
+        "published": "July 8, 2022 6:21 PM"
+    },
+    {
+        "title": "Pest controller called to 'rat infestation' finds single rubber mouse",
+        "domain": "bbc.com",
+        "category": "nottheonion",
+        "link": "https://www.bbc.com/news/uk-england-bristol-62081056",
+        "timestamp": 1657260794,
+        "sentiment": 0,
+        "published": "July 8, 2022 2:13 AM"
+    },
+    {
+        "title": "U.S. Senators in Kyiv Call on Congress to Declare Russia a “State Sponsor of Terror”",
+        "domain": "democracynow.org",
+        "category": "ukraine",
+        "link": "https://www.democracynow.org/2022/7/8/headlines/us_senators_in_kyiv_call_on_congress_to_declare_russia_a_state_sponsor_of_terror",
+        "timestamp": 1657290941,
+        "sentiment": 0,
+        "published": "July 8, 2022 10:35 AM"
+    },
+    {
+        "title": "London Zoo releases first footage of rare newborn tiger cub triplets",
+        "domain": "turnto23.com",
+        "category": "UpliftingNews",
+        "link": "https://www.turnto23.com/news/world/london-zoo-releases-first-footage-of-rare-newborn-tiger-cub-triplets?_amp=true",
+        "timestamp": 1657303387,
+        "sentiment": 0,
+        "published": "July 8, 2022 2:03 PM"
+    },
+    {
+        "title": "Officer who fatally shot Tamir Rice sworn in and resigned from new law enforcement position in the same week, official says",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/07/07/us/tamir-rice-officer-resigns-law-enforcement-position/index.html",
+        "timestamp": 1657307663,
+        "sentiment": -1,
+        "published": "July 8, 2022 3:14 PM"
+    },
+    {
+        "title": "UW Medicine-developed Covid vaccine effective in phase 3 clinical trial",
+        "domain": "newsroom.uw.edu",
+        "category": "science",
+        "link": "https://newsroom.uw.edu/news/uw-medicine-developed-covid-vaccine-effective-test",
+        "timestamp": 1657313473,
+        "sentiment": 2,
+        "published": "July 8, 2022 4:51 PM"
     },
     {
         "title": "Sacha Baron Cohen defeats Roy Moore’s $95m lawsuit over ‘pedophile detector’",
