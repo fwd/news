@@ -5,7 +5,7 @@
         "category": "science",
         "link": "https://corporate.dukehealth.org/news/social-stress-factors-drive-cancer-mechanisms-help-explain-racial-disparities",
         "timestamp": 1657254326,
-        "sentiment": -6,
+        "sentiment": -1,
         "published": "July 8, 2022 12:25 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "nottheonion",
         "link": "https://www.theguardian.com/culture/2022/jul/07/sacha-baron-cohen-defeats-roy-moore-lawsuit",
         "timestamp": 1657255953,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "July 8, 2022 12:52 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://focustaiwan.tw/politics/202207080007",
         "timestamp": 1657258110,
-        "sentiment": 3,
+        "sentiment": -1,
         "published": "July 8, 2022 1:28 AM"
     },
     {
@@ -32,26 +32,8 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/china-demands-end-to-us-taiwan-military-collusion/ar-AAZlo6C?ocid=EMMX&cvid=5b7713ba2a894ec2b8c4ae10680e5669",
         "timestamp": 1657258454,
-        "sentiment": 3,
+        "sentiment": -1,
         "published": "July 8, 2022 1:34 AM"
-    },
-    {
-        "title": "Florida man sentenced to three years of probation and a $7,000 fine in death threat to Rep. Ilhan Omar",
-        "domain": "cbsnews.com",
-        "category": "news",
-        "link": "https://www.cbsnews.com/minnesota/news/florida-man-sentenced-in-death-threat-to-rep-ilhan-omar/",
-        "timestamp": 1657258988,
-        "sentiment": -4,
-        "published": "July 8, 2022 1:43 AM"
-    },
-    {
-        "title": "Another Russian observer says that Russian forces are sustaining very serious losses from Ukrainian HIMARS, which are very accurately targeting Russian command posts.",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/RALee85/status/1545290028355567617?t=xiRpUiNCLNsH_noqCTwGYw&s=19",
-        "timestamp": 1657260991,
-        "sentiment": -4,
-        "published": "July 8, 2022 2:16 AM"
     },
     {
         "title": "10 millionth tree in Sudbury, Ont., planted with Jane Goodall pitching in",
@@ -63,21 +45,12 @@
         "published": "July 8, 2022 2:41 AM"
     },
     {
-        "title": "Microplastics detected in meat, milk and blood of farm animals, worrying scientists",
-        "domain": "theguardian.com",
-        "category": "science",
-        "link": "https://www.theguardian.com/environment/2022/jul/08/microplastics-detected-in-meat-milk-and-blood-of-farm-animals",
-        "timestamp": 1657263822,
-        "sentiment": -6,
-        "published": "July 8, 2022 3:03 AM"
-    },
-    {
         "title": "Geologists have discovered 1.2-billion-year-old groundwater about 3 km below surface in Moab Khotsong, a gold- and uranium-producing mine in South Africa. This ancient groundwater is enriched in the highest concentrations of radiogenic products yet discovered in fluid.",
         "domain": "sci-news.com",
         "category": "science",
         "link": "http://www.sci-news.com/geology/moab-khotsong-groundwater-10972.html",
         "timestamp": 1657263871,
-        "sentiment": -6,
+        "sentiment": -1,
         "published": "July 8, 2022 3:04 AM"
     },
     {
@@ -90,13 +63,13 @@
         "published": "July 8, 2022 3:11 AM"
     },
     {
-        "title": "Apple TV+ tops Hollywood Critics Association Awards as the most nominated streaming service, with “Severance” and “Ted Lasso” leading Best Drama and Best Comedy categories",
-        "domain": "apple.com",
-        "category": "television",
-        "link": "https://www.apple.com/tv-pr/news/2022/07/apple-tv-tops-hollywood-critics-association-awards-as-the-most-nominated-streaming-service-with-severance-and-ted-lasso-leading-best-drama-and-best-comedy-categories/",
-        "timestamp": 1657266217,
-        "sentiment": 12,
-        "published": "July 8, 2022 3:43 AM"
+        "title": "Microplastics detected in meat, milk and blood of farm animals",
+        "domain": "theguardian.com",
+        "category": "news",
+        "link": "https://www.theguardian.com/environment/2022/jul/08/microplastics-detected-in-meat-milk-and-blood-of-farm-animals",
+        "timestamp": 1657266152,
+        "sentiment": 0,
+        "published": "July 8, 2022 3:42 AM"
     },
     {
         "title": "25 Republican State Senators In Ohio Were Sent Feces In The Mail",
@@ -104,17 +77,17 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/ohio-gop-state-senators-feces-packages_n_62c76545e4b0d7401981498b",
         "timestamp": 1657266865,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 8, 2022 3:54 AM"
     },
     {
-        "title": "US Democracy May Have 2 Years to Live, Depending on Upcoming Gerrymander Ruling",
-        "domain": "truthout.org",
-        "category": "politics",
-        "link": "https://truthout.org/articles/us-democracy-may-have-2-years-to-live-depending-on-upcoming-gerrymander-ruling/",
-        "timestamp": 1657269594,
-        "sentiment": 0,
-        "published": "July 8, 2022 4:39 AM"
+        "title": "Putin claims Russia has barely started campaign in Ukraine, dares west to fight on battlefield | Russia",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jul/08/putin-claims-russia-has-barely-started-campaign-in-ukraine-dares-west-to-fight-on-battlefield",
+        "timestamp": 1657266968,
+        "sentiment": -1,
+        "published": "July 8, 2022 3:56 AM"
     },
     {
         "title": "Germany's parliament votes in favor of NATO accession for Sweden and Finland",
@@ -122,7 +95,7 @@
         "category": "worldnews",
         "link": "https://dw.com/en/germany-approves-finland-and-sweden-nato-membership-bid/a-62403489",
         "timestamp": 1657269633,
-        "sentiment": 3,
+        "sentiment": -1,
         "published": "July 8, 2022 4:40 AM"
     },
     {
@@ -140,7 +113,7 @@
         "category": "nottheonion",
         "link": "https://www.sbs.com.au/news/article/protesters-blasted-the-benny-hill-theme-as-boris-johnson-resigned-why-was-hugh-grant-involved/nk87rb4h2",
         "timestamp": 1657269869,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "July 8, 2022 4:44 AM"
     },
     {
@@ -149,7 +122,7 @@
         "category": "sports",
         "link": "https://news.sky.com/story/sepp-blatter-and-michel-platini-acquitted-of-corruption-by-swiss-court-12647951",
         "timestamp": 1657269878,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 8, 2022 4:44 AM"
     },
     {
@@ -158,7 +131,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/shinzo-abe-former-japanese-prime-minister-dies-after-being-shot-while-giving-speech-state-broadcaster-says-12648011",
         "timestamp": 1657270303,
-        "sentiment": 3,
+        "sentiment": -1,
         "published": "July 8, 2022 4:51 AM"
     },
     {
@@ -176,7 +149,7 @@
         "category": "science",
         "link": "https://blogs.ifas.ufl.edu/news/2022/07/06/gardening-can-cultivate-better-mental-health/",
         "timestamp": 1657273321,
-        "sentiment": -6,
+        "sentiment": -1,
         "published": "July 8, 2022 5:42 AM"
     },
     {
@@ -185,7 +158,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/fbi-gun-background-checks-delayed-rcna36391",
         "timestamp": 1657273622,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 8, 2022 5:47 AM"
     },
     {
@@ -203,16 +176,7 @@
         "category": "worldnews",
         "link": "https://www.hindustantimes.com/india-news/india-announces-day-of-mourning-for-shinzo-abe-101657274058494.html",
         "timestamp": 1657274297,
-        "sentiment": 3,
-        "published": "July 8, 2022 5:58 AM"
-    },
-    {
-        "title": "Zambian Barbra Banda ruled out over 'gender eligibility' issues",
-        "domain": "bbc.com",
-        "category": "sports",
-        "link": "https://www.bbc.com/sport/africa/62057259",
-        "timestamp": 1657274329,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 8, 2022 5:58 AM"
     },
     {
@@ -221,17 +185,8 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/campaign/3549453-gavin-newsom-punches-gop-to-democratic-applause/",
         "timestamp": 1657275388,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 8, 2022 6:16 AM"
-    },
-    {
-        "title": "Chip off the ol’ trailer: Container storing 40,000 pounds of potato chips catches fire in Ocala",
-        "domain": "clickorlando.com",
-        "category": "florida",
-        "link": "https://www.clickorlando.com/news/local/2022/07/07/chip-off-the-ol-trailer-container-storing-40000-pounds-of-potato-chips-catches-fire-in-ocala/",
-        "timestamp": 1657275983,
-        "sentiment": -2,
-        "published": "July 8, 2022 6:26 AM"
     },
     {
         "title": "Record-setting quantum entanglement connects two atoms across 20 miles",
@@ -239,7 +194,7 @@
         "category": "science",
         "link": "https://newatlas.com/telecommunications/quantum-entanglement-atoms-distance-record/",
         "timestamp": 1657276864,
-        "sentiment": -6,
+        "sentiment": -1,
         "published": "July 8, 2022 6:41 AM"
     },
     {
@@ -248,7 +203,7 @@
         "category": "ukraine",
         "link": "https://ukrainetoday.org/2022/07/08/another-stab-in-the-back-of-the-russian-federation-kazakhstan-withdraws-from-the-cis-agreement-on-the-currency-committee/",
         "timestamp": 1657276944,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 8, 2022 6:42 AM"
     },
     {
@@ -257,7 +212,7 @@
         "category": "nottheonion",
         "link": "https://news.sky.com/story/quentin-tarantino-reveals-he-watches-peppa-pig-a-lot-12648049",
         "timestamp": 1657277389,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "July 8, 2022 6:49 AM"
     },
     {
@@ -266,7 +221,7 @@
         "category": "worldnews",
         "link": "https://english.kyodonews.net/news/2022/07/5ba00e971fc4-g-20-begins-talks-on-food-energy-issues-with-us-russia-row-expected.html",
         "timestamp": 1657279618,
-        "sentiment": 3,
+        "sentiment": -1,
         "published": "July 8, 2022 7:26 AM"
     },
     {
@@ -275,7 +230,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/administration/3549678-biden-to-announce-executive-action-to-protect-abortion-access/",
         "timestamp": 1657280920,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 8, 2022 7:48 AM"
     },
     {
@@ -284,7 +239,7 @@
         "category": "politics",
         "link": "https://www.bostonglobe.com/2022/07/08/opinion/georgia-das-trump-investigation-is-making-history/",
         "timestamp": 1657280938,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 8, 2022 7:48 AM"
     },
     {
@@ -293,17 +248,8 @@
         "category": "sports",
         "link": "https://www.npr.org/2022/07/08/1110427911/las-vegas-raiders-president-sandra-douglass-morgan-first-black-woman-nfl",
         "timestamp": 1657281000,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 8, 2022 7:50 AM"
-    },
-    {
-        "title": "The once-lost mythical burial site of Viking king Harald \"Bluetooth\" Gormsson, ruler of Denmark and Norway, has been found in Poland, after ten centuries.",
-        "domain": "warhistoryonline.com",
-        "category": "worldnews",
-        "link": "https://www.warhistoryonline.com/news/harald-bluetooth-gormsson-burial-site.html",
-        "timestamp": 1657281205,
-        "sentiment": 3,
-        "published": "July 8, 2022 7:53 AM"
     },
     {
         "title": "Multiple Russian soldiers detained for refusing to fight in Putin's war",
@@ -311,7 +257,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/multiple-russian-soldiers-detained-refusing-fight-putins-war-1722915",
         "timestamp": 1657281366,
-        "sentiment": 3,
+        "sentiment": -1,
         "published": "July 8, 2022 7:56 AM"
     },
     {
@@ -320,7 +266,7 @@
         "category": "television",
         "link": "https://www.pastemagazine.com/tv/apple-tv-plus/blackbird-review/",
         "timestamp": 1657282122,
-        "sentiment": 12,
+        "sentiment": 3,
         "published": "July 8, 2022 8:08 AM"
     },
     {
@@ -329,7 +275,7 @@
         "category": "science",
         "link": "https://www.psypost.org/2022/07/curiosity-is-linked-to-crystallized-intelligence-but-not-fluid-intelligence-study-finds-63472",
         "timestamp": 1657282806,
-        "sentiment": -6,
+        "sentiment": -1,
         "published": "July 8, 2022 8:20 AM"
     },
     {
@@ -338,7 +284,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/tech/tech-news/gun-applicants-new-york-will-hand-social-accounts-rcna37251",
         "timestamp": 1657283404,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 8, 2022 8:30 AM"
     },
     {
@@ -347,7 +293,7 @@
         "category": "nottheonion",
         "link": "https://www.cnbc.com/2022/07/07/dallas-cowboys-criticized-for-partnership-with-gun-themed-coffee-company-.html",
         "timestamp": 1657283968,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "July 8, 2022 8:39 AM"
     },
     {
@@ -356,7 +302,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/missing-man-fell-shredder-south-carolina-recycling-plant-coroner-finds-rcna37240",
         "timestamp": 1657284889,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 8, 2022 8:54 AM"
     },
     {
@@ -392,7 +338,7 @@
         "category": "television",
         "link": "https://www.radiotimes.com/tv/drama/gregory-itzin-dead-24-newsupdate/",
         "timestamp": 1657286369,
-        "sentiment": 12,
+        "sentiment": 3,
         "published": "July 8, 2022 9:19 AM"
     },
     {
@@ -410,7 +356,7 @@
         "category": "florida",
         "link": "https://orlando-politics.com/2022/07/08/new-poll-florida-governor-democratic-primary-tied-crist-39-fried-39/",
         "timestamp": 1657286505,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 8, 2022 9:21 AM"
     },
     {
@@ -419,17 +365,8 @@
         "category": "politics",
         "link": "https://www.ktbs.com/news/national/fed-report-finds-75-of-800-billion-paycheck-protection-program-didnt-reach-employees/article_5a08fbfe-65ed-5f5d-b86c-959297fe09b4.html",
         "timestamp": 1657286556,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 8, 2022 9:22 AM"
-    },
-    {
-        "title": "Plastics found in 80% of meat and dairy samples in the Netherlands, could be caused by feeding livestock whole packaging including the plastic.",
-        "domain": "nltimes.nl",
-        "category": "science",
-        "link": "https://nltimes.nl/2022/07/08/microplastics-milk-meat-dutch-cows-pigs-amsterdam-researchers",
-        "timestamp": 1657287047,
-        "sentiment": -6,
-        "published": "July 8, 2022 9:30 AM"
     },
     {
         "title": "The Supreme Court is now run by extremists who are endangering US democracy. We need to recognise there is a carefully laid plan to turn the US into a repressive regime, particularly targeting women",
@@ -437,8 +374,26 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/voices/george-soros-democracy-supreme-court-abortion-b2116943.html",
         "timestamp": 1657287284,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 8, 2022 9:34 AM"
+    },
+    {
+        "title": "Trump 'up to his eyeballs in criminality' ahead of W.H. counsel’s Jan. 6 testimony",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/the-beat-with-ari/watch/trump-up-to-his-eyeballs-in-criminality-ahead-of-w-h-counsel-s-jan-6-testimony-143620677920",
+        "timestamp": 1657287880,
+        "sentiment": -1,
+        "published": "July 8, 2022 9:44 AM"
+    },
+    {
+        "title": "Too many Americans want a dictatorship, not democracy. That fails our national motto",
+        "domain": "fresnobee.com",
+        "category": "politics",
+        "link": "https://www.fresnobee.com/opinion/readers-opinion/article263183583.html",
+        "timestamp": 1657288597,
+        "sentiment": -1,
+        "published": "July 8, 2022 9:56 AM"
     },
     {
         "title": "Morton’s condemns abortion rights protesters for disrupting Kavanaugh’s freedom to ‘eat dinner’",
@@ -446,8 +401,17 @@
         "category": "politics",
         "link": "https://thehill.com/regulation/court-battles/3549907-mortons-condemns-abortion-rights-protestors-for-disrupting-kavanaughs-freedom-to-eat-dinner/",
         "timestamp": 1657288663,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 8, 2022 9:57 AM"
+    },
+    {
+        "title": "Plastics found in 80% of meat and dairy samples in the Netherlands, could be caused by feeding livestock whole packaging including the plastic.",
+        "domain": "nltimes.nl",
+        "category": "nottheonion",
+        "link": "https://nltimes.nl/2022/07/08/microplastics-milk-meat-dutch-cows-pigs-amsterdam-researchers",
+        "timestamp": 1657288932,
+        "sentiment": -3,
+        "published": "July 8, 2022 10:02 AM"
     },
     {
         "title": "Lenny Von Dohlen, best known as the reclusive Harold from Twin Peaks, has passed away at age 63",
@@ -455,7 +419,7 @@
         "category": "television",
         "link": "https://film.org.pl/news/nie-zyje-lenny-von-dohlen-znany-z-miasteczka-twin-peaks",
         "timestamp": 1657288986,
-        "sentiment": 12,
+        "sentiment": 3,
         "published": "July 8, 2022 10:03 AM"
     },
     {
@@ -464,8 +428,62 @@
         "category": "news",
         "link": "https://www.nbcnews.com/nbc-out/out-community-voices/texas-trans-activist-kai-shappley-flees-state-years-advocacy-rcna37000?cid=sm_npd_nn_tw_ma",
         "timestamp": 1657290179,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 8, 2022 10:22 AM"
+    },
+    {
+        "title": "⚡️Ex-NATO commander: Ukraine could deal devastating blow to Kremlin by attacking Kerch Strait bridge linking mainland Russia with Crimea. Former NATO Commander General Philip Breedlove said Ukraine could carry out the attack with newly supplied Harpoon missiles.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/KyivIndependent/status/1545402499447783425?t=OEH-7ftJb7Msl-Le8UMI8A&s=09",
+        "timestamp": 1657290560,
+        "sentiment": 0,
+        "published": "July 8, 2022 10:29 AM"
+    },
+    {
+        "title": "U.S. Senators in Kyiv Call on Congress to Declare Russia a “State Sponsor of Terror”",
+        "domain": "democracynow.org",
+        "category": "ukraine",
+        "link": "https://www.democracynow.org/2022/7/8/headlines/us_senators_in_kyiv_call_on_congress_to_declare_russia_a_state_sponsor_of_terror",
+        "timestamp": 1657290941,
+        "sentiment": 0,
+        "published": "July 8, 2022 10:35 AM"
+    },
+    {
+        "title": "House Dem Urges Biden to Fire Trump-Picked IRS Chief Over 'Titanic' Audit Scandal",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/07/08/house-dem-urges-biden-fire-trump-picked-irs-chief-over-titanic-audit-scandal",
+        "timestamp": 1657291122,
+        "sentiment": -1,
+        "published": "July 8, 2022 10:38 AM"
+    },
+    {
+        "title": "Bomb Russia’s bridge to Crimea, Ukraine urged",
+        "domain": "thetimes.co.uk",
+        "category": "ukraine",
+        "link": "https://www.thetimes.co.uk/article/cut-off-russias-link-to-crimea-says-ex-nato-commander-qh93slq0k",
+        "timestamp": 1657292243,
+        "sentiment": 0,
+        "published": "July 8, 2022 10:57 AM"
+    },
+    {
+        "title": "Russian politician jailed for seven years for denouncing war against Ukraine",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-europe-62092196",
+        "timestamp": 1657292343,
+        "sentiment": -1,
+        "published": "July 8, 2022 10:59 AM"
+    },
+    {
+        "title": "Wisconsin Supreme Court disallows absentee ballot drop boxes",
+        "domain": "nbc15.com",
+        "category": "news",
+        "link": "https://www.nbc15.com/2022/07/08/wisconsin-supreme-court-disallows-absentee-ballot-drop-boxes-2/",
+        "timestamp": 1657292517,
+        "sentiment": 0,
+        "published": "July 8, 2022 11:01 AM"
     },
     {
         "title": "FCC orders carriers to stop delivering auto warranty robocalls",
@@ -475,6 +493,114 @@
         "timestamp": 1657293039,
         "sentiment": 0,
         "published": "July 8, 2022 11:10 AM"
+    },
+    {
+        "title": "Report: Former WWE CEO Vince McMahon paid more than $12 million to 4 women to suppress sexual misconduct allegations",
+        "domain": "au.sports.yahoo.com",
+        "category": "television",
+        "link": "https://au.sports.yahoo.com/report-former-wwe-ceo-vince-mc-mahon-paid-more-than-12-million-to-4-women-to-suppress-sexual-misconduct-allegations-145006590.html",
+        "timestamp": 1657293871,
+        "sentiment": 3,
+        "published": "July 8, 2022 11:24 AM"
+    },
+    {
+        "title": "Larry Storch Dead at 99, Starred as Corporal Randolph Agarn in ‘F Troop’",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/2022/07/08/larry-storch-dead-obituary-f-troop-corporal-agarn/",
+        "timestamp": 1657294095,
+        "sentiment": 3,
+        "published": "July 8, 2022 11:28 AM"
+    },
+    {
+        "title": "Shinzo Abe Assassin Misidentified as Hideo Kojima by Politicians and Media",
+        "domain": "playstationlifestyle.net",
+        "category": "nottheonion",
+        "link": "https://www.playstationlifestyle.net/2022/07/08/shinzo-abe-assassin-hideo-kojima-confusion/",
+        "timestamp": 1657294438,
+        "sentiment": -3,
+        "published": "July 8, 2022 11:33 AM"
+    },
+    {
+        "title": "Activist Asks To Lead Satanic Prayer At FL High School Football Game",
+        "domain": "patch.com",
+        "category": "florida",
+        "link": "https://patch.com/florida/miami/activist-asks-lead-satanic-prayer-fl-high-school-football-game",
+        "timestamp": 1657296890,
+        "sentiment": -1,
+        "published": "July 8, 2022 12:14 PM"
+    },
+    {
+        "title": "Florida man sentenced to three years of probation and a $7,000 fine in death threat to Rep. Ilhan Omar",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/minnesota/news/florida-man-sentenced-in-death-threat-to-rep-ilhan-omar/",
+        "timestamp": 1657258988,
+        "sentiment": -4,
+        "published": "July 8, 2022 1:43 AM"
+    },
+    {
+        "title": "Another Russian observer says that Russian forces are sustaining very serious losses from Ukrainian HIMARS, which are very accurately targeting Russian command posts.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/RALee85/status/1545290028355567617?t=xiRpUiNCLNsH_noqCTwGYw&s=19",
+        "timestamp": 1657260991,
+        "sentiment": -4,
+        "published": "July 8, 2022 2:16 AM"
+    },
+    {
+        "title": "Microplastics detected in meat, milk and blood of farm animals, worrying scientists",
+        "domain": "theguardian.com",
+        "category": "science",
+        "link": "https://www.theguardian.com/environment/2022/jul/08/microplastics-detected-in-meat-milk-and-blood-of-farm-animals",
+        "timestamp": 1657263822,
+        "sentiment": -6,
+        "published": "July 8, 2022 3:03 AM"
+    },
+    {
+        "title": "Apple TV+ tops Hollywood Critics Association Awards as the most nominated streaming service, with “Severance” and “Ted Lasso” leading Best Drama and Best Comedy categories",
+        "domain": "apple.com",
+        "category": "television",
+        "link": "https://www.apple.com/tv-pr/news/2022/07/apple-tv-tops-hollywood-critics-association-awards-as-the-most-nominated-streaming-service-with-severance-and-ted-lasso-leading-best-drama-and-best-comedy-categories/",
+        "timestamp": 1657266217,
+        "sentiment": 12,
+        "published": "July 8, 2022 3:43 AM"
+    },
+    {
+        "title": "US Democracy May Have 2 Years to Live, Depending on Upcoming Gerrymander Ruling",
+        "domain": "truthout.org",
+        "category": "politics",
+        "link": "https://truthout.org/articles/us-democracy-may-have-2-years-to-live-depending-on-upcoming-gerrymander-ruling/",
+        "timestamp": 1657269594,
+        "sentiment": 0,
+        "published": "July 8, 2022 4:39 AM"
+    },
+    {
+        "title": "Zambian Barbra Banda ruled out over 'gender eligibility' issues",
+        "domain": "bbc.com",
+        "category": "sports",
+        "link": "https://www.bbc.com/sport/africa/62057259",
+        "timestamp": 1657274329,
+        "sentiment": 0,
+        "published": "July 8, 2022 5:58 AM"
+    },
+    {
+        "title": "Chip off the ol’ trailer: Container storing 40,000 pounds of potato chips catches fire in Ocala",
+        "domain": "clickorlando.com",
+        "category": "florida",
+        "link": "https://www.clickorlando.com/news/local/2022/07/07/chip-off-the-ol-trailer-container-storing-40000-pounds-of-potato-chips-catches-fire-in-ocala/",
+        "timestamp": 1657275983,
+        "sentiment": -2,
+        "published": "July 8, 2022 6:26 AM"
+    },
+    {
+        "title": "The once-lost mythical burial site of Viking king Harald \"Bluetooth\" Gormsson, ruler of Denmark and Norway, has been found in Poland, after ten centuries.",
+        "domain": "warhistoryonline.com",
+        "category": "worldnews",
+        "link": "https://www.warhistoryonline.com/news/harald-bluetooth-gormsson-burial-site.html",
+        "timestamp": 1657281205,
+        "sentiment": 3,
+        "published": "July 8, 2022 7:53 AM"
     },
     {
         "title": "Blinken to Russian delegation: Ukraine is not your country, and its grain is not your grain",
@@ -547,15 +673,6 @@
         "timestamp": 1657257498,
         "sentiment": 1,
         "published": "July 8, 2022 1:18 AM"
-    },
-    {
-        "title": "Putin claims Russia has barely started campaign in Ukraine, dares west to fight on battlefield | Russia",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/jul/08/putin-claims-russia-has-barely-started-campaign-in-ukraine-dares-west-to-fight-on-battlefield",
-        "timestamp": 1657266968,
-        "sentiment": -1,
-        "published": "July 8, 2022 3:56 AM"
     },
     {
         "title": "Netflix introduces spatial audio for Stranger Things and other originals",
