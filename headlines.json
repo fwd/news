@@ -5,7 +5,7 @@
         "category": "science",
         "link": "https://corporate.dukehealth.org/news/social-stress-factors-drive-cancer-mechanisms-help-explain-racial-disparities",
         "timestamp": 1657254326,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "July 8, 2022 12:25 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "science",
         "link": "http://www.sci-news.com/geology/moab-khotsong-groundwater-10972.html",
         "timestamp": 1657263871,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "July 8, 2022 3:04 AM"
     },
     {
@@ -45,21 +45,12 @@
         "published": "July 8, 2022 4:51 AM"
     },
     {
-        "title": "The FBI didn’t finish over 1 million gun background checks in time to stop a sale in 2020 and 2021",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/news/us-news/fbi-gun-background-checks-delayed-rcna36391",
-        "timestamp": 1657273622,
-        "sentiment": -2,
-        "published": "July 8, 2022 5:47 AM"
-    },
-    {
         "title": "TikTok sued in US after girls die in 'Blackout Challenge'",
         "domain": "techxplore.com",
         "category": "technology",
         "link": "https://techxplore.com/news/2022-07-tiktok-sued-girls-die-blackout.html",
         "timestamp": 1657273650,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 8, 2022 5:47 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "science",
         "link": "https://newatlas.com/telecommunications/quantum-entanglement-atoms-distance-record/",
         "timestamp": 1657276864,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "July 8, 2022 6:41 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "nottheonion",
         "link": "https://news.sky.com/story/quentin-tarantino-reveals-he-watches-peppa-pig-a-lot-12648049",
         "timestamp": 1657277389,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 8, 2022 6:49 AM"
     },
     {
@@ -162,21 +153,12 @@
         "published": "July 8, 2022 8:08 AM"
     },
     {
-        "title": "Curiosity is linked to crystallized intelligence but not fluid intelligence, study finds",
-        "domain": "psypost.org",
-        "category": "science",
-        "link": "https://www.psypost.org/2022/07/curiosity-is-linked-to-crystallized-intelligence-but-not-fluid-intelligence-study-finds-63472",
-        "timestamp": 1657282806,
-        "sentiment": -2,
-        "published": "July 8, 2022 8:20 AM"
-    },
-    {
         "title": "Gun applicants in New York will have to hand over social accounts",
         "domain": "nbcnews.com",
         "category": "news",
         "link": "https://www.nbcnews.com/tech/tech-news/gun-applicants-new-york-will-hand-social-accounts-rcna37251",
         "timestamp": 1657283404,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 8, 2022 8:30 AM"
     },
     {
@@ -185,7 +167,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/missing-man-fell-shredder-south-carolina-recycling-plant-coroner-finds-rcna37240",
         "timestamp": 1657284889,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 8, 2022 8:54 AM"
     },
     {
@@ -212,7 +194,7 @@
         "category": "technology",
         "link": "https://www.vice.com/en/article/g5vb44/amazon-workers-who-commute-across-the-us-mexico-border-every-day-are-organizing-for-better-working-conditions",
         "timestamp": 1657285855,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 8, 2022 9:10 AM"
     },
     {
@@ -243,15 +225,6 @@
         "published": "July 8, 2022 9:22 AM"
     },
     {
-        "title": "Unsustainable logging, fishing and hunting 'driving extinction'",
-        "domain": "bbc.com",
-        "category": "worldnews",
-        "link": "https://www.bbc.com/news/science-environment-62094405",
-        "timestamp": 1657286838,
-        "sentiment": 0,
-        "published": "July 8, 2022 9:27 AM"
-    },
-    {
         "title": "The Supreme Court is now run by extremists who are endangering US democracy. We need to recognise there is a carefully laid plan to turn the US into a repressive regime, particularly targeting women",
         "domain": "independent.co.uk",
         "category": "politics",
@@ -259,15 +232,6 @@
         "timestamp": 1657287284,
         "sentiment": 0,
         "published": "July 8, 2022 9:34 AM"
-    },
-    {
-        "title": "Trump 'up to his eyeballs in criminality' ahead of W.H. counsel’s Jan. 6 testimony",
-        "domain": "msnbc.com",
-        "category": "politics",
-        "link": "https://www.msnbc.com/the-beat-with-ari/watch/trump-up-to-his-eyeballs-in-criminality-ahead-of-w-h-counsel-s-jan-6-testimony-143620677920",
-        "timestamp": 1657287880,
-        "sentiment": 0,
-        "published": "July 8, 2022 9:44 AM"
     },
     {
         "title": "Morton’s condemns abortion rights protesters for disrupting Kavanaugh’s freedom to ‘eat dinner’",
@@ -302,7 +266,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/nbc-out/out-community-voices/texas-trans-activist-kai-shappley-flees-state-years-advocacy-rcna37000?cid=sm_npd_nn_tw_ma",
         "timestamp": 1657290179,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 8, 2022 10:22 AM"
     },
     {
@@ -338,7 +302,7 @@
         "category": "news",
         "link": "https://www.nbc15.com/2022/07/08/wisconsin-supreme-court-disallows-absentee-ballot-drop-boxes-2/",
         "timestamp": 1657292517,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 8, 2022 11:01 AM"
     },
     {
@@ -347,7 +311,7 @@
         "category": "technology",
         "link": "https://www.upi.com/Top_News/US/2022/07/07/FCC-orders-carriers-stop-delivering-auto-warranty-robocalls/6041657245371/",
         "timestamp": 1657293039,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 8, 2022 11:10 AM"
     },
     {
@@ -367,24 +331,6 @@
         "timestamp": 1657294095,
         "sentiment": -3,
         "published": "July 8, 2022 11:28 AM"
-    },
-    {
-        "title": "‘Doomsday’ Submarine Armed With Nuclear Torpedoes Delivers to Russian Navy",
-        "domain": "news.usni.org",
-        "category": "worldnews",
-        "link": "https://news.usni.org/2022/07/08/doomsday-submarine-armed-with-nuclear-torpedoes-delivers-to-russian-navy",
-        "timestamp": 1657295654,
-        "sentiment": 0,
-        "published": "July 8, 2022 11:54 AM"
-    },
-    {
-        "title": "Pringles wants a spider named after it",
-        "domain": "cnn.com",
-        "category": "nottheonion",
-        "link": "https://www.cnn.com/2022/07/07/business/pringles-spider/index.html",
-        "timestamp": 1657296733,
-        "sentiment": 0,
-        "published": "July 8, 2022 12:12 PM"
     },
     {
         "title": "Activist Asks To Lead Satanic Prayer At FL High School Football Game",
@@ -419,7 +365,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/08/us/nevada-man-jailed-misidentified-wins-settlement/index.html",
         "timestamp": 1657297867,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 8, 2022 12:31 PM"
     },
     {
@@ -430,15 +376,6 @@
         "timestamp": 1657298014,
         "sentiment": -3,
         "published": "July 8, 2022 12:33 PM"
-    },
-    {
-        "title": "Shocking study reveals most government websites serve tracking cookies without consent",
-        "domain": "hothardware.com",
-        "category": "technology",
-        "link": "https://hothardware.com/news/study-reveals-government-websites-serve-tracking-cookies-without-consent",
-        "timestamp": 1657298477,
-        "sentiment": 0,
-        "published": "July 8, 2022 12:41 PM"
     },
     {
         "title": "Brightline's Aventura Station set to open this Fall (Downtown to Aventura in 15 minutes)",
@@ -455,7 +392,7 @@
         "category": "technology",
         "link": "https://www.engadget.com/new-york-concealed-carry-permit-social-media-accounts-154624629.html",
         "timestamp": 1657300299,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 8, 2022 1:11 PM"
     },
     {
@@ -464,7 +401,7 @@
         "category": "technology",
         "link": "https://www.caranddriver.com/news/a40543385/north-carolina-wants-remove-free-public-ev-chargers/",
         "timestamp": 1657300368,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 8, 2022 1:12 PM"
     },
     {
@@ -473,7 +410,7 @@
         "category": "science",
         "link": "https://www.sciencedirect.com/science/article/pii/S1550413122001899",
         "timestamp": 1657301292,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "July 8, 2022 1:28 PM"
     },
     {
@@ -500,7 +437,7 @@
         "category": "science",
         "link": "https://www.science.org/doi/10.1126/science.adc9782",
         "timestamp": 1657302327,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "July 8, 2022 1:45 PM"
     },
     {
@@ -518,7 +455,7 @@
         "category": "technology",
         "link": "https://techxplore.com/news/2022-07-activists-amazon-misled-shareholders-warehouse.html",
         "timestamp": 1657304242,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 8, 2022 2:17 PM"
     },
     {
@@ -536,7 +473,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/08/media/vince-mcmahon-wwe-money/index.html?utm_medium=social&utm_term=link&utm_content=2022-07-08T18%3A00%3A13&utm_source=twCNN",
         "timestamp": 1657304530,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 8, 2022 2:22 PM"
     },
     {
@@ -563,7 +500,7 @@
         "category": "nottheonion",
         "link": "https://www.ansa.it/english/news/general_news/2022/07/08/man-acquitted-of-rape-because-tempted-to-dare-by-open-door_92c53126-1c7f-4862-99e0-7426c80a786e.html",
         "timestamp": 1657305565,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 8, 2022 2:39 PM"
     },
     {
@@ -581,7 +518,7 @@
         "category": "science",
         "link": "https://www.sciencedirect.com/science/article/pii/S2352250X2200094X?via%3Dihub",
         "timestamp": 1657306216,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "July 8, 2022 2:50 PM"
     },
     {
@@ -590,7 +527,16 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/watchdog-finds-department-of-homeland-security-falls-short-in-addressing-domestic-terrorism-threat/",
         "timestamp": 1657307658,
-        "sentiment": -2,
+        "sentiment": -1,
+        "published": "July 8, 2022 3:14 PM"
+    },
+    {
+        "title": "Officer who fatally shot Tamir Rice sworn in and resigned from new law enforcement position in the same week, official says",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/07/07/us/tamir-rice-officer-resigns-law-enforcement-position/index.html",
+        "timestamp": 1657307663,
+        "sentiment": -1,
         "published": "July 8, 2022 3:14 PM"
     },
     {
@@ -599,7 +545,7 @@
         "category": "technology",
         "link": "https://www.npr.org/2022/07/08/1110539504/twitter-elon-musk-deal-jeopardy",
         "timestamp": 1657308476,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 8, 2022 3:27 PM"
     },
     {
@@ -608,7 +554,7 @@
         "category": "science",
         "link": "https://www.frontiersin.org/articles/10.3389/fnut.2021.748847/full",
         "timestamp": 1657308587,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "July 8, 2022 3:29 PM"
     },
     {
@@ -639,6 +585,15 @@
         "published": "July 8, 2022 4:09 PM"
     },
     {
+        "title": "WarMonitor🇺🇦 says 18 MLRS units are on the front. The battle may be shifting, as western weapons increasingly swing this battle in Ukraine's favor. Crucial weeks ahead.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/warmonitor3/status/1545484588457365510?s=21&t=COOYOinlBWXVd4yBX2K3vw",
+        "timestamp": 1657311057,
+        "sentiment": 0,
+        "published": "July 8, 2022 4:10 PM"
+    },
+    {
         "title": "Florida begins fining drivers for playing music too loud",
         "domain": "yahoo.com",
         "category": "florida",
@@ -653,7 +608,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/07/08/elon-musk-notifies-twitter-he-is-terminating-deal.html?__source=androidappshare",
         "timestamp": 1657315436,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 8, 2022 5:23 PM"
     },
     {
@@ -675,13 +630,49 @@
         "published": "July 8, 2022 5:38 PM"
     },
     {
+        "title": "A horse farm in New York City? This one provides therapy to veterans and people with disabilities",
+        "domain": "cbsnews.com",
+        "category": "UpliftingNews",
+        "link": "https://www.cbsnews.com/news/horse-farm-equine-therapy-new-york-city-gallopnyc-veterans-people-with-disabilities/",
+        "timestamp": 1657316875,
+        "sentiment": -3,
+        "published": "July 8, 2022 5:47 PM"
+    },
+    {
+        "title": "Universal influenza B vaccine induces broad, sustained protection, biomedical sciences researchers find",
+        "domain": "eurekalert.org",
+        "category": "science",
+        "link": "https://www.eurekalert.org/news-releases/958372",
+        "timestamp": 1657317354,
+        "sentiment": -6,
+        "published": "July 8, 2022 5:55 PM"
+    },
+    {
         "title": "Family stunned by man’s death in ‘squeegee’ confrontation",
         "domain": "abcnews.go.com",
         "category": "nottheonion",
         "link": "https://abcnews.go.com/US/wireStory/family-stunned-mans-killing-squeegee-confrontation-86486413",
         "timestamp": 1657317571,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 8, 2022 5:59 PM"
+    },
+    {
+        "title": "Elon Musk has terminated the $44 billion deal to acquire Twitter. Per the terms of the deal, termination will cost him $1 billion.",
+        "domain": "sec.gov",
+        "category": "worldnews",
+        "link": "https://www.sec.gov/Archives/edgar/data/1418091/000110465922078413/tm2220599d1_ex99-p.htm",
+        "timestamp": 1657317816,
+        "sentiment": 0,
+        "published": "July 8, 2022 6:03 PM"
+    },
+    {
+        "title": "Pregnant woman says her fetus should count as a passenger in HOV lanes. She got a ticket",
+        "domain": "dallasnews.com",
+        "category": "politics",
+        "link": "https://www.dallasnews.com/news/watchdog/2022/07/08/pregnant-woman-says-her-fetus-should-count-as-a-passenger-in-hov-lanes-she-got-a-ticket/",
+        "timestamp": 1657317898,
+        "sentiment": 0,
+        "published": "July 8, 2022 6:04 PM"
     },
     {
         "title": "George R.R. Martin Says Forthcoming Novel ‘The Winds Of Winter’ Will Be “Quite Different” From HBO Storyline",
@@ -698,8 +689,17 @@
         "category": "science",
         "link": "https://time.com/6195102/one-million-species-risk-extinction-un/",
         "timestamp": 1657317964,
-        "sentiment": -2,
+        "sentiment": -6,
         "published": "July 8, 2022 6:06 PM"
+    },
+    {
+        "title": "Twitter Chairman Says Company Plans Legal Action After Elon Musk Says He’s Terminating Merger Agreement",
+        "domain": "deadline.com",
+        "category": "technology",
+        "link": "https://deadline.com/2022/07/elon-musk-terminates-twitter-merger-1235060724/",
+        "timestamp": 1657318148,
+        "sentiment": 2,
+        "published": "July 8, 2022 6:09 PM"
     },
     {
         "title": "Politicians, News Networks Misidentify Hideo Kojima as Assassin",
@@ -707,8 +707,107 @@
         "category": "nottheonion",
         "link": "https://rafu.com/2022/07/politicians-news-channels-misidentify-hideo-kojima-as-shinzo-abe-assassin/",
         "timestamp": 1657318879,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 8, 2022 6:21 PM"
+    },
+    {
+        "title": "Twitter will take Elon Musk to court to force him to buy it for $44 billion",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/twitter-to-take-elon-musk-court-fight-close-deal-2022-7",
+        "timestamp": 1657319860,
+        "sentiment": 0,
+        "published": "July 8, 2022 6:37 PM"
+    },
+    {
+        "title": "Pregnant Texas woman driving in HOV lane told police her unborn child counted as a passenger",
+        "domain": "chron.com",
+        "category": "nottheonion",
+        "link": "https://www.chron.com/news/houston-texas/article/Pregnant-Texas-woman-driving-in-HOV-lane-told-17293221.php",
+        "timestamp": 1657321451,
+        "sentiment": -3,
+        "published": "July 8, 2022 7:04 PM"
+    },
+    {
+        "title": "Sarasota County school board sued over ‘obscene’ library materials",
+        "domain": "mysuncoast.com",
+        "category": "florida",
+        "link": "https://www.mysuncoast.com/2022/07/08/sarasota-county-school-board-sued-over-obscene-library-materials/",
+        "timestamp": 1657321722,
+        "sentiment": 0,
+        "published": "July 8, 2022 7:08 PM"
+    },
+    {
+        "title": "Ohio lawmaker wants to teach the Holocaust ‘from the perspective of the Nazis'",
+        "domain": "dailyadvent.com",
+        "category": "nottheonion",
+        "link": "https://www.dailyadvent.com/news/788d8650cbabadbb067974aace50471b-Ohio-lawmaker-wants-to-teach-the-Holocaust-from-the-perspective-of-the-Nazis",
+        "timestamp": 1657322019,
+        "sentiment": -3,
+        "published": "July 8, 2022 7:13 PM"
+    },
+    {
+        "title": "The FBI didn’t finish over 1 million gun background checks in time to stop a sale in 2020 and 2021",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/fbi-gun-background-checks-delayed-rcna36391",
+        "timestamp": 1657273622,
+        "sentiment": -2,
+        "published": "July 8, 2022 5:47 AM"
+    },
+    {
+        "title": "Curiosity is linked to crystallized intelligence but not fluid intelligence, study finds",
+        "domain": "psypost.org",
+        "category": "science",
+        "link": "https://www.psypost.org/2022/07/curiosity-is-linked-to-crystallized-intelligence-but-not-fluid-intelligence-study-finds-63472",
+        "timestamp": 1657282806,
+        "sentiment": -2,
+        "published": "July 8, 2022 8:20 AM"
+    },
+    {
+        "title": "Unsustainable logging, fishing and hunting 'driving extinction'",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/science-environment-62094405",
+        "timestamp": 1657286838,
+        "sentiment": 0,
+        "published": "July 8, 2022 9:27 AM"
+    },
+    {
+        "title": "Trump 'up to his eyeballs in criminality' ahead of W.H. counsel’s Jan. 6 testimony",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/the-beat-with-ari/watch/trump-up-to-his-eyeballs-in-criminality-ahead-of-w-h-counsel-s-jan-6-testimony-143620677920",
+        "timestamp": 1657287880,
+        "sentiment": 0,
+        "published": "July 8, 2022 9:44 AM"
+    },
+    {
+        "title": "‘Doomsday’ Submarine Armed With Nuclear Torpedoes Delivers to Russian Navy",
+        "domain": "news.usni.org",
+        "category": "worldnews",
+        "link": "https://news.usni.org/2022/07/08/doomsday-submarine-armed-with-nuclear-torpedoes-delivers-to-russian-navy",
+        "timestamp": 1657295654,
+        "sentiment": 0,
+        "published": "July 8, 2022 11:54 AM"
+    },
+    {
+        "title": "Pringles wants a spider named after it",
+        "domain": "cnn.com",
+        "category": "nottheonion",
+        "link": "https://www.cnn.com/2022/07/07/business/pringles-spider/index.html",
+        "timestamp": 1657296733,
+        "sentiment": 0,
+        "published": "July 8, 2022 12:12 PM"
+    },
+    {
+        "title": "Shocking study reveals most government websites serve tracking cookies without consent",
+        "domain": "hothardware.com",
+        "category": "technology",
+        "link": "https://hothardware.com/news/study-reveals-government-websites-serve-tracking-cookies-without-consent",
+        "timestamp": 1657298477,
+        "sentiment": 0,
+        "published": "July 8, 2022 12:41 PM"
     },
     {
         "title": "Pest controller called to 'rat infestation' finds single rubber mouse",
@@ -736,15 +835,6 @@
         "timestamp": 1657303387,
         "sentiment": 0,
         "published": "July 8, 2022 2:03 PM"
-    },
-    {
-        "title": "Officer who fatally shot Tamir Rice sworn in and resigned from new law enforcement position in the same week, official says",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/07/07/us/tamir-rice-officer-resigns-law-enforcement-position/index.html",
-        "timestamp": 1657307663,
-        "sentiment": -1,
-        "published": "July 8, 2022 3:14 PM"
     },
     {
         "title": "UW Medicine-developed Covid vaccine effective in phase 3 clinical trial",
