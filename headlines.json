@@ -5,7 +5,7 @@
         "category": "nottheonion",
         "link": "https://www.cnn.com/2022/07/06/us/uvalde-school-shooting-alerrt-report-law-enforcement-response/index.html",
         "timestamp": 1657168033,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 12:27 AM"
     },
     {
@@ -36,15 +36,6 @@
         "published": "July 7, 2022 4:10 AM"
     },
     {
-        "title": "Boris Johnson to resign as prime minister",
-        "domain": "news.sky.com",
-        "category": "worldnews",
-        "link": "https://news.sky.com/story/boris-johnson-to-resign-as-prime-minister-12646836",
-        "timestamp": 1657181775,
-        "sentiment": -1,
-        "published": "July 7, 2022 4:16 AM"
-    },
-    {
         "title": "Adolescence is an intensely stressful life stage. Scientists developed a brief online training module to help young people to understand stress and to respond to it constructively. The module improved their psychological and physiological responses to stress and boosted academic performance.",
         "domain": "nature.com",
         "category": "science",
@@ -59,7 +50,7 @@
         "category": "nottheonion",
         "link": "https://kfor.com/news/local/study-says-oklahoma-is-the-worst-state-for-women-and-one-state-senator-wants-to-know-why/",
         "timestamp": 1657187999,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 5:59 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/ex-facebook-staffer-airforce-vet-accessed-deleted-user-data-lawsuit-2022-7",
         "timestamp": 1657193866,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 7:37 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.themoscowtimes.com/2022/07/07/russian-ruble-drops-17-on-falling-exports-rumored-intervention-a78224",
         "timestamp": 1657196597,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 7, 2022 8:23 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "nottheonion",
         "link": "https://www.nationalgeographic.com/science/article/human-cannibalism-nutrition-archaeology-science",
         "timestamp": 1657196989,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 8:29 AM"
     },
     {
@@ -133,15 +124,6 @@
         "timestamp": 1657201041,
         "sentiment": 1,
         "published": "July 7, 2022 9:37 AM"
-    },
-    {
-        "title": "Voter registration spiked in Kansas and Missouri after Roe reversal, ahead of primaries",
-        "domain": "kansascity.com",
-        "category": "politics",
-        "link": "https://www.kansascity.com/news/politics-government/article263235743.html#storylink=mainstage_lead",
-        "timestamp": 1657201202,
-        "sentiment": 1,
-        "published": "July 7, 2022 9:40 AM"
     },
     {
         "title": "‘The Bear’ is the most stressful thing on TV right now. It’s also great. FX’s surprise hit show — about a family restaurant in Chicago — will either have you pumping your fist or give you have a heart attack. Possibly both.",
@@ -230,7 +212,7 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/abortion-us-supreme-court-health-european-parliament-660014a8f37c31e33a0f4540a34f5bd6",
         "timestamp": 1657207806,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 7, 2022 11:30 AM"
     },
     {
@@ -248,7 +230,7 @@
         "category": "worldnews",
         "link": "https://www.eurointegration.com.ua/eng/news/2022/07/7/7142774/",
         "timestamp": 1657209150,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 7, 2022 11:52 AM"
     },
     {
@@ -275,7 +257,7 @@
         "category": "technology",
         "link": "https://uploadvr.com/quest-2-no-longer-requires-facebook/",
         "timestamp": 1657210341,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 12:12 PM"
     },
     {
@@ -293,7 +275,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/officejjsmart/status/1545031539326685184?t=RUXJxIzE17pWa4I4YV9Rhg&s=09",
         "timestamp": 1657211541,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 7, 2022 12:32 PM"
     },
     {
@@ -302,7 +284,7 @@
         "category": "technology",
         "link": "https://www.thedrive.com/news/heres-why-some-automakers-tune-out-am-radios-in-new-cars",
         "timestamp": 1657212168,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 12:42 PM"
     },
     {
@@ -311,7 +293,7 @@
         "category": "nottheonion",
         "link": "https://www.blackpoolgazette.co.uk/news/politics/boris-johnsons-madame-tussauds-waxwork-appears-outside-job-centre-in-blackpool-as-pm-quits-as-tory-leader-3760330",
         "timestamp": 1657212535,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 12:48 PM"
     },
     {
@@ -338,7 +320,7 @@
         "category": "worldnews",
         "link": "https://www.cbsnews.com/news/mexico-fentanyl-seizure-half-ton-warehouse/?ftag=CNM-00-10aab7e&linkId=172312288",
         "timestamp": 1657213926,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 7, 2022 1:12 PM"
     },
     {
@@ -347,7 +329,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/christogrozev/status/1545092557507629063?t=H2LEuHStVyFBmvt0Sa-gsA&s=19",
         "timestamp": 1657214218,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 7, 2022 1:16 PM"
     },
     {
@@ -378,15 +360,6 @@
         "published": "July 7, 2022 1:29 PM"
     },
     {
-        "title": "Nvidia may delay RTX 4000 GPU launch due to oversupply of RTX 3000",
-        "domain": "pcgamesn.com",
-        "category": "technology",
-        "link": "https://www.pcgamesn.com/nvidia/rtx-4000-gpu-launch-delay-geforce-3000-oversupply",
-        "timestamp": 1657215669,
-        "sentiment": -2,
-        "published": "July 7, 2022 1:41 PM"
-    },
-    {
         "title": "NC governor signs executive order protecting abortion access",
         "domain": "wunc.org",
         "category": "news",
@@ -410,7 +383,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/Gerashchenko_en/status/1545111240594300928?t=-duMvaZo6cnVwJTK0jwaiw&s=19",
         "timestamp": 1657218419,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 7, 2022 2:26 PM"
     },
     {
@@ -428,7 +401,7 @@
         "category": "nottheonion",
         "link": "https://abc13.com/12024958/",
         "timestamp": 1657218838,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 2:33 PM"
     },
     {
@@ -446,7 +419,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/putins-military-stole-famous-artwork-ukraine-museum-mariupol-council-1722614",
         "timestamp": 1657220226,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 7, 2022 2:57 PM"
     },
     {
@@ -473,7 +446,7 @@
         "category": "technology",
         "link": "https://www.cnn.com/2022/07/07/tech/sunny-balwani-verdict-theranos/index.html",
         "timestamp": 1657221396,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 3:16 PM"
     },
     {
@@ -495,15 +468,6 @@
         "published": "July 7, 2022 3:25 PM"
     },
     {
-        "title": "Voter Registrations Show Florida Continues to Turn More Red",
-        "domain": "newsmax.com",
-        "category": "florida",
-        "link": "https://www.newsmax.com/politics/florida-voters-republican-voters/2022/07/06/id/1077571/",
-        "timestamp": 1657223715,
-        "sentiment": 0,
-        "published": "July 7, 2022 3:55 PM"
-    },
-    {
         "title": "Dutch House Approves to Make Work From Home a Legal Right",
         "domain": "bloomberg.com",
         "category": "UpliftingNews",
@@ -518,7 +482,7 @@
         "category": "technology",
         "link": "https://techcrunch.com/2022/07/07/tesla-reportedly-nowhere-near-goal-of-installing-1000-solar-roofs-a-week/",
         "timestamp": 1657224413,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 4:06 PM"
     },
     {
@@ -558,15 +522,6 @@
         "published": "July 7, 2022 4:44 PM"
     },
     {
-        "title": "Vladimir Putin ally's aircraft seized and handed to Ukrainian army",
-        "domain": "newsweek.com",
-        "category": "worldnews",
-        "link": "https://www.newsweek.com/helicopter-airplane-putin-ally-seized-given-ukrainian-army-1722621",
-        "timestamp": 1657226767,
-        "sentiment": -1,
-        "published": "July 7, 2022 4:46 PM"
-    },
-    {
         "title": "Dallas Cowboys face criticism after announcing partnership with gun-themed coffee company one day after July 4 mass shooting",
         "domain": "cnbc.com",
         "category": "sports",
@@ -599,8 +554,17 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/07/07/politics/volodymyr-zelensky-interview-cnntv/index.html",
         "timestamp": 1657227870,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 7, 2022 5:04 PM"
+    },
+    {
+        "title": "Educators sound the alarm on DeSantis' classroom censorship | DeSantis' new law restricts the \"ability to accurately and fully teach these subjects,\" history professor warns",
+        "domain": "salon.com",
+        "category": "florida",
+        "link": "https://www.salon.com/2022/07/07/florida-educators-sound-the-alarm-on-desantis-classroom-censorship/",
+        "timestamp": 1657228575,
+        "sentiment": -2,
+        "published": "July 7, 2022 5:16 PM"
     },
     {
         "title": "This Florida synagogue is using religious freedom to challenge abortion restrictions",
@@ -608,7 +572,7 @@
         "category": "florida",
         "link": "https://www.deseret.com/faith/2022/7/5/23189733/this-florida-synagogue-is-using-religious-freedom-to-challenge-abortion-restrictions-supreme-court",
         "timestamp": 1657228757,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 7, 2022 5:19 PM"
     },
     {
@@ -653,7 +617,7 @@
         "category": "nottheonion",
         "link": "https://www.latimes.com/california/story/2022-07-06/rapper-accused-of-fraud-agrees-to-plead-guilty-but-will-nuke-bizzles-career-fizzle",
         "timestamp": 1657230097,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 5:41 PM"
     },
     {
@@ -680,7 +644,7 @@
         "category": "ukraine",
         "link": "https://www.cnn.com/2022/07/07/politics/volodymyr-zelensky-interview-cnntv/index.html",
         "timestamp": 1657231651,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 7, 2022 6:07 PM"
     },
     {
@@ -698,17 +662,17 @@
         "category": "ukraine",
         "link": "https://www.eurointegration.com.ua/eng/news/2022/07/7/7142774/",
         "timestamp": 1657233054,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 7, 2022 6:30 PM"
     },
     {
-        "title": "EU Parliament condemns U.S. abortion ruling, calls for human rights safeguards",
-        "domain": "pbs.org",
-        "category": "worldnews",
-        "link": "https://www.pbs.org/newshour/world/eu-parliament-condemns-u-s-abortion-ruling-calls-for-human-rights-safeguards",
-        "timestamp": 1657233816,
-        "sentiment": -1,
-        "published": "July 7, 2022 6:43 PM"
+        "title": "Herschel Walker is a “Pathological Liar” Who Lies “Like He's Breathing,” Says His Own Campaign Staff",
+        "domain": "vanityfair.com",
+        "category": "politics",
+        "link": "https://www.vanityfair.com/news/2022/07/herschel-walker-secret-children-pathological-liar-georgia-senate",
+        "timestamp": 1657233705,
+        "sentiment": 1,
+        "published": "July 7, 2022 6:41 PM"
     },
     {
         "title": "North Carolina Looks to Remove Public EV Chargers, Probably to the Trash",
@@ -716,7 +680,7 @@
         "category": "nottheonion",
         "link": "https://www.caranddriver.com/news/a40543385/north-carolina-wants-remove-free-public-ev-chargers/",
         "timestamp": 1657234071,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 6:47 PM"
     },
     {
@@ -725,7 +689,7 @@
         "category": "nottheonion",
         "link": "https://www.ctvnews.ca/world/penguins-refuse-to-eat-cheaper-fish-as-inflation-hits-japanese-aquarium-1.5978364",
         "timestamp": 1657234688,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 6:58 PM"
     },
     {
@@ -743,7 +707,7 @@
         "category": "nottheonion",
         "link": "https://arstechnica.com/science/2022/07/florida-battling-giant-savage-snails-that-spread-brain-invading-worms-again/",
         "timestamp": 1657235500,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 7:11 PM"
     },
     {
@@ -770,7 +734,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/russia-control-belarus-zyabrovka-airfield-20-miles-ukraine-1722757",
         "timestamp": 1657238406,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 7, 2022 8:00 PM"
     },
     {
@@ -788,7 +752,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/spacex-starlink-internet-boats-sea-rvs-vehicles-elon-musk-2022-7",
         "timestamp": 1657239014,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 8:10 PM"
     },
     {
@@ -797,7 +761,7 @@
         "category": "technology",
         "link": "https://www.independent.co.uk/tech/japan-law-online-insults-prison-hana-kimura-b2117903.html",
         "timestamp": 1657239734,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 8:22 PM"
     },
     {
@@ -806,7 +770,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/alaska-ours-billboards-appear-russia-after-threat-reclaim-state-1722761",
         "timestamp": 1657241429,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 7, 2022 8:50 PM"
     },
     {
@@ -824,8 +788,107 @@
         "category": "technology",
         "link": "https://www.theguardian.com/technology/2022/jul/07/twitter-says-it-suspends-1m-spam-users-a-day-as-elon-musk-dispute-deepens",
         "timestamp": 1657242331,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 9:05 PM"
+    },
+    {
+        "title": "Volodymyr Zelensky: Boris Johnson supported us ‘from first day of Russia terror’ - 24Talker",
+        "domain": "24talker.com",
+        "category": "worldnews",
+        "link": "https://www.24talker.com/news/volodymyr-zelensky-boris-johnson-supported-us-from-first-day-of-russia-terror/",
+        "timestamp": 1657244698,
+        "sentiment": 0,
+        "published": "July 7, 2022 9:44 PM"
+    },
+    {
+        "title": "UCF anti-racism policy suspended amid Stop WOKE Act",
+        "domain": "orlandosentinel.com",
+        "category": "florida",
+        "link": "https://www.orlandosentinel.com/news/education/os-ne-ucf-english-anti-racism-20220707-gtigoknfnbgybgxseezxpuvyae-story.html",
+        "timestamp": 1657247490,
+        "sentiment": -2,
+        "published": "July 7, 2022 10:31 PM"
+    },
+    {
+        "title": "Ex-PM Abe attacked by unidentified man on road in Japan",
+        "domain": "english.kyodonews.net",
+        "category": "worldnews",
+        "link": "https://english.kyodonews.net/news/2022/07/a0285cdcc6d2-breaking-news-ex-pm-abe-attacked-by-unidentified-man-on-road-in-japan.html",
+        "timestamp": 1657248542,
+        "sentiment": 0,
+        "published": "July 7, 2022 10:49 PM"
+    },
+    {
+        "title": "Former Japanese PM Shinzo Abe reported to be shot and is in critical condition.",
+        "domain": "nhk.or.jp",
+        "category": "worldnews",
+        "link": "https://www3.nhk.or.jp/news/html/20220708/amp/k10013707601000.html",
+        "timestamp": 1657249642,
+        "sentiment": 0,
+        "published": "July 7, 2022 11:07 PM"
+    },
+    {
+        "title": "Ohio bill would allow pregnant people to sue men for unintended pregnancies",
+        "domain": "news.wosu.org",
+        "category": "nottheonion",
+        "link": "https://news.wosu.org/politics-government/2022-07-07/ohio-bill-would-allow-pregnant-people-to-sue-men-for-unintended-pregnancies",
+        "timestamp": 1657249931,
+        "sentiment": 0,
+        "published": "July 7, 2022 11:12 PM"
+    },
+    {
+        "title": "Boris Johnson to resign as prime minister",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/boris-johnson-to-resign-as-prime-minister-12646836",
+        "timestamp": 1657181775,
+        "sentiment": -1,
+        "published": "July 7, 2022 4:16 AM"
+    },
+    {
+        "title": "Voter registration spiked in Kansas and Missouri after Roe reversal, ahead of primaries",
+        "domain": "kansascity.com",
+        "category": "politics",
+        "link": "https://www.kansascity.com/news/politics-government/article263235743.html#storylink=mainstage_lead",
+        "timestamp": 1657201202,
+        "sentiment": 1,
+        "published": "July 7, 2022 9:40 AM"
+    },
+    {
+        "title": "Nvidia may delay RTX 4000 GPU launch due to oversupply of RTX 3000",
+        "domain": "pcgamesn.com",
+        "category": "technology",
+        "link": "https://www.pcgamesn.com/nvidia/rtx-4000-gpu-launch-delay-geforce-3000-oversupply",
+        "timestamp": 1657215669,
+        "sentiment": -2,
+        "published": "July 7, 2022 1:41 PM"
+    },
+    {
+        "title": "Voter Registrations Show Florida Continues to Turn More Red",
+        "domain": "newsmax.com",
+        "category": "florida",
+        "link": "https://www.newsmax.com/politics/florida-voters-republican-voters/2022/07/06/id/1077571/",
+        "timestamp": 1657223715,
+        "sentiment": 0,
+        "published": "July 7, 2022 3:55 PM"
+    },
+    {
+        "title": "Vladimir Putin ally's aircraft seized and handed to Ukrainian army",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/helicopter-airplane-putin-ally-seized-given-ukrainian-army-1722621",
+        "timestamp": 1657226767,
+        "sentiment": -1,
+        "published": "July 7, 2022 4:46 PM"
+    },
+    {
+        "title": "EU Parliament condemns U.S. abortion ruling, calls for human rights safeguards",
+        "domain": "pbs.org",
+        "category": "worldnews",
+        "link": "https://www.pbs.org/newshour/world/eu-parliament-condemns-u-s-abortion-ruling-calls-for-human-rights-safeguards",
+        "timestamp": 1657233816,
+        "sentiment": -1,
+        "published": "July 7, 2022 6:43 PM"
     },
     {
         "title": "Chinese ice cream brand under fire for products that don't melt",
