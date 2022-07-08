@@ -14,7 +14,7 @@
         "category": "nottheonion",
         "link": "https://www.theguardian.com/culture/2022/jul/07/sacha-baron-cohen-defeats-roy-moore-lawsuit",
         "timestamp": 1657255953,
-        "sentiment": -12,
+        "sentiment": -1,
         "published": "July 8, 2022 12:52 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "worldnews",
         "link": "https://focustaiwan.tw/politics/202207080007",
         "timestamp": 1657258110,
-        "sentiment": -2,
+        "sentiment": 3,
         "published": "July 8, 2022 1:28 AM"
     },
     {
@@ -32,17 +32,8 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/china-demands-end-to-us-taiwan-military-collusion/ar-AAZlo6C?ocid=EMMX&cvid=5b7713ba2a894ec2b8c4ae10680e5669",
         "timestamp": 1657258454,
-        "sentiment": -2,
+        "sentiment": 3,
         "published": "July 8, 2022 1:34 AM"
-    },
-    {
-        "title": "Florida man sentenced to three years of probation and a $7,000 fine in death threat to Rep. Ilhan Omar",
-        "domain": "cbsnews.com",
-        "category": "news",
-        "link": "https://www.cbsnews.com/minnesota/news/florida-man-sentenced-in-death-threat-to-rep-ilhan-omar/",
-        "timestamp": 1657258988,
-        "sentiment": -4,
-        "published": "July 8, 2022 1:43 AM"
     },
     {
         "title": "Another Russian observer says that Russian forces are sustaining very serious losses from Ukrainian HIMARS, which are very accurately targeting Russian command posts.",
@@ -50,7 +41,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/RALee85/status/1545290028355567617?t=xiRpUiNCLNsH_noqCTwGYw&s=19",
         "timestamp": 1657260991,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 8, 2022 2:16 AM"
     },
     {
@@ -61,15 +52,6 @@
         "timestamp": 1657262513,
         "sentiment": 0,
         "published": "July 8, 2022 2:41 AM"
-    },
-    {
-        "title": "Japan and Argentina condemn Russia for invading Ukraine",
-        "domain": "english.kyodonews.net",
-        "category": "worldnews",
-        "link": "https://english.kyodonews.net/news/2022/07/387769540908-japan-argentina-condemn-russia-for-invading-ukraine.html",
-        "timestamp": 1657262691,
-        "sentiment": -2,
-        "published": "July 8, 2022 2:44 AM"
     },
     {
         "title": "Microplastics detected in meat, milk and blood of farm animals, worrying scientists",
@@ -104,7 +86,7 @@
         "category": "television",
         "link": "https://www.apple.com/tv-pr/news/2022/07/apple-tv-tops-hollywood-critics-association-awards-as-the-most-nominated-streaming-service-with-severance-and-ted-lasso-leading-best-drama-and-best-comedy-categories/",
         "timestamp": 1657266217,
-        "sentiment": 12,
+        "sentiment": 0,
         "published": "July 8, 2022 3:43 AM"
     },
     {
@@ -117,12 +99,21 @@
         "published": "July 8, 2022 3:54 AM"
     },
     {
+        "title": "US Democracy May Have 2 Years to Live, Depending on Upcoming Gerrymander Ruling",
+        "domain": "truthout.org",
+        "category": "politics",
+        "link": "https://truthout.org/articles/us-democracy-may-have-2-years-to-live-depending-on-upcoming-gerrymander-ruling/",
+        "timestamp": 1657269594,
+        "sentiment": 0,
+        "published": "July 8, 2022 4:39 AM"
+    },
+    {
         "title": "Germany's parliament votes in favor of NATO accession for Sweden and Finland",
         "domain": "dw.com",
         "category": "worldnews",
         "link": "https://dw.com/en/germany-approves-finland-and-sweden-nato-membership-bid/a-62403489",
         "timestamp": 1657269633,
-        "sentiment": -2,
+        "sentiment": 3,
         "published": "July 8, 2022 4:40 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "technology",
         "link": "https://www.engadget.com/twitter-layoffs-233150630.html",
         "timestamp": 1657269756,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 8, 2022 4:42 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "nottheonion",
         "link": "https://www.sbs.com.au/news/article/protesters-blasted-the-benny-hill-theme-as-boris-johnson-resigned-why-was-hugh-grant-involved/nk87rb4h2",
         "timestamp": 1657269869,
-        "sentiment": -12,
+        "sentiment": -1,
         "published": "July 8, 2022 4:44 AM"
     },
     {
@@ -149,7 +140,7 @@
         "category": "sports",
         "link": "https://news.sky.com/story/sepp-blatter-and-michel-platini-acquitted-of-corruption-by-swiss-court-12647951",
         "timestamp": 1657269878,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 8, 2022 4:44 AM"
     },
     {
@@ -158,7 +149,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/shinzo-abe-former-japanese-prime-minister-dies-after-being-shot-while-giving-speech-state-broadcaster-says-12648011",
         "timestamp": 1657270303,
-        "sentiment": -2,
+        "sentiment": 3,
         "published": "July 8, 2022 4:51 AM"
     },
     {
@@ -167,7 +158,7 @@
         "category": "technology",
         "link": "https://www.theverge.com/2022/7/7/23199058/tiktok-lawsuits-blackout-challenge-children-death",
         "timestamp": 1657272753,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 8, 2022 5:32 AM"
     },
     {
@@ -176,7 +167,7 @@
         "category": "ukraine",
         "link": "https://www.ukrinform.net/rubric-polytics/3524615-blinken-to-russian-delegation-ukraine-is-not-your-country-and-its-grain-is-not-your-grain.html",
         "timestamp": 1657273228,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 8, 2022 5:40 AM"
     },
     {
@@ -185,7 +176,7 @@
         "category": "ukraine",
         "link": "https://www.themoscowtimes.com/2022/07/08/lavrov-walks-out-of-g20-talks-as-west-presses-moscow-on-ukraine-a78242",
         "timestamp": 1657273614,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 8, 2022 5:46 AM"
     },
     {
@@ -194,7 +185,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/fbi-gun-background-checks-delayed-rcna36391",
         "timestamp": 1657273622,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 8, 2022 5:47 AM"
     },
     {
@@ -203,7 +194,7 @@
         "category": "technology",
         "link": "https://techxplore.com/news/2022-07-tiktok-sued-girls-die-blackout.html",
         "timestamp": 1657273650,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 8, 2022 5:47 AM"
     },
     {
@@ -212,7 +203,7 @@
         "category": "worldnews",
         "link": "https://www.hindustantimes.com/india-news/india-announces-day-of-mourning-for-shinzo-abe-101657274058494.html",
         "timestamp": 1657274297,
-        "sentiment": -2,
+        "sentiment": 3,
         "published": "July 8, 2022 5:58 AM"
     },
     {
@@ -221,7 +212,7 @@
         "category": "sports",
         "link": "https://www.bbc.com/sport/africa/62057259",
         "timestamp": 1657274329,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 8, 2022 5:58 AM"
     },
     {
@@ -248,8 +239,26 @@
         "category": "ukraine",
         "link": "https://ukrainetoday.org/2022/07/08/another-stab-in-the-back-of-the-russian-federation-kazakhstan-withdraws-from-the-cis-agreement-on-the-currency-committee/",
         "timestamp": 1657276944,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 8, 2022 6:42 AM"
+    },
+    {
+        "title": "Quentin Tarantino reveals he watches Peppa Pig 'a lot'",
+        "domain": "news.sky.com",
+        "category": "nottheonion",
+        "link": "https://news.sky.com/story/quentin-tarantino-reveals-he-watches-peppa-pig-a-lot-12648049",
+        "timestamp": 1657277389,
+        "sentiment": -1,
+        "published": "July 8, 2022 6:49 AM"
+    },
+    {
+        "title": "Russia needs to release Brittney Griner. And US leaders need to fix our cannabis laws.",
+        "domain": "usatoday.com",
+        "category": "politics",
+        "link": "https://www.usatoday.com/story/opinion/policing/2022/07/08/brittney-grinerrussia-cannabis-weed-marijuana/7793000001/",
+        "timestamp": 1657278788,
+        "sentiment": 0,
+        "published": "July 8, 2022 7:13 AM"
     },
     {
         "title": "Lavrov walks out G-20, says no talks needed if West hopes Ukraine's win",
@@ -257,7 +266,7 @@
         "category": "worldnews",
         "link": "https://english.kyodonews.net/news/2022/07/5ba00e971fc4-g-20-begins-talks-on-food-energy-issues-with-us-russia-row-expected.html",
         "timestamp": 1657279618,
-        "sentiment": -2,
+        "sentiment": 3,
         "published": "July 8, 2022 7:26 AM"
     },
     {
@@ -284,8 +293,17 @@
         "category": "worldnews",
         "link": "https://www.warhistoryonline.com/news/harald-bluetooth-gormsson-burial-site.html",
         "timestamp": 1657281205,
-        "sentiment": -2,
+        "sentiment": 3,
         "published": "July 8, 2022 7:53 AM"
+    },
+    {
+        "title": "Multiple Russian soldiers detained for refusing to fight in Putin's war",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/multiple-russian-soldiers-detained-refusing-fight-putins-war-1722915",
+        "timestamp": 1657281366,
+        "sentiment": 3,
+        "published": "July 8, 2022 7:56 AM"
     },
     {
         "title": "Curiosity is linked to crystallized intelligence but not fluid intelligence, study finds",
@@ -302,7 +320,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/tech/tech-news/gun-applicants-new-york-will-hand-social-accounts-rcna37251",
         "timestamp": 1657283404,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 8, 2022 8:30 AM"
     },
     {
@@ -311,8 +329,17 @@
         "category": "nottheonion",
         "link": "https://www.cnbc.com/2022/07/07/dallas-cowboys-criticized-for-partnership-with-gun-themed-coffee-company-.html",
         "timestamp": 1657283968,
-        "sentiment": -12,
+        "sentiment": -1,
         "published": "July 8, 2022 8:39 AM"
+    },
+    {
+        "title": "Missing man fell into shredder at South Carolina recycling plant, coroner finds",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/missing-man-fell-shredder-south-carolina-recycling-plant-coroner-finds-rcna37240",
+        "timestamp": 1657284889,
+        "sentiment": 0,
+        "published": "July 8, 2022 8:54 AM"
     },
     {
         "title": "US Bill Aiming to Close Horse Slaughter Loopholes Advances Through Subcommittee Hearing",
@@ -329,8 +356,35 @@
         "category": "nottheonion",
         "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/jonathan-gerrish-ellen-chung-missing-hiker-2022/",
         "timestamp": 1657285152,
-        "sentiment": -12,
+        "sentiment": -1,
         "published": "July 8, 2022 8:59 AM"
+    },
+    {
+        "title": "[CNN] The economy added 372,000 jobs in June, outpacing expectations",
+        "domain": "cnn.com",
+        "category": "UpliftingNews",
+        "link": "https://www.cnn.com/2022/07/08/economy/june-jobs-report-final/index.html",
+        "timestamp": 1657285820,
+        "sentiment": 0,
+        "published": "July 8, 2022 9:10 AM"
+    },
+    {
+        "title": "Amazon Workers Who Commute Across the US-Mexico Border Every Day Are Organizing for Better Working Conditions",
+        "domain": "vice.com",
+        "category": "technology",
+        "link": "https://www.vice.com/en/article/g5vb44/amazon-workers-who-commute-across-the-us-mexico-border-every-day-are-organizing-for-better-working-conditions",
+        "timestamp": 1657285855,
+        "sentiment": -2,
+        "published": "July 8, 2022 9:10 AM"
+    },
+    {
+        "title": "Gregory Itzin, '24' and 'Star Trek' Actor, Dies at 74",
+        "domain": "radiotimes.com",
+        "category": "television",
+        "link": "https://www.radiotimes.com/tv/drama/gregory-itzin-dead-24-newsupdate/",
+        "timestamp": 1657286369,
+        "sentiment": 0,
+        "published": "July 8, 2022 9:19 AM"
     },
     {
         "title": "Psychedelics May Be Your Ticket To Self-Actualization, Says New Research - Forbes",
@@ -351,6 +405,60 @@
         "published": "July 8, 2022 9:21 AM"
     },
     {
+        "title": "Fed report finds 75% of $800 billion Paycheck Protection Program didn't reach employees",
+        "domain": "ktbs.com",
+        "category": "politics",
+        "link": "https://www.ktbs.com/news/national/fed-report-finds-75-of-800-billion-paycheck-protection-program-didnt-reach-employees/article_5a08fbfe-65ed-5f5d-b86c-959297fe09b4.html",
+        "timestamp": 1657286556,
+        "sentiment": 0,
+        "published": "July 8, 2022 9:22 AM"
+    },
+    {
+        "title": "Plastics found in 80% of meat and dairy samples in the Netherlands, could be caused by feeding livestock whole packaging including the plastic.",
+        "domain": "nltimes.nl",
+        "category": "science",
+        "link": "https://nltimes.nl/2022/07/08/microplastics-milk-meat-dutch-cows-pigs-amsterdam-researchers",
+        "timestamp": 1657287047,
+        "sentiment": 0,
+        "published": "July 8, 2022 9:30 AM"
+    },
+    {
+        "title": "The Supreme Court is now run by extremists who are endangering US democracy. We need to recognise there is a carefully laid plan to turn the US into a repressive regime, particularly targeting women",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/voices/george-soros-democracy-supreme-court-abortion-b2116943.html",
+        "timestamp": 1657287284,
+        "sentiment": 0,
+        "published": "July 8, 2022 9:34 AM"
+    },
+    {
+        "title": "Wimbledon stars forced to play braless as rule come under heightened scrutiny",
+        "domain": "express.co.uk",
+        "category": "sports",
+        "link": "https://www.express.co.uk/sport/tennis/1636855/Wimbledon-play-braless-rule-scrutiny-tennis-news",
+        "timestamp": 1657291347,
+        "sentiment": -1,
+        "published": "July 8, 2022 10:42 AM"
+    },
+    {
+        "title": "Florida man sentenced to three years of probation and a $7,000 fine in death threat to Rep. Ilhan Omar",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/minnesota/news/florida-man-sentenced-in-death-threat-to-rep-ilhan-omar/",
+        "timestamp": 1657258988,
+        "sentiment": -4,
+        "published": "July 8, 2022 1:43 AM"
+    },
+    {
+        "title": "Japan and Argentina condemn Russia for invading Ukraine",
+        "domain": "english.kyodonews.net",
+        "category": "worldnews",
+        "link": "https://english.kyodonews.net/news/2022/07/387769540908-japan-argentina-condemn-russia-for-invading-ukraine.html",
+        "timestamp": 1657262691,
+        "sentiment": -2,
+        "published": "July 8, 2022 2:44 AM"
+    },
+    {
         "title": "Report: No Watson suspension negotiations happening, more details leaked",
         "domain": "sports.yahoo.com",
         "category": "sports",
@@ -358,15 +466,6 @@
         "timestamp": 1657257443,
         "sentiment": -2,
         "published": "July 8, 2022 1:17 AM"
-    },
-    {
-        "title": "Quentin Tarantino reveals he watches Peppa Pig 'a lot'",
-        "domain": "news.sky.com",
-        "category": "nottheonion",
-        "link": "https://news.sky.com/story/quentin-tarantino-reveals-he-watches-peppa-pig-a-lot-12648049",
-        "timestamp": 1657277389,
-        "sentiment": -2,
-        "published": "July 8, 2022 6:49 AM"
     },
     {
         "title": "1980s Miami/Little Havana 80s Music Playlist on Spotify. Scarface Themed, American + Latin mix.",
