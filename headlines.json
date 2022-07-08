@@ -5,17 +5,8 @@
         "category": "nottheonion",
         "link": "https://www.cnn.com/2022/07/06/us/uvalde-school-shooting-alerrt-report-law-enforcement-response/index.html",
         "timestamp": 1657168033,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 7, 2022 12:27 AM"
-    },
-    {
-        "title": "Video game sales set to fall for first time in years as industry braces for recession",
-        "domain": "cnbc.com",
-        "category": "technology",
-        "link": "https://www.cnbc.com/2022/07/07/video-game-industry-not-recession-proof-sales-set-to-fall-in-2022.html",
-        "timestamp": 1657174821,
-        "sentiment": -2,
-        "published": "July 7, 2022 2:20 AM"
     },
     {
         "title": "New research shows hunger is associated with stronger feelings of anger and irritability, as well as lower ratings of pleasure, and the effects were substantial, even after taking into account demographic factors such as age and sex, body mass index, dietary behaviour",
@@ -32,7 +23,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/zelensky-says-western-weapons-finally-working-powerfully-front-lines-1722402?utm_source=Flipboard&utm_medium=App&utm_campaign=Partnerships",
         "timestamp": 1657179483,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 7, 2022 3:38 AM"
     },
     {
@@ -41,7 +32,7 @@
         "category": "UpliftingNews",
         "link": "https://nltimes.nl/2022/07/06/netherlands-ban-exotic-pets-report",
         "timestamp": 1657179885,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "July 7, 2022 3:44 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "television",
         "link": "https://www.animenewsnetwork.com/news/2022-07-07/yu-gi-oh-manga-creator-kazuki-takahashi-passes-away-at-60/.187468",
         "timestamp": 1657181413,
-        "sentiment": -7,
+        "sentiment": 4,
         "published": "July 7, 2022 4:10 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/boris-johnson-to-resign-as-prime-minister-12646836",
         "timestamp": 1657181775,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 7, 2022 4:16 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "technology",
         "link": "https://techcrunch.com/2022/07/06/28-of-americans-still-wont-consider-buying-an-ev/",
         "timestamp": 1657186858,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 5:40 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "nottheonion",
         "link": "https://kfor.com/news/local/study-says-oklahoma-is-the-worst-state-for-women-and-one-state-senator-wants-to-know-why/",
         "timestamp": 1657187999,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 7, 2022 5:59 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "politics",
         "link": "https://www.theatlantic.com/newsletters/archive/2022/07/are-the-last-rational-republicans-in-denial/661503/",
         "timestamp": 1657191728,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 7, 2022 7:02 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/commentisfree/2022/jul/07/the-us-supreme-court-poses-a-real-threat-to-americans-democracy",
         "timestamp": 1657193109,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 7, 2022 7:25 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/ex-facebook-staffer-airforce-vet-accessed-deleted-user-data-lawsuit-2022-7",
         "timestamp": 1657193866,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 7:37 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "television",
         "link": "https://www.empireonline.com/tv/news/gwendoline-christie-the-sandman-lucifer-its-fun-to-be-awful-exclusive-image/",
         "timestamp": 1657195420,
-        "sentiment": -7,
+        "sentiment": 4,
         "published": "July 7, 2022 8:03 AM"
     },
     {
@@ -158,7 +149,7 @@
         "category": "worldnews",
         "link": "https://www.themoscowtimes.com/2022/07/07/russian-ruble-drops-17-on-falling-exports-rumored-intervention-a78224",
         "timestamp": 1657196597,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 7, 2022 8:23 AM"
     },
     {
@@ -167,7 +158,7 @@
         "category": "nottheonion",
         "link": "https://www.nationalgeographic.com/science/article/human-cannibalism-nutrition-archaeology-science",
         "timestamp": 1657196989,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 7, 2022 8:29 AM"
     },
     {
@@ -176,7 +167,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/lindsey-graham-subpoena-testify-georgia-glenn-kirschner-1722572",
         "timestamp": 1657198224,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 7, 2022 8:50 AM"
     },
     {
@@ -185,7 +176,7 @@
         "category": "television",
         "link": "https://www.empireonline.com/movies/news/quentin-tarantino-watches-a-lot-of-peppa-pig-with-his-son-exclusive/",
         "timestamp": 1657198570,
-        "sentiment": -7,
+        "sentiment": 4,
         "published": "July 7, 2022 8:56 AM"
     },
     {
@@ -194,7 +185,7 @@
         "category": "technology",
         "link": "https://www.vice.com/en/article/z34xvw/googles-democratic-ai-is-better-at-redistributing-wealth-than-america",
         "timestamp": 1657198854,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 9:00 AM"
     },
     {
@@ -203,17 +194,8 @@
         "category": "politics",
         "link": "https://www.newsweek.com/beto-orourke-greg-abbott-texas-governor-election-poll-1722287",
         "timestamp": 1657200482,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 7, 2022 9:28 AM"
-    },
-    {
-        "title": "10 rescued sea turtles released off Cape Cod",
-        "domain": "newscentermaine.com",
-        "category": "UpliftingNews",
-        "link": "https://www.newscentermaine.com/article/life/animals/wildlife/10-rescued-sea-turtles-released-off-of-cape-cod-ma/97-68113c11-095f-4f91-b3d3-19f41880bc03",
-        "timestamp": 1657200854,
-        "sentiment": 2,
-        "published": "July 7, 2022 9:34 AM"
     },
     {
         "title": "Trump may have committed “serious federal crime” with “targeted” IRS audits of Comey, McCabe: expert - Comey and McCabe suspiciously both faced audits targeting just 1 in 30,000 people each year",
@@ -221,7 +203,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/07/07/may-have-committed-serious-crime-with-targeted-irs-audits-of-comey-mccabe-expert/",
         "timestamp": 1657201041,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 7, 2022 9:37 AM"
     },
     {
@@ -230,7 +212,7 @@
         "category": "politics",
         "link": "https://www.kansascity.com/news/politics-government/article263235743.html#storylink=mainstage_lead",
         "timestamp": 1657201202,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 7, 2022 9:40 AM"
     },
     {
@@ -239,7 +221,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jul/07/finland-passes-law-to-bolster-border-fence-with-russia",
         "timestamp": 1657201711,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 7, 2022 9:48 AM"
     },
     {
@@ -248,7 +230,7 @@
         "category": "television",
         "link": "https://www.rollingstone.com/tv-movies/tv-movie-features/the-bear-review-fx-1377878/",
         "timestamp": 1657201728,
-        "sentiment": -7,
+        "sentiment": 4,
         "published": "July 7, 2022 9:48 AM"
     },
     {
@@ -293,7 +275,7 @@
         "category": "television",
         "link": "https://www.engadget.com/star-trek-strange-new-worlds-110-a-quality-of-mercy-review-130037849.html",
         "timestamp": 1657203436,
-        "sentiment": -7,
+        "sentiment": 4,
         "published": "July 7, 2022 10:17 AM"
     },
     {
@@ -315,21 +297,12 @@
         "published": "July 7, 2022 10:42 AM"
     },
     {
-        "title": "Ken Griffin Spent $54 Million Fighting a Tax Increase for the Rich. Secret IRS Data Shows It Paid Off for Him.",
-        "domain": "propublica.org",
-        "category": "politics",
-        "link": "https://www.propublica.org/article/ken-griffin-illinois-graduated-income-tax",
-        "timestamp": 1657207241,
-        "sentiment": 1,
-        "published": "July 7, 2022 11:20 AM"
-    },
-    {
         "title": "EU Parliament condemns US abortion ruling, seeks safeguards",
         "domain": "apnews.com",
         "category": "worldnews",
         "link": "https://apnews.com/article/abortion-us-supreme-court-health-european-parliament-660014a8f37c31e33a0f4540a34f5bd6",
         "timestamp": 1657207806,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 7, 2022 11:30 AM"
     },
     {
@@ -338,7 +311,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/supreme-court-prayer-roe-v-wade-b2117558.html",
         "timestamp": 1657208260,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 7, 2022 11:37 AM"
     },
     {
@@ -347,7 +320,7 @@
         "category": "worldnews",
         "link": "https://www.eurointegration.com.ua/eng/news/2022/07/7/7142774/",
         "timestamp": 1657209150,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 7, 2022 11:52 AM"
     },
     {
@@ -365,7 +338,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/07/sacha-baron-cohen-lawsuit-victory-ray-moore-who-is-america-borat-1234791912/",
         "timestamp": 1657209499,
-        "sentiment": -7,
+        "sentiment": 4,
         "published": "July 7, 2022 11:58 AM"
     },
     {
@@ -374,7 +347,7 @@
         "category": "technology",
         "link": "https://uploadvr.com/quest-2-no-longer-requires-facebook/",
         "timestamp": 1657210341,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 12:12 PM"
     },
     {
@@ -383,7 +356,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/charlie-cox-vincent-donofrio-echo-1235170929/",
         "timestamp": 1657210595,
-        "sentiment": -7,
+        "sentiment": 4,
         "published": "July 7, 2022 12:16 PM"
     },
     {
@@ -401,17 +374,8 @@
         "category": "technology",
         "link": "https://www.thedrive.com/news/heres-why-some-automakers-tune-out-am-radios-in-new-cars",
         "timestamp": 1657212168,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 12:42 PM"
-    },
-    {
-        "title": "Germany's largest landlord to reduce heating for tenants to save energy",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/business/energy/germanys-largest-landlord-reduce-heating-tenants-save-energy-2022-07-07/",
-        "timestamp": 1657212360,
-        "sentiment": 2,
-        "published": "July 7, 2022 12:46 PM"
     },
     {
         "title": "Boris Johnson's waxwork appears outside job centre",
@@ -419,7 +383,7 @@
         "category": "nottheonion",
         "link": "https://www.blackpoolgazette.co.uk/news/politics/boris-johnsons-madame-tussauds-waxwork-appears-outside-job-centre-in-blackpool-as-pm-quits-as-tory-leader-3760330",
         "timestamp": 1657212535,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 7, 2022 12:48 PM"
     },
     {
@@ -428,7 +392,7 @@
         "category": "politics",
         "link": "https://talkingpointsmemo.com/morning-memo/evangelical-leader-prayer-sessions-scotus-justices",
         "timestamp": 1657213040,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 7, 2022 12:57 PM"
     },
     {
@@ -437,7 +401,7 @@
         "category": "politics",
         "link": "https://www.azcentral.com/story/news/politics/legislature/2022/07/06/recording-police-close-range-now-illegal-new-bill-signed/7816271001/?cid=twitter_azcentral",
         "timestamp": 1657213811,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 7, 2022 1:10 PM"
     },
     {
@@ -446,7 +410,7 @@
         "category": "worldnews",
         "link": "https://www.cbsnews.com/news/mexico-fentanyl-seizure-half-ton-warehouse/?ftag=CNM-00-10aab7e&linkId=172312288",
         "timestamp": 1657213926,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 7, 2022 1:12 PM"
     },
     {
@@ -473,17 +437,8 @@
         "category": "television",
         "link": "https://www.thewrap.com/james-caan-godfather-and-thief-actor-dies-at-82/",
         "timestamp": 1657214438,
-        "sentiment": -7,
+        "sentiment": 4,
         "published": "July 7, 2022 1:20 PM"
-    },
-    {
-        "title": "Tokayev orders to develop oil export routes bypassing Russia",
-        "domain": "m.akipress.com",
-        "category": "ukraine",
-        "link": "https://m.akipress.com/news:673202",
-        "timestamp": 1657214542,
-        "sentiment": 0,
-        "published": "July 7, 2022 1:22 PM"
     },
     {
         "title": "City of Houston sues to shut down corner store for not addressing crime in their area",
@@ -509,8 +464,17 @@
         "category": "technology",
         "link": "https://www.pcgamesn.com/nvidia/rtx-4000-gpu-launch-delay-geforce-3000-oversupply",
         "timestamp": 1657215669,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 1:41 PM"
+    },
+    {
+        "title": "China uses drag sail to clear up space junk successfully",
+        "domain": "newsweek.com",
+        "category": "technology",
+        "link": "https://www.newsweek.com/chinese-space-sail-removes-space-junk-orbit-1722670",
+        "timestamp": 1657216004,
+        "sentiment": 0,
+        "published": "July 7, 2022 1:46 PM"
     },
     {
         "title": "NC governor signs executive order protecting abortion access",
@@ -545,7 +509,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/putins-military-stole-famous-artwork-ukraine-museum-mariupol-council-1722614",
         "timestamp": 1657220226,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 7, 2022 2:57 PM"
     },
     {
@@ -554,7 +518,7 @@
         "category": "miami",
         "link": "https://www.gobankingrates.com/investing/real-estate/cities-cheaper-buy-home-than-rent/",
         "timestamp": 1657220682,
-        "sentiment": 2,
+        "sentiment": 6,
         "published": "July 7, 2022 3:04 PM"
     },
     {
@@ -563,7 +527,7 @@
         "category": "UpliftingNews",
         "link": "https://www.koco.com/article/oklahoma-city-zoo-sumatran-tiger-twins-born/40541047",
         "timestamp": 1657221124,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "July 7, 2022 3:12 PM"
     },
     {
@@ -572,7 +536,7 @@
         "category": "technology",
         "link": "https://www.cnn.com/2022/07/07/tech/sunny-balwani-verdict-theranos/index.html",
         "timestamp": 1657221396,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 3:16 PM"
     },
     {
@@ -608,7 +572,7 @@
         "category": "UpliftingNews",
         "link": "https://www.bloomberg.com/news/articles/2022-07-05/dutch-parliament-approves-to-make-work-from-home-a-legal-right",
         "timestamp": 1657223762,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "July 7, 2022 3:56 PM"
     },
     {
@@ -617,7 +581,7 @@
         "category": "technology",
         "link": "https://techcrunch.com/2022/07/07/tesla-reportedly-nowhere-near-goal-of-installing-1000-solar-roofs-a-week/",
         "timestamp": 1657224413,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 7, 2022 4:06 PM"
     },
     {
@@ -644,7 +608,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/07/joe-pera-talks-with-you-canceled-at-adult-swim-three-seasons-1235059921/",
         "timestamp": 1657226268,
-        "sentiment": -7,
+        "sentiment": 4,
         "published": "July 7, 2022 4:37 PM"
     },
     {
@@ -653,7 +617,7 @@
         "category": "UpliftingNews",
         "link": "https://coloradosun.com/2022/07/06/colorado-abortion-investigations-polis-executive-order/",
         "timestamp": 1657226652,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "July 7, 2022 4:44 PM"
     },
     {
@@ -662,7 +626,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/helicopter-airplane-putin-ally-seized-given-ukrainian-army-1722621",
         "timestamp": 1657226767,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 7, 2022 4:46 PM"
     },
     {
@@ -680,7 +644,7 @@
         "category": "miami",
         "link": "https://fomapets.org/pitstop/",
         "timestamp": 1657227240,
-        "sentiment": 2,
+        "sentiment": 6,
         "published": "July 7, 2022 4:54 PM"
     },
     {
@@ -689,7 +653,7 @@
         "category": "UpliftingNews",
         "link": "https://apnews.com/article/simone-biles-biden-gun-violence-covid-sports-8aa59ba8aa52ef22b4ec7c4d13cdb5ab",
         "timestamp": 1657227445,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "July 7, 2022 4:57 PM"
     },
     {
@@ -698,7 +662,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/07/07/politics/volodymyr-zelensky-interview-cnntv/index.html",
         "timestamp": 1657227870,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 7, 2022 5:04 PM"
     },
     {
@@ -734,7 +698,7 @@
         "category": "UpliftingNews",
         "link": "https://newsreleases.sandia.gov/solar_chile/",
         "timestamp": 1657229732,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "July 7, 2022 5:35 PM"
     },
     {
@@ -743,7 +707,7 @@
         "category": "UpliftingNews",
         "link": "https://kion546.com/news/2022/07/07/governor-gavin-newsom-announces-california-will-make-its-own-insulin/",
         "timestamp": 1657229812,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "July 7, 2022 5:36 PM"
     },
     {
@@ -761,7 +725,7 @@
         "category": "nottheonion",
         "link": "https://www.latimes.com/california/story/2022-07-06/rapper-accused-of-fraud-agrees-to-plead-guilty-but-will-nuke-bizzles-career-fizzle",
         "timestamp": 1657230097,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 7, 2022 5:41 PM"
     },
     {
@@ -788,8 +752,26 @@
         "category": "UpliftingNews",
         "link": "https://blog.simpleanalytics.com/eu-moving-closer-to-facebook-ban",
         "timestamp": 1657232022,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "July 7, 2022 6:13 PM"
+    },
+    {
+        "title": "Belarus Threatens to Attack Poland in Case of “Provocations by the West”",
+        "domain": "eurointegration.com.ua",
+        "category": "ukraine",
+        "link": "https://www.eurointegration.com.ua/eng/news/2022/07/7/7142774/",
+        "timestamp": 1657233054,
+        "sentiment": 0,
+        "published": "July 7, 2022 6:30 PM"
+    },
+    {
+        "title": "EU Parliament condemns U.S. abortion ruling, calls for human rights safeguards",
+        "domain": "pbs.org",
+        "category": "worldnews",
+        "link": "https://www.pbs.org/newshour/world/eu-parliament-condemns-u-s-abortion-ruling-calls-for-human-rights-safeguards",
+        "timestamp": 1657233816,
+        "sentiment": 0,
+        "published": "July 7, 2022 6:43 PM"
     },
     {
         "title": "North Carolina Looks to Remove Public EV Chargers, Probably to the Trash",
@@ -797,7 +779,7 @@
         "category": "nottheonion",
         "link": "https://www.caranddriver.com/news/a40543385/north-carolina-wants-remove-free-public-ev-chargers/",
         "timestamp": 1657234071,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 7, 2022 6:47 PM"
     },
     {
@@ -806,8 +788,17 @@
         "category": "nottheonion",
         "link": "https://www.ctvnews.ca/world/penguins-refuse-to-eat-cheaper-fish-as-inflation-hits-japanese-aquarium-1.5978364",
         "timestamp": 1657234688,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 7, 2022 6:58 PM"
+    },
+    {
+        "title": "'Stranger Things' Holds Three of Nielsen's Top 5 Streaming Weeks Ever After Leading Again With 4.2B Minutes",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/stranger-things-nielsen-top-10-hustle-netflix-1235311458/",
+        "timestamp": 1657235358,
+        "sentiment": 4,
+        "published": "July 7, 2022 7:09 PM"
     },
     {
         "title": "Florida once again has giant calamitous snails that spew parasitic brain worms",
@@ -815,8 +806,62 @@
         "category": "nottheonion",
         "link": "https://arstechnica.com/science/2022/07/florida-battling-giant-savage-snails-that-spread-brain-invading-worms-again/",
         "timestamp": 1657235500,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 7, 2022 7:11 PM"
+    },
+    {
+        "title": "After hitting all-time highs, gas prices are finally coming back down",
+        "domain": "nbcnews.com",
+        "category": "UpliftingNews",
+        "link": "https://www.nbcnews.com/business/energy/hitting-time-highs-gas-prices-are-finally-coming-back-rcna37107",
+        "timestamp": 1657237940,
+        "sentiment": -2,
+        "published": "July 7, 2022 7:52 PM"
+    },
+    {
+        "title": "Video game sales set to fall for first time in years as industry braces for recession",
+        "domain": "cnbc.com",
+        "category": "technology",
+        "link": "https://www.cnbc.com/2022/07/07/video-game-industry-not-recession-proof-sales-set-to-fall-in-2022.html",
+        "timestamp": 1657174821,
+        "sentiment": -2,
+        "published": "July 7, 2022 2:20 AM"
+    },
+    {
+        "title": "10 rescued sea turtles released off Cape Cod",
+        "domain": "newscentermaine.com",
+        "category": "UpliftingNews",
+        "link": "https://www.newscentermaine.com/article/life/animals/wildlife/10-rescued-sea-turtles-released-off-of-cape-cod-ma/97-68113c11-095f-4f91-b3d3-19f41880bc03",
+        "timestamp": 1657200854,
+        "sentiment": 2,
+        "published": "July 7, 2022 9:34 AM"
+    },
+    {
+        "title": "Ken Griffin Spent $54 Million Fighting a Tax Increase for the Rich. Secret IRS Data Shows It Paid Off for Him.",
+        "domain": "propublica.org",
+        "category": "politics",
+        "link": "https://www.propublica.org/article/ken-griffin-illinois-graduated-income-tax",
+        "timestamp": 1657207241,
+        "sentiment": 1,
+        "published": "July 7, 2022 11:20 AM"
+    },
+    {
+        "title": "Germany's largest landlord to reduce heating for tenants to save energy",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/business/energy/germanys-largest-landlord-reduce-heating-tenants-save-energy-2022-07-07/",
+        "timestamp": 1657212360,
+        "sentiment": 2,
+        "published": "July 7, 2022 12:46 PM"
+    },
+    {
+        "title": "Tokayev orders to develop oil export routes bypassing Russia",
+        "domain": "m.akipress.com",
+        "category": "ukraine",
+        "link": "https://m.akipress.com/news:673202",
+        "timestamp": 1657214542,
+        "sentiment": 0,
+        "published": "July 7, 2022 1:22 PM"
     },
     {
         "title": "Boris Johnson met Russian oligarch Lebedev without aides",
@@ -988,15 +1033,6 @@
         "timestamp": 1657213891,
         "sentiment": 1,
         "published": "July 7, 2022 1:11 PM"
-    },
-    {
-        "title": "China uses drag sail to clear up space junk successfully",
-        "domain": "newsweek.com",
-        "category": "technology",
-        "link": "https://www.newsweek.com/chinese-space-sail-removes-space-junk-orbit-1722670",
-        "timestamp": 1657216004,
-        "sentiment": 3,
-        "published": "July 7, 2022 1:46 PM"
     },
     {
         "title": "Ukrainian medic released in prisoner exchange accuses captors of torture",
