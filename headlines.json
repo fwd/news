@@ -5,7 +5,7 @@
         "category": "science",
         "link": "https://corporate.dukehealth.org/news/social-stress-factors-drive-cancer-mechanisms-help-explain-racial-disparities",
         "timestamp": 1657254326,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 8, 2022 12:25 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "nottheonion",
         "link": "https://www.theguardian.com/culture/2022/jul/07/sacha-baron-cohen-defeats-roy-moore-lawsuit",
         "timestamp": 1657255953,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 8, 2022 12:52 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "sports",
         "link": "https://sports.yahoo.com/report-no-watson-suspension-negotiations-165525101.html",
         "timestamp": 1657257443,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 8, 2022 1:17 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "miami",
         "link": "https://open.spotify.com/playlist/6UQAjyNAwknobu1GYT6PKy?si=9aA7waAST3GwOwLCj8dtSw",
         "timestamp": 1657257498,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 8, 2022 1:18 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "worldnews",
         "link": "https://focustaiwan.tw/politics/202207080007",
         "timestamp": 1657258110,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 8, 2022 1:28 AM"
     },
     {
@@ -50,17 +50,17 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/china-demands-end-to-us-taiwan-military-collusion/ar-AAZlo6C?ocid=EMMX&cvid=5b7713ba2a894ec2b8c4ae10680e5669",
         "timestamp": 1657258454,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 8, 2022 1:34 AM"
     },
     {
-        "title": "Reading Literary Fiction Is Associated With a More Complex Worldview",
-        "domain": "journals.sagepub.com",
-        "category": "science",
-        "link": "https://journals.sagepub.com/doi/abs/10.1177/01461672221106059",
-        "timestamp": 1657259115,
-        "sentiment": 0,
-        "published": "July 8, 2022 1:45 AM"
+        "title": "Florida man sentenced to three years of probation and a $7,000 fine in death threat to Rep. Ilhan Omar",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/minnesota/news/florida-man-sentenced-in-death-threat-to-rep-ilhan-omar/",
+        "timestamp": 1657258988,
+        "sentiment": -2,
+        "published": "July 8, 2022 1:43 AM"
     },
     {
         "title": "Another Russian observer says that Russian forces are sustaining very serious losses from Ukrainian HIMARS, which are very accurately targeting Russian command posts.",
@@ -68,8 +68,17 @@
         "category": "ukraine",
         "link": "https://twitter.com/RALee85/status/1545290028355567617?t=xiRpUiNCLNsH_noqCTwGYw&s=19",
         "timestamp": 1657260991,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 8, 2022 2:16 AM"
+    },
+    {
+        "title": "10 millionth tree in Sudbury, Ont., planted with Jane Goodall pitching in",
+        "domain": "cbc.ca",
+        "category": "UpliftingNews",
+        "link": "https://www.cbc.ca/news/canada/sudbury/ten-millionth-tree-planted-sudbury-regreening-1.6513393",
+        "timestamp": 1657262513,
+        "sentiment": 0,
+        "published": "July 8, 2022 2:41 AM"
     },
     {
         "title": "Japan and Argentina condemn Russia for invading Ukraine",
@@ -77,7 +86,7 @@
         "category": "worldnews",
         "link": "https://english.kyodonews.net/news/2022/07/387769540908-japan-argentina-condemn-russia-for-invading-ukraine.html",
         "timestamp": 1657262691,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 8, 2022 2:44 AM"
     },
     {
@@ -86,7 +95,7 @@
         "category": "science",
         "link": "https://www.theguardian.com/environment/2022/jul/08/microplastics-detected-in-meat-milk-and-blood-of-farm-animals",
         "timestamp": 1657263822,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 8, 2022 3:03 AM"
     },
     {
@@ -95,7 +104,7 @@
         "category": "science",
         "link": "http://www.sci-news.com/geology/moab-khotsong-groundwater-10972.html",
         "timestamp": 1657263871,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 8, 2022 3:04 AM"
     },
     {
@@ -106,6 +115,132 @@
         "timestamp": 1657264264,
         "sentiment": 0,
         "published": "July 8, 2022 3:11 AM"
+    },
+    {
+        "title": "Putin claims Russia has barely started campaign in Ukraine, dares west to fight on battlefield | Russia",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jul/08/putin-claims-russia-has-barely-started-campaign-in-ukraine-dares-west-to-fight-on-battlefield",
+        "timestamp": 1657266968,
+        "sentiment": -1,
+        "published": "July 8, 2022 3:56 AM"
+    },
+    {
+        "title": "Germany's parliament votes in favor of NATO accession for Sweden and Finland",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://dw.com/en/germany-approves-finland-and-sweden-nato-membership-bid/a-62403489",
+        "timestamp": 1657269633,
+        "sentiment": -1,
+        "published": "July 8, 2022 4:40 AM"
+    },
+    {
+        "title": "Twitter lays off nearly 100 employees from its recruiting team",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/twitter-layoffs-233150630.html",
+        "timestamp": 1657269756,
+        "sentiment": -7,
+        "published": "July 8, 2022 4:42 AM"
+    },
+    {
+        "title": "Boris Johnson resignation: Hugh Grant encouraged protesters to blast Benny Hill theme",
+        "domain": "sbs.com.au",
+        "category": "nottheonion",
+        "link": "https://www.sbs.com.au/news/article/protesters-blasted-the-benny-hill-theme-as-boris-johnson-resigned-why-was-hugh-grant-involved/nk87rb4h2",
+        "timestamp": 1657269869,
+        "sentiment": 0,
+        "published": "July 8, 2022 4:44 AM"
+    },
+    {
+        "title": "Former FIFA president Sepp Blatter and former UEFA president Michel Platini have been acquitted of corruption by a Swiss court",
+        "domain": "news.sky.com",
+        "category": "sports",
+        "link": "https://news.sky.com/story/sepp-blatter-and-michel-platini-acquitted-of-corruption-by-swiss-court-12647951",
+        "timestamp": 1657269878,
+        "sentiment": -2,
+        "published": "July 8, 2022 4:44 AM"
+    },
+    {
+        "title": "Shinzo Abe, former Japanese prime minister, dies after being shot while giving speech, state broadcaster says",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/shinzo-abe-former-japanese-prime-minister-dies-after-being-shot-while-giving-speech-state-broadcaster-says-12648011",
+        "timestamp": 1657270303,
+        "sentiment": -1,
+        "published": "July 8, 2022 4:51 AM"
+    },
+    {
+        "title": "The FBI didn’t finish over 1 million gun background checks in time to stop a sale in 2020 and 2021",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/fbi-gun-background-checks-delayed-rcna36391",
+        "timestamp": 1657273622,
+        "sentiment": -2,
+        "published": "July 8, 2022 5:47 AM"
+    },
+    {
+        "title": "TikTok sued in US after girls die in 'Blackout Challenge'",
+        "domain": "techxplore.com",
+        "category": "technology",
+        "link": "https://techxplore.com/news/2022-07-tiktok-sued-girls-die-blackout.html",
+        "timestamp": 1657273650,
+        "sentiment": -7,
+        "published": "July 8, 2022 5:47 AM"
+    },
+    {
+        "title": "Netflix introduces spatial audio for Stranger Things and other originals",
+        "domain": "theverge.com",
+        "category": "television",
+        "link": "https://www.theverge.com/2022/7/7/23198333/netflix-spatial-audio-stranger-things-sennheiser",
+        "timestamp": 1657273663,
+        "sentiment": 0,
+        "published": "July 8, 2022 5:47 AM"
+    },
+    {
+        "title": "Zambian Barbra Banda ruled out over 'gender eligibility' issues",
+        "domain": "bbc.com",
+        "category": "sports",
+        "link": "https://www.bbc.com/sport/africa/62057259",
+        "timestamp": 1657274329,
+        "sentiment": -2,
+        "published": "July 8, 2022 5:58 AM"
+    },
+    {
+        "title": "Record-setting quantum entanglement connects two atoms across 20 miles",
+        "domain": "newatlas.com",
+        "category": "science",
+        "link": "https://newatlas.com/telecommunications/quantum-entanglement-atoms-distance-record/",
+        "timestamp": 1657276864,
+        "sentiment": -3,
+        "published": "July 8, 2022 6:41 AM"
+    },
+    {
+        "title": "Another stab in the back of the Russian Federation: Kazakhstan withdraws from the CIS agreement on the currency committee",
+        "domain": "ukrainetoday.org",
+        "category": "ukraine",
+        "link": "https://ukrainetoday.org/2022/07/08/another-stab-in-the-back-of-the-russian-federation-kazakhstan-withdraws-from-the-cis-agreement-on-the-currency-committee/",
+        "timestamp": 1657276944,
+        "sentiment": -3,
+        "published": "July 8, 2022 6:42 AM"
+    },
+    {
+        "title": "Quentin Tarantino reveals he watches Peppa Pig 'a lot'",
+        "domain": "news.sky.com",
+        "category": "nottheonion",
+        "link": "https://news.sky.com/story/quentin-tarantino-reveals-he-watches-peppa-pig-a-lot-12648049",
+        "timestamp": 1657277389,
+        "sentiment": 0,
+        "published": "July 8, 2022 6:49 AM"
+    },
+    {
+        "title": "Reading Literary Fiction Is Associated With a More Complex Worldview",
+        "domain": "journals.sagepub.com",
+        "category": "science",
+        "link": "https://journals.sagepub.com/doi/abs/10.1177/01461672221106059",
+        "timestamp": 1657259115,
+        "sentiment": 0,
+        "published": "July 8, 2022 1:45 AM"
     },
     {
         "title": "Apple TV+ tops Hollywood Critics Association Awards as the most nominated streaming service, with “Severance” and “Ted Lasso” leading Best Drama and Best Comedy categories",
@@ -124,60 +259,6 @@
         "timestamp": 1657269214,
         "sentiment": 0,
         "published": "July 8, 2022 4:33 AM"
-    },
-    {
-        "title": "Twitter lays off nearly 100 employees from its recruiting team",
-        "domain": "engadget.com",
-        "category": "technology",
-        "link": "https://www.engadget.com/twitter-layoffs-233150630.html",
-        "timestamp": 1657269756,
-        "sentiment": -7,
-        "published": "July 8, 2022 4:42 AM"
-    },
-    {
-        "title": "Boris Johnson resignation: Hugh Grant encouraged protesters to blast Benny Hill theme",
-        "domain": "sbs.com.au",
-        "category": "nottheonion",
-        "link": "https://www.sbs.com.au/news/article/protesters-blasted-the-benny-hill-theme-as-boris-johnson-resigned-why-was-hugh-grant-involved/nk87rb4h2",
-        "timestamp": 1657269869,
-        "sentiment": -2,
-        "published": "July 8, 2022 4:44 AM"
-    },
-    {
-        "title": "Former FIFA president Sepp Blatter and former UEFA president Michel Platini have been acquitted of corruption by a Swiss court",
-        "domain": "news.sky.com",
-        "category": "sports",
-        "link": "https://news.sky.com/story/sepp-blatter-and-michel-platini-acquitted-of-corruption-by-swiss-court-12647951",
-        "timestamp": 1657269878,
-        "sentiment": 0,
-        "published": "July 8, 2022 4:44 AM"
-    },
-    {
-        "title": "Shinzo Abe, former Japanese prime minister, dies after being shot while giving speech, state broadcaster says",
-        "domain": "news.sky.com",
-        "category": "worldnews",
-        "link": "https://news.sky.com/story/shinzo-abe-former-japanese-prime-minister-dies-after-being-shot-while-giving-speech-state-broadcaster-says-12648011",
-        "timestamp": 1657270303,
-        "sentiment": -2,
-        "published": "July 8, 2022 4:51 AM"
-    },
-    {
-        "title": "TikTok sued in US after girls die in 'Blackout Challenge'",
-        "domain": "techxplore.com",
-        "category": "technology",
-        "link": "https://techxplore.com/news/2022-07-tiktok-sued-girls-die-blackout.html",
-        "timestamp": 1657273650,
-        "sentiment": -7,
-        "published": "July 8, 2022 5:47 AM"
-    },
-    {
-        "title": "10 millionth tree in Sudbury, Ont., planted with Jane Goodall pitching in",
-        "domain": "cbc.ca",
-        "category": "UpliftingNews",
-        "link": "https://www.cbc.ca/news/canada/sudbury/ten-millionth-tree-planted-sudbury-regreening-1.6513393",
-        "timestamp": 1657262513,
-        "sentiment": 0,
-        "published": "July 8, 2022 2:41 AM"
     },
     {
         "title": "$7 million for 2 years of flower between the pipes in MN",
