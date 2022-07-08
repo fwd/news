@@ -5,7 +5,7 @@
         "category": "science",
         "link": "https://corporate.dukehealth.org/news/social-stress-factors-drive-cancer-mechanisms-help-explain-racial-disparities",
         "timestamp": 1657254326,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 8, 2022 12:25 AM"
     },
     {
@@ -14,17 +14,8 @@
         "category": "nottheonion",
         "link": "https://www.theguardian.com/culture/2022/jul/07/sacha-baron-cohen-defeats-roy-moore-lawsuit",
         "timestamp": 1657255953,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 8, 2022 12:52 AM"
-    },
-    {
-        "title": "Taiwan condemns 'violence' following shooting of Japan's Shinzo Abe",
-        "domain": "focustaiwan.tw",
-        "category": "worldnews",
-        "link": "https://focustaiwan.tw/politics/202207080007",
-        "timestamp": 1657258110,
-        "sentiment": 2,
-        "published": "July 8, 2022 1:28 AM"
     },
     {
         "title": "China demands end to US-Taiwan military 'collusion'",
@@ -32,17 +23,8 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/china-demands-end-to-us-taiwan-military-collusion/ar-AAZlo6C?ocid=EMMX&cvid=5b7713ba2a894ec2b8c4ae10680e5669",
         "timestamp": 1657258454,
-        "sentiment": 2,
-        "published": "July 8, 2022 1:34 AM"
-    },
-    {
-        "title": "10 millionth tree in Sudbury, Ont., planted with Jane Goodall pitching in",
-        "domain": "cbc.ca",
-        "category": "UpliftingNews",
-        "link": "https://www.cbc.ca/news/canada/sudbury/ten-millionth-tree-planted-sudbury-regreening-1.6513393",
-        "timestamp": 1657262513,
         "sentiment": 0,
-        "published": "July 8, 2022 2:41 AM"
+        "published": "July 8, 2022 1:34 AM"
     },
     {
         "title": "Geologists have discovered 1.2-billion-year-old groundwater about 3 km below surface in Moab Khotsong, a gold- and uranium-producing mine in South Africa. This ancient groundwater is enriched in the highest concentrations of radiogenic products yet discovered in fluid.",
@@ -50,7 +32,7 @@
         "category": "science",
         "link": "http://www.sci-news.com/geology/moab-khotsong-groundwater-10972.html",
         "timestamp": 1657263871,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 8, 2022 3:04 AM"
     },
     {
@@ -68,7 +50,7 @@
         "category": "worldnews",
         "link": "https://dw.com/en/germany-approves-finland-and-sweden-nato-membership-bid/a-62403489",
         "timestamp": 1657269633,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 8, 2022 4:40 AM"
     },
     {
@@ -77,7 +59,7 @@
         "category": "technology",
         "link": "https://www.engadget.com/twitter-layoffs-233150630.html",
         "timestamp": 1657269756,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 8, 2022 4:42 AM"
     },
     {
@@ -86,7 +68,7 @@
         "category": "nottheonion",
         "link": "https://www.sbs.com.au/news/article/protesters-blasted-the-benny-hill-theme-as-boris-johnson-resigned-why-was-hugh-grant-involved/nk87rb4h2",
         "timestamp": 1657269869,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 8, 2022 4:44 AM"
     },
     {
@@ -104,7 +86,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/shinzo-abe-former-japanese-prime-minister-dies-after-being-shot-while-giving-speech-state-broadcaster-says-12648011",
         "timestamp": 1657270303,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 8, 2022 4:51 AM"
     },
     {
@@ -113,7 +95,7 @@
         "category": "science",
         "link": "https://blogs.ifas.ufl.edu/news/2022/07/06/gardening-can-cultivate-better-mental-health/",
         "timestamp": 1657273321,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 8, 2022 5:42 AM"
     },
     {
@@ -131,17 +113,8 @@
         "category": "technology",
         "link": "https://techxplore.com/news/2022-07-tiktok-sued-girls-die-blackout.html",
         "timestamp": 1657273650,
-        "sentiment": -4,
-        "published": "July 8, 2022 5:47 AM"
-    },
-    {
-        "title": "Dutch doctor Dr. Rebecca Gomperts and the internet are making sure Americans have access to abortion pills through her online service Aid Access",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/tech/tech-news/dutch-doctor-internet-are-making-sure-americans-access-abortion-pills-rcna35630",
-        "timestamp": 1657273829,
         "sentiment": 0,
-        "published": "July 8, 2022 5:50 AM"
+        "published": "July 8, 2022 5:47 AM"
     },
     {
         "title": "India announces day of mourning for former Japanese Prime Minister Shinzo Abe",
@@ -149,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.hindustantimes.com/india-news/india-announces-day-of-mourning-for-shinzo-abe-101657274058494.html",
         "timestamp": 1657274297,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 8, 2022 5:58 AM"
     },
     {
@@ -171,21 +144,12 @@
         "published": "July 8, 2022 6:16 AM"
     },
     {
-        "title": "Chip off the ol’ trailer: Container storing 40,000 pounds of potato chips catches fire in Ocala",
-        "domain": "clickorlando.com",
-        "category": "florida",
-        "link": "https://www.clickorlando.com/news/local/2022/07/07/chip-off-the-ol-trailer-container-storing-40000-pounds-of-potato-chips-catches-fire-in-ocala/",
-        "timestamp": 1657275983,
-        "sentiment": -2,
-        "published": "July 8, 2022 6:26 AM"
-    },
-    {
         "title": "Record-setting quantum entanglement connects two atoms across 20 miles",
         "domain": "newatlas.com",
         "category": "science",
         "link": "https://newatlas.com/telecommunications/quantum-entanglement-atoms-distance-record/",
         "timestamp": 1657276864,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 8, 2022 6:41 AM"
     },
     {
@@ -194,7 +158,7 @@
         "category": "ukraine",
         "link": "https://ukrainetoday.org/2022/07/08/another-stab-in-the-back-of-the-russian-federation-kazakhstan-withdraws-from-the-cis-agreement-on-the-currency-committee/",
         "timestamp": 1657276944,
-        "sentiment": 2,
+        "sentiment": 3,
         "published": "July 8, 2022 6:42 AM"
     },
     {
@@ -203,7 +167,7 @@
         "category": "nottheonion",
         "link": "https://news.sky.com/story/quentin-tarantino-reveals-he-watches-peppa-pig-a-lot-12648049",
         "timestamp": 1657277389,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 8, 2022 6:49 AM"
     },
     {
@@ -239,7 +203,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/multiple-russian-soldiers-detained-refusing-fight-putins-war-1722915",
         "timestamp": 1657281366,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 8, 2022 7:56 AM"
     },
     {
@@ -248,7 +212,7 @@
         "category": "television",
         "link": "https://www.pastemagazine.com/tv/apple-tv-plus/blackbird-review/",
         "timestamp": 1657282122,
-        "sentiment": 3,
+        "sentiment": 2,
         "published": "July 8, 2022 8:08 AM"
     },
     {
@@ -257,7 +221,7 @@
         "category": "science",
         "link": "https://www.psypost.org/2022/07/curiosity-is-linked-to-crystallized-intelligence-but-not-fluid-intelligence-study-finds-63472",
         "timestamp": 1657282806,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 8, 2022 8:20 AM"
     },
     {
@@ -275,7 +239,7 @@
         "category": "nottheonion",
         "link": "https://www.cnbc.com/2022/07/07/dallas-cowboys-criticized-for-partnership-with-gun-themed-coffee-company-.html",
         "timestamp": 1657283968,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 8, 2022 8:39 AM"
     },
     {
@@ -311,7 +275,7 @@
         "category": "technology",
         "link": "https://www.vice.com/en/article/g5vb44/amazon-workers-who-commute-across-the-us-mexico-border-every-day-are-organizing-for-better-working-conditions",
         "timestamp": 1657285855,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 8, 2022 9:10 AM"
     },
     {
@@ -320,7 +284,7 @@
         "category": "television",
         "link": "https://www.radiotimes.com/tv/drama/gregory-itzin-dead-24-newsupdate/",
         "timestamp": 1657286369,
-        "sentiment": 3,
+        "sentiment": 2,
         "published": "July 8, 2022 9:19 AM"
     },
     {
@@ -347,7 +311,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/science-environment-62094405",
         "timestamp": 1657286838,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 8, 2022 9:27 AM"
     },
     {
@@ -392,7 +356,7 @@
         "category": "worldnews",
         "link": "https://english.sta.si/3058551/court-orders-parliament-to-allow-same-sex-marriages-adoptions",
         "timestamp": 1657288788,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 8, 2022 9:59 AM"
     },
     {
@@ -401,7 +365,7 @@
         "category": "nottheonion",
         "link": "https://nltimes.nl/2022/07/08/microplastics-milk-meat-dutch-cows-pigs-amsterdam-researchers",
         "timestamp": 1657288932,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 8, 2022 10:02 AM"
     },
     {
@@ -410,7 +374,7 @@
         "category": "television",
         "link": "https://film.org.pl/news/nie-zyje-lenny-von-dohlen-znany-z-miasteczka-twin-peaks",
         "timestamp": 1657288986,
-        "sentiment": 3,
+        "sentiment": 2,
         "published": "July 8, 2022 10:03 AM"
     },
     {
@@ -428,7 +392,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/KyivIndependent/status/1545402499447783425?t=OEH-7ftJb7Msl-Le8UMI8A&s=09",
         "timestamp": 1657290560,
-        "sentiment": 2,
+        "sentiment": 3,
         "published": "July 8, 2022 10:29 AM"
     },
     {
@@ -437,7 +401,7 @@
         "category": "ukraine",
         "link": "https://www.democracynow.org/2022/7/8/headlines/us_senators_in_kyiv_call_on_congress_to_declare_russia_a_state_sponsor_of_terror",
         "timestamp": 1657290941,
-        "sentiment": 2,
+        "sentiment": 3,
         "published": "July 8, 2022 10:35 AM"
     },
     {
@@ -455,7 +419,7 @@
         "category": "ukraine",
         "link": "https://www.thetimes.co.uk/article/cut-off-russias-link-to-crimea-says-ex-nato-commander-qh93slq0k",
         "timestamp": 1657292243,
-        "sentiment": 2,
+        "sentiment": 3,
         "published": "July 8, 2022 10:57 AM"
     },
     {
@@ -464,7 +428,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-europe-62092196",
         "timestamp": 1657292343,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 8, 2022 10:59 AM"
     },
     {
@@ -482,7 +446,7 @@
         "category": "technology",
         "link": "https://www.upi.com/Top_News/US/2022/07/07/FCC-orders-carriers-stop-delivering-auto-warranty-robocalls/6041657245371/",
         "timestamp": 1657293039,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 8, 2022 11:10 AM"
     },
     {
@@ -491,7 +455,7 @@
         "category": "television",
         "link": "https://au.sports.yahoo.com/report-former-wwe-ceo-vince-mc-mahon-paid-more-than-12-million-to-4-women-to-suppress-sexual-misconduct-allegations-145006590.html",
         "timestamp": 1657293871,
-        "sentiment": 3,
+        "sentiment": 2,
         "published": "July 8, 2022 11:24 AM"
     },
     {
@@ -500,8 +464,35 @@
         "category": "television",
         "link": "https://tvline.com/2022/07/08/larry-storch-dead-obituary-f-troop-corporal-agarn/",
         "timestamp": 1657294095,
-        "sentiment": 3,
+        "sentiment": 2,
         "published": "July 8, 2022 11:28 AM"
+    },
+    {
+        "title": "‘Doomsday’ Submarine Armed With Nuclear Torpedoes Delivers to Russian Navy",
+        "domain": "news.usni.org",
+        "category": "worldnews",
+        "link": "https://news.usni.org/2022/07/08/doomsday-submarine-armed-with-nuclear-torpedoes-delivers-to-russian-navy",
+        "timestamp": 1657295654,
+        "sentiment": 0,
+        "published": "July 8, 2022 11:54 AM"
+    },
+    {
+        "title": "Satellites spot construction of Russian anti-satellite laser facility",
+        "domain": "space.com",
+        "category": "news",
+        "link": "https://www.space.com/russia-anti-satellite-laser-facility-satellite-photos",
+        "timestamp": 1657296685,
+        "sentiment": 0,
+        "published": "July 8, 2022 12:11 PM"
+    },
+    {
+        "title": "Biden Signs Executive Order Protecting Abortion Rights",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/07/08/politics/what-is-in-biden-abortion-executive-order/index.html",
+        "timestamp": 1657296705,
+        "sentiment": 0,
+        "published": "July 8, 2022 12:11 PM"
     },
     {
         "title": "Activist Asks To Lead Satanic Prayer At FL High School Football Game",
@@ -509,7 +500,7 @@
         "category": "florida",
         "link": "https://patch.com/florida/miami/activist-asks-lead-satanic-prayer-fl-high-school-football-game",
         "timestamp": 1657296890,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 8, 2022 12:14 PM"
     },
     {
@@ -554,7 +545,7 @@
         "category": "nottheonion",
         "link": "https://www.insider.com/thor-director-taika-waititi-forgot-natalie-portman-star-wars-2022-7",
         "timestamp": 1657298183,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 8, 2022 12:36 PM"
     },
     {
@@ -563,7 +554,7 @@
         "category": "technology",
         "link": "https://hothardware.com/news/study-reveals-government-websites-serve-tracking-cookies-without-consent",
         "timestamp": 1657298477,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 8, 2022 12:41 PM"
     },
     {
@@ -581,7 +572,7 @@
         "category": "florida",
         "link": "https://www.tallahassee.com/story/news/2022/07/08/fentanyl-gadsden-quincy-havana-er-tmh-drugs-overdose-narcan/7830028001/",
         "timestamp": 1657299461,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 8, 2022 12:57 PM"
     },
     {
@@ -590,7 +581,7 @@
         "category": "technology",
         "link": "https://www.engadget.com/new-york-concealed-carry-permit-social-media-accounts-154624629.html",
         "timestamp": 1657300299,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 8, 2022 1:11 PM"
     },
     {
@@ -599,17 +590,53 @@
         "category": "technology",
         "link": "https://www.caranddriver.com/news/a40543385/north-carolina-wants-remove-free-public-ev-chargers/",
         "timestamp": 1657300368,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 8, 2022 1:12 PM"
     },
     {
-        "title": "Plant-based meat by far the best climate investment, report finds",
-        "domain": "theguardian.com",
+        "title": "Glycerate from intestinal fructose metabolism induces islet cell damage and glucose intolerance - Study in mice finds that combining high linoleic acid diet with fructose leads to pancreatic islet damage and insulin resistance",
+        "domain": "sciencedirect.com",
         "category": "science",
-        "link": "https://www.theguardian.com/environment/2022/jul/07/plant-based-meat-by-far-the-best-climate-investment-report-finds",
-        "timestamp": 1657302453,
+        "link": "https://www.sciencedirect.com/science/article/pii/S1550413122001899",
+        "timestamp": 1657301292,
+        "sentiment": -6,
+        "published": "July 8, 2022 1:28 PM"
+    },
+    {
+        "title": "BREAKING: US announces new $400 million aid package to Ukraine",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/jseldin/status/1545460581188214789",
+        "timestamp": 1657301842,
+        "sentiment": 3,
+        "published": "July 8, 2022 1:37 PM"
+    },
+    {
+        "title": "Study found that when social defeat takes place during the inactive phase of the day, most of the defeated animals subsequently fall asleep, this restorative sleep is preventing a lasting state of anxiety because social defeat activates midbrain cells, promoting sleep and reducing anxiety in mice",
+        "domain": "science.org",
+        "category": "science",
+        "link": "https://www.science.org/doi/10.1126/science.adc9782",
+        "timestamp": 1657302327,
+        "sentiment": -6,
+        "published": "July 8, 2022 1:45 PM"
+    },
+    {
+        "title": "U.S. to send 15th military package to Ukraine, bringing total aid in Russia war to $7 billion",
+        "domain": "cnbc.com",
+        "category": "worldnews",
+        "link": "https://www.cnbc.com/2022/07/08/us-to-send-15th-military-package-to-ukraine-bringing-total-aid-in-russia-war-to-7-billion-.html",
+        "timestamp": 1657302923,
         "sentiment": 0,
-        "published": "July 8, 2022 1:47 PM"
+        "published": "July 8, 2022 1:55 PM"
+    },
+    {
+        "title": "Candice Patton: CW Didn't Protect Me Against Racist 'Flash' Fans",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/news/candice-patton-cw-racist-flash-fans-1235311805/",
+        "timestamp": 1657303333,
+        "sentiment": 2,
+        "published": "July 8, 2022 2:02 PM"
     },
     {
         "title": "London Zoo releases first footage of rare newborn tiger cub triplets",
@@ -619,6 +646,96 @@
         "timestamp": 1657303387,
         "sentiment": 0,
         "published": "July 8, 2022 2:03 PM"
+    },
+    {
+        "title": "Activists say Amazon misled shareholders about warehouse working conditions",
+        "domain": "techxplore.com",
+        "category": "technology",
+        "link": "https://techxplore.com/news/2022-07-activists-amazon-misled-shareholders-warehouse.html",
+        "timestamp": 1657304242,
+        "sentiment": 0,
+        "published": "July 8, 2022 2:17 PM"
+    },
+    {
+        "title": "WWE's Vince McMahon paid $12 million in hush money to multiple women, report says",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/07/08/media/vince-mcmahon-wwe-money/index.html?utm_medium=social&utm_term=link&utm_content=2022-07-08T18%3A00%3A13&utm_source=twCNN",
+        "timestamp": 1657304530,
+        "sentiment": 0,
+        "published": "July 8, 2022 2:22 PM"
+    },
+    {
+        "title": "Martin Freeman Confirms Marvel Return as Everett K Ross in 'Secret Invasion'",
+        "domain": "radiotimes.com",
+        "category": "television",
+        "link": "https://www.radiotimes.com/tv/sci-fi/martin-freeman-secret-invasion-exclusive-newsupdate/",
+        "timestamp": 1657304645,
+        "sentiment": 2,
+        "published": "July 8, 2022 2:24 PM"
+    },
+    {
+        "title": "Despite major differences of opinion on the motives behind and solutions to mass gun violence, right-leaning respondents who favor gun rights and left-leaning proponents of gun control are starting to converge in their belief that enough is enough and change is needed.",
+        "domain": "brookings.edu",
+        "category": "science",
+        "link": "https://www.brookings.edu/blog/up-front/2022/06/15/how-cynicism-and-misinformation-add-to-the-emotional-costs-of-gun-violence/",
+        "timestamp": 1657305209,
+        "sentiment": -6,
+        "published": "July 8, 2022 2:33 PM"
+    },
+    {
+        "title": "Man acquitted of rape because 'tempted to dare' by open door",
+        "domain": "ansa.it",
+        "category": "nottheonion",
+        "link": "https://www.ansa.it/english/news/general_news/2022/07/08/man-acquitted-of-rape-because-tempted-to-dare-by-open-door_92c53126-1c7f-4862-99e0-7426c80a786e.html",
+        "timestamp": 1657305565,
+        "sentiment": -2,
+        "published": "July 8, 2022 2:39 PM"
+    },
+    {
+        "title": "Taiwan condemns 'violence' following shooting of Japan's Shinzo Abe",
+        "domain": "focustaiwan.tw",
+        "category": "worldnews",
+        "link": "https://focustaiwan.tw/politics/202207080007",
+        "timestamp": 1657258110,
+        "sentiment": 2,
+        "published": "July 8, 2022 1:28 AM"
+    },
+    {
+        "title": "10 millionth tree in Sudbury, Ont., planted with Jane Goodall pitching in",
+        "domain": "cbc.ca",
+        "category": "UpliftingNews",
+        "link": "https://www.cbc.ca/news/canada/sudbury/ten-millionth-tree-planted-sudbury-regreening-1.6513393",
+        "timestamp": 1657262513,
+        "sentiment": 0,
+        "published": "July 8, 2022 2:41 AM"
+    },
+    {
+        "title": "Dutch doctor Dr. Rebecca Gomperts and the internet are making sure Americans have access to abortion pills through her online service Aid Access",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/tech/tech-news/dutch-doctor-internet-are-making-sure-americans-access-abortion-pills-rcna35630",
+        "timestamp": 1657273829,
+        "sentiment": 0,
+        "published": "July 8, 2022 5:50 AM"
+    },
+    {
+        "title": "Chip off the ol’ trailer: Container storing 40,000 pounds of potato chips catches fire in Ocala",
+        "domain": "clickorlando.com",
+        "category": "florida",
+        "link": "https://www.clickorlando.com/news/local/2022/07/07/chip-off-the-ol-trailer-container-storing-40000-pounds-of-potato-chips-catches-fire-in-ocala/",
+        "timestamp": 1657275983,
+        "sentiment": -2,
+        "published": "July 8, 2022 6:26 AM"
+    },
+    {
+        "title": "Plant-based meat by far the best climate investment, report finds",
+        "domain": "theguardian.com",
+        "category": "science",
+        "link": "https://www.theguardian.com/environment/2022/jul/07/plant-based-meat-by-far-the-best-climate-investment-report-finds",
+        "timestamp": 1657302453,
+        "sentiment": 0,
+        "published": "July 8, 2022 1:47 PM"
     },
     {
         "title": "25 Republican State Senators In Ohio Were Sent Feces In The Mail",
