@@ -5,7 +5,7 @@
         "category": "science",
         "link": "https://corporate.dukehealth.org/news/social-stress-factors-drive-cancer-mechanisms-help-explain-racial-disparities",
         "timestamp": 1657254326,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 8, 2022 12:25 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "nottheonion",
         "link": "https://www.theguardian.com/culture/2022/jul/07/sacha-baron-cohen-defeats-roy-moore-lawsuit",
         "timestamp": 1657255953,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 8, 2022 12:52 AM"
     },
     {
@@ -27,21 +27,12 @@
         "published": "July 8, 2022 1:17 AM"
     },
     {
-        "title": "1980s Miami/Little Havana 80s Music Playlist on Spotify. Scarface Themed, American + Latin mix.",
-        "domain": "open.spotify.com",
-        "category": "miami",
-        "link": "https://open.spotify.com/playlist/6UQAjyNAwknobu1GYT6PKy?si=9aA7waAST3GwOwLCj8dtSw",
-        "timestamp": 1657257498,
-        "sentiment": 1,
-        "published": "July 8, 2022 1:18 AM"
-    },
-    {
         "title": "Taiwan condemns 'violence' following shooting of Japan's Shinzo Abe",
         "domain": "focustaiwan.tw",
         "category": "worldnews",
         "link": "https://focustaiwan.tw/politics/202207080007",
         "timestamp": 1657258110,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 8, 2022 1:28 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/china-demands-end-to-us-taiwan-military-collusion/ar-AAZlo6C?ocid=EMMX&cvid=5b7713ba2a894ec2b8c4ae10680e5669",
         "timestamp": 1657258454,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 8, 2022 1:34 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/minnesota/news/florida-man-sentenced-in-death-threat-to-rep-ilhan-omar/",
         "timestamp": 1657258988,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 8, 2022 1:43 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/RALee85/status/1545290028355567617?t=xiRpUiNCLNsH_noqCTwGYw&s=19",
         "timestamp": 1657260991,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 8, 2022 2:16 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "UpliftingNews",
         "link": "https://www.cbc.ca/news/canada/sudbury/ten-millionth-tree-planted-sudbury-regreening-1.6513393",
         "timestamp": 1657262513,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 8, 2022 2:41 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "worldnews",
         "link": "https://english.kyodonews.net/news/2022/07/387769540908-japan-argentina-condemn-russia-for-invading-ukraine.html",
         "timestamp": 1657262691,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 8, 2022 2:44 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "science",
         "link": "https://www.theguardian.com/environment/2022/jul/08/microplastics-detected-in-meat-milk-and-blood-of-farm-animals",
         "timestamp": 1657263822,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 8, 2022 3:03 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "science",
         "link": "http://www.sci-news.com/geology/moab-khotsong-groundwater-10972.html",
         "timestamp": 1657263871,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 8, 2022 3:04 AM"
     },
     {
@@ -113,17 +104,17 @@
         "category": "UpliftingNews",
         "link": "https://www.axios.com/2022/07/07/fin-whales-return-antarctica?utm_source=twitter&utm_medium=social&utm_campaign=editorial&utm_content=energy-environment-finwhales",
         "timestamp": 1657264264,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 8, 2022 3:11 AM"
     },
     {
-        "title": "Putin claims Russia has barely started campaign in Ukraine, dares west to fight on battlefield | Russia",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/jul/08/putin-claims-russia-has-barely-started-campaign-in-ukraine-dares-west-to-fight-on-battlefield",
-        "timestamp": 1657266968,
-        "sentiment": -1,
-        "published": "July 8, 2022 3:56 AM"
+        "title": "Apple TV+ tops Hollywood Critics Association Awards as the most nominated streaming service, with “Severance” and “Ted Lasso” leading Best Drama and Best Comedy categories",
+        "domain": "apple.com",
+        "category": "television",
+        "link": "https://www.apple.com/tv-pr/news/2022/07/apple-tv-tops-hollywood-critics-association-awards-as-the-most-nominated-streaming-service-with-severance-and-ted-lasso-leading-best-drama-and-best-comedy-categories/",
+        "timestamp": 1657266217,
+        "sentiment": 12,
+        "published": "July 8, 2022 3:43 AM"
     },
     {
         "title": "Germany's parliament votes in favor of NATO accession for Sweden and Finland",
@@ -131,7 +122,7 @@
         "category": "worldnews",
         "link": "https://dw.com/en/germany-approves-finland-and-sweden-nato-membership-bid/a-62403489",
         "timestamp": 1657269633,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 8, 2022 4:40 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "technology",
         "link": "https://www.engadget.com/twitter-layoffs-233150630.html",
         "timestamp": 1657269756,
-        "sentiment": -7,
+        "sentiment": -1,
         "published": "July 8, 2022 4:42 AM"
     },
     {
@@ -149,7 +140,7 @@
         "category": "nottheonion",
         "link": "https://www.sbs.com.au/news/article/protesters-blasted-the-benny-hill-theme-as-boris-johnson-resigned-why-was-hugh-grant-involved/nk87rb4h2",
         "timestamp": 1657269869,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 8, 2022 4:44 AM"
     },
     {
@@ -167,8 +158,35 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/shinzo-abe-former-japanese-prime-minister-dies-after-being-shot-while-giving-speech-state-broadcaster-says-12648011",
         "timestamp": 1657270303,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 8, 2022 4:51 AM"
+    },
+    {
+        "title": "The TikTok ‘blackout challenge’ has now allegedly killed seven kids",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2022/7/7/23199058/tiktok-lawsuits-blackout-challenge-children-death",
+        "timestamp": 1657272753,
+        "sentiment": -1,
+        "published": "July 8, 2022 5:32 AM"
+    },
+    {
+        "title": "Blinken to Russian delegation: Ukraine is not your country, and its grain is not your grain",
+        "domain": "ukrinform.net",
+        "category": "ukraine",
+        "link": "https://www.ukrinform.net/rubric-polytics/3524615-blinken-to-russian-delegation-ukraine-is-not-your-country-and-its-grain-is-not-your-grain.html",
+        "timestamp": 1657273228,
+        "sentiment": 0,
+        "published": "July 8, 2022 5:40 AM"
+    },
+    {
+        "title": "Lavrov Walks Out of G20 Talks as West Presses Moscow on Ukraine - The Moscow Times",
+        "domain": "themoscowtimes.com",
+        "category": "ukraine",
+        "link": "https://www.themoscowtimes.com/2022/07/08/lavrov-walks-out-of-g20-talks-as-west-presses-moscow-on-ukraine-a78242",
+        "timestamp": 1657273614,
+        "sentiment": 0,
+        "published": "July 8, 2022 5:46 AM"
     },
     {
         "title": "The FBI didn’t finish over 1 million gun background checks in time to stop a sale in 2020 and 2021",
@@ -176,7 +194,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/fbi-gun-background-checks-delayed-rcna36391",
         "timestamp": 1657273622,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 8, 2022 5:47 AM"
     },
     {
@@ -185,16 +203,7 @@
         "category": "technology",
         "link": "https://techxplore.com/news/2022-07-tiktok-sued-girls-die-blackout.html",
         "timestamp": 1657273650,
-        "sentiment": -7,
-        "published": "July 8, 2022 5:47 AM"
-    },
-    {
-        "title": "Netflix introduces spatial audio for Stranger Things and other originals",
-        "domain": "theverge.com",
-        "category": "television",
-        "link": "https://www.theverge.com/2022/7/7/23198333/netflix-spatial-audio-stranger-things-sennheiser",
-        "timestamp": 1657273663,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 8, 2022 5:47 AM"
     },
     {
@@ -207,12 +216,21 @@
         "published": "July 8, 2022 5:58 AM"
     },
     {
+        "title": "Gavin Newsom punches GOP to Democratic applause",
+        "domain": "thehill.com",
+        "category": "politics",
+        "link": "https://thehill.com/homenews/campaign/3549453-gavin-newsom-punches-gop-to-democratic-applause/",
+        "timestamp": 1657275388,
+        "sentiment": -2,
+        "published": "July 8, 2022 6:16 AM"
+    },
+    {
         "title": "Record-setting quantum entanglement connects two atoms across 20 miles",
         "domain": "newatlas.com",
         "category": "science",
         "link": "https://newatlas.com/telecommunications/quantum-entanglement-atoms-distance-record/",
         "timestamp": 1657276864,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 8, 2022 6:41 AM"
     },
     {
@@ -221,7 +239,7 @@
         "category": "ukraine",
         "link": "https://ukrainetoday.org/2022/07/08/another-stab-in-the-back-of-the-russian-federation-kazakhstan-withdraws-from-the-cis-agreement-on-the-currency-committee/",
         "timestamp": 1657276944,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 8, 2022 6:42 AM"
     },
     {
@@ -230,8 +248,44 @@
         "category": "nottheonion",
         "link": "https://news.sky.com/story/quentin-tarantino-reveals-he-watches-peppa-pig-a-lot-12648049",
         "timestamp": 1657277389,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 8, 2022 6:49 AM"
+    },
+    {
+        "title": "Lavrov walks out G-20, says no talks needed if West hopes Ukraine's win",
+        "domain": "english.kyodonews.net",
+        "category": "worldnews",
+        "link": "https://english.kyodonews.net/news/2022/07/5ba00e971fc4-g-20-begins-talks-on-food-energy-issues-with-us-russia-row-expected.html",
+        "timestamp": 1657279618,
+        "sentiment": -2,
+        "published": "July 8, 2022 7:26 AM"
+    },
+    {
+        "title": "1980s Miami/Little Havana 80s Music Playlist on Spotify. Scarface Themed, American + Latin mix.",
+        "domain": "open.spotify.com",
+        "category": "miami",
+        "link": "https://open.spotify.com/playlist/6UQAjyNAwknobu1GYT6PKy?si=9aA7waAST3GwOwLCj8dtSw",
+        "timestamp": 1657257498,
+        "sentiment": 1,
+        "published": "July 8, 2022 1:18 AM"
+    },
+    {
+        "title": "Putin claims Russia has barely started campaign in Ukraine, dares west to fight on battlefield | Russia",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jul/08/putin-claims-russia-has-barely-started-campaign-in-ukraine-dares-west-to-fight-on-battlefield",
+        "timestamp": 1657266968,
+        "sentiment": -1,
+        "published": "July 8, 2022 3:56 AM"
+    },
+    {
+        "title": "Netflix introduces spatial audio for Stranger Things and other originals",
+        "domain": "theverge.com",
+        "category": "television",
+        "link": "https://www.theverge.com/2022/7/7/23198333/netflix-spatial-audio-stranger-things-sennheiser",
+        "timestamp": 1657273663,
+        "sentiment": 0,
+        "published": "July 8, 2022 5:47 AM"
     },
     {
         "title": "Reading Literary Fiction Is Associated With a More Complex Worldview",
@@ -241,15 +295,6 @@
         "timestamp": 1657259115,
         "sentiment": 0,
         "published": "July 8, 2022 1:45 AM"
-    },
-    {
-        "title": "Apple TV+ tops Hollywood Critics Association Awards as the most nominated streaming service, with “Severance” and “Ted Lasso” leading Best Drama and Best Comedy categories",
-        "domain": "apple.com",
-        "category": "television",
-        "link": "https://www.apple.com/tv-pr/news/2022/07/apple-tv-tops-hollywood-critics-association-awards-as-the-most-nominated-streaming-service-with-severance-and-ted-lasso-leading-best-drama-and-best-comedy-categories/",
-        "timestamp": 1657266217,
-        "sentiment": 12,
-        "published": "July 8, 2022 3:43 AM"
     },
     {
         "title": "Charles Darwin's stolen and returned Tree of Life sketch has gone on free public display",
