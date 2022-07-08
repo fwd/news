@@ -5,7 +5,7 @@
         "category": "science",
         "link": "https://corporate.dukehealth.org/news/social-stress-factors-drive-cancer-mechanisms-help-explain-racial-disparities",
         "timestamp": 1657254326,
-        "sentiment": 1,
+        "sentiment": -3,
         "published": "July 8, 2022 12:25 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "nottheonion",
         "link": "https://www.theguardian.com/culture/2022/jul/07/sacha-baron-cohen-defeats-roy-moore-lawsuit",
         "timestamp": 1657255953,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 8, 2022 12:52 AM"
     },
     {
@@ -32,8 +32,17 @@
         "category": "miami",
         "link": "https://open.spotify.com/playlist/6UQAjyNAwknobu1GYT6PKy?si=9aA7waAST3GwOwLCj8dtSw",
         "timestamp": 1657257498,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 8, 2022 1:18 AM"
+    },
+    {
+        "title": "Taiwan condemns 'violence' following shooting of Japan's Shinzo Abe",
+        "domain": "focustaiwan.tw",
+        "category": "worldnews",
+        "link": "https://focustaiwan.tw/politics/202207080007",
+        "timestamp": 1657258110,
+        "sentiment": -2,
+        "published": "July 8, 2022 1:28 AM"
     },
     {
         "title": "China demands end to US-Taiwan military 'collusion'",
@@ -41,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/china-demands-end-to-us-taiwan-military-collusion/ar-AAZlo6C?ocid=EMMX&cvid=5b7713ba2a894ec2b8c4ae10680e5669",
         "timestamp": 1657258454,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 8, 2022 1:34 AM"
     },
     {
@@ -50,8 +59,17 @@
         "category": "science",
         "link": "https://journals.sagepub.com/doi/abs/10.1177/01461672221106059",
         "timestamp": 1657259115,
-        "sentiment": 1,
+        "sentiment": -3,
         "published": "July 8, 2022 1:45 AM"
+    },
+    {
+        "title": "Another Russian observer says that Russian forces are sustaining very serious losses from Ukrainian HIMARS, which are very accurately targeting Russian command posts.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/RALee85/status/1545290028355567617?t=xiRpUiNCLNsH_noqCTwGYw&s=19",
+        "timestamp": 1657260991,
+        "sentiment": -3,
+        "published": "July 8, 2022 2:16 AM"
     },
     {
         "title": "10 millionth tree in Sudbury, Ont., planted with Jane Goodall pitching in",
@@ -63,12 +81,21 @@
         "published": "July 8, 2022 2:41 AM"
     },
     {
+        "title": "Microplastics detected in meat, milk and blood of farm animals, worrying scientists",
+        "domain": "theguardian.com",
+        "category": "science",
+        "link": "https://www.theguardian.com/environment/2022/jul/08/microplastics-detected-in-meat-milk-and-blood-of-farm-animals",
+        "timestamp": 1657263822,
+        "sentiment": -3,
+        "published": "July 8, 2022 3:03 AM"
+    },
+    {
         "title": "Geologists have discovered 1.2-billion-year-old groundwater about 3 km below surface in Moab Khotsong, a gold- and uranium-producing mine in South Africa. This ancient groundwater is enriched in the highest concentrations of radiogenic products yet discovered in fluid.",
         "domain": "sci-news.com",
         "category": "science",
         "link": "http://www.sci-news.com/geology/moab-khotsong-groundwater-10972.html",
         "timestamp": 1657263871,
-        "sentiment": 1,
+        "sentiment": -3,
         "published": "July 8, 2022 3:04 AM"
     },
     {
@@ -79,6 +106,42 @@
         "timestamp": 1657264264,
         "sentiment": 0,
         "published": "July 8, 2022 3:11 AM"
+    },
+    {
+        "title": "$7 million for 2 years of flower between the pipes in MN",
+        "domain": "espn.com",
+        "category": "sports",
+        "link": "https://www.espn.com/nhl/story/_/id/34208620/minnesota-wild-bring-back-goaltender-marc-andre-fleury-7-million-2-year-deal",
+        "timestamp": 1657264806,
+        "sentiment": 0,
+        "published": "July 8, 2022 3:20 AM"
+    },
+    {
+        "title": "Boris Johnson resignation: Hugh Grant encouraged protesters to blast Benny Hill theme",
+        "domain": "sbs.com.au",
+        "category": "nottheonion",
+        "link": "https://www.sbs.com.au/news/article/protesters-blasted-the-benny-hill-theme-as-boris-johnson-resigned-why-was-hugh-grant-involved/nk87rb4h2",
+        "timestamp": 1657269869,
+        "sentiment": -2,
+        "published": "July 8, 2022 4:44 AM"
+    },
+    {
+        "title": "Former FIFA president Sepp Blatter and former UEFA president Michel Platini have been acquitted of corruption by a Swiss court",
+        "domain": "news.sky.com",
+        "category": "sports",
+        "link": "https://news.sky.com/story/sepp-blatter-and-michel-platini-acquitted-of-corruption-by-swiss-court-12647951",
+        "timestamp": 1657269878,
+        "sentiment": 0,
+        "published": "July 8, 2022 4:44 AM"
+    },
+    {
+        "title": "Shinzo Abe, former Japanese prime minister, dies after being shot while giving speech, state broadcaster says",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/shinzo-abe-former-japanese-prime-minister-dies-after-being-shot-while-giving-speech-state-broadcaster-says-12648011",
+        "timestamp": 1657270303,
+        "sentiment": -2,
+        "published": "July 8, 2022 4:51 AM"
     },
     {
         "title": "Chinese nationalists welcome attack on Japan's ex-PM amid anniversary of Sino-Japanese war",
