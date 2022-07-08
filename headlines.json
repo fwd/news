@@ -14,17 +14,8 @@
         "category": "nottheonion",
         "link": "https://www.theguardian.com/culture/2022/jul/07/sacha-baron-cohen-defeats-roy-moore-lawsuit",
         "timestamp": 1657255953,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 8, 2022 12:52 AM"
-    },
-    {
-        "title": "China demands end to US-Taiwan military 'collusion'",
-        "domain": "msn.com",
-        "category": "worldnews",
-        "link": "https://www.msn.com/en-us/news/world/china-demands-end-to-us-taiwan-military-collusion/ar-AAZlo6C?ocid=EMMX&cvid=5b7713ba2a894ec2b8c4ae10680e5669",
-        "timestamp": 1657258454,
-        "sentiment": 0,
-        "published": "July 8, 2022 1:34 AM"
     },
     {
         "title": "Geologists have discovered 1.2-billion-year-old groundwater about 3 km below surface in Moab Khotsong, a gold- and uranium-producing mine in South Africa. This ancient groundwater is enriched in the highest concentrations of radiogenic products yet discovered in fluid.",
@@ -45,30 +36,12 @@
         "published": "July 8, 2022 3:11 AM"
     },
     {
-        "title": "Germany's parliament votes in favor of NATO accession for Sweden and Finland",
-        "domain": "dw.com",
-        "category": "worldnews",
-        "link": "https://dw.com/en/germany-approves-finland-and-sweden-nato-membership-bid/a-62403489",
-        "timestamp": 1657269633,
-        "sentiment": 0,
-        "published": "July 8, 2022 4:40 AM"
-    },
-    {
-        "title": "Twitter lays off nearly 100 employees from its recruiting team",
-        "domain": "engadget.com",
-        "category": "technology",
-        "link": "https://www.engadget.com/twitter-layoffs-233150630.html",
-        "timestamp": 1657269756,
-        "sentiment": 0,
-        "published": "July 8, 2022 4:42 AM"
-    },
-    {
         "title": "Boris Johnson resignation: Hugh Grant encouraged protesters to blast Benny Hill theme",
         "domain": "sbs.com.au",
         "category": "nottheonion",
         "link": "https://www.sbs.com.au/news/article/protesters-blasted-the-benny-hill-theme-as-boris-johnson-resigned-why-was-hugh-grant-involved/nk87rb4h2",
         "timestamp": 1657269869,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 8, 2022 4:44 AM"
     },
     {
@@ -104,7 +77,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/fbi-gun-background-checks-delayed-rcna36391",
         "timestamp": 1657273622,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 8, 2022 5:47 AM"
     },
     {
@@ -158,7 +131,7 @@
         "category": "ukraine",
         "link": "https://ukrainetoday.org/2022/07/08/another-stab-in-the-back-of-the-russian-federation-kazakhstan-withdraws-from-the-cis-agreement-on-the-currency-committee/",
         "timestamp": 1657276944,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 8, 2022 6:42 AM"
     },
     {
@@ -167,7 +140,7 @@
         "category": "nottheonion",
         "link": "https://news.sky.com/story/quentin-tarantino-reveals-he-watches-peppa-pig-a-lot-12648049",
         "timestamp": 1657277389,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 8, 2022 6:49 AM"
     },
     {
@@ -230,7 +203,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/tech/tech-news/gun-applicants-new-york-will-hand-social-accounts-rcna37251",
         "timestamp": 1657283404,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 8, 2022 8:30 AM"
     },
     {
@@ -239,7 +212,7 @@
         "category": "nottheonion",
         "link": "https://www.cnbc.com/2022/07/07/dallas-cowboys-criticized-for-partnership-with-gun-themed-coffee-company-.html",
         "timestamp": 1657283968,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 8, 2022 8:39 AM"
     },
     {
@@ -248,7 +221,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/missing-man-fell-shredder-south-carolina-recycling-plant-coroner-finds-rcna37240",
         "timestamp": 1657284889,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 8, 2022 8:54 AM"
     },
     {
@@ -333,6 +306,15 @@
         "published": "July 8, 2022 9:44 AM"
     },
     {
+        "title": "Microplastics found in two thirds of meat and dairy for the first time, says study",
+        "domain": "euronews.com",
+        "category": "worldnews",
+        "link": "https://www.euronews.com/green/2022/07/08/microplastics-polluting-our-blood-foetuses-and-now-the-dairy-and-meat-we-eat",
+        "timestamp": 1657288140,
+        "sentiment": 0,
+        "published": "July 8, 2022 9:49 AM"
+    },
+    {
         "title": "Too many Americans want a dictatorship, not democracy. That fails our national motto",
         "domain": "fresnobee.com",
         "category": "politics",
@@ -365,7 +347,7 @@
         "category": "nottheonion",
         "link": "https://nltimes.nl/2022/07/08/microplastics-milk-meat-dutch-cows-pigs-amsterdam-researchers",
         "timestamp": 1657288932,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 8, 2022 10:02 AM"
     },
     {
@@ -383,7 +365,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/nbc-out/out-community-voices/texas-trans-activist-kai-shappley-flees-state-years-advocacy-rcna37000?cid=sm_npd_nn_tw_ma",
         "timestamp": 1657290179,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 8, 2022 10:22 AM"
     },
     {
@@ -392,7 +374,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/KyivIndependent/status/1545402499447783425?t=OEH-7ftJb7Msl-Le8UMI8A&s=09",
         "timestamp": 1657290560,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 8, 2022 10:29 AM"
     },
     {
@@ -401,7 +383,7 @@
         "category": "ukraine",
         "link": "https://www.democracynow.org/2022/7/8/headlines/us_senators_in_kyiv_call_on_congress_to_declare_russia_a_state_sponsor_of_terror",
         "timestamp": 1657290941,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 8, 2022 10:35 AM"
     },
     {
@@ -419,7 +401,7 @@
         "category": "ukraine",
         "link": "https://www.thetimes.co.uk/article/cut-off-russias-link-to-crimea-says-ex-nato-commander-qh93slq0k",
         "timestamp": 1657292243,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 8, 2022 10:57 AM"
     },
     {
@@ -437,7 +419,7 @@
         "category": "news",
         "link": "https://www.nbc15.com/2022/07/08/wisconsin-supreme-court-disallows-absentee-ballot-drop-boxes-2/",
         "timestamp": 1657292517,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 8, 2022 11:01 AM"
     },
     {
@@ -482,16 +464,7 @@
         "category": "news",
         "link": "https://www.space.com/russia-anti-satellite-laser-facility-satellite-photos",
         "timestamp": 1657296685,
-        "sentiment": 0,
-        "published": "July 8, 2022 12:11 PM"
-    },
-    {
-        "title": "Biden Signs Executive Order Protecting Abortion Rights",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/07/08/politics/what-is-in-biden-abortion-executive-order/index.html",
-        "timestamp": 1657296705,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 8, 2022 12:11 PM"
     },
     {
@@ -527,7 +500,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/08/us/nevada-man-jailed-misidentified-wins-settlement/index.html",
         "timestamp": 1657297867,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 8, 2022 12:31 PM"
     },
     {
@@ -545,7 +518,7 @@
         "category": "nottheonion",
         "link": "https://www.insider.com/thor-director-taika-waititi-forgot-natalie-portman-star-wars-2022-7",
         "timestamp": 1657298183,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 8, 2022 12:36 PM"
     },
     {
@@ -563,7 +536,7 @@
         "category": "miami",
         "link": "https://www.thenextmiami.com/photos-construction-progress-at-brightlines-aventura-station/",
         "timestamp": 1657298767,
-        "sentiment": 1,
+        "sentiment": 2,
         "published": "July 8, 2022 12:46 PM"
     },
     {
@@ -608,7 +581,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/jseldin/status/1545460581188214789",
         "timestamp": 1657301842,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 8, 2022 1:37 PM"
     },
     {
@@ -619,15 +592,6 @@
         "timestamp": 1657302327,
         "sentiment": -6,
         "published": "July 8, 2022 1:45 PM"
-    },
-    {
-        "title": "U.S. to send 15th military package to Ukraine, bringing total aid in Russia war to $7 billion",
-        "domain": "cnbc.com",
-        "category": "worldnews",
-        "link": "https://www.cnbc.com/2022/07/08/us-to-send-15th-military-package-to-ukraine-bringing-total-aid-in-russia-war-to-7-billion-.html",
-        "timestamp": 1657302923,
-        "sentiment": 0,
-        "published": "July 8, 2022 1:55 PM"
     },
     {
         "title": "Candice Patton: CW Didn't Protect Me Against Racist 'Flash' Fans",
@@ -657,12 +621,21 @@
         "published": "July 8, 2022 2:17 PM"
     },
     {
+        "title": "US to send more HIMARS precision rockets to Ukraine",
+        "domain": "defensenews.com",
+        "category": "ukraine",
+        "link": "https://www.defensenews.com/land/2022/07/08/us-to-send-more-himars-precision-rockets-to-ukraine/",
+        "timestamp": 1657304507,
+        "sentiment": 0,
+        "published": "July 8, 2022 2:21 PM"
+    },
+    {
         "title": "WWE's Vince McMahon paid $12 million in hush money to multiple women, report says",
         "domain": "cnn.com",
         "category": "news",
         "link": "https://www.cnn.com/2022/07/08/media/vince-mcmahon-wwe-money/index.html?utm_medium=social&utm_term=link&utm_content=2022-07-08T18%3A00%3A13&utm_source=twCNN",
         "timestamp": 1657304530,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 8, 2022 2:22 PM"
     },
     {
@@ -675,13 +648,22 @@
         "published": "July 8, 2022 2:24 PM"
     },
     {
-        "title": "Despite major differences of opinion on the motives behind and solutions to mass gun violence, right-leaning respondents who favor gun rights and left-leaning proponents of gun control are starting to converge in their belief that enough is enough and change is needed.",
-        "domain": "brookings.edu",
-        "category": "science",
-        "link": "https://www.brookings.edu/blog/up-front/2022/06/15/how-cynicism-and-misinformation-add-to-the-emotional-costs-of-gun-violence/",
-        "timestamp": 1657305209,
-        "sentiment": -6,
-        "published": "July 8, 2022 2:33 PM"
+        "title": "Russia's Giant Nuclear Torpedo-Carrying Submarine Declared Operational",
+        "domain": "thedrive.com",
+        "category": "worldnews",
+        "link": "https://www.thedrive.com/the-war-zone/russias-giant-nuclear-torpedo-carrying-submarine-declared-operational",
+        "timestamp": 1657304877,
+        "sentiment": 0,
+        "published": "July 8, 2022 2:27 PM"
+    },
+    {
+        "title": "Biden to send new precision-guided artillery rounds to Ukraine",
+        "domain": "politico.com",
+        "category": "worldnews",
+        "link": "https://www.politico.com/news/2022/07/08/biden-artillery-ukraine-kyiv-russia-00044735",
+        "timestamp": 1657304895,
+        "sentiment": 0,
+        "published": "July 8, 2022 2:28 PM"
     },
     {
         "title": "Man acquitted of rape because 'tempted to dare' by open door",
@@ -689,8 +671,98 @@
         "category": "nottheonion",
         "link": "https://www.ansa.it/english/news/general_news/2022/07/08/man-acquitted-of-rape-because-tempted-to-dare-by-open-door_92c53126-1c7f-4862-99e0-7426c80a786e.html",
         "timestamp": 1657305565,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 8, 2022 2:39 PM"
+    },
+    {
+        "title": "By lowering moral standards, convincing people that a lie's “gist” is true, or dulling affective reactions, these factors not only reduce moral condemnation of misinformation, but can also amplify partisan disagreement.",
+        "domain": "sciencedirect.com",
+        "category": "science",
+        "link": "https://www.sciencedirect.com/science/article/pii/S2352250X2200094X?via%3Dihub",
+        "timestamp": 1657306216,
+        "sentiment": -6,
+        "published": "July 8, 2022 2:50 PM"
+    },
+    {
+        "title": "Watchdog finds Department of Homeland Security falls short in addressing domestic terrorism threat",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/news/watchdog-finds-department-of-homeland-security-falls-short-in-addressing-domestic-terrorism-threat/",
+        "timestamp": 1657307658,
+        "sentiment": -2,
+        "published": "July 8, 2022 3:14 PM"
+    },
+    {
+        "title": "Twitter and Elon Musk's $44 billion deal could end up in court",
+        "domain": "npr.org",
+        "category": "technology",
+        "link": "https://www.npr.org/2022/07/08/1110539504/twitter-elon-musk-deal-jeopardy",
+        "timestamp": 1657308476,
+        "sentiment": 0,
+        "published": "July 8, 2022 3:27 PM"
+    },
+    {
+        "title": "Non-communicable diseases (like heart disease) rose as saturated fat intake declined over the past century",
+        "domain": "frontiersin.org",
+        "category": "science",
+        "link": "https://www.frontiersin.org/articles/10.3389/fnut.2021.748847/full",
+        "timestamp": 1657308587,
+        "sentiment": -6,
+        "published": "July 8, 2022 3:29 PM"
+    },
+    {
+        "title": "China demands end to US-Taiwan military 'collusion'",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-us/news/world/china-demands-end-to-us-taiwan-military-collusion/ar-AAZlo6C?ocid=EMMX&cvid=5b7713ba2a894ec2b8c4ae10680e5669",
+        "timestamp": 1657258454,
+        "sentiment": 0,
+        "published": "July 8, 2022 1:34 AM"
+    },
+    {
+        "title": "Germany's parliament votes in favor of NATO accession for Sweden and Finland",
+        "domain": "dw.com",
+        "category": "worldnews",
+        "link": "https://dw.com/en/germany-approves-finland-and-sweden-nato-membership-bid/a-62403489",
+        "timestamp": 1657269633,
+        "sentiment": 0,
+        "published": "July 8, 2022 4:40 AM"
+    },
+    {
+        "title": "Twitter lays off nearly 100 employees from its recruiting team",
+        "domain": "engadget.com",
+        "category": "technology",
+        "link": "https://www.engadget.com/twitter-layoffs-233150630.html",
+        "timestamp": 1657269756,
+        "sentiment": 0,
+        "published": "July 8, 2022 4:42 AM"
+    },
+    {
+        "title": "Biden Signs Executive Order Protecting Abortion Rights",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/07/08/politics/what-is-in-biden-abortion-executive-order/index.html",
+        "timestamp": 1657296705,
+        "sentiment": 0,
+        "published": "July 8, 2022 12:11 PM"
+    },
+    {
+        "title": "U.S. to send 15th military package to Ukraine, bringing total aid in Russia war to $7 billion",
+        "domain": "cnbc.com",
+        "category": "worldnews",
+        "link": "https://www.cnbc.com/2022/07/08/us-to-send-15th-military-package-to-ukraine-bringing-total-aid-in-russia-war-to-7-billion-.html",
+        "timestamp": 1657302923,
+        "sentiment": 0,
+        "published": "July 8, 2022 1:55 PM"
+    },
+    {
+        "title": "Despite major differences of opinion on the motives behind and solutions to mass gun violence, right-leaning respondents who favor gun rights and left-leaning proponents of gun control are starting to converge in their belief that enough is enough and change is needed.",
+        "domain": "brookings.edu",
+        "category": "science",
+        "link": "https://www.brookings.edu/blog/up-front/2022/06/15/how-cynicism-and-misinformation-add-to-the-emotional-costs-of-gun-violence/",
+        "timestamp": 1657305209,
+        "sentiment": -6,
+        "published": "July 8, 2022 2:33 PM"
     },
     {
         "title": "Taiwan condemns 'violence' following shooting of Japan's Shinzo Abe",
