@@ -5,17 +5,17 @@
         "category": "science",
         "link": "https://corporate.dukehealth.org/news/social-stress-factors-drive-cancer-mechanisms-help-explain-racial-disparities",
         "timestamp": 1657254326,
-        "sentiment": -6,
+        "sentiment": 2,
         "published": "July 8, 2022 12:25 AM"
     },
     {
-        "title": "Sacha Baron Cohen defeats Roy Moore’s $95m lawsuit over ‘pedophile detector’",
-        "domain": "theguardian.com",
+        "title": "Pest controller called to 'rat infestation' finds single rubber mouse",
+        "domain": "bbc.com",
         "category": "nottheonion",
-        "link": "https://www.theguardian.com/culture/2022/jul/07/sacha-baron-cohen-defeats-roy-moore-lawsuit",
-        "timestamp": 1657255953,
-        "sentiment": 1,
-        "published": "July 8, 2022 12:52 AM"
+        "link": "https://www.bbc.com/news/uk-england-bristol-62081056",
+        "timestamp": 1657260794,
+        "sentiment": 0,
+        "published": "July 8, 2022 2:13 AM"
     },
     {
         "title": "Geologists have discovered 1.2-billion-year-old groundwater about 3 km below surface in Moab Khotsong, a gold- and uranium-producing mine in South Africa. This ancient groundwater is enriched in the highest concentrations of radiogenic products yet discovered in fluid.",
@@ -23,7 +23,7 @@
         "category": "science",
         "link": "http://www.sci-news.com/geology/moab-khotsong-groundwater-10972.html",
         "timestamp": 1657263871,
-        "sentiment": -6,
+        "sentiment": 2,
         "published": "July 8, 2022 3:04 AM"
     },
     {
@@ -34,15 +34,6 @@
         "timestamp": 1657264264,
         "sentiment": 0,
         "published": "July 8, 2022 3:11 AM"
-    },
-    {
-        "title": "Boris Johnson resignation: Hugh Grant encouraged protesters to blast Benny Hill theme",
-        "domain": "sbs.com.au",
-        "category": "nottheonion",
-        "link": "https://www.sbs.com.au/news/article/protesters-blasted-the-benny-hill-theme-as-boris-johnson-resigned-why-was-hugh-grant-involved/nk87rb4h2",
-        "timestamp": 1657269869,
-        "sentiment": 1,
-        "published": "July 8, 2022 4:44 AM"
     },
     {
         "title": "Former FIFA president Sepp Blatter and former UEFA president Michel Platini have been acquitted of corruption by a Swiss court",
@@ -63,21 +54,12 @@
         "published": "July 8, 2022 4:51 AM"
     },
     {
-        "title": "Gardening can cultivate better mental health. Scientists found that gardening activities lowered stress, anxiety and depression in healthy women who attended twice-weekly gardening classes. None of study participants had gardened before.",
-        "domain": "blogs.ifas.ufl.edu",
-        "category": "science",
-        "link": "https://blogs.ifas.ufl.edu/news/2022/07/06/gardening-can-cultivate-better-mental-health/",
-        "timestamp": 1657273321,
-        "sentiment": -6,
-        "published": "July 8, 2022 5:42 AM"
-    },
-    {
         "title": "The FBI didn’t finish over 1 million gun background checks in time to stop a sale in 2020 and 2021",
         "domain": "nbcnews.com",
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/fbi-gun-background-checks-delayed-rcna36391",
         "timestamp": 1657273622,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 8, 2022 5:47 AM"
     },
     {
@@ -113,7 +95,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/campaign/3549453-gavin-newsom-punches-gop-to-democratic-applause/",
         "timestamp": 1657275388,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 8, 2022 6:16 AM"
     },
     {
@@ -122,7 +104,7 @@
         "category": "science",
         "link": "https://newatlas.com/telecommunications/quantum-entanglement-atoms-distance-record/",
         "timestamp": 1657276864,
-        "sentiment": -6,
+        "sentiment": 2,
         "published": "July 8, 2022 6:41 AM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "nottheonion",
         "link": "https://news.sky.com/story/quentin-tarantino-reveals-he-watches-peppa-pig-a-lot-12648049",
         "timestamp": 1657277389,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 8, 2022 6:49 AM"
     },
     {
@@ -149,7 +131,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/administration/3549678-biden-to-announce-executive-action-to-protect-abortion-access/",
         "timestamp": 1657280920,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 8, 2022 7:48 AM"
     },
     {
@@ -158,7 +140,7 @@
         "category": "politics",
         "link": "https://www.bostonglobe.com/2022/07/08/opinion/georgia-das-trump-investigation-is-making-history/",
         "timestamp": 1657280938,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 8, 2022 7:48 AM"
     },
     {
@@ -185,7 +167,7 @@
         "category": "television",
         "link": "https://www.pastemagazine.com/tv/apple-tv-plus/blackbird-review/",
         "timestamp": 1657282122,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "July 8, 2022 8:08 AM"
     },
     {
@@ -194,7 +176,7 @@
         "category": "science",
         "link": "https://www.psypost.org/2022/07/curiosity-is-linked-to-crystallized-intelligence-but-not-fluid-intelligence-study-finds-63472",
         "timestamp": 1657282806,
-        "sentiment": -6,
+        "sentiment": 2,
         "published": "July 8, 2022 8:20 AM"
     },
     {
@@ -203,17 +185,8 @@
         "category": "news",
         "link": "https://www.nbcnews.com/tech/tech-news/gun-applicants-new-york-will-hand-social-accounts-rcna37251",
         "timestamp": 1657283404,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 8, 2022 8:30 AM"
-    },
-    {
-        "title": "Dallas Cowboys criticized for announcing partnership with Black Rifle Coffee after mass shooting",
-        "domain": "cnbc.com",
-        "category": "nottheonion",
-        "link": "https://www.cnbc.com/2022/07/07/dallas-cowboys-criticized-for-partnership-with-gun-themed-coffee-company-.html",
-        "timestamp": 1657283968,
-        "sentiment": 1,
-        "published": "July 8, 2022 8:39 AM"
     },
     {
         "title": "Missing man fell into shredder at South Carolina recycling plant, coroner finds",
@@ -221,7 +194,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/missing-man-fell-shredder-south-carolina-recycling-plant-coroner-finds-rcna37240",
         "timestamp": 1657284889,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 8, 2022 8:54 AM"
     },
     {
@@ -257,7 +230,7 @@
         "category": "television",
         "link": "https://www.radiotimes.com/tv/drama/gregory-itzin-dead-24-newsupdate/",
         "timestamp": 1657286369,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "July 8, 2022 9:19 AM"
     },
     {
@@ -275,7 +248,7 @@
         "category": "politics",
         "link": "https://www.ktbs.com/news/national/fed-report-finds-75-of-800-billion-paycheck-protection-program-didnt-reach-employees/article_5a08fbfe-65ed-5f5d-b86c-959297fe09b4.html",
         "timestamp": 1657286556,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 8, 2022 9:22 AM"
     },
     {
@@ -293,7 +266,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/voices/george-soros-democracy-supreme-court-abortion-b2116943.html",
         "timestamp": 1657287284,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 8, 2022 9:34 AM"
     },
     {
@@ -302,26 +275,8 @@
         "category": "politics",
         "link": "https://www.msnbc.com/the-beat-with-ari/watch/trump-up-to-his-eyeballs-in-criminality-ahead-of-w-h-counsel-s-jan-6-testimony-143620677920",
         "timestamp": 1657287880,
-        "sentiment": -1,
-        "published": "July 8, 2022 9:44 AM"
-    },
-    {
-        "title": "Microplastics found in two thirds of meat and dairy for the first time, says study",
-        "domain": "euronews.com",
-        "category": "worldnews",
-        "link": "https://www.euronews.com/green/2022/07/08/microplastics-polluting-our-blood-foetuses-and-now-the-dairy-and-meat-we-eat",
-        "timestamp": 1657288140,
         "sentiment": 0,
-        "published": "July 8, 2022 9:49 AM"
-    },
-    {
-        "title": "Too many Americans want a dictatorship, not democracy. That fails our national motto",
-        "domain": "fresnobee.com",
-        "category": "politics",
-        "link": "https://www.fresnobee.com/opinion/readers-opinion/article263183583.html",
-        "timestamp": 1657288597,
-        "sentiment": -1,
-        "published": "July 8, 2022 9:56 AM"
+        "published": "July 8, 2022 9:44 AM"
     },
     {
         "title": "Morton’s condemns abortion rights protesters for disrupting Kavanaugh’s freedom to ‘eat dinner’",
@@ -329,7 +284,7 @@
         "category": "politics",
         "link": "https://thehill.com/regulation/court-battles/3549907-mortons-condemns-abortion-rights-protestors-for-disrupting-kavanaughs-freedom-to-eat-dinner/",
         "timestamp": 1657288663,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 8, 2022 9:57 AM"
     },
     {
@@ -342,21 +297,12 @@
         "published": "July 8, 2022 9:59 AM"
     },
     {
-        "title": "Plastics found in 80% of meat and dairy samples in the Netherlands, could be caused by feeding livestock whole packaging including the plastic.",
-        "domain": "nltimes.nl",
-        "category": "nottheonion",
-        "link": "https://nltimes.nl/2022/07/08/microplastics-milk-meat-dutch-cows-pigs-amsterdam-researchers",
-        "timestamp": 1657288932,
-        "sentiment": 1,
-        "published": "July 8, 2022 10:02 AM"
-    },
-    {
         "title": "Lenny Von Dohlen, best known as the reclusive Harold from Twin Peaks, has passed away at age 63",
         "domain": "film.org.pl",
         "category": "television",
         "link": "https://film.org.pl/news/nie-zyje-lenny-von-dohlen-znany-z-miasteczka-twin-peaks",
         "timestamp": 1657288986,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "July 8, 2022 10:03 AM"
     },
     {
@@ -365,17 +311,8 @@
         "category": "news",
         "link": "https://www.nbcnews.com/nbc-out/out-community-voices/texas-trans-activist-kai-shappley-flees-state-years-advocacy-rcna37000?cid=sm_npd_nn_tw_ma",
         "timestamp": 1657290179,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 8, 2022 10:22 AM"
-    },
-    {
-        "title": "⚡️Ex-NATO commander: Ukraine could deal devastating blow to Kremlin by attacking Kerch Strait bridge linking mainland Russia with Crimea. Former NATO Commander General Philip Breedlove said Ukraine could carry out the attack with newly supplied Harpoon missiles.",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/KyivIndependent/status/1545402499447783425?t=OEH-7ftJb7Msl-Le8UMI8A&s=09",
-        "timestamp": 1657290560,
-        "sentiment": 0,
-        "published": "July 8, 2022 10:29 AM"
     },
     {
         "title": "U.S. Senators in Kyiv Call on Congress to Declare Russia a “State Sponsor of Terror”",
@@ -392,7 +329,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/07/08/house-dem-urges-biden-fire-trump-picked-irs-chief-over-titanic-audit-scandal",
         "timestamp": 1657291122,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 8, 2022 10:38 AM"
     },
     {
@@ -419,7 +356,7 @@
         "category": "news",
         "link": "https://www.nbc15.com/2022/07/08/wisconsin-supreme-court-disallows-absentee-ballot-drop-boxes-2/",
         "timestamp": 1657292517,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 8, 2022 11:01 AM"
     },
     {
@@ -437,7 +374,7 @@
         "category": "television",
         "link": "https://au.sports.yahoo.com/report-former-wwe-ceo-vince-mc-mahon-paid-more-than-12-million-to-4-women-to-suppress-sexual-misconduct-allegations-145006590.html",
         "timestamp": 1657293871,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "July 8, 2022 11:24 AM"
     },
     {
@@ -446,7 +383,7 @@
         "category": "television",
         "link": "https://tvline.com/2022/07/08/larry-storch-dead-obituary-f-troop-corporal-agarn/",
         "timestamp": 1657294095,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "July 8, 2022 11:28 AM"
     },
     {
@@ -459,13 +396,13 @@
         "published": "July 8, 2022 11:54 AM"
     },
     {
-        "title": "Satellites spot construction of Russian anti-satellite laser facility",
-        "domain": "space.com",
-        "category": "news",
-        "link": "https://www.space.com/russia-anti-satellite-laser-facility-satellite-photos",
-        "timestamp": 1657296685,
-        "sentiment": -2,
-        "published": "July 8, 2022 12:11 PM"
+        "title": "Pringles wants a spider named after it",
+        "domain": "cnn.com",
+        "category": "nottheonion",
+        "link": "https://www.cnn.com/2022/07/07/business/pringles-spider/index.html",
+        "timestamp": 1657296733,
+        "sentiment": 0,
+        "published": "July 8, 2022 12:12 PM"
     },
     {
         "title": "Activist Asks To Lead Satanic Prayer At FL High School Football Game",
@@ -473,7 +410,7 @@
         "category": "florida",
         "link": "https://patch.com/florida/miami/activist-asks-lead-satanic-prayer-fl-high-school-football-game",
         "timestamp": 1657296890,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 8, 2022 12:14 PM"
     },
     {
@@ -482,7 +419,7 @@
         "category": "politics",
         "link": "https://www.lgbtqnation.com/2022/06/aoc-calls-senate-end-filibuster-codify-marriage-equality-federal-right/",
         "timestamp": 1657296903,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 8, 2022 12:15 PM"
     },
     {
@@ -500,7 +437,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/08/us/nevada-man-jailed-misidentified-wins-settlement/index.html",
         "timestamp": 1657297867,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 8, 2022 12:31 PM"
     },
     {
@@ -511,15 +448,6 @@
         "timestamp": 1657298014,
         "sentiment": 0,
         "published": "July 8, 2022 12:33 PM"
-    },
-    {
-        "title": "'Thor: Love and Thunder' director asked Natalie Portman if she wanted to be in his 'Star Wars' movie, forgetting that she starred in the prequel trilogy",
-        "domain": "insider.com",
-        "category": "nottheonion",
-        "link": "https://www.insider.com/thor-director-taika-waititi-forgot-natalie-portman-star-wars-2022-7",
-        "timestamp": 1657298183,
-        "sentiment": 1,
-        "published": "July 8, 2022 12:36 PM"
     },
     {
         "title": "Shocking study reveals most government websites serve tracking cookies without consent",
@@ -536,17 +464,8 @@
         "category": "miami",
         "link": "https://www.thenextmiami.com/photos-construction-progress-at-brightlines-aventura-station/",
         "timestamp": 1657298767,
-        "sentiment": 2,
-        "published": "July 8, 2022 12:46 PM"
-    },
-    {
-        "title": "60-hour shifts and an ER scramble: Fentanyl overdoses takes 'toll' on TMH, Gadsden County EMS",
-        "domain": "tallahassee.com",
-        "category": "florida",
-        "link": "https://www.tallahassee.com/story/news/2022/07/08/fentanyl-gadsden-quincy-havana-er-tmh-drugs-overdose-narcan/7830028001/",
-        "timestamp": 1657299461,
         "sentiment": 0,
-        "published": "July 8, 2022 12:57 PM"
+        "published": "July 8, 2022 12:46 PM"
     },
     {
         "title": "New York law requires gun permit applicants to submit social media accounts for review",
@@ -572,7 +491,7 @@
         "category": "science",
         "link": "https://www.sciencedirect.com/science/article/pii/S1550413122001899",
         "timestamp": 1657301292,
-        "sentiment": -6,
+        "sentiment": 2,
         "published": "July 8, 2022 1:28 PM"
     },
     {
@@ -585,12 +504,21 @@
         "published": "July 8, 2022 1:37 PM"
     },
     {
+        "title": "Ukraine urges Canada not to hand over gas turbine to Russia",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/exclusive-ukraine-urges-canada-not-hand-over-gas-turbine-russia-2022-07-07/?utm_source=reddit.com",
+        "timestamp": 1657302083,
+        "sentiment": 0,
+        "published": "July 8, 2022 1:41 PM"
+    },
+    {
         "title": "Study found that when social defeat takes place during the inactive phase of the day, most of the defeated animals subsequently fall asleep, this restorative sleep is preventing a lasting state of anxiety because social defeat activates midbrain cells, promoting sleep and reducing anxiety in mice",
         "domain": "science.org",
         "category": "science",
         "link": "https://www.science.org/doi/10.1126/science.adc9782",
         "timestamp": 1657302327,
-        "sentiment": -6,
+        "sentiment": 2,
         "published": "July 8, 2022 1:45 PM"
     },
     {
@@ -599,7 +527,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/candice-patton-cw-racist-flash-fans-1235311805/",
         "timestamp": 1657303333,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "July 8, 2022 2:02 PM"
     },
     {
@@ -635,7 +563,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/08/media/vince-mcmahon-wwe-money/index.html?utm_medium=social&utm_term=link&utm_content=2022-07-08T18%3A00%3A13&utm_source=twCNN",
         "timestamp": 1657304530,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 8, 2022 2:22 PM"
     },
     {
@@ -644,7 +572,7 @@
         "category": "television",
         "link": "https://www.radiotimes.com/tv/sci-fi/martin-freeman-secret-invasion-exclusive-newsupdate/",
         "timestamp": 1657304645,
-        "sentiment": 2,
+        "sentiment": -3,
         "published": "July 8, 2022 2:24 PM"
     },
     {
@@ -657,22 +585,22 @@
         "published": "July 8, 2022 2:27 PM"
     },
     {
-        "title": "Biden to send new precision-guided artillery rounds to Ukraine",
-        "domain": "politico.com",
-        "category": "worldnews",
-        "link": "https://www.politico.com/news/2022/07/08/biden-artillery-ukraine-kyiv-russia-00044735",
-        "timestamp": 1657304895,
-        "sentiment": 0,
-        "published": "July 8, 2022 2:28 PM"
-    },
-    {
         "title": "Man acquitted of rape because 'tempted to dare' by open door",
         "domain": "ansa.it",
         "category": "nottheonion",
         "link": "https://www.ansa.it/english/news/general_news/2022/07/08/man-acquitted-of-rape-because-tempted-to-dare-by-open-door_92c53126-1c7f-4862-99e0-7426c80a786e.html",
         "timestamp": 1657305565,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 8, 2022 2:39 PM"
+    },
+    {
+        "title": "Charlie Cox Starring Irish Crime Drama ‘Kin,’ From BRON Studios, Starts Production on Season 2",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/global/kin-rte-season-2-production-1235312000/",
+        "timestamp": 1657306189,
+        "sentiment": -3,
+        "published": "July 8, 2022 2:49 PM"
     },
     {
         "title": "By lowering moral standards, convincing people that a lie's “gist” is true, or dulling affective reactions, these factors not only reduce moral condemnation of misinformation, but can also amplify partisan disagreement.",
@@ -680,7 +608,7 @@
         "category": "science",
         "link": "https://www.sciencedirect.com/science/article/pii/S2352250X2200094X?via%3Dihub",
         "timestamp": 1657306216,
-        "sentiment": -6,
+        "sentiment": 2,
         "published": "July 8, 2022 2:50 PM"
     },
     {
@@ -689,7 +617,16 @@
         "category": "news",
         "link": "https://www.cbsnews.com/news/watchdog-finds-department-of-homeland-security-falls-short-in-addressing-domestic-terrorism-threat/",
         "timestamp": 1657307658,
-        "sentiment": -2,
+        "sentiment": -1,
+        "published": "July 8, 2022 3:14 PM"
+    },
+    {
+        "title": "Officer who fatally shot Tamir Rice sworn in and resigned from new law enforcement position in the same week, official says",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/07/07/us/tamir-rice-officer-resigns-law-enforcement-position/index.html",
+        "timestamp": 1657307663,
+        "sentiment": -1,
         "published": "July 8, 2022 3:14 PM"
     },
     {
@@ -707,8 +644,161 @@
         "category": "science",
         "link": "https://www.frontiersin.org/articles/10.3389/fnut.2021.748847/full",
         "timestamp": 1657308587,
-        "sentiment": -6,
+        "sentiment": 2,
         "published": "July 8, 2022 3:29 PM"
+    },
+    {
+        "title": "Brazil’s Supreme Court Rules Paris Agreement Is a Human Rights Treaty Brazil Becomes The First Country To Officially Declare Such A Ruling",
+        "domain": "ecowatch.com",
+        "category": "worldnews",
+        "link": "https://www.ecowatch.com/brazil-supreme-court-paris-agreement-human-rights.html",
+        "timestamp": 1657310574,
+        "sentiment": 0,
+        "published": "July 8, 2022 4:02 PM"
+    },
+    {
+        "title": "There Is No Constitutional Right to Eat Dinner: Claims that Justice Brett Kavanaugh had his rights violated by protesters outside a D.C. restaurant fail on originalist grounds.",
+        "domain": "newrepublic.com",
+        "category": "politics",
+        "link": "https://newrepublic.com/article/167019/kavanaugh-mortons-constitutional-right-dinner",
+        "timestamp": 1657310971,
+        "sentiment": 0,
+        "published": "July 8, 2022 4:09 PM"
+    },
+    {
+        "title": "UW Medicine-developed Covid vaccine effective in phase 3 clinical trial",
+        "domain": "newsroom.uw.edu",
+        "category": "science",
+        "link": "https://newsroom.uw.edu/news/uw-medicine-developed-covid-vaccine-effective-test",
+        "timestamp": 1657313473,
+        "sentiment": 2,
+        "published": "July 8, 2022 4:51 PM"
+    },
+    {
+        "title": "Florida begins fining drivers for playing music too loud",
+        "domain": "yahoo.com",
+        "category": "florida",
+        "link": "https://www.yahoo.com/autos/florida-begins-fining-drivers-playing-165000761.html",
+        "timestamp": 1657314299,
+        "sentiment": -1,
+        "published": "July 8, 2022 5:04 PM"
+    },
+    {
+        "title": "Florida Cop Arrested For Alleged DUI In Marked Police Car",
+        "domain": "yahoo.com",
+        "category": "florida",
+        "link": "https://www.yahoo.com/news/florida-cop-arrested-alleged-dui-083954563.html?guccounter=1&guce_referrer=aHR0cHM6Ly9vdXQucmVkZGl0LmNvbS8&guce_referrer_sig=AQAAADY7A-qt1bZxXcMhcw-NMKrG4XE_GUYTEjStmNobrXgON1ZG2WIAdfq9gZVIH1pI_RjRNQjVY3IwV7chvN6FwjVCsNQANy37Z8DxE04sjhYx6mFTdjV73dFlcDxUP1zlNzsPx0ODrB_ADp1GI9wg0K6ydjAVtcT-y9ou0y7Afl19",
+        "timestamp": 1657316288,
+        "sentiment": -1,
+        "published": "July 8, 2022 5:38 PM"
+    },
+    {
+        "title": "Sacha Baron Cohen defeats Roy Moore’s $95m lawsuit over ‘pedophile detector’",
+        "domain": "theguardian.com",
+        "category": "nottheonion",
+        "link": "https://www.theguardian.com/culture/2022/jul/07/sacha-baron-cohen-defeats-roy-moore-lawsuit",
+        "timestamp": 1657255953,
+        "sentiment": 1,
+        "published": "July 8, 2022 12:52 AM"
+    },
+    {
+        "title": "Boris Johnson resignation: Hugh Grant encouraged protesters to blast Benny Hill theme",
+        "domain": "sbs.com.au",
+        "category": "nottheonion",
+        "link": "https://www.sbs.com.au/news/article/protesters-blasted-the-benny-hill-theme-as-boris-johnson-resigned-why-was-hugh-grant-involved/nk87rb4h2",
+        "timestamp": 1657269869,
+        "sentiment": 1,
+        "published": "July 8, 2022 4:44 AM"
+    },
+    {
+        "title": "Gardening can cultivate better mental health. Scientists found that gardening activities lowered stress, anxiety and depression in healthy women who attended twice-weekly gardening classes. None of study participants had gardened before.",
+        "domain": "blogs.ifas.ufl.edu",
+        "category": "science",
+        "link": "https://blogs.ifas.ufl.edu/news/2022/07/06/gardening-can-cultivate-better-mental-health/",
+        "timestamp": 1657273321,
+        "sentiment": -6,
+        "published": "July 8, 2022 5:42 AM"
+    },
+    {
+        "title": "Dallas Cowboys criticized for announcing partnership with Black Rifle Coffee after mass shooting",
+        "domain": "cnbc.com",
+        "category": "nottheonion",
+        "link": "https://www.cnbc.com/2022/07/07/dallas-cowboys-criticized-for-partnership-with-gun-themed-coffee-company-.html",
+        "timestamp": 1657283968,
+        "sentiment": 1,
+        "published": "July 8, 2022 8:39 AM"
+    },
+    {
+        "title": "Microplastics found in two thirds of meat and dairy for the first time, says study",
+        "domain": "euronews.com",
+        "category": "worldnews",
+        "link": "https://www.euronews.com/green/2022/07/08/microplastics-polluting-our-blood-foetuses-and-now-the-dairy-and-meat-we-eat",
+        "timestamp": 1657288140,
+        "sentiment": 0,
+        "published": "July 8, 2022 9:49 AM"
+    },
+    {
+        "title": "Too many Americans want a dictatorship, not democracy. That fails our national motto",
+        "domain": "fresnobee.com",
+        "category": "politics",
+        "link": "https://www.fresnobee.com/opinion/readers-opinion/article263183583.html",
+        "timestamp": 1657288597,
+        "sentiment": -1,
+        "published": "July 8, 2022 9:56 AM"
+    },
+    {
+        "title": "Plastics found in 80% of meat and dairy samples in the Netherlands, could be caused by feeding livestock whole packaging including the plastic.",
+        "domain": "nltimes.nl",
+        "category": "nottheonion",
+        "link": "https://nltimes.nl/2022/07/08/microplastics-milk-meat-dutch-cows-pigs-amsterdam-researchers",
+        "timestamp": 1657288932,
+        "sentiment": 1,
+        "published": "July 8, 2022 10:02 AM"
+    },
+    {
+        "title": "⚡️Ex-NATO commander: Ukraine could deal devastating blow to Kremlin by attacking Kerch Strait bridge linking mainland Russia with Crimea. Former NATO Commander General Philip Breedlove said Ukraine could carry out the attack with newly supplied Harpoon missiles.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/KyivIndependent/status/1545402499447783425?t=OEH-7ftJb7Msl-Le8UMI8A&s=09",
+        "timestamp": 1657290560,
+        "sentiment": 0,
+        "published": "July 8, 2022 10:29 AM"
+    },
+    {
+        "title": "Satellites spot construction of Russian anti-satellite laser facility",
+        "domain": "space.com",
+        "category": "news",
+        "link": "https://www.space.com/russia-anti-satellite-laser-facility-satellite-photos",
+        "timestamp": 1657296685,
+        "sentiment": -2,
+        "published": "July 8, 2022 12:11 PM"
+    },
+    {
+        "title": "'Thor: Love and Thunder' director asked Natalie Portman if she wanted to be in his 'Star Wars' movie, forgetting that she starred in the prequel trilogy",
+        "domain": "insider.com",
+        "category": "nottheonion",
+        "link": "https://www.insider.com/thor-director-taika-waititi-forgot-natalie-portman-star-wars-2022-7",
+        "timestamp": 1657298183,
+        "sentiment": 1,
+        "published": "July 8, 2022 12:36 PM"
+    },
+    {
+        "title": "60-hour shifts and an ER scramble: Fentanyl overdoses takes 'toll' on TMH, Gadsden County EMS",
+        "domain": "tallahassee.com",
+        "category": "florida",
+        "link": "https://www.tallahassee.com/story/news/2022/07/08/fentanyl-gadsden-quincy-havana-er-tmh-drugs-overdose-narcan/7830028001/",
+        "timestamp": 1657299461,
+        "sentiment": 0,
+        "published": "July 8, 2022 12:57 PM"
+    },
+    {
+        "title": "Biden to send new precision-guided artillery rounds to Ukraine",
+        "domain": "politico.com",
+        "category": "worldnews",
+        "link": "https://www.politico.com/news/2022/07/08/biden-artillery-ukraine-kyiv-russia-00044735",
+        "timestamp": 1657304895,
+        "sentiment": 0,
+        "published": "July 8, 2022 2:28 PM"
     },
     {
         "title": "China demands end to US-Taiwan military 'collusion'",
