@@ -5,7 +5,7 @@
         "category": "science",
         "link": "https://corporate.dukehealth.org/news/social-stress-factors-drive-cancer-mechanisms-help-explain-racial-disparities",
         "timestamp": 1657254326,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 8, 2022 12:25 AM"
     },
     {
@@ -36,22 +36,22 @@
         "published": "July 8, 2022 1:18 AM"
     },
     {
+        "title": "China demands end to US-Taiwan military 'collusion'",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-us/news/world/china-demands-end-to-us-taiwan-military-collusion/ar-AAZlo6C?ocid=EMMX&cvid=5b7713ba2a894ec2b8c4ae10680e5669",
+        "timestamp": 1657258454,
+        "sentiment": 0,
+        "published": "July 8, 2022 1:34 AM"
+    },
+    {
         "title": "Reading Literary Fiction Is Associated With a More Complex Worldview",
         "domain": "journals.sagepub.com",
         "category": "science",
         "link": "https://journals.sagepub.com/doi/abs/10.1177/01461672221106059",
         "timestamp": 1657259115,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 8, 2022 1:45 AM"
-    },
-    {
-        "title": "Twitter has laid off a third of its recruiting team amid Elon Musk takeover drama",
-        "domain": "businessinsider.com",
-        "category": "technology",
-        "link": "https://www.businessinsider.com/twitter-layoffs-recruiting-team-elon-musk-takeover-spam-bot-2022-7?utm_source=feedly&utm_medium=webfeeds",
-        "timestamp": 1657261978,
-        "sentiment": -1,
-        "published": "July 8, 2022 2:32 AM"
     },
     {
         "title": "10 millionth tree in Sudbury, Ont., planted with Jane Goodall pitching in",
@@ -61,6 +61,42 @@
         "timestamp": 1657262513,
         "sentiment": 0,
         "published": "July 8, 2022 2:41 AM"
+    },
+    {
+        "title": "Geologists have discovered 1.2-billion-year-old groundwater about 3 km below surface in Moab Khotsong, a gold- and uranium-producing mine in South Africa. This ancient groundwater is enriched in the highest concentrations of radiogenic products yet discovered in fluid.",
+        "domain": "sci-news.com",
+        "category": "science",
+        "link": "http://www.sci-news.com/geology/moab-khotsong-groundwater-10972.html",
+        "timestamp": 1657263871,
+        "sentiment": 1,
+        "published": "July 8, 2022 3:04 AM"
+    },
+    {
+        "title": "Fin whales, once hunted to the brink of extinction, have returned to their historic feeding grounds in the Antarctic Peninsula in large numbers, according to new research",
+        "domain": "axios.com",
+        "category": "UpliftingNews",
+        "link": "https://www.axios.com/2022/07/07/fin-whales-return-antarctica?utm_source=twitter&utm_medium=social&utm_campaign=editorial&utm_content=energy-environment-finwhales",
+        "timestamp": 1657264264,
+        "sentiment": 0,
+        "published": "July 8, 2022 3:11 AM"
+    },
+    {
+        "title": "Chinese nationalists welcome attack on Japan's ex-PM amid anniversary of Sino-Japanese war",
+        "domain": "inmediahk.net",
+        "category": "worldnews",
+        "link": "https://www.inmediahk.net/node/%E5%9C%8B%E9%9A%9B/%E5%AE%89%E5%80%8D%E6%99%89%E4%B8%89%E4%B8%AD%E6%A7%8D-%E5%BE%AE%E5%8D%9A%E5%B0%8F%E7%B2%89%E7%B4%85%E3%80%8C%E7%8B%82%E8%B3%80%E3%80%8D%E7%A8%B1%E3%80%8C%E8%A1%80%E7%A5%AD77%E4%BA%A1%E9%9D%88%E3%80%8D",
+        "timestamp": 1657264871,
+        "sentiment": 0,
+        "published": "July 8, 2022 3:21 AM"
+    },
+    {
+        "title": "Twitter has laid off a third of its recruiting team amid Elon Musk takeover drama",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/twitter-layoffs-recruiting-team-elon-musk-takeover-spam-bot-2022-7?utm_source=feedly&utm_medium=webfeeds",
+        "timestamp": 1657261978,
+        "sentiment": -1,
+        "published": "July 8, 2022 2:32 AM"
     },
     {
         "title": "An officer sought permission to shoot the Uvalde gunman before he entered school but didn't hear back in time, report says",
