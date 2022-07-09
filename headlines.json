@@ -14,7 +14,7 @@
         "category": "politics",
         "link": "https://www.marketwatch.com/story/white-house-asks-people-who-live-in-states-with-abortion-bans-to-be-really-careful-using-period-tracking-apps-11657306724?mod=home-page",
         "timestamp": 1657339940,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 9, 2022 12:12 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "nottheonion",
         "link": "https://www.fltimes.com/news/nation/rudy-giuliani-needed-stents-after-slap-assault-businessman-and-radio-host-john-catsimatidis-says-nyc/article_d9554384-d4bb-5bdb-84ad-3da79c2cc80b.html",
         "timestamp": 1657340233,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 9, 2022 12:17 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "television",
         "link": "https://www.rollingstone.com/tv-movies/tv-movie-features/tony-sirico-tribute-sopranos-paulie-walnuts-sepinwall-1380256/",
         "timestamp": 1657340255,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 9, 2022 12:17 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "nottheonion",
         "link": "https://www.nbcnews.com/news/asian-america/alabama-judge-suspended-mocking-asian-accent-courtroom-rcna37181",
         "timestamp": 1657340437,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 9, 2022 12:20 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "UpliftingNews",
         "link": "https://ourworldindata.org/guinea-worm-path-eradication",
         "timestamp": 1657341787,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 9, 2022 12:43 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "UpliftingNews",
         "link": "https://apnews.com/article/alaska-dogs-sitka-8206c86986f75cbdecff8524d944038f",
         "timestamp": 1657342180,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 9, 2022 12:49 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "nottheonion",
         "link": "https://news.sky.com/story/elon-musk-pulls-plug-on-44bn-deal-to-take-over-twitter-12648536",
         "timestamp": 1657342777,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 9, 2022 12:59 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "nottheonion",
         "link": "https://wtfflorida.com/media/photos/billboard-inverness-florida-reminds-dads-not-drunkenly-rape-daughters/",
         "timestamp": 1657345933,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 9, 2022 1:52 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "worldnews",
         "link": "https://www.bloomberg.com/news/articles/2022-07-09/sri-lanka-protesters-to-hold-mass-rally-seeking-rajapaksa-s-exit",
         "timestamp": 1657346534,
-        "sentiment": -11,
+        "sentiment": -1,
         "published": "July 9, 2022 2:02 AM"
     },
     {
@@ -113,7 +113,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/lawsuit-trump-campaign-laundering-investigate-election-commission-2022-7",
         "timestamp": 1657347240,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 9, 2022 2:14 AM"
     },
     {
@@ -131,17 +131,8 @@
         "category": "politics",
         "link": "https://www.cnn.com/2022/07/08/politics/oath-keepers-explosives-death-list-january-6/index.html",
         "timestamp": 1657349667,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 9, 2022 2:54 AM"
-    },
-    {
-        "title": "Obama beats Reagan as favorite president since Reagan era: Poll",
-        "domain": "newsweek.com",
-        "category": "nottheonion",
-        "link": "https://www.newsweek.com/obama-beats-reagan-favorite-president-since-reagan-era-poll-1721078",
-        "timestamp": 1657350970,
-        "sentiment": -3,
-        "published": "July 9, 2022 3:16 AM"
     },
     {
         "title": "Magnetic fields can turn medical waste into high-value products.Alternating magnetic fields can be used to rapidly convert medical waste, such as plastic syringes, into hydrogen-rich gases and high-quality graphite. This catalytic technique is more environmentally friendly and less energy intensive.",
@@ -158,7 +149,7 @@
         "category": "technology",
         "link": "https://www.extremetech.com/mobile/337728-lock-screen-ads-are-coming-to-android-phones-in-the-us",
         "timestamp": 1657354188,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 9, 2022 4:09 AM"
     },
     {
@@ -176,7 +167,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/musk-wealth-fell-65-billion-since-announced-plan-buy-twitter-2022-7",
         "timestamp": 1657358264,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 9, 2022 5:17 AM"
     },
     {
@@ -194,7 +185,7 @@
         "category": "television",
         "link": "https://www.pastemagazine.com/tv/netflix/stranger-things-season-4-steve-harrington-hero/",
         "timestamp": 1657359188,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 9, 2022 5:33 AM"
     },
     {
@@ -207,6 +198,15 @@
         "published": "July 9, 2022 5:37 AM"
     },
     {
+        "title": "Penguins And Otters Reject Cheaper Fish As Japanese Aquarium Faces Inflation",
+        "domain": "huffpost.com",
+        "category": "worldnews",
+        "link": "https://www.huffpost.com/entry/penguins-otters-cheaper-fish-inflation_n_62c0b2c4e4b0f6125727b2f4",
+        "timestamp": 1657359755,
+        "sentiment": -1,
+        "published": "July 9, 2022 5:42 AM"
+    },
+    {
         "title": "Consumers were in favour of a tax on meat based on animal welfare or environmental considerations, providing it was low (on average €0.19/kg)",
         "domain": "dx.doi.org",
         "category": "science",
@@ -216,12 +216,21 @@
         "published": "July 9, 2022 5:56 AM"
     },
     {
+        "title": "Historical language records reveal a surge of cognitive distortions in recent decades",
+        "domain": "pnas.org",
+        "category": "science",
+        "link": "https://www.pnas.org/doi/10.1073/pnas.2102061118",
+        "timestamp": 1657360607,
+        "sentiment": 0,
+        "published": "July 9, 2022 5:56 AM"
+    },
+    {
         "title": "Taiwan to fly flags at half-staff in honor of killed ex-Japanese leader Shinzo Abe",
         "domain": "focustaiwan.tw",
         "category": "worldnews",
         "link": "https://focustaiwan.tw/politics/202207090008",
         "timestamp": 1657360668,
-        "sentiment": -11,
+        "sentiment": -1,
         "published": "July 9, 2022 5:57 AM"
     },
     {
@@ -230,7 +239,7 @@
         "category": "technology",
         "link": "https://www.msn.com/en-gb/travel/news/boeing-threatens-to-cancel-boeing-737-max-10-aircraft-unless-given-exemption-from-safety-requirements/ar-AAZlPB5?ocid=msedgntp&cvid=a2fd2296328b4325aae4dcaf5aa7e01b",
         "timestamp": 1657360812,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 9, 2022 6:00 AM"
     },
     {
@@ -239,7 +248,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/09/asia/sri-lanka-protest-president-saturday-intl-hnk/index.html",
         "timestamp": 1657360952,
-        "sentiment": -3,
+        "sentiment": 3,
         "published": "July 9, 2022 6:02 AM"
     },
     {
@@ -257,7 +266,7 @@
         "category": "worldnews",
         "link": "https://nigerianobservernews.com/2022/07/world-population-to-reach-8-billion-on-15-november-2022-amid-falling-growth-rates-global-population-projected-to-peak-around-10-4-billion-in-the-2080s/",
         "timestamp": 1657362793,
-        "sentiment": -11,
+        "sentiment": -1,
         "published": "July 9, 2022 6:33 AM"
     },
     {
@@ -266,8 +275,17 @@
         "category": "news",
         "link": "https://news.sky.com/story/we-see-them-as-brothers-in-arms-here-uk-training-thousands-of-ukrainian-recruits-in-england-12648559",
         "timestamp": 1657363100,
-        "sentiment": -3,
+        "sentiment": 3,
         "published": "July 9, 2022 6:38 AM"
+    },
+    {
+        "title": "Blind dog found in Alaska 3 weeks after wandering off",
+        "domain": "arkansasonline.com",
+        "category": "news",
+        "link": "https://www.arkansasonline.com/news/2022/jul/08/blind-dog-found-in-alaska-3-weeks-after-wandering-off/",
+        "timestamp": 1657364136,
+        "sentiment": 3,
+        "published": "July 9, 2022 6:55 AM"
     },
     {
         "title": "4-year-old girl was killed in a shooting in Akron, Ohio",
@@ -275,7 +293,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/09/us/akron-ohio-4-year-old-girl-fatally-shot/index.html",
         "timestamp": 1657364703,
-        "sentiment": -3,
+        "sentiment": 3,
         "published": "July 9, 2022 7:05 AM"
     },
     {
@@ -284,17 +302,8 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/read-elon-musk-letter-to-twitter-deal-is-off-2022-7?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1657364790,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 9, 2022 7:06 AM"
-    },
-    {
-        "title": "Putin enlists convicted murderers and jailed ex-military spies for war in Ukraine as Russia steps up prison recruitment in desperate bid to bolster frontline forces",
-        "domain": "dailymail.co.uk",
-        "category": "worldnews",
-        "link": "https://www.dailymail.co.uk/news/article-10997513/Putin-enlists-convicted-murderers-jailed-ex-military-spies-war-Ukraine.html",
-        "timestamp": 1657367844,
-        "sentiment": -11,
-        "published": "July 9, 2022 7:57 AM"
     },
     {
         "title": "Cacophony of dunces: When the Supreme Court trashed the Constitution. Sam Alito and John Roberts appeal to \"history and tradition\" — while they dance around the burning Constitution",
@@ -302,26 +311,44 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/07/09/cacophony-of-dunces-when-the-trashed-the-constitution/",
         "timestamp": 1657368212,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 9, 2022 8:03 AM"
     },
     {
-        "title": "Russia's McDonald's pulls fries from the menu after running out of potatoes",
-        "domain": "newsweek.com",
+        "title": "Ukraine military sees spike in female volunteers amid war with Russia",
+        "domain": "foxnews.com",
         "category": "worldnews",
-        "link": "https://www.newsweek.com/mcdonalds-russia-vkusno-i-tochka-french-fries-stopped-serving-potato-shortage-1723142",
-        "timestamp": 1657369383,
-        "sentiment": -11,
-        "published": "July 9, 2022 8:23 AM"
+        "link": "https://www.foxnews.com/world/ukraine-military-sees-spike-female-volunteers-war-russia",
+        "timestamp": 1657370227,
+        "sentiment": -1,
+        "published": "July 9, 2022 8:37 AM"
     },
     {
-        "title": "Blind dog found in Alaska 3 weeks after wandering off",
-        "domain": "arkansasonline.com",
-        "category": "UpliftingNews",
-        "link": "https://www.arkansasonline.com/news/2022/jul/08/blind-dog-found-in-alaska-3-weeks-after-wandering-off/",
-        "timestamp": 1657369900,
-        "sentiment": 2,
-        "published": "July 9, 2022 8:31 AM"
+        "title": "Meta removes Facebook account mandate from Quest VR—but is that enough?",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/gaming/2022/07/quest-vr-has-traded-facebookening-for-metastasis-with-new-account-system/",
+        "timestamp": 1657370405,
+        "sentiment": -1,
+        "published": "July 9, 2022 8:40 AM"
+    },
+    {
+        "title": "Trump lawyer says he will be reinstated as president if GOP win midterms",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/donald-trump-lawyer-christina-bobb-rsbn-midterms-republicans-election-2020-1723145",
+        "timestamp": 1657370427,
+        "sentiment": -4,
+        "published": "July 9, 2022 8:40 AM"
+    },
+    {
+        "title": "5,000 pounds of meth seized in San Diego County when truck is followed after crossing border, officials say",
+        "domain": "wsvn.com",
+        "category": "news",
+        "link": "https://wsvn.com/news/us-world/5000-pounds-of-meth-seized-in-san-diego-county-when-truck-is-followed-after-crossing-border-officials-say/",
+        "timestamp": 1657370454,
+        "sentiment": 3,
+        "published": "July 9, 2022 8:40 AM"
     },
     {
         "title": "Primary-age children’s screen time went up by 83 minutes a day during pandemic, study finds",
@@ -333,12 +360,30 @@
         "published": "July 9, 2022 8:42 AM"
     },
     {
+        "title": "Cowardly SCOTUS asked Governors to quell Non-Violent Protests",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/the-reidout/reidout-blog/supreme-court-objects-peaceful-protests-slashing-abortion-rights-rcna36691",
+        "timestamp": 1657370956,
+        "sentiment": -4,
+        "published": "July 9, 2022 8:49 AM"
+    },
+    {
+        "title": "Mike Flanagan's 'The Fall of the House of Usher' Wraps Filming",
+        "domain": "bleedingcool.com",
+        "category": "television",
+        "link": "https://bleedingcool.com/tv/the-fall-of-the-house-of-usher-flanagan-shares-filming-wrap-thanks/",
+        "timestamp": 1657371904,
+        "sentiment": 0,
+        "published": "July 9, 2022 9:05 AM"
+    },
+    {
         "title": "AOC mocks Brett Kavanaugh for skipping dessert at DC steakhouse amid protests outside: 'The least they could do is let him eat cake'",
         "domain": "businessinsider.com",
         "category": "politics",
         "link": "https://www.businessinsider.com/brett-kavanaugh-aoc-ocasio-cortez-steakhouse-protest-abortion-ectopic-pregnancy-2022-7",
         "timestamp": 1657372242,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 9, 2022 9:10 AM"
     },
     {
@@ -347,8 +392,71 @@
         "category": "nottheonion",
         "link": "https://www.wwltv.com/article/news/crime/lamar-davis-head-of-louisiana-state-police-pulled-over-for-speeding-report-says/289-377d6409-04e8-45c2-a0b2-c05dfd1d6746",
         "timestamp": 1657372368,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 9, 2022 9:12 AM"
+    },
+    {
+        "title": "Metal Gear Solid Creator Misidentified as Shinzo Abe's Assassin by News Station and Politicians",
+        "domain": "cbr.com",
+        "category": "nottheonion",
+        "link": "https://www.cbr.com/metal-gear-solid-hideo-kojima-misidentified-shinzo-abe-assassin/",
+        "timestamp": 1657373282,
+        "sentiment": 0,
+        "published": "July 9, 2022 9:28 AM"
+    },
+    {
+        "title": "Canada Bans Single-Use Plastics",
+        "domain": "theplanetarypress.com",
+        "category": "UpliftingNews",
+        "link": "https://www.theplanetarypress.com/2022/06/canada-plastics-ban/",
+        "timestamp": 1657373920,
+        "sentiment": 0,
+        "published": "July 9, 2022 9:38 AM"
+    },
+    {
+        "title": "Flagstaff PD officers fully naked, fondled during massage investigation",
+        "domain": "abc15.com",
+        "category": "nottheonion",
+        "link": "https://www.abc15.com/news/local-news/investigations/flagstaff-pd-officers-fully-naked-fondled-during-massage-investigation",
+        "timestamp": 1657374263,
+        "sentiment": 0,
+        "published": "July 9, 2022 9:44 AM"
+    },
+    {
+        "title": "After 40 years of extinction, rhinos return to Mozambique",
+        "domain": "furtherafrica.com",
+        "category": "UpliftingNews",
+        "link": "https://furtherafrica.com/2022/07/09/after-40-years-of-extinction-rhinos-return-to-mozambique/",
+        "timestamp": 1657374829,
+        "sentiment": 0,
+        "published": "July 9, 2022 9:53 AM"
+    },
+    {
+        "title": "Obama beats Reagan as favorite president since Reagan era: Poll",
+        "domain": "newsweek.com",
+        "category": "nottheonion",
+        "link": "https://www.newsweek.com/obama-beats-reagan-favorite-president-since-reagan-era-poll-1721078",
+        "timestamp": 1657350970,
+        "sentiment": -3,
+        "published": "July 9, 2022 3:16 AM"
+    },
+    {
+        "title": "Putin enlists convicted murderers and jailed ex-military spies for war in Ukraine as Russia steps up prison recruitment in desperate bid to bolster frontline forces",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-10997513/Putin-enlists-convicted-murderers-jailed-ex-military-spies-war-Ukraine.html",
+        "timestamp": 1657367844,
+        "sentiment": -11,
+        "published": "July 9, 2022 7:57 AM"
+    },
+    {
+        "title": "Russia's McDonald's pulls fries from the menu after running out of potatoes",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/mcdonalds-russia-vkusno-i-tochka-french-fries-stopped-serving-potato-shortage-1723142",
+        "timestamp": 1657369383,
+        "sentiment": -11,
+        "published": "July 9, 2022 8:23 AM"
     },
     {
         "title": "21 russian ammo depots blown so far",
@@ -5218,15 +5326,6 @@
         "timestamp": 1657023399,
         "sentiment": 8,
         "published": "July 5, 2022 8:16 AM"
-    },
-    {
-        "title": "After 40 years of extinction, rhinos return to Mozambique",
-        "domain": "reuters.com",
-        "category": "UpliftingNews",
-        "link": "https://www.reuters.com/business/environment/after-40-years-extinction-rhinos-return-mozambique-2022-07-04/",
-        "timestamp": 1657023428,
-        "sentiment": 6,
-        "published": "July 5, 2022 8:17 AM"
     },
     {
         "title": "Ubisoft to shut down multiplayer for older games, including Assassin’s Creed Brotherhood | Over a dozen games will see their online services disappear this September",
