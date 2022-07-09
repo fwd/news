@@ -18,15 +18,6 @@
         "published": "July 8, 2022 3:04 AM"
     },
     {
-        "title": "Fin whales, once hunted to the brink of extinction, have returned to their historic feeding grounds in the Antarctic Peninsula in large numbers, according to new research",
-        "domain": "axios.com",
-        "category": "UpliftingNews",
-        "link": "https://www.axios.com/2022/07/07/fin-whales-return-antarctica?utm_source=twitter&utm_medium=social&utm_campaign=editorial&utm_content=energy-environment-finwhales",
-        "timestamp": 1657264264,
-        "sentiment": 4,
-        "published": "July 8, 2022 3:11 AM"
-    },
-    {
         "title": "Former FIFA president Sepp Blatter and former UEFA president Michel Platini have been acquitted of corruption by a Swiss court",
         "domain": "news.sky.com",
         "category": "sports",
@@ -41,7 +32,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/shinzo-abe-former-japanese-prime-minister-dies-after-being-shot-while-giving-speech-state-broadcaster-says-12648011",
         "timestamp": 1657270303,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 8, 2022 4:51 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.hindustantimes.com/india-news/india-announces-day-of-mourning-for-shinzo-abe-101657274058494.html",
         "timestamp": 1657274297,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 8, 2022 5:58 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "ukraine",
         "link": "https://ukrainetoday.org/2022/07/08/another-stab-in-the-back-of-the-russian-federation-kazakhstan-withdraws-from-the-cis-agreement-on-the-currency-committee/",
         "timestamp": 1657276944,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 8, 2022 6:42 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "nottheonion",
         "link": "https://news.sky.com/story/quentin-tarantino-reveals-he-watches-peppa-pig-a-lot-12648049",
         "timestamp": 1657277389,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 8, 2022 6:49 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "politics",
         "link": "https://thehill.com/homenews/administration/3549678-biden-to-announce-executive-action-to-protect-abortion-access/",
         "timestamp": 1657280920,
-        "sentiment": 5,
+        "sentiment": 4,
         "published": "July 8, 2022 7:48 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/multiple-russian-soldiers-detained-refusing-fight-putins-war-1722915",
         "timestamp": 1657281366,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 8, 2022 7:56 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "UpliftingNews",
         "link": "https://www.speciesunite.com/news-stories/petition-update-anti-horse-slaughter-bill-advances-through-subcommittee-hearing",
         "timestamp": 1657284964,
-        "sentiment": 4,
+        "sentiment": 2,
         "published": "July 8, 2022 8:56 AM"
     },
     {
@@ -167,7 +158,7 @@
         "category": "UpliftingNews",
         "link": "https://www.forbes.com/sites/traversmark/2022/07/06/psychedelics-may-be-your-ticket-to-self-actualization-says-new-research/",
         "timestamp": 1657286475,
-        "sentiment": 4,
+        "sentiment": 2,
         "published": "July 8, 2022 9:21 AM"
     },
     {
@@ -176,17 +167,8 @@
         "category": "politics",
         "link": "https://www.ktbs.com/news/national/fed-report-finds-75-of-800-billion-paycheck-protection-program-didnt-reach-employees/article_5a08fbfe-65ed-5f5d-b86c-959297fe09b4.html",
         "timestamp": 1657286556,
-        "sentiment": 5,
+        "sentiment": 4,
         "published": "July 8, 2022 9:22 AM"
-    },
-    {
-        "title": "Unsustainable logging, fishing and hunting 'driving extinction'",
-        "domain": "bbc.com",
-        "category": "worldnews",
-        "link": "https://www.bbc.com/news/science-environment-62094405",
-        "timestamp": 1657286838,
-        "sentiment": 0,
-        "published": "July 8, 2022 9:27 AM"
     },
     {
         "title": "The Supreme Court is now run by extremists who are endangering US democracy. We need to recognise there is a carefully laid plan to turn the US into a repressive regime, particularly targeting women",
@@ -194,7 +176,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/voices/george-soros-democracy-supreme-court-abortion-b2116943.html",
         "timestamp": 1657287284,
-        "sentiment": 5,
+        "sentiment": 4,
         "published": "July 8, 2022 9:34 AM"
     },
     {
@@ -203,7 +185,7 @@
         "category": "politics",
         "link": "https://thehill.com/regulation/court-battles/3549907-mortons-condemns-abortion-rights-protestors-for-disrupting-kavanaughs-freedom-to-eat-dinner/",
         "timestamp": 1657288663,
-        "sentiment": 5,
+        "sentiment": 4,
         "published": "July 8, 2022 9:57 AM"
     },
     {
@@ -212,7 +194,7 @@
         "category": "worldnews",
         "link": "https://english.sta.si/3058551/court-orders-parliament-to-allow-same-sex-marriages-adoptions",
         "timestamp": 1657288788,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 8, 2022 9:59 AM"
     },
     {
@@ -239,7 +221,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/07/08/house-dem-urges-biden-fire-trump-picked-irs-chief-over-titanic-audit-scandal",
         "timestamp": 1657291122,
-        "sentiment": 5,
+        "sentiment": 4,
         "published": "July 8, 2022 10:38 AM"
     },
     {
@@ -248,7 +230,7 @@
         "category": "ukraine",
         "link": "https://www.thetimes.co.uk/article/cut-off-russias-link-to-crimea-says-ex-nato-commander-qh93slq0k",
         "timestamp": 1657292243,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 8, 2022 10:57 AM"
     },
     {
@@ -257,7 +239,7 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/world-europe-62092196",
         "timestamp": 1657292343,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 8, 2022 10:59 AM"
     },
     {
@@ -302,7 +284,7 @@
         "category": "worldnews",
         "link": "https://news.usni.org/2022/07/08/doomsday-submarine-armed-with-nuclear-torpedoes-delivers-to-russian-navy",
         "timestamp": 1657295654,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 8, 2022 11:54 AM"
     },
     {
@@ -311,7 +293,7 @@
         "category": "florida",
         "link": "https://patch.com/florida/miami/activist-asks-lead-satanic-prayer-fl-high-school-football-game",
         "timestamp": 1657296890,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 8, 2022 12:14 PM"
     },
     {
@@ -320,7 +302,7 @@
         "category": "politics",
         "link": "https://www.lgbtqnation.com/2022/06/aoc-calls-senate-end-filibuster-codify-marriage-equality-federal-right/",
         "timestamp": 1657296903,
-        "sentiment": 5,
+        "sentiment": 4,
         "published": "July 8, 2022 12:15 PM"
     },
     {
@@ -338,7 +320,7 @@
         "category": "UpliftingNews",
         "link": "https://www.cam.ac.uk/stories/DarwinExhibition",
         "timestamp": 1657298014,
-        "sentiment": 4,
+        "sentiment": 2,
         "published": "July 8, 2022 12:33 PM"
     },
     {
@@ -347,7 +329,7 @@
         "category": "miami",
         "link": "https://www.thenextmiami.com/photos-construction-progress-at-brightlines-aventura-station/",
         "timestamp": 1657298767,
-        "sentiment": 1,
+        "sentiment": 4,
         "published": "July 8, 2022 12:46 PM"
     },
     {
@@ -374,7 +356,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/jseldin/status/1545460581188214789",
         "timestamp": 1657301842,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 8, 2022 1:37 PM"
     },
     {
@@ -383,7 +365,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/exclusive-ukraine-urges-canada-not-hand-over-gas-turbine-russia-2022-07-07/?utm_source=reddit.com",
         "timestamp": 1657302083,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 8, 2022 1:41 PM"
     },
     {
@@ -437,7 +419,7 @@
         "category": "nottheonion",
         "link": "https://www.ansa.it/english/news/general_news/2022/07/08/man-acquitted-of-rape-because-tempted-to-dare-by-open-door_92c53126-1c7f-4862-99e0-7426c80a786e.html",
         "timestamp": 1657305565,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 8, 2022 2:39 PM"
     },
     {
@@ -446,7 +428,7 @@
         "category": "politics",
         "link": "https://www.politico.com/news/2022/07/08/jan6-oathkeepers-stewartrhodes-00044729",
         "timestamp": 1657305709,
-        "sentiment": 5,
+        "sentiment": 4,
         "published": "July 8, 2022 2:41 PM"
     },
     {
@@ -455,7 +437,7 @@
         "category": "politics",
         "link": "https://www.cnbc.com/2022/07/08/biden-says-supreme-court-out-of-control-signs-abortion-executive-order.html",
         "timestamp": 1657306041,
-        "sentiment": 5,
+        "sentiment": 4,
         "published": "July 8, 2022 2:47 PM"
     },
     {
@@ -500,7 +482,7 @@
         "category": "worldnews",
         "link": "https://www.ecowatch.com/brazil-supreme-court-paris-agreement-human-rights.html",
         "timestamp": 1657310574,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 8, 2022 4:02 PM"
     },
     {
@@ -509,7 +491,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/UkrWarReport/status/1545497333579776000",
         "timestamp": 1657310734,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 8, 2022 4:05 PM"
     },
     {
@@ -518,7 +500,7 @@
         "category": "politics",
         "link": "https://newrepublic.com/article/167019/kavanaugh-mortons-constitutional-right-dinner",
         "timestamp": 1657310971,
-        "sentiment": 5,
+        "sentiment": 4,
         "published": "July 8, 2022 4:09 PM"
     },
     {
@@ -527,7 +509,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/warmonitor3/status/1545484588457365510?s=21&t=COOYOinlBWXVd4yBX2K3vw",
         "timestamp": 1657311057,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 8, 2022 4:10 PM"
     },
     {
@@ -536,7 +518,7 @@
         "category": "florida",
         "link": "https://www.yahoo.com/autos/florida-begins-fining-drivers-playing-165000761.html",
         "timestamp": 1657314299,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 8, 2022 5:04 PM"
     },
     {
@@ -554,7 +536,7 @@
         "category": "florida",
         "link": "https://www.yahoo.com/news/florida-cop-arrested-alleged-dui-083954563.html?guccounter=1&guce_referrer=aHR0cHM6Ly9vdXQucmVkZGl0LmNvbS8&guce_referrer_sig=AQAAADY7A-qt1bZxXcMhcw-NMKrG4XE_GUYTEjStmNobrXgON1ZG2WIAdfq9gZVIH1pI_RjRNQjVY3IwV7chvN6FwjVCsNQANy37Z8DxE04sjhYx6mFTdjV73dFlcDxUP1zlNzsPx0ODrB_ADp1GI9wg0K6ydjAVtcT-y9ou0y7Afl19",
         "timestamp": 1657316288,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 8, 2022 5:38 PM"
     },
     {
@@ -563,7 +545,7 @@
         "category": "politics",
         "link": "https://abcnews.go.com/Politics/wireStory/georgias-abrams-raises-22m-months-outpacing-kemp-86458446",
         "timestamp": 1657316763,
-        "sentiment": 5,
+        "sentiment": 4,
         "published": "July 8, 2022 5:46 PM"
     },
     {
@@ -572,7 +554,7 @@
         "category": "UpliftingNews",
         "link": "https://www.cbsnews.com/news/horse-farm-equine-therapy-new-york-city-gallopnyc-veterans-people-with-disabilities/",
         "timestamp": 1657316875,
-        "sentiment": 4,
+        "sentiment": 2,
         "published": "July 8, 2022 5:47 PM"
     },
     {
@@ -592,6 +574,15 @@
         "timestamp": 1657317354,
         "sentiment": -6,
         "published": "July 8, 2022 5:55 PM"
+    },
+    {
+        "title": "Family stunned by man’s death in ‘squeegee’ confrontation",
+        "domain": "abcnews.go.com",
+        "category": "nottheonion",
+        "link": "https://abcnews.go.com/US/wireStory/family-stunned-mans-killing-squeegee-confrontation-86486413",
+        "timestamp": 1657317571,
+        "sentiment": -4,
+        "published": "July 8, 2022 5:59 PM"
     },
     {
         "title": "George R.R. Martin Says Forthcoming Novel ‘The Winds Of Winter’ Will Be “Quite Different” From HBO Storyline",
@@ -621,22 +612,22 @@
         "published": "July 8, 2022 6:06 PM"
     },
     {
-        "title": "Twitter Chairman Says Company Plans Legal Action After Elon Musk Says He’s Terminating Merger Agreement",
-        "domain": "deadline.com",
-        "category": "technology",
-        "link": "https://deadline.com/2022/07/elon-musk-terminates-twitter-merger-1235060724/",
-        "timestamp": 1657318148,
-        "sentiment": 2,
-        "published": "July 8, 2022 6:09 PM"
-    },
-    {
         "title": "Politicians, News Networks Misidentify Hideo Kojima as Assassin",
         "domain": "rafu.com",
         "category": "nottheonion",
         "link": "https://rafu.com/2022/07/politicians-news-channels-misidentify-hideo-kojima-as-shinzo-abe-assassin/",
         "timestamp": 1657318879,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 8, 2022 6:21 PM"
+    },
+    {
+        "title": "Aliens Could Be Using Quantum Communications to Talk Across Interstellar Space",
+        "domain": "sciencealert.com",
+        "category": "technology",
+        "link": "https://www.sciencealert.com/aliens-could-be-using-quantum-communications-to-talk-across-interstellar-space",
+        "timestamp": 1657320011,
+        "sentiment": 2,
+        "published": "July 8, 2022 6:40 PM"
     },
     {
         "title": "Canada announces new Russia sanctions targeting disinformation",
@@ -644,7 +635,7 @@
         "category": "worldnews",
         "link": "https://www.cbc.ca/news/politics/canada-russia-new-sanctions-1.6514422",
         "timestamp": 1657320419,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 8, 2022 6:46 PM"
     },
     {
@@ -653,7 +644,7 @@
         "category": "UpliftingNews",
         "link": "https://www.canarymedia.com/articles/clean-industry/major-construction-firms-team-up-to-get-the-carbon-out-of-concrete",
         "timestamp": 1657320953,
-        "sentiment": 4,
+        "sentiment": 2,
         "published": "July 8, 2022 6:55 PM"
     },
     {
@@ -662,7 +653,7 @@
         "category": "nottheonion",
         "link": "https://www.chron.com/news/houston-texas/article/Pregnant-Texas-woman-driving-in-HOV-lane-told-17293221.php",
         "timestamp": 1657321451,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 8, 2022 7:04 PM"
     },
     {
@@ -671,7 +662,7 @@
         "category": "florida",
         "link": "https://www.mysuncoast.com/2022/07/08/sarasota-county-school-board-sued-over-obscene-library-materials/",
         "timestamp": 1657321722,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 8, 2022 7:08 PM"
     },
     {
@@ -680,7 +671,7 @@
         "category": "nottheonion",
         "link": "https://www.dailyadvent.com/news/788d8650cbabadbb067974aace50471b-Ohio-lawmaker-wants-to-teach-the-Holocaust-from-the-perspective-of-the-Nazis",
         "timestamp": 1657322019,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 8, 2022 7:13 PM"
     },
     {
@@ -698,17 +689,8 @@
         "category": "miami",
         "link": "https://archive.ph/ADVut",
         "timestamp": 1657324257,
-        "sentiment": 1,
-        "published": "July 8, 2022 7:50 PM"
-    },
-    {
-        "title": "Finally a proactive step to save lives!",
-        "domain": "nbcnews.com",
-        "category": "UpliftingNews",
-        "link": "https://www.nbcnews.com/tech/tech-news/gun-applicants-new-york-will-hand-social-accounts-rcna37251",
-        "timestamp": 1657324452,
         "sentiment": 4,
-        "published": "July 8, 2022 7:54 PM"
+        "published": "July 8, 2022 7:50 PM"
     },
     {
         "title": "Twitter will take Elon Musk to court to force him to buy it for $44 billion",
@@ -734,7 +716,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/helicopter-and-plane-taken-putin-ally-medvedchuk-given-ukraine-army-2022-7",
         "timestamp": 1657327170,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 8, 2022 8:39 PM"
     },
     {
@@ -747,13 +729,22 @@
         "published": "July 8, 2022 9:30 PM"
     },
     {
-        "title": "Android lock screens may soon be taken over with ads",
-        "domain": "cbs42.com",
-        "category": "nottheonion",
-        "link": "https://www.cbs42.com/news/android-lock-screens-may-soon-be-taken-over-with-ads/",
-        "timestamp": 1657333062,
-        "sentiment": 0,
-        "published": "July 8, 2022 10:17 PM"
+        "title": "Canada hit by massive mobile and internet outage",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-us-canada-62102223",
+        "timestamp": 1657331662,
+        "sentiment": -2,
+        "published": "July 8, 2022 9:54 PM"
+    },
+    {
+        "title": "Louisville Zoo welcomes new pygmy hippo, Zemora",
+        "domain": "whas11.com",
+        "category": "UpliftingNews",
+        "link": "https://www.whas11.com/article/life/animals/louisville-zoo-pygmy-hippo-gorilla-forest-zemora/417-5ba3ed43-b319-45dd-9493-5b819e1ae6c3",
+        "timestamp": 1657332250,
+        "sentiment": 2,
+        "published": "July 8, 2022 10:04 PM"
     },
     {
         "title": "Deadline to register to vote during 2022 Florida Primaries scheduled for July 25",
@@ -761,8 +752,71 @@
         "category": "florida",
         "link": "https://weartv.com/news/local/deadline-to-register-to-vote-during-2022-florida-primaries-scheduled-for-july-25",
         "timestamp": 1657333481,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 8, 2022 10:24 PM"
+    },
+    {
+        "title": "Florida beach-goers to attempt to break skinny dipping record",
+        "domain": "wtsp.com",
+        "category": "florida",
+        "link": "https://www.wtsp.com/article/news/regional/florida/beach-goers-skinny-dipping-record-attempt-florida-treasure-coast-nude-beach/67-0878d739-03db-4f72-b23a-928401f6367d",
+        "timestamp": 1657333549,
+        "sentiment": -2,
+        "published": "July 8, 2022 10:25 PM"
+    },
+    {
+        "title": "Biden signs executive order aimed at safeguarding abortion rights",
+        "domain": "cnn.com",
+        "category": "UpliftingNews",
+        "link": "https://www.cnn.com/2022/07/08/politics/white-house-executive-order-abortion/index.html",
+        "timestamp": 1657334576,
+        "sentiment": 2,
+        "published": "July 8, 2022 10:42 PM"
+    },
+    {
+        "title": "Fin whales, once hunted to the brink of extinction, have returned to their historic feeding grounds in the Antarctic Peninsula in large numbers, according to new research",
+        "domain": "axios.com",
+        "category": "UpliftingNews",
+        "link": "https://www.axios.com/2022/07/07/fin-whales-return-antarctica?utm_source=twitter&utm_medium=social&utm_campaign=editorial&utm_content=energy-environment-finwhales",
+        "timestamp": 1657264264,
+        "sentiment": 4,
+        "published": "July 8, 2022 3:11 AM"
+    },
+    {
+        "title": "Unsustainable logging, fishing and hunting 'driving extinction'",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/science-environment-62094405",
+        "timestamp": 1657286838,
+        "sentiment": 0,
+        "published": "July 8, 2022 9:27 AM"
+    },
+    {
+        "title": "Twitter Chairman Says Company Plans Legal Action After Elon Musk Says He’s Terminating Merger Agreement",
+        "domain": "deadline.com",
+        "category": "technology",
+        "link": "https://deadline.com/2022/07/elon-musk-terminates-twitter-merger-1235060724/",
+        "timestamp": 1657318148,
+        "sentiment": 2,
+        "published": "July 8, 2022 6:09 PM"
+    },
+    {
+        "title": "Finally a proactive step to save lives!",
+        "domain": "nbcnews.com",
+        "category": "UpliftingNews",
+        "link": "https://www.nbcnews.com/tech/tech-news/gun-applicants-new-york-will-hand-social-accounts-rcna37251",
+        "timestamp": 1657324452,
+        "sentiment": 4,
+        "published": "July 8, 2022 7:54 PM"
+    },
+    {
+        "title": "Android lock screens may soon be taken over with ads",
+        "domain": "cbs42.com",
+        "category": "nottheonion",
+        "link": "https://www.cbs42.com/news/android-lock-screens-may-soon-be-taken-over-with-ads/",
+        "timestamp": 1657333062,
+        "sentiment": 0,
+        "published": "July 8, 2022 10:17 PM"
     },
     {
         "title": "Taron Egerton Shines in Apple TV+'s Engrossing Psychological Thriller Black Bird",
@@ -810,15 +864,6 @@
         "published": "July 8, 2022 3:14 PM"
     },
     {
-        "title": "Family stunned by man’s death in ‘squeegee’ confrontation",
-        "domain": "abcnews.go.com",
-        "category": "nottheonion",
-        "link": "https://abcnews.go.com/US/wireStory/family-stunned-mans-killing-squeegee-confrontation-86486413",
-        "timestamp": 1657317571,
-        "sentiment": -4,
-        "published": "July 8, 2022 5:59 PM"
-    },
-    {
         "title": "Gavin Newsom punches GOP to Democratic applause",
         "domain": "thehill.com",
         "category": "politics",
@@ -853,15 +898,6 @@
         "timestamp": 1657304507,
         "sentiment": 0,
         "published": "July 8, 2022 2:21 PM"
-    },
-    {
-        "title": "Aliens Could Be Using Quantum Communications to Talk Across Interstellar Space",
-        "domain": "sciencealert.com",
-        "category": "technology",
-        "link": "https://www.sciencealert.com/aliens-could-be-using-quantum-communications-to-talk-across-interstellar-space",
-        "timestamp": 1657320011,
-        "sentiment": 0,
-        "published": "July 8, 2022 6:40 PM"
     },
     {
         "title": "Georgia DA’s Trump investigation is making history",
