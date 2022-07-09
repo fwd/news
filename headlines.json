@@ -9,12 +9,21 @@
         "published": "July 9, 2022 12:06 AM"
     },
     {
+        "title": "Rudy Giuliani needed stents after slap ‘assault,’ businessman and radio host John Catsimatidis says; NYC mayor says video doesn’t match allegation",
+        "domain": "fltimes.com",
+        "category": "nottheonion",
+        "link": "https://www.fltimes.com/news/nation/rudy-giuliani-needed-stents-after-slap-assault-businessman-and-radio-host-john-catsimatidis-says-nyc/article_d9554384-d4bb-5bdb-84ad-3da79c2cc80b.html",
+        "timestamp": 1657340233,
+        "sentiment": -2,
+        "published": "July 9, 2022 12:17 AM"
+    },
+    {
         "title": "How Tony Sirico Made Paulie Walnuts a 'Sopranos' Character to Remember",
         "domain": "rollingstone.com",
         "category": "television",
         "link": "https://www.rollingstone.com/tv-movies/tv-movie-features/tony-sirico-tribute-sopranos-paulie-walnuts-sepinwall-1380256/",
         "timestamp": 1657340255,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 9, 2022 12:17 AM"
     },
     {
@@ -27,12 +36,21 @@
         "published": "July 9, 2022 12:20 AM"
     },
     {
+        "title": "Study found universality preference for color composition in paintings: regardless of nationality, differences in Japanese and Occidental paintings, and differences in figurative and abstract paintings, many people preferred the non altered color composition even for painting they had never seen",
+        "domain": "tut.ac.jp",
+        "category": "science",
+        "link": "https://www.tut.ac.jp/english/news/19630.html",
+        "timestamp": 1657340521,
+        "sentiment": -4,
+        "published": "July 9, 2022 12:22 AM"
+    },
+    {
         "title": "A Blind, Older Dog Is Found Alive In Alaska, 3 Weeks After Wandering Off",
         "domain": "apnews.com",
         "category": "UpliftingNews",
         "link": "https://apnews.com/article/alaska-dogs-sitka-8206c86986f75cbdecff8524d944038f",
         "timestamp": 1657342180,
-        "sentiment": -2,
+        "sentiment": 4,
         "published": "July 9, 2022 12:49 AM"
     },
     {
@@ -43,6 +61,24 @@
         "timestamp": 1657342777,
         "sentiment": -2,
         "published": "July 9, 2022 12:59 AM"
+    },
+    {
+        "title": "First Russian 'doomsday' submarine with nuclear drones enters active service. The Belgorod is the first submarine capable of launching the Poseidon, an \"Intercontinental Nuclear-Powered Nuclear-Armed Autonomous Torpedo,\"... 30 times larger than a standard torpedo.",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-us/news/world/first-russian-doomsday-submarine-with-nuclear-drones-enters-active-service/ar-AAZnz7s?rc=1&ocid=winp1taskbar&cvid=2f78608e67f1450bd98406e45f93d227",
+        "timestamp": 1657342786,
+        "sentiment": 2,
+        "published": "July 9, 2022 12:59 AM"
+    },
+    {
+        "title": "For the first time, scientists have been able to detect specific variants of SARS-CoV-2 in sewage weeks before they were showing up in testing clinics. The technique could eventually be used to track emerging variants and speed up the public-health response.",
+        "domain": "nature.com",
+        "category": "science",
+        "link": "https://www.nature.com/articles/d41586-022-01874-x",
+        "timestamp": 1657346688,
+        "sentiment": -4,
+        "published": "July 9, 2022 2:04 AM"
     },
     {
         "title": "A New Survey Finds 81 Percent Of Women Have Experienced Sexual Harassment : The Two-Way : NPR",
