@@ -9,6 +9,15 @@
         "published": "July 9, 2022 12:06 AM"
     },
     {
+        "title": "Rudy Giuliani needed stents after slap ‘assault,’ businessman and radio host John Catsimatidis says; NYC mayor says video doesn’t match allegation",
+        "domain": "fltimes.com",
+        "category": "nottheonion",
+        "link": "https://www.fltimes.com/news/nation/rudy-giuliani-needed-stents-after-slap-assault-businessman-and-radio-host-john-catsimatidis-says-nyc/article_d9554384-d4bb-5bdb-84ad-3da79c2cc80b.html",
+        "timestamp": 1657340233,
+        "sentiment": -2,
+        "published": "July 9, 2022 12:17 AM"
+    },
+    {
         "title": "How Tony Sirico Made Paulie Walnuts a 'Sopranos' Character to Remember",
         "domain": "rollingstone.com",
         "category": "television",
@@ -25,15 +34,6 @@
         "timestamp": 1657342180,
         "sentiment": 0,
         "published": "July 9, 2022 12:49 AM"
-    },
-    {
-        "title": "Hundreds of thousands of Sri Lankans are right now marching into the capital from all over the country seeking for the government to step down",
-        "domain": "bloomberg.com",
-        "category": "worldnews",
-        "link": "https://www.bloomberg.com/news/articles/2022-07-09/sri-lanka-protesters-to-hold-mass-rally-seeking-rajapaksa-s-exit",
-        "timestamp": 1657346534,
-        "sentiment": 0,
-        "published": "July 9, 2022 2:02 AM"
     },
     {
         "title": "For the first time, scientists have been able to detect specific variants of SARS-CoV-2 in sewage weeks before they were showing up in testing clinics. The technique could eventually be used to track emerging variants and speed up the public-health response.",
@@ -122,7 +122,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/09/asia/sri-lanka-protest-president-saturday-intl-hnk/index.html",
         "timestamp": 1657360952,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 9, 2022 6:02 AM"
     },
     {
@@ -140,7 +140,7 @@
         "category": "news",
         "link": "https://news.sky.com/story/we-see-them-as-brothers-in-arms-here-uk-training-thousands-of-ukrainian-recruits-in-england-12648559",
         "timestamp": 1657363100,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 9, 2022 6:38 AM"
     },
     {
@@ -158,7 +158,7 @@
         "category": "worldnews",
         "link": "https://www.foxnews.com/world/ukraine-military-sees-spike-female-volunteers-war-russia",
         "timestamp": 1657370227,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 9, 2022 8:37 AM"
     },
     {
@@ -176,7 +176,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/donald-trump-lawyer-christina-bobb-rsbn-midterms-republicans-election-2020-1723145",
         "timestamp": 1657370427,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 9, 2022 8:40 AM"
     },
     {
@@ -185,7 +185,7 @@
         "category": "news",
         "link": "https://wsvn.com/news/us-world/5000-pounds-of-meth-seized-in-san-diego-county-when-truck-is-followed-after-crossing-border-officials-say/",
         "timestamp": 1657370454,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 9, 2022 8:40 AM"
     },
     {
@@ -203,7 +203,7 @@
         "category": "politics",
         "link": "https://www.msnbc.com/the-reidout/reidout-blog/supreme-court-objects-peaceful-protests-slashing-abortion-rights-rcna36691",
         "timestamp": 1657370956,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 9, 2022 8:49 AM"
     },
     {
@@ -221,7 +221,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/brett-kavanaugh-aoc-ocasio-cortez-steakhouse-protest-abortion-ectopic-pregnancy-2022-7",
         "timestamp": 1657372242,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 9, 2022 9:10 AM"
     },
     {
@@ -232,6 +232,15 @@
         "timestamp": 1657372368,
         "sentiment": -2,
         "published": "July 9, 2022 9:12 AM"
+    },
+    {
+        "title": "Russian veto stops last aid lifeline to some 4 million people in opposition-controlled northwest Syria from Turkey. The current mandate for the UN aid operation into Syria from Turkey expires on Sunday.",
+        "domain": "english.alaraby.co.uk",
+        "category": "worldnews",
+        "link": "https://english.alaraby.co.uk/news/russian-veto-stops-last-aid-lifeline-nw-syria",
+        "timestamp": 1657372505,
+        "sentiment": -1,
+        "published": "July 9, 2022 9:15 AM"
     },
     {
         "title": "Metal Gear Solid Creator Misidentified as Shinzo Abe's Assassin by News Station and Politicians",
@@ -248,7 +257,7 @@
         "category": "news",
         "link": "https://ktar.com/story/5143855/arizona-gov-doug-ducey-signs-controversial-school-voucher-expansion-bill/",
         "timestamp": 1657373856,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 9, 2022 9:37 AM"
     },
     {
@@ -261,21 +270,12 @@
         "published": "July 9, 2022 9:43 AM"
     },
     {
-        "title": "Flagstaff PD officers fully naked, fondled during massage investigation",
-        "domain": "abc15.com",
-        "category": "nottheonion",
-        "link": "https://www.abc15.com/news/local-news/investigations/flagstaff-pd-officers-fully-naked-fondled-during-massage-investigation",
-        "timestamp": 1657374263,
-        "sentiment": -2,
-        "published": "July 9, 2022 9:44 AM"
-    },
-    {
         "title": "Letting Medicare Negotiate Drug Prices Would Save US Nearly $290 Billion: CBO",
         "domain": "commondreams.org",
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/07/09/letting-medicare-negotiate-drug-prices-would-save-us-nearly-290-billion-cbo",
         "timestamp": 1657374325,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 9, 2022 9:45 AM"
     },
     {
@@ -284,17 +284,8 @@
         "category": "worldnews",
         "link": "https://www.thedailybeast.com/shinzo-abe-assassination-japans-police-chief-tomoaki-onizuka-takes-responsibility-for-security-failures",
         "timestamp": 1657374660,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 9, 2022 9:51 AM"
-    },
-    {
-        "title": "From Donald Trump to Mike Pence, the GOP parrots claims about 'abortions at the moment of birth' that experts call 'terrible lies' and a 'complete falsehood'",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/why-gop-keeps-talking-about-abortions-at-moment-of-birth-2022-6",
-        "timestamp": 1657374738,
-        "sentiment": 0,
-        "published": "July 9, 2022 9:52 AM"
     },
     {
         "title": "The TVLine Performer of the Week: Caleb McLaughlin in 'Stranger Things 4'",
@@ -311,17 +302,8 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/fae308e307dc5c250534a593e0410354",
         "timestamp": 1657375654,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 9, 2022 10:07 AM"
-    },
-    {
-        "title": "china: US tells China its support for Russia complicates relations",
-        "domain": "economictimes.indiatimes.com",
-        "category": "worldnews",
-        "link": "http://economictimes.indiatimes.com/news/international/world-news/us-tells-china-its-support-for-russia-complicates-relations/articleshow/92769727.cms",
-        "timestamp": 1657376269,
-        "sentiment": 0,
-        "published": "July 9, 2022 10:17 AM"
     },
     {
         "title": "Army Reportedly Seeks To Recoup Money From Michael Flynn For His Pay From Russia, Turkey",
@@ -329,7 +311,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/michael-flynn-turkey-russia-payments-army-recoup-trump_n_62c8f202e4b02e0ac91435d2",
         "timestamp": 1657377846,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 9, 2022 10:44 AM"
     },
     {
@@ -338,7 +320,7 @@
         "category": "worldnews",
         "link": "https://www.rferl.org/a/ukraine-united-states-himars-new-arms-package/31935257.html",
         "timestamp": 1657378044,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 9, 2022 10:47 AM"
     },
     {
@@ -347,7 +329,7 @@
         "category": "worldnews",
         "link": "https://www.total-slovenia-news.com/politics/10254-slovenia-legalises-same-sex-marriage-adoptions",
         "timestamp": 1657378934,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 9, 2022 11:02 AM"
     },
     {
@@ -392,7 +374,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/zelenskiy-sacks-ukraines-envoy-germany-other-ambassadors-2022-07-09/",
         "timestamp": 1657382298,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 9, 2022 11:58 AM"
     },
     {
@@ -401,7 +383,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/us-news/2022/jul/09/jill-biden-us-army-general-consultant-suspended",
         "timestamp": 1657383173,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 9, 2022 12:12 PM"
     },
     {
@@ -419,7 +401,7 @@
         "category": "worldnews",
         "link": "https://asia.nikkei.com/Politics/Shinzo-Abe/Abe-shooter-says-his-mother-bankrupted-by-donating-to-religious-group",
         "timestamp": 1657383875,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 9, 2022 12:24 PM"
     },
     {
@@ -437,7 +419,7 @@
         "category": "news",
         "link": "https://e360.yale.edu/digest/paris-agreement-human-rights-treaty-brazil",
         "timestamp": 1657384605,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 9, 2022 12:36 PM"
     },
     {
@@ -450,12 +432,21 @@
         "published": "July 9, 2022 12:45 PM"
     },
     {
+        "title": "Chinese Police Exposed 1B People's Data in Unprecedented Leak",
+        "domain": "wired.com",
+        "category": "technology",
+        "link": "https://www.wired.com/story/chinese-police-exposed-1-billion-peoples-data/",
+        "timestamp": 1657386276,
+        "sentiment": 0,
+        "published": "July 9, 2022 1:04 PM"
+    },
+    {
         "title": "Representative (R-Ohio) Sarah Fowler Arthur wants Ohio to teach \"both sides\" of the holocaust",
         "domain": "news5cleveland.com",
         "category": "politics",
         "link": "https://www.news5cleveland.com/news/politics/ohio-politics/comments-about-the-holocaust-from-representative-sponsoring-divisive-concepts-bill-raise-concerns",
         "timestamp": 1657386421,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 9, 2022 1:07 PM"
     },
     {
@@ -464,7 +455,7 @@
         "category": "news",
         "link": "https://apnews.com/article/abortion-us-supreme-court-health-child-abuse-arizona-attorney-generals-office-5e7ecd8251fe7ee7e78ca7b2b0ea2501",
         "timestamp": 1657387618,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 9, 2022 1:26 PM"
     },
     {
@@ -473,7 +464,7 @@
         "category": "worldnews",
         "link": "https://www.petfoodprocessing.net/articles/15939-canadian-government-invests-85-million-in-insect-production",
         "timestamp": 1657388529,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 9, 2022 1:42 PM"
     },
     {
@@ -482,7 +473,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/democrat-calls-michael-flynn-lose-his-pension-after-army-fine-2022-7",
         "timestamp": 1657388579,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 9, 2022 1:42 PM"
     },
     {
@@ -491,7 +482,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/09/us/us-marshals-sex-offender-iowa/index.html",
         "timestamp": 1657388730,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 9, 2022 1:45 PM"
     },
     {
@@ -549,12 +540,21 @@
         "published": "July 9, 2022 2:40 PM"
     },
     {
+        "title": "The metaverse is a new word for an old idea",
+        "domain": "technologyreview.com",
+        "category": "technology",
+        "link": "https://www.technologyreview.com/2022/02/08/1044732/metaverse-history-snow-crash",
+        "timestamp": 1657392309,
+        "sentiment": 0,
+        "published": "July 9, 2022 2:45 PM"
+    },
+    {
         "title": "'Devastating piece of evidence': Filing reveals a Proud Boys plan to storm buildings Jan. 6",
         "domain": "usatoday.com",
         "category": "politics",
         "link": "https://www.usatoday.com/story/news/politics/2022/06/15/1776-returns-proud-boys-enrique-tarrio-zachary-rehl/7640565001/",
         "timestamp": 1657393919,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 9, 2022 3:11 PM"
     },
     {
@@ -563,7 +563,7 @@
         "category": "news",
         "link": "https://www.jpost.com/breaking-news/article-711634",
         "timestamp": 1657394571,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 9, 2022 3:22 PM"
     },
     {
@@ -576,12 +576,21 @@
         "published": "July 9, 2022 3:32 PM"
     },
     {
+        "title": "France bans pesticide use in more places, including private residences",
+        "domain": "connexionfrance.com",
+        "category": "worldnews",
+        "link": "https://www.connexionfrance.com/article/French-news/France-bans-pesticide-use-in-more-places-including-private-residences",
+        "timestamp": 1657395193,
+        "sentiment": -1,
+        "published": "July 9, 2022 3:33 PM"
+    },
+    {
         "title": "Native American elders recall abuse at US government boarding schools",
         "domain": "theguardian.com",
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/jul/09/native-american-elders-us-government-schools-oklahoma",
         "timestamp": 1657395310,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 9, 2022 3:35 PM"
     },
     {
@@ -612,22 +621,22 @@
         "published": "July 9, 2022 4:41 PM"
     },
     {
-        "title": "Freshii’s ‘virtual cashiers’ make $3.75 an hour and have been calle",
-        "domain": "thestar.com",
-        "category": "technology",
-        "link": "https://www.thestar.com/business/2022/07/08/percy-the-virtual-cashier-founders-shrug-off-critics-and-plan-to-grow-start-up-into-a-multinational-company.html",
-        "timestamp": 1657400505,
-        "sentiment": 0,
-        "published": "July 9, 2022 5:01 PM"
-    },
-    {
         "title": "Thousands turn out for Women’s March in D.C. to pressure Biden on abortion rights",
         "domain": "nbcnews.com",
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/womens-march-rallies-dc-pressure-biden-abortion-rights-rcna37444",
         "timestamp": 1657400871,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 9, 2022 5:07 PM"
+    },
+    {
+        "title": "Arizona's governor signed a law that limits filming police",
+        "domain": "npr.org",
+        "category": "nottheonion",
+        "link": "https://www.npr.org/2022/07/09/1110659827/arizonas-law-limits-filming-police",
+        "timestamp": 1657402375,
+        "sentiment": -2,
+        "published": "July 9, 2022 5:32 PM"
     },
     {
         "title": "Judi Dench: ‘I was told I’d never make a film. I had the wrong face’",
@@ -648,13 +657,13 @@
         "published": "July 9, 2022 5:37 PM"
     },
     {
-        "title": "How Elon's bizarre Twitter takeover saga could have just been a cover for him to sell $8.5 billion in Tesla stock",
-        "domain": "fortune.com",
-        "category": "technology",
-        "link": "https://fortune.com/2022/07/09/how-elon-musk-bizarre-twitter-takeover-saga-could-have-just-been-a-cover-for-him-to-sell-8-billion-in-tesla-stock/",
-        "timestamp": 1657402989,
-        "sentiment": 0,
-        "published": "July 9, 2022 5:43 PM"
+        "title": "Group offers up to $250 for SCOTUS justices sightings after Kavanaugh protest",
+        "domain": "axios.com",
+        "category": "politics",
+        "link": "https://www.axios.com/2022/07/09/shutdowndc-supreme-court-abortion-roe-protest",
+        "timestamp": 1657403094,
+        "sentiment": 2,
+        "published": "July 9, 2022 5:44 PM"
     },
     {
         "title": "Women are more likely to engage in sexual intercourse when using hormonal contraception, study finds",
@@ -666,13 +675,58 @@
         "published": "July 9, 2022 5:47 PM"
     },
     {
-        "title": "Rudy Giuliani needed stents after slap ‘assault,’ businessman and radio host John Catsimatidis says; NYC mayor says video doesn’t match allegation",
-        "domain": "fltimes.com",
+        "title": "Hundreds of thousands of Sri Lankans are right now marching into the capital from all over the country seeking for the government to step down",
+        "domain": "bloomberg.com",
+        "category": "worldnews",
+        "link": "https://www.bloomberg.com/news/articles/2022-07-09/sri-lanka-protesters-to-hold-mass-rally-seeking-rajapaksa-s-exit",
+        "timestamp": 1657346534,
+        "sentiment": 0,
+        "published": "July 9, 2022 2:02 AM"
+    },
+    {
+        "title": "Flagstaff PD officers fully naked, fondled during massage investigation",
+        "domain": "abc15.com",
         "category": "nottheonion",
-        "link": "https://www.fltimes.com/news/nation/rudy-giuliani-needed-stents-after-slap-assault-businessman-and-radio-host-john-catsimatidis-says-nyc/article_d9554384-d4bb-5bdb-84ad-3da79c2cc80b.html",
-        "timestamp": 1657340233,
+        "link": "https://www.abc15.com/news/local-news/investigations/flagstaff-pd-officers-fully-naked-fondled-during-massage-investigation",
+        "timestamp": 1657374263,
         "sentiment": -2,
-        "published": "July 9, 2022 12:17 AM"
+        "published": "July 9, 2022 9:44 AM"
+    },
+    {
+        "title": "From Donald Trump to Mike Pence, the GOP parrots claims about 'abortions at the moment of birth' that experts call 'terrible lies' and a 'complete falsehood'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/why-gop-keeps-talking-about-abortions-at-moment-of-birth-2022-6",
+        "timestamp": 1657374738,
+        "sentiment": 0,
+        "published": "July 9, 2022 9:52 AM"
+    },
+    {
+        "title": "china: US tells China its support for Russia complicates relations",
+        "domain": "economictimes.indiatimes.com",
+        "category": "worldnews",
+        "link": "http://economictimes.indiatimes.com/news/international/world-news/us-tells-china-its-support-for-russia-complicates-relations/articleshow/92769727.cms",
+        "timestamp": 1657376269,
+        "sentiment": 0,
+        "published": "July 9, 2022 10:17 AM"
+    },
+    {
+        "title": "Freshii’s ‘virtual cashiers’ make $3.75 an hour and have been calle",
+        "domain": "thestar.com",
+        "category": "technology",
+        "link": "https://www.thestar.com/business/2022/07/08/percy-the-virtual-cashier-founders-shrug-off-critics-and-plan-to-grow-start-up-into-a-multinational-company.html",
+        "timestamp": 1657400505,
+        "sentiment": 0,
+        "published": "July 9, 2022 5:01 PM"
+    },
+    {
+        "title": "How Elon's bizarre Twitter takeover saga could have just been a cover for him to sell $8.5 billion in Tesla stock",
+        "domain": "fortune.com",
+        "category": "technology",
+        "link": "https://fortune.com/2022/07/09/how-elon-musk-bizarre-twitter-takeover-saga-could-have-just-been-a-cover-for-him-to-sell-8-billion-in-tesla-stock/",
+        "timestamp": 1657402989,
+        "sentiment": 0,
+        "published": "July 9, 2022 5:43 PM"
     },
     {
         "title": "Historical language records reveal a surge of cognitive distortions in recent decades",
@@ -691,15 +745,6 @@
         "timestamp": 1657364703,
         "sentiment": -3,
         "published": "July 9, 2022 7:05 AM"
-    },
-    {
-        "title": "Chinese Police Exposed 1B People's Data in Unprecedented Leak",
-        "domain": "wired.com",
-        "category": "technology",
-        "link": "https://www.wired.com/story/chinese-police-exposed-1-billion-peoples-data/",
-        "timestamp": 1657386276,
-        "sentiment": 0,
-        "published": "July 9, 2022 1:04 PM"
     },
     {
         "title": "Vladimir Putin 'having war baby with gymnast lover' with Russia leader 'to become dad again at 69'",
@@ -727,15 +772,6 @@
         "timestamp": 1657390448,
         "sentiment": 2,
         "published": "July 9, 2022 2:14 PM"
-    },
-    {
-        "title": "Russian veto stops last aid lifeline to some 4 million people in opposition-controlled northwest Syria from Turkey. The current mandate for the UN aid operation into Syria from Turkey expires on Sunday.",
-        "domain": "english.alaraby.co.uk",
-        "category": "worldnews",
-        "link": "https://english.alaraby.co.uk/news/russian-veto-stops-last-aid-lifeline-nw-syria",
-        "timestamp": 1657372505,
-        "sentiment": 1,
-        "published": "July 9, 2022 9:15 AM"
     },
     {
         "title": "Billboard in Inverness, FL reminds dads not to drunkenly rape their daughters",
