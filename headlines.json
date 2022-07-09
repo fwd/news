@@ -23,7 +23,7 @@
         "category": "nottheonion",
         "link": "https://www.fltimes.com/news/nation/rudy-giuliani-needed-stents-after-slap-assault-businessman-and-radio-host-john-catsimatidis-says-nyc/article_d9554384-d4bb-5bdb-84ad-3da79c2cc80b.html",
         "timestamp": 1657340233,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 9, 2022 12:17 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "television",
         "link": "https://www.rollingstone.com/tv-movies/tv-movie-features/tony-sirico-tribute-sopranos-paulie-walnuts-sepinwall-1380256/",
         "timestamp": 1657340255,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 9, 2022 12:17 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "nottheonion",
         "link": "https://www.nbcnews.com/news/asian-america/alabama-judge-suspended-mocking-asian-accent-courtroom-rcna37181",
         "timestamp": 1657340437,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 9, 2022 12:20 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "nottheonion",
         "link": "https://news.sky.com/story/elon-musk-pulls-plug-on-44bn-deal-to-take-over-twitter-12648536",
         "timestamp": 1657342777,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 9, 2022 12:59 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "ukraine",
         "link": "https://news.sky.com/story/we-see-them-as-brothers-in-arms-here-uk-training-thousands-of-ukrainian-recruits-in-england-12648559",
         "timestamp": 1657345220,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 9, 2022 1:40 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "nottheonion",
         "link": "https://wtfflorida.com/media/photos/billboard-inverness-florida-reminds-dads-not-drunkenly-rape-daughters/",
         "timestamp": 1657345933,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 9, 2022 1:52 AM"
     },
     {
@@ -122,7 +122,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/DefenceHQ/status/1545639125331677186",
         "timestamp": 1657349457,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 9, 2022 2:50 AM"
     },
     {
@@ -185,7 +185,7 @@
         "category": "television",
         "link": "https://www.pastemagazine.com/tv/netflix/stranger-things-season-4-steve-harrington-hero/",
         "timestamp": 1657359188,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 9, 2022 5:33 AM"
     },
     {
@@ -225,15 +225,6 @@
         "published": "July 9, 2022 5:56 AM"
     },
     {
-        "title": "Taiwan to fly flags at half-staff in honor of killed ex-Japanese leader Shinzo Abe",
-        "domain": "focustaiwan.tw",
-        "category": "worldnews",
-        "link": "https://focustaiwan.tw/politics/202207090008",
-        "timestamp": 1657360668,
-        "sentiment": -1,
-        "published": "July 9, 2022 5:57 AM"
-    },
-    {
         "title": "Boeing threatens to cancel Boeing 737 MAX 10 aircraft unless given exemption from safety requirements",
         "domain": "msn.com",
         "category": "technology",
@@ -248,7 +239,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/09/asia/sri-lanka-protest-president-saturday-intl-hnk/index.html",
         "timestamp": 1657360952,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 9, 2022 6:02 AM"
     },
     {
@@ -257,17 +248,8 @@
         "category": "ukraine",
         "link": "https://www.pravda.com.ua/eng/news/2022/07/8/7357086/",
         "timestamp": 1657361347,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 9, 2022 6:09 AM"
-    },
-    {
-        "title": "World population to reach 8 billion on 15 November 2022 Amid falling growth rates, global population projected to peak around 10.4 billion in the 2080s",
-        "domain": "nigerianobservernews.com",
-        "category": "worldnews",
-        "link": "https://nigerianobservernews.com/2022/07/world-population-to-reach-8-billion-on-15-november-2022-amid-falling-growth-rates-global-population-projected-to-peak-around-10-4-billion-in-the-2080s/",
-        "timestamp": 1657362793,
-        "sentiment": -1,
-        "published": "July 9, 2022 6:33 AM"
     },
     {
         "title": "Thousands of Ukrainian 'battle casualty replacements' are being trained in England",
@@ -275,8 +257,17 @@
         "category": "news",
         "link": "https://news.sky.com/story/we-see-them-as-brothers-in-arms-here-uk-training-thousands-of-ukrainian-recruits-in-england-12648559",
         "timestamp": 1657363100,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 9, 2022 6:38 AM"
+    },
+    {
+        "title": "Netherlands is stepping up its arms deliveries",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/oryxspioenkop/status/1545514392355217410",
+        "timestamp": 1657363640,
+        "sentiment": 0,
+        "published": "July 9, 2022 6:47 AM"
     },
     {
         "title": "Blind dog found in Alaska 3 weeks after wandering off",
@@ -284,7 +275,7 @@
         "category": "news",
         "link": "https://www.arkansasonline.com/news/2022/jul/08/blind-dog-found-in-alaska-3-weeks-after-wandering-off/",
         "timestamp": 1657364136,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 9, 2022 6:55 AM"
     },
     {
@@ -293,7 +284,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/09/us/akron-ohio-4-year-old-girl-fatally-shot/index.html",
         "timestamp": 1657364703,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 9, 2022 7:05 AM"
     },
     {
@@ -304,6 +295,15 @@
         "timestamp": 1657364790,
         "sentiment": -1,
         "published": "July 9, 2022 7:06 AM"
+    },
+    {
+        "title": "The right's enemies list: \"Woke heat maps\" target and track progressives for crack down — \"Woke heat map\" documents instances of \"wokeness\" to fight back against \"critical race theory\" and \"grooming\"",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/07/09/the-rights-enemies-list-woke-heat-maps-target-and-track-progressives-for-crack-down/",
+        "timestamp": 1657366903,
+        "sentiment": -4,
+        "published": "July 9, 2022 7:41 AM"
     },
     {
         "title": "Cacophony of dunces: When the Supreme Court trashed the Constitution. Sam Alito and John Roberts appeal to \"history and tradition\" — while they dance around the burning Constitution",
@@ -347,7 +347,7 @@
         "category": "news",
         "link": "https://wsvn.com/news/us-world/5000-pounds-of-meth-seized-in-san-diego-county-when-truck-is-followed-after-crossing-border-officials-say/",
         "timestamp": 1657370454,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 9, 2022 8:40 AM"
     },
     {
@@ -374,7 +374,7 @@
         "category": "television",
         "link": "https://bleedingcool.com/tv/the-fall-of-the-house-of-usher-flanagan-shares-filming-wrap-thanks/",
         "timestamp": 1657371904,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 9, 2022 9:05 AM"
     },
     {
@@ -392,8 +392,17 @@
         "category": "nottheonion",
         "link": "https://www.wwltv.com/article/news/crime/lamar-davis-head-of-louisiana-state-police-pulled-over-for-speeding-report-says/289-377d6409-04e8-45c2-a0b2-c05dfd1d6746",
         "timestamp": 1657372368,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 9, 2022 9:12 AM"
+    },
+    {
+        "title": "Russian veto stops last aid lifeline to some 4 million people in opposition-controlled northwest Syria from Turkey. The current mandate for the UN aid operation into Syria from Turkey expires on Sunday.",
+        "domain": "english.alaraby.co.uk",
+        "category": "worldnews",
+        "link": "https://english.alaraby.co.uk/news/russian-veto-stops-last-aid-lifeline-nw-syria",
+        "timestamp": 1657372505,
+        "sentiment": -1,
+        "published": "July 9, 2022 9:15 AM"
     },
     {
         "title": "Metal Gear Solid Creator Misidentified as Shinzo Abe's Assassin by News Station and Politicians",
@@ -401,8 +410,17 @@
         "category": "nottheonion",
         "link": "https://www.cbr.com/metal-gear-solid-hideo-kojima-misidentified-shinzo-abe-assassin/",
         "timestamp": 1657373282,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 9, 2022 9:28 AM"
+    },
+    {
+        "title": "Arizona Gov. Doug Ducey signs controversial school voucher expansion",
+        "domain": "ktar.com",
+        "category": "news",
+        "link": "https://ktar.com/story/5143855/arizona-gov-doug-ducey-signs-controversial-school-voucher-expansion-bill/",
+        "timestamp": 1657373856,
+        "sentiment": 0,
+        "published": "July 9, 2022 9:37 AM"
     },
     {
         "title": "Canada Bans Single-Use Plastics",
@@ -414,13 +432,31 @@
         "published": "July 9, 2022 9:38 AM"
     },
     {
+        "title": "NASA has a plan for mini nuclear reactors on the moon which could one day power a lunar colony",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/nasa-plans-mini-nuclear-reactors-moon-power-lunar-colony-2022-7?utm_source=reddit.com",
+        "timestamp": 1657374204,
+        "sentiment": -1,
+        "published": "July 9, 2022 9:43 AM"
+    },
+    {
         "title": "Flagstaff PD officers fully naked, fondled during massage investigation",
         "domain": "abc15.com",
         "category": "nottheonion",
         "link": "https://www.abc15.com/news/local-news/investigations/flagstaff-pd-officers-fully-naked-fondled-during-massage-investigation",
         "timestamp": 1657374263,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 9, 2022 9:44 AM"
+    },
+    {
+        "title": "Japan’s Police Chief Takes Responsibility For Shinzo Abe Killing",
+        "domain": "thedailybeast.com",
+        "category": "worldnews",
+        "link": "https://www.thedailybeast.com/shinzo-abe-assassination-japans-police-chief-tomoaki-onizuka-takes-responsibility-for-security-failures",
+        "timestamp": 1657374660,
+        "sentiment": -1,
+        "published": "July 9, 2022 9:51 AM"
     },
     {
         "title": "After 40 years of extinction, rhinos return to Mozambique",
@@ -430,6 +466,51 @@
         "timestamp": 1657374829,
         "sentiment": 0,
         "published": "July 9, 2022 9:53 AM"
+    },
+    {
+        "title": "The TVLine Performer of the Week: Caleb McLaughlin in 'Stranger Things 4'",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/2022/07/09/stranger-things-season-4-episode-9-caleb-mclaughlin-lucas-max-dies/",
+        "timestamp": 1657375393,
+        "sentiment": -2,
+        "published": "July 9, 2022 10:03 AM"
+    },
+    {
+        "title": "French women push to cement abortion rights after US ruling",
+        "domain": "apnews.com",
+        "category": "worldnews",
+        "link": "https://apnews.com/article/fae308e307dc5c250534a593e0410354",
+        "timestamp": 1657375654,
+        "sentiment": -1,
+        "published": "July 9, 2022 10:07 AM"
+    },
+    {
+        "title": "Elena Rybakina storms back to beat Ons Jabeur in Wimbledon women’s final",
+        "domain": "theguardian.com",
+        "category": "sports",
+        "link": "https://www.theguardian.com/sport/live/2022/jul/09/wimbledon-2022-womens-singles-final-ons-jabeur-v-elena-rybakina-live",
+        "timestamp": 1657379070,
+        "sentiment": 0,
+        "published": "July 9, 2022 11:04 AM"
+    },
+    {
+        "title": "Taiwan to fly flags at half-staff in honor of killed ex-Japanese leader Shinzo Abe",
+        "domain": "focustaiwan.tw",
+        "category": "worldnews",
+        "link": "https://focustaiwan.tw/politics/202207090008",
+        "timestamp": 1657360668,
+        "sentiment": -1,
+        "published": "July 9, 2022 5:57 AM"
+    },
+    {
+        "title": "World population to reach 8 billion on 15 November 2022 Amid falling growth rates, global population projected to peak around 10.4 billion in the 2080s",
+        "domain": "nigerianobservernews.com",
+        "category": "worldnews",
+        "link": "https://nigerianobservernews.com/2022/07/world-population-to-reach-8-billion-on-15-november-2022-amid-falling-growth-rates-global-population-projected-to-peak-around-10-4-billion-in-the-2080s/",
+        "timestamp": 1657362793,
+        "sentiment": -1,
+        "published": "July 9, 2022 6:33 AM"
     },
     {
         "title": "Obama beats Reagan as favorite president since Reagan era: Poll",
