@@ -41,8 +41,17 @@
         "category": "science",
         "link": "https://www.tut.ac.jp/english/news/19630.html",
         "timestamp": 1657340521,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 9, 2022 12:22 AM"
+    },
+    {
+        "title": "Guinea worm disease is close to being eradicated – how was this progress achieved?",
+        "domain": "ourworldindata.org",
+        "category": "UpliftingNews",
+        "link": "https://ourworldindata.org/guinea-worm-path-eradication",
+        "timestamp": 1657341787,
+        "sentiment": 1,
+        "published": "July 9, 2022 12:43 AM"
     },
     {
         "title": "A Blind, Older Dog Is Found Alive In Alaska, 3 Weeks After Wandering Off",
@@ -50,7 +59,7 @@
         "category": "UpliftingNews",
         "link": "https://apnews.com/article/alaska-dogs-sitka-8206c86986f75cbdecff8524d944038f",
         "timestamp": 1657342180,
-        "sentiment": 4,
+        "sentiment": 1,
         "published": "July 9, 2022 12:49 AM"
     },
     {
@@ -68,8 +77,26 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/first-russian-doomsday-submarine-with-nuclear-drones-enters-active-service/ar-AAZnz7s?rc=1&ocid=winp1taskbar&cvid=2f78608e67f1450bd98406e45f93d227",
         "timestamp": 1657342786,
-        "sentiment": 2,
+        "sentiment": 1,
         "published": "July 9, 2022 12:59 AM"
+    },
+    {
+        "title": "Billboard in Inverness, FL reminds dads not to drunkenly rape their daughters",
+        "domain": "wtfflorida.com",
+        "category": "nottheonion",
+        "link": "https://wtfflorida.com/media/photos/billboard-inverness-florida-reminds-dads-not-drunkenly-rape-daughters/",
+        "timestamp": 1657345933,
+        "sentiment": -2,
+        "published": "July 9, 2022 1:52 AM"
+    },
+    {
+        "title": "A newly discovered star only takes four years to travel around the black hole at the centre of our galaxy. The star, S4716, orbits Sagittarius A*, the black hole in the centre of our Milky Way, in four years and reaches a speed of around 8000 kilometres per second.",
+        "domain": "portal.uni-koeln.de",
+        "category": "science",
+        "link": "https://portal.uni-koeln.de/en/universitaet/aktuell/press-releases/single-news/8000-kilometres-per-second-star-with-the-shortest-orbital-period-around-black-hole-discovered",
+        "timestamp": 1657346182,
+        "sentiment": 0,
+        "published": "July 9, 2022 1:56 AM"
     },
     {
         "title": "For the first time, scientists have been able to detect specific variants of SARS-CoV-2 in sewage weeks before they were showing up in testing clinics. The technique could eventually be used to track emerging variants and speed up the public-health response.",
@@ -77,7 +104,7 @@
         "category": "science",
         "link": "https://www.nature.com/articles/d41586-022-01874-x",
         "timestamp": 1657346688,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 9, 2022 2:04 AM"
     },
     {
