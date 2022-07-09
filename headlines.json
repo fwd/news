@@ -9,6 +9,15 @@
         "published": "July 9, 2022 12:06 AM"
     },
     {
+        "title": "21 russian ammo depots blown so far",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/TakkumakiT/status/1545340122224332801/photo/1",
+        "timestamp": 1657340130,
+        "sentiment": 0,
+        "published": "July 9, 2022 12:15 AM"
+    },
+    {
         "title": "Rudy Giuliani needed stents after slap ‘assault,’ businessman and radio host John Catsimatidis says; NYC mayor says video doesn’t match allegation",
         "domain": "fltimes.com",
         "category": "nottheonion",
@@ -36,21 +45,12 @@
         "published": "July 9, 2022 12:20 AM"
     },
     {
-        "title": "Study found universality preference for color composition in paintings: regardless of nationality, differences in Japanese and Occidental paintings, and differences in figurative and abstract paintings, many people preferred the non altered color composition even for painting they had never seen",
-        "domain": "tut.ac.jp",
-        "category": "science",
-        "link": "https://www.tut.ac.jp/english/news/19630.html",
-        "timestamp": 1657340521,
-        "sentiment": 0,
-        "published": "July 9, 2022 12:22 AM"
-    },
-    {
         "title": "Guinea worm disease is close to being eradicated – how was this progress achieved?",
         "domain": "ourworldindata.org",
         "category": "UpliftingNews",
         "link": "https://ourworldindata.org/guinea-worm-path-eradication",
         "timestamp": 1657341787,
-        "sentiment": 1,
+        "sentiment": 2,
         "published": "July 9, 2022 12:43 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "UpliftingNews",
         "link": "https://apnews.com/article/alaska-dogs-sitka-8206c86986f75cbdecff8524d944038f",
         "timestamp": 1657342180,
-        "sentiment": 1,
+        "sentiment": 2,
         "published": "July 9, 2022 12:49 AM"
     },
     {
@@ -81,6 +81,15 @@
         "published": "July 9, 2022 12:59 AM"
     },
     {
+        "title": "'We see them as brothers in arms here': UK training thousands of Ukrainian recruits in England",
+        "domain": "news.sky.com",
+        "category": "ukraine",
+        "link": "https://news.sky.com/story/we-see-them-as-brothers-in-arms-here-uk-training-thousands-of-ukrainian-recruits-in-england-12648559",
+        "timestamp": 1657345220,
+        "sentiment": 0,
+        "published": "July 9, 2022 1:40 AM"
+    },
+    {
         "title": "Billboard in Inverness, FL reminds dads not to drunkenly rape their daughters",
         "domain": "wtfflorida.com",
         "category": "nottheonion",
@@ -95,7 +104,7 @@
         "category": "science",
         "link": "https://portal.uni-koeln.de/en/universitaet/aktuell/press-releases/single-news/8000-kilometres-per-second-star-with-the-shortest-orbital-period-around-black-hole-discovered",
         "timestamp": 1657346182,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 9, 2022 1:56 AM"
     },
     {
@@ -104,8 +113,35 @@
         "category": "science",
         "link": "https://www.nature.com/articles/d41586-022-01874-x",
         "timestamp": 1657346688,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 9, 2022 2:04 AM"
+    },
+    {
+        "title": "Sexual Abuse & Assault of Boys & Men | Confidential Support for Men",
+        "domain": "1in6.org",
+        "category": "science",
+        "link": "https://1in6.org/",
+        "timestamp": 1657348960,
+        "sentiment": -6,
+        "published": "July 9, 2022 2:42 AM"
+    },
+    {
+        "title": "Obama beats Reagan as favorite president since Reagan era: Poll",
+        "domain": "newsweek.com",
+        "category": "nottheonion",
+        "link": "https://www.newsweek.com/obama-beats-reagan-favorite-president-since-reagan-era-poll-1721078",
+        "timestamp": 1657350970,
+        "sentiment": -2,
+        "published": "July 9, 2022 3:16 AM"
+    },
+    {
+        "title": "Study found universality preference for color composition in paintings: regardless of nationality, differences in Japanese and Occidental paintings, and differences in figurative and abstract paintings, many people preferred the non altered color composition even for painting they had never seen",
+        "domain": "tut.ac.jp",
+        "category": "science",
+        "link": "https://www.tut.ac.jp/english/news/19630.html",
+        "timestamp": 1657340521,
+        "sentiment": 0,
+        "published": "July 9, 2022 12:22 AM"
     },
     {
         "title": "A New Survey Finds 81 Percent Of Women Have Experienced Sexual Harassment : The Two-Way : NPR",
