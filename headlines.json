@@ -14,7 +14,7 @@
         "category": "nottheonion",
         "link": "https://www.fltimes.com/news/nation/rudy-giuliani-needed-stents-after-slap-assault-businessman-and-radio-host-john-catsimatidis-says-nyc/article_d9554384-d4bb-5bdb-84ad-3da79c2cc80b.html",
         "timestamp": 1657340233,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "July 9, 2022 12:17 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "television",
         "link": "https://www.rollingstone.com/tv-movies/tv-movie-features/tony-sirico-tribute-sopranos-paulie-walnuts-sepinwall-1380256/",
         "timestamp": 1657340255,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "July 9, 2022 12:17 AM"
     },
     {
@@ -32,8 +32,17 @@
         "category": "UpliftingNews",
         "link": "https://apnews.com/article/alaska-dogs-sitka-8206c86986f75cbdecff8524d944038f",
         "timestamp": 1657342180,
-        "sentiment": 3,
+        "sentiment": 2,
         "published": "July 9, 2022 12:49 AM"
+    },
+    {
+        "title": "Billboard in Inverness, FL reminds dads not to drunkenly rape their daughters",
+        "domain": "wtfflorida.com",
+        "category": "nottheonion",
+        "link": "https://wtfflorida.com/media/photos/billboard-inverness-florida-reminds-dads-not-drunkenly-rape-daughters/",
+        "timestamp": 1657345933,
+        "sentiment": -4,
+        "published": "July 9, 2022 1:52 AM"
     },
     {
         "title": "Hundreds of thousands of Sri Lankans are right now marching into the capital from all over the country seeking for the government to step down",
@@ -41,7 +50,7 @@
         "category": "worldnews",
         "link": "https://www.bloomberg.com/news/articles/2022-07-09/sri-lanka-protesters-to-hold-mass-rally-seeking-rajapaksa-s-exit",
         "timestamp": 1657346534,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 2:02 AM"
     },
     {
@@ -68,7 +77,7 @@
         "category": "politics",
         "link": "https://www.cnn.com/2022/07/08/politics/oath-keepers-explosives-death-list-january-6/index.html",
         "timestamp": 1657349667,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 9, 2022 2:54 AM"
     },
     {
@@ -99,13 +108,13 @@
         "published": "July 9, 2022 4:20 AM"
     },
     {
-        "title": "Wildfire burning in Yosemite National Park threatening massive sequoia trees",
-        "domain": "foxweather.com",
-        "category": "news",
-        "link": "https://www.foxweather.com/weather-news/yosemite-national-park-fire",
-        "timestamp": 1657356973,
-        "sentiment": -2,
-        "published": "July 9, 2022 4:56 AM"
+        "title": "Elon Musk's net worth has fallen by $65 billion since he announced he wanted to buy Twitter",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/musk-wealth-fell-65-billion-since-announced-plan-buy-twitter-2022-7",
+        "timestamp": 1657358264,
+        "sentiment": -1,
+        "published": "July 9, 2022 5:17 AM"
     },
     {
         "title": "Noah Anderson kicks the winning goal after the Siren for the Gold Coast suns to beat the Richmond Tigers",
@@ -122,7 +131,7 @@
         "category": "television",
         "link": "https://www.pastemagazine.com/tv/netflix/stranger-things-season-4-steve-harrington-hero/",
         "timestamp": 1657359188,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "July 9, 2022 5:33 AM"
     },
     {
@@ -140,7 +149,7 @@
         "category": "worldnews",
         "link": "https://www.huffpost.com/entry/penguins-otters-cheaper-fish-inflation_n_62c0b2c4e4b0f6125727b2f4",
         "timestamp": 1657359755,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 5:42 AM"
     },
     {
@@ -176,7 +185,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/09/asia/sri-lanka-protest-president-saturday-intl-hnk/index.html",
         "timestamp": 1657360952,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 9, 2022 6:02 AM"
     },
     {
@@ -194,7 +203,7 @@
         "category": "news",
         "link": "https://news.sky.com/story/we-see-them-as-brothers-in-arms-here-uk-training-thousands-of-ukrainian-recruits-in-england-12648559",
         "timestamp": 1657363100,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 9, 2022 6:38 AM"
     },
     {
@@ -203,7 +212,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/09/us/akron-ohio-4-year-old-girl-fatally-shot/index.html",
         "timestamp": 1657364703,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 9, 2022 7:05 AM"
     },
     {
@@ -216,21 +225,12 @@
         "published": "July 9, 2022 7:06 AM"
     },
     {
-        "title": "The right's enemies list: \"Woke heat maps\" target and track progressives for crack down — \"Woke heat map\" documents instances of \"wokeness\" to fight back against \"critical race theory\" and \"grooming\"",
-        "domain": "salon.com",
-        "category": "politics",
-        "link": "https://www.salon.com/2022/07/09/the-rights-enemies-list-woke-heat-maps-target-and-track-progressives-for-crack-down/",
-        "timestamp": 1657366903,
-        "sentiment": -3,
-        "published": "July 9, 2022 7:41 AM"
-    },
-    {
         "title": "Cacophony of dunces: When the Supreme Court trashed the Constitution. Sam Alito and John Roberts appeal to \"history and tradition\" — while they dance around the burning Constitution",
         "domain": "salon.com",
         "category": "politics",
         "link": "https://www.salon.com/2022/07/09/cacophony-of-dunces-when-the-trashed-the-constitution/",
         "timestamp": 1657368212,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 9, 2022 8:03 AM"
     },
     {
@@ -239,7 +239,7 @@
         "category": "worldnews",
         "link": "https://www.foxnews.com/world/ukraine-military-sees-spike-female-volunteers-war-russia",
         "timestamp": 1657370227,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 8:37 AM"
     },
     {
@@ -257,7 +257,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/donald-trump-lawyer-christina-bobb-rsbn-midterms-republicans-election-2020-1723145",
         "timestamp": 1657370427,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 9, 2022 8:40 AM"
     },
     {
@@ -266,7 +266,7 @@
         "category": "news",
         "link": "https://wsvn.com/news/us-world/5000-pounds-of-meth-seized-in-san-diego-county-when-truck-is-followed-after-crossing-border-officials-say/",
         "timestamp": 1657370454,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 9, 2022 8:40 AM"
     },
     {
@@ -284,7 +284,7 @@
         "category": "politics",
         "link": "https://www.msnbc.com/the-reidout/reidout-blog/supreme-court-objects-peaceful-protests-slashing-abortion-rights-rcna36691",
         "timestamp": 1657370956,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 9, 2022 8:49 AM"
     },
     {
@@ -293,7 +293,7 @@
         "category": "television",
         "link": "https://bleedingcool.com/tv/the-fall-of-the-house-of-usher-flanagan-shares-filming-wrap-thanks/",
         "timestamp": 1657371904,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "July 9, 2022 9:05 AM"
     },
     {
@@ -302,7 +302,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/brett-kavanaugh-aoc-ocasio-cortez-steakhouse-protest-abortion-ectopic-pregnancy-2022-7",
         "timestamp": 1657372242,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 9, 2022 9:10 AM"
     },
     {
@@ -311,7 +311,7 @@
         "category": "nottheonion",
         "link": "https://www.wwltv.com/article/news/crime/lamar-davis-head-of-louisiana-state-police-pulled-over-for-speeding-report-says/289-377d6409-04e8-45c2-a0b2-c05dfd1d6746",
         "timestamp": 1657372368,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "July 9, 2022 9:12 AM"
     },
     {
@@ -320,7 +320,7 @@
         "category": "worldnews",
         "link": "https://english.alaraby.co.uk/news/russian-veto-stops-last-aid-lifeline-nw-syria",
         "timestamp": 1657372505,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 9:15 AM"
     },
     {
@@ -329,7 +329,7 @@
         "category": "nottheonion",
         "link": "https://www.cbr.com/metal-gear-solid-hideo-kojima-misidentified-shinzo-abe-assassin/",
         "timestamp": 1657373282,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "July 9, 2022 9:28 AM"
     },
     {
@@ -338,7 +338,7 @@
         "category": "news",
         "link": "https://ktar.com/story/5143855/arizona-gov-doug-ducey-signs-controversial-school-voucher-expansion-bill/",
         "timestamp": 1657373856,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 9, 2022 9:37 AM"
     },
     {
@@ -356,7 +356,7 @@
         "category": "nottheonion",
         "link": "https://www.abc15.com/news/local-news/investigations/flagstaff-pd-officers-fully-naked-fondled-during-massage-investigation",
         "timestamp": 1657374263,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "July 9, 2022 9:44 AM"
     },
     {
@@ -365,7 +365,7 @@
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/07/09/letting-medicare-negotiate-drug-prices-would-save-us-nearly-290-billion-cbo",
         "timestamp": 1657374325,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 9, 2022 9:45 AM"
     },
     {
@@ -374,7 +374,7 @@
         "category": "worldnews",
         "link": "https://www.thedailybeast.com/shinzo-abe-assassination-japans-police-chief-tomoaki-onizuka-takes-responsibility-for-security-failures",
         "timestamp": 1657374660,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 9:51 AM"
     },
     {
@@ -383,7 +383,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/why-gop-keeps-talking-about-abortions-at-moment-of-birth-2022-6",
         "timestamp": 1657374738,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 9, 2022 9:52 AM"
     },
     {
@@ -392,7 +392,7 @@
         "category": "television",
         "link": "https://tvline.com/2022/07/09/stranger-things-season-4-episode-9-caleb-mclaughlin-lucas-max-dies/",
         "timestamp": 1657375393,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "July 9, 2022 10:03 AM"
     },
     {
@@ -401,8 +401,17 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/fae308e307dc5c250534a593e0410354",
         "timestamp": 1657375654,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 10:07 AM"
+    },
+    {
+        "title": "china: US tells China its support for Russia complicates relations",
+        "domain": "economictimes.indiatimes.com",
+        "category": "worldnews",
+        "link": "http://economictimes.indiatimes.com/news/international/world-news/us-tells-china-its-support-for-russia-complicates-relations/articleshow/92769727.cms",
+        "timestamp": 1657376269,
+        "sentiment": -1,
+        "published": "July 9, 2022 10:17 AM"
     },
     {
         "title": "Army Reportedly Seeks To Recoup Money From Michael Flynn For His Pay From Russia, Turkey",
@@ -410,7 +419,7 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/michael-flynn-turkey-russia-payments-army-recoup-trump_n_62c8f202e4b02e0ac91435d2",
         "timestamp": 1657377846,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 9, 2022 10:44 AM"
     },
     {
@@ -419,7 +428,7 @@
         "category": "worldnews",
         "link": "https://www.total-slovenia-news.com/politics/10254-slovenia-legalises-same-sex-marriage-adoptions",
         "timestamp": 1657378934,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 11:02 AM"
     },
     {
@@ -437,17 +446,8 @@
         "category": "nottheonion",
         "link": "https://arstechnica.com/tech-policy/2022/07/parents-sue-tiktok-after-7-kids-die-from-profitable-blackout-challenge-videos",
         "timestamp": 1657379767,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "July 9, 2022 11:16 AM"
-    },
-    {
-        "title": "Crowds gather to boo Boris Johnson during resignation speech",
-        "domain": "theguardian.com",
-        "category": "nottheonion",
-        "link": "https://www.theguardian.com/politics/video/2022/jul/07/crowds-gather-boo-boris-johnson-resignation-speech-video",
-        "timestamp": 1657380342,
-        "sentiment": -2,
-        "published": "July 9, 2022 11:25 AM"
     },
     {
         "title": "‘Disturbing’: weedkiller ingredient tied to cancer found in 80% of US urine samples",
@@ -455,7 +455,7 @@
         "category": "nottheonion",
         "link": "https://www.theguardian.com/us-news/2022/jul/09/weedkiller-glyphosate-cdc-study-urine-samples",
         "timestamp": 1657380678,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "July 9, 2022 11:31 AM"
     },
     {
@@ -466,6 +466,24 @@
         "timestamp": 1657381283,
         "sentiment": 0,
         "published": "July 9, 2022 11:41 AM"
+    },
+    {
+        "title": "Zelenskiy sacks Ukraine's ambassadors to Germany, India, Czech Republic, Norway and Hungary",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/zelenskiy-sacks-ukraines-envoy-germany-other-ambassadors-2022-07-09/",
+        "timestamp": 1657382298,
+        "sentiment": -1,
+        "published": "July 9, 2022 11:58 AM"
+    },
+    {
+        "title": "US army general suspended for mocking Jill Biden’s support of abortion rights",
+        "domain": "theguardian.com",
+        "category": "politics",
+        "link": "https://www.theguardian.com/us-news/2022/jul/09/jill-biden-us-army-general-consultant-suspended",
+        "timestamp": 1657383173,
+        "sentiment": -1,
+        "published": "July 9, 2022 12:12 PM"
     },
     {
         "title": "Brittney Griner’s complicated detention, guilty plea and the dark, dirty money history of pro women’s basketball in Russia",
@@ -482,7 +500,7 @@
         "category": "worldnews",
         "link": "https://asia.nikkei.com/Politics/Shinzo-Abe/Abe-shooter-says-his-mother-bankrupted-by-donating-to-religious-group",
         "timestamp": 1657383875,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 12:24 PM"
     },
     {
@@ -491,8 +509,71 @@
         "category": "UpliftingNews",
         "link": "https://english.sta.si/3058551/court-orders-parliament-to-allow-same-sex-marriages-adoptions",
         "timestamp": 1657384404,
-        "sentiment": 3,
+        "sentiment": 2,
         "published": "July 9, 2022 12:33 PM"
+    },
+    {
+        "title": "Brazil’s Supreme Court first to declare Paris Climate Agreement a human rights treaty",
+        "domain": "e360.yale.edu",
+        "category": "news",
+        "link": "https://e360.yale.edu/digest/paris-agreement-human-rights-treaty-brazil",
+        "timestamp": 1657384605,
+        "sentiment": 0,
+        "published": "July 9, 2022 12:36 PM"
+    },
+    {
+        "title": "Canadian government invests $8.5 million in insect production",
+        "domain": "petfoodprocessing.net",
+        "category": "UpliftingNews",
+        "link": "https://www.petfoodprocessing.net/articles/15939-canadian-government-invests-85-million-in-insect-production",
+        "timestamp": 1657388870,
+        "sentiment": 2,
+        "published": "July 9, 2022 1:47 PM"
+    },
+    {
+        "title": "Mississippi teen hailed as hero after helping rescue 3 girls, officer from river",
+        "domain": "abcnews.go.com",
+        "category": "UpliftingNews",
+        "link": "https://abcnews.go.com/US/mississippi-teen-hailed-hero-helping-rescue-girls-officer/story?id=86300178",
+        "timestamp": 1657390448,
+        "sentiment": 2,
+        "published": "July 9, 2022 2:14 PM"
+    },
+    {
+        "title": "Ireland beat the All Blacks in New Zealand for first time in their (Ireland) history.",
+        "domain": "theguardian.com",
+        "category": "sports",
+        "link": "https://www.theguardian.com/sport/2022/jul/09/new-zealand-ireland-second-test-rugby-union-match-report",
+        "timestamp": 1657390708,
+        "sentiment": 0,
+        "published": "July 9, 2022 2:18 PM"
+    },
+    {
+        "title": "Wildfire burning in Yosemite National Park threatening massive sequoia trees",
+        "domain": "foxweather.com",
+        "category": "news",
+        "link": "https://www.foxweather.com/weather-news/yosemite-national-park-fire",
+        "timestamp": 1657356973,
+        "sentiment": -2,
+        "published": "July 9, 2022 4:56 AM"
+    },
+    {
+        "title": "The right's enemies list: \"Woke heat maps\" target and track progressives for crack down — \"Woke heat map\" documents instances of \"wokeness\" to fight back against \"critical race theory\" and \"grooming\"",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/07/09/the-rights-enemies-list-woke-heat-maps-target-and-track-progressives-for-crack-down/",
+        "timestamp": 1657366903,
+        "sentiment": -3,
+        "published": "July 9, 2022 7:41 AM"
+    },
+    {
+        "title": "Crowds gather to boo Boris Johnson during resignation speech",
+        "domain": "theguardian.com",
+        "category": "nottheonion",
+        "link": "https://www.theguardian.com/politics/video/2022/jul/07/crowds-gather-boo-boris-johnson-resignation-speech-video",
+        "timestamp": 1657380342,
+        "sentiment": -2,
+        "published": "July 9, 2022 11:25 AM"
     },
     {
         "title": "Twitter to sue Musk after he pulls plug on $44bn takeover deal",
@@ -502,15 +583,6 @@
         "timestamp": 1657342777,
         "sentiment": -1,
         "published": "July 9, 2022 12:59 AM"
-    },
-    {
-        "title": "Elon Musk's net worth has fallen by $65 billion since he announced he wanted to buy Twitter",
-        "domain": "businessinsider.com",
-        "category": "technology",
-        "link": "https://www.businessinsider.com/musk-wealth-fell-65-billion-since-announced-plan-buy-twitter-2022-7",
-        "timestamp": 1657358264,
-        "sentiment": -2,
-        "published": "July 9, 2022 5:17 AM"
     },
     {
         "title": "Online art viewing can improve well-being. Results showed that even very brief viewings can have significant effects, leading to lower negative mood, anxiety, and loneliness, as well as higher subjective well-being. This opens new avenues for further applications in spaces such as waiting rooms",
@@ -574,15 +646,6 @@
         "timestamp": 1657345220,
         "sentiment": 0,
         "published": "July 9, 2022 1:40 AM"
-    },
-    {
-        "title": "Billboard in Inverness, FL reminds dads not to drunkenly rape their daughters",
-        "domain": "wtfflorida.com",
-        "category": "nottheonion",
-        "link": "https://wtfflorida.com/media/photos/billboard-inverness-florida-reminds-dads-not-drunkenly-rape-daughters/",
-        "timestamp": 1657345933,
-        "sentiment": -4,
-        "published": "July 9, 2022 1:52 AM"
     },
     {
         "title": "Federal officials failed to investigate Trump campaign's money 'laundering': lawsuit",
