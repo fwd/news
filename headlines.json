@@ -9,6 +9,51 @@
         "published": "July 9, 2022 12:06 AM"
     },
     {
+        "title": "How Tony Sirico Made Paulie Walnuts a 'Sopranos' Character to Remember",
+        "domain": "rollingstone.com",
+        "category": "television",
+        "link": "https://www.rollingstone.com/tv-movies/tv-movie-features/tony-sirico-tribute-sopranos-paulie-walnuts-sepinwall-1380256/",
+        "timestamp": 1657340255,
+        "sentiment": 0,
+        "published": "July 9, 2022 12:17 AM"
+    },
+    {
+        "title": "Alabama judge suspended after mocking Asian accent in the courtroom",
+        "domain": "nbcnews.com",
+        "category": "nottheonion",
+        "link": "https://www.nbcnews.com/news/asian-america/alabama-judge-suspended-mocking-asian-accent-courtroom-rcna37181",
+        "timestamp": 1657340437,
+        "sentiment": -2,
+        "published": "July 9, 2022 12:20 AM"
+    },
+    {
+        "title": "A Blind, Older Dog Is Found Alive In Alaska, 3 Weeks After Wandering Off",
+        "domain": "apnews.com",
+        "category": "UpliftingNews",
+        "link": "https://apnews.com/article/alaska-dogs-sitka-8206c86986f75cbdecff8524d944038f",
+        "timestamp": 1657342180,
+        "sentiment": -2,
+        "published": "July 9, 2022 12:49 AM"
+    },
+    {
+        "title": "Twitter to sue Musk after he pulls plug on $44bn takeover deal",
+        "domain": "news.sky.com",
+        "category": "nottheonion",
+        "link": "https://news.sky.com/story/elon-musk-pulls-plug-on-44bn-deal-to-take-over-twitter-12648536",
+        "timestamp": 1657342777,
+        "sentiment": -2,
+        "published": "July 9, 2022 12:59 AM"
+    },
+    {
+        "title": "A New Survey Finds 81 Percent Of Women Have Experienced Sexual Harassment : The Two-Way : NPR",
+        "domain": "npr.org",
+        "category": "science",
+        "link": "https://www.npr.org/sections/thetwo-way/2018/02/21/587671849/a-new-survey-finds-eighty-percent-of-women-have-experienced-sexual-harassment",
+        "timestamp": 1657343297,
+        "sentiment": -3,
+        "published": "July 9, 2022 1:08 AM"
+    },
+    {
         "title": "Chronically stressful conditions of daily life such as racism, pollution and poverty have a direct impact on the cellular mechanisms that drive lethal, invasive forms of breast cancer",
         "domain": "corporate.dukehealth.org",
         "category": "science",
@@ -708,15 +753,6 @@
         "link": "https://www.businessinsider.com/twitter-to-take-elon-musk-court-fight-close-deal-2022-7",
         "timestamp": 1657325000,
         "sentiment": 2,
-        "published": "July 8, 2022 8:03 PM"
-    },
-    {
-        "title": "Alabama judge suspended after mocking Asian accent in the courtroom",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/news/asian-america/alabama-judge-suspended-mocking-asian-accent-courtroom-rcna37181",
-        "timestamp": 1657325021,
-        "sentiment": -2,
         "published": "July 8, 2022 8:03 PM"
     },
     {
