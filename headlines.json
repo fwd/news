@@ -5,17 +5,8 @@
         "category": "sports",
         "link": "https://www.cnn.com/2022/07/08/sport/daniel-oss-tour-de-france-crash-fan-spt-intl/index.html",
         "timestamp": 1657339580,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 9, 2022 12:06 AM"
-    },
-    {
-        "title": "Rudy Giuliani needed stents after slap ‘assault,’ businessman and radio host John Catsimatidis says; NYC mayor says video doesn’t match allegation",
-        "domain": "fltimes.com",
-        "category": "nottheonion",
-        "link": "https://www.fltimes.com/news/nation/rudy-giuliani-needed-stents-after-slap-assault-businessman-and-radio-host-john-catsimatidis-says-nyc/article_d9554384-d4bb-5bdb-84ad-3da79c2cc80b.html",
-        "timestamp": 1657340233,
-        "sentiment": -2,
-        "published": "July 9, 2022 12:17 AM"
     },
     {
         "title": "How Tony Sirico Made Paulie Walnuts a 'Sopranos' Character to Remember",
@@ -32,7 +23,7 @@
         "category": "UpliftingNews",
         "link": "https://apnews.com/article/alaska-dogs-sitka-8206c86986f75cbdecff8524d944038f",
         "timestamp": 1657342180,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 9, 2022 12:49 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "sports",
         "link": "https://streamable.com/2fi3tg",
         "timestamp": 1657358351,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 9, 2022 5:19 AM"
     },
     {
@@ -117,15 +108,6 @@
         "published": "July 9, 2022 5:56 AM"
     },
     {
-        "title": "Historical language records reveal a surge of cognitive distortions in recent decades",
-        "domain": "pnas.org",
-        "category": "science",
-        "link": "https://www.pnas.org/doi/10.1073/pnas.2102061118",
-        "timestamp": 1657360607,
-        "sentiment": 0,
-        "published": "July 9, 2022 5:56 AM"
-    },
-    {
         "title": "Boeing threatens to cancel Boeing 737 MAX 10 aircraft unless given exemption from safety requirements",
         "domain": "msn.com",
         "category": "technology",
@@ -140,7 +122,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/09/asia/sri-lanka-protest-president-saturday-intl-hnk/index.html",
         "timestamp": 1657360952,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 9, 2022 6:02 AM"
     },
     {
@@ -149,7 +131,7 @@
         "category": "ukraine",
         "link": "https://www.pravda.com.ua/eng/news/2022/07/8/7357086/",
         "timestamp": 1657361347,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 9, 2022 6:09 AM"
     },
     {
@@ -158,17 +140,8 @@
         "category": "news",
         "link": "https://news.sky.com/story/we-see-them-as-brothers-in-arms-here-uk-training-thousands-of-ukrainian-recruits-in-england-12648559",
         "timestamp": 1657363100,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 9, 2022 6:38 AM"
-    },
-    {
-        "title": "4-year-old girl was killed in a shooting in Akron, Ohio",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/07/09/us/akron-ohio-4-year-old-girl-fatally-shot/index.html",
-        "timestamp": 1657364703,
-        "sentiment": -3,
-        "published": "July 9, 2022 7:05 AM"
     },
     {
         "title": "Read Elon Musk's letter to Twitter calling off his $44 billion takeover deal",
@@ -212,7 +185,7 @@
         "category": "news",
         "link": "https://wsvn.com/news/us-world/5000-pounds-of-meth-seized-in-san-diego-county-when-truck-is-followed-after-crossing-border-officials-say/",
         "timestamp": 1657370454,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 9, 2022 8:40 AM"
     },
     {
@@ -275,7 +248,7 @@
         "category": "news",
         "link": "https://ktar.com/story/5143855/arizona-gov-doug-ducey-signs-controversial-school-voucher-expansion-bill/",
         "timestamp": 1657373856,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 9, 2022 9:37 AM"
     },
     {
@@ -360,6 +333,15 @@
         "published": "July 9, 2022 10:44 AM"
     },
     {
+        "title": "HIMARS: U.S. Sends More Advanced Rocket Systems To Ukraine To Further Slow Russian Advance In East",
+        "domain": "rferl.org",
+        "category": "worldnews",
+        "link": "https://www.rferl.org/a/ukraine-united-states-himars-new-arms-package/31935257.html",
+        "timestamp": 1657378044,
+        "sentiment": 0,
+        "published": "July 9, 2022 10:47 AM"
+    },
+    {
         "title": "Slovenia Legalises Same-Sex Marriage, Adoptions",
         "domain": "total-slovenia-news.com",
         "category": "worldnews",
@@ -374,7 +356,7 @@
         "category": "sports",
         "link": "https://www.theguardian.com/sport/live/2022/jul/09/wimbledon-2022-womens-singles-final-ons-jabeur-v-elena-rybakina-live",
         "timestamp": 1657379070,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 9, 2022 11:04 AM"
     },
     {
@@ -428,7 +410,7 @@
         "category": "sports",
         "link": "https://fortune.com/2022/07/08/why-did-brittney-griner-plead-guilty-russia-womens-basketball/",
         "timestamp": 1657383293,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 9, 2022 12:14 PM"
     },
     {
@@ -446,7 +428,7 @@
         "category": "UpliftingNews",
         "link": "https://english.sta.si/3058551/court-orders-parliament-to-allow-same-sex-marriages-adoptions",
         "timestamp": 1657384404,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 9, 2022 12:33 PM"
     },
     {
@@ -455,7 +437,7 @@
         "category": "news",
         "link": "https://e360.yale.edu/digest/paris-agreement-human-rights-treaty-brazil",
         "timestamp": 1657384605,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 9, 2022 12:36 PM"
     },
     {
@@ -464,17 +446,8 @@
         "category": "ukraine",
         "link": "https://defence-ua.com/news/ukrajina_otrimala_vid_chehiji_eskadrilju_udarnih_mi_24_the_wall_street_journal-7491.html",
         "timestamp": 1657385156,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 9, 2022 12:45 PM"
-    },
-    {
-        "title": "Chinese Police Exposed 1B People's Data in Unprecedented Leak",
-        "domain": "wired.com",
-        "category": "technology",
-        "link": "https://www.wired.com/story/chinese-police-exposed-1-billion-peoples-data/",
-        "timestamp": 1657386276,
-        "sentiment": 0,
-        "published": "July 9, 2022 1:04 PM"
     },
     {
         "title": "Representative (R-Ohio) Sarah Fowler Arthur wants Ohio to teach \"both sides\" of the holocaust",
@@ -491,7 +464,7 @@
         "category": "news",
         "link": "https://apnews.com/article/abortion-us-supreme-court-health-child-abuse-arizona-attorney-generals-office-5e7ecd8251fe7ee7e78ca7b2b0ea2501",
         "timestamp": 1657387618,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 9, 2022 1:26 PM"
     },
     {
@@ -518,7 +491,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/09/us/us-marshals-sex-offender-iowa/index.html",
         "timestamp": 1657388730,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 9, 2022 1:45 PM"
     },
     {
@@ -527,7 +500,7 @@
         "category": "UpliftingNews",
         "link": "https://www.petfoodprocessing.net/articles/15939-canadian-government-invests-85-million-in-insect-production",
         "timestamp": 1657388870,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 9, 2022 1:47 PM"
     },
     {
@@ -545,7 +518,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/u24_news/status/1545730267075207170",
         "timestamp": 1657390607,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 9, 2022 2:16 PM"
     },
     {
@@ -554,7 +527,7 @@
         "category": "sports",
         "link": "https://www.theguardian.com/sport/2022/jul/09/new-zealand-ireland-second-test-rugby-union-match-report",
         "timestamp": 1657390708,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 9, 2022 2:18 PM"
     },
     {
@@ -590,17 +563,8 @@
         "category": "news",
         "link": "https://www.jpost.com/breaking-news/article-711634",
         "timestamp": 1657394571,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 9, 2022 3:22 PM"
-    },
-    {
-        "title": "Vladimir Putin 'having war baby with gymnast lover' with Russia leader 'to become dad again at 69'",
-        "domain": "irishmirror.ie",
-        "category": "worldnews",
-        "link": "https://www.irishmirror.ie/news/world-news/vladimir-putin-having-war-baby-27440736",
-        "timestamp": 1657394746,
-        "sentiment": 0,
-        "published": "July 9, 2022 3:25 PM"
     },
     {
         "title": "Adding salt to your food at the table is linked to higher risk of premature death",
@@ -617,7 +581,7 @@
         "category": "news",
         "link": "https://www.theguardian.com/us-news/2022/jul/09/native-american-elders-us-government-schools-oklahoma",
         "timestamp": 1657395310,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 9, 2022 3:35 PM"
     },
     {
@@ -630,6 +594,15 @@
         "published": "July 9, 2022 4:02 PM"
     },
     {
+        "title": "Man lights firework on his head and it explodes into his skull, Texas cops say",
+        "domain": "star-telegram.com",
+        "category": "nottheonion",
+        "link": "https://www.star-telegram.com/news/state/texas/article263220458.html",
+        "timestamp": 1657397306,
+        "sentiment": -2,
+        "published": "July 9, 2022 4:08 PM"
+    },
+    {
         "title": "Educators no longer need a college degree to begin teaching in Arizona public schools",
         "domain": "azfamily.com",
         "category": "nottheonion",
@@ -639,12 +612,30 @@
         "published": "July 9, 2022 4:41 PM"
     },
     {
+        "title": "Freshii’s ‘virtual cashiers’ make $3.75 an hour and have been calle",
+        "domain": "thestar.com",
+        "category": "technology",
+        "link": "https://www.thestar.com/business/2022/07/08/percy-the-virtual-cashier-founders-shrug-off-critics-and-plan-to-grow-start-up-into-a-multinational-company.html",
+        "timestamp": 1657400505,
+        "sentiment": 0,
+        "published": "July 9, 2022 5:01 PM"
+    },
+    {
+        "title": "Thousands turn out for Women’s March in D.C. to pressure Biden on abortion rights",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/womens-march-rallies-dc-pressure-biden-abortion-rights-rcna37444",
+        "timestamp": 1657400871,
+        "sentiment": -1,
+        "published": "July 9, 2022 5:07 PM"
+    },
+    {
         "title": "Judi Dench: ‘I was told I’d never make a film. I had the wrong face’",
         "domain": "thetimes.co.uk",
         "category": "UpliftingNews",
         "link": "https://www.thetimes.co.uk/article/judi-dench-i-was-told-id-never-make-a-film-i-had-the-wrong-face-lm2njjbxr",
         "timestamp": 1657402512,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 9, 2022 5:35 PM"
     },
     {
@@ -653,8 +644,71 @@
         "category": "UpliftingNews",
         "link": "https://www.thetimes.co.uk/article/eight-amazing-european-train-journeys-vpdlfwm7f",
         "timestamp": 1657402673,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 9, 2022 5:37 PM"
+    },
+    {
+        "title": "How Elon's bizarre Twitter takeover saga could have just been a cover for him to sell $8.5 billion in Tesla stock",
+        "domain": "fortune.com",
+        "category": "technology",
+        "link": "https://fortune.com/2022/07/09/how-elon-musk-bizarre-twitter-takeover-saga-could-have-just-been-a-cover-for-him-to-sell-8-billion-in-tesla-stock/",
+        "timestamp": 1657402989,
+        "sentiment": 0,
+        "published": "July 9, 2022 5:43 PM"
+    },
+    {
+        "title": "Women are more likely to engage in sexual intercourse when using hormonal contraception, study finds",
+        "domain": "psypost.org",
+        "category": "science",
+        "link": "https://www.psypost.org/2022/07/women-are-more-likely-to-engage-in-sexual-intercourse-when-using-hormonal-contraception-study-finds-63478",
+        "timestamp": 1657403246,
+        "sentiment": 0,
+        "published": "July 9, 2022 5:47 PM"
+    },
+    {
+        "title": "Rudy Giuliani needed stents after slap ‘assault,’ businessman and radio host John Catsimatidis says; NYC mayor says video doesn’t match allegation",
+        "domain": "fltimes.com",
+        "category": "nottheonion",
+        "link": "https://www.fltimes.com/news/nation/rudy-giuliani-needed-stents-after-slap-assault-businessman-and-radio-host-john-catsimatidis-says-nyc/article_d9554384-d4bb-5bdb-84ad-3da79c2cc80b.html",
+        "timestamp": 1657340233,
+        "sentiment": -2,
+        "published": "July 9, 2022 12:17 AM"
+    },
+    {
+        "title": "Historical language records reveal a surge of cognitive distortions in recent decades",
+        "domain": "pnas.org",
+        "category": "science",
+        "link": "https://www.pnas.org/doi/10.1073/pnas.2102061118",
+        "timestamp": 1657360607,
+        "sentiment": 0,
+        "published": "July 9, 2022 5:56 AM"
+    },
+    {
+        "title": "4-year-old girl was killed in a shooting in Akron, Ohio",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/07/09/us/akron-ohio-4-year-old-girl-fatally-shot/index.html",
+        "timestamp": 1657364703,
+        "sentiment": -3,
+        "published": "July 9, 2022 7:05 AM"
+    },
+    {
+        "title": "Chinese Police Exposed 1B People's Data in Unprecedented Leak",
+        "domain": "wired.com",
+        "category": "technology",
+        "link": "https://www.wired.com/story/chinese-police-exposed-1-billion-peoples-data/",
+        "timestamp": 1657386276,
+        "sentiment": 0,
+        "published": "July 9, 2022 1:04 PM"
+    },
+    {
+        "title": "Vladimir Putin 'having war baby with gymnast lover' with Russia leader 'to become dad again at 69'",
+        "domain": "irishmirror.ie",
+        "category": "worldnews",
+        "link": "https://www.irishmirror.ie/news/world-news/vladimir-putin-having-war-baby-27440736",
+        "timestamp": 1657394746,
+        "sentiment": 0,
+        "published": "July 9, 2022 3:25 PM"
     },
     {
         "title": "Oath Keeper members brought explosives to DC area around January 6 and had a 'death list,' prosecutors say",
@@ -682,15 +736,6 @@
         "timestamp": 1657372505,
         "sentiment": 1,
         "published": "July 9, 2022 9:15 AM"
-    },
-    {
-        "title": "HIMARS: U.S. Sends More Advanced Rocket Systems To Ukraine To Further Slow Russian Advance In East",
-        "domain": "rferl.org",
-        "category": "worldnews",
-        "link": "https://www.rferl.org/a/ukraine-united-states-himars-new-arms-package/31935257.html",
-        "timestamp": 1657378044,
-        "sentiment": 1,
-        "published": "July 9, 2022 10:47 AM"
     },
     {
         "title": "Billboard in Inverness, FL reminds dads not to drunkenly rape their daughters",
