@@ -5,7 +5,7 @@
         "category": "sports",
         "link": "https://www.cnn.com/2022/07/08/sport/daniel-oss-tour-de-france-crash-fan-spt-intl/index.html",
         "timestamp": 1657339580,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 9, 2022 12:06 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "UpliftingNews",
         "link": "https://apnews.com/article/alaska-dogs-sitka-8206c86986f75cbdecff8524d944038f",
         "timestamp": 1657342180,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 9, 2022 12:49 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/musk-wealth-fell-65-billion-since-announced-plan-buy-twitter-2022-7",
         "timestamp": 1657358264,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 9, 2022 5:17 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "sports",
         "link": "https://streamable.com/2fi3tg",
         "timestamp": 1657358351,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 9, 2022 5:19 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "television",
         "link": "https://www.pastemagazine.com/tv/netflix/stranger-things-season-4-steve-harrington-hero/",
         "timestamp": 1657359188,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "July 9, 2022 5:33 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "technology",
         "link": "https://www.msn.com/en-gb/travel/news/boeing-threatens-to-cancel-boeing-737-max-10-aircraft-unless-given-exemption-from-safety-requirements/ar-AAZlPB5?ocid=msedgntp&cvid=a2fd2296328b4325aae4dcaf5aa7e01b",
         "timestamp": 1657360812,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 9, 2022 6:00 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/09/asia/sri-lanka-protest-president-saturday-intl-hnk/index.html",
         "timestamp": 1657360952,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 6:02 AM"
     },
     {
@@ -99,21 +99,12 @@
         "published": "July 9, 2022 6:09 AM"
     },
     {
-        "title": "Thousands of Ukrainian 'battle casualty replacements' are being trained in England",
-        "domain": "news.sky.com",
-        "category": "news",
-        "link": "https://news.sky.com/story/we-see-them-as-brothers-in-arms-here-uk-training-thousands-of-ukrainian-recruits-in-england-12648559",
-        "timestamp": 1657363100,
-        "sentiment": -2,
-        "published": "July 9, 2022 6:38 AM"
-    },
-    {
         "title": "Read Elon Musk's letter to Twitter calling off his $44 billion takeover deal",
         "domain": "businessinsider.com",
         "category": "technology",
         "link": "https://www.businessinsider.com/read-elon-musk-letter-to-twitter-deal-is-off-2022-7?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1657364790,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 9, 2022 7:06 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "technology",
         "link": "https://arstechnica.com/gaming/2022/07/quest-vr-has-traded-facebookening-for-metastasis-with-new-account-system/",
         "timestamp": 1657370405,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 9, 2022 8:40 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/donald-trump-lawyer-christina-bobb-rsbn-midterms-republicans-election-2020-1723145",
         "timestamp": 1657370427,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 9, 2022 8:40 AM"
     },
     {
@@ -158,7 +149,7 @@
         "category": "politics",
         "link": "https://www.msnbc.com/the-reidout/reidout-blog/supreme-court-objects-peaceful-protests-slashing-abortion-rights-rcna36691",
         "timestamp": 1657370956,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 9, 2022 8:49 AM"
     },
     {
@@ -167,7 +158,7 @@
         "category": "television",
         "link": "https://bleedingcool.com/tv/the-fall-of-the-house-of-usher-flanagan-shares-filming-wrap-thanks/",
         "timestamp": 1657371904,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "July 9, 2022 9:05 AM"
     },
     {
@@ -176,7 +167,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/brett-kavanaugh-aoc-ocasio-cortez-steakhouse-protest-abortion-ectopic-pregnancy-2022-7",
         "timestamp": 1657372242,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 9, 2022 9:10 AM"
     },
     {
@@ -203,7 +194,7 @@
         "category": "news",
         "link": "https://ktar.com/story/5143855/arizona-gov-doug-ducey-signs-controversial-school-voucher-expansion-bill/",
         "timestamp": 1657373856,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 9:37 AM"
     },
     {
@@ -212,7 +203,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/nasa-plans-mini-nuclear-reactors-moon-power-lunar-colony-2022-7?utm_source=reddit.com",
         "timestamp": 1657374204,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 9, 2022 9:43 AM"
     },
     {
@@ -230,7 +221,7 @@
         "category": "television",
         "link": "https://tvline.com/2022/07/09/stranger-things-season-4-episode-9-caleb-mclaughlin-lucas-max-dies/",
         "timestamp": 1657375393,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "July 9, 2022 10:03 AM"
     },
     {
@@ -241,15 +232,6 @@
         "timestamp": 1657375654,
         "sentiment": -1,
         "published": "July 9, 2022 10:07 AM"
-    },
-    {
-        "title": "Army Reportedly Seeks To Recoup Money From Michael Flynn For His Pay From Russia, Turkey",
-        "domain": "huffpost.com",
-        "category": "politics",
-        "link": "https://www.huffpost.com/entry/michael-flynn-turkey-russia-payments-army-recoup-trump_n_62c8f202e4b02e0ac91435d2",
-        "timestamp": 1657377846,
-        "sentiment": -1,
-        "published": "July 9, 2022 10:44 AM"
     },
     {
         "title": "Slovenia Legalises Same-Sex Marriage, Adoptions",
@@ -266,7 +248,7 @@
         "category": "sports",
         "link": "https://www.theguardian.com/sport/live/2022/jul/09/wimbledon-2022-womens-singles-final-ons-jabeur-v-elena-rybakina-live",
         "timestamp": 1657379070,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 9, 2022 11:04 AM"
     },
     {
@@ -297,21 +279,12 @@
         "published": "July 9, 2022 11:41 AM"
     },
     {
-        "title": "Zelenskiy sacks Ukraine's ambassadors to Germany, India, Czech Republic, Norway and Hungary",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/europe/zelenskiy-sacks-ukraines-envoy-germany-other-ambassadors-2022-07-09/",
-        "timestamp": 1657382298,
-        "sentiment": -1,
-        "published": "July 9, 2022 11:58 AM"
-    },
-    {
         "title": "US army general suspended for mocking Jill Biden’s support of abortion rights",
         "domain": "theguardian.com",
         "category": "politics",
         "link": "https://www.theguardian.com/us-news/2022/jul/09/jill-biden-us-army-general-consultant-suspended",
         "timestamp": 1657383173,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 9, 2022 12:12 PM"
     },
     {
@@ -320,7 +293,7 @@
         "category": "sports",
         "link": "https://fortune.com/2022/07/08/why-did-brittney-griner-plead-guilty-russia-womens-basketball/",
         "timestamp": 1657383293,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 9, 2022 12:14 PM"
     },
     {
@@ -338,7 +311,7 @@
         "category": "UpliftingNews",
         "link": "https://english.sta.si/3058551/court-orders-parliament-to-allow-same-sex-marriages-adoptions",
         "timestamp": 1657384404,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 9, 2022 12:33 PM"
     },
     {
@@ -347,7 +320,7 @@
         "category": "news",
         "link": "https://e360.yale.edu/digest/paris-agreement-human-rights-treaty-brazil",
         "timestamp": 1657384605,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 12:36 PM"
     },
     {
@@ -356,17 +329,8 @@
         "category": "technology",
         "link": "https://www.wired.com/story/chinese-police-exposed-1-billion-peoples-data/",
         "timestamp": 1657386276,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 9, 2022 1:04 PM"
-    },
-    {
-        "title": "Representative (R-Ohio) Sarah Fowler Arthur wants Ohio to teach \"both sides\" of the holocaust",
-        "domain": "news5cleveland.com",
-        "category": "politics",
-        "link": "https://www.news5cleveland.com/news/politics/ohio-politics/comments-about-the-holocaust-from-representative-sponsoring-divisive-concepts-bill-raise-concerns",
-        "timestamp": 1657386421,
-        "sentiment": -1,
-        "published": "July 9, 2022 1:07 PM"
     },
     {
         "title": "Arizona says \"personhood\" abortion law can't lead to charges",
@@ -374,7 +338,7 @@
         "category": "news",
         "link": "https://apnews.com/article/abortion-us-supreme-court-health-child-abuse-arizona-attorney-generals-office-5e7ecd8251fe7ee7e78ca7b2b0ea2501",
         "timestamp": 1657387618,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 1:26 PM"
     },
     {
@@ -392,7 +356,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/democrat-calls-michael-flynn-lose-his-pension-after-army-fine-2022-7",
         "timestamp": 1657388579,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 9, 2022 1:42 PM"
     },
     {
@@ -401,7 +365,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/09/us/us-marshals-sex-offender-iowa/index.html",
         "timestamp": 1657388730,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 1:45 PM"
     },
     {
@@ -410,7 +374,7 @@
         "category": "UpliftingNews",
         "link": "https://www.petfoodprocessing.net/articles/15939-canadian-government-invests-85-million-in-insect-production",
         "timestamp": 1657388870,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 9, 2022 1:47 PM"
     },
     {
@@ -437,7 +401,7 @@
         "category": "sports",
         "link": "https://www.theguardian.com/sport/2022/jul/09/new-zealand-ireland-second-test-rugby-union-match-report",
         "timestamp": 1657390708,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 9, 2022 2:18 PM"
     },
     {
@@ -446,7 +410,7 @@
         "category": "television",
         "link": "https://www.thedailybeast.com/dave-chappelle-calls-kids-who-dared-criticize-him-instruments-of-oppression-in-netflixs-whats-in-a-name?ref=home?ref=home",
         "timestamp": 1657391835,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "July 9, 2022 2:37 PM"
     },
     {
@@ -464,7 +428,7 @@
         "category": "technology",
         "link": "https://www.technologyreview.com/2022/02/08/1044732/metaverse-history-snow-crash",
         "timestamp": 1657392309,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 9, 2022 2:45 PM"
     },
     {
@@ -473,7 +437,7 @@
         "category": "technology",
         "link": "https://uk.pcmag.com/cars-auto/141406/north-carolina-lawmaker-want-to-scrap-free-ev-charging-stations",
         "timestamp": 1657392435,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 9, 2022 2:47 PM"
     },
     {
@@ -482,7 +446,7 @@
         "category": "news",
         "link": "https://www.local10.com/news/florida/2022/07/09/florida-woman-hid-mothers-body-in-freezer-to-keep-collecting-disability-benefits-police-say/",
         "timestamp": 1657392714,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 2:51 PM"
     },
     {
@@ -491,7 +455,7 @@
         "category": "politics",
         "link": "https://www.usatoday.com/story/news/politics/2022/06/15/1776-returns-proud-boys-enrique-tarrio-zachary-rehl/7640565001/",
         "timestamp": 1657393919,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 9, 2022 3:11 PM"
     },
     {
@@ -500,7 +464,7 @@
         "category": "news",
         "link": "https://www.jpost.com/breaking-news/article-711634",
         "timestamp": 1657394571,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 3:22 PM"
     },
     {
@@ -527,7 +491,7 @@
         "category": "technology",
         "link": "https://www.techdirt.com/2022/07/07/canadas-federal-police-have-been-using-powerful-malware-to-snoop-on-peoples-communications/",
         "timestamp": 1657396933,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 9, 2022 4:02 PM"
     },
     {
@@ -554,7 +518,7 @@
         "category": "politics",
         "link": "https://www.theroot.com/trump-leaves-board-of-his-own-social-media-platform-bef-1849159932",
         "timestamp": 1657398231,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 9, 2022 4:23 PM"
     },
     {
@@ -572,17 +536,8 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/womens-march-rallies-dc-pressure-biden-abortion-rights-rcna37444",
         "timestamp": 1657400871,
-        "sentiment": -2,
-        "published": "July 9, 2022 5:07 PM"
-    },
-    {
-        "title": "Russia assembling reserves near Ukraine for future offensive, says U.K. military intelligence",
-        "domain": "cbc.ca",
-        "category": "worldnews",
-        "link": "https://www.cbc.ca/news/world/ukraine-invasion-russia-day-136-1.6515947",
-        "timestamp": 1657401189,
         "sentiment": -1,
-        "published": "July 9, 2022 5:13 PM"
+        "published": "July 9, 2022 5:07 PM"
     },
     {
         "title": "Arizona's governor signed a law that limits filming police",
@@ -594,21 +549,12 @@
         "published": "July 9, 2022 5:32 PM"
     },
     {
-        "title": "Judi Dench: ‘I was told I’d never make a film. I had the wrong face’",
-        "domain": "thetimes.co.uk",
-        "category": "UpliftingNews",
-        "link": "https://www.thetimes.co.uk/article/judi-dench-i-was-told-id-never-make-a-film-i-had-the-wrong-face-lm2njjbxr",
-        "timestamp": 1657402512,
-        "sentiment": 2,
-        "published": "July 9, 2022 5:35 PM"
-    },
-    {
         "title": "Rogers outage shows need for Plan B when wireless, internet services fail, analysts say",
         "domain": "cbc.ca",
         "category": "technology",
         "link": "https://www.cbc.ca/news/business/rogers-outage-no-plan-b-1.6515664",
         "timestamp": 1657402521,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 9, 2022 5:35 PM"
     },
     {
@@ -617,7 +563,7 @@
         "category": "politics",
         "link": "https://www.axios.com/2022/07/09/shutdowndc-supreme-court-abortion-roe-protest",
         "timestamp": 1657403094,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 9, 2022 5:44 PM"
     },
     {
@@ -653,8 +599,17 @@
         "category": "news",
         "link": "https://www.cbsnews.com/sanfrancisco/news/bay-area-climate-activists-target-suvs-deflate-tires/",
         "timestamp": 1657407514,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 6:58 PM"
+    },
+    {
+        "title": "Trump Calls On Wis. GOP To Nullify Elector Votes, Make Him Victor After Ballot Box Ruling",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/trump-toss-wisconsin-election-results-victor-ballot-boxes_n_62c9f69ee4b0d74019844775",
+        "timestamp": 1657408637,
+        "sentiment": 0,
+        "published": "July 9, 2022 7:17 PM"
     },
     {
         "title": "Pregnant Texas Woman Cited for HOV Violation Told Cop Her Fetus Is the Passenger",
@@ -680,8 +635,116 @@
         "category": "television",
         "link": "https://deadline.com/2022/07/l-q-jones-dead-film-tv-actor-producer-was-94-obituary-1235061002/",
         "timestamp": 1657410656,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "July 9, 2022 7:50 PM"
+    },
+    {
+        "title": "14-year-old boy fatally stabbed on NYC subway platform",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/14-year-boy-fatally-stabbed-nyc-subway-platform/story?id=86531356",
+        "timestamp": 1657413116,
+        "sentiment": -1,
+        "published": "July 9, 2022 8:31 PM"
+    },
+    {
+        "title": "'Largest Portion' of Russian GRU Spies in Mexico, Says Top US General",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/most-russian-gru-spies-in-mexico-says-top-us-general-2022-4?utm-source=twitter",
+        "timestamp": 1657414508,
+        "sentiment": -1,
+        "published": "July 9, 2022 8:55 PM"
+    },
+    {
+        "title": "The Dutch right wing broadcaster Ongehoord Nederland has been fined some €93,000 for breaking the public broadcasting sector’s journalistic code of ethics by spreading wrongful information and not differentiating between fact and opinion",
+        "domain": "dutchnews.nl",
+        "category": "worldnews",
+        "link": "https://www.dutchnews.nl/news/2022/07/fledgling-right-wing-broadcaster-fined-for-fake-news/",
+        "timestamp": 1657415476,
+        "sentiment": -1,
+        "published": "July 9, 2022 9:11 PM"
+    },
+    {
+        "title": "Police arrested a Colorado pastor for his participation in the Capitol riot after a Bible college colleague tipped off the FBI",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/police-arrested-colorado-pastor-capitol-riot-bible-college-colleague-2022-7",
+        "timestamp": 1657415502,
+        "sentiment": 0,
+        "published": "July 9, 2022 9:11 PM"
+    },
+    {
+        "title": "Adam Wade, Singer, Actor and Pioneering Game Show Host, Dies at 87",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/adam-wade-dead-singer-game-show-host-1235177763/",
+        "timestamp": 1657416432,
+        "sentiment": 2,
+        "published": "July 9, 2022 9:27 PM"
+    },
+    {
+        "title": "'The Boys' College Spinoff 'Varsity' to Crossover With Main Series",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/the-boys-spinoff-varsity-erik-kripke-comments/",
+        "timestamp": 1657418088,
+        "sentiment": 2,
+        "published": "July 9, 2022 9:54 PM"
+    },
+    {
+        "title": "Thousands of Ukrainian 'battle casualty replacements' are being trained in England",
+        "domain": "news.sky.com",
+        "category": "news",
+        "link": "https://news.sky.com/story/we-see-them-as-brothers-in-arms-here-uk-training-thousands-of-ukrainian-recruits-in-england-12648559",
+        "timestamp": 1657363100,
+        "sentiment": -2,
+        "published": "July 9, 2022 6:38 AM"
+    },
+    {
+        "title": "Army Reportedly Seeks To Recoup Money From Michael Flynn For His Pay From Russia, Turkey",
+        "domain": "huffpost.com",
+        "category": "politics",
+        "link": "https://www.huffpost.com/entry/michael-flynn-turkey-russia-payments-army-recoup-trump_n_62c8f202e4b02e0ac91435d2",
+        "timestamp": 1657377846,
+        "sentiment": -1,
+        "published": "July 9, 2022 10:44 AM"
+    },
+    {
+        "title": "Zelenskiy sacks Ukraine's ambassadors to Germany, India, Czech Republic, Norway and Hungary",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/zelenskiy-sacks-ukraines-envoy-germany-other-ambassadors-2022-07-09/",
+        "timestamp": 1657382298,
+        "sentiment": -1,
+        "published": "July 9, 2022 11:58 AM"
+    },
+    {
+        "title": "Representative (R-Ohio) Sarah Fowler Arthur wants Ohio to teach \"both sides\" of the holocaust",
+        "domain": "news5cleveland.com",
+        "category": "politics",
+        "link": "https://www.news5cleveland.com/news/politics/ohio-politics/comments-about-the-holocaust-from-representative-sponsoring-divisive-concepts-bill-raise-concerns",
+        "timestamp": 1657386421,
+        "sentiment": -1,
+        "published": "July 9, 2022 1:07 PM"
+    },
+    {
+        "title": "Russia assembling reserves near Ukraine for future offensive, says U.K. military intelligence",
+        "domain": "cbc.ca",
+        "category": "worldnews",
+        "link": "https://www.cbc.ca/news/world/ukraine-invasion-russia-day-136-1.6515947",
+        "timestamp": 1657401189,
+        "sentiment": -1,
+        "published": "July 9, 2022 5:13 PM"
+    },
+    {
+        "title": "Judi Dench: ‘I was told I’d never make a film. I had the wrong face’",
+        "domain": "thetimes.co.uk",
+        "category": "UpliftingNews",
+        "link": "https://www.thetimes.co.uk/article/judi-dench-i-was-told-id-never-make-a-film-i-had-the-wrong-face-lm2njjbxr",
+        "timestamp": 1657402512,
+        "sentiment": 2,
+        "published": "July 9, 2022 5:35 PM"
     },
     {
         "title": "Magnetic fields can turn medical waste into high-value products.Alternating magnetic fields can be used to rapidly convert medical waste, such as plastic syringes, into hydrogen-rich gases and high-quality graphite. This catalytic technique is more environmentally friendly and less energy intensive.",
