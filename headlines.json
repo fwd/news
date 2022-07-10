@@ -5,8 +5,17 @@
         "category": "news",
         "link": "https://www.fox19.com/2022/07/08/transgender-butler-county-man-says-group-beat-him-up-using-wrong-restroom/",
         "timestamp": 1657426094,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 10, 2022 12:08 AM"
+    },
+    {
+        "title": "Identification of a novel off-target of paroxetine: possible role in sexual dysfunction induced by this SSRI antidepressant drug.",
+        "domain": "sciencedirect.com",
+        "category": "science",
+        "link": "https://www.sciencedirect.com/science/article/abs/pii/S002228602201345X",
+        "timestamp": 1657426305,
+        "sentiment": 0,
+        "published": "July 10, 2022 12:11 AM"
     },
     {
         "title": "Cycling through the COVID-19 Pandemic to a More Sustainable Transport Future: Evidence from Case Studies of 14 Large Bicycle-Friendly Cities in Europe and North America",
@@ -14,7 +23,7 @@
         "category": "science",
         "link": "https://www.mdpi.com/2071-1050/14/12/7293",
         "timestamp": 1657427419,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 10, 2022 12:30 AM"
     },
     {
