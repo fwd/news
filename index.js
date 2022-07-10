@@ -63,7 +63,6 @@ async function scrape() {
 	            category: sub,
 	            link: a.url,
 	            timestamp: a.created,
-	            // sentiment: item.sentiment.score,
 	            published: moment.unix(a.created).format('LLL'),
 	        }
 	    })   
