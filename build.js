@@ -17,9 +17,9 @@ module.exports = (dataset) => {
 
 Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/main/headlines.json) file. 
 
-File Size: ~**${Math.floor(dataset.size)}MB**
-File Type: JSON
-Updated: Every 1 Hour 
+- File Type: JSON
+- File Size: ~**${Math.floor(dataset.size)}MB**
+- Updated: Every 1 Hour 
 
 \`\`\`
 ${JSON.stringify(_.first(dataset), null, 4)}
