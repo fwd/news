@@ -1,107 +1,11 @@
 [
     {
-        "title": "France prepares for total cutoff of Russian gas",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/europe/russian-gas-cutoff-most-likely-scenario-french-finance-minister-2022-07-10/",
-        "timestamp": 1657448419,
-        "published": "July 10, 2022 6:20 AM"
-    },
-    {
-        "title": "Russia hits Ukrainian hangars storing U.S.-made artillery weapons",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/europe/russia-hits-ukrainian-hangars-storing-us-made-artillery-weapons-2022-07-10/",
-        "timestamp": 1657450513,
-        "published": "July 10, 2022 6:55 AM"
-    },
-    {
-        "title": "Growing ‘culture of extremism’ among UK and European police forces, report warns",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/uk-news/2022/jul/10/growing-culture-of-extremism-among-uk-and-european-police-forces-report-warns",
-        "timestamp": 1657450812,
-        "published": "July 10, 2022 7:00 AM"
-    },
-    {
-        "title": "We need 'lots of drones' from the West to help defeat Vladimir Putin, Ukraine minister says",
-        "domain": "msn.com",
-        "category": "worldnews",
-        "link": "https://www.msn.com/en-us/news/world/we-need-lots-of-drones-from-the-west-to-help-defeat-vladimir-putin-ukraine-minister-says/ar-AAZpSoT?ocid=EMMX&cvid=912e8c6685aa4a5f95f02e7c5ca40b89",
-        "timestamp": 1657455057,
-        "published": "July 10, 2022 8:10 AM"
-    },
-    {
-        "title": "Zelensky: Russia fired ‘deliberately, purposefully’ at ‘ordinary houses’",
-        "domain": "thehill.com",
-        "category": "worldnews",
-        "link": "https://thehill.com/policy/defense/3551360-zelensky-russia-fired-deliberately-purposefully-at-ordinary-houses/",
-        "timestamp": 1657458165,
-        "published": "July 10, 2022 9:02 AM"
-    },
-    {
-        "title": "Germany has solved the problem with ammunition, so nothing will prevent the transfer of 30 Gepard SCA to Ukraine - Spiegel | gagadget.com",
-        "domain": "gagadget.com",
-        "category": "worldnews",
-        "link": "https://gagadget.com/en/war/145050-germany-has-solved-the-problem-with-ammunition-so-nothing-will-prevent-the-transfer-of-30-gepard-sca-to-ukraine-spieg/",
-        "timestamp": 1657466267,
-        "published": "July 10, 2022 11:17 AM"
-    },
-    {
-        "title": "Uber broke laws, duped police and built secret lobbying operation, leak reveals",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/news/2022/jul/10/uber-files-leak-reveals-global-lobbying-campaign?CMP=Share_iOSApp_Other",
-        "timestamp": 1657469044,
-        "published": "July 10, 2022 12:04 PM"
-    },
-    {
-        "title": "Emmanuel Macron secretly aided Uber lobbying drive in France, leak reveals",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/news/2022/jul/10/emmanuel-macron-secretly-aided-uber-lobbying-drive-france-leak-reveals",
-        "timestamp": 1657469650,
-        "published": "July 10, 2022 12:14 PM"
-    },
-    {
-        "title": "Russia putting families of killed soldiers under surveillance, Ukraine says",
-        "domain": "newsweek.com",
-        "category": "worldnews",
-        "link": "https://www.newsweek.com/russia-families-killed-soldiers-surveillance-ukraine-war-intelligence-1723230",
-        "timestamp": 1657470878,
-        "published": "July 10, 2022 12:34 PM"
-    },
-    {
-        "title": "Zelenskyy has consolidated Ukraine's TV outlets and dissolved rival political parties : NPR",
-        "domain": "npr.org",
-        "category": "worldnews",
-        "link": "https://www.npr.org/2022/07/08/1110577439/zelenskyy-has-consolidated-ukraines-tv-outlets-and-dissolved-rival-political-par?utm_source=facebook&utm_medium=news_tab&t=1657479970157",
-        "timestamp": 1657480070,
-        "published": "July 10, 2022 3:07 PM"
-    },
-    {
-        "title": "Europe is facing one of its toughest years for extreme weather",
-        "domain": "euronews.com",
-        "category": "worldnews",
-        "link": "https://www.euronews.com/2022/07/08/europe-is-facing-one-of-its-toughest-years-for-extreme-weather-with-many-countries-affecte",
-        "timestamp": 1657454436,
-        "published": "July 10, 2022 8:00 AM"
-    },
-    {
         "title": "Transgender Butler County man says group beat him up over restroom use",
         "domain": "fox19.com",
         "category": "news",
         "link": "https://www.fox19.com/2022/07/08/transgender-butler-county-man-says-group-beat-him-up-using-wrong-restroom/",
         "timestamp": 1657426094,
         "published": "July 10, 2022 12:08 AM"
-    },
-    {
-        "title": "Google proposes moving ad business to Alphabet to keep regulators at bay",
-        "domain": "arstechnica.com",
-        "category": "technology",
-        "link": "https://arstechnica.com/gadgets/2022/07/google-proposes-moving-ad-business-to-alphabet-to-keep-regulators-at-bay/",
-        "timestamp": 1657431281,
-        "published": "July 10, 2022 1:34 AM"
     },
     {
         "title": "Arizona to ban people filming police officers within 8 feet",
@@ -126,6 +30,14 @@
         "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269448",
         "timestamp": 1657438247,
         "published": "July 10, 2022 3:30 AM"
+    },
+    {
+        "title": "TikTok ‘frog army’ stunt could have grave consequences, experts warn",
+        "domain": "theguardian.com",
+        "category": "nottheonion",
+        "link": "https://www.theguardian.com/technology/2022/jul/10/tiktok-frog-army-stunt",
+        "timestamp": 1657441823,
+        "published": "July 10, 2022 4:30 AM"
     },
     {
         "title": "Vladimir Putin ‘to become dad again’ at 69 years old",
@@ -160,6 +72,14 @@
         "published": "July 10, 2022 6:13 AM"
     },
     {
+        "title": "France prepares for total cutoff of Russian gas",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/russian-gas-cutoff-most-likely-scenario-french-finance-minister-2022-07-10/",
+        "timestamp": 1657448419,
+        "published": "July 10, 2022 6:20 AM"
+    },
+    {
         "title": "Chris McCausland lands C4 travel show \"The Wonders of the World I Can't See\"",
         "domain": "chortle.co.uk",
         "category": "television",
@@ -174,6 +94,22 @@
         "link": "https://n.neurology.org/content/early/2022/07/06/WNL.0000000000200740",
         "timestamp": 1657449188,
         "published": "July 10, 2022 6:33 AM"
+    },
+    {
+        "title": "Russia hits Ukrainian hangars storing U.S.-made artillery weapons",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/russia-hits-ukrainian-hangars-storing-us-made-artillery-weapons-2022-07-10/",
+        "timestamp": 1657450513,
+        "published": "July 10, 2022 6:55 AM"
+    },
+    {
+        "title": "Growing ‘culture of extremism’ among UK and European police forces, report warns",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/uk-news/2022/jul/10/growing-culture-of-extremism-among-uk-and-european-police-forces-report-warns",
+        "timestamp": 1657450812,
+        "published": "July 10, 2022 7:00 AM"
     },
     {
         "title": "Fish Leong song, Unfortunately Not You, removed from Chinese platform after Shinzo Abe's death",
@@ -216,6 +152,14 @@
         "published": "July 10, 2022 7:39 AM"
     },
     {
+        "title": "We need 'lots of drones' from the West to help defeat Vladimir Putin, Ukraine minister says",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-us/news/world/we-need-lots-of-drones-from-the-west-to-help-defeat-vladimir-putin-ukraine-minister-says/ar-AAZpSoT?ocid=EMMX&cvid=912e8c6685aa4a5f95f02e7c5ca40b89",
+        "timestamp": 1657455057,
+        "published": "July 10, 2022 8:10 AM"
+    },
+    {
         "title": "Two precision missile strikes on Kherson City since this morning. Russian National Guard barracks hit. Locals report of Russians screaming from under the rubble.",
         "domain": "twitter.com",
         "category": "ukraine",
@@ -254,6 +198,14 @@
         "link": "https://www.businessinsider.com/charging-logistics-top-barrier-to-electric-car-adoption-survey-2022-7",
         "timestamp": 1657457706,
         "published": "July 10, 2022 8:55 AM"
+    },
+    {
+        "title": "Zelensky: Russia fired ‘deliberately, purposefully’ at ‘ordinary houses’",
+        "domain": "thehill.com",
+        "category": "worldnews",
+        "link": "https://thehill.com/policy/defense/3551360-zelensky-russia-fired-deliberately-purposefully-at-ordinary-houses/",
+        "timestamp": 1657458165,
+        "published": "July 10, 2022 9:02 AM"
     },
     {
         "title": "America needs a true wealth tax: Here's our plan to tax the rich — the really, really rich",
@@ -392,6 +344,14 @@
         "published": "July 10, 2022 11:16 AM"
     },
     {
+        "title": "Germany has solved the problem with ammunition, so nothing will prevent the transfer of 30 Gepard SCA to Ukraine - Spiegel | gagadget.com",
+        "domain": "gagadget.com",
+        "category": "worldnews",
+        "link": "https://gagadget.com/en/war/145050-germany-has-solved-the-problem-with-ammunition-so-nothing-will-prevent-the-transfer-of-30-gepard-sca-to-ukraine-spieg/",
+        "timestamp": 1657466267,
+        "published": "July 10, 2022 11:17 AM"
+    },
+    {
         "title": "First Look at 'X-Men '97', 'Marvel Zombies' and 'What If...?' Season 2 Confirmed for San Diego Comic-Con on July 22",
         "domain": "murphysmultiverse.com",
         "category": "television",
@@ -408,12 +368,12 @@
         "published": "July 10, 2022 11:49 AM"
     },
     {
-        "title": "Sheriff and sergeant threaten to arrest each other over concerning reason",
-        "domain": "marca.com",
-        "category": "nottheonion",
-        "link": "https://www.marca.com/en/lifestyle/us-news/2022/07/04/62c23a6f268e3e89498b45ae.html",
-        "timestamp": 1657468671,
-        "published": "July 10, 2022 11:57 AM"
+        "title": "Uber broke laws, duped police and built secret lobbying operation, leak reveals",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/news/2022/jul/10/uber-files-leak-reveals-global-lobbying-campaign?CMP=Share_iOSApp_Other",
+        "timestamp": 1657469044,
+        "published": "July 10, 2022 12:04 PM"
     },
     {
         "title": "Uber Files: Massive leak reveals how top politicians secretly helped Uber",
@@ -456,6 +416,14 @@
         "published": "July 10, 2022 12:13 PM"
     },
     {
+        "title": "Emmanuel Macron secretly aided Uber lobbying drive in France, leak reveals",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/news/2022/jul/10/emmanuel-macron-secretly-aided-uber-lobbying-drive-france-leak-reveals",
+        "timestamp": 1657469650,
+        "published": "July 10, 2022 12:14 PM"
+    },
+    {
         "title": "Uber bosses told staff to use ‘kill switch’ during raids to stop police seeing data",
         "domain": "theguardian.com",
         "category": "technology",
@@ -469,6 +437,14 @@
         "category": "sports",
         "link": "https://news.sky.com/story/novak-djokovic-beats-nick-kyrgios-in-wimbledon-mens-final-12649472",
         "timestamp": 1657470856,
+        "published": "July 10, 2022 12:34 PM"
+    },
+    {
+        "title": "Russia putting families of killed soldiers under surveillance, Ukraine says",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/russia-families-killed-soldiers-surveillance-ukraine-war-intelligence-1723230",
+        "timestamp": 1657470878,
         "published": "July 10, 2022 12:34 PM"
     },
     {
@@ -486,6 +462,14 @@
         "link": "https://www.yahoo.com/entertainment/jane-campion-fears-netflix-more-174751741.html",
         "timestamp": 1657472650,
         "published": "July 10, 2022 1:04 PM"
+    },
+    {
+        "title": "Sustainability | Free Full-Text | Metal Contents and Pollution Indices Assessment of Surface Water, Soil, and Sediment from the Aries River Basin Mining Area, Romania",
+        "domain": "doi.org",
+        "category": "science",
+        "link": "https://doi.org/10.3390/su14138024",
+        "timestamp": 1657473671,
+        "published": "July 10, 2022 1:21 PM"
     },
     {
         "title": "Florida man locks daughter’s 3 dogs in hot car for days, leaving them to die, deputies say",
@@ -528,6 +512,14 @@
         "published": "July 10, 2022 2:18 PM"
     },
     {
+        "title": "Ford recalls more than 100,000 Mavericks, Escapes, and Corsairs over fire risk",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2022/7/10/23202658/ford-recall-maverick-escape-corsair-fire-risk-hybrid",
+        "timestamp": 1657477159,
+        "published": "July 10, 2022 2:19 PM"
+    },
+    {
         "title": "In the US, federal judges tend to arrange to retire under presidents of the same political party as the president who first appointed them. This tendency is stronger for Republican appointees than for Democratic appointees. [Data covering 1920–2018]",
         "domain": "journals.sagepub.com",
         "category": "science",
@@ -542,6 +534,46 @@
         "link": "https://www.theguardian.com/environment/2022/jul/10/extinct-parrots-make-a-flying-comeback-in-brazil",
         "timestamp": 1657478299,
         "published": "July 10, 2022 2:38 PM"
+    },
+    {
+        "title": "Zelenskyy has consolidated Ukraine's TV outlets and dissolved rival political parties : NPR",
+        "domain": "npr.org",
+        "category": "worldnews",
+        "link": "https://www.npr.org/2022/07/08/1110577439/zelenskyy-has-consolidated-ukraines-tv-outlets-and-dissolved-rival-political-par?utm_source=facebook&utm_medium=news_tab&t=1657479970157",
+        "timestamp": 1657480070,
+        "published": "July 10, 2022 3:07 PM"
+    },
+    {
+        "title": "Trophy hunter shot dead and left on the side of the road in South Africa",
+        "domain": "globalnews.ca",
+        "category": "nottheonion",
+        "link": "https://globalnews.ca/news/8971557/trophy-hunter-riaan-naude-shot-dead-south-africa/",
+        "timestamp": 1657482920,
+        "published": "July 10, 2022 3:55 PM"
+    },
+    {
+        "title": "Europe is facing one of its toughest years for extreme weather",
+        "domain": "euronews.com",
+        "category": "worldnews",
+        "link": "https://www.euronews.com/2022/07/08/europe-is-facing-one-of-its-toughest-years-for-extreme-weather-with-many-countries-affecte",
+        "timestamp": 1657454436,
+        "published": "July 10, 2022 8:00 AM"
+    },
+    {
+        "title": "Google proposes moving ad business to Alphabet to keep regulators at bay",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/gadgets/2022/07/google-proposes-moving-ad-business-to-alphabet-to-keep-regulators-at-bay/",
+        "timestamp": 1657431281,
+        "published": "July 10, 2022 1:34 AM"
+    },
+    {
+        "title": "Sheriff and sergeant threaten to arrest each other over concerning reason",
+        "domain": "marca.com",
+        "category": "nottheonion",
+        "link": "https://www.marca.com/en/lifestyle/us-news/2022/07/04/62c23a6f268e3e89498b45ae.html",
+        "timestamp": 1657468671,
+        "published": "July 10, 2022 11:57 AM"
     },
     {
         "title": "FDR Was Right to Attack the Supreme Court’s Power. Democrats Should Do the Same Today.",
@@ -646,14 +678,6 @@
         "link": "https://www.abc15.com/news/local-news/investigations/flagstaff-pd-officers-fully-naked-fondled-during-massage-investigation",
         "timestamp": 1657434594,
         "published": "July 10, 2022 2:29 AM"
-    },
-    {
-        "title": "TikTok ‘frog army’ stunt could have grave consequences, experts warn",
-        "domain": "theguardian.com",
-        "category": "nottheonion",
-        "link": "https://www.theguardian.com/technology/2022/jul/10/tiktok-frog-army-stunt",
-        "timestamp": 1657441823,
-        "published": "July 10, 2022 4:30 AM"
     },
     {
         "title": "A Big Flashing Signal That Goods Could Get Cheaper Soon",
