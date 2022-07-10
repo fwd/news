@@ -14,7 +14,7 @@
         "category": "nottheonion",
         "link": "https://www.bbc.com/news/world-us-canada-62100403",
         "timestamp": 1657432172,
-        "sentiment": -5,
+        "sentiment": -3,
         "published": "July 10, 2022 1:49 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "science",
         "link": "https://newatlas.com/physics/electron-whirlpools-fluid-flow-electricity/",
         "timestamp": 1657435147,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 10, 2022 2:39 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "science",
         "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269448",
         "timestamp": 1657438247,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 10, 2022 3:30 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "nottheonion",
         "link": "https://www.theguardian.com/technology/2022/jul/10/tiktok-frog-army-stunt",
         "timestamp": 1657441823,
-        "sentiment": -5,
+        "sentiment": -3,
         "published": "July 10, 2022 4:30 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "politics",
         "link": "https://www.npr.org/2022/07/10/1110608236/arizona-law-limiting-recording-of-police",
         "timestamp": 1657447210,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "July 10, 2022 6:00 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "science",
         "link": "https://ucsdnews.ucsd.edu/pressrelease/mindfulness-meditation-reduces-pain-by-separating-it-from-the-self",
         "timestamp": 1657448003,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 10, 2022 6:13 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/russian-gas-cutoff-most-likely-scenario-french-finance-minister-2022-07-10/",
         "timestamp": 1657448419,
-        "sentiment": -6,
+        "sentiment": -2,
         "published": "July 10, 2022 6:20 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "science",
         "link": "https://n.neurology.org/content/early/2022/07/06/WNL.0000000000200740",
         "timestamp": 1657449188,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 10, 2022 6:33 AM"
     },
     {
@@ -104,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/russia-hits-ukrainian-hangars-storing-us-made-artillery-weapons-2022-07-10/",
         "timestamp": 1657450513,
-        "sentiment": -6,
+        "sentiment": -2,
         "published": "July 10, 2022 6:55 AM"
     },
     {
@@ -113,7 +113,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/uk-news/2022/jul/10/growing-culture-of-extremism-among-uk-and-european-police-forces-report-warns",
         "timestamp": 1657450812,
-        "sentiment": -6,
+        "sentiment": -2,
         "published": "July 10, 2022 7:00 AM"
     },
     {
@@ -122,7 +122,7 @@
         "category": "nottheonion",
         "link": "https://www.straitstimes.com/life/entertainment/fish-leong-song-unfortunately-not-you-removed-from-chinese-platform-after-shinzo-abes-death",
         "timestamp": 1657450896,
-        "sentiment": -5,
+        "sentiment": -3,
         "published": "July 10, 2022 7:01 AM"
     },
     {
@@ -131,7 +131,7 @@
         "category": "technology",
         "link": "https://www.reuters.com/business/aerospace-defense/nasa-showcase-webb-space-telescopes-first-full-color-images-2022-07-10/",
         "timestamp": 1657451565,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 10, 2022 7:12 AM"
     },
     {
@@ -149,7 +149,7 @@
         "category": "politics",
         "link": "https://www.nbcnews.com/politics/donald-trump/jan-6-panel-ex-white-house-lawyer-spoke-trumps-supreme-dereliction-dut-rcna37479",
         "timestamp": 1657452493,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "July 10, 2022 7:28 AM"
     },
     {
@@ -158,7 +158,7 @@
         "category": "technology",
         "link": "https://www.space.com/james-webb-space-telescope-science-photos-webcast",
         "timestamp": 1657453171,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 10, 2022 7:39 AM"
     },
     {
@@ -167,7 +167,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/we-need-lots-of-drones-from-the-west-to-help-defeat-vladimir-putin-ukraine-minister-says/ar-AAZpSoT?ocid=EMMX&cvid=912e8c6685aa4a5f95f02e7c5ca40b89",
         "timestamp": 1657455057,
-        "sentiment": -6,
+        "sentiment": -2,
         "published": "July 10, 2022 8:10 AM"
     },
     {
@@ -185,7 +185,7 @@
         "category": "UpliftingNews",
         "link": "https://www.ecowatch.com/fin-whales-antarctica.html",
         "timestamp": 1657456088,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 10, 2022 8:28 AM"
     },
     {
@@ -194,7 +194,7 @@
         "category": "politics",
         "link": "https://arktimes.com/arkansas-blog/2022/07/09/arkansas-priorities-cash-for-the-rich-nothing-for-school-teachers-or-anyone-else-at-bottom-of-the-scale",
         "timestamp": 1657456417,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "July 10, 2022 8:33 AM"
     },
     {
@@ -203,7 +203,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/charging-logistics-top-barrier-to-electric-car-adoption-survey-2022-7",
         "timestamp": 1657457706,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 10, 2022 8:55 AM"
     },
     {
@@ -212,7 +212,7 @@
         "category": "worldnews",
         "link": "https://thehill.com/policy/defense/3551360-zelensky-russia-fired-deliberately-purposefully-at-ordinary-houses/",
         "timestamp": 1657458165,
-        "sentiment": -6,
+        "sentiment": -2,
         "published": "July 10, 2022 9:02 AM"
     },
     {
@@ -221,7 +221,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/07/10/america-needs-a-real-wealth-tax-heres-our-plan-to-the-rich--the-really-really-rich/",
         "timestamp": 1657458905,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "July 10, 2022 9:15 AM"
     },
     {
@@ -230,7 +230,7 @@
         "category": "politics",
         "link": "https://www.cbsnews.com/news/insulin-california-fight-rising-prices-gavin-newsom/?ftag=CNM-00-10aab7e&linkId=172619129",
         "timestamp": 1657459921,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "July 10, 2022 9:32 AM"
     },
     {
@@ -248,7 +248,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/brett-kavanaugh-dinner-mortons-swamped-calls-fake-reservations-roe-overturn-2022-7",
         "timestamp": 1657461372,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "July 10, 2022 9:56 AM"
     },
     {
@@ -275,17 +275,8 @@
         "category": "UpliftingNews",
         "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/abbott-says-it-has-reopened-michigan-baby-formula-plant-2022-07-09/",
         "timestamp": 1657461986,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 10, 2022 10:06 AM"
-    },
-    {
-        "title": "Restaurant fundraises to help victims after 6 injured when car crashes into outdoor patio",
-        "domain": "abc7chicago.com",
-        "category": "UpliftingNews",
-        "link": "https://abc7chicago.com/chicago-fire-department-car-crash-into-restaurant/12035358/",
-        "timestamp": 1657462519,
-        "sentiment": -1,
-        "published": "July 10, 2022 10:15 AM"
     },
     {
         "title": "Fox News correspondent rips pants onstage with Flo Rida: Watch",
@@ -293,7 +284,7 @@
         "category": "nottheonion",
         "link": "https://consequence.net/2022/07/fox-news-correspondent-flo-rida-rips-pants/",
         "timestamp": 1657462600,
-        "sentiment": -5,
+        "sentiment": -3,
         "published": "July 10, 2022 10:16 AM"
     },
     {
@@ -311,7 +302,7 @@
         "category": "politics",
         "link": "https://www.cnn.com/2022/07/10/politics/steve-bannon-trump-january-6-executive-privilege/index.html",
         "timestamp": 1657464099,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "July 10, 2022 10:41 AM"
     },
     {
@@ -322,15 +313,6 @@
         "timestamp": 1657464615,
         "sentiment": -2,
         "published": "July 10, 2022 10:50 AM"
-    },
-    {
-        "title": "Family found living with weapons in Nevada children's museum",
-        "domain": "abcnews.go.com",
-        "category": "news",
-        "link": "https://abcnews.go.com/US/wireStory/family-found-living-weapons-nevada-childrens-museum-86533041",
-        "timestamp": 1657464838,
-        "sentiment": 0,
-        "published": "July 10, 2022 10:53 AM"
     },
     {
         "title": "APD: SWAT standoff ends with house fire, 14-year-old killed",
@@ -347,7 +329,7 @@
         "category": "science",
         "link": "https://digitalcommons.library.tmc.edu/childrenatrisk/vol12/iss2/2/",
         "timestamp": 1657465875,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 10, 2022 11:11 AM"
     },
     {
@@ -356,7 +338,16 @@
         "category": "UpliftingNews",
         "link": "https://apnews.com/article/job-market-gives-ex-prisoners-second-chance-97bed3d56214275ad407a9ee234f781d",
         "timestamp": 1657465908,
-        "sentiment": -1,
+        "sentiment": 0,
+        "published": "July 10, 2022 11:11 AM"
+    },
+    {
+        "title": "Annemiek van Vleuten wins Giro d’Italia Donne",
+        "domain": "velonews.com",
+        "category": "sports",
+        "link": "https://www.velonews.com/news/road/giro-ditalia-donne-annemiek-van-vleuten-wins-overall-race/",
+        "timestamp": 1657465914,
+        "sentiment": 4,
         "published": "July 10, 2022 11:11 AM"
     },
     {
@@ -365,7 +356,7 @@
         "category": "politics",
         "link": "https://www.washingtonpost.com/opinions/2022/07/08/boris-johnson-resignation-donald-trump-republications-tories-gop-conservatives/",
         "timestamp": 1657466207,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "July 10, 2022 11:16 AM"
     },
     {
@@ -374,7 +365,7 @@
         "category": "worldnews",
         "link": "https://gagadget.com/en/war/145050-germany-has-solved-the-problem-with-ammunition-so-nothing-will-prevent-the-transfer-of-30-gepard-sca-to-ukraine-spieg/",
         "timestamp": 1657466267,
-        "sentiment": -6,
+        "sentiment": -2,
         "published": "July 10, 2022 11:17 AM"
     },
     {
@@ -392,7 +383,7 @@
         "category": "science",
         "link": "https://www.psypost.org/2022/07/anxious-and-avoidant-attachment-are-related-to-cognitive-functioning-in-older-couples-63483",
         "timestamp": 1657468176,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 10, 2022 11:49 AM"
     },
     {
@@ -401,7 +392,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/news/2022/jul/10/uber-files-leak-reveals-global-lobbying-campaign?CMP=Share_iOSApp_Other",
         "timestamp": 1657469044,
-        "sentiment": -6,
+        "sentiment": -2,
         "published": "July 10, 2022 12:04 PM"
     },
     {
@@ -410,7 +401,7 @@
         "category": "technology",
         "link": "https://www.bbc.co.uk/news/business-62057321",
         "timestamp": 1657469146,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 10, 2022 12:05 PM"
     },
     {
@@ -437,7 +428,7 @@
         "category": "sports",
         "link": "https://lastwordonsports.com/tennis/2022/07/10/novak-djokovic-nick-kyrgios-seventh-wimbledon-21st-grand-slam/?fbclid=IwAR02UyFTUOPdE6qyjs-4cutrv46iUNZ8aWvXK3fIXrWsPHrxjIq7g4CsaOQ",
         "timestamp": 1657469482,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "July 10, 2022 12:11 PM"
     },
     {
@@ -446,7 +437,7 @@
         "category": "sports",
         "link": "https://www.theguardian.com/sport/live/2022/jul/10/novak-djokovic-v-nick-krygios-wimbledon-mens-singles-final-live",
         "timestamp": 1657469586,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "July 10, 2022 12:13 PM"
     },
     {
@@ -455,17 +446,8 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/news/2022/jul/10/emmanuel-macron-secretly-aided-uber-lobbying-drive-france-leak-reveals",
         "timestamp": 1657469650,
-        "sentiment": -6,
+        "sentiment": -2,
         "published": "July 10, 2022 12:14 PM"
-    },
-    {
-        "title": "Tiger Woods plays first 18-hole practice round before a major this year.",
-        "domain": "espn.com",
-        "category": "sports",
-        "link": "https://www.espn.com/golf/story/_/id/34221618/tiger-woods-plays-first-18-hole-practice-round-major-year",
-        "timestamp": 1657470168,
-        "sentiment": 0,
-        "published": "July 10, 2022 12:22 PM"
     },
     {
         "title": "Uber bosses told staff to use ‘kill switch’ during raids to stop police seeing data",
@@ -473,7 +455,7 @@
         "category": "technology",
         "link": "https://www.theguardian.com/news/2022/jul/10/uber-bosses-told-staff-use-kill-switch-raids-stop-police-seeing-data",
         "timestamp": 1657470199,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 10, 2022 12:23 PM"
     },
     {
@@ -482,7 +464,7 @@
         "category": "sports",
         "link": "https://news.sky.com/story/novak-djokovic-beats-nick-kyrgios-in-wimbledon-mens-final-12649472",
         "timestamp": 1657470856,
-        "sentiment": 0,
+        "sentiment": 4,
         "published": "July 10, 2022 12:34 PM"
     },
     {
@@ -491,7 +473,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/russia-families-killed-soldiers-surveillance-ukraine-war-intelligence-1723230",
         "timestamp": 1657470878,
-        "sentiment": -6,
+        "sentiment": -2,
         "published": "July 10, 2022 12:34 PM"
     },
     {
@@ -500,7 +482,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/outrage-erupts-as-white-house-says-some-pro-choice-activists-are-out-of-step",
         "timestamp": 1657471149,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "July 10, 2022 12:39 PM"
     },
     {
@@ -509,7 +491,7 @@
         "category": "technology",
         "link": "https://www.yahoo.com/entertainment/jane-campion-fears-netflix-more-174751741.html",
         "timestamp": 1657472650,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 10, 2022 1:04 PM"
     },
     {
@@ -518,7 +500,7 @@
         "category": "science",
         "link": "https://doi.org/10.3390/su14138024",
         "timestamp": 1657473671,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 10, 2022 1:21 PM"
     },
     {
@@ -536,7 +518,7 @@
         "category": "miami",
         "link": "https://www.miamiherald.com/news/local/education/article263249518.html",
         "timestamp": 1657474670,
-        "sentiment": 7,
+        "sentiment": 0,
         "published": "July 10, 2022 1:37 PM"
     },
     {
@@ -545,7 +527,7 @@
         "category": "UpliftingNews",
         "link": "https://www.colorado.edu/today/2022/06/23/cities-future-may-be-built-algae-grown-limestone",
         "timestamp": 1657474903,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 10, 2022 1:41 PM"
     },
     {
@@ -554,7 +536,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/kinzinger-says-wont-single-trump-supporter-10-years-like-nixon-1723240",
         "timestamp": 1657476451,
-        "sentiment": -1,
+        "sentiment": 4,
         "published": "July 10, 2022 2:07 PM"
     },
     {
@@ -563,7 +545,7 @@
         "category": "science",
         "link": "https://journals.sagepub.com/doi/full/10.1177/00031224221103257",
         "timestamp": 1657476906,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 10, 2022 2:15 PM"
     },
     {
@@ -581,17 +563,8 @@
         "category": "technology",
         "link": "https://www.thestar.com/business/2022/07/08/percy-the-virtual-cashier-founders-shrug-off-critics-and-plan-to-grow-start-up-into-a-multinational-company.html",
         "timestamp": 1657477106,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 10, 2022 2:18 PM"
-    },
-    {
-        "title": "Ford recalls more than 100,000 Mavericks, Escapes, and Corsairs over fire risk",
-        "domain": "theverge.com",
-        "category": "technology",
-        "link": "https://www.theverge.com/2022/7/10/23202658/ford-recall-maverick-escape-corsair-fire-risk-hybrid",
-        "timestamp": 1657477159,
-        "sentiment": -5,
-        "published": "July 10, 2022 2:19 PM"
     },
     {
         "title": "In the US, federal judges tend to arrange to retire under presidents of the same political party as the president who first appointed them. This tendency is stronger for Republican appointees than for Democratic appointees. [Data covering 1920–2018]",
@@ -599,7 +572,7 @@
         "category": "science",
         "link": "https://journals.sagepub.com/doi/full/10.1177/00031224221102072",
         "timestamp": 1657477462,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 10, 2022 2:24 PM"
     },
     {
@@ -608,17 +581,8 @@
         "category": "UpliftingNews",
         "link": "https://www.theguardian.com/environment/2022/jul/10/extinct-parrots-make-a-flying-comeback-in-brazil",
         "timestamp": 1657478299,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 10, 2022 2:38 PM"
-    },
-    {
-        "title": "Zelenskyy has consolidated Ukraine's TV outlets and dissolved rival political parties : NPR",
-        "domain": "npr.org",
-        "category": "worldnews",
-        "link": "https://www.npr.org/2022/07/08/1110577439/zelenskyy-has-consolidated-ukraines-tv-outlets-and-dissolved-rival-political-par?utm_source=facebook&utm_medium=news_tab&t=1657479970157",
-        "timestamp": 1657480070,
-        "sentiment": -6,
-        "published": "July 10, 2022 3:07 PM"
     },
     {
         "title": "Composer Natalie Holt Returning for 'Loki' Season 2",
@@ -637,6 +601,132 @@
         "timestamp": 1657481859,
         "sentiment": -3,
         "published": "July 10, 2022 3:37 PM"
+    },
+    {
+        "title": "Trump-era solar product tariffs to be scrapped after trade talks with U.S., Mexico in Vancouver",
+        "domain": "cbc.ca",
+        "category": "worldnews",
+        "link": "https://www.cbc.ca/news/canada/british-columbia/solar-power-tariffs-scrapped-at-vancouver-trade-meeting-with-us-and-mexico-1.6516167",
+        "timestamp": 1657483340,
+        "sentiment": -2,
+        "published": "July 10, 2022 4:02 PM"
+    },
+    {
+        "title": "Uber used a secret tactic known as the 'kill switch' to block law enforcement from accessing company data during police raids, leaked documents show",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/uber-files-leak-secret-kill-switch-blocked-data-from-police-2022-7",
+        "timestamp": 1657484324,
+        "sentiment": 0,
+        "published": "July 10, 2022 4:18 PM"
+    },
+    {
+        "title": "Pregnant Texas woman says unborn baby should count as car passenger after receiving HOV ticket",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/pregnant-texas-woman-says-unborn-baby-count-car-passenger-receiving-ho-rcna37531",
+        "timestamp": 1657484828,
+        "sentiment": 0,
+        "published": "July 10, 2022 4:27 PM"
+    },
+    {
+        "title": "‘Forever Chemicals’ Found Contaminating 100% of Florida Oysters Tested",
+        "domain": "ecowatch.com",
+        "category": "florida",
+        "link": "https://www.ecowatch.com/forever-chemicals-florida-oysters%ef%bf%bc.html",
+        "timestamp": 1657485167,
+        "sentiment": 2,
+        "published": "July 10, 2022 4:32 PM"
+    },
+    {
+        "title": "Police leader caught speeding: 'I need to slow my butt down'",
+        "domain": "apnews.com",
+        "category": "nottheonion",
+        "link": "https://apnews.com/article/louisiana-baton-rouge-e3693720a1b2d2997d21df4dbd5d11b2",
+        "timestamp": 1657485424,
+        "sentiment": -3,
+        "published": "July 10, 2022 4:37 PM"
+    },
+    {
+        "title": "Goose Bumps Build for the Webb’s First Snapshots of the Universe",
+        "domain": "nytimes.com",
+        "category": "UpliftingNews",
+        "link": "https://www.nytimes.com/2022/07/10/science/nasa-webb-telescope-images.html",
+        "timestamp": 1657485964,
+        "sentiment": 0,
+        "published": "July 10, 2022 4:46 PM"
+    },
+    {
+        "title": "A study on underwater noise pollution from seabed mining operations found that noise from one mine alone could travel approximately 500 kilometers (roughly 311 miles) in gentle weather conditions, which could affect the understudied species that live in the deep sea",
+        "domain": "hawaii.edu",
+        "category": "science",
+        "link": "https://www.hawaii.edu/news/2022/07/08/deep-sea-mining-noise-pollution/",
+        "timestamp": 1657486338,
+        "sentiment": 0,
+        "published": "July 10, 2022 4:52 PM"
+    },
+    {
+        "title": "Family found living with cache of weapons inside Nevada children’s museum",
+        "domain": "nbcnews.com",
+        "category": "nottheonion",
+        "link": "https://www.nbcnews.com/news/family-found-living-cache-weapons-nevada-childrens-museum-rcna37509",
+        "timestamp": 1657486581,
+        "sentiment": -3,
+        "published": "July 10, 2022 4:56 PM"
+    },
+    {
+        "title": "Firefighters save kitten stuck in ATM, names him Cash",
+        "domain": "5newsonline.com",
+        "category": "UpliftingNews",
+        "link": "https://www.5newsonline.com/article/life/heartwarming/fort-smith-firefighters-save-kitten-atm/527-218bde1f-665b-4aaf-a64a-8fe0b3fe850b",
+        "timestamp": 1657488358,
+        "sentiment": 0,
+        "published": "July 10, 2022 5:25 PM"
+    },
+    {
+        "title": "Restaurant fundraises to help victims after 6 injured when car crashes into outdoor patio",
+        "domain": "abc7chicago.com",
+        "category": "UpliftingNews",
+        "link": "https://abc7chicago.com/chicago-fire-department-car-crash-into-restaurant/12035358/",
+        "timestamp": 1657462519,
+        "sentiment": -1,
+        "published": "July 10, 2022 10:15 AM"
+    },
+    {
+        "title": "Family found living with weapons in Nevada children's museum",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/wireStory/family-found-living-weapons-nevada-childrens-museum-86533041",
+        "timestamp": 1657464838,
+        "sentiment": 0,
+        "published": "July 10, 2022 10:53 AM"
+    },
+    {
+        "title": "Tiger Woods plays first 18-hole practice round before a major this year.",
+        "domain": "espn.com",
+        "category": "sports",
+        "link": "https://www.espn.com/golf/story/_/id/34221618/tiger-woods-plays-first-18-hole-practice-round-major-year",
+        "timestamp": 1657470168,
+        "sentiment": 0,
+        "published": "July 10, 2022 12:22 PM"
+    },
+    {
+        "title": "Ford recalls more than 100,000 Mavericks, Escapes, and Corsairs over fire risk",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2022/7/10/23202658/ford-recall-maverick-escape-corsair-fire-risk-hybrid",
+        "timestamp": 1657477159,
+        "sentiment": -5,
+        "published": "July 10, 2022 2:19 PM"
+    },
+    {
+        "title": "Zelenskyy has consolidated Ukraine's TV outlets and dissolved rival political parties : NPR",
+        "domain": "npr.org",
+        "category": "worldnews",
+        "link": "https://www.npr.org/2022/07/08/1110577439/zelenskyy-has-consolidated-ukraines-tv-outlets-and-dissolved-rival-political-par?utm_source=facebook&utm_medium=news_tab&t=1657479970157",
+        "timestamp": 1657480070,
+        "sentiment": -6,
+        "published": "July 10, 2022 3:07 PM"
     },
     {
         "title": "Google proposes moving ad business to Alphabet to keep regulators at bay",
@@ -673,15 +763,6 @@
         "timestamp": 1657455962,
         "sentiment": -3,
         "published": "July 10, 2022 8:26 AM"
-    },
-    {
-        "title": "Annemiek van Vleuten wins Giro d’Italia Donne",
-        "domain": "velonews.com",
-        "category": "sports",
-        "link": "https://www.velonews.com/news/road/giro-ditalia-donne-annemiek-van-vleuten-wins-overall-race/",
-        "timestamp": 1657465914,
-        "sentiment": 4,
-        "published": "July 10, 2022 11:11 AM"
     },
     {
         "title": "Sheriff and sergeant threaten to arrest each other over concerning reason",
