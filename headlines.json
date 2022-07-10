@@ -27,6 +27,42 @@
         "published": "July 10, 2022 12:30 AM"
     },
     {
+        "title": "Bengaluru (India): Two fake call centers cheating US citizens raided, 11 arrested",
+        "domain": "news9live.com",
+        "category": "worldnews",
+        "link": "https://www.news9live.com/state/karnataka/bengaluru-two-fake-call-centers-cheating-us-citizens-raided-11-arrested-181434",
+        "timestamp": 1657430322,
+        "sentiment": -2,
+        "published": "July 10, 2022 1:18 AM"
+    },
+    {
+        "title": "Google proposes moving ad business to Alphabet to keep regulators at bay",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/gadgets/2022/07/google-proposes-moving-ad-business-to-alphabet-to-keep-regulators-at-bay/",
+        "timestamp": 1657431281,
+        "sentiment": 0,
+        "published": "July 10, 2022 1:34 AM"
+    },
+    {
+        "title": "Arizona to ban people filming police officers within 8 feet",
+        "domain": "bbc.com",
+        "category": "nottheonion",
+        "link": "https://www.bbc.com/news/world-us-canada-62100403",
+        "timestamp": 1657432172,
+        "sentiment": 0,
+        "published": "July 10, 2022 1:49 AM"
+    },
+    {
+        "title": "Researchers observed “electron whirlpools” for the first time. The bizarre behavior arises when electricity flows as a fluid, which could make for more efficient electronics.Electron vortices have long been predicted in theory where electrons behave as a fluid, not as individual particles.",
+        "domain": "newatlas.com",
+        "category": "science",
+        "link": "https://newatlas.com/physics/electron-whirlpools-fluid-flow-electricity/",
+        "timestamp": 1657435147,
+        "sentiment": 0,
+        "published": "July 10, 2022 2:39 AM"
+    },
+    {
         "title": "Moscow-born Rybakina, who represents Kazakhstan, wins Wimbledon in year Russians are banned from tournament",
         "domain": "news.sky.com",
         "category": "sports",
