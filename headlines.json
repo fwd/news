@@ -14,7 +14,7 @@
         "category": "science",
         "link": "https://www.sciencedirect.com/science/article/abs/pii/S002228602201345X",
         "timestamp": 1657426305,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 10, 2022 12:11 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "science",
         "link": "https://www.mdpi.com/2071-1050/14/12/7293",
         "timestamp": 1657427419,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 10, 2022 12:30 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "worldnews",
         "link": "https://www.news9live.com/state/karnataka/bengaluru-two-fake-call-centers-cheating-us-citizens-raided-11-arrested-181434",
         "timestamp": 1657430322,
-        "sentiment": -2,
+        "sentiment": 3,
         "published": "July 10, 2022 1:18 AM"
     },
     {
@@ -54,13 +54,31 @@
         "published": "July 10, 2022 1:49 AM"
     },
     {
+        "title": "MIT Scientists Propose ‘Space Bubbles’ to Deflect Solar Radiation, Ease Climate Change",
+        "domain": "popularmechanics.com",
+        "category": "technology",
+        "link": "https://www.popularmechanics.com/space/a40486004/space-bubbles-climate-change/",
+        "timestamp": 1657433776,
+        "sentiment": 0,
+        "published": "July 10, 2022 2:16 AM"
+    },
+    {
         "title": "Researchers observed “electron whirlpools” for the first time. The bizarre behavior arises when electricity flows as a fluid, which could make for more efficient electronics.Electron vortices have long been predicted in theory where electrons behave as a fluid, not as individual particles.",
         "domain": "newatlas.com",
         "category": "science",
         "link": "https://newatlas.com/physics/electron-whirlpools-fluid-flow-electricity/",
         "timestamp": 1657435147,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 10, 2022 2:39 AM"
+    },
+    {
+        "title": "Analysis on 134 people, found that gritty people didn’t demonstrate enhanced executive functioning, they exhibited a different pattern of performance. These findings converge with idea that high grit people do not necessarily have a greater cognitive capacity. Rather, they use it in a different way",
+        "domain": "journals.plos.org",
+        "category": "science",
+        "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269448",
+        "timestamp": 1657438247,
+        "sentiment": 1,
+        "published": "July 10, 2022 3:30 AM"
     },
     {
         "title": "Moscow-born Rybakina, who represents Kazakhstan, wins Wimbledon in year Russians are banned from tournament",
