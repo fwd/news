@@ -23,6 +23,7 @@
     "fs": "^0.0.1-security",
     "lodash": "^4.17.21",
     "moment": "^2.29.1",
+    "request": "^2.88.2",
     "sentiment": "^5.0.2",
     "snoowrap": "^1.23.0"
   }

@@ -1,7 +1,7 @@
 /**
-* This is a NodeJS script file
+* This is NodeJS 
 * You run it via the command line like so: > node script.js
-* You'll need NodeJS 16+ installed & the following packages. 
+* You'll need NodeJS installed on the machine first.
 */
 
 // npm i sentiment snoowrap moment lodash
@@ -15,7 +15,7 @@ const moment = require('moment')
 const snoowrap = require('snoowrap')
 const Sentiment = require('sentiment')
 
-const readme = require('./readme.js')
+const readme = require('./build')
 
 const reddit = new snoowrap({
     userAgent: 'put your user-agent string here',
@@ -27,17 +27,17 @@ const reddit = new snoowrap({
 
 const subreddits = [
 	'worldnews',
-	'news',
-	'television',
-	'ukraine',
-	'miami',
-	'technology',
-	'sports',
-	'UpliftingNews',
-	'science',
-	'nottheonion',
-	'politics',
-	'florida'
+	// 'news',
+	// 'television',
+	// 'ukraine',
+	// 'miami',
+	// 'technology',
+	// 'sports',
+	// 'UpliftingNews',
+	// 'science',
+	// 'nottheonion',
+	// 'politics',
+	// 'florida'
 ]
 
 async function scrape() {
@@ -63,7 +63,7 @@ async function scrape() {
 	            category: sub,
 	            link: a.url,
 	            timestamp: a.created,
-	            sentiment: item.sentiment.score,
+	            // sentiment: item.sentiment.score,
 	            published: moment.unix(a.created).format('LLL'),
 	        }
 	    })   
@@ -102,6 +102,10 @@ async function scrape() {
 
 	dataset = _.uniqBy(dataset, 'title')
 
+	var stats = fs.statSync('./headlines.json')
+	var fileSizeInBytes = stats.size;
+	dataset.size = fileSizeInBytes / (1024*1024);
+
 	await server.write('./headlines.json', JSON.stringify(dataset, null, 4))
 
 	await server.write('./readme.md', readme(dataset))
@@ -119,4 +123,8 @@ server.cron(async () => {
 	
 	await server.exec(`cd ${__dirname} && git push origin &> /dev/null`)
 
-}, 'every 1 hour', true) 
+}, 'every 1 hour') 
+
+;(async () => {
+	await scrape()
+})()
