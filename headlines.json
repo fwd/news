@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.fox19.com/2022/07/08/transgender-butler-county-man-says-group-beat-him-up-using-wrong-restroom/",
         "timestamp": 1657426094,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 10, 2022 12:08 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "politics",
         "link": "https://jacobin.com/2022/07/fdr-was-right-to-attack-the-supreme-courts-power-democrats-should-do-the-same-today",
         "timestamp": 1657427734,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 10, 2022 12:35 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "technology",
         "link": "https://arstechnica.com/gadgets/2022/07/google-proposes-moving-ad-business-to-alphabet-to-keep-regulators-at-bay/",
         "timestamp": 1657431281,
-        "sentiment": -4,
+        "sentiment": -5,
         "published": "July 10, 2022 1:34 AM"
     },
     {
@@ -50,17 +50,8 @@
         "category": "technology",
         "link": "https://www.popularmechanics.com/space/a40486004/space-bubbles-climate-change/",
         "timestamp": 1657433776,
-        "sentiment": -4,
+        "sentiment": -5,
         "published": "July 10, 2022 2:16 AM"
-    },
-    {
-        "title": "Reno, Nevada, man's DNA linked to 1982 murder of California girl, 5, DA says",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/news/us-news/reno-nevada-mans-dna-linked-1982-murder-california-girl-5-da-says-rcna37476",
-        "timestamp": 1657434116,
-        "sentiment": -2,
-        "published": "July 10, 2022 2:21 AM"
     },
     {
         "title": "Flagstaff PD officers fully naked, fondled during massage investigation",
@@ -68,7 +59,7 @@
         "category": "news",
         "link": "https://www.abc15.com/news/local-news/investigations/flagstaff-pd-officers-fully-naked-fondled-during-massage-investigation",
         "timestamp": 1657434594,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 10, 2022 2:29 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.rfa.org/english/news/china/polygraph-loyalty-07042022131133.html",
         "timestamp": 1657436981,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 10, 2022 3:09 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/TpyxaNews/status/1546054935711711232?t=NK_mmoZO7KffSPlR7AFwZw&s=19",
         "timestamp": 1657443375,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 10, 2022 4:56 AM"
     },
     {
@@ -113,8 +104,17 @@
         "category": "technology",
         "link": "https://venturebeat.com/2022/07/06/report-95-of-employees-say-it-issues-decrease-workplace-productivity-and-morale/",
         "timestamp": 1657445874,
-        "sentiment": -4,
+        "sentiment": -5,
         "published": "July 10, 2022 5:37 AM"
+    },
+    {
+        "title": "Vladimir Putin ‘to become dad again’ at 69 years old",
+        "domain": "news.com.au",
+        "category": "news",
+        "link": "https://www.news.com.au/world/europe/vladimir-putin-to-become-dad-again-at-69-years-old/news-story/26eb6efcf7be737cc8ae4b4f51782a13",
+        "timestamp": 1657446641,
+        "sentiment": -3,
+        "published": "July 10, 2022 5:50 AM"
     },
     {
         "title": "Launch of one HIMARS missile costs $150,000, and a full launch costs $1,000,000",
@@ -122,7 +122,7 @@
         "category": "ukraine",
         "link": "https://gagadget.com/en/war/145017-ukrainian-military-launch-of-one-himars-missile-costs-150000-and-a-full-launch-costs-1000000/",
         "timestamp": 1657446850,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 10, 2022 5:54 AM"
     },
     {
@@ -131,7 +131,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/visegrad24/status/1545896619484348416",
         "timestamp": 1657447179,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 10, 2022 5:59 AM"
     },
     {
@@ -140,7 +140,7 @@
         "category": "politics",
         "link": "https://www.npr.org/2022/07/10/1110608236/arizona-law-limiting-recording-of-police",
         "timestamp": 1657447210,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 10, 2022 6:00 AM"
     },
     {
@@ -149,7 +149,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/ukraine_map/status/1546049511101005824?t=TKJLJgGV-bSiP2ambtjX6A&s=09",
         "timestamp": 1657447816,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 10, 2022 6:10 AM"
     },
     {
@@ -167,7 +167,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/russian-gas-cutoff-most-likely-scenario-french-finance-minister-2022-07-10/",
         "timestamp": 1657448419,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 10, 2022 6:20 AM"
     },
     {
@@ -176,8 +176,17 @@
         "category": "UpliftingNews",
         "link": "https://slate.com/business/2022/07/inflation-shipping-goods-china.html",
         "timestamp": 1657448545,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 10, 2022 6:22 AM"
+    },
+    {
+        "title": "European Super League may get a new lease of life as court hears UEFA 'cartel' claim",
+        "domain": "mirror.co.uk",
+        "category": "sports",
+        "link": "https://www.mirror.co.uk/sport/football/news/european-super-league-uefa-cartel-27420775",
+        "timestamp": 1657448788,
+        "sentiment": 3,
+        "published": "July 10, 2022 6:26 AM"
     },
     {
         "title": "Chris McCausland lands C4 travel show \"The Wonders of the World I Can't See\"",
@@ -203,7 +212,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/russia-hits-ukrainian-hangars-storing-us-made-artillery-weapons-2022-07-10/",
         "timestamp": 1657450513,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 10, 2022 6:55 AM"
     },
     {
@@ -212,7 +221,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/uk-news/2022/jul/10/growing-culture-of-extremism-among-uk-and-european-police-forces-report-warns",
         "timestamp": 1657450812,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 10, 2022 7:00 AM"
     },
     {
@@ -221,7 +230,7 @@
         "category": "technology",
         "link": "https://www.reuters.com/business/aerospace-defense/nasa-showcase-webb-space-telescopes-first-full-color-images-2022-07-10/",
         "timestamp": 1657451565,
-        "sentiment": -4,
+        "sentiment": -5,
         "published": "July 10, 2022 7:12 AM"
     },
     {
@@ -230,7 +239,7 @@
         "category": "news",
         "link": "https://www.washingtonpost.com/nation/2022/07/09/hoa-ducks-foreclosure/",
         "timestamp": 1657452156,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 10, 2022 7:22 AM"
     },
     {
@@ -239,7 +248,7 @@
         "category": "politics",
         "link": "https://www.nbcnews.com/politics/donald-trump/jan-6-panel-ex-white-house-lawyer-spoke-trumps-supreme-dereliction-dut-rcna37479",
         "timestamp": 1657452493,
-        "sentiment": -1,
+        "sentiment": -2,
         "published": "July 10, 2022 7:28 AM"
     },
     {
@@ -248,7 +257,7 @@
         "category": "technology",
         "link": "https://www.space.com/james-webb-space-telescope-science-photos-webcast",
         "timestamp": 1657453171,
-        "sentiment": -4,
+        "sentiment": -5,
         "published": "July 10, 2022 7:39 AM"
     },
     {
@@ -266,7 +275,7 @@
         "category": "UpliftingNews",
         "link": "https://abcnews.go.com/International/rhino-population-sanctuary-mozambique/story?id=86305734",
         "timestamp": 1657453531,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 10, 2022 7:45 AM"
     },
     {
@@ -275,8 +284,143 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/russia-quiet-mobilization-22k-vacancies-army-losses-ukraine-war-1723201",
         "timestamp": 1657453659,
-        "sentiment": 1,
+        "sentiment": 0,
         "published": "July 10, 2022 7:47 AM"
+    },
+    {
+        "title": "Two precision missile strikes on Kherson City since this morning. Russian National Guard barracks hit. Locals report of Russians screaming from under the rubble.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/lilygrutcher/status/1546100276372934660?t=ANjZ-dkpFC8Mi_VTFPErlg&s=09",
+        "timestamp": 1657455116,
+        "sentiment": -1,
+        "published": "July 10, 2022 8:11 AM"
+    },
+    {
+        "title": "In Comeback Moment, Up to 150 Fin Whales Spotted Feeding off Antarctica",
+        "domain": "ecowatch.com",
+        "category": "UpliftingNews",
+        "link": "https://www.ecowatch.com/fin-whales-antarctica.html",
+        "timestamp": 1657456088,
+        "sentiment": -2,
+        "published": "July 10, 2022 8:28 AM"
+    },
+    {
+        "title": "Arkansas priorities: Cash for the rich, nothing for school teachers or anyone else at bottom of the scale",
+        "domain": "arktimes.com",
+        "category": "politics",
+        "link": "https://arktimes.com/arkansas-blog/2022/07/09/arkansas-priorities-cash-for-the-rich-nothing-for-school-teachers-or-anyone-else-at-bottom-of-the-scale",
+        "timestamp": 1657456417,
+        "sentiment": -2,
+        "published": "July 10, 2022 8:33 AM"
+    },
+    {
+        "title": "Britain could reach 40C by mid-July, forecast computer models predict for first time",
+        "domain": "news.sky.com",
+        "category": "worldnews",
+        "link": "https://news.sky.com/story/britain-could-reach-40c-by-mid-july-forecast-computer-models-predict-for-first-time-12648278",
+        "timestamp": 1657457345,
+        "sentiment": 0,
+        "published": "July 10, 2022 8:49 AM"
+    },
+    {
+        "title": "Survey suggests majority of Americans say concerns over charging logistics kept them from buying an electric car",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/charging-logistics-top-barrier-to-electric-car-adoption-survey-2022-7",
+        "timestamp": 1657457706,
+        "sentiment": -5,
+        "published": "July 10, 2022 8:55 AM"
+    },
+    {
+        "title": "Zelensky: Russia fired ‘deliberately, purposefully’ at ‘ordinary houses’",
+        "domain": "thehill.com",
+        "category": "worldnews",
+        "link": "https://thehill.com/policy/defense/3551360-zelensky-russia-fired-deliberately-purposefully-at-ordinary-houses/",
+        "timestamp": 1657458165,
+        "sentiment": 0,
+        "published": "July 10, 2022 9:02 AM"
+    },
+    {
+        "title": "America needs a true wealth tax: Here's our plan to tax the rich — the really, really rich",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/07/10/america-needs-a-real-wealth-tax-heres-our-plan-to-the-rich--the-really-really-rich/",
+        "timestamp": 1657458905,
+        "sentiment": -2,
+        "published": "July 10, 2022 9:15 AM"
+    },
+    {
+        "title": "Elon Musk’s purchase of Twitter would have led to more hate speech, misinformation",
+        "domain": "cultmtl.com",
+        "category": "technology",
+        "link": "https://cultmtl.com/2022/07/elon-musks-purchase-of-twitter-would-have-led-to-more-hate-speech-misinformation-free-speach/",
+        "timestamp": 1657459907,
+        "sentiment": -5,
+        "published": "July 10, 2022 9:31 AM"
+    },
+    {
+        "title": "Zelenskyy has consolidated Ukraine's TV outlets and dissolved rival political parties",
+        "domain": "npr.org",
+        "category": "worldnews",
+        "link": "https://www.npr.org/2022/07/08/1110577439/zelenskyy-has-consolidated-ukraines-tv-outlets-and-dissolved-rival-political-par?utm_source=facebook&utm_medium=news_tab",
+        "timestamp": 1657460480,
+        "sentiment": 0,
+        "published": "July 10, 2022 9:41 AM"
+    },
+    {
+        "title": "Morton's has been flooded with phone calls and fake reservations after it said Brett Kavanaugh had a 'right' to 'eat dinner' without protestors gathering outside",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/brett-kavanaugh-dinner-mortons-swamped-calls-fake-reservations-roe-overturn-2022-7",
+        "timestamp": 1657461372,
+        "sentiment": -2,
+        "published": "July 10, 2022 9:56 AM"
+    },
+    {
+        "title": "Did Sheila Cherfilus-McCormick buy her seat with taxpayer money earmarked for vaccines?",
+        "domain": "floridapolitics.com",
+        "category": "FLgovernment",
+        "link": "https://floridapolitics.com/archives/532516-did-sheila-cherfilus-mccormick-buy-her-seat-with-taxpayer-money-earmarked-for-vaccines/",
+        "timestamp": 1657461423,
+        "sentiment": 0,
+        "published": "July 10, 2022 9:57 AM"
+    },
+    {
+        "title": "Abbott says it has reopened Michigan baby formula plant",
+        "domain": "reuters.com",
+        "category": "UpliftingNews",
+        "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/abbott-says-it-has-reopened-michigan-baby-formula-plant-2022-07-09/",
+        "timestamp": 1657461986,
+        "sentiment": -2,
+        "published": "July 10, 2022 10:06 AM"
+    },
+    {
+        "title": "Boris Johnson is (almost) gone. Here's who could replace him.",
+        "domain": "nbcnews.com",
+        "category": "UpliftingNews",
+        "link": "https://www.nbcnews.com/news/world/who-will-replace-british-prime-minister-boris-johnson-rcna37441",
+        "timestamp": 1657462291,
+        "sentiment": -2,
+        "published": "July 10, 2022 10:11 AM"
+    },
+    {
+        "title": "Blinken to travel to Japan to pay respects following Abe assassination",
+        "domain": "nbcnews.com",
+        "category": "UpliftingNews",
+        "link": "https://www.nbcnews.com/politics/politics-news/blinken-travel-japan-pay-respects-abe-assassination-rcna37492",
+        "timestamp": 1657462883,
+        "sentiment": -2,
+        "published": "July 10, 2022 10:21 AM"
+    },
+    {
+        "title": "Reno, Nevada, man's DNA linked to 1982 murder of California girl, 5, DA says",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/reno-nevada-mans-dna-linked-1982-murder-california-girl-5-da-says-rcna37476",
+        "timestamp": 1657434116,
+        "sentiment": -2,
+        "published": "July 10, 2022 2:21 AM"
     },
     {
         "title": "PrimeDay deal - Get Audiible Premium Plus 3 months free, $50 value!",
@@ -295,33 +439,6 @@
         "timestamp": 1657455792,
         "sentiment": 0,
         "published": "July 10, 2022 8:23 AM"
-    },
-    {
-        "title": "In Comeback Moment, Up to 150 Fin Whales Spotted Feeding off Antarctica",
-        "domain": "ecowatch.com",
-        "category": "UpliftingNews",
-        "link": "https://www.ecowatch.com/fin-whales-antarctica.html",
-        "timestamp": 1657456088,
-        "sentiment": 0,
-        "published": "July 10, 2022 8:28 AM"
-    },
-    {
-        "title": "Britain could reach 40C by mid-July, forecast computer models predict for first time",
-        "domain": "news.sky.com",
-        "category": "worldnews",
-        "link": "https://news.sky.com/story/britain-could-reach-40c-by-mid-july-forecast-computer-models-predict-for-first-time-12648278",
-        "timestamp": 1657457345,
-        "sentiment": 1,
-        "published": "July 10, 2022 8:49 AM"
-    },
-    {
-        "title": "Survey suggests majority of Americans say concerns over charging logistics kept them from buying an electric car",
-        "domain": "businessinsider.com",
-        "category": "technology",
-        "link": "https://www.businessinsider.com/charging-logistics-top-barrier-to-electric-car-adoption-survey-2022-7",
-        "timestamp": 1657457706,
-        "sentiment": -4,
-        "published": "July 10, 2022 8:55 AM"
     },
     {
         "title": "New tropics ozone hole is 7 times bigger than Antarctic hole, study says",
@@ -376,15 +493,6 @@
         "timestamp": 1657430322,
         "sentiment": -2,
         "published": "July 10, 2022 1:18 AM"
-    },
-    {
-        "title": "Vladimir Putin ‘to become dad again’ at 69 years old",
-        "domain": "news.com.au",
-        "category": "worldnews",
-        "link": "https://www.news.com.au/world/europe/vladimir-putin-to-become-dad-again-at-69-years-old/news-story/26eb6efcf7be737cc8ae4b4f51782a13",
-        "timestamp": 1657441846,
-        "sentiment": -2,
-        "published": "July 10, 2022 4:30 AM"
     },
     {
         "title": "Japan elections in shadow of Abe assassination",
