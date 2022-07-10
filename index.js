@@ -106,6 +106,8 @@ async function scrape() {
 	var fileSizeInBytes = stats.size;
 	dataset.size = fileSizeInBytes / (1024*1024);
 
+	dataset.timestamp = server.timestamp('LLL')
+
 	await server.write('./headlines.json', JSON.stringify(dataset, null, 4))
 
 	await server.write('./readme.md', readme(dataset))
