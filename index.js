@@ -15,6 +15,8 @@ const moment = require('moment')
 const snoowrap = require('snoowrap')
 const Sentiment = require('sentiment')
 
+const readme = require('./readme.js')
+
 const reddit = new snoowrap({
     userAgent: 'put your user-agent string here',
     clientId: process.env.REDDIT_CLIENT_ID,
@@ -100,7 +102,12 @@ async function scrape() {
 
 	dataset = _.uniqBy(dataset, 'title')
 
-	fs.writeFileSync('./headlines.json', JSON.stringify(dataset, null, 4));
+	await server.write('./headlines.json', JSON.stringify(dataset, null, 4))
+
+	await server.write('./readme.md', readme(dataset))
+
+	// fs.writeFileSync('./headlines.json', )
+	// fs.writeFileSync('./headlines.json', JSON.stringify(dataset, null, 4))
 
 }
 
