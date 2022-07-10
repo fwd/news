@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.fox19.com/2022/07/08/transgender-butler-county-man-says-group-beat-him-up-using-wrong-restroom/",
         "timestamp": 1657426094,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 10, 2022 12:08 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "science",
         "link": "https://www.mdpi.com/2071-1050/14/12/7293",
         "timestamp": 1657427419,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 10, 2022 12:30 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "politics",
         "link": "https://jacobin.com/2022/07/fdr-was-right-to-attack-the-supreme-courts-power-democrats-should-do-the-same-today",
         "timestamp": 1657427734,
-        "sentiment": -2,
+        "sentiment": -4,
         "published": "July 10, 2022 12:35 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "nottheonion",
         "link": "https://www.bbc.com/news/world-us-canada-62100403",
         "timestamp": 1657432172,
-        "sentiment": -3,
+        "sentiment": -4,
         "published": "July 10, 2022 1:49 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "news",
         "link": "https://www.abc15.com/news/local-news/investigations/flagstaff-pd-officers-fully-naked-fondled-during-massage-investigation",
         "timestamp": 1657434594,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 10, 2022 2:29 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "science",
         "link": "https://newatlas.com/physics/electron-whirlpools-fluid-flow-electricity/",
         "timestamp": 1657435147,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 10, 2022 2:39 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.rfa.org/english/news/china/polygraph-loyalty-07042022131133.html",
         "timestamp": 1657436981,
-        "sentiment": 3,
+        "sentiment": 2,
         "published": "July 10, 2022 3:09 AM"
     },
     {
@@ -86,8 +86,440 @@
         "category": "science",
         "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269448",
         "timestamp": 1657438247,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 10, 2022 3:30 AM"
+    },
+    {
+        "title": "TikTok ‘frog army’ stunt could have grave consequences, experts warn",
+        "domain": "theguardian.com",
+        "category": "nottheonion",
+        "link": "https://www.theguardian.com/technology/2022/jul/10/tiktok-frog-army-stunt",
+        "timestamp": 1657441823,
+        "sentiment": -4,
+        "published": "July 10, 2022 4:30 AM"
+    },
+    {
+        "title": "Vladimir Putin ‘to become dad again’ at 69 years old",
+        "domain": "news.com.au",
+        "category": "news",
+        "link": "https://www.news.com.au/world/europe/vladimir-putin-to-become-dad-again-at-69-years-old/news-story/26eb6efcf7be737cc8ae4b4f51782a13",
+        "timestamp": 1657446641,
+        "sentiment": -1,
+        "published": "July 10, 2022 5:50 AM"
+    },
+    {
+        "title": "Launch of one HIMARS missile costs $150,000, and a full launch costs $1,000,000",
+        "domain": "gagadget.com",
+        "category": "ukraine",
+        "link": "https://gagadget.com/en/war/145017-ukrainian-military-launch-of-one-himars-missile-costs-150000-and-a-full-launch-costs-1000000/",
+        "timestamp": 1657446850,
+        "sentiment": -5,
+        "published": "July 10, 2022 5:54 AM"
+    },
+    {
+        "title": "After the Bucha Massacre, Russian soldier Viktor Bulatov wrote on social media “We need to arrange a Bucha in every khokhol* (slur for Ukrainians) city from Kharkiv to Lviv\". Today, the authorities in his hometown confirmed that he has been killed in battle by the Ukrainian Army",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/visegrad24/status/1545896619484348416",
+        "timestamp": 1657447179,
+        "sentiment": -5,
+        "published": "July 10, 2022 5:59 AM"
+    },
+    {
+        "title": "First Amendment advocates respond to Arizona law limiting recording of police",
+        "domain": "npr.org",
+        "category": "politics",
+        "link": "https://www.npr.org/2022/07/10/1110608236/arizona-law-limiting-recording-of-police",
+        "timestamp": 1657447210,
+        "sentiment": -4,
+        "published": "July 10, 2022 6:00 AM"
+    },
+    {
+        "title": "Mindfulness Meditation Reduces Pain by Separating it from the Self. Researchers found that participants who were actively meditating reported a 32 percent reduction in pain intensity and a 33 percent reduction in pain unpleasantness.",
+        "domain": "ucsdnews.ucsd.edu",
+        "category": "science",
+        "link": "https://ucsdnews.ucsd.edu/pressrelease/mindfulness-meditation-reduces-pain-by-separating-it-from-the-self",
+        "timestamp": 1657448003,
+        "sentiment": 2,
+        "published": "July 10, 2022 6:13 AM"
+    },
+    {
+        "title": "France prepares for total cutoff of Russian gas",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/russian-gas-cutoff-most-likely-scenario-french-finance-minister-2022-07-10/",
+        "timestamp": 1657448419,
+        "sentiment": 2,
+        "published": "July 10, 2022 6:20 AM"
+    },
+    {
+        "title": "A Big Flashing Signal That Goods Could Get Cheaper Soon",
+        "domain": "slate.com",
+        "category": "UpliftingNews",
+        "link": "https://slate.com/business/2022/07/inflation-shipping-goods-china.html",
+        "timestamp": 1657448545,
+        "sentiment": -1,
+        "published": "July 10, 2022 6:22 AM"
+    },
+    {
+        "title": "Chris McCausland lands C4 travel show \"The Wonders of the World I Can't See\"",
+        "domain": "chortle.co.uk",
+        "category": "television",
+        "link": "https://www.chortle.co.uk/news/2022/07/08/51112/chris_mccausland_lands_c4_travel_show",
+        "timestamp": 1657448991,
+        "sentiment": 0,
+        "published": "July 10, 2022 6:29 AM"
+    },
+    {
+        "title": "Researchers showed that adults over the age of 65 with hypothyroidism were 80% more likely to develop dementia than those of the same age who did not have thyroid issues after adjusting for other factors that could impact the risk of dementia, such as sex, age, high blood pressure, and diabetes.",
+        "domain": "n.neurology.org",
+        "category": "science",
+        "link": "https://n.neurology.org/content/early/2022/07/06/WNL.0000000000200740",
+        "timestamp": 1657449188,
+        "sentiment": 2,
+        "published": "July 10, 2022 6:33 AM"
+    },
+    {
+        "title": "Russia hits Ukrainian hangars storing U.S.-made artillery weapons",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/russia-hits-ukrainian-hangars-storing-us-made-artillery-weapons-2022-07-10/",
+        "timestamp": 1657450513,
+        "sentiment": 2,
+        "published": "July 10, 2022 6:55 AM"
+    },
+    {
+        "title": "Growing ‘culture of extremism’ among UK and European police forces, report warns",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/uk-news/2022/jul/10/growing-culture-of-extremism-among-uk-and-european-police-forces-report-warns",
+        "timestamp": 1657450812,
+        "sentiment": 2,
+        "published": "July 10, 2022 7:00 AM"
+    },
+    {
+        "title": "Fish Leong song, Unfortunately Not You, removed from Chinese platform after Shinzo Abe's death",
+        "domain": "straitstimes.com",
+        "category": "nottheonion",
+        "link": "https://www.straitstimes.com/life/entertainment/fish-leong-song-unfortunately-not-you-removed-from-chinese-platform-after-shinzo-abes-death",
+        "timestamp": 1657450896,
+        "sentiment": -4,
+        "published": "July 10, 2022 7:01 AM"
+    },
+    {
+        "title": "NASA to showcase Webb space telescope's first full-color images",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/business/aerospace-defense/nasa-showcase-webb-space-telescopes-first-full-color-images-2022-07-10/",
+        "timestamp": 1657451565,
+        "sentiment": 2,
+        "published": "July 10, 2022 7:12 AM"
+    },
+    {
+        "title": "A couple fed nearby ducks. Now, their HOA is threatening to foreclose.",
+        "domain": "washingtonpost.com",
+        "category": "news",
+        "link": "https://www.washingtonpost.com/nation/2022/07/09/hoa-ducks-foreclosure/",
+        "timestamp": 1657452156,
+        "sentiment": -1,
+        "published": "July 10, 2022 7:22 AM"
+    },
+    {
+        "title": "Jan. 6 panel: Ex-White House lawyer spoke of 'Trump’s supreme dereliction of duty'",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/politics/donald-trump/jan-6-panel-ex-white-house-lawyer-spoke-trumps-supreme-dereliction-dut-rcna37479",
+        "timestamp": 1657452493,
+        "sentiment": -4,
+        "published": "July 10, 2022 7:28 AM"
+    },
+    {
+        "title": "NASA will unveil the James Webb Space Telescope's 1st science photos this week. Here's how to watch.",
+        "domain": "space.com",
+        "category": "technology",
+        "link": "https://www.space.com/james-webb-space-telescope-science-photos-webcast",
+        "timestamp": 1657453171,
+        "sentiment": 2,
+        "published": "July 10, 2022 7:39 AM"
+    },
+    {
+        "title": "Rhinos return to Mozambique after 40 years",
+        "domain": "abcnews.go.com",
+        "category": "UpliftingNews",
+        "link": "https://abcnews.go.com/International/rhino-population-sanctuary-mozambique/story?id=86305734",
+        "timestamp": 1657453531,
+        "sentiment": -1,
+        "published": "July 10, 2022 7:45 AM"
+    },
+    {
+        "title": "Europe is facing one of its toughest years for extreme weather",
+        "domain": "euronews.com",
+        "category": "worldnews",
+        "link": "https://www.euronews.com/2022/07/08/europe-is-facing-one-of-its-toughest-years-for-extreme-weather-with-many-countries-affecte",
+        "timestamp": 1657454436,
+        "sentiment": 2,
+        "published": "July 10, 2022 8:00 AM"
+    },
+    {
+        "title": "We need 'lots of drones' from the West to help defeat Vladimir Putin, Ukraine minister says",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-us/news/world/we-need-lots-of-drones-from-the-west-to-help-defeat-vladimir-putin-ukraine-minister-says/ar-AAZpSoT?ocid=EMMX&cvid=912e8c6685aa4a5f95f02e7c5ca40b89",
+        "timestamp": 1657455057,
+        "sentiment": 2,
+        "published": "July 10, 2022 8:10 AM"
+    },
+    {
+        "title": "Two precision missile strikes on Kherson City since this morning. Russian National Guard barracks hit. Locals report of Russians screaming from under the rubble.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/lilygrutcher/status/1546100276372934660?t=ANjZ-dkpFC8Mi_VTFPErlg&s=09",
+        "timestamp": 1657455116,
+        "sentiment": -5,
+        "published": "July 10, 2022 8:11 AM"
+    },
+    {
+        "title": "“Look at Keir Starmer – he should be punished same as Boris.”",
+        "domain": "theguardian.com",
+        "category": "nottheonion",
+        "link": "https://www.theguardian.com/politics/2022/jul/10/boris-was-stabbed-in-the-back-voters-in-tory-heartland-spalding-defend-boris-johnson?CMP=Share_iOSApp_Other",
+        "timestamp": 1657455962,
+        "sentiment": -4,
+        "published": "July 10, 2022 8:26 AM"
+    },
+    {
+        "title": "In Comeback Moment, Up to 150 Fin Whales Spotted Feeding off Antarctica",
+        "domain": "ecowatch.com",
+        "category": "UpliftingNews",
+        "link": "https://www.ecowatch.com/fin-whales-antarctica.html",
+        "timestamp": 1657456088,
+        "sentiment": -1,
+        "published": "July 10, 2022 8:28 AM"
+    },
+    {
+        "title": "South Korea detects shots apparently launched by North Korea",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/world/asia-pacific/south-korea-detects-shots-apparently-launched-by-north-korea-2022-07-10/",
+        "timestamp": 1657456104,
+        "sentiment": -1,
+        "published": "July 10, 2022 8:28 AM"
+    },
+    {
+        "title": "Arkansas priorities: Cash for the rich, nothing for school teachers or anyone else at bottom of the scale",
+        "domain": "arktimes.com",
+        "category": "politics",
+        "link": "https://arktimes.com/arkansas-blog/2022/07/09/arkansas-priorities-cash-for-the-rich-nothing-for-school-teachers-or-anyone-else-at-bottom-of-the-scale",
+        "timestamp": 1657456417,
+        "sentiment": -4,
+        "published": "July 10, 2022 8:33 AM"
+    },
+    {
+        "title": "Survey suggests majority of Americans say concerns over charging logistics kept them from buying an electric car",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/charging-logistics-top-barrier-to-electric-car-adoption-survey-2022-7",
+        "timestamp": 1657457706,
+        "sentiment": 2,
+        "published": "July 10, 2022 8:55 AM"
+    },
+    {
+        "title": "Zelensky: Russia fired ‘deliberately, purposefully’ at ‘ordinary houses’",
+        "domain": "thehill.com",
+        "category": "worldnews",
+        "link": "https://thehill.com/policy/defense/3551360-zelensky-russia-fired-deliberately-purposefully-at-ordinary-houses/",
+        "timestamp": 1657458165,
+        "sentiment": 2,
+        "published": "July 10, 2022 9:02 AM"
+    },
+    {
+        "title": "America needs a true wealth tax: Here's our plan to tax the rich — the really, really rich",
+        "domain": "salon.com",
+        "category": "politics",
+        "link": "https://www.salon.com/2022/07/10/america-needs-a-real-wealth-tax-heres-our-plan-to-the-rich--the-really-really-rich/",
+        "timestamp": 1657458905,
+        "sentiment": -4,
+        "published": "July 10, 2022 9:15 AM"
+    },
+    {
+        "title": "Elon Musk’s purchase of Twitter would have led to more hate speech, misinformation",
+        "domain": "cultmtl.com",
+        "category": "technology",
+        "link": "https://cultmtl.com/2022/07/elon-musks-purchase-of-twitter-would-have-led-to-more-hate-speech-misinformation-free-speach/",
+        "timestamp": 1657459907,
+        "sentiment": 2,
+        "published": "July 10, 2022 9:31 AM"
+    },
+    {
+        "title": "California will start making its own insulin to combat high drug prices, governor Newsom says",
+        "domain": "cbsnews.com",
+        "category": "politics",
+        "link": "https://www.cbsnews.com/news/insulin-california-fight-rising-prices-gavin-newsom/?ftag=CNM-00-10aab7e&linkId=172619129",
+        "timestamp": 1657459921,
+        "sentiment": -4,
+        "published": "July 10, 2022 9:32 AM"
+    },
+    {
+        "title": "Half a Wiseguy: The Genius and the Menace of Paulie Walnuts",
+        "domain": "theringer.com",
+        "category": "television",
+        "link": "https://www.theringer.com/tv/2022/7/10/23202680/sopranos-tony-sirico-obituary-paulie-walnuts-gualtieri",
+        "timestamp": 1657460207,
+        "sentiment": 0,
+        "published": "July 10, 2022 9:36 AM"
+    },
+    {
+        "title": "Morton's has been flooded with phone calls and fake reservations after it said Brett Kavanaugh had a 'right' to 'eat dinner' without protestors gathering outside",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/brett-kavanaugh-dinner-mortons-swamped-calls-fake-reservations-roe-overturn-2022-7",
+        "timestamp": 1657461372,
+        "sentiment": -4,
+        "published": "July 10, 2022 9:56 AM"
+    },
+    {
+        "title": "Did Sheila Cherfilus-McCormick buy her seat with taxpayer money earmarked for vaccines?",
+        "domain": "floridapolitics.com",
+        "category": "FLgovernment",
+        "link": "https://floridapolitics.com/archives/532516-did-sheila-cherfilus-mccormick-buy-her-seat-with-taxpayer-money-earmarked-for-vaccines/",
+        "timestamp": 1657461423,
+        "sentiment": 0,
+        "published": "July 10, 2022 9:57 AM"
+    },
+    {
+        "title": "Sarasota County school board sued over ‘obscene’ library materials",
+        "domain": "mysuncoast.com",
+        "category": "news",
+        "link": "https://www.mysuncoast.com/2022/07/08/sarasota-county-school-board-sued-over-obscene-library-materials/",
+        "timestamp": 1657461606,
+        "sentiment": -1,
+        "published": "July 10, 2022 10:00 AM"
+    },
+    {
+        "title": "Abbott says it has reopened Michigan baby formula plant",
+        "domain": "reuters.com",
+        "category": "UpliftingNews",
+        "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/abbott-says-it-has-reopened-michigan-baby-formula-plant-2022-07-09/",
+        "timestamp": 1657461986,
+        "sentiment": -1,
+        "published": "July 10, 2022 10:06 AM"
+    },
+    {
+        "title": "Boris Johnson is (almost) gone. Here's who could replace him.",
+        "domain": "nbcnews.com",
+        "category": "UpliftingNews",
+        "link": "https://www.nbcnews.com/news/world/who-will-replace-british-prime-minister-boris-johnson-rcna37441",
+        "timestamp": 1657462291,
+        "sentiment": -1,
+        "published": "July 10, 2022 10:11 AM"
+    },
+    {
+        "title": "Tech workers would rather quit than work for Big Brother bosses",
+        "domain": "itbrew.com",
+        "category": "technology",
+        "link": "https://www.itbrew.com/stories/2022/06/15/half-of-tech-workers-would-quit-if-their-boss-went-big-brother",
+        "timestamp": 1657462519,
+        "sentiment": 2,
+        "published": "July 10, 2022 10:15 AM"
+    },
+    {
+        "title": "Elon Musk may have to complete $44bn Twitter takeover, legal experts say",
+        "domain": "theguardian.com",
+        "category": "technology",
+        "link": "https://www.theguardian.com/technology/2022/jul/10/elon-musk-may-have-to-complete-44bn-twitter-takeover-legal-experts-say",
+        "timestamp": 1657463878,
+        "sentiment": 2,
+        "published": "July 10, 2022 10:37 AM"
+    },
+    {
+        "title": "Stranger Things subtitle guy admits he was “trolling a little bit” with [tentacles undulating moistly].",
+        "domain": "avclub.com",
+        "category": "television",
+        "link": "https://www.avclub.com/stranger-things-subtitle-guy-talks-about-tentacles-und-1849161218",
+        "timestamp": 1657464615,
+        "sentiment": 0,
+        "published": "July 10, 2022 10:50 AM"
+    },
+    {
+        "title": "APD: SWAT standoff ends with house fire, 14-year-old killed",
+        "domain": "kob.com",
+        "category": "news",
+        "link": "https://www.kob.com/new-mexico/apd-one-dead-one-detained-following-overnight-swat-operation/",
+        "timestamp": 1657465089,
+        "sentiment": -1,
+        "published": "July 10, 2022 10:58 AM"
+    },
+    {
+        "title": "Both gun owners and non-gun owners trust kids’ doctors in gun safety talks",
+        "domain": "digitalcommons.library.tmc.edu",
+        "category": "science",
+        "link": "https://digitalcommons.library.tmc.edu/childrenatrisk/vol12/iss2/2/",
+        "timestamp": 1657465875,
+        "sentiment": 2,
+        "published": "July 10, 2022 11:11 AM"
+    },
+    {
+        "title": "Dire US labor shortage provides opportunity for ex-prisoners",
+        "domain": "apnews.com",
+        "category": "UpliftingNews",
+        "link": "https://apnews.com/article/job-market-gives-ex-prisoners-second-chance-97bed3d56214275ad407a9ee234f781d",
+        "timestamp": 1657465908,
+        "sentiment": -1,
+        "published": "July 10, 2022 11:11 AM"
+    },
+    {
+        "title": "Episodes of Diversification and Isolation in Island Southeast Asian and Near Oceanian Male Lineages | Molecular Biology and Evolution",
+        "domain": "academic.oup.com",
+        "category": "science",
+        "link": "https://academic.oup.com/mbe/article/39/3/msac045/6539761?login=true#340649742",
+        "timestamp": 1657466013,
+        "sentiment": 2,
+        "published": "July 10, 2022 11:13 AM"
+    },
+    {
+        "title": "First Look at 'X-Men '97', 'Marvel Zombies' and 'What If...?' Season 2 Confirmed for San Diego Comic-Con on July 22",
+        "domain": "murphysmultiverse.com",
+        "category": "television",
+        "link": "https://www.murphysmultiverse.com/first-look-at-x-men-97-marvel-zombies-and-what-if-season-2-confirmed-for-sdcc/",
+        "timestamp": 1657466549,
+        "sentiment": 0,
+        "published": "July 10, 2022 11:22 AM"
+    },
+    {
+        "title": "Sheriff and sergeant threaten to arrest each other over concerning reason",
+        "domain": "marca.com",
+        "category": "nottheonion",
+        "link": "https://www.marca.com/en/lifestyle/us-news/2022/07/04/62c23a6f268e3e89498b45ae.html",
+        "timestamp": 1657468671,
+        "sentiment": -4,
+        "published": "July 10, 2022 11:57 AM"
+    },
+    {
+        "title": "Novak Djokovic Defeats Nick Kyrgios to win Seventh Wimbledon, 21st Grand Slam Title",
+        "domain": "lastwordonsports.com",
+        "category": "sports",
+        "link": "https://lastwordonsports.com/tennis/2022/07/10/novak-djokovic-nick-kyrgios-seventh-wimbledon-21st-grand-slam/?fbclid=IwAR02UyFTUOPdE6qyjs-4cutrv46iUNZ8aWvXK3fIXrWsPHrxjIq7g4CsaOQ",
+        "timestamp": 1657469482,
+        "sentiment": 0,
+        "published": "July 10, 2022 12:11 PM"
+    },
+    {
+        "title": "Djokovic wins his seventh Wimbledon title",
+        "domain": "theguardian.com",
+        "category": "sports",
+        "link": "https://www.theguardian.com/sport/live/2022/jul/10/novak-djokovic-v-nick-krygios-wimbledon-mens-singles-final-live",
+        "timestamp": 1657469586,
+        "sentiment": 0,
+        "published": "July 10, 2022 12:13 PM"
+    },
+    {
+        "title": "Novak Djokovic beats Nick Kyrgios in Wimbledon men's final",
+        "domain": "news.sky.com",
+        "category": "sports",
+        "link": "https://news.sky.com/story/novak-djokovic-beats-nick-kyrgios-in-wimbledon-mens-final-12649472",
+        "timestamp": 1657470856,
+        "sentiment": 0,
+        "published": "July 10, 2022 12:34 PM"
     },
     {
         "title": "The Crows now seek glory—but often find tragedy—in basketball",
@@ -117,42 +549,6 @@
         "published": "July 10, 2022 5:37 AM"
     },
     {
-        "title": "Vladimir Putin ‘to become dad again’ at 69 years old",
-        "domain": "news.com.au",
-        "category": "news",
-        "link": "https://www.news.com.au/world/europe/vladimir-putin-to-become-dad-again-at-69-years-old/news-story/26eb6efcf7be737cc8ae4b4f51782a13",
-        "timestamp": 1657446641,
-        "sentiment": 0,
-        "published": "July 10, 2022 5:50 AM"
-    },
-    {
-        "title": "Launch of one HIMARS missile costs $150,000, and a full launch costs $1,000,000",
-        "domain": "gagadget.com",
-        "category": "ukraine",
-        "link": "https://gagadget.com/en/war/145017-ukrainian-military-launch-of-one-himars-missile-costs-150000-and-a-full-launch-costs-1000000/",
-        "timestamp": 1657446850,
-        "sentiment": -5,
-        "published": "July 10, 2022 5:54 AM"
-    },
-    {
-        "title": "After the Bucha Massacre, Russian soldier Viktor Bulatov wrote on social media “We need to arrange a Bucha in every khokhol* (slur for Ukrainians) city from Kharkiv to Lviv\". Today, the authorities in his hometown confirmed that he has been killed in battle by the Ukrainian Army",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/visegrad24/status/1545896619484348416",
-        "timestamp": 1657447179,
-        "sentiment": -5,
-        "published": "July 10, 2022 5:59 AM"
-    },
-    {
-        "title": "First Amendment advocates respond to Arizona law limiting recording of police",
-        "domain": "npr.org",
-        "category": "politics",
-        "link": "https://www.npr.org/2022/07/10/1110608236/arizona-law-limiting-recording-of-police",
-        "timestamp": 1657447210,
-        "sentiment": -2,
-        "published": "July 10, 2022 6:00 AM"
-    },
-    {
         "title": "Tonight in Ukraine 🇺🇦 there were at least 11 new missile strikes on Russian military targets by HIMARS Big Explosions occurred in Mariupol, Alchevsk, Shakhtarsk, Kirovske, Khartsyzk, Chystiakove, Zuhres, Prydorozhnje, Ilovaisk, Kalina Mine & Leninskyi District in Donetsk City",
         "domain": "twitter.com",
         "category": "ukraine",
@@ -160,105 +556,6 @@
         "timestamp": 1657447816,
         "sentiment": -5,
         "published": "July 10, 2022 6:10 AM"
-    },
-    {
-        "title": "Mindfulness Meditation Reduces Pain by Separating it from the Self. Researchers found that participants who were actively meditating reported a 32 percent reduction in pain intensity and a 33 percent reduction in pain unpleasantness.",
-        "domain": "ucsdnews.ucsd.edu",
-        "category": "science",
-        "link": "https://ucsdnews.ucsd.edu/pressrelease/mindfulness-meditation-reduces-pain-by-separating-it-from-the-self",
-        "timestamp": 1657448003,
-        "sentiment": 0,
-        "published": "July 10, 2022 6:13 AM"
-    },
-    {
-        "title": "France prepares for total cutoff of Russian gas",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/europe/russian-gas-cutoff-most-likely-scenario-french-finance-minister-2022-07-10/",
-        "timestamp": 1657448419,
-        "sentiment": 3,
-        "published": "July 10, 2022 6:20 AM"
-    },
-    {
-        "title": "A Big Flashing Signal That Goods Could Get Cheaper Soon",
-        "domain": "slate.com",
-        "category": "UpliftingNews",
-        "link": "https://slate.com/business/2022/07/inflation-shipping-goods-china.html",
-        "timestamp": 1657448545,
-        "sentiment": -1,
-        "published": "July 10, 2022 6:22 AM"
-    },
-    {
-        "title": "Chris McCausland lands C4 travel show \"The Wonders of the World I Can't See\"",
-        "domain": "chortle.co.uk",
-        "category": "television",
-        "link": "https://www.chortle.co.uk/news/2022/07/08/51112/chris_mccausland_lands_c4_travel_show",
-        "timestamp": 1657448991,
-        "sentiment": 1,
-        "published": "July 10, 2022 6:29 AM"
-    },
-    {
-        "title": "Researchers showed that adults over the age of 65 with hypothyroidism were 80% more likely to develop dementia than those of the same age who did not have thyroid issues after adjusting for other factors that could impact the risk of dementia, such as sex, age, high blood pressure, and diabetes.",
-        "domain": "n.neurology.org",
-        "category": "science",
-        "link": "https://n.neurology.org/content/early/2022/07/06/WNL.0000000000200740",
-        "timestamp": 1657449188,
-        "sentiment": 0,
-        "published": "July 10, 2022 6:33 AM"
-    },
-    {
-        "title": "Russia hits Ukrainian hangars storing U.S.-made artillery weapons",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/europe/russia-hits-ukrainian-hangars-storing-us-made-artillery-weapons-2022-07-10/",
-        "timestamp": 1657450513,
-        "sentiment": 3,
-        "published": "July 10, 2022 6:55 AM"
-    },
-    {
-        "title": "Growing ‘culture of extremism’ among UK and European police forces, report warns",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/uk-news/2022/jul/10/growing-culture-of-extremism-among-uk-and-european-police-forces-report-warns",
-        "timestamp": 1657450812,
-        "sentiment": 3,
-        "published": "July 10, 2022 7:00 AM"
-    },
-    {
-        "title": "NASA to showcase Webb space telescope's first full-color images",
-        "domain": "reuters.com",
-        "category": "technology",
-        "link": "https://www.reuters.com/business/aerospace-defense/nasa-showcase-webb-space-telescopes-first-full-color-images-2022-07-10/",
-        "timestamp": 1657451565,
-        "sentiment": 2,
-        "published": "July 10, 2022 7:12 AM"
-    },
-    {
-        "title": "A couple fed nearby ducks. Now, their HOA is threatening to foreclose.",
-        "domain": "washingtonpost.com",
-        "category": "news",
-        "link": "https://www.washingtonpost.com/nation/2022/07/09/hoa-ducks-foreclosure/",
-        "timestamp": 1657452156,
-        "sentiment": 0,
-        "published": "July 10, 2022 7:22 AM"
-    },
-    {
-        "title": "Jan. 6 panel: Ex-White House lawyer spoke of 'Trump’s supreme dereliction of duty'",
-        "domain": "nbcnews.com",
-        "category": "politics",
-        "link": "https://www.nbcnews.com/politics/donald-trump/jan-6-panel-ex-white-house-lawyer-spoke-trumps-supreme-dereliction-dut-rcna37479",
-        "timestamp": 1657452493,
-        "sentiment": -2,
-        "published": "July 10, 2022 7:28 AM"
-    },
-    {
-        "title": "NASA will unveil the James Webb Space Telescope's 1st science photos this week. Here's how to watch.",
-        "domain": "space.com",
-        "category": "technology",
-        "link": "https://www.space.com/james-webb-space-telescope-science-photos-webcast",
-        "timestamp": 1657453171,
-        "sentiment": 2,
-        "published": "July 10, 2022 7:39 AM"
     },
     {
         "title": "Howie Mandel prolapse video shocks Internet: \"Traumatized\"",
@@ -270,15 +567,6 @@
         "published": "July 10, 2022 7:41 AM"
     },
     {
-        "title": "Rhinos return to Mozambique after 40 years",
-        "domain": "abcnews.go.com",
-        "category": "UpliftingNews",
-        "link": "https://abcnews.go.com/International/rhino-population-sanctuary-mozambique/story?id=86305734",
-        "timestamp": 1657453531,
-        "sentiment": -1,
-        "published": "July 10, 2022 7:45 AM"
-    },
-    {
         "title": "Russia in 'Quiet Mobilization' As 22k Vacancies Show Army Losses: Ukraine",
         "domain": "newsweek.com",
         "category": "worldnews",
@@ -286,33 +574,6 @@
         "timestamp": 1657453659,
         "sentiment": 3,
         "published": "July 10, 2022 7:47 AM"
-    },
-    {
-        "title": "Two precision missile strikes on Kherson City since this morning. Russian National Guard barracks hit. Locals report of Russians screaming from under the rubble.",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/lilygrutcher/status/1546100276372934660?t=ANjZ-dkpFC8Mi_VTFPErlg&s=09",
-        "timestamp": 1657455116,
-        "sentiment": -5,
-        "published": "July 10, 2022 8:11 AM"
-    },
-    {
-        "title": "In Comeback Moment, Up to 150 Fin Whales Spotted Feeding off Antarctica",
-        "domain": "ecowatch.com",
-        "category": "UpliftingNews",
-        "link": "https://www.ecowatch.com/fin-whales-antarctica.html",
-        "timestamp": 1657456088,
-        "sentiment": -1,
-        "published": "July 10, 2022 8:28 AM"
-    },
-    {
-        "title": "Arkansas priorities: Cash for the rich, nothing for school teachers or anyone else at bottom of the scale",
-        "domain": "arktimes.com",
-        "category": "politics",
-        "link": "https://arktimes.com/arkansas-blog/2022/07/09/arkansas-priorities-cash-for-the-rich-nothing-for-school-teachers-or-anyone-else-at-bottom-of-the-scale",
-        "timestamp": 1657456417,
-        "sentiment": -2,
-        "published": "July 10, 2022 8:33 AM"
     },
     {
         "title": "Britain could reach 40C by mid-July, forecast computer models predict for first time",
@@ -324,51 +585,6 @@
         "published": "July 10, 2022 8:49 AM"
     },
     {
-        "title": "Survey suggests majority of Americans say concerns over charging logistics kept them from buying an electric car",
-        "domain": "businessinsider.com",
-        "category": "technology",
-        "link": "https://www.businessinsider.com/charging-logistics-top-barrier-to-electric-car-adoption-survey-2022-7",
-        "timestamp": 1657457706,
-        "sentiment": 2,
-        "published": "July 10, 2022 8:55 AM"
-    },
-    {
-        "title": "Zelensky: Russia fired ‘deliberately, purposefully’ at ‘ordinary houses’",
-        "domain": "thehill.com",
-        "category": "worldnews",
-        "link": "https://thehill.com/policy/defense/3551360-zelensky-russia-fired-deliberately-purposefully-at-ordinary-houses/",
-        "timestamp": 1657458165,
-        "sentiment": 3,
-        "published": "July 10, 2022 9:02 AM"
-    },
-    {
-        "title": "America needs a true wealth tax: Here's our plan to tax the rich — the really, really rich",
-        "domain": "salon.com",
-        "category": "politics",
-        "link": "https://www.salon.com/2022/07/10/america-needs-a-real-wealth-tax-heres-our-plan-to-the-rich--the-really-really-rich/",
-        "timestamp": 1657458905,
-        "sentiment": -2,
-        "published": "July 10, 2022 9:15 AM"
-    },
-    {
-        "title": "Elon Musk’s purchase of Twitter would have led to more hate speech, misinformation",
-        "domain": "cultmtl.com",
-        "category": "technology",
-        "link": "https://cultmtl.com/2022/07/elon-musks-purchase-of-twitter-would-have-led-to-more-hate-speech-misinformation-free-speach/",
-        "timestamp": 1657459907,
-        "sentiment": 2,
-        "published": "July 10, 2022 9:31 AM"
-    },
-    {
-        "title": "Half a Wiseguy: The Genius and the Menace of Paulie Walnuts",
-        "domain": "theringer.com",
-        "category": "television",
-        "link": "https://www.theringer.com/tv/2022/7/10/23202680/sopranos-tony-sirico-obituary-paulie-walnuts-gualtieri",
-        "timestamp": 1657460207,
-        "sentiment": 1,
-        "published": "July 10, 2022 9:36 AM"
-    },
-    {
         "title": "Zelenskyy has consolidated Ukraine's TV outlets and dissolved rival political parties",
         "domain": "npr.org",
         "category": "worldnews",
@@ -378,51 +594,6 @@
         "published": "July 10, 2022 9:41 AM"
     },
     {
-        "title": "Morton's has been flooded with phone calls and fake reservations after it said Brett Kavanaugh had a 'right' to 'eat dinner' without protestors gathering outside",
-        "domain": "businessinsider.com",
-        "category": "politics",
-        "link": "https://www.businessinsider.com/brett-kavanaugh-dinner-mortons-swamped-calls-fake-reservations-roe-overturn-2022-7",
-        "timestamp": 1657461372,
-        "sentiment": -2,
-        "published": "July 10, 2022 9:56 AM"
-    },
-    {
-        "title": "Did Sheila Cherfilus-McCormick buy her seat with taxpayer money earmarked for vaccines?",
-        "domain": "floridapolitics.com",
-        "category": "FLgovernment",
-        "link": "https://floridapolitics.com/archives/532516-did-sheila-cherfilus-mccormick-buy-her-seat-with-taxpayer-money-earmarked-for-vaccines/",
-        "timestamp": 1657461423,
-        "sentiment": 0,
-        "published": "July 10, 2022 9:57 AM"
-    },
-    {
-        "title": "Sarasota County school board sued over ‘obscene’ library materials",
-        "domain": "mysuncoast.com",
-        "category": "news",
-        "link": "https://www.mysuncoast.com/2022/07/08/sarasota-county-school-board-sued-over-obscene-library-materials/",
-        "timestamp": 1657461606,
-        "sentiment": 0,
-        "published": "July 10, 2022 10:00 AM"
-    },
-    {
-        "title": "Abbott says it has reopened Michigan baby formula plant",
-        "domain": "reuters.com",
-        "category": "UpliftingNews",
-        "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/abbott-says-it-has-reopened-michigan-baby-formula-plant-2022-07-09/",
-        "timestamp": 1657461986,
-        "sentiment": -1,
-        "published": "July 10, 2022 10:06 AM"
-    },
-    {
-        "title": "Boris Johnson is (almost) gone. Here's who could replace him.",
-        "domain": "nbcnews.com",
-        "category": "UpliftingNews",
-        "link": "https://www.nbcnews.com/news/world/who-will-replace-british-prime-minister-boris-johnson-rcna37441",
-        "timestamp": 1657462291,
-        "sentiment": -1,
-        "published": "July 10, 2022 10:11 AM"
-    },
-    {
         "title": "Boeing threatens to cancel Boeing 737 MAX 10 aircraft unless given exemption from safety requirements",
         "domain": "msn.com",
         "category": "worldnews",
@@ -430,33 +601,6 @@
         "timestamp": 1657462883,
         "sentiment": 3,
         "published": "July 10, 2022 10:21 AM"
-    },
-    {
-        "title": "Elon Musk may have to complete $44bn Twitter takeover, legal experts say",
-        "domain": "theguardian.com",
-        "category": "technology",
-        "link": "https://www.theguardian.com/technology/2022/jul/10/elon-musk-may-have-to-complete-44bn-twitter-takeover-legal-experts-say",
-        "timestamp": 1657463878,
-        "sentiment": 2,
-        "published": "July 10, 2022 10:37 AM"
-    },
-    {
-        "title": "Stranger Things subtitle guy admits he was “trolling a little bit” with [tentacles undulating moistly].",
-        "domain": "avclub.com",
-        "category": "television",
-        "link": "https://www.avclub.com/stranger-things-subtitle-guy-talks-about-tentacles-und-1849161218",
-        "timestamp": 1657464615,
-        "sentiment": 1,
-        "published": "July 10, 2022 10:50 AM"
-    },
-    {
-        "title": "Dire US labor shortage provides opportunity for ex-prisoners",
-        "domain": "apnews.com",
-        "category": "UpliftingNews",
-        "link": "https://apnews.com/article/job-market-gives-ex-prisoners-second-chance-97bed3d56214275ad407a9ee234f781d",
-        "timestamp": 1657465908,
-        "sentiment": -1,
-        "published": "July 10, 2022 11:11 AM"
     },
     {
         "title": "Annemiek van Vleuten wins Giro d’Italia Donne",
