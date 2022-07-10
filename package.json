@@ -18,6 +18,7 @@
   "homepage": "https://github.com/fwd/news#readme",
   "dependencies": {
     "@fwd/server": "^2.0.0",
+    "dirty-json": "^0.9.2",
     "dotenv": "^10.0.0",
     "fs": "^0.0.1-security",
     "lodash": "^4.17.21",

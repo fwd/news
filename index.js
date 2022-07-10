@@ -30,19 +30,12 @@ const subreddits = [
 	'ukraine',
 	'miami',
 	'technology',
-//	'movies',
 	'sports',
 	'UpliftingNews',
 	'science',
 	'nottheonion',
-//	'entertaiment',
-//	'gadgets',
 	'politics',
-	'FLgovernment',
 	'florida'
-//	'politics',
-	// 'entertainment',
-	// 'gaming',
 ]
 
 async function scrape() {
@@ -53,13 +46,13 @@ async function scrape() {
 
 		items = await reddit.getSubreddit(sub).getHot({ limit: 10 })
 
-		for (var item of items) {
+		// for (var item of items) {
 	        
-	        var sentiment = new Sentiment();
+	 //        var sentiment = new Sentiment();
 	        
-	        item.sentiment = sentiment.analyze(item.title)
+	 //        item.sentiment = sentiment.analyze(item.title)
 	        
-	    }
+	 //    }
 		    
 	    items = items.map(a => {
 	        return {
@@ -84,7 +77,7 @@ async function scrape() {
 		'i.imgur.com',
 		'v.redd.it',
 		'i.redd.it',
-                'reddit.com',
+        'reddit.com',
 		'youtu.be',
 		'youtube.com',
 	]
