@@ -2,9 +2,9 @@
 
 Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/main/headlines.json) file. 
 
-File Size: ~**3MB**
-File Type: JSON
-Updated: Every 1 Hour 
+- File Type: JSON
+- File Size: ~**3MB**
+- Updated: Every 1 Hour 
 
 ```
 {
