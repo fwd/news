@@ -14,7 +14,7 @@
         "category": "UpliftingNews",
         "link": "https://apnews.com/article/alaska-dogs-sitka-8206c86986f75cbdecff8524d944038f",
         "timestamp": 1657342180,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 9, 2022 12:49 AM"
     },
     {
@@ -23,17 +23,8 @@
         "category": "science",
         "link": "https://www.nature.com/articles/d41586-022-01874-x",
         "timestamp": 1657346688,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 9, 2022 2:04 AM"
-    },
-    {
-        "title": "Magnetic fields can turn medical waste into high-value products.Alternating magnetic fields can be used to rapidly convert medical waste, such as plastic syringes, into hydrogen-rich gases and high-quality graphite. This catalytic technique is more environmentally friendly and less energy intensive.",
-        "domain": "physicsworld.com",
-        "category": "science",
-        "link": "https://physicsworld.com/a/magnetic-fields-can-turn-medical-waste-into-high-value-products/",
-        "timestamp": 1657353764,
-        "sentiment": 0,
-        "published": "July 9, 2022 4:02 AM"
     },
     {
         "title": "Elon Musk's net worth has fallen by $65 billion since he announced he wanted to buy Twitter",
@@ -41,7 +32,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/musk-wealth-fell-65-billion-since-announced-plan-buy-twitter-2022-7",
         "timestamp": 1657358264,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 9, 2022 5:17 AM"
     },
     {
@@ -68,7 +59,7 @@
         "category": "science",
         "link": "https://www.anu.edu.au/news/all-news/electric-vehicles-pass-the-remote-road-test",
         "timestamp": 1657359452,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 9, 2022 5:37 AM"
     },
     {
@@ -77,7 +68,7 @@
         "category": "science",
         "link": "http://dx.doi.org/10.2139/ssrn.4107543",
         "timestamp": 1657360606,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 9, 2022 5:56 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "technology",
         "link": "https://www.msn.com/en-gb/travel/news/boeing-threatens-to-cancel-boeing-737-max-10-aircraft-unless-given-exemption-from-safety-requirements/ar-AAZlPB5?ocid=msedgntp&cvid=a2fd2296328b4325aae4dcaf5aa7e01b",
         "timestamp": 1657360812,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 9, 2022 6:00 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/09/asia/sri-lanka-protest-president-saturday-intl-hnk/index.html",
         "timestamp": 1657360952,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 9, 2022 6:02 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "ukraine",
         "link": "https://www.pravda.com.ua/eng/news/2022/07/8/7357086/",
         "timestamp": 1657361347,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 9, 2022 6:09 AM"
     },
     {
@@ -113,7 +104,7 @@
         "category": "news",
         "link": "https://news.sky.com/story/we-see-them-as-brothers-in-arms-here-uk-training-thousands-of-ukrainian-recruits-in-england-12648559",
         "timestamp": 1657363100,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 9, 2022 6:38 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/read-elon-musk-letter-to-twitter-deal-is-off-2022-7?utm_source=feedly&utm_medium=webfeeds",
         "timestamp": 1657364790,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 9, 2022 7:06 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.foxnews.com/world/ukraine-military-sees-spike-female-volunteers-war-russia",
         "timestamp": 1657370227,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 8:37 AM"
     },
     {
@@ -140,7 +131,7 @@
         "category": "technology",
         "link": "https://arstechnica.com/gaming/2022/07/quest-vr-has-traded-facebookening-for-metastasis-with-new-account-system/",
         "timestamp": 1657370405,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 9, 2022 8:40 AM"
     },
     {
@@ -149,16 +140,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/donald-trump-lawyer-christina-bobb-rsbn-midterms-republicans-election-2020-1723145",
         "timestamp": 1657370427,
-        "sentiment": 2,
-        "published": "July 9, 2022 8:40 AM"
-    },
-    {
-        "title": "5,000 pounds of meth seized in San Diego County when truck is followed after crossing border, officials say",
-        "domain": "wsvn.com",
-        "category": "news",
-        "link": "https://wsvn.com/news/us-world/5000-pounds-of-meth-seized-in-san-diego-county-when-truck-is-followed-after-crossing-border-officials-say/",
-        "timestamp": 1657370454,
-        "sentiment": 0,
+        "sentiment": -1,
         "published": "July 9, 2022 8:40 AM"
     },
     {
@@ -167,7 +149,7 @@
         "category": "science",
         "link": "https://www.theguardian.com/society/2022/jun/24/primary-age-children-screen-time-went-up-83-minutes-day-pandemic",
         "timestamp": 1657370536,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 9, 2022 8:42 AM"
     },
     {
@@ -176,7 +158,7 @@
         "category": "politics",
         "link": "https://www.msnbc.com/the-reidout/reidout-blog/supreme-court-objects-peaceful-protests-slashing-abortion-rights-rcna36691",
         "timestamp": 1657370956,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "July 9, 2022 8:49 AM"
     },
     {
@@ -194,7 +176,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/brett-kavanaugh-aoc-ocasio-cortez-steakhouse-protest-abortion-ectopic-pregnancy-2022-7",
         "timestamp": 1657372242,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "July 9, 2022 9:10 AM"
     },
     {
@@ -203,7 +185,7 @@
         "category": "nottheonion",
         "link": "https://www.wwltv.com/article/news/crime/lamar-davis-head-of-louisiana-state-police-pulled-over-for-speeding-report-says/289-377d6409-04e8-45c2-a0b2-c05dfd1d6746",
         "timestamp": 1657372368,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 9:12 AM"
     },
     {
@@ -212,7 +194,7 @@
         "category": "nottheonion",
         "link": "https://www.cbr.com/metal-gear-solid-hideo-kojima-misidentified-shinzo-abe-assassin/",
         "timestamp": 1657373282,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 9:28 AM"
     },
     {
@@ -221,7 +203,7 @@
         "category": "news",
         "link": "https://ktar.com/story/5143855/arizona-gov-doug-ducey-signs-controversial-school-voucher-expansion-bill/",
         "timestamp": 1657373856,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 9, 2022 9:37 AM"
     },
     {
@@ -230,17 +212,8 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/nasa-plans-mini-nuclear-reactors-moon-power-lunar-colony-2022-7?utm_source=reddit.com",
         "timestamp": 1657374204,
-        "sentiment": 0,
-        "published": "July 9, 2022 9:43 AM"
-    },
-    {
-        "title": "Letting Medicare Negotiate Drug Prices Would Save US Nearly $290 Billion: CBO",
-        "domain": "commondreams.org",
-        "category": "politics",
-        "link": "https://www.commondreams.org/news/2022/07/09/letting-medicare-negotiate-drug-prices-would-save-us-nearly-290-billion-cbo",
-        "timestamp": 1657374325,
         "sentiment": 2,
-        "published": "July 9, 2022 9:45 AM"
+        "published": "July 9, 2022 9:43 AM"
     },
     {
         "title": "Japan’s Police Chief Takes Responsibility For Shinzo Abe Killing",
@@ -248,7 +221,7 @@
         "category": "worldnews",
         "link": "https://www.thedailybeast.com/shinzo-abe-assassination-japans-police-chief-tomoaki-onizuka-takes-responsibility-for-security-failures",
         "timestamp": 1657374660,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 9:51 AM"
     },
     {
@@ -266,7 +239,7 @@
         "category": "worldnews",
         "link": "https://apnews.com/article/fae308e307dc5c250534a593e0410354",
         "timestamp": 1657375654,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 10:07 AM"
     },
     {
@@ -275,17 +248,8 @@
         "category": "politics",
         "link": "https://www.huffpost.com/entry/michael-flynn-turkey-russia-payments-army-recoup-trump_n_62c8f202e4b02e0ac91435d2",
         "timestamp": 1657377846,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "July 9, 2022 10:44 AM"
-    },
-    {
-        "title": "HIMARS: U.S. Sends More Advanced Rocket Systems To Ukraine To Further Slow Russian Advance In East",
-        "domain": "rferl.org",
-        "category": "worldnews",
-        "link": "https://www.rferl.org/a/ukraine-united-states-himars-new-arms-package/31935257.html",
-        "timestamp": 1657378044,
-        "sentiment": -2,
-        "published": "July 9, 2022 10:47 AM"
     },
     {
         "title": "Slovenia Legalises Same-Sex Marriage, Adoptions",
@@ -293,7 +257,7 @@
         "category": "worldnews",
         "link": "https://www.total-slovenia-news.com/politics/10254-slovenia-legalises-same-sex-marriage-adoptions",
         "timestamp": 1657378934,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 11:02 AM"
     },
     {
@@ -311,7 +275,7 @@
         "category": "nottheonion",
         "link": "https://arstechnica.com/tech-policy/2022/07/parents-sue-tiktok-after-7-kids-die-from-profitable-blackout-challenge-videos",
         "timestamp": 1657379767,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 11:16 AM"
     },
     {
@@ -320,7 +284,7 @@
         "category": "nottheonion",
         "link": "https://www.theguardian.com/us-news/2022/jul/09/weedkiller-glyphosate-cdc-study-urine-samples",
         "timestamp": 1657380678,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 11:31 AM"
     },
     {
@@ -329,7 +293,7 @@
         "category": "science",
         "link": "https://www.mdpi.com/2072-6643/14/14/2825",
         "timestamp": 1657381283,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 9, 2022 11:41 AM"
     },
     {
@@ -338,7 +302,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/zelenskiy-sacks-ukraines-envoy-germany-other-ambassadors-2022-07-09/",
         "timestamp": 1657382298,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 11:58 AM"
     },
     {
@@ -347,7 +311,7 @@
         "category": "politics",
         "link": "https://www.theguardian.com/us-news/2022/jul/09/jill-biden-us-army-general-consultant-suspended",
         "timestamp": 1657383173,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "July 9, 2022 12:12 PM"
     },
     {
@@ -365,7 +329,7 @@
         "category": "worldnews",
         "link": "https://asia.nikkei.com/Politics/Shinzo-Abe/Abe-shooter-says-his-mother-bankrupted-by-donating-to-religious-group",
         "timestamp": 1657383875,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 12:24 PM"
     },
     {
@@ -374,7 +338,7 @@
         "category": "UpliftingNews",
         "link": "https://english.sta.si/3058551/court-orders-parliament-to-allow-same-sex-marriages-adoptions",
         "timestamp": 1657384404,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 9, 2022 12:33 PM"
     },
     {
@@ -383,17 +347,8 @@
         "category": "news",
         "link": "https://e360.yale.edu/digest/paris-agreement-human-rights-treaty-brazil",
         "timestamp": 1657384605,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 9, 2022 12:36 PM"
-    },
-    {
-        "title": "Ukraine received from Czech Republic a squadron of Mi-24B strikers",
-        "domain": "defence-ua.com",
-        "category": "ukraine",
-        "link": "https://defence-ua.com/news/ukrajina_otrimala_vid_chehiji_eskadrilju_udarnih_mi_24_the_wall_street_journal-7491.html",
-        "timestamp": 1657385156,
-        "sentiment": -1,
-        "published": "July 9, 2022 12:45 PM"
     },
     {
         "title": "Chinese Police Exposed 1B People's Data in Unprecedented Leak",
@@ -401,7 +356,7 @@
         "category": "technology",
         "link": "https://www.wired.com/story/chinese-police-exposed-1-billion-peoples-data/",
         "timestamp": 1657386276,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 9, 2022 1:04 PM"
     },
     {
@@ -410,7 +365,7 @@
         "category": "politics",
         "link": "https://www.news5cleveland.com/news/politics/ohio-politics/comments-about-the-holocaust-from-representative-sponsoring-divisive-concepts-bill-raise-concerns",
         "timestamp": 1657386421,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "July 9, 2022 1:07 PM"
     },
     {
@@ -419,7 +374,7 @@
         "category": "news",
         "link": "https://apnews.com/article/abortion-us-supreme-court-health-child-abuse-arizona-attorney-generals-office-5e7ecd8251fe7ee7e78ca7b2b0ea2501",
         "timestamp": 1657387618,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 9, 2022 1:26 PM"
     },
     {
@@ -428,7 +383,7 @@
         "category": "worldnews",
         "link": "https://www.petfoodprocessing.net/articles/15939-canadian-government-invests-85-million-in-insect-production",
         "timestamp": 1657388529,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 1:42 PM"
     },
     {
@@ -437,7 +392,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/democrat-calls-michael-flynn-lose-his-pension-after-army-fine-2022-7",
         "timestamp": 1657388579,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "July 9, 2022 1:42 PM"
     },
     {
@@ -446,7 +401,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/09/us/us-marshals-sex-offender-iowa/index.html",
         "timestamp": 1657388730,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 9, 2022 1:45 PM"
     },
     {
@@ -455,7 +410,7 @@
         "category": "UpliftingNews",
         "link": "https://www.petfoodprocessing.net/articles/15939-canadian-government-invests-85-million-in-insect-production",
         "timestamp": 1657388870,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 9, 2022 1:47 PM"
     },
     {
@@ -464,7 +419,7 @@
         "category": "nottheonion",
         "link": "https://www.chron.com/news/houston-texas/article/Pregnant-Texas-woman-driving-in-HOV-lane-told-17293221.php",
         "timestamp": 1657389231,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 1:53 PM"
     },
     {
@@ -473,7 +428,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/u24_news/status/1545730267075207170",
         "timestamp": 1657390607,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 9, 2022 2:16 PM"
     },
     {
@@ -500,7 +455,7 @@
         "category": "science",
         "link": "https://unisa.edu.au/media-centre/Releases/2022/long-term-high-fat-diet-expands-waistline-and-shrinks-brain/",
         "timestamp": 1657392003,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 9, 2022 2:40 PM"
     },
     {
@@ -509,8 +464,26 @@
         "category": "technology",
         "link": "https://www.technologyreview.com/2022/02/08/1044732/metaverse-history-snow-crash",
         "timestamp": 1657392309,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 9, 2022 2:45 PM"
+    },
+    {
+        "title": "North Carolina Lawmaker Want to Scrap Free EV Charging Stations",
+        "domain": "uk.pcmag.com",
+        "category": "technology",
+        "link": "https://uk.pcmag.com/cars-auto/141406/north-carolina-lawmaker-want-to-scrap-free-ev-charging-stations",
+        "timestamp": 1657392435,
+        "sentiment": 2,
+        "published": "July 9, 2022 2:47 PM"
+    },
+    {
+        "title": "Florida woman hid mother’s body in freezer to keep collecting disability benefits, police say",
+        "domain": "local10.com",
+        "category": "news",
+        "link": "https://www.local10.com/news/florida/2022/07/09/florida-woman-hid-mothers-body-in-freezer-to-keep-collecting-disability-benefits-police-say/",
+        "timestamp": 1657392714,
+        "sentiment": -2,
+        "published": "July 9, 2022 2:51 PM"
     },
     {
         "title": "'Devastating piece of evidence': Filing reveals a Proud Boys plan to storm buildings Jan. 6",
@@ -518,7 +491,7 @@
         "category": "politics",
         "link": "https://www.usatoday.com/story/news/politics/2022/06/15/1776-returns-proud-boys-enrique-tarrio-zachary-rehl/7640565001/",
         "timestamp": 1657393919,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "July 9, 2022 3:11 PM"
     },
     {
@@ -527,7 +500,7 @@
         "category": "news",
         "link": "https://www.jpost.com/breaking-news/article-711634",
         "timestamp": 1657394571,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 9, 2022 3:22 PM"
     },
     {
@@ -536,7 +509,7 @@
         "category": "science",
         "link": "https://www.eurekalert.org/news-releases/958162",
         "timestamp": 1657395177,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 9, 2022 3:32 PM"
     },
     {
@@ -545,7 +518,7 @@
         "category": "worldnews",
         "link": "https://www.connexionfrance.com/article/French-news/France-bans-pesticide-use-in-more-places-including-private-residences",
         "timestamp": 1657395193,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 3:33 PM"
     },
     {
@@ -554,8 +527,17 @@
         "category": "technology",
         "link": "https://www.techdirt.com/2022/07/07/canadas-federal-police-have-been-using-powerful-malware-to-snoop-on-peoples-communications/",
         "timestamp": 1657396933,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 9, 2022 4:02 PM"
+    },
+    {
+        "title": "Ukraine Holding Its Own Against Major World Military Power, U.S. Official Says",
+        "domain": "defense.gov",
+        "category": "ukraine",
+        "link": "https://www.defense.gov/News/News-Stories/Article/Article/3088068/ukraine-holding-its-own-against-major-world-military-power-us-official-says/",
+        "timestamp": 1657397017,
+        "sentiment": 0,
+        "published": "July 9, 2022 4:03 PM"
     },
     {
         "title": "Man lights firework on his head and it explodes into his skull, Texas cops say",
@@ -563,8 +545,17 @@
         "category": "nottheonion",
         "link": "https://www.star-telegram.com/news/state/texas/article263220458.html",
         "timestamp": 1657397306,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 4:08 PM"
+    },
+    {
+        "title": "Trump Leaves Board Of His Own Social Media Platform Before The Fed Hit",
+        "domain": "theroot.com",
+        "category": "politics",
+        "link": "https://www.theroot.com/trump-leaves-board-of-his-own-social-media-platform-bef-1849159932",
+        "timestamp": 1657398231,
+        "sentiment": -1,
+        "published": "July 9, 2022 4:23 PM"
     },
     {
         "title": "Educators no longer need a college degree to begin teaching in Arizona public schools",
@@ -572,7 +563,7 @@
         "category": "nottheonion",
         "link": "https://www.azfamily.com/2022/07/09/educators-no-longer-need-college-degree-begin-teaching-arizona-public-schools/",
         "timestamp": 1657399317,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 4:41 PM"
     },
     {
@@ -581,7 +572,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/womens-march-rallies-dc-pressure-biden-abortion-rights-rcna37444",
         "timestamp": 1657400871,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 9, 2022 5:07 PM"
     },
     {
@@ -590,7 +581,7 @@
         "category": "worldnews",
         "link": "https://www.cbc.ca/news/world/ukraine-invasion-russia-day-136-1.6515947",
         "timestamp": 1657401189,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 5:13 PM"
     },
     {
@@ -599,7 +590,7 @@
         "category": "nottheonion",
         "link": "https://www.npr.org/2022/07/09/1110659827/arizonas-law-limits-filming-police",
         "timestamp": 1657402375,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 5:32 PM"
     },
     {
@@ -608,7 +599,7 @@
         "category": "UpliftingNews",
         "link": "https://www.thetimes.co.uk/article/judi-dench-i-was-told-id-never-make-a-film-i-had-the-wrong-face-lm2njjbxr",
         "timestamp": 1657402512,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 9, 2022 5:35 PM"
     },
     {
@@ -617,17 +608,8 @@
         "category": "technology",
         "link": "https://www.cbc.ca/news/business/rogers-outage-no-plan-b-1.6515664",
         "timestamp": 1657402521,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 9, 2022 5:35 PM"
-    },
-    {
-        "title": "Eight amazing European train journeys",
-        "domain": "thetimes.co.uk",
-        "category": "UpliftingNews",
-        "link": "https://www.thetimes.co.uk/article/eight-amazing-european-train-journeys-vpdlfwm7f",
-        "timestamp": 1657402673,
-        "sentiment": 0,
-        "published": "July 9, 2022 5:37 PM"
     },
     {
         "title": "Group offers up to $250 for SCOTUS justices sightings after Kavanaugh protest",
@@ -635,7 +617,7 @@
         "category": "politics",
         "link": "https://www.axios.com/2022/07/09/shutdowndc-supreme-court-abortion-roe-protest",
         "timestamp": 1657403094,
-        "sentiment": 2,
+        "sentiment": -1,
         "published": "July 9, 2022 5:44 PM"
     },
     {
@@ -644,8 +626,17 @@
         "category": "science",
         "link": "https://www.psypost.org/2022/07/women-are-more-likely-to-engage-in-sexual-intercourse-when-using-hormonal-contraception-study-finds-63478",
         "timestamp": 1657403246,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 9, 2022 5:47 PM"
+    },
+    {
+        "title": "Alpha-beta decoupling relevant to inhibition deficits leads to suicide attempt in major depressive disorder",
+        "domain": "sciencedirect.com",
+        "category": "science",
+        "link": "https://www.sciencedirect.com/science/article/abs/pii/S0165032722007728",
+        "timestamp": 1657405288,
+        "sentiment": 2,
+        "published": "July 9, 2022 6:21 PM"
     },
     {
         "title": "Melbourne ‘space shuttle’ pods containing a single bed for rent for up to $900 a month",
@@ -653,7 +644,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/australia-news/2022/jun/29/melbourne-space-shuttle-pods-containing-a-single-bed-for-rent-for-up-to-900-a-month",
         "timestamp": 1657406336,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 6:38 PM"
     },
     {
@@ -662,7 +653,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/sanfrancisco/news/bay-area-climate-activists-target-suvs-deflate-tires/",
         "timestamp": 1657407514,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 9, 2022 6:58 PM"
     },
     {
@@ -671,8 +662,17 @@
         "category": "nottheonion",
         "link": "https://www.nbcchicago.com/news/national-international/pregnant-woman-cited-for-hov-violation-says-her-unborn-baby-should-count-as-second-person/2877498/?",
         "timestamp": 1657409686,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 9, 2022 7:34 PM"
+    },
+    {
+        "title": "Canada sends back blocked Russian turbine to Germany",
+        "domain": "theglobeandmail.com",
+        "category": "worldnews",
+        "link": "https://www.theglobeandmail.com/politics/article-canada-sends-back-blocked-russian-turbine-to-germany/",
+        "timestamp": 1657410360,
+        "sentiment": -1,
+        "published": "July 9, 2022 7:46 PM"
     },
     {
         "title": "L.Q. Jones Dies: Veteran Film And Television Actor Was 94 - Jones appeared in western TV series including 'Gunsmoke', 'The Virginian', 'Wagon Train', 'The Rifleman', 'Bonanza' and 'The Big Valley'",
@@ -682,6 +682,60 @@
         "timestamp": 1657410656,
         "sentiment": -4,
         "published": "July 9, 2022 7:50 PM"
+    },
+    {
+        "title": "Magnetic fields can turn medical waste into high-value products.Alternating magnetic fields can be used to rapidly convert medical waste, such as plastic syringes, into hydrogen-rich gases and high-quality graphite. This catalytic technique is more environmentally friendly and less energy intensive.",
+        "domain": "physicsworld.com",
+        "category": "science",
+        "link": "https://physicsworld.com/a/magnetic-fields-can-turn-medical-waste-into-high-value-products/",
+        "timestamp": 1657353764,
+        "sentiment": 0,
+        "published": "July 9, 2022 4:02 AM"
+    },
+    {
+        "title": "5,000 pounds of meth seized in San Diego County when truck is followed after crossing border, officials say",
+        "domain": "wsvn.com",
+        "category": "news",
+        "link": "https://wsvn.com/news/us-world/5000-pounds-of-meth-seized-in-san-diego-county-when-truck-is-followed-after-crossing-border-officials-say/",
+        "timestamp": 1657370454,
+        "sentiment": 0,
+        "published": "July 9, 2022 8:40 AM"
+    },
+    {
+        "title": "Letting Medicare Negotiate Drug Prices Would Save US Nearly $290 Billion: CBO",
+        "domain": "commondreams.org",
+        "category": "politics",
+        "link": "https://www.commondreams.org/news/2022/07/09/letting-medicare-negotiate-drug-prices-would-save-us-nearly-290-billion-cbo",
+        "timestamp": 1657374325,
+        "sentiment": 2,
+        "published": "July 9, 2022 9:45 AM"
+    },
+    {
+        "title": "HIMARS: U.S. Sends More Advanced Rocket Systems To Ukraine To Further Slow Russian Advance In East",
+        "domain": "rferl.org",
+        "category": "worldnews",
+        "link": "https://www.rferl.org/a/ukraine-united-states-himars-new-arms-package/31935257.html",
+        "timestamp": 1657378044,
+        "sentiment": -2,
+        "published": "July 9, 2022 10:47 AM"
+    },
+    {
+        "title": "Ukraine received from Czech Republic a squadron of Mi-24B strikers",
+        "domain": "defence-ua.com",
+        "category": "ukraine",
+        "link": "https://defence-ua.com/news/ukrajina_otrimala_vid_chehiji_eskadrilju_udarnih_mi_24_the_wall_street_journal-7491.html",
+        "timestamp": 1657385156,
+        "sentiment": -1,
+        "published": "July 9, 2022 12:45 PM"
+    },
+    {
+        "title": "Eight amazing European train journeys",
+        "domain": "thetimes.co.uk",
+        "category": "UpliftingNews",
+        "link": "https://www.thetimes.co.uk/article/eight-amazing-european-train-journeys-vpdlfwm7f",
+        "timestamp": 1657402673,
+        "sentiment": 0,
+        "published": "July 9, 2022 5:37 PM"
     },
     {
         "title": "Rudy Giuliani needed stents after slap ‘assault,’ businessman and radio host John Catsimatidis says; NYC mayor says video doesn’t match allegation",
