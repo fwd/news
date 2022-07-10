@@ -1,6 +1,6 @@
 # Headline Dataset
 
-- Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/main/headlines.json) 
+- Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**3MB**
 - Updated: Every 1 Hour 
