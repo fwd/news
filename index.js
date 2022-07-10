@@ -122,8 +122,4 @@ server.cron(async () => {
 	
 	await server.exec(`cd ${__dirname} && git push origin &> /dev/null`)
 
-}, 'every 1 hour') 
-
-;(async () => {
-	await scrape()
-})()
+}, 'every 1 hour', true) 
