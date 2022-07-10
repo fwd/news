@@ -27,17 +27,17 @@ const reddit = new snoowrap({
 
 const subreddits = [
 	'worldnews',
-	// 'news',
-	// 'television',
-	// 'ukraine',
-	// 'miami',
-	// 'technology',
-	// 'sports',
-	// 'UpliftingNews',
-	// 'science',
-	// 'nottheonion',
-	// 'politics',
-	// 'florida'
+	'news',
+	'television',
+	'ukraine',
+	'miami',
+	'technology',
+	'sports',
+	'UpliftingNews',
+	'science',
+	'nottheonion',
+	'politics',
+	'florida'
 ]
 
 async function scrape() {
@@ -111,9 +111,6 @@ async function scrape() {
 	await server.write('./headlines.json', JSON.stringify(dataset, null, 4))
 
 	await server.write('./readme.md', readme(dataset))
-
-	// fs.writeFileSync('./headlines.json', )
-	// fs.writeFileSync('./headlines.json', JSON.stringify(dataset, null, 4))
 
 }
 
