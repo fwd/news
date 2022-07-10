@@ -26,14 +26,14 @@ ${JSON.stringify(_.first(dataset), null, 4)}
 
 ### Insights
 
-Articles: ${dataset.length}
-Sources: ${domains.length}
-Categories: ${categories.length}
+- Articles: ${dataset.length}
+- Sources: ${domains.length}
+- Categories: ${categories.length}
 
 ### Timespan
 
-Start: ${minDate}
-End: ${maxDate}
+- Start: ${minDate}
+- End: ${maxDate}
 
 ### Topics
 
