@@ -27,12 +27,30 @@
         "published": "July 10, 2022 12:30 AM"
     },
     {
+        "title": "FDR Was Right to Attack the Supreme Court’s Power. Democrats Should Do the Same Today.",
+        "domain": "jacobin.com",
+        "category": "politics",
+        "link": "https://jacobin.com/2022/07/fdr-was-right-to-attack-the-supreme-courts-power-democrats-should-do-the-same-today",
+        "timestamp": 1657427734,
+        "sentiment": 3,
+        "published": "July 10, 2022 12:35 AM"
+    },
+    {
+        "title": "Several ammunition dumps explode overnight. Huge explosions heard for several miles around Shakhtarsk. \"It shakes the house with waves. Fuck\"",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/home?lang=en",
+        "timestamp": 1657429552,
+        "sentiment": -4,
+        "published": "July 10, 2022 1:05 AM"
+    },
+    {
         "title": "Bengaluru (India): Two fake call centers cheating US citizens raided, 11 arrested",
         "domain": "news9live.com",
         "category": "worldnews",
         "link": "https://www.news9live.com/state/karnataka/bengaluru-two-fake-call-centers-cheating-us-citizens-raided-11-arrested-181434",
         "timestamp": 1657430322,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "July 10, 2022 1:18 AM"
     },
     {
@@ -79,6 +97,33 @@
         "timestamp": 1657438247,
         "sentiment": 1,
         "published": "July 10, 2022 3:30 AM"
+    },
+    {
+        "title": "Vladimir Putin ‘to become dad again’ at 69 years old",
+        "domain": "news.com.au",
+        "category": "worldnews",
+        "link": "https://www.news.com.au/world/europe/vladimir-putin-to-become-dad-again-at-69-years-old/news-story/26eb6efcf7be737cc8ae4b4f51782a13",
+        "timestamp": 1657441846,
+        "sentiment": -2,
+        "published": "July 10, 2022 4:30 AM"
+    },
+    {
+        "title": "Japan elections in shadow of Abe assassination",
+        "domain": "nbcnews.com",
+        "category": "UpliftingNews",
+        "link": "https://www.nbcnews.com/news/world/shinzo-abe-japan-elections-assassination-shot-prime-minister-rcna37482",
+        "timestamp": 1657442787,
+        "sentiment": 0,
+        "published": "July 10, 2022 4:46 AM"
+    },
+    {
+        "title": "Biden defends decision to visit Saudi Arabia, says rights are on his agenda",
+        "domain": "nbcnews.com",
+        "category": "UpliftingNews",
+        "link": "https://www.nbcnews.com/news/world/biden-defends-saudi-arabia-visit-khashoggi-yemen-crown-prince-mbs-rcna37481",
+        "timestamp": 1657446139,
+        "sentiment": 0,
+        "published": "July 10, 2022 5:42 AM"
     },
     {
         "title": "Moscow-born Rybakina, who represents Kazakhstan, wins Wimbledon in year Russians are banned from tournament",
