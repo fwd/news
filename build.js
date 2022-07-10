@@ -15,8 +15,7 @@ module.exports = (dataset) => {
 
 	return `# Headline Dataset
 
-Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/main/headlines.json) file. 
-
+- Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/main/headlines.json) 
 - File Type: JSON
 - File Size: ~**${Math.floor(dataset.size)}MB**
 - Updated: Every 1 Hour 
