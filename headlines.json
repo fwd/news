@@ -5,7 +5,7 @@
         "category": "news",
         "link": "https://www.fox19.com/2022/07/08/transgender-butler-county-man-says-group-beat-him-up-using-wrong-restroom/",
         "timestamp": 1657426094,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 10, 2022 12:08 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "technology",
         "link": "https://arstechnica.com/gadgets/2022/07/google-proposes-moving-ad-business-to-alphabet-to-keep-regulators-at-bay/",
         "timestamp": 1657431281,
-        "sentiment": -5,
+        "sentiment": 2,
         "published": "July 10, 2022 1:34 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "nottheonion",
         "link": "https://www.bbc.com/news/world-us-canada-62100403",
         "timestamp": 1657432172,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "July 10, 2022 1:49 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "technology",
         "link": "https://www.popularmechanics.com/space/a40486004/space-bubbles-climate-change/",
         "timestamp": 1657433776,
-        "sentiment": -5,
+        "sentiment": 2,
         "published": "July 10, 2022 2:16 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "news",
         "link": "https://www.abc15.com/news/local-news/investigations/flagstaff-pd-officers-fully-naked-fondled-during-massage-investigation",
         "timestamp": 1657434594,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 10, 2022 2:29 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.rfa.org/english/news/china/polygraph-loyalty-07042022131133.html",
         "timestamp": 1657436981,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 10, 2022 3:09 AM"
     },
     {
@@ -90,13 +90,22 @@
         "published": "July 10, 2022 3:30 AM"
     },
     {
-        "title": "🇫🇷France will prepare to cut off Russian gas supplies. Finance Minister Bruno Le Maire said that such a scenario is the most likely to happen today",
-        "domain": "twitter.com",
+        "title": "The Crows now seek glory—but often find tragedy—in basketball",
+        "domain": "vault.si.com",
+        "category": "sports",
+        "link": "https://vault.si.com/vault/1991/02/18/shadow-of-a-nation-the-crows-once-proud-warriors-now-seek-glory-but-often-find-tragedy-in-basketball",
+        "timestamp": 1657443542,
+        "sentiment": 0,
+        "published": "July 10, 2022 4:59 AM"
+    },
+    {
+        "title": "Russians suffer their heaviest losses in the past 24 hours on Kramatorsk front - General Staff",
+        "domain": "pravda.com.ua",
         "category": "ukraine",
-        "link": "https://twitter.com/TpyxaNews/status/1546054935711711232?t=NK_mmoZO7KffSPlR7AFwZw&s=19",
-        "timestamp": 1657443375,
-        "sentiment": -1,
-        "published": "July 10, 2022 4:56 AM"
+        "link": "https://www.pravda.com.ua/eng/news/2022/07/10/7357312/",
+        "timestamp": 1657445489,
+        "sentiment": -5,
+        "published": "July 10, 2022 5:31 AM"
     },
     {
         "title": "Report: 95% of employees say IT issues decrease workplace productivity and morale",
@@ -104,7 +113,7 @@
         "category": "technology",
         "link": "https://venturebeat.com/2022/07/06/report-95-of-employees-say-it-issues-decrease-workplace-productivity-and-morale/",
         "timestamp": 1657445874,
-        "sentiment": -5,
+        "sentiment": 2,
         "published": "July 10, 2022 5:37 AM"
     },
     {
@@ -113,7 +122,7 @@
         "category": "news",
         "link": "https://www.news.com.au/world/europe/vladimir-putin-to-become-dad-again-at-69-years-old/news-story/26eb6efcf7be737cc8ae4b4f51782a13",
         "timestamp": 1657446641,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 10, 2022 5:50 AM"
     },
     {
@@ -122,7 +131,7 @@
         "category": "ukraine",
         "link": "https://gagadget.com/en/war/145017-ukrainian-military-launch-of-one-himars-missile-costs-150000-and-a-full-launch-costs-1000000/",
         "timestamp": 1657446850,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "July 10, 2022 5:54 AM"
     },
     {
@@ -131,7 +140,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/visegrad24/status/1545896619484348416",
         "timestamp": 1657447179,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "July 10, 2022 5:59 AM"
     },
     {
@@ -149,7 +158,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/ukraine_map/status/1546049511101005824?t=TKJLJgGV-bSiP2ambtjX6A&s=09",
         "timestamp": 1657447816,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "July 10, 2022 6:10 AM"
     },
     {
@@ -167,7 +176,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/russian-gas-cutoff-most-likely-scenario-french-finance-minister-2022-07-10/",
         "timestamp": 1657448419,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 10, 2022 6:20 AM"
     },
     {
@@ -176,17 +185,8 @@
         "category": "UpliftingNews",
         "link": "https://slate.com/business/2022/07/inflation-shipping-goods-china.html",
         "timestamp": 1657448545,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 10, 2022 6:22 AM"
-    },
-    {
-        "title": "European Super League may get a new lease of life as court hears UEFA 'cartel' claim",
-        "domain": "mirror.co.uk",
-        "category": "sports",
-        "link": "https://www.mirror.co.uk/sport/football/news/european-super-league-uefa-cartel-27420775",
-        "timestamp": 1657448788,
-        "sentiment": 3,
-        "published": "July 10, 2022 6:26 AM"
     },
     {
         "title": "Chris McCausland lands C4 travel show \"The Wonders of the World I Can't See\"",
@@ -194,7 +194,7 @@
         "category": "television",
         "link": "https://www.chortle.co.uk/news/2022/07/08/51112/chris_mccausland_lands_c4_travel_show",
         "timestamp": 1657448991,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 10, 2022 6:29 AM"
     },
     {
@@ -212,7 +212,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/russia-hits-ukrainian-hangars-storing-us-made-artillery-weapons-2022-07-10/",
         "timestamp": 1657450513,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 10, 2022 6:55 AM"
     },
     {
@@ -221,7 +221,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/uk-news/2022/jul/10/growing-culture-of-extremism-among-uk-and-european-police-forces-report-warns",
         "timestamp": 1657450812,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 10, 2022 7:00 AM"
     },
     {
@@ -230,7 +230,7 @@
         "category": "technology",
         "link": "https://www.reuters.com/business/aerospace-defense/nasa-showcase-webb-space-telescopes-first-full-color-images-2022-07-10/",
         "timestamp": 1657451565,
-        "sentiment": -5,
+        "sentiment": 2,
         "published": "July 10, 2022 7:12 AM"
     },
     {
@@ -239,7 +239,7 @@
         "category": "news",
         "link": "https://www.washingtonpost.com/nation/2022/07/09/hoa-ducks-foreclosure/",
         "timestamp": 1657452156,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 10, 2022 7:22 AM"
     },
     {
@@ -257,7 +257,7 @@
         "category": "technology",
         "link": "https://www.space.com/james-webb-space-telescope-science-photos-webcast",
         "timestamp": 1657453171,
-        "sentiment": -5,
+        "sentiment": 2,
         "published": "July 10, 2022 7:39 AM"
     },
     {
@@ -266,7 +266,7 @@
         "category": "nottheonion",
         "link": "https://www.newsweek.com/howie-mandel-prolapse-video-shocks-internet-tiktok-1723199",
         "timestamp": 1657453281,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "July 10, 2022 7:41 AM"
     },
     {
@@ -275,7 +275,7 @@
         "category": "UpliftingNews",
         "link": "https://abcnews.go.com/International/rhino-population-sanctuary-mozambique/story?id=86305734",
         "timestamp": 1657453531,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 10, 2022 7:45 AM"
     },
     {
@@ -284,7 +284,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/russia-quiet-mobilization-22k-vacancies-army-losses-ukraine-war-1723201",
         "timestamp": 1657453659,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 10, 2022 7:47 AM"
     },
     {
@@ -293,7 +293,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/lilygrutcher/status/1546100276372934660?t=ANjZ-dkpFC8Mi_VTFPErlg&s=09",
         "timestamp": 1657455116,
-        "sentiment": -1,
+        "sentiment": -5,
         "published": "July 10, 2022 8:11 AM"
     },
     {
@@ -302,7 +302,7 @@
         "category": "UpliftingNews",
         "link": "https://www.ecowatch.com/fin-whales-antarctica.html",
         "timestamp": 1657456088,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 10, 2022 8:28 AM"
     },
     {
@@ -320,7 +320,7 @@
         "category": "worldnews",
         "link": "https://news.sky.com/story/britain-could-reach-40c-by-mid-july-forecast-computer-models-predict-for-first-time-12648278",
         "timestamp": 1657457345,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 10, 2022 8:49 AM"
     },
     {
@@ -329,7 +329,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/charging-logistics-top-barrier-to-electric-car-adoption-survey-2022-7",
         "timestamp": 1657457706,
-        "sentiment": -5,
+        "sentiment": 2,
         "published": "July 10, 2022 8:55 AM"
     },
     {
@@ -338,7 +338,7 @@
         "category": "worldnews",
         "link": "https://thehill.com/policy/defense/3551360-zelensky-russia-fired-deliberately-purposefully-at-ordinary-houses/",
         "timestamp": 1657458165,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 10, 2022 9:02 AM"
     },
     {
@@ -356,8 +356,17 @@
         "category": "technology",
         "link": "https://cultmtl.com/2022/07/elon-musks-purchase-of-twitter-would-have-led-to-more-hate-speech-misinformation-free-speach/",
         "timestamp": 1657459907,
-        "sentiment": -5,
+        "sentiment": 2,
         "published": "July 10, 2022 9:31 AM"
+    },
+    {
+        "title": "Half a Wiseguy: The Genius and the Menace of Paulie Walnuts",
+        "domain": "theringer.com",
+        "category": "television",
+        "link": "https://www.theringer.com/tv/2022/7/10/23202680/sopranos-tony-sirico-obituary-paulie-walnuts-gualtieri",
+        "timestamp": 1657460207,
+        "sentiment": 1,
+        "published": "July 10, 2022 9:36 AM"
     },
     {
         "title": "Zelenskyy has consolidated Ukraine's TV outlets and dissolved rival political parties",
@@ -365,7 +374,7 @@
         "category": "worldnews",
         "link": "https://www.npr.org/2022/07/08/1110577439/zelenskyy-has-consolidated-ukraines-tv-outlets-and-dissolved-rival-political-par?utm_source=facebook&utm_medium=news_tab",
         "timestamp": 1657460480,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 10, 2022 9:41 AM"
     },
     {
@@ -387,12 +396,21 @@
         "published": "July 10, 2022 9:57 AM"
     },
     {
+        "title": "Sarasota County school board sued over ‘obscene’ library materials",
+        "domain": "mysuncoast.com",
+        "category": "news",
+        "link": "https://www.mysuncoast.com/2022/07/08/sarasota-county-school-board-sued-over-obscene-library-materials/",
+        "timestamp": 1657461606,
+        "sentiment": 0,
+        "published": "July 10, 2022 10:00 AM"
+    },
+    {
         "title": "Abbott says it has reopened Michigan baby formula plant",
         "domain": "reuters.com",
         "category": "UpliftingNews",
         "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/abbott-says-it-has-reopened-michigan-baby-formula-plant-2022-07-09/",
         "timestamp": 1657461986,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 10, 2022 10:06 AM"
     },
     {
@@ -401,8 +419,80 @@
         "category": "UpliftingNews",
         "link": "https://www.nbcnews.com/news/world/who-will-replace-british-prime-minister-boris-johnson-rcna37441",
         "timestamp": 1657462291,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 10, 2022 10:11 AM"
+    },
+    {
+        "title": "Boeing threatens to cancel Boeing 737 MAX 10 aircraft unless given exemption from safety requirements",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-gb/travel/news/boeing-threatens-to-cancel-boeing-737-max-10-aircraft-unless-given-exemption-from-safety-requirements/ar-AAZlPB5",
+        "timestamp": 1657462883,
+        "sentiment": 3,
+        "published": "July 10, 2022 10:21 AM"
+    },
+    {
+        "title": "Elon Musk may have to complete $44bn Twitter takeover, legal experts say",
+        "domain": "theguardian.com",
+        "category": "technology",
+        "link": "https://www.theguardian.com/technology/2022/jul/10/elon-musk-may-have-to-complete-44bn-twitter-takeover-legal-experts-say",
+        "timestamp": 1657463878,
+        "sentiment": 2,
+        "published": "July 10, 2022 10:37 AM"
+    },
+    {
+        "title": "Stranger Things subtitle guy admits he was “trolling a little bit” with [tentacles undulating moistly].",
+        "domain": "avclub.com",
+        "category": "television",
+        "link": "https://www.avclub.com/stranger-things-subtitle-guy-talks-about-tentacles-und-1849161218",
+        "timestamp": 1657464615,
+        "sentiment": 1,
+        "published": "July 10, 2022 10:50 AM"
+    },
+    {
+        "title": "Dire US labor shortage provides opportunity for ex-prisoners",
+        "domain": "apnews.com",
+        "category": "UpliftingNews",
+        "link": "https://apnews.com/article/job-market-gives-ex-prisoners-second-chance-97bed3d56214275ad407a9ee234f781d",
+        "timestamp": 1657465908,
+        "sentiment": -1,
+        "published": "July 10, 2022 11:11 AM"
+    },
+    {
+        "title": "Annemiek van Vleuten wins Giro d’Italia Donne",
+        "domain": "velonews.com",
+        "category": "sports",
+        "link": "https://www.velonews.com/news/road/giro-ditalia-donne-annemiek-van-vleuten-wins-overall-race/",
+        "timestamp": 1657465914,
+        "sentiment": 0,
+        "published": "July 10, 2022 11:11 AM"
+    },
+    {
+        "title": "cryptocurrency firm plans on paying back old investors by getting money from other investors.",
+        "domain": "livemint.com",
+        "category": "nottheonion",
+        "link": "https://www.livemint.com/companies/news/crypto-exchange-coinflex-plans-to-recover-84-mn-from-an-investor-what-co-founders-said-11657380948252.html",
+        "timestamp": 1657466846,
+        "sentiment": -3,
+        "published": "July 10, 2022 11:27 AM"
+    },
+    {
+        "title": "🇫🇷France will prepare to cut off Russian gas supplies. Finance Minister Bruno Le Maire said that such a scenario is the most likely to happen today",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/TpyxaNews/status/1546054935711711232?t=NK_mmoZO7KffSPlR7AFwZw&s=19",
+        "timestamp": 1657443375,
+        "sentiment": -1,
+        "published": "July 10, 2022 4:56 AM"
+    },
+    {
+        "title": "European Super League may get a new lease of life as court hears UEFA 'cartel' claim",
+        "domain": "mirror.co.uk",
+        "category": "sports",
+        "link": "https://www.mirror.co.uk/sport/football/news/european-super-league-uefa-cartel-27420775",
+        "timestamp": 1657448788,
+        "sentiment": 3,
+        "published": "July 10, 2022 6:26 AM"
     },
     {
         "title": "Blinken to travel to Japan to pay respects following Abe assassination",
@@ -583,15 +673,6 @@
         "timestamp": 1657360606,
         "sentiment": 2,
         "published": "July 9, 2022 5:56 AM"
-    },
-    {
-        "title": "Boeing threatens to cancel Boeing 737 MAX 10 aircraft unless given exemption from safety requirements",
-        "domain": "msn.com",
-        "category": "technology",
-        "link": "https://www.msn.com/en-gb/travel/news/boeing-threatens-to-cancel-boeing-737-max-10-aircraft-unless-given-exemption-from-safety-requirements/ar-AAZlPB5?ocid=msedgntp&cvid=a2fd2296328b4325aae4dcaf5aa7e01b",
-        "timestamp": 1657360812,
-        "sentiment": 2,
-        "published": "July 9, 2022 6:00 AM"
     },
     {
         "title": "Sri Lanka protesters break into President's House as thousands rally - CNN",
@@ -2446,15 +2527,6 @@
         "timestamp": 1657320953,
         "sentiment": 2,
         "published": "July 8, 2022 6:55 PM"
-    },
-    {
-        "title": "Sarasota County school board sued over ‘obscene’ library materials",
-        "domain": "mysuncoast.com",
-        "category": "florida",
-        "link": "https://www.mysuncoast.com/2022/07/08/sarasota-county-school-board-sued-over-obscene-library-materials/",
-        "timestamp": 1657321722,
-        "sentiment": -2,
-        "published": "July 8, 2022 7:08 PM"
     },
     {
         "title": "Ohio lawmaker wants to teach the Holocaust ‘from the perspective of the Nazis'",
