@@ -5,8 +5,17 @@
         "category": "science",
         "link": "https://newatlas.com/physics/electron-whirlpools-fluid-flow-electricity/",
         "timestamp": 1657435147,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 10, 2022 2:39 AM"
+    },
+    {
+        "title": "TikTok ‘frog army’ stunt could have grave consequences, experts warn",
+        "domain": "theguardian.com",
+        "category": "nottheonion",
+        "link": "https://www.theguardian.com/technology/2022/jul/10/tiktok-frog-army-stunt",
+        "timestamp": 1657441823,
+        "sentiment": -3,
+        "published": "July 10, 2022 4:30 AM"
     },
     {
         "title": "After the Bucha Massacre, Russian soldier Viktor Bulatov wrote on social media “We need to arrange a Bucha in every khokhol* (slur for Ukrainians) city from Kharkiv to Lviv\". Today, the authorities in his hometown confirmed that he has been killed in battle by the Ukrainian Army",
@@ -23,7 +32,7 @@
         "category": "science",
         "link": "https://ucsdnews.ucsd.edu/pressrelease/mindfulness-meditation-reduces-pain-by-separating-it-from-the-self",
         "timestamp": 1657448003,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 10, 2022 6:13 AM"
     },
     {
@@ -45,15 +54,6 @@
         "published": "July 10, 2022 6:29 AM"
     },
     {
-        "title": "Researchers showed that adults over the age of 65 with hypothyroidism were 80% more likely to develop dementia than those of the same age who did not have thyroid issues after adjusting for other factors that could impact the risk of dementia, such as sex, age, high blood pressure, and diabetes.",
-        "domain": "n.neurology.org",
-        "category": "science",
-        "link": "https://n.neurology.org/content/early/2022/07/06/WNL.0000000000200740",
-        "timestamp": 1657449188,
-        "sentiment": 0,
-        "published": "July 10, 2022 6:33 AM"
-    },
-    {
         "title": "Growing ‘culture of extremism’ among UK and European police forces, report warns",
         "domain": "theguardian.com",
         "category": "worldnews",
@@ -68,7 +68,7 @@
         "category": "nottheonion",
         "link": "https://www.straitstimes.com/life/entertainment/fish-leong-song-unfortunately-not-you-removed-from-chinese-platform-after-shinzo-abes-death",
         "timestamp": 1657450896,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 10, 2022 7:01 AM"
     },
     {
@@ -88,15 +88,6 @@
         "timestamp": 1657452156,
         "sentiment": 0,
         "published": "July 10, 2022 7:22 AM"
-    },
-    {
-        "title": "We need 'lots of drones' from the West to help defeat Vladimir Putin, Ukraine minister says",
-        "domain": "msn.com",
-        "category": "worldnews",
-        "link": "https://www.msn.com/en-us/news/world/we-need-lots-of-drones-from-the-west-to-help-defeat-vladimir-putin-ukraine-minister-says/ar-AAZpSoT?ocid=EMMX&cvid=912e8c6685aa4a5f95f02e7c5ca40b89",
-        "timestamp": 1657455057,
-        "sentiment": 0,
-        "published": "July 10, 2022 8:10 AM"
     },
     {
         "title": "In Comeback Moment, Up to 150 Fin Whales Spotted Feeding off Antarctica",
@@ -189,15 +180,6 @@
         "published": "July 10, 2022 10:15 AM"
     },
     {
-        "title": "Steve Bannon says he's willing to testify before January 6 committee after Trump waives claims of executive privilege",
-        "domain": "cnn.com",
-        "category": "politics",
-        "link": "https://www.cnn.com/2022/07/10/politics/steve-bannon-trump-january-6-executive-privilege/index.html",
-        "timestamp": 1657464099,
-        "sentiment": 0,
-        "published": "July 10, 2022 10:41 AM"
-    },
-    {
         "title": "Stranger Things subtitle guy admits he was “trolling a little bit” with [tentacles undulating moistly].",
         "domain": "avclub.com",
         "category": "television",
@@ -214,24 +196,6 @@
         "timestamp": 1657465089,
         "sentiment": 0,
         "published": "July 10, 2022 10:58 AM"
-    },
-    {
-        "title": "Both gun owners and non-gun owners trust kids’ doctors in gun safety talks",
-        "domain": "digitalcommons.library.tmc.edu",
-        "category": "science",
-        "link": "https://digitalcommons.library.tmc.edu/childrenatrisk/vol12/iss2/2/",
-        "timestamp": 1657465875,
-        "sentiment": 0,
-        "published": "July 10, 2022 11:11 AM"
-    },
-    {
-        "title": "Annemiek van Vleuten wins Giro d’Italia Donne",
-        "domain": "velonews.com",
-        "category": "sports",
-        "link": "https://www.velonews.com/news/road/giro-ditalia-donne-annemiek-van-vleuten-wins-overall-race/",
-        "timestamp": 1657465914,
-        "sentiment": 4,
-        "published": "July 10, 2022 11:11 AM"
     },
     {
         "title": "Tories awaken to the cost of being led by an entertainer. The GOP still hasn’t.",
@@ -293,7 +257,7 @@
         "category": "sports",
         "link": "https://lastwordonsports.com/tennis/2022/07/10/novak-djokovic-nick-kyrgios-seventh-wimbledon-21st-grand-slam/?fbclid=IwAR02UyFTUOPdE6qyjs-4cutrv46iUNZ8aWvXK3fIXrWsPHrxjIq7g4CsaOQ",
         "timestamp": 1657469482,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 10, 2022 12:11 PM"
     },
     {
@@ -302,7 +266,7 @@
         "category": "sports",
         "link": "https://www.theguardian.com/sport/live/2022/jul/10/novak-djokovic-v-nick-krygios-wimbledon-mens-singles-final-live",
         "timestamp": 1657469586,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 10, 2022 12:13 PM"
     },
     {
@@ -329,7 +293,7 @@
         "category": "sports",
         "link": "https://news.sky.com/story/novak-djokovic-beats-nick-kyrgios-in-wimbledon-mens-final-12649472",
         "timestamp": 1657470856,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 10, 2022 12:34 PM"
     },
     {
@@ -374,7 +338,7 @@
         "category": "miami",
         "link": "https://www.miamiherald.com/news/local/education/article263249518.html",
         "timestamp": 1657474670,
-        "sentiment": -10,
+        "sentiment": 0,
         "published": "July 10, 2022 1:37 PM"
     },
     {
@@ -401,7 +365,7 @@
         "category": "science",
         "link": "https://journals.sagepub.com/doi/full/10.1177/00031224221103257",
         "timestamp": 1657476906,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 10, 2022 2:15 PM"
     },
     {
@@ -428,7 +392,7 @@
         "category": "science",
         "link": "https://journals.sagepub.com/doi/full/10.1177/00031224221102072",
         "timestamp": 1657477462,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 10, 2022 2:24 PM"
     },
     {
@@ -554,7 +518,7 @@
         "category": "science",
         "link": "https://www.hawaii.edu/news/2022/07/08/deep-sea-mining-noise-pollution/",
         "timestamp": 1657486338,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 10, 2022 4:52 PM"
     },
     {
@@ -572,6 +536,15 @@
         "category": "science",
         "link": "https://truthinscience.org/scientific-panel-finds-low-confidence-of-a-relationship-between-glyphosate-and-cancer/",
         "timestamp": 1657486520,
+        "sentiment": 3,
+        "published": "July 10, 2022 4:55 PM"
+    },
+    {
+        "title": "Vladimir Putin ‘to become dad again’ at 69 years old",
+        "domain": "news.com.au",
+        "category": "worldnews",
+        "link": "https://www.news.com.au/world/europe/vladimir-putin-to-become-dad-again-at-69-years-old/news-story/26eb6efcf7be737cc8ae4b4f51782a13",
+        "timestamp": 1657486557,
         "sentiment": 0,
         "published": "July 10, 2022 4:55 PM"
     },
@@ -599,8 +572,170 @@
         "category": "science",
         "link": "https://news.ki.se/improved-protein-function-opens-way-for-new-drug-development-concept",
         "timestamp": 1657489124,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 10, 2022 5:38 PM"
+    },
+    {
+        "title": "Floating abortion clinic proposed in Gulf to bypass bans",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/abortion-health-reproductive-rights-government-and-politics-bfab2bd6604229d7b2bcad630037c4e8?utm_source=Twitter&utm_medium=AP&utm_campaign=SocialFlow",
+        "timestamp": 1657490974,
+        "sentiment": 0,
+        "published": "July 10, 2022 6:09 PM"
+    },
+    {
+        "title": "‘Extinct’ parrots make a flying comeback in Brazil",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/environment/2022/jul/10/extinct-parrots-make-a-flying-comeback-in-brazil",
+        "timestamp": 1657490977,
+        "sentiment": 0,
+        "published": "July 10, 2022 6:09 PM"
+    },
+    {
+        "title": "A swimmer was infected with a brain-eating amoeba after visiting at an Iowa beach",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/07/10/us/lake-of-three-fires-brain-eating-amoeba-iowa/index.html",
+        "timestamp": 1657491396,
+        "sentiment": 0,
+        "published": "July 10, 2022 6:16 PM"
+    },
+    {
+        "title": "'The naughtiest thing I have ever done? Invaded a country', says Tory leadership contender Tom Tugendhat",
+        "domain": "news.sky.com",
+        "category": "nottheonion",
+        "link": "https://news.sky.com/story/the-naughtiest-thing-i-have-ever-done-invaded-a-country-says-tory-leadership-contender-tom-tugendhat-12649464",
+        "timestamp": 1657492692,
+        "sentiment": -3,
+        "published": "July 10, 2022 6:38 PM"
+    },
+    {
+        "title": "A new model of wisdom suggests wisdom has both cognitive and noncognitive components. And the effect of cognitive components (knowledge, metacognitive capacities, and self-reflection) on wise actions are moderated by noncognitive components (emotion regulation, curiosity, concern for people).",
+        "domain": "psychologytoday.com",
+        "category": "science",
+        "link": "https://www.psychologytoday.com/us/blog/finding-new-home/202207/science-based-guide-how-act-wisely",
+        "timestamp": 1657492879,
+        "sentiment": 3,
+        "published": "July 10, 2022 6:41 PM"
+    },
+    {
+        "title": "‘Hit the kill switch’: Uber used covert tech to thwart government raids",
+        "domain": "washingtonpost.com",
+        "category": "technology",
+        "link": "https://www.washingtonpost.com/technology/2022/07/10/uber-europe-raids-kill-switch/",
+        "timestamp": 1657495142,
+        "sentiment": 0,
+        "published": "July 10, 2022 7:19 PM"
+    },
+    {
+        "title": "'She-Hulk: Attorney at Law’ Finds Its Composer in Amie Doherty",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/she-hulk-attorney-at-law-composer-amie-doherty-disney-plus/",
+        "timestamp": 1657496420,
+        "sentiment": -3,
+        "published": "July 10, 2022 7:40 PM"
+    },
+    {
+        "title": "TikTok trend leaves giant holes on beaches",
+        "domain": "wect.com",
+        "category": "nottheonion",
+        "link": "https://www.wect.com/2022/06/29/tiktok-trend-leaves-giant-holes-beaches/",
+        "timestamp": 1657499064,
+        "sentiment": -3,
+        "published": "July 10, 2022 8:24 PM"
+    },
+    {
+        "title": "French women push to cement abortion rights after U.S. ruling",
+        "domain": "nbcnews.com",
+        "category": "worldnews",
+        "link": "https://www.nbcnews.com/news/us-news/french-women-push-cement-abortion-rights-united-states-ruling-rcna37537",
+        "timestamp": 1657500381,
+        "sentiment": 0,
+        "published": "July 10, 2022 8:46 PM"
+    },
+    {
+        "title": "So insane I thought it was satire for a second",
+        "domain": "mysuncoast.com",
+        "category": "nottheonion",
+        "link": "https://www.mysuncoast.com/2022/07/08/sarasota-county-school-board-sued-over-obscene-library-materials/",
+        "timestamp": 1657501040,
+        "sentiment": -3,
+        "published": "July 10, 2022 8:57 PM"
+    },
+    {
+        "title": "Major Israeli study: COVID death rate among elderly slashed by 72% after 4th vaccine",
+        "domain": "timesofisrael.com",
+        "category": "science",
+        "link": "https://www.timesofisrael.com/major-israeli-study-elderlys-covid-death-slashed-by-72-after-4th-vaccine/",
+        "timestamp": 1657501657,
+        "sentiment": 3,
+        "published": "July 10, 2022 9:07 PM"
+    },
+    {
+        "title": "Most heart attack patients' cholesterol levels did not indicate cardiac risk",
+        "domain": "uclahealth.org",
+        "category": "science",
+        "link": "https://www.uclahealth.org/news/most-heart-attack-patients-cholesterol-levels-did-not-indicate-cardiac-risk",
+        "timestamp": 1657501908,
+        "sentiment": 3,
+        "published": "July 10, 2022 9:11 PM"
+    },
+    {
+        "title": "Howie Mandel Freaks Out TikTok With Video Of Prolapsed Rectum",
+        "domain": "etcanada.com",
+        "category": "nottheonion",
+        "link": "https://etcanada.com/news/911848/howie-mandel-freaks-out-tiktok-with-video-of-prolapsed-rectum/",
+        "timestamp": 1657502112,
+        "sentiment": -3,
+        "published": "July 10, 2022 9:15 PM"
+    },
+    {
+        "title": "Researchers showed that adults over the age of 65 with hypothyroidism were 80% more likely to develop dementia than those of the same age who did not have thyroid issues after adjusting for other factors that could impact the risk of dementia, such as sex, age, high blood pressure, and diabetes.",
+        "domain": "n.neurology.org",
+        "category": "science",
+        "link": "https://n.neurology.org/content/early/2022/07/06/WNL.0000000000200740",
+        "timestamp": 1657449188,
+        "sentiment": 0,
+        "published": "July 10, 2022 6:33 AM"
+    },
+    {
+        "title": "We need 'lots of drones' from the West to help defeat Vladimir Putin, Ukraine minister says",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-us/news/world/we-need-lots-of-drones-from-the-west-to-help-defeat-vladimir-putin-ukraine-minister-says/ar-AAZpSoT?ocid=EMMX&cvid=912e8c6685aa4a5f95f02e7c5ca40b89",
+        "timestamp": 1657455057,
+        "sentiment": 0,
+        "published": "July 10, 2022 8:10 AM"
+    },
+    {
+        "title": "Steve Bannon says he's willing to testify before January 6 committee after Trump waives claims of executive privilege",
+        "domain": "cnn.com",
+        "category": "politics",
+        "link": "https://www.cnn.com/2022/07/10/politics/steve-bannon-trump-january-6-executive-privilege/index.html",
+        "timestamp": 1657464099,
+        "sentiment": 0,
+        "published": "July 10, 2022 10:41 AM"
+    },
+    {
+        "title": "Both gun owners and non-gun owners trust kids’ doctors in gun safety talks",
+        "domain": "digitalcommons.library.tmc.edu",
+        "category": "science",
+        "link": "https://digitalcommons.library.tmc.edu/childrenatrisk/vol12/iss2/2/",
+        "timestamp": 1657465875,
+        "sentiment": 0,
+        "published": "July 10, 2022 11:11 AM"
+    },
+    {
+        "title": "Annemiek van Vleuten wins Giro d’Italia Donne",
+        "domain": "velonews.com",
+        "category": "sports",
+        "link": "https://www.velonews.com/news/road/giro-ditalia-donne-annemiek-van-vleuten-wins-overall-race/",
+        "timestamp": 1657465914,
+        "sentiment": 4,
+        "published": "July 10, 2022 11:11 AM"
     },
     {
         "title": "Educators no longer need college degree to teach in Arizona public schools",
@@ -621,42 +756,6 @@
         "published": "July 10, 2022 6:06 PM"
     },
     {
-        "title": "Floating abortion clinic proposed in Gulf to bypass bans",
-        "domain": "apnews.com",
-        "category": "news",
-        "link": "https://apnews.com/article/abortion-health-reproductive-rights-government-and-politics-bfab2bd6604229d7b2bcad630037c4e8?utm_source=Twitter&utm_medium=AP&utm_campaign=SocialFlow",
-        "timestamp": 1657490974,
-        "sentiment": 0,
-        "published": "July 10, 2022 6:09 PM"
-    },
-    {
-        "title": "A swimmer was infected with a brain-eating amoeba after visiting at an Iowa beach",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/07/10/us/lake-of-three-fires-brain-eating-amoeba-iowa/index.html",
-        "timestamp": 1657491396,
-        "sentiment": 0,
-        "published": "July 10, 2022 6:16 PM"
-    },
-    {
-        "title": "'The naughtiest thing I have ever done? Invaded a country', says Tory leadership contender Tom Tugendhat",
-        "domain": "news.sky.com",
-        "category": "nottheonion",
-        "link": "https://news.sky.com/story/the-naughtiest-thing-i-have-ever-done-invaded-a-country-says-tory-leadership-contender-tom-tugendhat-12649464",
-        "timestamp": 1657492692,
-        "sentiment": -2,
-        "published": "July 10, 2022 6:38 PM"
-    },
-    {
-        "title": "A new model of wisdom suggests wisdom has both cognitive and noncognitive components. And the effect of cognitive components (knowledge, metacognitive capacities, and self-reflection) on wise actions are moderated by noncognitive components (emotion regulation, curiosity, concern for people).",
-        "domain": "psychologytoday.com",
-        "category": "science",
-        "link": "https://www.psychologytoday.com/us/blog/finding-new-home/202207/science-based-guide-how-act-wisely",
-        "timestamp": 1657492879,
-        "sentiment": 0,
-        "published": "July 10, 2022 6:41 PM"
-    },
-    {
         "title": "Cameron Diaz reveals she may have been unwitting Moroccan drug mule",
         "domain": "theguardian.com",
         "category": "nottheonion",
@@ -675,15 +774,6 @@
         "published": "July 10, 2022 7:11 PM"
     },
     {
-        "title": "‘Hit the kill switch’: Uber used covert tech to thwart government raids",
-        "domain": "washingtonpost.com",
-        "category": "technology",
-        "link": "https://www.washingtonpost.com/technology/2022/07/10/uber-europe-raids-kill-switch/",
-        "timestamp": 1657495142,
-        "sentiment": 0,
-        "published": "July 10, 2022 7:19 PM"
-    },
-    {
         "title": "Germany's Ex-Chancellor Refuses To Disassociate Himself From Putin",
         "domain": "rferl.org",
         "category": "worldnews",
@@ -691,51 +781,6 @@
         "timestamp": 1657495939,
         "sentiment": 0,
         "published": "July 10, 2022 7:32 PM"
-    },
-    {
-        "title": "'She-Hulk: Attorney at Law’ Finds Its Composer in Amie Doherty",
-        "domain": "collider.com",
-        "category": "television",
-        "link": "https://collider.com/she-hulk-attorney-at-law-composer-amie-doherty-disney-plus/",
-        "timestamp": 1657496420,
-        "sentiment": -3,
-        "published": "July 10, 2022 7:40 PM"
-    },
-    {
-        "title": "TikTok trend leaves giant holes on beaches",
-        "domain": "wect.com",
-        "category": "nottheonion",
-        "link": "https://www.wect.com/2022/06/29/tiktok-trend-leaves-giant-holes-beaches/",
-        "timestamp": 1657499064,
-        "sentiment": -2,
-        "published": "July 10, 2022 8:24 PM"
-    },
-    {
-        "title": "So insane I thought it was satire for a second",
-        "domain": "mysuncoast.com",
-        "category": "nottheonion",
-        "link": "https://www.mysuncoast.com/2022/07/08/sarasota-county-school-board-sued-over-obscene-library-materials/",
-        "timestamp": 1657501040,
-        "sentiment": -2,
-        "published": "July 10, 2022 8:57 PM"
-    },
-    {
-        "title": "Howie Mandel Freaks Out TikTok With Video Of Prolapsed Rectum",
-        "domain": "etcanada.com",
-        "category": "nottheonion",
-        "link": "https://etcanada.com/news/911848/howie-mandel-freaks-out-tiktok-with-video-of-prolapsed-rectum/",
-        "timestamp": 1657502112,
-        "sentiment": -2,
-        "published": "July 10, 2022 9:15 PM"
-    },
-    {
-        "title": "TikTok ‘frog army’ stunt could have grave consequences, experts warn",
-        "domain": "theguardian.com",
-        "category": "nottheonion",
-        "link": "https://www.theguardian.com/technology/2022/jul/10/tiktok-frog-army-stunt",
-        "timestamp": 1657441823,
-        "sentiment": -3,
-        "published": "July 10, 2022 4:30 AM"
     },
     {
         "title": "Two precision missile strikes on Kherson City since this morning. Russian National Guard barracks hit. Locals report of Russians screaming from under the rubble.",
@@ -988,15 +1033,6 @@
         "timestamp": 1657431281,
         "sentiment": 0,
         "published": "July 10, 2022 1:34 AM"
-    },
-    {
-        "title": "Vladimir Putin ‘to become dad again’ at 69 years old",
-        "domain": "news.com.au",
-        "category": "news",
-        "link": "https://www.news.com.au/world/europe/vladimir-putin-to-become-dad-again-at-69-years-old/news-story/26eb6efcf7be737cc8ae4b4f51782a13",
-        "timestamp": 1657446641,
-        "sentiment": 0,
-        "published": "July 10, 2022 5:50 AM"
     },
     {
         "title": "Europe is facing one of its toughest years for extreme weather",
