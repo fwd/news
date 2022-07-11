@@ -5,7 +5,7 @@
         "category": "technology",
         "link": "https://techcrunch.com/2022/07/10/leaked-uber-files-reveal-history-of-lawbreaking-lobbying-and-exploiting-violence-against-drivers/",
         "timestamp": 1657513103,
-        "sentiment": -5,
+        "sentiment": -7,
         "published": "July 11, 2022 12:18 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "ukraine",
         "link": "https://english.nv.ua/nation/zelenskyy-is-sent-petition-asking-to-legalize-same-sex-marriages-50255367.html",
         "timestamp": 1657514158,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "July 11, 2022 12:35 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "technology",
         "link": "https://www.scmp.com/news/asia/southeast-asia/article/3184816/chinese-built-surveillance-systems-spread-across-junta",
         "timestamp": 1657518918,
-        "sentiment": -5,
+        "sentiment": -7,
         "published": "July 11, 2022 1:55 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "technology",
         "link": "https://www.bloomberg.com/news/articles/2022-07-09/us-electric-car-sales-reach-key-milestone#xj4y7vzkg",
         "timestamp": 1657520657,
-        "sentiment": -5,
+        "sentiment": -7,
         "published": "July 11, 2022 2:24 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "nottheonion",
         "link": "https://www.hindustantimes.com/cities/bengaluru-news/state-calls-pythagoras-theorem-fake-news-proposes-to-teach-manusmriti-under-nep-101657479106918.html",
         "timestamp": 1657521934,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 11, 2022 2:45 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/global/uk-prime-ministership-sky-live-debate-1235313203/",
         "timestamp": 1657522191,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 11, 2022 2:49 AM"
     },
     {
@@ -113,7 +113,7 @@
         "category": "science",
         "link": "https://www.sciencedirect.com/science/article/abs/pii/S0163834322000858",
         "timestamp": 1657524433,
-        "sentiment": 6,
+        "sentiment": -2,
         "published": "July 11, 2022 3:27 AM"
     },
     {
@@ -122,8 +122,17 @@
         "category": "florida",
         "link": "https://www.wftv.com/news/desantis-signs-executive-order-lower-prescription-drug-prices-floridians/W22KVGMBCNHZ3C77WWK7L4A7VY/?outputType=amp",
         "timestamp": 1657526385,
-        "sentiment": 3,
+        "sentiment": -2,
         "published": "July 11, 2022 3:59 AM"
+    },
+    {
+        "title": "Most Democrats Don’t Want Biden in 2024, New Poll Shows",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2022/07/11/us/politics/biden-approval-polling-2024.html",
+        "timestamp": 1657526668,
+        "sentiment": 0,
+        "published": "July 11, 2022 4:04 AM"
     },
     {
         "title": "Chinese ice cream brand goes viral after products don't melt even when blasted with a blowtorch",
@@ -131,7 +140,7 @@
         "category": "nottheonion",
         "link": "https://philstarlife.com/living/175760-chinese-ice-cream-brand-doesnt-melt",
         "timestamp": 1657529531,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 11, 2022 4:52 AM"
     },
     {
@@ -140,7 +149,7 @@
         "category": "television",
         "link": "https://www.indiewire.com/2022/02/alien-tv-show-noah-hawley-fx-delayed-1234700765/",
         "timestamp": 1657529921,
-        "sentiment": 0,
+        "sentiment": 3,
         "published": "July 11, 2022 4:58 AM"
     },
     {
@@ -149,7 +158,7 @@
         "category": "science",
         "link": "https://www.nyu.edu/about/news-publications/news/2022/june/neuroscientists-find-new-factors-behind-better-vision-.html",
         "timestamp": 1657530553,
-        "sentiment": 6,
+        "sentiment": -2,
         "published": "July 11, 2022 5:09 AM"
     },
     {
@@ -158,7 +167,7 @@
         "category": "nottheonion",
         "link": "https://www.nbcnews.com/news/family-found-living-cache-weapons-nevada-childrens-museum-rcna37509",
         "timestamp": 1657531700,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 11, 2022 5:28 AM"
     },
     {
@@ -176,8 +185,17 @@
         "category": "science",
         "link": "https://www.cmaj.ca/content/194/26/E899",
         "timestamp": 1657532756,
-        "sentiment": 6,
+        "sentiment": -2,
         "published": "July 11, 2022 5:45 AM"
+    },
+    {
+        "title": "‘We have a new Hitler in Russia’: Pussy Riot’s Maria Alyokhina on Putin’s crimes and her years of resistance |",
+        "domain": "theguardian.com",
+        "category": "ukraine",
+        "link": "https://www.theguardian.com/world/2022/jul/11/pussy-riot-maria-alyokhina-putin-crimes-hitler-years-of-resistance?CMP=fb_gu&utm_medium=Social&utm_source=Facebook&fbclid=IwAR0Lt_GpFDsorfc1f0xGY2jQW5zfSZglOqV7xA9pFh7SfYAiwsGaSKs523o#Echobox=1657519811",
+        "timestamp": 1657533299,
+        "sentiment": -3,
+        "published": "July 11, 2022 5:54 AM"
     },
     {
         "title": "Call Vladimir Putin 'ruler' rather than 'president', say Russian leader's Kremlin allies",
@@ -189,13 +207,40 @@
         "published": "July 11, 2022 6:10 AM"
     },
     {
+        "title": "Paramount+ Ordered Almost As Many UK Shows As Netflix In 2022 – Report",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/07/paramount-netflix-uk-shows-research-ampere-analysis-1235061239/",
+        "timestamp": 1657534840,
+        "sentiment": 3,
+        "published": "July 11, 2022 6:20 AM"
+    },
+    {
         "title": "Lithuania has expanded restrictions on the transit of goods through its territory to #Kaliningrad, Reuters reports. As of today, cement, timber, alcohol and alcohol-based industrial chemicals are banned, a #Lithuanian customs official said.",
         "domain": "mobile.twitter.com",
         "category": "ukraine",
         "link": "https://mobile.twitter.com/nexta_tv/status/1546412556268572673",
         "timestamp": 1657535136,
-        "sentiment": -1,
+        "sentiment": -3,
         "published": "July 11, 2022 6:25 AM"
+    },
+    {
+        "title": "Exclusive: Binance served crypto traders in Iran for years despite U.S. sanctions, clients say",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/technology/exclusive-binance-served-crypto-traders-iran-years-despite-us-sanctions-clients-2022-07-11/",
+        "timestamp": 1657535452,
+        "sentiment": 0,
+        "published": "July 11, 2022 6:30 AM"
+    },
+    {
+        "title": "'Twelve of Putin's officers are killed' in strike on command post in occupied Kherson as 'Vladimir is enraged by failure of his S-400 defence system' while US-supplied HIMARS missiles inflict critical losses",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-11001617/Twelve-Putins-officers-killed-Ukraine-strike-Russian-command-post.html",
+        "timestamp": 1657535756,
+        "sentiment": 0,
+        "published": "July 11, 2022 6:35 AM"
     },
     {
         "title": "Lauren Boebert reported to FBI over Biden tweet: ‘We need to terminate this presidency’",
@@ -212,17 +257,53 @@
         "category": "nottheonion",
         "link": "https://www.rfa.org/english/news/china/polygraph-loyalty-07042022131133.html",
         "timestamp": 1657536203,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 11, 2022 6:43 AM"
     },
     {
-        "title": "WNBA Commissioner Cathy Engelbert Announces Plans for 40-Game Schedule in 2023 | Sports Illustrated",
-        "domain": "si.com",
+        "title": "Right-Wing Think Tank Family Research Council Is Now a Church in Eyes of the IRS — The FRC, a staunch opponent of abortion and LGBTQ rights, joins a growing list of activist groups seeking church status, which allows organizations to shield themselves from financial scrutiny.",
+        "domain": "propublica.org",
+        "category": "politics",
+        "link": "https://www.propublica.org/article/family-research-council-irs-church-status",
+        "timestamp": 1657536474,
+        "sentiment": 0,
+        "published": "July 11, 2022 6:47 AM"
+    },
+    {
+        "title": "150 servicemen from Buryatia (🇷🇺region) terminated their army contract unwilling to continue fighting in 🇺🇦-Oleksandra Harmazhapova, head of Free Buryatia Foundation Buryats are the ethnic minority suffering from daily xenophobia and chauvinism within 🇷🇺",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/Gerashchenko_en/status/1546439029561999362?t=BodxRgj3_q8DiOmg_EFd_w&s=19",
+        "timestamp": 1657536525,
+        "sentiment": -3,
+        "published": "July 11, 2022 6:48 AM"
+    },
+    {
+        "title": "Fake IPL in Gujarat village dupes Russian punters | Ahmedabad News - Times of India",
+        "domain": "timesofindia.indiatimes.com",
         "category": "sports",
-        "link": "https://www.si.com/wnba/2022/07/10/wnba-announces-40-game-schedule-charter-planes-2023-season",
-        "timestamp": 1657538351,
+        "link": "https://timesofindia.indiatimes.com/city/ahmedabad/fake-ipl-in-gujarat-village-dupes-russian-punters/articleshow/92789976.cms",
+        "timestamp": 1657537258,
+        "sentiment": -2,
+        "published": "July 11, 2022 7:00 AM"
+    },
+    {
+        "title": "The school year is coming with a shortage of teachers and new rules on what and how they may teach",
+        "domain": "wlrn.org",
+        "category": "news",
+        "link": "https://www.wlrn.org/2022-07-08/the-school-year-is-coming-with-a-shortage-of-teachers-and-new-rules-on-what-and-how-they-may-teach",
+        "timestamp": 1657538382,
         "sentiment": 0,
         "published": "July 11, 2022 7:19 AM"
+    },
+    {
+        "title": "Uber Files: Tech firm lobbied top ministers at undeclared meetings - BBC News",
+        "domain": "bbc.com",
+        "category": "technology",
+        "link": "https://www.bbc.com/news/business-62099061",
+        "timestamp": 1657538579,
+        "sentiment": -7,
+        "published": "July 11, 2022 7:22 AM"
     },
     {
         "title": "'A 'Wow' moment': US renewable energy hit record 28% in April. What's driving the change?",
@@ -232,6 +313,51 @@
         "timestamp": 1657538639,
         "sentiment": -3,
         "published": "July 11, 2022 7:23 AM"
+    },
+    {
+        "title": "DeSantis takes the fight to school boards",
+        "domain": "axios.com",
+        "category": "florida",
+        "link": "https://www.axios.com/2022/07/07/ron-desantis-school-boards-elections-crt",
+        "timestamp": 1657538941,
+        "sentiment": -2,
+        "published": "July 11, 2022 7:29 AM"
+    },
+    {
+        "title": "Increased engagement with politics on social media predicts future decreases in racial resentment among liberals in the United States, though this doesn’t appear to be the case for conservatives or independents, according to new research",
+        "domain": "psypost.org",
+        "category": "science",
+        "link": "https://www.psypost.org/2022/07/new-study-sheds-light-on-the-link-between-racial-resentment-and-perceptions-of-reverse-racism-in-the-united-states-63475/",
+        "timestamp": 1657540464,
+        "sentiment": -2,
+        "published": "July 11, 2022 7:54 AM"
+    },
+    {
+        "title": "Controversial Prehistoric Egg Identified To Be the Last of the “Demon Ducks of Doom”",
+        "domain": "scitechdaily.com",
+        "category": "nottheonion",
+        "link": "https://scitechdaily.com/controversial-prehistoric-egg-identified-to-be-the-last-of-the-demon-ducks-of-doom",
+        "timestamp": 1657542589,
+        "sentiment": 0,
+        "published": "July 11, 2022 8:29 AM"
+    },
+    {
+        "title": "Inside the presidential palace now full of Sri Lankans",
+        "domain": "bbc.com",
+        "category": "nottheonion",
+        "link": "https://www.bbc.com/news/world-asia-62116056",
+        "timestamp": 1657542700,
+        "sentiment": 0,
+        "published": "July 11, 2022 8:31 AM"
+    },
+    {
+        "title": "WNBA Commissioner Cathy Engelbert Announces Plans for 40-Game Schedule in 2023 | Sports Illustrated",
+        "domain": "si.com",
+        "category": "sports",
+        "link": "https://www.si.com/wnba/2022/07/10/wnba-announces-40-game-schedule-charter-planes-2023-season",
+        "timestamp": 1657538351,
+        "sentiment": 0,
+        "published": "July 11, 2022 7:19 AM"
     },
     {
         "title": "Ukraine’s Defense Minister Says It Has ‘Passed Test’ on New U.S. Guided Rockets, Needs More Himars launchers that can reach far behind enemy lines are a game-changer, says Oleksii Reznikov",
