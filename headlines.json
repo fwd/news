@@ -5,7 +5,7 @@
         "category": "technology",
         "link": "https://techcrunch.com/2022/07/10/leaked-uber-files-reveal-history-of-lawbreaking-lobbying-and-exploiting-violence-against-drivers/",
         "timestamp": 1657513103,
-        "sentiment": -6,
+        "sentiment": -14,
         "published": "July 11, 2022 12:18 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "ukraine",
         "link": "https://english.nv.ua/nation/zelenskyy-is-sent-petition-asking-to-legalize-same-sex-marriages-50255367.html",
         "timestamp": 1657514158,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 11, 2022 12:35 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/texas-grid-operator-warns-potential-rolling-blackouts-monday-2022-07-11/",
         "timestamp": 1657514452,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 11, 2022 12:40 AM"
     },
     {
@@ -32,17 +32,8 @@
         "category": "technology",
         "link": "https://www.scmp.com/news/asia/southeast-asia/article/3184816/chinese-built-surveillance-systems-spread-across-junta",
         "timestamp": 1657518918,
-        "sentiment": -6,
+        "sentiment": -14,
         "published": "July 11, 2022 1:55 AM"
-    },
-    {
-        "title": "China crushes mass demonstration by bank depositors demanding their life savings back",
-        "domain": "cnn.com",
-        "category": "news",
-        "link": "https://www.cnn.com/2022/07/10/china/china-henan-bank-depositors-protest-mic-intl-hnk/index.html",
-        "timestamp": 1657519061,
-        "sentiment": 0,
-        "published": "July 11, 2022 1:57 AM"
     },
     {
         "title": "NASA Shares List of Cosmic Targets for Webb Telescope's First Images",
@@ -59,7 +50,7 @@
         "category": "technology",
         "link": "https://www.bloomberg.com/news/articles/2022-07-09/us-electric-car-sales-reach-key-milestone#xj4y7vzkg",
         "timestamp": 1657520657,
-        "sentiment": -6,
+        "sentiment": -14,
         "published": "July 11, 2022 2:24 AM"
     },
     {
@@ -86,7 +77,7 @@
         "category": "politics",
         "link": "https://www.nytimes.com/2022/07/11/us/politics/biden-approval-polling-2024.html",
         "timestamp": 1657526668,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 11, 2022 4:04 AM"
     },
     {
@@ -95,7 +86,7 @@
         "category": "nottheonion",
         "link": "https://philstarlife.com/living/175760-chinese-ice-cream-brand-doesnt-melt",
         "timestamp": 1657529531,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 11, 2022 4:52 AM"
     },
     {
@@ -104,7 +95,7 @@
         "category": "news",
         "link": "https://www.fox35orlando.com/news/florida-woman-kills-fish-by-pouring-hot-sauce-in-tank-during-argument-deputies-say",
         "timestamp": 1657530407,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 11, 2022 5:06 AM"
     },
     {
@@ -126,39 +117,12 @@
         "published": "July 11, 2022 5:31 AM"
     },
     {
-        "title": "New report finds UK supermarkets are still deforesting the Amazon to supply feed for farmed chickens and pigs. At least 27,000 hectares of forest has been burned down since August 2020.",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/environment/2022/jul/11/uk-supermarkets-could-still-be-buying-meat-linked-to-deforestation-in-brazil-report-suggests",
-        "timestamp": 1657532637,
-        "sentiment": 0,
-        "published": "July 11, 2022 5:43 AM"
-    },
-    {
-        "title": "Ukraine Embassy in Czech Republic is organizing an exhibition of destroyed Russian military equipment",
-        "domain": "imgur.com",
-        "category": "ukraine",
-        "link": "https://imgur.com/a/wSUqrFy",
-        "timestamp": 1657533805,
-        "sentiment": -3,
-        "published": "July 11, 2022 6:03 AM"
-    },
-    {
-        "title": "Paramount+ Ordered Almost As Many UK Shows As Netflix In 2022 – Report",
-        "domain": "deadline.com",
-        "category": "television",
-        "link": "https://deadline.com/2022/07/paramount-netflix-uk-shows-research-ampere-analysis-1235061239/",
-        "timestamp": 1657534840,
-        "sentiment": 0,
-        "published": "July 11, 2022 6:20 AM"
-    },
-    {
         "title": "Lithuania has expanded restrictions on the transit of goods through its territory to #Kaliningrad, Reuters reports. As of today, cement, timber, alcohol and alcohol-based industrial chemicals are banned, a #Lithuanian customs official said.",
         "domain": "mobile.twitter.com",
         "category": "ukraine",
         "link": "https://mobile.twitter.com/nexta_tv/status/1546412556268572673",
         "timestamp": 1657535136,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 11, 2022 6:25 AM"
     },
     {
@@ -176,7 +140,7 @@
         "category": "news",
         "link": "https://www.reuters.com/technology/exclusive-binance-served-crypto-traders-iran-years-despite-us-sanctions-clients-2022-07-11/",
         "timestamp": 1657535452,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 11, 2022 6:30 AM"
     },
     {
@@ -185,7 +149,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/lauren-boebert-fbi-joe-biden-tweet-b2120106.html",
         "timestamp": 1657535822,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 11, 2022 6:37 AM"
     },
     {
@@ -194,7 +158,7 @@
         "category": "nottheonion",
         "link": "https://www.rfa.org/english/news/china/polygraph-loyalty-07042022131133.html",
         "timestamp": 1657536203,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 11, 2022 6:43 AM"
     },
     {
@@ -203,7 +167,7 @@
         "category": "politics",
         "link": "https://www.propublica.org/article/family-research-council-irs-church-status",
         "timestamp": 1657536474,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 11, 2022 6:47 AM"
     },
     {
@@ -212,7 +176,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/Gerashchenko_en/status/1546439029561999362?t=BodxRgj3_q8DiOmg_EFd_w&s=19",
         "timestamp": 1657536525,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 11, 2022 6:48 AM"
     },
     {
@@ -230,17 +194,8 @@
         "category": "sports",
         "link": "https://timesofindia.indiatimes.com/city/ahmedabad/fake-ipl-in-gujarat-village-dupes-russian-punters/articleshow/92789976.cms",
         "timestamp": 1657537258,
-        "sentiment": -7,
+        "sentiment": 1,
         "published": "July 11, 2022 7:00 AM"
-    },
-    {
-        "title": "DOJ reveals investigators interviewed Trump's attorney in connection with Bannon contempt case",
-        "domain": "abcnews.go.com",
-        "category": "politics",
-        "link": "https://abcnews.go.com/US/doj-reveals-investigators-interviewed-trumps-attorney-connection-bannon/story?id=86588798",
-        "timestamp": 1657537384,
-        "sentiment": -2,
-        "published": "July 11, 2022 7:03 AM"
     },
     {
         "title": "WNBA Commissioner Cathy Engelbert Announces Plans for 40-Game Schedule in 2023 | Sports Illustrated",
@@ -248,7 +203,7 @@
         "category": "sports",
         "link": "https://www.si.com/wnba/2022/07/10/wnba-announces-40-game-schedule-charter-planes-2023-season",
         "timestamp": 1657538351,
-        "sentiment": -7,
+        "sentiment": 1,
         "published": "July 11, 2022 7:19 AM"
     },
     {
@@ -266,7 +221,7 @@
         "category": "technology",
         "link": "https://www.bbc.com/news/business-62099061",
         "timestamp": 1657538579,
-        "sentiment": -6,
+        "sentiment": -14,
         "published": "July 11, 2022 7:22 AM"
     },
     {
@@ -288,15 +243,6 @@
         "published": "July 11, 2022 7:29 AM"
     },
     {
-        "title": "In escalation, Iran enriches to 20% with new centrifuges at fortified site",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/news/world/iran-uranium-enriches-centrifuges-fordo-nuclear-talks-jcpoa-rcna37568",
-        "timestamp": 1657540442,
-        "sentiment": 0,
-        "published": "July 11, 2022 7:54 AM"
-    },
-    {
         "title": "Increased engagement with politics on social media predicts future decreases in racial resentment among liberals in the United States, though this doesn’t appear to be the case for conservatives or independents, according to new research",
         "domain": "psypost.org",
         "category": "science",
@@ -311,8 +257,17 @@
         "category": "ukraine",
         "link": "https://www.pravda.com.ua/eng/news/2022/07/11/7357480/",
         "timestamp": 1657540544,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 11, 2022 7:55 AM"
+    },
+    {
+        "title": "Russian invaders said to be preparing for street fighting in occupied Kherson",
+        "domain": "english.nv.ua",
+        "category": "ukraine",
+        "link": "https://english.nv.ua/nation/russian-invaders-said-to-be-preparing-for-street-fighting-in-occupied-kherson-50255646.html",
+        "timestamp": 1657541647,
+        "sentiment": -2,
+        "published": "July 11, 2022 8:14 AM"
     },
     {
         "title": "A distillery is fighting invasive crabs by turning them into whiskey",
@@ -320,7 +275,7 @@
         "category": "nottheonion",
         "link": "https://www.npr.org/2022/07/11/1110541257/invasive-green-crabs-whiskey-new-hampshire",
         "timestamp": 1657541654,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 11, 2022 8:14 AM"
     },
     {
@@ -338,7 +293,7 @@
         "category": "nottheonion",
         "link": "https://scitechdaily.com/controversial-prehistoric-egg-identified-to-be-the-last-of-the-demon-ducks-of-doom",
         "timestamp": 1657542589,
-        "sentiment": -2,
+        "sentiment": 1,
         "published": "July 11, 2022 8:29 AM"
     },
     {
@@ -356,7 +311,7 @@
         "category": "politics",
         "link": "https://www.texastribune.org/2022/07/11/beto-orourke-campaign-texas/",
         "timestamp": 1657542972,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 11, 2022 8:36 AM"
     },
     {
@@ -365,7 +320,7 @@
         "category": "technology",
         "link": "https://www.wired.com/story/genetic-screening-ivf-healthiest-embryos/",
         "timestamp": 1657542987,
-        "sentiment": -6,
+        "sentiment": -14,
         "published": "July 11, 2022 8:36 AM"
     },
     {
@@ -376,15 +331,6 @@
         "timestamp": 1657543040,
         "sentiment": 0,
         "published": "July 11, 2022 8:37 AM"
-    },
-    {
-        "title": "Ron DeSantis falsely claims Biden trying to ‘buy off’ states to adopt critical race theory",
-        "domain": "politifact.com",
-        "category": "politics",
-        "link": "https://www.politifact.com/factchecks/2022/jul/08/ron-desantis/ron-desantis-falsely-claims-biden-trying-buy-state/",
-        "timestamp": 1657543143,
-        "sentiment": -2,
-        "published": "July 11, 2022 8:39 AM"
     },
     {
         "title": "Putin decree gives all Ukrainians path to Russian citizenship",
@@ -410,7 +356,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/trump-lawyer-justin-clark-says-ex-president-never-bothered-to-invoke-executive-privilege-for-steve-bannon",
         "timestamp": 1657543836,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 11, 2022 8:50 AM"
     },
     {
@@ -428,7 +374,7 @@
         "category": "technology",
         "link": "https://www.newsweek.com/iss-waste-disposal-new-method-1723390",
         "timestamp": 1657544747,
-        "sentiment": -6,
+        "sentiment": -14,
         "published": "July 11, 2022 9:05 AM"
     },
     {
@@ -437,7 +383,7 @@
         "category": "technology",
         "link": "https://www.freethink.com/technology/autonomous-ships",
         "timestamp": 1657544915,
-        "sentiment": -6,
+        "sentiment": -14,
         "published": "July 11, 2022 9:08 AM"
     },
     {
@@ -482,17 +428,8 @@
         "category": "politics",
         "link": "https://www.nbcnews.com/politics/justice-department/steve-bannons-eleventh-hour-reversal-jan-6-testimony-stunt-doj-says-rcna37585",
         "timestamp": 1657546532,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 11, 2022 9:35 AM"
-    },
-    {
-        "title": "China warns Asian nations to avoid being used as 'chess pieces' by big powers",
-        "domain": "channelnewsasia.com",
-        "category": "nottheonion",
-        "link": "https://www.channelnewsasia.com/asia/china-asean-wang-yi-chess-pieces-2801576",
-        "timestamp": 1657547111,
-        "sentiment": -2,
-        "published": "July 11, 2022 9:45 AM"
     },
     {
         "title": "Captured Pantsir-S1 has already been brought to use and destroyed its first target.",
@@ -500,7 +437,7 @@
         "category": "ukraine",
         "link": "https://armyinform.com.ua/2022/07/11/trofejnyj-panczyr-s1-uzhe-voyuye-na-boczi-ukrayiny-ta-znyshhyv-pershu-vorozhu-czil/",
         "timestamp": 1657547258,
-        "sentiment": -3,
+        "sentiment": -2,
         "published": "July 11, 2022 9:47 AM"
     },
     {
@@ -522,12 +459,21 @@
         "published": "July 11, 2022 9:54 AM"
     },
     {
+        "title": "Grill’d receives $16m taxpayer funding for controversial ‘Hamburger University’ training program",
+        "domain": "news.com.au",
+        "category": "nottheonion",
+        "link": "https://www.news.com.au/finance/business/retail/grilld-receives-16-million-in-taxpayer-funding-for-controversial-hamburger-university/news-story/5ae8e2bf0fcbfd72299d47a5a80ee037",
+        "timestamp": 1657547816,
+        "sentiment": 1,
+        "published": "July 11, 2022 9:56 AM"
+    },
+    {
         "title": "At least 15 dead in a mass shooting at a bar in Soweto, South Africa",
         "domain": "cnn.com",
         "category": "news",
         "link": "https://www.cnn.com/2022/07/10/africa/soweto-south-africa-shooting-intl/index.html",
         "timestamp": 1657547939,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 11, 2022 9:58 AM"
     },
     {
@@ -538,15 +484,6 @@
         "timestamp": 1657547997,
         "sentiment": 0,
         "published": "July 11, 2022 9:59 AM"
-    },
-    {
-        "title": "‘Blood & Treasure’ Season 2 Has Unplanned Parallels to Real World",
-        "domain": "tvline.com",
-        "category": "television",
-        "link": "https://tvline.com/2022/07/10/blood-and-treasure-season-2-preview-paramount-plus/",
-        "timestamp": 1657549428,
-        "sentiment": 0,
-        "published": "July 11, 2022 10:23 AM"
     },
     {
         "title": "'Terrorism:' Abe killing seen as attack on Japan's democracy",
@@ -563,8 +500,26 @@
         "category": "politics",
         "link": "https://www.newsweek.com/texas-power-shortage-electricity-ercot-reserve-capacity-1723288",
         "timestamp": 1657550168,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 11, 2022 10:36 AM"
+    },
+    {
+        "title": "Ron DeSantis Would Kill Democracy Slowly and Methodically",
+        "domain": "nymag.com",
+        "category": "politics",
+        "link": "https://nymag.com/intelligencer/2022/07/ron-desantis-authoritarian-democracy-trump-2024-republican.html?utm_medium=s1&utm_campaign=nym&utm_source=tw",
+        "timestamp": 1657550184,
+        "sentiment": -1,
+        "published": "July 11, 2022 10:36 AM"
+    },
+    {
+        "title": "Following 21st grand slam title, what's next for Djokovic?",
+        "domain": "cnn.com",
+        "category": "sports",
+        "link": "https://www.cnn.com/2022/07/11/tennis/novak-djokovic-what-next-wimbledon-spt-intl/index.html",
+        "timestamp": 1657550255,
+        "sentiment": 1,
+        "published": "July 11, 2022 10:37 AM"
     },
     {
         "title": "Kim Glass, former Olympic volleyball player, says she was attacked by homeless man in LA",
@@ -572,7 +527,7 @@
         "category": "news",
         "link": "https://abc7.com/kim-glass-olympian-attacked-downtown-los-angeles/12042519/",
         "timestamp": 1657550311,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 11, 2022 10:38 AM"
     },
     {
@@ -594,22 +549,22 @@
         "published": "July 11, 2022 10:41 AM"
     },
     {
-        "title": "You’ll Soon Be Able to Get a 24/7 Stream of Jeopardy! and Wheel of Fortune",
-        "domain": "vulture.com",
-        "category": "television",
-        "link": "https://www.vulture.com/2022/07/pluto-tv-streaming-jeopardy-wheel-of-fortune-24-7.html",
-        "timestamp": 1657550490,
-        "sentiment": 0,
-        "published": "July 11, 2022 10:41 AM"
-    },
-    {
         "title": "Officials agree to release some surveillance footage from Uvalde shooting",
         "domain": "abcnews.go.com",
         "category": "news",
         "link": "https://abcnews.go.com/US/officials-agree-release-surveillance-footage-uvalde-shooting/story?id=86602983",
         "timestamp": 1657551191,
-        "sentiment": 0,
+        "sentiment": -5,
         "published": "July 11, 2022 10:53 AM"
+    },
+    {
+        "title": "'The Rehearsal' Review: Nathan Fielder Is Back and More Ambitious and Hilarious Than Ever",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/the-rehearsal-tv-show-review-nathan-fielder-hbo/",
+        "timestamp": 1657551580,
+        "sentiment": 0,
+        "published": "July 11, 2022 10:59 AM"
     },
     {
         "title": "No textile park near Mattewara forest: Punjab CM Mann",
@@ -630,13 +585,211 @@
         "published": "July 11, 2022 11:22 AM"
     },
     {
+        "title": "Racist Algorithms Are Making Robots Racist Too | Researchers show that large AI models are threatening to bring racist and sexist bias into the realm of robotics.",
+        "domain": "vice.com",
+        "category": "technology",
+        "link": "https://www.vice.com/en/article/qjk8jx/racist-algorithms-are-making-robots-racist-too",
+        "timestamp": 1657553297,
+        "sentiment": -14,
+        "published": "July 11, 2022 11:28 AM"
+    },
+    {
+        "title": "Russia ‘struggling’ to give troops in Ukraine breaks from combat: UK intelligence",
+        "domain": "thehill.com",
+        "category": "worldnews",
+        "link": "https://thehill.com/policy/defense/3553090-russia-struggling-to-give-troops-in-ukraine-breaks-from-combat-uk-intelligence/",
+        "timestamp": 1657553340,
+        "sentiment": 0,
+        "published": "July 11, 2022 11:29 AM"
+    },
+    {
         "title": "Olympian Kim Glass suffers gruesome injuries after she was attacked in Los Angeles",
         "domain": "foxnews.com",
         "category": "sports",
         "link": "https://www.foxnews.com/sports/olympian-kim-glass-injuries-attacked-los-angeles",
         "timestamp": 1657553638,
-        "sentiment": -7,
+        "sentiment": 1,
         "published": "July 11, 2022 11:33 AM"
+    },
+    {
+        "title": "Many Republicans secretly tell Liz Cheney they support her but won't say it in public for fear of Trump, a new book says",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/republicans-back-cheney-but-not-in-public-fearing-trump-book-2022-7",
+        "timestamp": 1657553796,
+        "sentiment": -1,
+        "published": "July 11, 2022 11:36 AM"
+    },
+    {
+        "title": "At least 1 dead, 5 hurt in shooting outside Kansas City bar where off-duty officers were working",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/least-1-dead-5-hurt-shooting-kansas-city-bar-duty-officers-working-rcna37588",
+        "timestamp": 1657554449,
+        "sentiment": -5,
+        "published": "July 11, 2022 11:47 AM"
+    },
+    {
+        "title": "FDA to review first ever over-the-counter birth control pill",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/perrigo-unit-submits-approval-application-fda-otc-birth-control-pill-2022-07-11/",
+        "timestamp": 1657554628,
+        "sentiment": -5,
+        "published": "July 11, 2022 11:50 AM"
+    },
+    {
+        "title": "The US President will reveal the first full-color image from the Webb Space Telescope at the White House today at 5 p.m. ET",
+        "domain": "gizmodo.com",
+        "category": "technology",
+        "link": "https://gizmodo.com/biden-to-reveal-first-full-color-image-webb-telescope-n-1849163898",
+        "timestamp": 1657555391,
+        "sentiment": -14,
+        "published": "July 11, 2022 12:03 PM"
+    },
+    {
+        "title": "Ohio Health Department offering free gas card with STD test",
+        "domain": "wtrf.com",
+        "category": "nottheonion",
+        "link": "https://www.wtrf.com/belmont-county/ohio-health-department-offering-free-gas-card-with-std-test/",
+        "timestamp": 1657555485,
+        "sentiment": 1,
+        "published": "July 11, 2022 12:04 PM"
+    },
+    {
+        "title": "MIT scientists created a \"psychopath\" AI by feeding it violent content from Reddit",
+        "domain": "news.avclub.com",
+        "category": "nottheonion",
+        "link": "https://news.avclub.com/mit-scientists-created-a-psychopath-ai-by-feeding-it-1826623094",
+        "timestamp": 1657555779,
+        "sentiment": 1,
+        "published": "July 11, 2022 12:09 PM"
+    },
+    {
+        "title": "Starbucks pulls new chicken sandwich after diarrhea complaints",
+        "domain": "fox59.com",
+        "category": "nottheonion",
+        "link": "https://fox59.com/news/national-world/starbucks-pulls-new-chicken-sandwich-after-diarrhea-complaints/",
+        "timestamp": 1657556172,
+        "sentiment": 1,
+        "published": "July 11, 2022 12:16 PM"
+    },
+    {
+        "title": "Costco CEO’s one-word answer to whether he would raise the price of hot dogs: ‘No’",
+        "domain": "cnbc.com",
+        "category": "news",
+        "link": "https://www.cnbc.com/2022/07/11/costco-ceos-one-word-answer-to-whether-he-would-raise-the-price-of-hot-dogs-no.html",
+        "timestamp": 1657557800,
+        "sentiment": -5,
+        "published": "July 11, 2022 12:43 PM"
+    },
+    {
+        "title": "Nasim Pedrad’s ‘Chad’ Scrapped at TBS",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/tbs-cancels-chad-season-2-may-run-elsewhere-1235178119/",
+        "timestamp": 1657558554,
+        "sentiment": 0,
+        "published": "July 11, 2022 12:55 PM"
+    },
+    {
+        "title": "‘Only Murders In The Building’ Renewed For Third Season By Hulu",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/07/only-murders-in-the-building-renewed-third-season-hulu-1235061298/",
+        "timestamp": 1657559743,
+        "sentiment": 0,
+        "published": "July 11, 2022 1:15 PM"
+    },
+    {
+        "title": "China crushes mass demonstration by bank depositors demanding their life savings back",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/07/10/china/china-henan-bank-depositors-protest-mic-intl-hnk/index.html",
+        "timestamp": 1657519061,
+        "sentiment": 0,
+        "published": "July 11, 2022 1:57 AM"
+    },
+    {
+        "title": "New report finds UK supermarkets are still deforesting the Amazon to supply feed for farmed chickens and pigs. At least 27,000 hectares of forest has been burned down since August 2020.",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/environment/2022/jul/11/uk-supermarkets-could-still-be-buying-meat-linked-to-deforestation-in-brazil-report-suggests",
+        "timestamp": 1657532637,
+        "sentiment": 0,
+        "published": "July 11, 2022 5:43 AM"
+    },
+    {
+        "title": "Ukraine Embassy in Czech Republic is organizing an exhibition of destroyed Russian military equipment",
+        "domain": "imgur.com",
+        "category": "ukraine",
+        "link": "https://imgur.com/a/wSUqrFy",
+        "timestamp": 1657533805,
+        "sentiment": -3,
+        "published": "July 11, 2022 6:03 AM"
+    },
+    {
+        "title": "Paramount+ Ordered Almost As Many UK Shows As Netflix In 2022 – Report",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/07/paramount-netflix-uk-shows-research-ampere-analysis-1235061239/",
+        "timestamp": 1657534840,
+        "sentiment": 0,
+        "published": "July 11, 2022 6:20 AM"
+    },
+    {
+        "title": "DOJ reveals investigators interviewed Trump's attorney in connection with Bannon contempt case",
+        "domain": "abcnews.go.com",
+        "category": "politics",
+        "link": "https://abcnews.go.com/US/doj-reveals-investigators-interviewed-trumps-attorney-connection-bannon/story?id=86588798",
+        "timestamp": 1657537384,
+        "sentiment": -2,
+        "published": "July 11, 2022 7:03 AM"
+    },
+    {
+        "title": "In escalation, Iran enriches to 20% with new centrifuges at fortified site",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/world/iran-uranium-enriches-centrifuges-fordo-nuclear-talks-jcpoa-rcna37568",
+        "timestamp": 1657540442,
+        "sentiment": 0,
+        "published": "July 11, 2022 7:54 AM"
+    },
+    {
+        "title": "Ron DeSantis falsely claims Biden trying to ‘buy off’ states to adopt critical race theory",
+        "domain": "politifact.com",
+        "category": "politics",
+        "link": "https://www.politifact.com/factchecks/2022/jul/08/ron-desantis/ron-desantis-falsely-claims-biden-trying-buy-state/",
+        "timestamp": 1657543143,
+        "sentiment": -2,
+        "published": "July 11, 2022 8:39 AM"
+    },
+    {
+        "title": "China warns Asian nations to avoid being used as 'chess pieces' by big powers",
+        "domain": "channelnewsasia.com",
+        "category": "nottheonion",
+        "link": "https://www.channelnewsasia.com/asia/china-asean-wang-yi-chess-pieces-2801576",
+        "timestamp": 1657547111,
+        "sentiment": -2,
+        "published": "July 11, 2022 9:45 AM"
+    },
+    {
+        "title": "‘Blood & Treasure’ Season 2 Has Unplanned Parallels to Real World",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/2022/07/10/blood-and-treasure-season-2-preview-paramount-plus/",
+        "timestamp": 1657549428,
+        "sentiment": 0,
+        "published": "July 11, 2022 10:23 AM"
+    },
+    {
+        "title": "You’ll Soon Be Able to Get a 24/7 Stream of Jeopardy! and Wheel of Fortune",
+        "domain": "vulture.com",
+        "category": "television",
+        "link": "https://www.vulture.com/2022/07/pluto-tv-streaming-jeopardy-wheel-of-fortune-24-7.html",
+        "timestamp": 1657550490,
+        "sentiment": 0,
+        "published": "July 11, 2022 10:41 AM"
     },
     {
         "title": "Shinzo Abe killing: Hideo Kojima threatens to sue over false posts",
@@ -648,15 +801,6 @@
         "published": "July 11, 2022 11:41 AM"
     },
     {
-        "title": "The US President will reveal the first full-color image from the Webb Space Telescope at the White House today at 5 p.m. ET",
-        "domain": "gizmodo.com",
-        "category": "technology",
-        "link": "https://gizmodo.com/biden-to-reveal-first-full-color-image-webb-telescope-n-1849163898",
-        "timestamp": 1657555391,
-        "sentiment": -6,
-        "published": "July 11, 2022 12:03 PM"
-    },
-    {
         "title": "Pregnant Texas woman says unborn baby should count as car passenger after receiving HOV ticket",
         "domain": "cnbc.com",
         "category": "nottheonion",
@@ -664,15 +808,6 @@
         "timestamp": 1657555797,
         "sentiment": -2,
         "published": "July 11, 2022 12:09 PM"
-    },
-    {
-        "title": "Starbucks pulls new chicken sandwich after diarrhea complaints",
-        "domain": "fox59.com",
-        "category": "nottheonion",
-        "link": "https://fox59.com/news/national-world/starbucks-pulls-new-chicken-sandwich-after-diarrhea-complaints/",
-        "timestamp": 1657556172,
-        "sentiment": -2,
-        "published": "July 11, 2022 12:16 PM"
     },
     {
         "title": "Russia's turning off natural-gas supply via a key pipeline to Germany for maintenance today. Europe fears the shutdown may be permanent.",
@@ -736,15 +871,6 @@
         "timestamp": 1657545822,
         "sentiment": -2,
         "published": "July 11, 2022 9:23 AM"
-    },
-    {
-        "title": "Grill’d receives $16m taxpayer funding for controversial ‘Hamburger University’ training program",
-        "domain": "news.com.au",
-        "category": "nottheonion",
-        "link": "https://www.news.com.au/finance/business/retail/grilld-receives-16-million-in-taxpayer-funding-for-controversial-hamburger-university/news-story/5ae8e2bf0fcbfd72299d47a5a80ee037",
-        "timestamp": 1657547816,
-        "sentiment": 0,
-        "published": "July 11, 2022 9:56 AM"
     },
     {
         "title": "‘Aggressive 10-foot-plus alligator’ closed Florida park for a day",
@@ -826,15 +952,6 @@
         "timestamp": 1657546404,
         "sentiment": -3,
         "published": "July 11, 2022 9:33 AM"
-    },
-    {
-        "title": "Following 21st grand slam title, what's next for Djokovic?",
-        "domain": "cnn.com",
-        "category": "sports",
-        "link": "https://www.cnn.com/2022/07/11/tennis/novak-djokovic-what-next-wimbledon-spt-intl/index.html",
-        "timestamp": 1657550255,
-        "sentiment": 4,
-        "published": "July 11, 2022 10:37 AM"
     },
     {
         "title": "Family found living with cache of weapons inside Nevada children's museum",
