@@ -5,7 +5,7 @@
         "category": "technology",
         "link": "https://techcrunch.com/2022/07/10/leaked-uber-files-reveal-history-of-lawbreaking-lobbying-and-exploiting-violence-against-drivers/",
         "timestamp": 1657513103,
-        "sentiment": 0,
+        "sentiment": -8,
         "published": "July 11, 2022 12:18 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "technology",
         "link": "https://www.scmp.com/news/asia/southeast-asia/article/3184816/chinese-built-surveillance-systems-spread-across-junta",
         "timestamp": 1657518918,
-        "sentiment": 0,
+        "sentiment": -8,
         "published": "July 11, 2022 1:55 AM"
     },
     {
@@ -41,7 +41,7 @@
         "category": "nottheonion",
         "link": "https://philstarlife.com/living/175760-chinese-ice-cream-brand-doesnt-melt",
         "timestamp": 1657529531,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 11, 2022 4:52 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/nexta_tv/status/1546412556268572673",
         "timestamp": 1657535136,
-        "sentiment": -8,
+        "sentiment": 0,
         "published": "July 11, 2022 6:25 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/lauren-boebert-fbi-joe-biden-tweet-b2120106.html",
         "timestamp": 1657535822,
-        "sentiment": 3,
+        "sentiment": 1,
         "published": "July 11, 2022 6:37 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "nottheonion",
         "link": "https://www.rfa.org/english/news/china/polygraph-loyalty-07042022131133.html",
         "timestamp": 1657536203,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 11, 2022 6:43 AM"
     },
     {
@@ -86,7 +86,7 @@
         "category": "politics",
         "link": "https://www.propublica.org/article/family-research-council-irs-church-status",
         "timestamp": 1657536474,
-        "sentiment": 3,
+        "sentiment": 1,
         "published": "July 11, 2022 6:47 AM"
     },
     {
@@ -95,7 +95,7 @@
         "category": "sports",
         "link": "https://timesofindia.indiatimes.com/city/ahmedabad/fake-ipl-in-gujarat-village-dupes-russian-punters/articleshow/92789976.cms",
         "timestamp": 1657537258,
-        "sentiment": 4,
+        "sentiment": -3,
         "published": "July 11, 2022 7:00 AM"
     },
     {
@@ -113,7 +113,7 @@
         "category": "technology",
         "link": "https://www.bbc.com/news/business-62099061",
         "timestamp": 1657538579,
-        "sentiment": 0,
+        "sentiment": -8,
         "published": "July 11, 2022 7:22 AM"
     },
     {
@@ -149,17 +149,8 @@
         "category": "nottheonion",
         "link": "https://www.npr.org/2022/07/11/1110541257/invasive-green-crabs-whiskey-new-hampshire",
         "timestamp": 1657541654,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 11, 2022 8:14 AM"
-    },
-    {
-        "title": "Ukraine aims to amass 'million-strong army' to recapture south, says defence minister",
-        "domain": "bbc.com",
-        "category": "worldnews",
-        "link": "https://www.bbc.com/news/world-europe-62118953",
-        "timestamp": 1657542083,
-        "sentiment": 0,
-        "published": "July 11, 2022 8:21 AM"
     },
     {
         "title": "Study finds growing Covid vaccine acceptance across world",
@@ -176,7 +167,7 @@
         "category": "nottheonion",
         "link": "https://scitechdaily.com/controversial-prehistoric-egg-identified-to-be-the-last-of-the-demon-ducks-of-doom",
         "timestamp": 1657542589,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 11, 2022 8:29 AM"
     },
     {
@@ -194,7 +185,7 @@
         "category": "technology",
         "link": "https://www.wired.com/story/genetic-screening-ivf-healthiest-embryos/",
         "timestamp": 1657542987,
-        "sentiment": 0,
+        "sentiment": -8,
         "published": "July 11, 2022 8:36 AM"
     },
     {
@@ -203,7 +194,7 @@
         "category": "television",
         "link": "https://www.seibertron.com/transformers/news/transformers-earthspark-cast-revealed-with-danny-pudi-as-bumblebee/47041/",
         "timestamp": 1657543040,
-        "sentiment": 2,
+        "sentiment": 4,
         "published": "July 11, 2022 8:37 AM"
     },
     {
@@ -212,17 +203,8 @@
         "category": "technology",
         "link": "https://www.newsweek.com/iss-waste-disposal-new-method-1723390",
         "timestamp": 1657544747,
-        "sentiment": 0,
+        "sentiment": -8,
         "published": "July 11, 2022 9:05 AM"
-    },
-    {
-        "title": "Hyundai's autonomous ship is the first to make a transoceanic journey",
-        "domain": "freethink.com",
-        "category": "technology",
-        "link": "https://www.freethink.com/technology/autonomous-ships",
-        "timestamp": 1657544915,
-        "sentiment": 0,
-        "published": "July 11, 2022 9:08 AM"
     },
     {
         "title": "In Comeback Moment, Up to 150 Fin Whales Spotted Feeding off Antarctica",
@@ -288,21 +270,12 @@
         "published": "July 11, 2022 9:59 AM"
     },
     {
-        "title": "GOP leaders are literally speechless about the good news on jobs",
-        "domain": "msnbc.com",
-        "category": "politics",
-        "link": "https://www.msnbc.com/rachel-maddow-show/maddowblog/gop-leaders-are-literally-speechless-good-news-jobs-rcna37595",
-        "timestamp": 1657548314,
-        "sentiment": 3,
-        "published": "July 11, 2022 10:05 AM"
-    },
-    {
         "title": "Ron DeSantis Would Kill Democracy Slowly and Methodically",
         "domain": "nymag.com",
         "category": "politics",
         "link": "https://nymag.com/intelligencer/2022/07/ron-desantis-authoritarian-democracy-trump-2024-republican.html?utm_medium=s1&utm_campaign=nym&utm_source=tw",
         "timestamp": 1657550184,
-        "sentiment": 3,
+        "sentiment": 1,
         "published": "July 11, 2022 10:36 AM"
     },
     {
@@ -338,7 +311,7 @@
         "category": "television",
         "link": "https://collider.com/the-rehearsal-tv-show-review-nathan-fielder-hbo/",
         "timestamp": 1657551580,
-        "sentiment": 2,
+        "sentiment": 4,
         "published": "July 11, 2022 10:59 AM"
     },
     {
@@ -347,7 +320,7 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/jeremy-allen-white-shameless-upset-1235313365/",
         "timestamp": 1657552974,
-        "sentiment": 2,
+        "sentiment": 4,
         "published": "July 11, 2022 11:22 AM"
     },
     {
@@ -356,7 +329,7 @@
         "category": "sports",
         "link": "https://www.foxnews.com/sports/olympian-kim-glass-injuries-attacked-los-angeles",
         "timestamp": 1657553638,
-        "sentiment": 4,
+        "sentiment": -3,
         "published": "July 11, 2022 11:33 AM"
     },
     {
@@ -365,7 +338,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/republicans-back-cheney-but-not-in-public-fearing-trump-book-2022-7",
         "timestamp": 1657553796,
-        "sentiment": 3,
+        "sentiment": 1,
         "published": "July 11, 2022 11:36 AM"
     },
     {
@@ -387,30 +360,12 @@
         "published": "July 11, 2022 11:50 AM"
     },
     {
-        "title": "Resident Alien’ gets Hollywood Critics Association nomination for best cable comedy series.",
-        "domain": "syfy.com",
-        "category": "television",
-        "link": "https://www.syfy.com/syfy-wire/resident-alien-hca-nomination-best-cable-comedy-series",
-        "timestamp": 1657555143,
-        "sentiment": 2,
-        "published": "July 11, 2022 11:59 AM"
-    },
-    {
-        "title": "Ohio Health Department offering free gas card with STD test",
-        "domain": "wtrf.com",
-        "category": "nottheonion",
-        "link": "https://www.wtrf.com/belmont-county/ohio-health-department-offering-free-gas-card-with-std-test/",
-        "timestamp": 1657555485,
-        "sentiment": 1,
-        "published": "July 11, 2022 12:04 PM"
-    },
-    {
         "title": "MIT scientists created a \"psychopath\" AI by feeding it violent content from Reddit",
         "domain": "news.avclub.com",
         "category": "nottheonion",
         "link": "https://news.avclub.com/mit-scientists-created-a-psychopath-ai-by-feeding-it-1826623094",
         "timestamp": 1657555779,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 11, 2022 12:09 PM"
     },
     {
@@ -419,7 +374,7 @@
         "category": "politics",
         "link": "https://www.vice.com/en/article/qjk8wp/texas-pregnant-woman-traffic-ticket-fetus-passenger",
         "timestamp": 1657556148,
-        "sentiment": 3,
+        "sentiment": 1,
         "published": "July 11, 2022 12:15 PM"
     },
     {
@@ -455,7 +410,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/tbs-cancels-chad-season-2-may-run-elsewhere-1235178119/",
         "timestamp": 1657558554,
-        "sentiment": 2,
+        "sentiment": 4,
         "published": "July 11, 2022 12:55 PM"
     },
     {
@@ -464,7 +419,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/visegrad24/status/1546508090027245574",
         "timestamp": 1657558591,
-        "sentiment": -8,
+        "sentiment": 0,
         "published": "July 11, 2022 12:56 PM"
     },
     {
@@ -473,7 +428,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/07/only-murders-in-the-building-renewed-third-season-hulu-1235061298/",
         "timestamp": 1657559743,
-        "sentiment": 2,
+        "sentiment": 4,
         "published": "July 11, 2022 1:15 PM"
     },
     {
@@ -491,7 +446,7 @@
         "category": "technology",
         "link": "https://arstechnica.com/cars/2022/07/heres-one-way-we-know-that-an-evs-battery-will-last-the-cars-lifetime/",
         "timestamp": 1657560568,
-        "sentiment": 0,
+        "sentiment": -8,
         "published": "July 11, 2022 1:29 PM"
     },
     {
@@ -536,7 +491,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/Gerashchenko_en/status/1546526587188830208",
         "timestamp": 1657562561,
-        "sentiment": -8,
+        "sentiment": 0,
         "published": "July 11, 2022 2:02 PM"
     },
     {
@@ -545,7 +500,7 @@
         "category": "technology",
         "link": "https://www.bellinghamherald.com/news/politics-government/article263358158.html",
         "timestamp": 1657562932,
-        "sentiment": 0,
+        "sentiment": -8,
         "published": "July 11, 2022 2:08 PM"
     },
     {
@@ -554,7 +509,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/apmassaro3/status/1546097715335118850",
         "timestamp": 1657563034,
-        "sentiment": -8,
+        "sentiment": 0,
         "published": "July 11, 2022 2:10 PM"
     },
     {
@@ -563,7 +518,7 @@
         "category": "politics",
         "link": "https://www.axios.com/2022/07/11/bill-barr-dominion-fox-news-defamation?utm_source=facebook&utm_medium=social&utm_campaign=editorial&utm_content=top-stories&fbclid=IwAR0ckxDu1bqO_OQRcbO5wlol0S63wBu675W0JlWasMKJwuhFcjYC6xnCb3w",
         "timestamp": 1657563544,
-        "sentiment": 3,
+        "sentiment": 1,
         "published": "July 11, 2022 2:19 PM"
     },
     {
@@ -572,7 +527,7 @@
         "category": "politics",
         "link": "https://www.nbcnews.com/politics/justice-department/judge-wont-delay-steve-bannons-trial-last-minute-offer-cooperate-jan-6-rcna37667",
         "timestamp": 1657564019,
-        "sentiment": 3,
+        "sentiment": 1,
         "published": "July 11, 2022 2:26 PM"
     },
     {
@@ -590,7 +545,7 @@
         "category": "sports",
         "link": "https://www.theguardian.com/sport/2022/jul/09/south-africa-wales-second-test-rugby-union-match-report",
         "timestamp": 1657565391,
-        "sentiment": 4,
+        "sentiment": -3,
         "published": "July 11, 2022 2:49 PM"
     },
     {
@@ -617,7 +572,7 @@
         "category": "television",
         "link": "https://www.indiewire.com/2022/07/tuca-and-bertie-great-tv-one-screen-season-3-review-1234740149/",
         "timestamp": 1657566229,
-        "sentiment": 2,
+        "sentiment": 4,
         "published": "July 11, 2022 3:03 PM"
     },
     {
@@ -626,7 +581,7 @@
         "category": "politics",
         "link": "https://www.wsbtv.com/news/local/atlanta/sen-lindsey-graham-ordered-testify-front-special-grand-jury-trump-election-probe/CWFIZ4EZLFBY3L3MEMJPA6TVL4/",
         "timestamp": 1657567222,
-        "sentiment": 3,
+        "sentiment": 1,
         "published": "July 11, 2022 3:20 PM"
     },
     {
@@ -635,7 +590,7 @@
         "category": "sports",
         "link": "https://www.espn.com/mlb/story/_/id/34227337/dodger-stadium-concession-workers-threaten-strike-ahead-all-star-game",
         "timestamp": 1657567432,
-        "sentiment": 4,
+        "sentiment": -3,
         "published": "July 11, 2022 3:23 PM"
     },
     {
@@ -653,7 +608,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/amazon-is-developing-cancer-vaccines-with-fred-hutchinson-2022-7",
         "timestamp": 1657568118,
-        "sentiment": 0,
+        "sentiment": -8,
         "published": "July 11, 2022 3:35 PM"
     },
     {
@@ -662,7 +617,7 @@
         "category": "nottheonion",
         "link": "https://www.theguardian.com/world/2022/jul/11/us-tourist-injured-falling-mount-vesuvius-crater",
         "timestamp": 1657568901,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 11, 2022 3:48 PM"
     },
     {
@@ -680,7 +635,7 @@
         "category": "television",
         "link": "https://collider.com/iyanu-child-of-wonder-series-cartoon-network-hbo-max/",
         "timestamp": 1657569128,
-        "sentiment": 2,
+        "sentiment": 4,
         "published": "July 11, 2022 3:52 PM"
     },
     {
@@ -707,7 +662,7 @@
         "category": "nottheonion",
         "link": "https://www.nbcbayarea.com/news/local/floating-abortion-clinic-meg-autry/2940013/",
         "timestamp": 1657570503,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 11, 2022 4:15 PM"
     },
     {
@@ -716,8 +671,17 @@
         "category": "nottheonion",
         "link": "https://www.koreatimes.co.kr/www/tech/2022/07/419_332468.html",
         "timestamp": 1657570741,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 11, 2022 4:19 PM"
+    },
+    {
+        "title": "AOC Urges Democrats to Say Whether Kavanaugh, Gorsuch Lied About Roe Views",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/aoc-urges-democrats-to-say-whether-kavanaugh-gorsuch-lied-about-roe-views-2022-7",
+        "timestamp": 1657570918,
+        "sentiment": 1,
+        "published": "July 11, 2022 4:21 PM"
     },
     {
         "title": "Glyphosate, weedkiller ingredient tied to cancer, found in 80% of US urine samples",
@@ -743,7 +707,7 @@
         "category": "television",
         "link": "https://ew.com/tv/jensen-ackles-wants-jeffrey-dean-morgan-on-the-winchesters/",
         "timestamp": 1657572968,
-        "sentiment": 2,
+        "sentiment": 4,
         "published": "July 11, 2022 4:56 PM"
     },
     {
@@ -752,7 +716,7 @@
         "category": "sports",
         "link": "https://www.bbc.co.uk/news/uk-62123886",
         "timestamp": 1657573455,
-        "sentiment": 4,
+        "sentiment": -3,
         "published": "July 11, 2022 5:04 PM"
     },
     {
@@ -761,7 +725,7 @@
         "category": "politics",
         "link": "https://www.newsobserver.com/news/politics-government/article263354463.html",
         "timestamp": 1657573525,
-        "sentiment": 3,
+        "sentiment": 1,
         "published": "July 11, 2022 5:05 PM"
     },
     {
@@ -779,8 +743,98 @@
         "category": "technology",
         "link": "https://www.theverge.com/2022/7/11/23204414/ftc-medical-location-health-data-enforcement-roe-privacy",
         "timestamp": 1657574908,
-        "sentiment": 0,
+        "sentiment": -8,
         "published": "July 11, 2022 5:28 PM"
+    },
+    {
+        "title": "Doctors speak out about Florida's new abortion law, written by lawmakers without medical expertise",
+        "domain": "wlrn.org",
+        "category": "florida",
+        "link": "https://www.wlrn.org/news/2022-07-11/doctors-speak-out-about-floridas-new-abortion-law-written-by-lawmakers-without-medical-expertise",
+        "timestamp": 1657575756,
+        "sentiment": 0,
+        "published": "July 11, 2022 5:42 PM"
+    },
+    {
+        "title": "Maya Rudolph's 'Loot' Renewed for Season 2 at Apple TV+",
+        "domain": "hollywoodreporter.com",
+        "category": "television",
+        "link": "https://www.hollywoodreporter.com/tv/tv-news/apple-tv-renews-loot-maya-rudolph-season-2-1235178403/",
+        "timestamp": 1657576989,
+        "sentiment": 4,
+        "published": "July 11, 2022 6:03 PM"
+    },
+    {
+        "title": "New York City Launches Nuclear Preparedness PSA",
+        "domain": "nbcnewyork.com",
+        "category": "nottheonion",
+        "link": "https://www.nbcnewyork.com/news/so-theres-been-a-nuclear-attack-new-psa-despite-low-likelihood-of-nyc-strike/3768986/",
+        "timestamp": 1657578090,
+        "sentiment": -2,
+        "published": "July 11, 2022 6:21 PM"
+    },
+    {
+        "title": "NASA's Webb Delivers Deepest Infrared Image of Universe Yet",
+        "domain": "nasa.gov",
+        "category": "technology",
+        "link": "https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-delivers-deepest-infrared-image-of-universe-yet",
+        "timestamp": 1657578373,
+        "sentiment": -8,
+        "published": "July 11, 2022 6:26 PM"
+    },
+    {
+        "title": "Some Surprising Good News: Bookstores Are Booming and Becoming More Diverse",
+        "domain": "nytimes.com",
+        "category": "UpliftingNews",
+        "link": "https://www.nytimes.com/2022/07/10/books/bookstores-diversity-pandemic.html",
+        "timestamp": 1657579170,
+        "sentiment": 0,
+        "published": "July 11, 2022 6:39 PM"
+    },
+    {
+        "title": "Ukraine aims to amass 'million-strong army' to recapture south, says defence minister",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-europe-62118953",
+        "timestamp": 1657542083,
+        "sentiment": 0,
+        "published": "July 11, 2022 8:21 AM"
+    },
+    {
+        "title": "Hyundai's autonomous ship is the first to make a transoceanic journey",
+        "domain": "freethink.com",
+        "category": "technology",
+        "link": "https://www.freethink.com/technology/autonomous-ships",
+        "timestamp": 1657544915,
+        "sentiment": 0,
+        "published": "July 11, 2022 9:08 AM"
+    },
+    {
+        "title": "GOP leaders are literally speechless about the good news on jobs",
+        "domain": "msnbc.com",
+        "category": "politics",
+        "link": "https://www.msnbc.com/rachel-maddow-show/maddowblog/gop-leaders-are-literally-speechless-good-news-jobs-rcna37595",
+        "timestamp": 1657548314,
+        "sentiment": 3,
+        "published": "July 11, 2022 10:05 AM"
+    },
+    {
+        "title": "Resident Alien’ gets Hollywood Critics Association nomination for best cable comedy series.",
+        "domain": "syfy.com",
+        "category": "television",
+        "link": "https://www.syfy.com/syfy-wire/resident-alien-hca-nomination-best-cable-comedy-series",
+        "timestamp": 1657555143,
+        "sentiment": 2,
+        "published": "July 11, 2022 11:59 AM"
+    },
+    {
+        "title": "Ohio Health Department offering free gas card with STD test",
+        "domain": "wtrf.com",
+        "category": "nottheonion",
+        "link": "https://www.wtrf.com/belmont-county/ohio-health-department-offering-free-gas-card-with-std-test/",
+        "timestamp": 1657555485,
+        "sentiment": 1,
+        "published": "July 11, 2022 12:04 PM"
     },
     {
         "title": "India's fertility rate dips below replacement level",
