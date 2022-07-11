@@ -14,7 +14,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/texas-grid-operator-warns-potential-rolling-blackouts-monday-2022-07-11/",
         "timestamp": 1657514452,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "July 11, 2022 12:40 AM"
     },
     {
@@ -25,15 +25,6 @@
         "timestamp": 1657518918,
         "sentiment": 0,
         "published": "July 11, 2022 1:55 AM"
-    },
-    {
-        "title": "US Crosses the Electric-Car Tipping Point for Mass Adoption",
-        "domain": "bloomberg.com",
-        "category": "technology",
-        "link": "https://www.bloomberg.com/news/articles/2022-07-09/us-electric-car-sales-reach-key-milestone#xj4y7vzkg",
-        "timestamp": 1657520657,
-        "sentiment": 0,
-        "published": "July 11, 2022 2:24 AM"
     },
     {
         "title": "DeSantis signs executive order to lower prescription drug prices for Floridians",
@@ -68,26 +59,8 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/nexta_tv/status/1546412556268572673",
         "timestamp": 1657535136,
-        "sentiment": 0,
+        "sentiment": -8,
         "published": "July 11, 2022 6:25 AM"
-    },
-    {
-        "title": "Germany braces for ‘nightmare’ of Russia turning off gas for good",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/world/2022/jul/10/germany-russia-gas-flow-permanent-halt-nord-stream-1-maintenance",
-        "timestamp": 1657535164,
-        "sentiment": 0,
-        "published": "July 11, 2022 6:26 AM"
-    },
-    {
-        "title": "Exclusive: Binance served crypto traders in Iran for years despite U.S. sanctions, clients say",
-        "domain": "reuters.com",
-        "category": "news",
-        "link": "https://www.reuters.com/technology/exclusive-binance-served-crypto-traders-iran-years-despite-us-sanctions-clients-2022-07-11/",
-        "timestamp": 1657535452,
-        "sentiment": 2,
-        "published": "July 11, 2022 6:30 AM"
     },
     {
         "title": "Lauren Boebert reported to FBI over Biden tweet: ‘We need to terminate this presidency’",
@@ -117,15 +90,6 @@
         "published": "July 11, 2022 6:47 AM"
     },
     {
-        "title": "Putin ally Lukashenko faces revolt from officers against Ukraine war",
-        "domain": "newsweek.com",
-        "category": "worldnews",
-        "link": "https://www.newsweek.com/putin-ally-lukashenko-faces-revolt-officers-against-ukraine-war-1723224?utm_source=PushnamiMailing&utm_medium=email&utm_campaign=automatic&UTM=1657492932008&subscriberId=6148bf507aeb51cecbacf523",
-        "timestamp": 1657537059,
-        "sentiment": 0,
-        "published": "July 11, 2022 6:57 AM"
-    },
-    {
         "title": "Fake IPL in Gujarat village dupes Russian punters | Ahmedabad News - Times of India",
         "domain": "timesofindia.indiatimes.com",
         "category": "sports",
@@ -133,6 +97,15 @@
         "timestamp": 1657537258,
         "sentiment": 4,
         "published": "July 11, 2022 7:00 AM"
+    },
+    {
+        "title": "China says Asian nations should avoid being used as chess pieces | ASEAN News",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/news/2022/7/11/china-says-asian-nations-should-avoid-being-used-as-chess-pieces",
+        "timestamp": 1657538428,
+        "sentiment": 0,
+        "published": "July 11, 2022 7:20 AM"
     },
     {
         "title": "Uber Files: Tech firm lobbied top ministers at undeclared meetings - BBC News",
@@ -149,7 +122,7 @@
         "category": "UpliftingNews",
         "link": "https://www.usatoday.com/story/news/2022/07/08/solar-wind-power-push-renewable-energy-record-level-us-april/10009400002/",
         "timestamp": 1657538639,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 11, 2022 7:23 AM"
     },
     {
@@ -178,6 +151,15 @@
         "timestamp": 1657541654,
         "sentiment": 1,
         "published": "July 11, 2022 8:14 AM"
+    },
+    {
+        "title": "Ukraine aims to amass 'million-strong army' to recapture south, says defence minister",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/world-europe-62118953",
+        "timestamp": 1657542083,
+        "sentiment": 0,
+        "published": "July 11, 2022 8:21 AM"
     },
     {
         "title": "Study finds growing Covid vaccine acceptance across world",
@@ -221,17 +203,8 @@
         "category": "television",
         "link": "https://www.seibertron.com/transformers/news/transformers-earthspark-cast-revealed-with-danny-pudi-as-bumblebee/47041/",
         "timestamp": 1657543040,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 11, 2022 8:37 AM"
-    },
-    {
-        "title": "Former top Saudi spy says MBS is a 'psychopath with no empathy' in interview aired 5 days before Biden visits the country",
-        "domain": "businessinsider.com",
-        "category": "worldnews",
-        "link": "https://www.businessinsider.com/saudi-former-top-spy-says-mbs-psychopath-threat-to-world-2022-7",
-        "timestamp": 1657544582,
-        "sentiment": 0,
-        "published": "July 11, 2022 9:03 AM"
     },
     {
         "title": "ISS dumps waste container of junk into outer space",
@@ -257,7 +230,7 @@
         "category": "UpliftingNews",
         "link": "https://www.ecowatch.com/fin-whales-antarctica.html",
         "timestamp": 1657545486,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 11, 2022 9:18 AM"
     },
     {
@@ -275,26 +248,8 @@
         "category": "UpliftingNews",
         "link": "https://www.wxyz.com/news/community-steps-up-to-save-beloved-bookstore-in-sw-detroit",
         "timestamp": 1657546148,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 11, 2022 9:29 AM"
-    },
-    {
-        "title": "Charles Darwin's iconic Tree of Life - which was stolen and missing for two decades before its anonymous return in 2022 - has gone on free display in the UK.",
-        "domain": "cam.ac.uk",
-        "category": "UpliftingNews",
-        "link": "https://www.cam.ac.uk/stories/DarwinExhibition",
-        "timestamp": 1657546442,
-        "sentiment": -3,
-        "published": "July 11, 2022 9:34 AM"
-    },
-    {
-        "title": "Steve Bannon's 'eleventh-hour' reversal on Jan. 6 testimony is a stunt, DOJ says",
-        "domain": "nbcnews.com",
-        "category": "politics",
-        "link": "https://www.nbcnews.com/politics/justice-department/steve-bannons-eleventh-hour-reversal-jan-6-testimony-stunt-doj-says-rcna37585",
-        "timestamp": 1657546532,
-        "sentiment": 3,
-        "published": "July 11, 2022 9:35 AM"
     },
     {
         "title": "An Iowa couple bought back their small town's newspaper from media giant Gannett",
@@ -302,7 +257,7 @@
         "category": "UpliftingNews",
         "link": "https://www.npr.org/2022/07/10/1110723389/an-iowa-couple-bought-back-their-small-towns-newspaper-from-media-giant-gannett",
         "timestamp": 1657547611,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 11, 2022 9:53 AM"
     },
     {
@@ -320,7 +275,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/10/africa/soweto-south-africa-shooting-intl/index.html",
         "timestamp": 1657547939,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "July 11, 2022 9:58 AM"
     },
     {
@@ -356,7 +311,7 @@
         "category": "news",
         "link": "https://abc7.com/kim-glass-olympian-attacked-downtown-los-angeles/12042519/",
         "timestamp": 1657550311,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "July 11, 2022 10:38 AM"
     },
     {
@@ -374,7 +329,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/officials-agree-release-surveillance-footage-uvalde-shooting/story?id=86602983",
         "timestamp": 1657551191,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "July 11, 2022 10:53 AM"
     },
     {
@@ -383,7 +338,7 @@
         "category": "television",
         "link": "https://collider.com/the-rehearsal-tv-show-review-nathan-fielder-hbo/",
         "timestamp": 1657551580,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 11, 2022 10:59 AM"
     },
     {
@@ -392,17 +347,8 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/jeremy-allen-white-shameless-upset-1235313365/",
         "timestamp": 1657552974,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 11, 2022 11:22 AM"
-    },
-    {
-        "title": "Russia ‘struggling’ to give troops in Ukraine breaks from combat: UK intelligence",
-        "domain": "thehill.com",
-        "category": "worldnews",
-        "link": "https://thehill.com/policy/defense/3553090-russia-struggling-to-give-troops-in-ukraine-breaks-from-combat-uk-intelligence/",
-        "timestamp": 1657553340,
-        "sentiment": 0,
-        "published": "July 11, 2022 11:29 AM"
     },
     {
         "title": "Olympian Kim Glass suffers gruesome injuries after she was attacked in Los Angeles",
@@ -432,21 +378,12 @@
         "published": "July 11, 2022 11:43 AM"
     },
     {
-        "title": "At least 1 dead, 5 hurt in shooting outside Kansas City bar where off-duty officers were working",
-        "domain": "nbcnews.com",
-        "category": "news",
-        "link": "https://www.nbcnews.com/news/us-news/least-1-dead-5-hurt-shooting-kansas-city-bar-duty-officers-working-rcna37588",
-        "timestamp": 1657554449,
-        "sentiment": 2,
-        "published": "July 11, 2022 11:47 AM"
-    },
-    {
         "title": "FDA to review first ever over-the-counter birth control pill",
         "domain": "reuters.com",
         "category": "news",
         "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/perrigo-unit-submits-approval-application-fda-otc-birth-control-pill-2022-07-11/",
         "timestamp": 1657554628,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "July 11, 2022 11:50 AM"
     },
     {
@@ -455,7 +392,7 @@
         "category": "television",
         "link": "https://www.syfy.com/syfy-wire/resident-alien-hca-nomination-best-cable-comedy-series",
         "timestamp": 1657555143,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 11, 2022 11:59 AM"
     },
     {
@@ -500,7 +437,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/07/11/costco-ceos-one-word-answer-to-whether-he-would-raise-the-price-of-hot-dogs-no.html",
         "timestamp": 1657557800,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "July 11, 2022 12:43 PM"
     },
     {
@@ -518,7 +455,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/tbs-cancels-chad-season-2-may-run-elsewhere-1235178119/",
         "timestamp": 1657558554,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 11, 2022 12:55 PM"
     },
     {
@@ -527,7 +464,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/visegrad24/status/1546508090027245574",
         "timestamp": 1657558591,
-        "sentiment": 0,
+        "sentiment": -8,
         "published": "July 11, 2022 12:56 PM"
     },
     {
@@ -536,7 +473,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/07/only-murders-in-the-building-renewed-third-season-hulu-1235061298/",
         "timestamp": 1657559743,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 11, 2022 1:15 PM"
     },
     {
@@ -563,7 +500,7 @@
         "category": "UpliftingNews",
         "link": "https://www.wkyc.com/article/life/heartwarming/mayfield-heights-mcdonalds-owner-pays-employees-renovation/95-5af9881b-b591-4ff4-a01a-fd854027a16a",
         "timestamp": 1657561022,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 11, 2022 1:37 PM"
     },
     {
@@ -594,21 +531,12 @@
         "published": "July 11, 2022 1:52 PM"
     },
     {
-        "title": "World population to reach 8 billion by November even as growth slows",
-        "domain": "msn.com",
-        "category": "worldnews",
-        "link": "https://www.msn.com/en-us/news/world/world-population-to-reach-8-billion-by-november-even-as-growth-slows/ar-AAZsmiK?ocid=msedgntp&cvid=e8e53375eaa747c9977174ec54617f03",
-        "timestamp": 1657562488,
-        "sentiment": 0,
-        "published": "July 11, 2022 2:01 PM"
-    },
-    {
         "title": "Russian C400 anti-aircraft defense systems aren't able to intercept HIMARS rockets - which Almaz-Antey corporation promised and charged billions for. Russian Armed Forces, their ammunition and fuel warehouses are completely unprotected from the power of American weapons",
         "domain": "mobile.twitter.com",
         "category": "ukraine",
         "link": "https://mobile.twitter.com/Gerashchenko_en/status/1546526587188830208",
         "timestamp": 1657562561,
-        "sentiment": 0,
+        "sentiment": -8,
         "published": "July 11, 2022 2:02 PM"
     },
     {
@@ -626,7 +554,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/apmassaro3/status/1546097715335118850",
         "timestamp": 1657563034,
-        "sentiment": 0,
+        "sentiment": -8,
         "published": "July 11, 2022 2:10 PM"
     },
     {
@@ -653,7 +581,7 @@
         "category": "news",
         "link": "https://apnews.com/article/china-united-nations-antonio-guterres-00f6ef38132fe988ceb3e7e143e1f033",
         "timestamp": 1657564351,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "July 11, 2022 2:32 PM"
     },
     {
@@ -689,7 +617,7 @@
         "category": "television",
         "link": "https://www.indiewire.com/2022/07/tuca-and-bertie-great-tv-one-screen-season-3-review-1234740149/",
         "timestamp": 1657566229,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 11, 2022 3:03 PM"
     },
     {
@@ -716,7 +644,7 @@
         "category": "news",
         "link": "https://www.cbsnews.com/minnesota/news/several-abortion-restrictions-ruled-unconstitutional-by-minnesota-district-court/",
         "timestamp": 1657568100,
-        "sentiment": 2,
+        "sentiment": -2,
         "published": "July 11, 2022 3:35 PM"
     },
     {
@@ -752,8 +680,26 @@
         "category": "television",
         "link": "https://collider.com/iyanu-child-of-wonder-series-cartoon-network-hbo-max/",
         "timestamp": 1657569128,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 11, 2022 3:52 PM"
+    },
+    {
+        "title": "Leader of Russian-occupied Ukrainian town killed by car bomb",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/leader-russian-occupied-ukrainian-town-killed-by-car-bomb-tass-2022-07-11/",
+        "timestamp": 1657569426,
+        "sentiment": 0,
+        "published": "July 11, 2022 3:57 PM"
+    },
+    {
+        "title": "Faroe Islands will allow 500 dolphins to be killed in annual whale hunt",
+        "domain": "edition.cnn.com",
+        "category": "news",
+        "link": "https://edition.cnn.com/2022/07/11/europe/faroe-islands-whale-hunt-dolphin-limit-intl-scli-scn/index.html",
+        "timestamp": 1657570228,
+        "sentiment": -2,
+        "published": "July 11, 2022 4:10 PM"
     },
     {
         "title": "Bay Area Doctor Plans to Offer Abortions Via Boat Off the Gulf of Mexico",
@@ -783,6 +729,24 @@
         "published": "July 11, 2022 4:46 PM"
     },
     {
+        "title": "White House: Iran preparing to send Russia drones for Ukraine war",
+        "domain": "thehill.com",
+        "category": "worldnews",
+        "link": "https://thehill.com/homenews/administration/3553782-white-house-iran-preparing-to-send-russia-drones-for-ukraine-war/",
+        "timestamp": 1657572522,
+        "sentiment": 0,
+        "published": "July 11, 2022 4:48 PM"
+    },
+    {
+        "title": "Jensen Ackles wants Jeffrey Dean Morgan and Matt Cohen to appear on 'The Winchesters'",
+        "domain": "ew.com",
+        "category": "television",
+        "link": "https://ew.com/tv/jensen-ackles-wants-jeffrey-dean-morgan-on-the-winchesters/",
+        "timestamp": 1657572968,
+        "sentiment": 2,
+        "published": "July 11, 2022 4:56 PM"
+    },
+    {
         "title": "Sir Mo Farah reveals he was trafficked to the UK as a child",
         "domain": "bbc.co.uk",
         "category": "sports",
@@ -790,6 +754,141 @@
         "timestamp": 1657573455,
         "sentiment": 4,
         "published": "July 11, 2022 5:04 PM"
+    },
+    {
+        "title": "Trump rally in North Carolina canceled as former president summoned to court",
+        "domain": "newsobserver.com",
+        "category": "politics",
+        "link": "https://www.newsobserver.com/news/politics-government/article263354463.html",
+        "timestamp": 1657573525,
+        "sentiment": 3,
+        "published": "July 11, 2022 5:05 PM"
+    },
+    {
+        "title": "Judge rules Subway can be sued over claims that its tuna sandwiches contain other fish species or animal products",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/business/business-news/judge-rules-subway-can-sued-claims-tuna-sandwiches-contain-fish-specie-rcna37707",
+        "timestamp": 1657574837,
+        "sentiment": -2,
+        "published": "July 11, 2022 5:27 PM"
+    },
+    {
+        "title": "FTC says it will crack down on medical and location data sharing after abortion privacy concerns | The statement follows an executive order that called on the Committee to help protect the privacy of abortion seekers",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2022/7/11/23204414/ftc-medical-location-health-data-enforcement-roe-privacy",
+        "timestamp": 1657574908,
+        "sentiment": 0,
+        "published": "July 11, 2022 5:28 PM"
+    },
+    {
+        "title": "India's fertility rate dips below replacement level",
+        "domain": "business-standard.com",
+        "category": "UpliftingNews",
+        "link": "https://www.business-standard.com/podcast/current-affairs/india-s-fertility-rate-dips-below-replacement-level-what-does-it-mean-122051800062_1.html",
+        "timestamp": 1657576259,
+        "sentiment": 0,
+        "published": "July 11, 2022 5:50 PM"
+    },
+    {
+        "title": "Join group chat on Telegram",
+        "domain": "t.me",
+        "category": "miami",
+        "link": "https://t.me/joinchat/WqdnG0HeuxFlYzIx",
+        "timestamp": 1657579027,
+        "sentiment": -2,
+        "published": "July 11, 2022 6:37 PM"
+    },
+    {
+        "title": "US Crosses the Electric-Car Tipping Point for Mass Adoption",
+        "domain": "bloomberg.com",
+        "category": "technology",
+        "link": "https://www.bloomberg.com/news/articles/2022-07-09/us-electric-car-sales-reach-key-milestone#xj4y7vzkg",
+        "timestamp": 1657520657,
+        "sentiment": 0,
+        "published": "July 11, 2022 2:24 AM"
+    },
+    {
+        "title": "Germany braces for ‘nightmare’ of Russia turning off gas for good",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jul/10/germany-russia-gas-flow-permanent-halt-nord-stream-1-maintenance",
+        "timestamp": 1657535164,
+        "sentiment": 0,
+        "published": "July 11, 2022 6:26 AM"
+    },
+    {
+        "title": "Exclusive: Binance served crypto traders in Iran for years despite U.S. sanctions, clients say",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/technology/exclusive-binance-served-crypto-traders-iran-years-despite-us-sanctions-clients-2022-07-11/",
+        "timestamp": 1657535452,
+        "sentiment": 2,
+        "published": "July 11, 2022 6:30 AM"
+    },
+    {
+        "title": "Putin ally Lukashenko faces revolt from officers against Ukraine war",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/putin-ally-lukashenko-faces-revolt-officers-against-ukraine-war-1723224?utm_source=PushnamiMailing&utm_medium=email&utm_campaign=automatic&UTM=1657492932008&subscriberId=6148bf507aeb51cecbacf523",
+        "timestamp": 1657537059,
+        "sentiment": 0,
+        "published": "July 11, 2022 6:57 AM"
+    },
+    {
+        "title": "Former top Saudi spy says MBS is a 'psychopath with no empathy' in interview aired 5 days before Biden visits the country",
+        "domain": "businessinsider.com",
+        "category": "worldnews",
+        "link": "https://www.businessinsider.com/saudi-former-top-spy-says-mbs-psychopath-threat-to-world-2022-7",
+        "timestamp": 1657544582,
+        "sentiment": 0,
+        "published": "July 11, 2022 9:03 AM"
+    },
+    {
+        "title": "Charles Darwin's iconic Tree of Life - which was stolen and missing for two decades before its anonymous return in 2022 - has gone on free display in the UK.",
+        "domain": "cam.ac.uk",
+        "category": "UpliftingNews",
+        "link": "https://www.cam.ac.uk/stories/DarwinExhibition",
+        "timestamp": 1657546442,
+        "sentiment": -3,
+        "published": "July 11, 2022 9:34 AM"
+    },
+    {
+        "title": "Steve Bannon's 'eleventh-hour' reversal on Jan. 6 testimony is a stunt, DOJ says",
+        "domain": "nbcnews.com",
+        "category": "politics",
+        "link": "https://www.nbcnews.com/politics/justice-department/steve-bannons-eleventh-hour-reversal-jan-6-testimony-stunt-doj-says-rcna37585",
+        "timestamp": 1657546532,
+        "sentiment": 3,
+        "published": "July 11, 2022 9:35 AM"
+    },
+    {
+        "title": "Russia ‘struggling’ to give troops in Ukraine breaks from combat: UK intelligence",
+        "domain": "thehill.com",
+        "category": "worldnews",
+        "link": "https://thehill.com/policy/defense/3553090-russia-struggling-to-give-troops-in-ukraine-breaks-from-combat-uk-intelligence/",
+        "timestamp": 1657553340,
+        "sentiment": 0,
+        "published": "July 11, 2022 11:29 AM"
+    },
+    {
+        "title": "At least 1 dead, 5 hurt in shooting outside Kansas City bar where off-duty officers were working",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/us-news/least-1-dead-5-hurt-shooting-kansas-city-bar-duty-officers-working-rcna37588",
+        "timestamp": 1657554449,
+        "sentiment": 2,
+        "published": "July 11, 2022 11:47 AM"
+    },
+    {
+        "title": "World population to reach 8 billion by November even as growth slows",
+        "domain": "msn.com",
+        "category": "worldnews",
+        "link": "https://www.msn.com/en-us/news/world/world-population-to-reach-8-billion-by-november-even-as-growth-slows/ar-AAZsmiK?ocid=msedgntp&cvid=e8e53375eaa747c9977174ec54617f03",
+        "timestamp": 1657562488,
+        "sentiment": 0,
+        "published": "July 11, 2022 2:01 PM"
     },
     {
         "title": "Beto O’Rourke to launch 49-day campaign tour of Texas",
@@ -952,15 +1051,6 @@
         "timestamp": 1657536525,
         "sentiment": -3,
         "published": "July 11, 2022 6:48 AM"
-    },
-    {
-        "title": "China says Asian nations should avoid being used as chess pieces | ASEAN News",
-        "domain": "aljazeera.com",
-        "category": "worldnews",
-        "link": "https://www.aljazeera.com/news/2022/7/11/china-says-asian-nations-should-avoid-being-used-as-chess-pieces",
-        "timestamp": 1657538428,
-        "sentiment": -4,
-        "published": "July 11, 2022 7:20 AM"
     },
     {
         "title": "Inside the presidential palace now full of Sri Lankans",
