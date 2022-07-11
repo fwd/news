@@ -5,7 +5,7 @@
         "category": "technology",
         "link": "https://techcrunch.com/2022/07/10/leaked-uber-files-reveal-history-of-lawbreaking-lobbying-and-exploiting-violence-against-drivers/",
         "timestamp": 1657513103,
-        "sentiment": -14,
+        "sentiment": 0,
         "published": "July 11, 2022 12:18 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "ukraine",
         "link": "https://english.nv.ua/nation/zelenskyy-is-sent-petition-asking-to-legalize-same-sex-marriages-50255367.html",
         "timestamp": 1657514158,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 11, 2022 12:35 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/texas-grid-operator-warns-potential-rolling-blackouts-monday-2022-07-11/",
         "timestamp": 1657514452,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 11, 2022 12:40 AM"
     },
     {
@@ -32,17 +32,8 @@
         "category": "technology",
         "link": "https://www.scmp.com/news/asia/southeast-asia/article/3184816/chinese-built-surveillance-systems-spread-across-junta",
         "timestamp": 1657518918,
-        "sentiment": -14,
+        "sentiment": 0,
         "published": "July 11, 2022 1:55 AM"
-    },
-    {
-        "title": "NASA Shares List of Cosmic Targets for Webb Telescope's First Images",
-        "domain": "nasa.gov",
-        "category": "UpliftingNews",
-        "link": "https://www.nasa.gov/feature/goddard/2022/nasa-shares-list-of-cosmic-targets-for-webb-telescope-s-first-images",
-        "timestamp": 1657519166,
-        "sentiment": 1,
-        "published": "July 11, 2022 1:59 AM"
     },
     {
         "title": "US Crosses the Electric-Car Tipping Point for Mass Adoption",
@@ -50,8 +41,17 @@
         "category": "technology",
         "link": "https://www.bloomberg.com/news/articles/2022-07-09/us-electric-car-sales-reach-key-milestone#xj4y7vzkg",
         "timestamp": 1657520657,
-        "sentiment": -14,
+        "sentiment": 0,
         "published": "July 11, 2022 2:24 AM"
+    },
+    {
+        "title": "State calls Pythagoras theorem ‘fake news’, proposes to teach Manusmriti under NEP",
+        "domain": "hindustantimes.com",
+        "category": "nottheonion",
+        "link": "https://www.hindustantimes.com/cities/bengaluru-news/state-calls-pythagoras-theorem-fake-news-proposes-to-teach-manusmriti-under-nep-101657479106918.html",
+        "timestamp": 1657521934,
+        "sentiment": 0,
+        "published": "July 11, 2022 2:45 AM"
     },
     {
         "title": "DeSantis signs executive order to lower prescription drug prices for Floridians",
@@ -61,15 +61,6 @@
         "timestamp": 1657526385,
         "sentiment": 0,
         "published": "July 11, 2022 3:59 AM"
-    },
-    {
-        "title": "Most Democrats Don’t Want Biden in 2024, New Poll Shows",
-        "domain": "nytimes.com",
-        "category": "politics",
-        "link": "https://www.nytimes.com/2022/07/11/us/politics/biden-approval-polling-2024.html",
-        "timestamp": 1657526668,
-        "sentiment": 3,
-        "published": "July 11, 2022 4:04 AM"
     },
     {
         "title": "Chinese ice cream brand goes viral after products don't melt even when blasted with a blowtorch",
@@ -86,17 +77,8 @@
         "category": "news",
         "link": "https://www.fox35orlando.com/news/florida-woman-kills-fish-by-pouring-hot-sauce-in-tank-during-argument-deputies-say",
         "timestamp": 1657530407,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 11, 2022 5:06 AM"
-    },
-    {
-        "title": "The size of our primary visual cortex and the amount of brain tissue we have dedicated to processing visual information can predict how well we can see. Study shows people with a large visual cortex had better overall contrast sensitivity than did those with a small",
-        "domain": "nyu.edu",
-        "category": "science",
-        "link": "https://www.nyu.edu/about/news-publications/news/2022/june/neuroscientists-find-new-factors-behind-better-vision-.html",
-        "timestamp": 1657530553,
-        "sentiment": 4,
-        "published": "July 11, 2022 5:09 AM"
     },
     {
         "title": "Vladimir Putin to Be Called 'Ruler' of Russia Under New Proposal",
@@ -104,7 +86,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/vladimir-putin-called-ruler-russia-new-proposal-ldpr-kremlin-1723295",
         "timestamp": 1657531870,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 11, 2022 5:31 AM"
     },
     {
@@ -113,7 +95,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/nexta_tv/status/1546412556268572673",
         "timestamp": 1657535136,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 11, 2022 6:25 AM"
     },
     {
@@ -122,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jul/10/germany-russia-gas-flow-permanent-halt-nord-stream-1-maintenance",
         "timestamp": 1657535164,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 11, 2022 6:26 AM"
     },
     {
@@ -131,7 +113,7 @@
         "category": "news",
         "link": "https://www.reuters.com/technology/exclusive-binance-served-crypto-traders-iran-years-despite-us-sanctions-clients-2022-07-11/",
         "timestamp": 1657535452,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 11, 2022 6:30 AM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/lauren-boebert-fbi-joe-biden-tweet-b2120106.html",
         "timestamp": 1657535822,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 11, 2022 6:37 AM"
     },
     {
@@ -158,17 +140,8 @@
         "category": "politics",
         "link": "https://www.propublica.org/article/family-research-council-irs-church-status",
         "timestamp": 1657536474,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 11, 2022 6:47 AM"
-    },
-    {
-        "title": "150 servicemen from Buryatia (🇷🇺region) terminated their army contract unwilling to continue fighting in 🇺🇦-Oleksandra Harmazhapova, head of Free Buryatia Foundation Buryats are the ethnic minority suffering from daily xenophobia and chauvinism within 🇷🇺",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/Gerashchenko_en/status/1546439029561999362?t=BodxRgj3_q8DiOmg_EFd_w&s=19",
-        "timestamp": 1657536525,
-        "sentiment": -3,
-        "published": "July 11, 2022 6:48 AM"
     },
     {
         "title": "Putin ally Lukashenko faces revolt from officers against Ukraine war",
@@ -176,7 +149,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/putin-ally-lukashenko-faces-revolt-officers-against-ukraine-war-1723224?utm_source=PushnamiMailing&utm_medium=email&utm_campaign=automatic&UTM=1657492932008&subscriberId=6148bf507aeb51cecbacf523",
         "timestamp": 1657537059,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 11, 2022 6:57 AM"
     },
     {
@@ -185,17 +158,8 @@
         "category": "sports",
         "link": "https://timesofindia.indiatimes.com/city/ahmedabad/fake-ipl-in-gujarat-village-dupes-russian-punters/articleshow/92789976.cms",
         "timestamp": 1657537258,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 11, 2022 7:00 AM"
-    },
-    {
-        "title": "China says Asian nations should avoid being used as chess pieces | ASEAN News",
-        "domain": "aljazeera.com",
-        "category": "worldnews",
-        "link": "https://www.aljazeera.com/news/2022/7/11/china-says-asian-nations-should-avoid-being-used-as-chess-pieces",
-        "timestamp": 1657538428,
-        "sentiment": -4,
-        "published": "July 11, 2022 7:20 AM"
     },
     {
         "title": "Uber Files: Tech firm lobbied top ministers at undeclared meetings - BBC News",
@@ -203,7 +167,7 @@
         "category": "technology",
         "link": "https://www.bbc.com/news/business-62099061",
         "timestamp": 1657538579,
-        "sentiment": -14,
+        "sentiment": 0,
         "published": "July 11, 2022 7:22 AM"
     },
     {
@@ -212,7 +176,7 @@
         "category": "UpliftingNews",
         "link": "https://www.usatoday.com/story/news/2022/07/08/solar-wind-power-push-renewable-energy-record-level-us-april/10009400002/",
         "timestamp": 1657538639,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "July 11, 2022 7:23 AM"
     },
     {
@@ -230,7 +194,7 @@
         "category": "science",
         "link": "https://www.psypost.org/2022/07/new-study-sheds-light-on-the-link-between-racial-resentment-and-perceptions-of-reverse-racism-in-the-united-states-63475/",
         "timestamp": 1657540464,
-        "sentiment": 4,
+        "sentiment": -3,
         "published": "July 11, 2022 7:54 AM"
     },
     {
@@ -248,7 +212,7 @@
         "category": "science",
         "link": "https://www.nature.com/articles/s41467-022-31441-x",
         "timestamp": 1657542287,
-        "sentiment": 4,
+        "sentiment": -3,
         "published": "July 11, 2022 8:24 AM"
     },
     {
@@ -266,17 +230,8 @@
         "category": "worldnews",
         "link": "https://www.cbsnews.com/news/dmitry-kolker-dies-scientist-taken-hospital-bed-espionage-charges-russia/",
         "timestamp": 1657542644,
-        "sentiment": -4,
-        "published": "July 11, 2022 8:30 AM"
-    },
-    {
-        "title": "Inside the presidential palace now full of Sri Lankans",
-        "domain": "bbc.com",
-        "category": "nottheonion",
-        "link": "https://www.bbc.com/news/world-asia-62116056",
-        "timestamp": 1657542700,
         "sentiment": 0,
-        "published": "July 11, 2022 8:31 AM"
+        "published": "July 11, 2022 8:30 AM"
     },
     {
         "title": "Beto O’Rourke to launch 49-day campaign tour of Texas",
@@ -284,7 +239,7 @@
         "category": "politics",
         "link": "https://www.texastribune.org/2022/07/11/beto-orourke-campaign-texas/",
         "timestamp": 1657542972,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 11, 2022 8:36 AM"
     },
     {
@@ -293,7 +248,7 @@
         "category": "technology",
         "link": "https://www.wired.com/story/genetic-screening-ivf-healthiest-embryos/",
         "timestamp": 1657542987,
-        "sentiment": -14,
+        "sentiment": 0,
         "published": "July 11, 2022 8:36 AM"
     },
     {
@@ -302,7 +257,7 @@
         "category": "television",
         "link": "https://www.seibertron.com/transformers/news/transformers-earthspark-cast-revealed-with-danny-pudi-as-bumblebee/47041/",
         "timestamp": 1657543040,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 11, 2022 8:37 AM"
     },
     {
@@ -311,7 +266,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/putin-decree-gives-all-ukrainians-path-russian-citizenship-2022-07-11/",
         "timestamp": 1657543724,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 11, 2022 8:48 AM"
     },
     {
@@ -320,7 +275,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/saudi-former-top-spy-says-mbs-psychopath-threat-to-world-2022-7",
         "timestamp": 1657544582,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 11, 2022 9:03 AM"
     },
     {
@@ -329,7 +284,7 @@
         "category": "technology",
         "link": "https://www.newsweek.com/iss-waste-disposal-new-method-1723390",
         "timestamp": 1657544747,
-        "sentiment": -14,
+        "sentiment": 0,
         "published": "July 11, 2022 9:05 AM"
     },
     {
@@ -338,7 +293,7 @@
         "category": "technology",
         "link": "https://www.freethink.com/technology/autonomous-ships",
         "timestamp": 1657544915,
-        "sentiment": -14,
+        "sentiment": 0,
         "published": "July 11, 2022 9:08 AM"
     },
     {
@@ -347,7 +302,7 @@
         "category": "UpliftingNews",
         "link": "https://www.ecowatch.com/fin-whales-antarctica.html",
         "timestamp": 1657545486,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "July 11, 2022 9:18 AM"
     },
     {
@@ -356,7 +311,7 @@
         "category": "science",
         "link": "https://www.smh.com.au/lifestyle/health-and-wellness/you-can-t-exercise-your-way-out-of-a-bad-diet-study-shows-20220711-p5b0nu.html",
         "timestamp": 1657546140,
-        "sentiment": 4,
+        "sentiment": -3,
         "published": "July 11, 2022 9:29 AM"
     },
     {
@@ -365,7 +320,7 @@
         "category": "UpliftingNews",
         "link": "https://www.wxyz.com/news/community-steps-up-to-save-beloved-bookstore-in-sw-detroit",
         "timestamp": 1657546148,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "July 11, 2022 9:29 AM"
     },
     {
@@ -374,7 +329,7 @@
         "category": "UpliftingNews",
         "link": "https://www.cam.ac.uk/stories/DarwinExhibition",
         "timestamp": 1657546442,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "July 11, 2022 9:34 AM"
     },
     {
@@ -383,7 +338,7 @@
         "category": "politics",
         "link": "https://www.nbcnews.com/politics/justice-department/steve-bannons-eleventh-hour-reversal-jan-6-testimony-stunt-doj-says-rcna37585",
         "timestamp": 1657546532,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 11, 2022 9:35 AM"
     },
     {
@@ -392,7 +347,7 @@
         "category": "ukraine",
         "link": "https://armyinform.com.ua/2022/07/11/trofejnyj-panczyr-s1-uzhe-voyuye-na-boczi-ukrayiny-ta-znyshhyv-pershu-vorozhu-czil/",
         "timestamp": 1657547258,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 11, 2022 9:47 AM"
     },
     {
@@ -401,7 +356,7 @@
         "category": "UpliftingNews",
         "link": "https://www.npr.org/2022/07/10/1110723389/an-iowa-couple-bought-back-their-small-towns-newspaper-from-media-giant-gannett",
         "timestamp": 1657547611,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "July 11, 2022 9:53 AM"
     },
     {
@@ -410,7 +365,7 @@
         "category": "science",
         "link": "https://www.psychnewsdaily.com/reaching-out-more-appreciated-than-assumed/",
         "timestamp": 1657547677,
-        "sentiment": 4,
+        "sentiment": -3,
         "published": "July 11, 2022 9:54 AM"
     },
     {
@@ -428,7 +383,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/10/africa/soweto-south-africa-shooting-intl/index.html",
         "timestamp": 1657547939,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 11, 2022 9:58 AM"
     },
     {
@@ -446,8 +401,26 @@
         "category": "politics",
         "link": "https://www.msnbc.com/rachel-maddow-show/maddowblog/gop-leaders-are-literally-speechless-good-news-jobs-rcna37595",
         "timestamp": 1657548314,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 11, 2022 10:05 AM"
+    },
+    {
+        "title": "Abortion bans force U.S. students to rethink college plans",
+        "domain": "reuters.com",
+        "category": "politics",
+        "link": "https://www.reuters.com/world/us/some-us-students-re-think-college-plans-states-with-abortion-bans-2022-07-11/",
+        "timestamp": 1657549085,
+        "sentiment": 0,
+        "published": "July 11, 2022 10:18 AM"
+    },
+    {
+        "title": "First Company Applies to Make Birth Control Pill Available Without a Prescription in the U.S.",
+        "domain": "time.com",
+        "category": "politics",
+        "link": "https://time.com/6195124/birth-control-pill-over-the-counter-fda/",
+        "timestamp": 1657549462,
+        "sentiment": 0,
+        "published": "July 11, 2022 10:24 AM"
     },
     {
         "title": "'Terrorism:' Abe killing seen as attack on Japan's democracy",
@@ -455,17 +428,8 @@
         "category": "worldnews",
         "link": "https://www.ctvnews.ca/world/terrorism-abe-killing-seen-as-attack-on-japan-s-democracy-1.5982246",
         "timestamp": 1657549915,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 11, 2022 10:31 AM"
-    },
-    {
-        "title": "Texas Faces Rolling Blackouts as ERCOT Warns Not to Use Major Appliances",
-        "domain": "newsweek.com",
-        "category": "politics",
-        "link": "https://www.newsweek.com/texas-power-shortage-electricity-ercot-reserve-capacity-1723288",
-        "timestamp": 1657550168,
-        "sentiment": 3,
-        "published": "July 11, 2022 10:36 AM"
     },
     {
         "title": "Ron DeSantis Would Kill Democracy Slowly and Methodically",
@@ -473,17 +437,8 @@
         "category": "politics",
         "link": "https://nymag.com/intelligencer/2022/07/ron-desantis-authoritarian-democracy-trump-2024-republican.html?utm_medium=s1&utm_campaign=nym&utm_source=tw",
         "timestamp": 1657550184,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 11, 2022 10:36 AM"
-    },
-    {
-        "title": "Following 21st grand slam title, what's next for Djokovic?",
-        "domain": "cnn.com",
-        "category": "sports",
-        "link": "https://www.cnn.com/2022/07/11/tennis/novak-djokovic-what-next-wimbledon-spt-intl/index.html",
-        "timestamp": 1657550255,
-        "sentiment": -2,
-        "published": "July 11, 2022 10:37 AM"
     },
     {
         "title": "Kim Glass, former Olympic volleyball player, says she was attacked by homeless man in LA",
@@ -491,17 +446,8 @@
         "category": "news",
         "link": "https://abc7.com/kim-glass-olympian-attacked-downtown-los-angeles/12042519/",
         "timestamp": 1657550311,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 11, 2022 10:38 AM"
-    },
-    {
-        "title": "Head Injuries in Children Linked to Reduced Brain Size and Learning Difficulties",
-        "domain": "academic.oup.com",
-        "category": "science",
-        "link": "https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awac130/6618291",
-        "timestamp": 1657550367,
-        "sentiment": 4,
-        "published": "July 11, 2022 10:39 AM"
     },
     {
         "title": "Lee County trying to fill teacher shortage 4 weeks before new school year",
@@ -518,7 +464,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/officials-agree-release-surveillance-footage-uvalde-shooting/story?id=86602983",
         "timestamp": 1657551191,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 11, 2022 10:53 AM"
     },
     {
@@ -527,7 +473,7 @@
         "category": "television",
         "link": "https://collider.com/the-rehearsal-tv-show-review-nathan-fielder-hbo/",
         "timestamp": 1657551580,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 11, 2022 10:59 AM"
     },
     {
@@ -536,17 +482,8 @@
         "category": "television",
         "link": "https://variety.com/2022/tv/news/jeremy-allen-white-shameless-upset-1235313365/",
         "timestamp": 1657552974,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 11, 2022 11:22 AM"
-    },
-    {
-        "title": "Racist Algorithms Are Making Robots Racist Too | Researchers show that large AI models are threatening to bring racist and sexist bias into the realm of robotics.",
-        "domain": "vice.com",
-        "category": "technology",
-        "link": "https://www.vice.com/en/article/qjk8jx/racist-algorithms-are-making-robots-racist-too",
-        "timestamp": 1657553297,
-        "sentiment": -14,
-        "published": "July 11, 2022 11:28 AM"
     },
     {
         "title": "Russia ‘struggling’ to give troops in Ukraine breaks from combat: UK intelligence",
@@ -554,7 +491,7 @@
         "category": "worldnews",
         "link": "https://thehill.com/policy/defense/3553090-russia-struggling-to-give-troops-in-ukraine-breaks-from-combat-uk-intelligence/",
         "timestamp": 1657553340,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 11, 2022 11:29 AM"
     },
     {
@@ -563,7 +500,7 @@
         "category": "sports",
         "link": "https://www.foxnews.com/sports/olympian-kim-glass-injuries-attacked-los-angeles",
         "timestamp": 1657553638,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 11, 2022 11:33 AM"
     },
     {
@@ -572,7 +509,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/republicans-back-cheney-but-not-in-public-fearing-trump-book-2022-7",
         "timestamp": 1657553796,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 11, 2022 11:36 AM"
     },
     {
@@ -581,7 +518,7 @@
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/least-1-dead-5-hurt-shooting-kansas-city-bar-duty-officers-working-rcna37588",
         "timestamp": 1657554449,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 11, 2022 11:47 AM"
     },
     {
@@ -590,7 +527,7 @@
         "category": "news",
         "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/perrigo-unit-submits-approval-application-fda-otc-birth-control-pill-2022-07-11/",
         "timestamp": 1657554628,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 11, 2022 11:50 AM"
     },
     {
@@ -599,7 +536,7 @@
         "category": "television",
         "link": "https://www.syfy.com/syfy-wire/resident-alien-hca-nomination-best-cable-comedy-series",
         "timestamp": 1657555143,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 11, 2022 11:59 AM"
     },
     {
@@ -608,7 +545,7 @@
         "category": "technology",
         "link": "https://gizmodo.com/biden-to-reveal-first-full-color-image-webb-telescope-n-1849163898",
         "timestamp": 1657555391,
-        "sentiment": -14,
+        "sentiment": 0,
         "published": "July 11, 2022 12:03 PM"
     },
     {
@@ -635,7 +572,7 @@
         "category": "politics",
         "link": "https://www.vice.com/en/article/qjk8wp/texas-pregnant-woman-traffic-ticket-fetus-passenger",
         "timestamp": 1657556148,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 11, 2022 12:15 PM"
     },
     {
@@ -644,7 +581,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/07/11/costco-ceos-one-word-answer-to-whether-he-would-raise-the-price-of-hot-dogs-no.html",
         "timestamp": 1657557800,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 11, 2022 12:43 PM"
     },
     {
@@ -653,7 +590,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/07/11/investing/euro-dollar-parity/index.html",
         "timestamp": 1657557964,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 11, 2022 12:46 PM"
     },
     {
@@ -662,7 +599,7 @@
         "category": "science",
         "link": "https://www.science.org/doi/10.1126/scitranslmed.abo5070",
         "timestamp": 1657558435,
-        "sentiment": 4,
+        "sentiment": -3,
         "published": "July 11, 2022 12:53 PM"
     },
     {
@@ -671,7 +608,7 @@
         "category": "television",
         "link": "https://www.hollywoodreporter.com/tv/tv-news/tbs-cancels-chad-season-2-may-run-elsewhere-1235178119/",
         "timestamp": 1657558554,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 11, 2022 12:55 PM"
     },
     {
@@ -680,7 +617,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/visegrad24/status/1546508090027245574",
         "timestamp": 1657558591,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 11, 2022 12:56 PM"
     },
     {
@@ -689,8 +626,17 @@
         "category": "television",
         "link": "https://deadline.com/2022/07/only-murders-in-the-building-renewed-third-season-hulu-1235061298/",
         "timestamp": 1657559743,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 11, 2022 1:15 PM"
+    },
+    {
+        "title": "A major UN report warned that a global economy focused on short-term profit is wrecking the planet and called for a drastically different approach as to how we value nature. Without this shift, universally accepted goals of sustainable development and greater equity will remain out-of-reach",
+        "domain": "france24.com",
+        "category": "worldnews",
+        "link": "https://www.france24.com/en/live-news/20220711-market-values-are-destroying-nature-un-report",
+        "timestamp": 1657560316,
+        "sentiment": 0,
+        "published": "July 11, 2022 1:25 PM"
     },
     {
         "title": "Mayfield Heights,OH McDonald's owner pays employees during renovation — Tony Philiou wants his employees to know their hard work and dedication is noticed.",
@@ -698,7 +644,7 @@
         "category": "UpliftingNews",
         "link": "https://www.wkyc.com/article/life/heartwarming/mayfield-heights-mcdonalds-owner-pays-employees-renovation/95-5af9881b-b591-4ff4-a01a-fd854027a16a",
         "timestamp": 1657561022,
-        "sentiment": 1,
+        "sentiment": 3,
         "published": "July 11, 2022 1:37 PM"
     },
     {
@@ -716,8 +662,161 @@
         "category": "science",
         "link": "https://resou.osaka-u.ac.jp/en/research/2022/20220617_1",
         "timestamp": 1657561600,
-        "sentiment": 4,
+        "sentiment": -3,
         "published": "July 11, 2022 1:46 PM"
+    },
+    {
+        "title": "Non-white ICU patients get less oxygen treatment than needed -study",
+        "domain": "reuters.com",
+        "category": "science",
+        "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/non-white-icu-patients-get-less-oxygen-treatment-than-needed-study-2022-07-11/?taid=62cc5e2d223285000125ecdf&utm_campaign=trueanthem&utm_medium=trueanthem&utm_source=twitter",
+        "timestamp": 1657561942,
+        "sentiment": -3,
+        "published": "July 11, 2022 1:52 PM"
+    },
+    {
+        "title": "Russian C400 anti-aircraft defense systems aren't able to intercept HIMARS rockets - which Almaz-Antey corporation promised and charged billions for. Russian Armed Forces, their ammunition and fuel warehouses are completely unprotected from the power of American weapons",
+        "domain": "mobile.twitter.com",
+        "category": "ukraine",
+        "link": "https://mobile.twitter.com/Gerashchenko_en/status/1546526587188830208",
+        "timestamp": 1657562561,
+        "sentiment": 0,
+        "published": "July 11, 2022 2:02 PM"
+    },
+    {
+        "title": "O’Rourke hits Abbott over request for Texans to cut energy use amid heat wave",
+        "domain": "bellinghamherald.com",
+        "category": "technology",
+        "link": "https://www.bellinghamherald.com/news/politics-government/article263358158.html",
+        "timestamp": 1657562932,
+        "sentiment": 0,
+        "published": "July 11, 2022 2:08 PM"
+    },
+    {
+        "title": "UN expects world's population to reach 8 billion on Nov. 15",
+        "domain": "apnews.com",
+        "category": "news",
+        "link": "https://apnews.com/article/china-united-nations-antonio-guterres-00f6ef38132fe988ceb3e7e143e1f033",
+        "timestamp": 1657564351,
+        "sentiment": -4,
+        "published": "July 11, 2022 2:32 PM"
+    },
+    {
+        "title": "Education system ‘neglecting the importance of plants’. People are becoming “disconnected from the botanical world” at a time when plants could help solve global environmental problems, warn a group of research scientists.",
+        "domain": "leeds.ac.uk",
+        "category": "science",
+        "link": "https://www.leeds.ac.uk/main-index/news/article/5120/education-system-neglecting-the-importance-of-plants",
+        "timestamp": 1657565824,
+        "sentiment": -3,
+        "published": "July 11, 2022 2:57 PM"
+    },
+    {
+        "title": "That's not cricket! - Indian police break up fake league",
+        "domain": "reuters.com",
+        "category": "sports",
+        "link": "https://www.reuters.com/world/india/thats-not-cricket-indian-police-break-up-fake-league-2022-07-11/",
+        "timestamp": 1657566951,
+        "sentiment": -3,
+        "published": "July 11, 2022 3:15 PM"
+    },
+    {
+        "title": "Dodger Stadium workers threatening to strike",
+        "domain": "espn.com",
+        "category": "sports",
+        "link": "https://www.espn.com/mlb/story/_/id/34227337/dodger-stadium-concession-workers-threaten-strike-ahead-all-star-game",
+        "timestamp": 1657567432,
+        "sentiment": -3,
+        "published": "July 11, 2022 3:23 PM"
+    },
+    {
+        "title": "NASA Shares List of Cosmic Targets for Webb Telescope's First Images",
+        "domain": "nasa.gov",
+        "category": "UpliftingNews",
+        "link": "https://www.nasa.gov/feature/goddard/2022/nasa-shares-list-of-cosmic-targets-for-webb-telescope-s-first-images",
+        "timestamp": 1657519166,
+        "sentiment": 1,
+        "published": "July 11, 2022 1:59 AM"
+    },
+    {
+        "title": "Most Democrats Don’t Want Biden in 2024, New Poll Shows",
+        "domain": "nytimes.com",
+        "category": "politics",
+        "link": "https://www.nytimes.com/2022/07/11/us/politics/biden-approval-polling-2024.html",
+        "timestamp": 1657526668,
+        "sentiment": 3,
+        "published": "July 11, 2022 4:04 AM"
+    },
+    {
+        "title": "The size of our primary visual cortex and the amount of brain tissue we have dedicated to processing visual information can predict how well we can see. Study shows people with a large visual cortex had better overall contrast sensitivity than did those with a small",
+        "domain": "nyu.edu",
+        "category": "science",
+        "link": "https://www.nyu.edu/about/news-publications/news/2022/june/neuroscientists-find-new-factors-behind-better-vision-.html",
+        "timestamp": 1657530553,
+        "sentiment": 4,
+        "published": "July 11, 2022 5:09 AM"
+    },
+    {
+        "title": "150 servicemen from Buryatia (🇷🇺region) terminated their army contract unwilling to continue fighting in 🇺🇦-Oleksandra Harmazhapova, head of Free Buryatia Foundation Buryats are the ethnic minority suffering from daily xenophobia and chauvinism within 🇷🇺",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/Gerashchenko_en/status/1546439029561999362?t=BodxRgj3_q8DiOmg_EFd_w&s=19",
+        "timestamp": 1657536525,
+        "sentiment": -3,
+        "published": "July 11, 2022 6:48 AM"
+    },
+    {
+        "title": "China says Asian nations should avoid being used as chess pieces | ASEAN News",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/news/2022/7/11/china-says-asian-nations-should-avoid-being-used-as-chess-pieces",
+        "timestamp": 1657538428,
+        "sentiment": -4,
+        "published": "July 11, 2022 7:20 AM"
+    },
+    {
+        "title": "Inside the presidential palace now full of Sri Lankans",
+        "domain": "bbc.com",
+        "category": "nottheonion",
+        "link": "https://www.bbc.com/news/world-asia-62116056",
+        "timestamp": 1657542700,
+        "sentiment": 0,
+        "published": "July 11, 2022 8:31 AM"
+    },
+    {
+        "title": "Texas Faces Rolling Blackouts as ERCOT Warns Not to Use Major Appliances",
+        "domain": "newsweek.com",
+        "category": "politics",
+        "link": "https://www.newsweek.com/texas-power-shortage-electricity-ercot-reserve-capacity-1723288",
+        "timestamp": 1657550168,
+        "sentiment": 3,
+        "published": "July 11, 2022 10:36 AM"
+    },
+    {
+        "title": "Following 21st grand slam title, what's next for Djokovic?",
+        "domain": "cnn.com",
+        "category": "sports",
+        "link": "https://www.cnn.com/2022/07/11/tennis/novak-djokovic-what-next-wimbledon-spt-intl/index.html",
+        "timestamp": 1657550255,
+        "sentiment": -2,
+        "published": "July 11, 2022 10:37 AM"
+    },
+    {
+        "title": "Head Injuries in Children Linked to Reduced Brain Size and Learning Difficulties",
+        "domain": "academic.oup.com",
+        "category": "science",
+        "link": "https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awac130/6618291",
+        "timestamp": 1657550367,
+        "sentiment": 4,
+        "published": "July 11, 2022 10:39 AM"
+    },
+    {
+        "title": "Racist Algorithms Are Making Robots Racist Too | Researchers show that large AI models are threatening to bring racist and sexist bias into the realm of robotics.",
+        "domain": "vice.com",
+        "category": "technology",
+        "link": "https://www.vice.com/en/article/qjk8jx/racist-algorithms-are-making-robots-racist-too",
+        "timestamp": 1657553297,
+        "sentiment": -14,
+        "published": "July 11, 2022 11:28 AM"
     },
     {
         "title": "Physical activity and cardiovascular health in depression: A study of 1,282,160 patients with depression.",
@@ -988,15 +1087,6 @@
         "timestamp": 1657514707,
         "sentiment": 1,
         "published": "July 11, 2022 12:45 AM"
-    },
-    {
-        "title": "State calls Pythagoras theorem ‘fake news’, proposes to teach Manusmriti under NEP",
-        "domain": "hindustantimes.com",
-        "category": "nottheonion",
-        "link": "https://www.hindustantimes.com/cities/bengaluru-news/state-calls-pythagoras-theorem-fake-news-proposes-to-teach-manusmriti-under-nep-101657479106918.html",
-        "timestamp": 1657521934,
-        "sentiment": 0,
-        "published": "July 11, 2022 2:45 AM"
     },
     {
         "title": "Another russian warehouse was destroyed in temporarily occupied Tokmak. — Zaporizhzia Region. We are waiting for official confirmation.",
