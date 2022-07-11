@@ -23,7 +23,7 @@
         "category": "ukraine",
         "link": "https://english.nv.ua/nation/zelenskyy-is-sent-petition-asking-to-legalize-same-sex-marriages-50255367.html",
         "timestamp": 1657514158,
-        "sentiment": -4,
+        "sentiment": 0,
         "published": "July 11, 2022 12:35 AM"
     },
     {
@@ -45,12 +45,21 @@
         "published": "July 11, 2022 12:45 AM"
     },
     {
+        "title": "Ukraine’s Defense Minister Says It Has ‘Passed Test’ on New U.S. Guided Rockets, Needs More Himars launchers that can reach far behind enemy lines are a game-changer, says Oleksii Reznikov",
+        "domain": "wsj.com",
+        "category": "ukraine",
+        "link": "https://www.wsj.com/articles/ukraines-defense-minister-says-it-has-passed-test-on-new-u-s-guided-rockets-needs-more-11657455388",
+        "timestamp": 1657515106,
+        "sentiment": 0,
+        "published": "July 11, 2022 12:51 AM"
+    },
+    {
         "title": "[subtitle guy trolling a little bit]",
         "domain": "avclub.com",
         "category": "nottheonion",
         "link": "https://www.avclub.com/stranger-things-subtitle-guy-talks-about-tentacles-und-1849161218",
         "timestamp": 1657517487,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 11, 2022 1:31 AM"
     },
     {
@@ -86,7 +95,7 @@
         "category": "nottheonion",
         "link": "https://www.hindustantimes.com/cities/bengaluru-news/state-calls-pythagoras-theorem-fake-news-proposes-to-teach-manusmriti-under-nep-101657479106918.html",
         "timestamp": 1657521934,
-        "sentiment": -1,
+        "sentiment": 0,
         "published": "July 11, 2022 2:45 AM"
     },
     {
@@ -106,6 +115,42 @@
         "timestamp": 1657524433,
         "sentiment": 3,
         "published": "July 11, 2022 3:27 AM"
+    },
+    {
+        "title": "Girl, 8, hit by flying cell phone while riding roller coaster",
+        "domain": "wbrc.com",
+        "category": "nottheonion",
+        "link": "https://www.wbrc.com/2022/07/11/girl-8-hit-by-flying-cell-phone-while-riding-roller-coaster/",
+        "timestamp": 1657529232,
+        "sentiment": 0,
+        "published": "July 11, 2022 4:47 AM"
+    },
+    {
+        "title": "Chinese ice cream brand goes viral after products don't melt even when blasted with a blowtorch",
+        "domain": "philstarlife.com",
+        "category": "nottheonion",
+        "link": "https://philstarlife.com/living/175760-chinese-ice-cream-brand-doesnt-melt",
+        "timestamp": 1657529531,
+        "sentiment": 0,
+        "published": "July 11, 2022 4:52 AM"
+    },
+    {
+        "title": "Family found living with cache of weapons inside Nevada children's museum",
+        "domain": "nbcnews.com",
+        "category": "nottheonion",
+        "link": "https://www.nbcnews.com/news/family-found-living-cache-weapons-nevada-childrens-museum-rcna37509",
+        "timestamp": 1657531700,
+        "sentiment": 0,
+        "published": "July 11, 2022 5:28 AM"
+    },
+    {
+        "title": "Paul Pogba rejoins Juventus FC",
+        "domain": "juventus.com",
+        "category": "sports",
+        "link": "https://www.juventus.com/en/news/articles/official-paul-pogba-is-back",
+        "timestamp": 1657531779,
+        "sentiment": 4,
+        "published": "July 11, 2022 5:29 AM"
     },
     {
         "title": "DeSantis signs executive order to lower prescription drug prices for Floridians",
