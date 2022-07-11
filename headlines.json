@@ -5,7 +5,7 @@
         "category": "technology",
         "link": "https://techcrunch.com/2022/07/10/leaked-uber-files-reveal-history-of-lawbreaking-lobbying-and-exploiting-violence-against-drivers/",
         "timestamp": 1657513103,
-        "sentiment": -7,
+        "sentiment": -2,
         "published": "July 11, 2022 12:18 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "politics",
         "link": "https://www.houstonchronicle.com/business/energy/article/Record-heat-drives-another-Texas-electricity-17295889.php",
         "timestamp": 1657513526,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 11, 2022 12:25 AM"
     },
     {
@@ -23,7 +23,7 @@
         "category": "ukraine",
         "link": "https://english.nv.ua/nation/zelenskyy-is-sent-petition-asking-to-legalize-same-sex-marriages-50255367.html",
         "timestamp": 1657514158,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 11, 2022 12:35 AM"
     },
     {
@@ -32,7 +32,7 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/texas-grid-operator-warns-potential-rolling-blackouts-monday-2022-07-11/",
         "timestamp": 1657514452,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 11, 2022 12:40 AM"
     },
     {
@@ -50,7 +50,7 @@
         "category": "technology",
         "link": "https://www.scmp.com/news/asia/southeast-asia/article/3184816/chinese-built-surveillance-systems-spread-across-junta",
         "timestamp": 1657518918,
-        "sentiment": -7,
+        "sentiment": -2,
         "published": "July 11, 2022 1:55 AM"
     },
     {
@@ -59,7 +59,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/10/china/china-henan-bank-depositors-protest-mic-intl-hnk/index.html",
         "timestamp": 1657519061,
-        "sentiment": 0,
+        "sentiment": -6,
         "published": "July 11, 2022 1:57 AM"
     },
     {
@@ -68,7 +68,7 @@
         "category": "UpliftingNews",
         "link": "https://www.nasa.gov/feature/goddard/2022/nasa-shares-list-of-cosmic-targets-for-webb-telescope-s-first-images",
         "timestamp": 1657519166,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 11, 2022 1:59 AM"
     },
     {
@@ -77,7 +77,7 @@
         "category": "technology",
         "link": "https://www.bloomberg.com/news/articles/2022-07-09/us-electric-car-sales-reach-key-milestone#xj4y7vzkg",
         "timestamp": 1657520657,
-        "sentiment": -7,
+        "sentiment": -2,
         "published": "July 11, 2022 2:24 AM"
     },
     {
@@ -86,17 +86,8 @@
         "category": "nottheonion",
         "link": "https://www.hindustantimes.com/cities/bengaluru-news/state-calls-pythagoras-theorem-fake-news-proposes-to-teach-manusmriti-under-nep-101657479106918.html",
         "timestamp": 1657521934,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 11, 2022 2:45 AM"
-    },
-    {
-        "title": "U.K. Prime Ministership Race: Sky News to Host First Live TV Debate",
-        "domain": "variety.com",
-        "category": "television",
-        "link": "https://variety.com/2022/tv/global/uk-prime-ministership-sky-live-debate-1235313203/",
-        "timestamp": 1657522191,
-        "sentiment": 3,
-        "published": "July 11, 2022 2:49 AM"
     },
     {
         "title": "Russia's turning off natural-gas supply via a key pipeline to Germany for maintenance today. Europe fears the shutdown may be permanent.",
@@ -113,7 +104,7 @@
         "category": "science",
         "link": "https://www.sciencedirect.com/science/article/abs/pii/S0163834322000858",
         "timestamp": 1657524433,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 11, 2022 3:27 AM"
     },
     {
@@ -122,7 +113,7 @@
         "category": "florida",
         "link": "https://www.wftv.com/news/desantis-signs-executive-order-lower-prescription-drug-prices-floridians/W22KVGMBCNHZ3C77WWK7L4A7VY/?outputType=amp",
         "timestamp": 1657526385,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "July 11, 2022 3:59 AM"
     },
     {
@@ -131,7 +122,7 @@
         "category": "politics",
         "link": "https://www.nytimes.com/2022/07/11/us/politics/biden-approval-polling-2024.html",
         "timestamp": 1657526668,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 11, 2022 4:04 AM"
     },
     {
@@ -140,17 +131,8 @@
         "category": "nottheonion",
         "link": "https://philstarlife.com/living/175760-chinese-ice-cream-brand-doesnt-melt",
         "timestamp": 1657529531,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 11, 2022 4:52 AM"
-    },
-    {
-        "title": "Alien’ TV Series Will Be Prequel Set in 21st Century, Filming Delayed to 2023.",
-        "domain": "indiewire.com",
-        "category": "television",
-        "link": "https://www.indiewire.com/2022/02/alien-tv-show-noah-hawley-fx-delayed-1234700765/",
-        "timestamp": 1657529921,
-        "sentiment": 3,
-        "published": "July 11, 2022 4:58 AM"
     },
     {
         "title": "The size of our primary visual cortex and the amount of brain tissue we have dedicated to processing visual information can predict how well we can see. Study shows people with a large visual cortex had better overall contrast sensitivity than did those with a small",
@@ -158,7 +140,7 @@
         "category": "science",
         "link": "https://www.nyu.edu/about/news-publications/news/2022/june/neuroscientists-find-new-factors-behind-better-vision-.html",
         "timestamp": 1657530553,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 11, 2022 5:09 AM"
     },
     {
@@ -167,7 +149,7 @@
         "category": "nottheonion",
         "link": "https://www.nbcnews.com/news/family-found-living-cache-weapons-nevada-childrens-museum-rcna37509",
         "timestamp": 1657531700,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 11, 2022 5:28 AM"
     },
     {
@@ -185,8 +167,314 @@
         "category": "science",
         "link": "https://www.cmaj.ca/content/194/26/E899",
         "timestamp": 1657532756,
-        "sentiment": -2,
+        "sentiment": -1,
         "published": "July 11, 2022 5:45 AM"
+    },
+    {
+        "title": "Ukraine Embassy in Czech Republic is organizing an exhibition of destroyed Russian military equipment",
+        "domain": "imgur.com",
+        "category": "ukraine",
+        "link": "https://imgur.com/a/wSUqrFy",
+        "timestamp": 1657533805,
+        "sentiment": 0,
+        "published": "July 11, 2022 6:03 AM"
+    },
+    {
+        "title": "Paramount+ Ordered Almost As Many UK Shows As Netflix In 2022 – Report",
+        "domain": "deadline.com",
+        "category": "television",
+        "link": "https://deadline.com/2022/07/paramount-netflix-uk-shows-research-ampere-analysis-1235061239/",
+        "timestamp": 1657534840,
+        "sentiment": 0,
+        "published": "July 11, 2022 6:20 AM"
+    },
+    {
+        "title": "Lithuania has expanded restrictions on the transit of goods through its territory to #Kaliningrad, Reuters reports. As of today, cement, timber, alcohol and alcohol-based industrial chemicals are banned, a #Lithuanian customs official said.",
+        "domain": "mobile.twitter.com",
+        "category": "ukraine",
+        "link": "https://mobile.twitter.com/nexta_tv/status/1546412556268572673",
+        "timestamp": 1657535136,
+        "sentiment": 0,
+        "published": "July 11, 2022 6:25 AM"
+    },
+    {
+        "title": "Germany braces for ‘nightmare’ of Russia turning off gas for good",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/world/2022/jul/10/germany-russia-gas-flow-permanent-halt-nord-stream-1-maintenance",
+        "timestamp": 1657535164,
+        "sentiment": 0,
+        "published": "July 11, 2022 6:26 AM"
+    },
+    {
+        "title": "Exclusive: Binance served crypto traders in Iran for years despite U.S. sanctions, clients say",
+        "domain": "reuters.com",
+        "category": "news",
+        "link": "https://www.reuters.com/technology/exclusive-binance-served-crypto-traders-iran-years-despite-us-sanctions-clients-2022-07-11/",
+        "timestamp": 1657535452,
+        "sentiment": -6,
+        "published": "July 11, 2022 6:30 AM"
+    },
+    {
+        "title": "'Twelve of Putin's officers are killed' in strike on command post in occupied Kherson as 'Vladimir is enraged by failure of his S-400 defence system' while US-supplied HIMARS missiles inflict critical losses",
+        "domain": "dailymail.co.uk",
+        "category": "worldnews",
+        "link": "https://www.dailymail.co.uk/news/article-11001617/Twelve-Putins-officers-killed-Ukraine-strike-Russian-command-post.html",
+        "timestamp": 1657535756,
+        "sentiment": 0,
+        "published": "July 11, 2022 6:35 AM"
+    },
+    {
+        "title": "Lauren Boebert reported to FBI over Biden tweet: ‘We need to terminate this presidency’",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/lauren-boebert-fbi-joe-biden-tweet-b2120106.html",
+        "timestamp": 1657535822,
+        "sentiment": -2,
+        "published": "July 11, 2022 6:37 AM"
+    },
+    {
+        "title": "Chinese researchers develop device they say can test loyalty of ruling party members",
+        "domain": "rfa.org",
+        "category": "nottheonion",
+        "link": "https://www.rfa.org/english/news/china/polygraph-loyalty-07042022131133.html",
+        "timestamp": 1657536203,
+        "sentiment": -2,
+        "published": "July 11, 2022 6:43 AM"
+    },
+    {
+        "title": "Another russian warehouse was destroyed in temporarily occupied Tokmak. — Zaporizhzia Region. We are waiting for official confirmation.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/TpyxaNews/status/1546439598171197440?t=79bSNI1P4gWcveFEcBBSOA&s=19",
+        "timestamp": 1657536387,
+        "sentiment": 0,
+        "published": "July 11, 2022 6:46 AM"
+    },
+    {
+        "title": "Right-Wing Think Tank Family Research Council Is Now a Church in Eyes of the IRS — The FRC, a staunch opponent of abortion and LGBTQ rights, joins a growing list of activist groups seeking church status, which allows organizations to shield themselves from financial scrutiny.",
+        "domain": "propublica.org",
+        "category": "politics",
+        "link": "https://www.propublica.org/article/family-research-council-irs-church-status",
+        "timestamp": 1657536474,
+        "sentiment": -2,
+        "published": "July 11, 2022 6:47 AM"
+    },
+    {
+        "title": "150 servicemen from Buryatia (🇷🇺region) terminated their army contract unwilling to continue fighting in 🇺🇦-Oleksandra Harmazhapova, head of Free Buryatia Foundation Buryats are the ethnic minority suffering from daily xenophobia and chauvinism within 🇷🇺",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/Gerashchenko_en/status/1546439029561999362?t=BodxRgj3_q8DiOmg_EFd_w&s=19",
+        "timestamp": 1657536525,
+        "sentiment": 0,
+        "published": "July 11, 2022 6:48 AM"
+    },
+    {
+        "title": "Covid-19 patients under home quarantine to wear tracking wristbands from July 15, Hong Kong health minister says; city logs 2,863 infections",
+        "domain": "scmp.com",
+        "category": "technology",
+        "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3184846/coronavirus-hong-kong-covid-19-app-update-will",
+        "timestamp": 1657537054,
+        "sentiment": -2,
+        "published": "July 11, 2022 6:57 AM"
+    },
+    {
+        "title": "Putin ally Lukashenko faces revolt from officers against Ukraine war",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/putin-ally-lukashenko-faces-revolt-officers-against-ukraine-war-1723224?utm_source=PushnamiMailing&utm_medium=email&utm_campaign=automatic&UTM=1657492932008&subscriberId=6148bf507aeb51cecbacf523",
+        "timestamp": 1657537059,
+        "sentiment": 0,
+        "published": "July 11, 2022 6:57 AM"
+    },
+    {
+        "title": "Fake IPL in Gujarat village dupes Russian punters | Ahmedabad News - Times of India",
+        "domain": "timesofindia.indiatimes.com",
+        "category": "sports",
+        "link": "https://timesofindia.indiatimes.com/city/ahmedabad/fake-ipl-in-gujarat-village-dupes-russian-punters/articleshow/92789976.cms",
+        "timestamp": 1657537258,
+        "sentiment": 0,
+        "published": "July 11, 2022 7:00 AM"
+    },
+    {
+        "title": "DOJ reveals investigators interviewed Trump's attorney in connection with Bannon contempt case",
+        "domain": "abcnews.go.com",
+        "category": "politics",
+        "link": "https://abcnews.go.com/US/doj-reveals-investigators-interviewed-trumps-attorney-connection-bannon/story?id=86588798",
+        "timestamp": 1657537384,
+        "sentiment": -2,
+        "published": "July 11, 2022 7:03 AM"
+    },
+    {
+        "title": "The school year is coming with a shortage of teachers and new rules on what and how they may teach",
+        "domain": "wlrn.org",
+        "category": "news",
+        "link": "https://www.wlrn.org/2022-07-08/the-school-year-is-coming-with-a-shortage-of-teachers-and-new-rules-on-what-and-how-they-may-teach",
+        "timestamp": 1657538382,
+        "sentiment": -6,
+        "published": "July 11, 2022 7:19 AM"
+    },
+    {
+        "title": "China says Asian nations should avoid being used as chess pieces | ASEAN News",
+        "domain": "aljazeera.com",
+        "category": "worldnews",
+        "link": "https://www.aljazeera.com/news/2022/7/11/china-says-asian-nations-should-avoid-being-used-as-chess-pieces",
+        "timestamp": 1657538428,
+        "sentiment": 0,
+        "published": "July 11, 2022 7:20 AM"
+    },
+    {
+        "title": "Uber Files: Tech firm lobbied top ministers at undeclared meetings - BBC News",
+        "domain": "bbc.com",
+        "category": "technology",
+        "link": "https://www.bbc.com/news/business-62099061",
+        "timestamp": 1657538579,
+        "sentiment": -2,
+        "published": "July 11, 2022 7:22 AM"
+    },
+    {
+        "title": "'A 'Wow' moment': US renewable energy hit record 28% in April. What's driving the change?",
+        "domain": "usatoday.com",
+        "category": "UpliftingNews",
+        "link": "https://www.usatoday.com/story/news/2022/07/08/solar-wind-power-push-renewable-energy-record-level-us-april/10009400002/",
+        "timestamp": 1657538639,
+        "sentiment": 0,
+        "published": "July 11, 2022 7:23 AM"
+    },
+    {
+        "title": "DeSantis takes the fight to school boards",
+        "domain": "axios.com",
+        "category": "florida",
+        "link": "https://www.axios.com/2022/07/07/ron-desantis-school-boards-elections-crt",
+        "timestamp": 1657538941,
+        "sentiment": 2,
+        "published": "July 11, 2022 7:29 AM"
+    },
+    {
+        "title": "Only seven percent of adults have good cardiometabolic health",
+        "domain": "medicalxpress.com",
+        "category": "news",
+        "link": "https://medicalxpress.com/news/2022-07-percent-adults-good-cardiometabolic-health.html",
+        "timestamp": 1657538982,
+        "sentiment": -6,
+        "published": "July 11, 2022 7:29 AM"
+    },
+    {
+        "title": "Shinzo Abe killing: Hideo Kojima threatens to sue over false posts",
+        "domain": "bbc.com",
+        "category": "worldnews",
+        "link": "https://www.bbc.com/news/newsbeat-62121650",
+        "timestamp": 1657539463,
+        "sentiment": 0,
+        "published": "July 11, 2022 7:37 AM"
+    },
+    {
+        "title": "Increased engagement with politics on social media predicts future decreases in racial resentment among liberals in the United States, though this doesn’t appear to be the case for conservatives or independents, according to new research",
+        "domain": "psypost.org",
+        "category": "science",
+        "link": "https://www.psypost.org/2022/07/new-study-sheds-light-on-the-link-between-racial-resentment-and-perceptions-of-reverse-racism-in-the-united-states-63475/",
+        "timestamp": 1657540464,
+        "sentiment": -1,
+        "published": "July 11, 2022 7:54 AM"
+    },
+    {
+        "title": "A distillery is fighting invasive crabs by turning them into whiskey",
+        "domain": "npr.org",
+        "category": "nottheonion",
+        "link": "https://www.npr.org/2022/07/11/1110541257/invasive-green-crabs-whiskey-new-hampshire",
+        "timestamp": 1657541654,
+        "sentiment": -2,
+        "published": "July 11, 2022 8:14 AM"
+    },
+    {
+        "title": "Study finds growing Covid vaccine acceptance across world",
+        "domain": "nature.com",
+        "category": "science",
+        "link": "https://www.nature.com/articles/s41467-022-31441-x",
+        "timestamp": 1657542287,
+        "sentiment": -1,
+        "published": "July 11, 2022 8:24 AM"
+    },
+    {
+        "title": "Controversial Prehistoric Egg Identified To Be the Last of the “Demon Ducks of Doom”",
+        "domain": "scitechdaily.com",
+        "category": "nottheonion",
+        "link": "https://scitechdaily.com/controversial-prehistoric-egg-identified-to-be-the-last-of-the-demon-ducks-of-doom",
+        "timestamp": 1657542589,
+        "sentiment": -2,
+        "published": "July 11, 2022 8:29 AM"
+    },
+    {
+        "title": "Canada's internet outage caused by 'maintenance'",
+        "domain": "bbc.com",
+        "category": "nottheonion",
+        "link": "https://www.bbc.com/news/world-us-canada-62110358",
+        "timestamp": 1657542769,
+        "sentiment": -2,
+        "published": "July 11, 2022 8:32 AM"
+    },
+    {
+        "title": "Genetic Screening Now Lets Parents Pick the Healthiest Embryos People using IVF can see which embryo is least likely to develop cancer and other diseases. But can protecting your child slip into playing God?",
+        "domain": "wired.com",
+        "category": "technology",
+        "link": "https://www.wired.com/story/genetic-screening-ivf-healthiest-embryos/",
+        "timestamp": 1657542987,
+        "sentiment": -2,
+        "published": "July 11, 2022 8:36 AM"
+    },
+    {
+        "title": "Transformers Earthspark Cast Revealed with Danny Pudi as Bumblebee.",
+        "domain": "seibertron.com",
+        "category": "television",
+        "link": "https://www.seibertron.com/transformers/news/transformers-earthspark-cast-revealed-with-danny-pudi-as-bumblebee/47041/",
+        "timestamp": 1657543040,
+        "sentiment": 0,
+        "published": "July 11, 2022 8:37 AM"
+    },
+    {
+        "title": "Lawyer’s Bombshell: Trump Never Bothered to Invoke Executive Privilege for Steve Bannon",
+        "domain": "thedailybeast.com",
+        "category": "politics",
+        "link": "https://www.thedailybeast.com/trump-lawyer-justin-clark-says-ex-president-never-bothered-to-invoke-executive-privilege-for-steve-bannon",
+        "timestamp": 1657543836,
+        "sentiment": -2,
+        "published": "July 11, 2022 8:50 AM"
+    },
+    {
+        "title": "In Comeback Moment, Up to 150 Fin Whales Spotted Feeding off Antarctica",
+        "domain": "ecowatch.com",
+        "category": "UpliftingNews",
+        "link": "https://www.ecowatch.com/fin-whales-antarctica.html",
+        "timestamp": 1657545486,
+        "sentiment": 0,
+        "published": "July 11, 2022 9:18 AM"
+    },
+    {
+        "title": "Community steps up to save beloved bookstore in SW Detroit after losing $35K in scam",
+        "domain": "wxyz.com",
+        "category": "UpliftingNews",
+        "link": "https://www.wxyz.com/news/community-steps-up-to-save-beloved-bookstore-in-sw-detroit",
+        "timestamp": 1657546148,
+        "sentiment": 0,
+        "published": "July 11, 2022 9:29 AM"
+    },
+    {
+        "title": "U.K. Prime Ministership Race: Sky News to Host First Live TV Debate",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/global/uk-prime-ministership-sky-live-debate-1235313203/",
+        "timestamp": 1657522191,
+        "sentiment": 3,
+        "published": "July 11, 2022 2:49 AM"
+    },
+    {
+        "title": "Alien’ TV Series Will Be Prequel Set in 21st Century, Filming Delayed to 2023.",
+        "domain": "indiewire.com",
+        "category": "television",
+        "link": "https://www.indiewire.com/2022/02/alien-tv-show-noah-hawley-fx-delayed-1234700765/",
+        "timestamp": 1657529921,
+        "sentiment": 3,
+        "published": "July 11, 2022 4:58 AM"
     },
     {
         "title": "‘We have a new Hitler in Russia’: Pussy Riot’s Maria Alyokhina on Putin’s crimes and her years of resistance |",
@@ -205,141 +493,6 @@
         "timestamp": 1657534248,
         "sentiment": 0,
         "published": "July 11, 2022 6:10 AM"
-    },
-    {
-        "title": "Paramount+ Ordered Almost As Many UK Shows As Netflix In 2022 – Report",
-        "domain": "deadline.com",
-        "category": "television",
-        "link": "https://deadline.com/2022/07/paramount-netflix-uk-shows-research-ampere-analysis-1235061239/",
-        "timestamp": 1657534840,
-        "sentiment": 3,
-        "published": "July 11, 2022 6:20 AM"
-    },
-    {
-        "title": "Lithuania has expanded restrictions on the transit of goods through its territory to #Kaliningrad, Reuters reports. As of today, cement, timber, alcohol and alcohol-based industrial chemicals are banned, a #Lithuanian customs official said.",
-        "domain": "mobile.twitter.com",
-        "category": "ukraine",
-        "link": "https://mobile.twitter.com/nexta_tv/status/1546412556268572673",
-        "timestamp": 1657535136,
-        "sentiment": -3,
-        "published": "July 11, 2022 6:25 AM"
-    },
-    {
-        "title": "Exclusive: Binance served crypto traders in Iran for years despite U.S. sanctions, clients say",
-        "domain": "reuters.com",
-        "category": "news",
-        "link": "https://www.reuters.com/technology/exclusive-binance-served-crypto-traders-iran-years-despite-us-sanctions-clients-2022-07-11/",
-        "timestamp": 1657535452,
-        "sentiment": 0,
-        "published": "July 11, 2022 6:30 AM"
-    },
-    {
-        "title": "'Twelve of Putin's officers are killed' in strike on command post in occupied Kherson as 'Vladimir is enraged by failure of his S-400 defence system' while US-supplied HIMARS missiles inflict critical losses",
-        "domain": "dailymail.co.uk",
-        "category": "worldnews",
-        "link": "https://www.dailymail.co.uk/news/article-11001617/Twelve-Putins-officers-killed-Ukraine-strike-Russian-command-post.html",
-        "timestamp": 1657535756,
-        "sentiment": 0,
-        "published": "July 11, 2022 6:35 AM"
-    },
-    {
-        "title": "Lauren Boebert reported to FBI over Biden tweet: ‘We need to terminate this presidency’",
-        "domain": "independent.co.uk",
-        "category": "politics",
-        "link": "https://www.independent.co.uk/news/world/americas/us-politics/lauren-boebert-fbi-joe-biden-tweet-b2120106.html",
-        "timestamp": 1657535822,
-        "sentiment": 0,
-        "published": "July 11, 2022 6:37 AM"
-    },
-    {
-        "title": "Chinese researchers develop device they say can test loyalty of ruling party members",
-        "domain": "rfa.org",
-        "category": "nottheonion",
-        "link": "https://www.rfa.org/english/news/china/polygraph-loyalty-07042022131133.html",
-        "timestamp": 1657536203,
-        "sentiment": 0,
-        "published": "July 11, 2022 6:43 AM"
-    },
-    {
-        "title": "Right-Wing Think Tank Family Research Council Is Now a Church in Eyes of the IRS — The FRC, a staunch opponent of abortion and LGBTQ rights, joins a growing list of activist groups seeking church status, which allows organizations to shield themselves from financial scrutiny.",
-        "domain": "propublica.org",
-        "category": "politics",
-        "link": "https://www.propublica.org/article/family-research-council-irs-church-status",
-        "timestamp": 1657536474,
-        "sentiment": 0,
-        "published": "July 11, 2022 6:47 AM"
-    },
-    {
-        "title": "150 servicemen from Buryatia (🇷🇺region) terminated their army contract unwilling to continue fighting in 🇺🇦-Oleksandra Harmazhapova, head of Free Buryatia Foundation Buryats are the ethnic minority suffering from daily xenophobia and chauvinism within 🇷🇺",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/Gerashchenko_en/status/1546439029561999362?t=BodxRgj3_q8DiOmg_EFd_w&s=19",
-        "timestamp": 1657536525,
-        "sentiment": -3,
-        "published": "July 11, 2022 6:48 AM"
-    },
-    {
-        "title": "Fake IPL in Gujarat village dupes Russian punters | Ahmedabad News - Times of India",
-        "domain": "timesofindia.indiatimes.com",
-        "category": "sports",
-        "link": "https://timesofindia.indiatimes.com/city/ahmedabad/fake-ipl-in-gujarat-village-dupes-russian-punters/articleshow/92789976.cms",
-        "timestamp": 1657537258,
-        "sentiment": -2,
-        "published": "July 11, 2022 7:00 AM"
-    },
-    {
-        "title": "The school year is coming with a shortage of teachers and new rules on what and how they may teach",
-        "domain": "wlrn.org",
-        "category": "news",
-        "link": "https://www.wlrn.org/2022-07-08/the-school-year-is-coming-with-a-shortage-of-teachers-and-new-rules-on-what-and-how-they-may-teach",
-        "timestamp": 1657538382,
-        "sentiment": 0,
-        "published": "July 11, 2022 7:19 AM"
-    },
-    {
-        "title": "Uber Files: Tech firm lobbied top ministers at undeclared meetings - BBC News",
-        "domain": "bbc.com",
-        "category": "technology",
-        "link": "https://www.bbc.com/news/business-62099061",
-        "timestamp": 1657538579,
-        "sentiment": -7,
-        "published": "July 11, 2022 7:22 AM"
-    },
-    {
-        "title": "'A 'Wow' moment': US renewable energy hit record 28% in April. What's driving the change?",
-        "domain": "usatoday.com",
-        "category": "UpliftingNews",
-        "link": "https://www.usatoday.com/story/news/2022/07/08/solar-wind-power-push-renewable-energy-record-level-us-april/10009400002/",
-        "timestamp": 1657538639,
-        "sentiment": -3,
-        "published": "July 11, 2022 7:23 AM"
-    },
-    {
-        "title": "DeSantis takes the fight to school boards",
-        "domain": "axios.com",
-        "category": "florida",
-        "link": "https://www.axios.com/2022/07/07/ron-desantis-school-boards-elections-crt",
-        "timestamp": 1657538941,
-        "sentiment": -2,
-        "published": "July 11, 2022 7:29 AM"
-    },
-    {
-        "title": "Increased engagement with politics on social media predicts future decreases in racial resentment among liberals in the United States, though this doesn’t appear to be the case for conservatives or independents, according to new research",
-        "domain": "psypost.org",
-        "category": "science",
-        "link": "https://www.psypost.org/2022/07/new-study-sheds-light-on-the-link-between-racial-resentment-and-perceptions-of-reverse-racism-in-the-united-states-63475/",
-        "timestamp": 1657540464,
-        "sentiment": -2,
-        "published": "July 11, 2022 7:54 AM"
-    },
-    {
-        "title": "Controversial Prehistoric Egg Identified To Be the Last of the “Demon Ducks of Doom”",
-        "domain": "scitechdaily.com",
-        "category": "nottheonion",
-        "link": "https://scitechdaily.com/controversial-prehistoric-egg-identified-to-be-the-last-of-the-demon-ducks-of-doom",
-        "timestamp": 1657542589,
-        "sentiment": 0,
-        "published": "July 11, 2022 8:29 AM"
     },
     {
         "title": "Inside the presidential palace now full of Sri Lankans",
@@ -484,15 +637,6 @@
         "timestamp": 1657450896,
         "sentiment": -1,
         "published": "July 10, 2022 7:01 AM"
-    },
-    {
-        "title": "In Comeback Moment, Up to 150 Fin Whales Spotted Feeding off Antarctica",
-        "domain": "ecowatch.com",
-        "category": "UpliftingNews",
-        "link": "https://www.ecowatch.com/fin-whales-antarctica.html",
-        "timestamp": 1657456088,
-        "sentiment": 0,
-        "published": "July 10, 2022 8:28 AM"
     },
     {
         "title": "Survey suggests majority of Americans say concerns over charging logistics kept them from buying an electric car",
