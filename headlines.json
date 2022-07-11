@@ -5,8 +5,17 @@
         "category": "technology",
         "link": "https://techcrunch.com/2022/07/10/leaked-uber-files-reveal-history-of-lawbreaking-lobbying-and-exploiting-violence-against-drivers/",
         "timestamp": 1657513103,
-        "sentiment": -1,
+        "sentiment": 2,
         "published": "July 11, 2022 12:18 AM"
+    },
+    {
+        "title": "ERCOT urges Texans to conserve power Monday, fearing limited reserves",
+        "domain": "houstonchronicle.com",
+        "category": "politics",
+        "link": "https://www.houstonchronicle.com/business/energy/article/Record-heat-drives-another-Texas-electricity-17295889.php",
+        "timestamp": 1657513526,
+        "sentiment": -3,
+        "published": "July 11, 2022 12:25 AM"
     },
     {
         "title": "Zelenskyy is sent petition asking to legalize same-sex marriages",
@@ -41,8 +50,17 @@
         "category": "nottheonion",
         "link": "https://www.avclub.com/stranger-things-subtitle-guy-talks-about-tentacles-und-1849161218",
         "timestamp": 1657517487,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 11, 2022 1:31 AM"
+    },
+    {
+        "title": "Chinese-built surveillance systems spread across junta-ruled Myanmar, including hundreds of Huawei cameras.",
+        "domain": "scmp.com",
+        "category": "technology",
+        "link": "https://www.scmp.com/news/asia/southeast-asia/article/3184816/chinese-built-surveillance-systems-spread-across-junta",
+        "timestamp": 1657518918,
+        "sentiment": 2,
+        "published": "July 11, 2022 1:55 AM"
     },
     {
         "title": "NASA Shares List of Cosmic Targets for Webb Telescope's First Images",
@@ -52,6 +70,24 @@
         "timestamp": 1657519166,
         "sentiment": 0,
         "published": "July 11, 2022 1:59 AM"
+    },
+    {
+        "title": "State calls Pythagoras theorem ‘fake news’, proposes to teach Manusmriti under NEP",
+        "domain": "hindustantimes.com",
+        "category": "nottheonion",
+        "link": "https://www.hindustantimes.com/cities/bengaluru-news/state-calls-pythagoras-theorem-fake-news-proposes-to-teach-manusmriti-under-nep-101657479106918.html",
+        "timestamp": 1657521934,
+        "sentiment": 0,
+        "published": "July 11, 2022 2:45 AM"
+    },
+    {
+        "title": "U.K. Prime Ministership Race: Sky News to Host First Live TV Debate",
+        "domain": "variety.com",
+        "category": "television",
+        "link": "https://variety.com/2022/tv/global/uk-prime-ministership-sky-live-debate-1235313203/",
+        "timestamp": 1657522191,
+        "sentiment": -2,
+        "published": "July 11, 2022 2:49 AM"
     },
     {
         "title": "Pregnant woman will go to court to fight HOV lane ticket - CNN Video",
