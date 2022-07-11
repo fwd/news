@@ -9,21 +9,12 @@
         "published": "July 11, 2022 12:18 AM"
     },
     {
-        "title": "Zelenskyy is sent petition asking to legalize same-sex marriages",
-        "domain": "english.nv.ua",
-        "category": "ukraine",
-        "link": "https://english.nv.ua/nation/zelenskyy-is-sent-petition-asking-to-legalize-same-sex-marriages-50255367.html",
-        "timestamp": 1657514158,
-        "sentiment": 0,
-        "published": "July 11, 2022 12:35 AM"
-    },
-    {
         "title": "Texas grid operator warns of potential rolling blackouts on Monday",
         "domain": "reuters.com",
         "category": "news",
         "link": "https://www.reuters.com/world/us/texas-grid-operator-warns-potential-rolling-blackouts-monday-2022-07-11/",
         "timestamp": 1657514452,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "July 11, 2022 12:40 AM"
     },
     {
@@ -45,15 +36,6 @@
         "published": "July 11, 2022 2:24 AM"
     },
     {
-        "title": "State calls Pythagoras theorem ‘fake news’, proposes to teach Manusmriti under NEP",
-        "domain": "hindustantimes.com",
-        "category": "nottheonion",
-        "link": "https://www.hindustantimes.com/cities/bengaluru-news/state-calls-pythagoras-theorem-fake-news-proposes-to-teach-manusmriti-under-nep-101657479106918.html",
-        "timestamp": 1657521934,
-        "sentiment": 0,
-        "published": "July 11, 2022 2:45 AM"
-    },
-    {
         "title": "DeSantis signs executive order to lower prescription drug prices for Floridians",
         "domain": "wftv.com",
         "category": "florida",
@@ -72,21 +54,12 @@
         "published": "July 11, 2022 4:52 AM"
     },
     {
-        "title": "Florida woman kills fish by pouring hot sauce in tank during a fight, deputies say",
-        "domain": "fox35orlando.com",
-        "category": "news",
-        "link": "https://www.fox35orlando.com/news/florida-woman-kills-fish-by-pouring-hot-sauce-in-tank-during-argument-deputies-say",
-        "timestamp": 1657530407,
-        "sentiment": -4,
-        "published": "July 11, 2022 5:06 AM"
-    },
-    {
         "title": "Vladimir Putin to Be Called 'Ruler' of Russia Under New Proposal",
         "domain": "newsweek.com",
         "category": "worldnews",
         "link": "https://www.newsweek.com/vladimir-putin-called-ruler-russia-new-proposal-ldpr-kremlin-1723295",
         "timestamp": 1657531870,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 11, 2022 5:31 AM"
     },
     {
@@ -95,7 +68,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/nexta_tv/status/1546412556268572673",
         "timestamp": 1657535136,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 11, 2022 6:25 AM"
     },
     {
@@ -104,7 +77,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jul/10/germany-russia-gas-flow-permanent-halt-nord-stream-1-maintenance",
         "timestamp": 1657535164,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 11, 2022 6:26 AM"
     },
     {
@@ -113,7 +86,7 @@
         "category": "news",
         "link": "https://www.reuters.com/technology/exclusive-binance-served-crypto-traders-iran-years-despite-us-sanctions-clients-2022-07-11/",
         "timestamp": 1657535452,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "July 11, 2022 6:30 AM"
     },
     {
@@ -149,7 +122,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/putin-ally-lukashenko-faces-revolt-officers-against-ukraine-war-1723224?utm_source=PushnamiMailing&utm_medium=email&utm_campaign=automatic&UTM=1657492932008&subscriberId=6148bf507aeb51cecbacf523",
         "timestamp": 1657537059,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 11, 2022 6:57 AM"
     },
     {
@@ -158,7 +131,7 @@
         "category": "sports",
         "link": "https://timesofindia.indiatimes.com/city/ahmedabad/fake-ipl-in-gujarat-village-dupes-russian-punters/articleshow/92789976.cms",
         "timestamp": 1657537258,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "July 11, 2022 7:00 AM"
     },
     {
@@ -176,7 +149,7 @@
         "category": "UpliftingNews",
         "link": "https://www.usatoday.com/story/news/2022/07/08/solar-wind-power-push-renewable-energy-record-level-us-april/10009400002/",
         "timestamp": 1657538639,
-        "sentiment": 3,
+        "sentiment": -3,
         "published": "July 11, 2022 7:23 AM"
     },
     {
@@ -230,7 +203,7 @@
         "category": "worldnews",
         "link": "https://www.cbsnews.com/news/dmitry-kolker-dies-scientist-taken-hospital-bed-espionage-charges-russia/",
         "timestamp": 1657542644,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 11, 2022 8:30 AM"
     },
     {
@@ -261,21 +234,12 @@
         "published": "July 11, 2022 8:37 AM"
     },
     {
-        "title": "Putin decree gives all Ukrainians path to Russian citizenship",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/europe/putin-decree-gives-all-ukrainians-path-russian-citizenship-2022-07-11/",
-        "timestamp": 1657543724,
-        "sentiment": 0,
-        "published": "July 11, 2022 8:48 AM"
-    },
-    {
         "title": "Former top Saudi spy says MBS is a 'psychopath with no empathy' in interview aired 5 days before Biden visits the country",
         "domain": "businessinsider.com",
         "category": "worldnews",
         "link": "https://www.businessinsider.com/saudi-former-top-spy-says-mbs-psychopath-threat-to-world-2022-7",
         "timestamp": 1657544582,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 11, 2022 9:03 AM"
     },
     {
@@ -288,21 +252,12 @@
         "published": "July 11, 2022 9:05 AM"
     },
     {
-        "title": "Hyundai's autonomous ship is the first to make a transoceanic journey",
-        "domain": "freethink.com",
-        "category": "technology",
-        "link": "https://www.freethink.com/technology/autonomous-ships",
-        "timestamp": 1657544915,
-        "sentiment": 0,
-        "published": "July 11, 2022 9:08 AM"
-    },
-    {
         "title": "In Comeback Moment, Up to 150 Fin Whales Spotted Feeding off Antarctica",
         "domain": "ecowatch.com",
         "category": "UpliftingNews",
         "link": "https://www.ecowatch.com/fin-whales-antarctica.html",
         "timestamp": 1657545486,
-        "sentiment": 3,
+        "sentiment": -3,
         "published": "July 11, 2022 9:18 AM"
     },
     {
@@ -320,7 +275,7 @@
         "category": "UpliftingNews",
         "link": "https://www.wxyz.com/news/community-steps-up-to-save-beloved-bookstore-in-sw-detroit",
         "timestamp": 1657546148,
-        "sentiment": 3,
+        "sentiment": -3,
         "published": "July 11, 2022 9:29 AM"
     },
     {
@@ -329,7 +284,7 @@
         "category": "UpliftingNews",
         "link": "https://www.cam.ac.uk/stories/DarwinExhibition",
         "timestamp": 1657546442,
-        "sentiment": 3,
+        "sentiment": -3,
         "published": "July 11, 2022 9:34 AM"
     },
     {
@@ -342,21 +297,12 @@
         "published": "July 11, 2022 9:35 AM"
     },
     {
-        "title": "Captured Pantsir-S1 has already been brought to use and destroyed its first target.",
-        "domain": "armyinform.com.ua",
-        "category": "ukraine",
-        "link": "https://armyinform.com.ua/2022/07/11/trofejnyj-panczyr-s1-uzhe-voyuye-na-boczi-ukrayiny-ta-znyshhyv-pershu-vorozhu-czil/",
-        "timestamp": 1657547258,
-        "sentiment": 0,
-        "published": "July 11, 2022 9:47 AM"
-    },
-    {
         "title": "An Iowa couple bought back their small town's newspaper from media giant Gannett",
         "domain": "npr.org",
         "category": "UpliftingNews",
         "link": "https://www.npr.org/2022/07/10/1110723389/an-iowa-couple-bought-back-their-small-towns-newspaper-from-media-giant-gannett",
         "timestamp": 1657547611,
-        "sentiment": 3,
+        "sentiment": -3,
         "published": "July 11, 2022 9:53 AM"
     },
     {
@@ -369,21 +315,12 @@
         "published": "July 11, 2022 9:54 AM"
     },
     {
-        "title": "Grill’d receives $16m taxpayer funding for controversial ‘Hamburger University’ training program",
-        "domain": "news.com.au",
-        "category": "nottheonion",
-        "link": "https://www.news.com.au/finance/business/retail/grilld-receives-16-million-in-taxpayer-funding-for-controversial-hamburger-university/news-story/5ae8e2bf0fcbfd72299d47a5a80ee037",
-        "timestamp": 1657547816,
-        "sentiment": 0,
-        "published": "July 11, 2022 9:56 AM"
-    },
-    {
         "title": "At least 15 dead in a mass shooting at a bar in Soweto, South Africa",
         "domain": "cnn.com",
         "category": "news",
         "link": "https://www.cnn.com/2022/07/10/africa/soweto-south-africa-shooting-intl/index.html",
         "timestamp": 1657547939,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "July 11, 2022 9:58 AM"
     },
     {
@@ -405,15 +342,6 @@
         "published": "July 11, 2022 10:05 AM"
     },
     {
-        "title": "Abortion bans force U.S. students to rethink college plans",
-        "domain": "reuters.com",
-        "category": "politics",
-        "link": "https://www.reuters.com/world/us/some-us-students-re-think-college-plans-states-with-abortion-bans-2022-07-11/",
-        "timestamp": 1657549085,
-        "sentiment": 0,
-        "published": "July 11, 2022 10:18 AM"
-    },
-    {
         "title": "First Company Applies to Make Birth Control Pill Available Without a Prescription in the U.S.",
         "domain": "time.com",
         "category": "politics",
@@ -428,7 +356,7 @@
         "category": "worldnews",
         "link": "https://www.ctvnews.ca/world/terrorism-abe-killing-seen-as-attack-on-japan-s-democracy-1.5982246",
         "timestamp": 1657549915,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 11, 2022 10:31 AM"
     },
     {
@@ -441,12 +369,21 @@
         "published": "July 11, 2022 10:36 AM"
     },
     {
+        "title": "Following 21st grand slam title, what's next for Djokovic?",
+        "domain": "cnn.com",
+        "category": "sports",
+        "link": "https://www.cnn.com/2022/07/11/tennis/novak-djokovic-what-next-wimbledon-spt-intl/index.html",
+        "timestamp": 1657550255,
+        "sentiment": 1,
+        "published": "July 11, 2022 10:37 AM"
+    },
+    {
         "title": "Kim Glass, former Olympic volleyball player, says she was attacked by homeless man in LA",
         "domain": "abc7.com",
         "category": "news",
         "link": "https://abc7.com/kim-glass-olympian-attacked-downtown-los-angeles/12042519/",
         "timestamp": 1657550311,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "July 11, 2022 10:38 AM"
     },
     {
@@ -464,7 +401,7 @@
         "category": "news",
         "link": "https://abcnews.go.com/US/officials-agree-release-surveillance-footage-uvalde-shooting/story?id=86602983",
         "timestamp": 1657551191,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "July 11, 2022 10:53 AM"
     },
     {
@@ -491,7 +428,7 @@
         "category": "worldnews",
         "link": "https://thehill.com/policy/defense/3553090-russia-struggling-to-give-troops-in-ukraine-breaks-from-combat-uk-intelligence/",
         "timestamp": 1657553340,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 11, 2022 11:29 AM"
     },
     {
@@ -500,7 +437,7 @@
         "category": "sports",
         "link": "https://www.foxnews.com/sports/olympian-kim-glass-injuries-attacked-los-angeles",
         "timestamp": 1657553638,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "July 11, 2022 11:33 AM"
     },
     {
@@ -513,12 +450,21 @@
         "published": "July 11, 2022 11:36 AM"
     },
     {
+        "title": "Russia and Belarus face ban from Paris Olympics, warns senior IOC member | Paris Olympic Games 2024",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/sport/2022/jul/11/russia-facing-ban-from-paris-olympics-warns-senior-ioc-member-craig-reedie",
+        "timestamp": 1657554229,
+        "sentiment": -4,
+        "published": "July 11, 2022 11:43 AM"
+    },
+    {
         "title": "At least 1 dead, 5 hurt in shooting outside Kansas City bar where off-duty officers were working",
         "domain": "nbcnews.com",
         "category": "news",
         "link": "https://www.nbcnews.com/news/us-news/least-1-dead-5-hurt-shooting-kansas-city-bar-duty-officers-working-rcna37588",
         "timestamp": 1657554449,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "July 11, 2022 11:47 AM"
     },
     {
@@ -527,7 +473,7 @@
         "category": "news",
         "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/perrigo-unit-submits-approval-application-fda-otc-birth-control-pill-2022-07-11/",
         "timestamp": 1657554628,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "July 11, 2022 11:50 AM"
     },
     {
@@ -581,7 +527,7 @@
         "category": "news",
         "link": "https://www.cnbc.com/2022/07/11/costco-ceos-one-word-answer-to-whether-he-would-raise-the-price-of-hot-dogs-no.html",
         "timestamp": 1657557800,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "July 11, 2022 12:43 PM"
     },
     {
@@ -590,7 +536,7 @@
         "category": "worldnews",
         "link": "https://www.cnn.com/2022/07/11/investing/euro-dollar-parity/index.html",
         "timestamp": 1657557964,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 11, 2022 12:46 PM"
     },
     {
@@ -617,7 +563,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/visegrad24/status/1546508090027245574",
         "timestamp": 1657558591,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 11, 2022 12:56 PM"
     },
     {
@@ -635,8 +581,17 @@
         "category": "worldnews",
         "link": "https://www.france24.com/en/live-news/20220711-market-values-are-destroying-nature-un-report",
         "timestamp": 1657560316,
-        "sentiment": 0,
+        "sentiment": -4,
         "published": "July 11, 2022 1:25 PM"
+    },
+    {
+        "title": "Here’s one way we know that an EV’s battery will last the car’s lifetime | An electric vehicle's battery must be warrantied for 8 years or 100,000 miles",
+        "domain": "arstechnica.com",
+        "category": "technology",
+        "link": "https://arstechnica.com/cars/2022/07/heres-one-way-we-know-that-an-evs-battery-will-last-the-cars-lifetime/",
+        "timestamp": 1657560568,
+        "sentiment": 0,
+        "published": "July 11, 2022 1:29 PM"
     },
     {
         "title": "Mayfield Heights,OH McDonald's owner pays employees during renovation — Tony Philiou wants his employees to know their hard work and dedication is noticed.",
@@ -644,7 +599,7 @@
         "category": "UpliftingNews",
         "link": "https://www.wkyc.com/article/life/heartwarming/mayfield-heights-mcdonalds-owner-pays-employees-renovation/95-5af9881b-b591-4ff4-a01a-fd854027a16a",
         "timestamp": 1657561022,
-        "sentiment": 3,
+        "sentiment": -3,
         "published": "July 11, 2022 1:37 PM"
     },
     {
@@ -680,7 +635,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/Gerashchenko_en/status/1546526587188830208",
         "timestamp": 1657562561,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 11, 2022 2:02 PM"
     },
     {
@@ -693,13 +648,31 @@
         "published": "July 11, 2022 2:08 PM"
     },
     {
+        "title": "Paul Massaro: Ukraine must be allowed to strike military sites in occupied Belarus, occupied Crimea, and Russia",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/apmassaro3/status/1546097715335118850",
+        "timestamp": 1657563034,
+        "sentiment": -3,
+        "published": "July 11, 2022 2:10 PM"
+    },
+    {
         "title": "UN expects world's population to reach 8 billion on Nov. 15",
         "domain": "apnews.com",
         "category": "news",
         "link": "https://apnews.com/article/china-united-nations-antonio-guterres-00f6ef38132fe988ceb3e7e143e1f033",
         "timestamp": 1657564351,
-        "sentiment": -4,
+        "sentiment": 2,
         "published": "July 11, 2022 2:32 PM"
+    },
+    {
+        "title": "Josh Adams makes history for Wales as late try sets up first win in South Africa | Rugby union",
+        "domain": "theguardian.com",
+        "category": "sports",
+        "link": "https://www.theguardian.com/sport/2022/jul/09/south-africa-wales-second-test-rugby-union-match-report",
+        "timestamp": 1657565391,
+        "sentiment": 1,
+        "published": "July 11, 2022 2:49 PM"
     },
     {
         "title": "Education system ‘neglecting the importance of plants’. People are becoming “disconnected from the botanical world” at a time when plants could help solve global environmental problems, warn a group of research scientists.",
@@ -711,13 +684,31 @@
         "published": "July 11, 2022 2:57 PM"
     },
     {
-        "title": "That's not cricket! - Indian police break up fake league",
-        "domain": "reuters.com",
-        "category": "sports",
-        "link": "https://www.reuters.com/world/india/thats-not-cricket-indian-police-break-up-fake-league-2022-07-11/",
-        "timestamp": 1657566951,
+        "title": "Pregnant women who were exposed to multiple phthalates during pregnancy had an increased risk of preterm birth, according to new research. Phthalates are chemicals used in personal care products, such as cosmetics, as well as in solvents, detergents, and food packaging.",
+        "domain": "niehs.nih.gov",
+        "category": "science",
+        "link": "https://www.niehs.nih.gov/news/newsroom/releases/2022/july11/index.cfm",
+        "timestamp": 1657566084,
         "sentiment": -3,
-        "published": "July 11, 2022 3:15 PM"
+        "published": "July 11, 2022 3:01 PM"
+    },
+    {
+        "title": "‘Tuca and Bertie,’ Stellar Animation, and Learning to Treat TV as a Single-Screen Experience (Again)",
+        "domain": "indiewire.com",
+        "category": "television",
+        "link": "https://www.indiewire.com/2022/07/tuca-and-bertie-great-tv-one-screen-season-3-review-1234740149/",
+        "timestamp": 1657566229,
+        "sentiment": 0,
+        "published": "July 11, 2022 3:03 PM"
+    },
+    {
+        "title": "Sen. Lindsey Graham ordered to testify in front of special grand jury in Trump election probe",
+        "domain": "wsbtv.com",
+        "category": "politics",
+        "link": "https://www.wsbtv.com/news/local/atlanta/sen-lindsey-graham-ordered-testify-front-special-grand-jury-trump-election-probe/CWFIZ4EZLFBY3L3MEMJPA6TVL4/",
+        "timestamp": 1657567222,
+        "sentiment": 0,
+        "published": "July 11, 2022 3:20 PM"
     },
     {
         "title": "Dodger Stadium workers threatening to strike",
@@ -725,8 +716,134 @@
         "category": "sports",
         "link": "https://www.espn.com/mlb/story/_/id/34227337/dodger-stadium-concession-workers-threaten-strike-ahead-all-star-game",
         "timestamp": 1657567432,
-        "sentiment": -3,
+        "sentiment": 1,
         "published": "July 11, 2022 3:23 PM"
+    },
+    {
+        "title": "Several abortion restrictions ruled unconstitutional by Minnesota district court",
+        "domain": "cbsnews.com",
+        "category": "news",
+        "link": "https://www.cbsnews.com/minnesota/news/several-abortion-restrictions-ruled-unconstitutional-by-minnesota-district-court/",
+        "timestamp": 1657568100,
+        "sentiment": 2,
+        "published": "July 11, 2022 3:35 PM"
+    },
+    {
+        "title": "Amazon is quietly developing cancer vaccines in partnership with Fred Hutchinson and recruiting patients for a new clinical trial",
+        "domain": "businessinsider.com",
+        "category": "technology",
+        "link": "https://www.businessinsider.com/amazon-is-developing-cancer-vaccines-with-fred-hutchinson-2022-7",
+        "timestamp": 1657568118,
+        "sentiment": 0,
+        "published": "July 11, 2022 3:35 PM"
+    },
+    {
+        "title": "US tourist injured falling into Mount Vesuvius crater after taking selfie",
+        "domain": "theguardian.com",
+        "category": "nottheonion",
+        "link": "https://www.theguardian.com/world/2022/jul/11/us-tourist-injured-falling-mount-vesuvius-crater",
+        "timestamp": 1657568901,
+        "sentiment": 0,
+        "published": "July 11, 2022 3:48 PM"
+    },
+    {
+        "title": "Ron DeSantis’ handpicked \"radical far-right\" secretary of state will oversee his race | DeSantis picked Cord Byrd, a Florida legislator who won't acknowledge Biden's 2020 win, to run Florida elections",
+        "domain": "salon.com",
+        "category": "FLgovernment",
+        "link": "https://www.salon.com/2022/07/11/ron-desantis-handpicked-radical-far-right-secretary-of-state-will-oversee-his-race/",
+        "timestamp": 1657569028,
+        "sentiment": -3,
+        "published": "July 11, 2022 3:50 PM"
+    },
+    {
+        "title": "Bay Area Doctor Plans to Offer Abortions Via Boat Off the Gulf of Mexico",
+        "domain": "nbcbayarea.com",
+        "category": "nottheonion",
+        "link": "https://www.nbcbayarea.com/news/local/floating-abortion-clinic-meg-autry/2940013/",
+        "timestamp": 1657570503,
+        "sentiment": 0,
+        "published": "July 11, 2022 4:15 PM"
+    },
+    {
+        "title": "Zelenskyy is sent petition asking to legalize same-sex marriages",
+        "domain": "english.nv.ua",
+        "category": "ukraine",
+        "link": "https://english.nv.ua/nation/zelenskyy-is-sent-petition-asking-to-legalize-same-sex-marriages-50255367.html",
+        "timestamp": 1657514158,
+        "sentiment": 0,
+        "published": "July 11, 2022 12:35 AM"
+    },
+    {
+        "title": "State calls Pythagoras theorem ‘fake news’, proposes to teach Manusmriti under NEP",
+        "domain": "hindustantimes.com",
+        "category": "nottheonion",
+        "link": "https://www.hindustantimes.com/cities/bengaluru-news/state-calls-pythagoras-theorem-fake-news-proposes-to-teach-manusmriti-under-nep-101657479106918.html",
+        "timestamp": 1657521934,
+        "sentiment": 0,
+        "published": "July 11, 2022 2:45 AM"
+    },
+    {
+        "title": "Florida woman kills fish by pouring hot sauce in tank during a fight, deputies say",
+        "domain": "fox35orlando.com",
+        "category": "news",
+        "link": "https://www.fox35orlando.com/news/florida-woman-kills-fish-by-pouring-hot-sauce-in-tank-during-argument-deputies-say",
+        "timestamp": 1657530407,
+        "sentiment": -4,
+        "published": "July 11, 2022 5:06 AM"
+    },
+    {
+        "title": "Putin decree gives all Ukrainians path to Russian citizenship",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/putin-decree-gives-all-ukrainians-path-russian-citizenship-2022-07-11/",
+        "timestamp": 1657543724,
+        "sentiment": 0,
+        "published": "July 11, 2022 8:48 AM"
+    },
+    {
+        "title": "Hyundai's autonomous ship is the first to make a transoceanic journey",
+        "domain": "freethink.com",
+        "category": "technology",
+        "link": "https://www.freethink.com/technology/autonomous-ships",
+        "timestamp": 1657544915,
+        "sentiment": 0,
+        "published": "July 11, 2022 9:08 AM"
+    },
+    {
+        "title": "Captured Pantsir-S1 has already been brought to use and destroyed its first target.",
+        "domain": "armyinform.com.ua",
+        "category": "ukraine",
+        "link": "https://armyinform.com.ua/2022/07/11/trofejnyj-panczyr-s1-uzhe-voyuye-na-boczi-ukrayiny-ta-znyshhyv-pershu-vorozhu-czil/",
+        "timestamp": 1657547258,
+        "sentiment": 0,
+        "published": "July 11, 2022 9:47 AM"
+    },
+    {
+        "title": "Grill’d receives $16m taxpayer funding for controversial ‘Hamburger University’ training program",
+        "domain": "news.com.au",
+        "category": "nottheonion",
+        "link": "https://www.news.com.au/finance/business/retail/grilld-receives-16-million-in-taxpayer-funding-for-controversial-hamburger-university/news-story/5ae8e2bf0fcbfd72299d47a5a80ee037",
+        "timestamp": 1657547816,
+        "sentiment": 0,
+        "published": "July 11, 2022 9:56 AM"
+    },
+    {
+        "title": "Abortion bans force U.S. students to rethink college plans",
+        "domain": "reuters.com",
+        "category": "politics",
+        "link": "https://www.reuters.com/world/us/some-us-students-re-think-college-plans-states-with-abortion-bans-2022-07-11/",
+        "timestamp": 1657549085,
+        "sentiment": 0,
+        "published": "July 11, 2022 10:18 AM"
+    },
+    {
+        "title": "That's not cricket! - Indian police break up fake league",
+        "domain": "reuters.com",
+        "category": "sports",
+        "link": "https://www.reuters.com/world/india/thats-not-cricket-indian-police-break-up-fake-league-2022-07-11/",
+        "timestamp": 1657566951,
+        "sentiment": -3,
+        "published": "July 11, 2022 3:15 PM"
     },
     {
         "title": "NASA Shares List of Cosmic Targets for Webb Telescope's First Images",
@@ -790,15 +907,6 @@
         "timestamp": 1657550168,
         "sentiment": 3,
         "published": "July 11, 2022 10:36 AM"
-    },
-    {
-        "title": "Following 21st grand slam title, what's next for Djokovic?",
-        "domain": "cnn.com",
-        "category": "sports",
-        "link": "https://www.cnn.com/2022/07/11/tennis/novak-djokovic-what-next-wimbledon-spt-intl/index.html",
-        "timestamp": 1657550255,
-        "sentiment": -2,
-        "published": "July 11, 2022 10:37 AM"
     },
     {
         "title": "Head Injuries in Children Linked to Reduced Brain Size and Learning Difficulties",
