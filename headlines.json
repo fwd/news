@@ -9,13 +9,31 @@
         "published": "July 11, 2022 12:18 AM"
     },
     {
-        "title": "Pregnant woman will go to court to fight HOV lane ticket - CNN Video",
-        "domain": "cnn.com",
+        "title": "Zelenskyy is sent petition asking to legalize same-sex marriages",
+        "domain": "english.nv.ua",
+        "category": "ukraine",
+        "link": "https://english.nv.ua/nation/zelenskyy-is-sent-petition-asking-to-legalize-same-sex-marriages-50255367.html",
+        "timestamp": 1657514158,
+        "sentiment": -4,
+        "published": "July 11, 2022 12:35 AM"
+    },
+    {
+        "title": "Texas grid operator warns of potential rolling blackouts on Monday",
+        "domain": "reuters.com",
         "category": "news",
-        "link": "https://www.cnn.com/videos/us/2022/07/11/pregnant-woman-hov-lane-ticket-bottone-intv-vpx.cnn",
-        "timestamp": 1657514773,
-        "sentiment": -2,
-        "published": "July 11, 2022 12:46 AM"
+        "link": "https://www.reuters.com/world/us/texas-grid-operator-warns-potential-rolling-blackouts-monday-2022-07-11/",
+        "timestamp": 1657514452,
+        "sentiment": 0,
+        "published": "July 11, 2022 12:40 AM"
+    },
+    {
+        "title": "Biden to announce $100 million for Palestinian hospitals on Middle East trip",
+        "domain": "axios.com",
+        "category": "worldnews",
+        "link": "https://www.axios.com/2022/07/10/biden-100-million-palestinian-hospitals-trip",
+        "timestamp": 1657514707,
+        "sentiment": 0,
+        "published": "July 11, 2022 12:45 AM"
     },
     {
         "title": "[subtitle guy trolling a little bit]",
@@ -25,6 +43,24 @@
         "timestamp": 1657517487,
         "sentiment": -3,
         "published": "July 11, 2022 1:31 AM"
+    },
+    {
+        "title": "NASA Shares List of Cosmic Targets for Webb Telescope's First Images",
+        "domain": "nasa.gov",
+        "category": "UpliftingNews",
+        "link": "https://www.nasa.gov/feature/goddard/2022/nasa-shares-list-of-cosmic-targets-for-webb-telescope-s-first-images",
+        "timestamp": 1657519166,
+        "sentiment": 0,
+        "published": "July 11, 2022 1:59 AM"
+    },
+    {
+        "title": "Pregnant woman will go to court to fight HOV lane ticket - CNN Video",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/videos/us/2022/07/11/pregnant-woman-hov-lane-ticket-bottone-intv-vpx.cnn",
+        "timestamp": 1657514773,
+        "sentiment": -2,
+        "published": "July 11, 2022 12:46 AM"
     },
     {
         "title": "Man rescued while trying to retrace steps of family who died on Northern California hiking trail",
