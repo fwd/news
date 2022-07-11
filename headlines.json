@@ -5,17 +5,8 @@
         "category": "technology",
         "link": "https://techcrunch.com/2022/07/10/leaked-uber-files-reveal-history-of-lawbreaking-lobbying-and-exploiting-violence-against-drivers/",
         "timestamp": 1657513103,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "July 11, 2022 12:18 AM"
-    },
-    {
-        "title": "ERCOT urges Texans to conserve power Monday, fearing limited reserves",
-        "domain": "houstonchronicle.com",
-        "category": "politics",
-        "link": "https://www.houstonchronicle.com/business/energy/article/Record-heat-drives-another-Texas-electricity-17295889.php",
-        "timestamp": 1657513526,
-        "sentiment": -4,
-        "published": "July 11, 2022 12:25 AM"
     },
     {
         "title": "Zelenskyy is sent petition asking to legalize same-sex marriages",
@@ -23,7 +14,7 @@
         "category": "ukraine",
         "link": "https://english.nv.ua/nation/zelenskyy-is-sent-petition-asking-to-legalize-same-sex-marriages-50255367.html",
         "timestamp": 1657514158,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 11, 2022 12:35 AM"
     },
     {
@@ -32,17 +23,8 @@
         "category": "news",
         "link": "https://www.reuters.com/world/us/texas-grid-operator-warns-potential-rolling-blackouts-monday-2022-07-11/",
         "timestamp": 1657514452,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 11, 2022 12:40 AM"
-    },
-    {
-        "title": "Biden to announce $100 million for Palestinian hospitals on Middle East trip",
-        "domain": "axios.com",
-        "category": "worldnews",
-        "link": "https://www.axios.com/2022/07/10/biden-100-million-palestinian-hospitals-trip",
-        "timestamp": 1657514707,
-        "sentiment": 1,
-        "published": "July 11, 2022 12:45 AM"
     },
     {
         "title": "Chinese-built surveillance systems spread across junta-ruled Myanmar, including hundreds of Huawei cameras.",
@@ -50,7 +32,7 @@
         "category": "technology",
         "link": "https://www.scmp.com/news/asia/southeast-asia/article/3184816/chinese-built-surveillance-systems-spread-across-junta",
         "timestamp": 1657518918,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "July 11, 2022 1:55 AM"
     },
     {
@@ -59,7 +41,7 @@
         "category": "news",
         "link": "https://www.cnn.com/2022/07/10/china/china-henan-bank-depositors-protest-mic-intl-hnk/index.html",
         "timestamp": 1657519061,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 11, 2022 1:57 AM"
     },
     {
@@ -68,7 +50,7 @@
         "category": "UpliftingNews",
         "link": "https://www.nasa.gov/feature/goddard/2022/nasa-shares-list-of-cosmic-targets-for-webb-telescope-s-first-images",
         "timestamp": 1657519166,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 11, 2022 1:59 AM"
     },
     {
@@ -77,17 +59,8 @@
         "category": "technology",
         "link": "https://www.bloomberg.com/news/articles/2022-07-09/us-electric-car-sales-reach-key-milestone#xj4y7vzkg",
         "timestamp": 1657520657,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "July 11, 2022 2:24 AM"
-    },
-    {
-        "title": "State calls Pythagoras theorem ‘fake news’, proposes to teach Manusmriti under NEP",
-        "domain": "hindustantimes.com",
-        "category": "nottheonion",
-        "link": "https://www.hindustantimes.com/cities/bengaluru-news/state-calls-pythagoras-theorem-fake-news-proposes-to-teach-manusmriti-under-nep-101657479106918.html",
-        "timestamp": 1657521934,
-        "sentiment": 0,
-        "published": "July 11, 2022 2:45 AM"
     },
     {
         "title": "Russia's turning off natural-gas supply via a key pipeline to Germany for maintenance today. Europe fears the shutdown may be permanent.",
@@ -95,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/russias-turning-off-natural-gas-supply-via-a-key-pipeline-to-germany-for-maintenance-today-europe-fears-the-shutdown-may-be-permanent/ar-AAZrbrJ",
         "timestamp": 1657522871,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 11, 2022 3:01 AM"
     },
     {
@@ -122,7 +95,7 @@
         "category": "politics",
         "link": "https://www.nytimes.com/2022/07/11/us/politics/biden-approval-polling-2024.html",
         "timestamp": 1657526668,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "July 11, 2022 4:04 AM"
     },
     {
@@ -140,7 +113,7 @@
         "category": "news",
         "link": "https://www.fox35orlando.com/news/florida-woman-kills-fish-by-pouring-hot-sauce-in-tank-during-argument-deputies-say",
         "timestamp": 1657530407,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 11, 2022 5:06 AM"
     },
     {
@@ -158,7 +131,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/vladimir-putin-called-ruler-russia-new-proposal-ldpr-kremlin-1723295",
         "timestamp": 1657531870,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 11, 2022 5:31 AM"
     },
     {
@@ -176,7 +149,7 @@
         "category": "ukraine",
         "link": "https://imgur.com/a/wSUqrFy",
         "timestamp": 1657533805,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 11, 2022 6:03 AM"
     },
     {
@@ -185,7 +158,7 @@
         "category": "television",
         "link": "https://deadline.com/2022/07/paramount-netflix-uk-shows-research-ampere-analysis-1235061239/",
         "timestamp": 1657534840,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 11, 2022 6:20 AM"
     },
     {
@@ -194,7 +167,7 @@
         "category": "ukraine",
         "link": "https://mobile.twitter.com/nexta_tv/status/1546412556268572673",
         "timestamp": 1657535136,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 11, 2022 6:25 AM"
     },
     {
@@ -203,7 +176,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/world/2022/jul/10/germany-russia-gas-flow-permanent-halt-nord-stream-1-maintenance",
         "timestamp": 1657535164,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 11, 2022 6:26 AM"
     },
     {
@@ -212,7 +185,7 @@
         "category": "news",
         "link": "https://www.reuters.com/technology/exclusive-binance-served-crypto-traders-iran-years-despite-us-sanctions-clients-2022-07-11/",
         "timestamp": 1657535452,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 11, 2022 6:30 AM"
     },
     {
@@ -221,7 +194,7 @@
         "category": "worldnews",
         "link": "https://www.dailymail.co.uk/news/article-11001617/Twelve-Putins-officers-killed-Ukraine-strike-Russian-command-post.html",
         "timestamp": 1657535756,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 11, 2022 6:35 AM"
     },
     {
@@ -230,7 +203,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/lauren-boebert-fbi-joe-biden-tweet-b2120106.html",
         "timestamp": 1657535822,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "July 11, 2022 6:37 AM"
     },
     {
@@ -243,21 +216,12 @@
         "published": "July 11, 2022 6:43 AM"
     },
     {
-        "title": "Another russian warehouse was destroyed in temporarily occupied Tokmak. — Zaporizhzia Region. We are waiting for official confirmation.",
-        "domain": "twitter.com",
-        "category": "ukraine",
-        "link": "https://twitter.com/TpyxaNews/status/1546439598171197440?t=79bSNI1P4gWcveFEcBBSOA&s=19",
-        "timestamp": 1657536387,
-        "sentiment": 2,
-        "published": "July 11, 2022 6:46 AM"
-    },
-    {
         "title": "Right-Wing Think Tank Family Research Council Is Now a Church in Eyes of the IRS — The FRC, a staunch opponent of abortion and LGBTQ rights, joins a growing list of activist groups seeking church status, which allows organizations to shield themselves from financial scrutiny.",
         "domain": "propublica.org",
         "category": "politics",
         "link": "https://www.propublica.org/article/family-research-council-irs-church-status",
         "timestamp": 1657536474,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "July 11, 2022 6:47 AM"
     },
     {
@@ -266,17 +230,8 @@
         "category": "ukraine",
         "link": "https://twitter.com/Gerashchenko_en/status/1546439029561999362?t=BodxRgj3_q8DiOmg_EFd_w&s=19",
         "timestamp": 1657536525,
-        "sentiment": 2,
+        "sentiment": 0,
         "published": "July 11, 2022 6:48 AM"
-    },
-    {
-        "title": "Covid-19 patients under home quarantine to wear tracking wristbands from July 15, Hong Kong health minister says; city logs 2,863 infections",
-        "domain": "scmp.com",
-        "category": "technology",
-        "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3184846/coronavirus-hong-kong-covid-19-app-update-will",
-        "timestamp": 1657537054,
-        "sentiment": -2,
-        "published": "July 11, 2022 6:57 AM"
     },
     {
         "title": "Putin ally Lukashenko faces revolt from officers against Ukraine war",
@@ -284,7 +239,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/putin-ally-lukashenko-faces-revolt-officers-against-ukraine-war-1723224?utm_source=PushnamiMailing&utm_medium=email&utm_campaign=automatic&UTM=1657492932008&subscriberId=6148bf507aeb51cecbacf523",
         "timestamp": 1657537059,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 11, 2022 6:57 AM"
     },
     {
@@ -293,7 +248,7 @@
         "category": "sports",
         "link": "https://timesofindia.indiatimes.com/city/ahmedabad/fake-ipl-in-gujarat-village-dupes-russian-punters/articleshow/92789976.cms",
         "timestamp": 1657537258,
-        "sentiment": 4,
+        "sentiment": -7,
         "published": "July 11, 2022 7:00 AM"
     },
     {
@@ -302,7 +257,7 @@
         "category": "politics",
         "link": "https://abcnews.go.com/US/doj-reveals-investigators-interviewed-trumps-attorney-connection-bannon/story?id=86588798",
         "timestamp": 1657537384,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "July 11, 2022 7:03 AM"
     },
     {
@@ -311,7 +266,7 @@
         "category": "sports",
         "link": "https://www.si.com/wnba/2022/07/10/wnba-announces-40-game-schedule-charter-planes-2023-season",
         "timestamp": 1657538351,
-        "sentiment": 4,
+        "sentiment": -7,
         "published": "July 11, 2022 7:19 AM"
     },
     {
@@ -320,7 +275,7 @@
         "category": "worldnews",
         "link": "https://www.aljazeera.com/news/2022/7/11/china-says-asian-nations-should-avoid-being-used-as-chess-pieces",
         "timestamp": 1657538428,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 11, 2022 7:20 AM"
     },
     {
@@ -329,7 +284,7 @@
         "category": "technology",
         "link": "https://www.bbc.com/news/business-62099061",
         "timestamp": 1657538579,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "July 11, 2022 7:22 AM"
     },
     {
@@ -338,7 +293,7 @@
         "category": "UpliftingNews",
         "link": "https://www.usatoday.com/story/news/2022/07/08/solar-wind-power-push-renewable-energy-record-level-us-april/10009400002/",
         "timestamp": 1657538639,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 11, 2022 7:23 AM"
     },
     {
@@ -356,8 +311,17 @@
         "category": "worldnews",
         "link": "https://www.bbc.com/news/newsbeat-62121650",
         "timestamp": 1657539463,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 11, 2022 7:37 AM"
+    },
+    {
+        "title": "In escalation, Iran enriches to 20% with new centrifuges at fortified site",
+        "domain": "nbcnews.com",
+        "category": "news",
+        "link": "https://www.nbcnews.com/news/world/iran-uranium-enriches-centrifuges-fordo-nuclear-talks-jcpoa-rcna37568",
+        "timestamp": 1657540442,
+        "sentiment": -3,
+        "published": "July 11, 2022 7:54 AM"
     },
     {
         "title": "Increased engagement with politics on social media predicts future decreases in racial resentment among liberals in the United States, though this doesn’t appear to be the case for conservatives or independents, according to new research",
@@ -369,13 +333,13 @@
         "published": "July 11, 2022 7:54 AM"
     },
     {
-        "title": "Disgraced ex-New York Governor Andrew Cuomo improperly used state resources for his $5.1m memoir, probe finds",
-        "domain": "independent.co.uk",
-        "category": "politics",
-        "link": "https://www.independent.co.uk/news/world/americas/us-politics/andrew-cuomo-new-york-book-deal-b2119957.html",
-        "timestamp": 1657541249,
-        "sentiment": -4,
-        "published": "July 11, 2022 8:07 AM"
+        "title": "Danilov on successful strikes by Ukrainian artillery: ''And we are only just getting started''",
+        "domain": "pravda.com.ua",
+        "category": "ukraine",
+        "link": "https://www.pravda.com.ua/eng/news/2022/07/11/7357480/",
+        "timestamp": 1657540544,
+        "sentiment": 0,
+        "published": "July 11, 2022 7:55 AM"
     },
     {
         "title": "A distillery is fighting invasive crabs by turning them into whiskey",
@@ -401,7 +365,7 @@
         "category": "politics",
         "link": "https://www.dallasnews.com/news/watchdog/2022/07/11/update-pregnant-plano-hov-lanes-protesters-story-goes-around-the-world/",
         "timestamp": 1657542395,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "July 11, 2022 8:26 AM"
     },
     {
@@ -414,6 +378,15 @@
         "published": "July 11, 2022 8:29 AM"
     },
     {
+        "title": "Scientist dies after being taken from his hospital bed on espionage charges in Russia",
+        "domain": "cbsnews.com",
+        "category": "worldnews",
+        "link": "https://www.cbsnews.com/news/dmitry-kolker-dies-scientist-taken-hospital-bed-espionage-charges-russia/",
+        "timestamp": 1657542644,
+        "sentiment": -2,
+        "published": "July 11, 2022 8:30 AM"
+    },
+    {
         "title": "Inside the presidential palace now full of Sri Lankans",
         "domain": "bbc.com",
         "category": "nottheonion",
@@ -423,12 +396,21 @@
         "published": "July 11, 2022 8:31 AM"
     },
     {
+        "title": "Beto O’Rourke to launch 49-day campaign tour of Texas",
+        "domain": "texastribune.org",
+        "category": "politics",
+        "link": "https://www.texastribune.org/2022/07/11/beto-orourke-campaign-texas/",
+        "timestamp": 1657542972,
+        "sentiment": -2,
+        "published": "July 11, 2022 8:36 AM"
+    },
+    {
         "title": "Genetic Screening Now Lets Parents Pick the Healthiest Embryos People using IVF can see which embryo is least likely to develop cancer and other diseases. But can protecting your child slip into playing God?",
         "domain": "wired.com",
         "category": "technology",
         "link": "https://www.wired.com/story/genetic-screening-ivf-healthiest-embryos/",
         "timestamp": 1657542987,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "July 11, 2022 8:36 AM"
     },
     {
@@ -437,7 +419,7 @@
         "category": "television",
         "link": "https://www.seibertron.com/transformers/news/transformers-earthspark-cast-revealed-with-danny-pudi-as-bumblebee/47041/",
         "timestamp": 1657543040,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 11, 2022 8:37 AM"
     },
     {
@@ -446,7 +428,7 @@
         "category": "politics",
         "link": "https://www.politifact.com/factchecks/2022/jul/08/ron-desantis/ron-desantis-falsely-claims-biden-trying-buy-state/",
         "timestamp": 1657543143,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "July 11, 2022 8:39 AM"
     },
     {
@@ -455,7 +437,7 @@
         "category": "television",
         "link": "https://collider.com/the-thick-of-it-british-political-satire-resonates-after-blair-era/",
         "timestamp": 1657543829,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 11, 2022 8:50 AM"
     },
     {
@@ -464,7 +446,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/trump-lawyer-justin-clark-says-ex-president-never-bothered-to-invoke-executive-privilege-for-steve-bannon",
         "timestamp": 1657543836,
-        "sentiment": -4,
+        "sentiment": -2,
         "published": "July 11, 2022 8:50 AM"
     },
     {
@@ -473,7 +455,7 @@
         "category": "worldnews",
         "link": "https://www.businessinsider.com/saudi-former-top-spy-says-mbs-psychopath-threat-to-world-2022-7",
         "timestamp": 1657544582,
-        "sentiment": 1,
+        "sentiment": -2,
         "published": "July 11, 2022 9:03 AM"
     },
     {
@@ -482,8 +464,26 @@
         "category": "technology",
         "link": "https://www.newsweek.com/iss-waste-disposal-new-method-1723390",
         "timestamp": 1657544747,
-        "sentiment": -2,
+        "sentiment": 2,
         "published": "July 11, 2022 9:05 AM"
+    },
+    {
+        "title": "Hyundai's autonomous ship is the first to make a transoceanic journey",
+        "domain": "freethink.com",
+        "category": "technology",
+        "link": "https://www.freethink.com/technology/autonomous-ships",
+        "timestamp": 1657544915,
+        "sentiment": 2,
+        "published": "July 11, 2022 9:08 AM"
+    },
+    {
+        "title": "Russian empire will fall as areas rebel over war: Ukraine defense minister",
+        "domain": "newsweek.com",
+        "category": "worldnews",
+        "link": "https://www.newsweek.com/russian-empire-will-fall-areas-rebel-over-war-ukraine-defense-minister-1723370",
+        "timestamp": 1657545257,
+        "sentiment": -2,
+        "published": "July 11, 2022 9:14 AM"
     },
     {
         "title": "In Comeback Moment, Up to 150 Fin Whales Spotted Feeding off Antarctica",
@@ -491,8 +491,17 @@
         "category": "UpliftingNews",
         "link": "https://www.ecowatch.com/fin-whales-antarctica.html",
         "timestamp": 1657545486,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 11, 2022 9:18 AM"
+    },
+    {
+        "title": "The GOP Just Asked a Dictator to Headline Its Most Important Conference",
+        "domain": "vice.com",
+        "category": "politics",
+        "link": "https://www.vice.com/en/article/n7zbd7/victor-orban-cpac-texas",
+        "timestamp": 1657545822,
+        "sentiment": -2,
+        "published": "July 11, 2022 9:23 AM"
     },
     {
         "title": "New study shows exercise can’t reverse all the effects of a bad diet",
@@ -509,17 +518,8 @@
         "category": "UpliftingNews",
         "link": "https://www.wxyz.com/news/community-steps-up-to-save-beloved-bookstore-in-sw-detroit",
         "timestamp": 1657546148,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 11, 2022 9:29 AM"
-    },
-    {
-        "title": "‘Extinct’ parrots make a flying comeback in Brazil",
-        "domain": "theguardian.com",
-        "category": "UpliftingNews",
-        "link": "https://www.theguardian.com/environment/2022/jul/10/extinct-parrots-make-a-flying-comeback-in-brazil",
-        "timestamp": 1657546404,
-        "sentiment": -3,
-        "published": "July 11, 2022 9:33 AM"
     },
     {
         "title": "Charles Darwin's iconic Tree of Life - which was stolen and missing for two decades before its anonymous return in 2022 - has gone on free display in the UK.",
@@ -527,7 +527,7 @@
         "category": "UpliftingNews",
         "link": "https://www.cam.ac.uk/stories/DarwinExhibition",
         "timestamp": 1657546442,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 11, 2022 9:34 AM"
     },
     {
@@ -540,12 +540,21 @@
         "published": "July 11, 2022 9:45 AM"
     },
     {
+        "title": "Captured Pantsir-S1 has already been brought to use and destroyed its first target.",
+        "domain": "armyinform.com.ua",
+        "category": "ukraine",
+        "link": "https://armyinform.com.ua/2022/07/11/trofejnyj-panczyr-s1-uzhe-voyuye-na-boczi-ukrayiny-ta-znyshhyv-pershu-vorozhu-czil/",
+        "timestamp": 1657547258,
+        "sentiment": 0,
+        "published": "July 11, 2022 9:47 AM"
+    },
+    {
         "title": "An Iowa couple bought back their small town's newspaper from media giant Gannett",
         "domain": "npr.org",
         "category": "UpliftingNews",
         "link": "https://www.npr.org/2022/07/10/1110723389/an-iowa-couple-bought-back-their-small-towns-newspaper-from-media-giant-gannett",
         "timestamp": 1657547611,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 11, 2022 9:53 AM"
     },
     {
@@ -567,6 +576,15 @@
         "published": "July 11, 2022 9:56 AM"
     },
     {
+        "title": "At least 15 dead in a mass shooting at a bar in Soweto, South Africa",
+        "domain": "cnn.com",
+        "category": "news",
+        "link": "https://www.cnn.com/2022/07/10/africa/soweto-south-africa-shooting-intl/index.html",
+        "timestamp": 1657547939,
+        "sentiment": -3,
+        "published": "July 11, 2022 9:58 AM"
+    },
+    {
         "title": "Ron DeSantis’ handpicked \"radical far-right\" secretary of state will oversee his race",
         "domain": "salon.com",
         "category": "florida",
@@ -583,6 +601,132 @@
         "timestamp": 1657548620,
         "sentiment": 0,
         "published": "July 11, 2022 10:10 AM"
+    },
+    {
+        "title": "‘Blood & Treasure’ Season 2 Has Unplanned Parallels to Real World",
+        "domain": "tvline.com",
+        "category": "television",
+        "link": "https://tvline.com/2022/07/10/blood-and-treasure-season-2-preview-paramount-plus/",
+        "timestamp": 1657549428,
+        "sentiment": 0,
+        "published": "July 11, 2022 10:23 AM"
+    },
+    {
+        "title": "Lee County trying to fill teacher shortage 4 weeks before new school year",
+        "domain": "winknews.com",
+        "category": "florida",
+        "link": "https://www.winknews.com/2022/07/11/lee-county-trying-to-fill-teacher-shortage-4-weeks-before-new-school-year/",
+        "timestamp": 1657550471,
+        "sentiment": 0,
+        "published": "July 11, 2022 10:41 AM"
+    },
+    {
+        "title": "You’ll Soon Be Able to Get a 24/7 Stream of Jeopardy! and Wheel of Fortune",
+        "domain": "vulture.com",
+        "category": "television",
+        "link": "https://www.vulture.com/2022/07/pluto-tv-streaming-jeopardy-wheel-of-fortune-24-7.html",
+        "timestamp": 1657550490,
+        "sentiment": 0,
+        "published": "July 11, 2022 10:41 AM"
+    },
+    {
+        "title": "Officials agree to release some surveillance footage from Uvalde shooting",
+        "domain": "abcnews.go.com",
+        "category": "news",
+        "link": "https://abcnews.go.com/US/officials-agree-release-surveillance-footage-uvalde-shooting/story?id=86602983",
+        "timestamp": 1657551191,
+        "sentiment": -3,
+        "published": "July 11, 2022 10:53 AM"
+    },
+    {
+        "title": "No textile park near Mattewara forest: Punjab CM Mann",
+        "domain": "indianexpress.com",
+        "category": "UpliftingNews",
+        "link": "https://indianexpress.com/article/cities/chandigarh/no-textile-park-mattewara-forest-punjab-cm-mann-8022559/",
+        "timestamp": 1657551766,
+        "sentiment": -1,
+        "published": "July 11, 2022 11:02 AM"
+    },
+    {
+        "title": "Plano Woman Says Unborn Baby Counts as HOV Passenger",
+        "domain": "nbcdfw.com",
+        "category": "nottheonion",
+        "link": "https://www.nbcdfw.com/news/local/pregnant-woman-cited-for-hov-violation-says-her-unborn-baby-should-count-as-second-person/3010193/",
+        "timestamp": 1657552297,
+        "sentiment": 0,
+        "published": "July 11, 2022 11:11 AM"
+    },
+    {
+        "title": "Olympian Kim Glass suffers gruesome injuries after she was attacked in Los Angeles",
+        "domain": "foxnews.com",
+        "category": "sports",
+        "link": "https://www.foxnews.com/sports/olympian-kim-glass-injuries-attacked-los-angeles",
+        "timestamp": 1657553638,
+        "sentiment": -7,
+        "published": "July 11, 2022 11:33 AM"
+    },
+    {
+        "title": "ERCOT urges Texans to conserve power Monday, fearing limited reserves",
+        "domain": "houstonchronicle.com",
+        "category": "politics",
+        "link": "https://www.houstonchronicle.com/business/energy/article/Record-heat-drives-another-Texas-electricity-17295889.php",
+        "timestamp": 1657513526,
+        "sentiment": -4,
+        "published": "July 11, 2022 12:25 AM"
+    },
+    {
+        "title": "Biden to announce $100 million for Palestinian hospitals on Middle East trip",
+        "domain": "axios.com",
+        "category": "worldnews",
+        "link": "https://www.axios.com/2022/07/10/biden-100-million-palestinian-hospitals-trip",
+        "timestamp": 1657514707,
+        "sentiment": 1,
+        "published": "July 11, 2022 12:45 AM"
+    },
+    {
+        "title": "State calls Pythagoras theorem ‘fake news’, proposes to teach Manusmriti under NEP",
+        "domain": "hindustantimes.com",
+        "category": "nottheonion",
+        "link": "https://www.hindustantimes.com/cities/bengaluru-news/state-calls-pythagoras-theorem-fake-news-proposes-to-teach-manusmriti-under-nep-101657479106918.html",
+        "timestamp": 1657521934,
+        "sentiment": 0,
+        "published": "July 11, 2022 2:45 AM"
+    },
+    {
+        "title": "Another russian warehouse was destroyed in temporarily occupied Tokmak. — Zaporizhzia Region. We are waiting for official confirmation.",
+        "domain": "twitter.com",
+        "category": "ukraine",
+        "link": "https://twitter.com/TpyxaNews/status/1546439598171197440?t=79bSNI1P4gWcveFEcBBSOA&s=19",
+        "timestamp": 1657536387,
+        "sentiment": 2,
+        "published": "July 11, 2022 6:46 AM"
+    },
+    {
+        "title": "Covid-19 patients under home quarantine to wear tracking wristbands from July 15, Hong Kong health minister says; city logs 2,863 infections",
+        "domain": "scmp.com",
+        "category": "technology",
+        "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3184846/coronavirus-hong-kong-covid-19-app-update-will",
+        "timestamp": 1657537054,
+        "sentiment": -2,
+        "published": "July 11, 2022 6:57 AM"
+    },
+    {
+        "title": "Disgraced ex-New York Governor Andrew Cuomo improperly used state resources for his $5.1m memoir, probe finds",
+        "domain": "independent.co.uk",
+        "category": "politics",
+        "link": "https://www.independent.co.uk/news/world/americas/us-politics/andrew-cuomo-new-york-book-deal-b2119957.html",
+        "timestamp": 1657541249,
+        "sentiment": -4,
+        "published": "July 11, 2022 8:07 AM"
+    },
+    {
+        "title": "‘Extinct’ parrots make a flying comeback in Brazil",
+        "domain": "theguardian.com",
+        "category": "UpliftingNews",
+        "link": "https://www.theguardian.com/environment/2022/jul/10/extinct-parrots-make-a-flying-comeback-in-brazil",
+        "timestamp": 1657546404,
+        "sentiment": -3,
+        "published": "July 11, 2022 9:33 AM"
     },
     {
         "title": "Following 21st grand slam title, what's next for Djokovic?",
