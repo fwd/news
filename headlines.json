@@ -5,7 +5,7 @@
         "category": "science",
         "link": "https://newatlas.com/physics/electron-whirlpools-fluid-flow-electricity/",
         "timestamp": 1657435147,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 10, 2022 2:39 AM"
     },
     {
@@ -14,7 +14,7 @@
         "category": "nottheonion",
         "link": "https://www.theguardian.com/technology/2022/jul/10/tiktok-frog-army-stunt",
         "timestamp": 1657441823,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 10, 2022 4:30 AM"
     },
     {
@@ -23,17 +23,8 @@
         "category": "ukraine",
         "link": "https://twitter.com/visegrad24/status/1545896619484348416",
         "timestamp": 1657447179,
-        "sentiment": -5,
+        "sentiment": -3,
         "published": "July 10, 2022 5:59 AM"
-    },
-    {
-        "title": "First Amendment advocates respond to Arizona law limiting recording of police",
-        "domain": "npr.org",
-        "category": "politics",
-        "link": "https://www.npr.org/2022/07/10/1110608236/arizona-law-limiting-recording-of-police",
-        "timestamp": 1657447210,
-        "sentiment": 0,
-        "published": "July 10, 2022 6:00 AM"
     },
     {
         "title": "Mindfulness Meditation Reduces Pain by Separating it from the Self. Researchers found that participants who were actively meditating reported a 32 percent reduction in pain intensity and a 33 percent reduction in pain unpleasantness.",
@@ -41,7 +32,7 @@
         "category": "science",
         "link": "https://ucsdnews.ucsd.edu/pressrelease/mindfulness-meditation-reduces-pain-by-separating-it-from-the-self",
         "timestamp": 1657448003,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 10, 2022 6:13 AM"
     },
     {
@@ -50,7 +41,7 @@
         "category": "worldnews",
         "link": "https://www.reuters.com/world/europe/russian-gas-cutoff-most-likely-scenario-french-finance-minister-2022-07-10/",
         "timestamp": 1657448419,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 10, 2022 6:20 AM"
     },
     {
@@ -59,7 +50,7 @@
         "category": "television",
         "link": "https://www.chortle.co.uk/news/2022/07/08/51112/chris_mccausland_lands_c4_travel_show",
         "timestamp": 1657448991,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 10, 2022 6:29 AM"
     },
     {
@@ -68,17 +59,8 @@
         "category": "science",
         "link": "https://n.neurology.org/content/early/2022/07/06/WNL.0000000000200740",
         "timestamp": 1657449188,
-        "sentiment": -2,
-        "published": "July 10, 2022 6:33 AM"
-    },
-    {
-        "title": "Russia hits Ukrainian hangars storing U.S.-made artillery weapons",
-        "domain": "reuters.com",
-        "category": "worldnews",
-        "link": "https://www.reuters.com/world/europe/russia-hits-ukrainian-hangars-storing-us-made-artillery-weapons-2022-07-10/",
-        "timestamp": 1657450513,
         "sentiment": 0,
-        "published": "July 10, 2022 6:55 AM"
+        "published": "July 10, 2022 6:33 AM"
     },
     {
         "title": "Growing ‘culture of extremism’ among UK and European police forces, report warns",
@@ -86,7 +68,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/uk-news/2022/jul/10/growing-culture-of-extremism-among-uk-and-european-police-forces-report-warns",
         "timestamp": 1657450812,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 10, 2022 7:00 AM"
     },
     {
@@ -95,7 +77,7 @@
         "category": "nottheonion",
         "link": "https://www.straitstimes.com/life/entertainment/fish-leong-song-unfortunately-not-you-removed-from-chinese-platform-after-shinzo-abes-death",
         "timestamp": 1657450896,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 10, 2022 7:01 AM"
     },
     {
@@ -104,7 +86,7 @@
         "category": "technology",
         "link": "https://www.reuters.com/business/aerospace-defense/nasa-showcase-webb-space-telescopes-first-full-color-images-2022-07-10/",
         "timestamp": 1657451565,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 10, 2022 7:12 AM"
     },
     {
@@ -122,7 +104,7 @@
         "category": "worldnews",
         "link": "https://www.msn.com/en-us/news/world/we-need-lots-of-drones-from-the-west-to-help-defeat-vladimir-putin-ukraine-minister-says/ar-AAZpSoT?ocid=EMMX&cvid=912e8c6685aa4a5f95f02e7c5ca40b89",
         "timestamp": 1657455057,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 10, 2022 8:10 AM"
     },
     {
@@ -131,7 +113,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/lilygrutcher/status/1546100276372934660?t=ANjZ-dkpFC8Mi_VTFPErlg&s=09",
         "timestamp": 1657455116,
-        "sentiment": -5,
+        "sentiment": -3,
         "published": "July 10, 2022 8:11 AM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "UpliftingNews",
         "link": "https://www.ecowatch.com/fin-whales-antarctica.html",
         "timestamp": 1657456088,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 10, 2022 8:28 AM"
     },
     {
@@ -149,7 +131,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/charging-logistics-top-barrier-to-electric-car-adoption-survey-2022-7",
         "timestamp": 1657457706,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 10, 2022 8:55 AM"
     },
     {
@@ -158,7 +140,7 @@
         "category": "worldnews",
         "link": "https://thehill.com/policy/defense/3551360-zelensky-russia-fired-deliberately-purposefully-at-ordinary-houses/",
         "timestamp": 1657458165,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 10, 2022 9:02 AM"
     },
     {
@@ -176,7 +158,7 @@
         "category": "television",
         "link": "https://www.theringer.com/tv/2022/7/10/23202680/sopranos-tony-sirico-obituary-paulie-walnuts-gualtieri",
         "timestamp": 1657460207,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 10, 2022 9:36 AM"
     },
     {
@@ -212,8 +194,17 @@
         "category": "UpliftingNews",
         "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/abbott-says-it-has-reopened-michigan-baby-formula-plant-2022-07-09/",
         "timestamp": 1657461986,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 10, 2022 10:06 AM"
+    },
+    {
+        "title": "Restaurant fundraises to help victims after 6 injured when car crashes into outdoor patio",
+        "domain": "abc7chicago.com",
+        "category": "UpliftingNews",
+        "link": "https://abc7chicago.com/chicago-fire-department-car-crash-into-restaurant/12035358/",
+        "timestamp": 1657462519,
+        "sentiment": -3,
+        "published": "July 10, 2022 10:15 AM"
     },
     {
         "title": "Steve Bannon says he's willing to testify before January 6 committee after Trump waives claims of executive privilege",
@@ -230,7 +221,7 @@
         "category": "television",
         "link": "https://www.avclub.com/stranger-things-subtitle-guy-talks-about-tentacles-und-1849161218",
         "timestamp": 1657464615,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 10, 2022 10:50 AM"
     },
     {
@@ -248,7 +239,7 @@
         "category": "science",
         "link": "https://digitalcommons.library.tmc.edu/childrenatrisk/vol12/iss2/2/",
         "timestamp": 1657465875,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 10, 2022 11:11 AM"
     },
     {
@@ -257,16 +248,7 @@
         "category": "UpliftingNews",
         "link": "https://apnews.com/article/job-market-gives-ex-prisoners-second-chance-97bed3d56214275ad407a9ee234f781d",
         "timestamp": 1657465908,
-        "sentiment": 0,
-        "published": "July 10, 2022 11:11 AM"
-    },
-    {
-        "title": "Annemiek van Vleuten wins Giro d’Italia Donne",
-        "domain": "velonews.com",
-        "category": "sports",
-        "link": "https://www.velonews.com/news/road/giro-ditalia-donne-annemiek-van-vleuten-wins-overall-race/",
-        "timestamp": 1657465914,
-        "sentiment": 4,
+        "sentiment": -3,
         "published": "July 10, 2022 11:11 AM"
     },
     {
@@ -284,7 +266,7 @@
         "category": "worldnews",
         "link": "https://gagadget.com/en/war/145050-germany-has-solved-the-problem-with-ammunition-so-nothing-will-prevent-the-transfer-of-30-gepard-sca-to-ukraine-spieg/",
         "timestamp": 1657466267,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 10, 2022 11:17 AM"
     },
     {
@@ -293,17 +275,8 @@
         "category": "television",
         "link": "https://www.murphysmultiverse.com/first-look-at-x-men-97-marvel-zombies-and-what-if-season-2-confirmed-for-sdcc/",
         "timestamp": 1657466549,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 10, 2022 11:22 AM"
-    },
-    {
-        "title": "Anxious and avoidant attachment are related to cognitive functioning in older couples",
-        "domain": "psypost.org",
-        "category": "science",
-        "link": "https://www.psypost.org/2022/07/anxious-and-avoidant-attachment-are-related-to-cognitive-functioning-in-older-couples-63483",
-        "timestamp": 1657468176,
-        "sentiment": -2,
-        "published": "July 10, 2022 11:49 AM"
     },
     {
         "title": "Uber broke laws, duped police and built secret lobbying operation, leak reveals",
@@ -311,7 +284,7 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/news/2022/jul/10/uber-files-leak-reveals-global-lobbying-campaign?CMP=Share_iOSApp_Other",
         "timestamp": 1657469044,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 10, 2022 12:04 PM"
     },
     {
@@ -320,7 +293,7 @@
         "category": "technology",
         "link": "https://www.bbc.co.uk/news/business-62057321",
         "timestamp": 1657469146,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 10, 2022 12:05 PM"
     },
     {
@@ -347,7 +320,7 @@
         "category": "sports",
         "link": "https://lastwordonsports.com/tennis/2022/07/10/novak-djokovic-nick-kyrgios-seventh-wimbledon-21st-grand-slam/?fbclid=IwAR02UyFTUOPdE6qyjs-4cutrv46iUNZ8aWvXK3fIXrWsPHrxjIq7g4CsaOQ",
         "timestamp": 1657469482,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 10, 2022 12:11 PM"
     },
     {
@@ -356,7 +329,7 @@
         "category": "sports",
         "link": "https://www.theguardian.com/sport/live/2022/jul/10/novak-djokovic-v-nick-krygios-wimbledon-mens-singles-final-live",
         "timestamp": 1657469586,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 10, 2022 12:13 PM"
     },
     {
@@ -365,8 +338,17 @@
         "category": "worldnews",
         "link": "https://www.theguardian.com/news/2022/jul/10/emmanuel-macron-secretly-aided-uber-lobbying-drive-france-leak-reveals",
         "timestamp": 1657469650,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 10, 2022 12:14 PM"
+    },
+    {
+        "title": "Massive leak reveals how top politicians helped Uber in European market",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/news/2022/jul/10/uber-files-leak-reveals-global-lobbying-campaign",
+        "timestamp": 1657470165,
+        "sentiment": 1,
+        "published": "July 10, 2022 12:22 PM"
     },
     {
         "title": "Uber bosses told staff to use ‘kill switch’ during raids to stop police seeing data",
@@ -374,7 +356,7 @@
         "category": "technology",
         "link": "https://www.theguardian.com/news/2022/jul/10/uber-bosses-told-staff-use-kill-switch-raids-stop-police-seeing-data",
         "timestamp": 1657470199,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 10, 2022 12:23 PM"
     },
     {
@@ -383,7 +365,7 @@
         "category": "sports",
         "link": "https://news.sky.com/story/novak-djokovic-beats-nick-kyrgios-in-wimbledon-mens-final-12649472",
         "timestamp": 1657470856,
-        "sentiment": 4,
+        "sentiment": 0,
         "published": "July 10, 2022 12:34 PM"
     },
     {
@@ -392,7 +374,7 @@
         "category": "worldnews",
         "link": "https://www.newsweek.com/russia-families-killed-soldiers-surveillance-ukraine-war-intelligence-1723230",
         "timestamp": 1657470878,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 10, 2022 12:34 PM"
     },
     {
@@ -410,7 +392,7 @@
         "category": "technology",
         "link": "https://www.yahoo.com/entertainment/jane-campion-fears-netflix-more-174751741.html",
         "timestamp": 1657472650,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 10, 2022 1:04 PM"
     },
     {
@@ -428,7 +410,7 @@
         "category": "miami",
         "link": "https://www.miamiherald.com/news/local/education/article263249518.html",
         "timestamp": 1657474670,
-        "sentiment": 0,
+        "sentiment": -10,
         "published": "July 10, 2022 1:37 PM"
     },
     {
@@ -437,7 +419,7 @@
         "category": "UpliftingNews",
         "link": "https://www.colorado.edu/today/2022/06/23/cities-future-may-be-built-algae-grown-limestone",
         "timestamp": 1657474903,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 10, 2022 1:41 PM"
     },
     {
@@ -455,7 +437,7 @@
         "category": "science",
         "link": "https://journals.sagepub.com/doi/full/10.1177/00031224221103257",
         "timestamp": 1657476906,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 10, 2022 2:15 PM"
     },
     {
@@ -473,17 +455,8 @@
         "category": "technology",
         "link": "https://www.thestar.com/business/2022/07/08/percy-the-virtual-cashier-founders-shrug-off-critics-and-plan-to-grow-start-up-into-a-multinational-company.html",
         "timestamp": 1657477106,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 10, 2022 2:18 PM"
-    },
-    {
-        "title": "Ford recalls more than 100,000 Mavericks, Escapes, and Corsairs over fire risk",
-        "domain": "theverge.com",
-        "category": "technology",
-        "link": "https://www.theverge.com/2022/7/10/23202658/ford-recall-maverick-escape-corsair-fire-risk-hybrid",
-        "timestamp": 1657477159,
-        "sentiment": -5,
-        "published": "July 10, 2022 2:19 PM"
     },
     {
         "title": "In the US, federal judges tend to arrange to retire under presidents of the same political party as the president who first appointed them. This tendency is stronger for Republican appointees than for Democratic appointees. [Data covering 1920–2018]",
@@ -491,7 +464,7 @@
         "category": "science",
         "link": "https://journals.sagepub.com/doi/full/10.1177/00031224221102072",
         "timestamp": 1657477462,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 10, 2022 2:24 PM"
     },
     {
@@ -500,8 +473,26 @@
         "category": "UpliftingNews",
         "link": "https://www.theguardian.com/environment/2022/jul/10/extinct-parrots-make-a-flying-comeback-in-brazil",
         "timestamp": 1657478299,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 10, 2022 2:38 PM"
+    },
+    {
+        "title": "Mary Trump says her uncle can feel the walls 'closing in' after Cipollone testifies for Jan. 6 committee: 'Donald is terrified'",
+        "domain": "businessinsider.com",
+        "category": "politics",
+        "link": "https://www.businessinsider.com/mary-trump-says-donald-trump-terrified-cipollone-testifies-2022-7",
+        "timestamp": 1657478779,
+        "sentiment": 0,
+        "published": "July 10, 2022 2:46 PM"
+    },
+    {
+        "title": "Krejcikova and Siniakova roll to second Wimbledon doubles title",
+        "domain": "wtatennis.com",
+        "category": "sports",
+        "link": "https://www.wtatennis.com/news/2673506/krejcikova-and-siniakova-roll-to-second-wimbledon-doubles-title",
+        "timestamp": 1657479515,
+        "sentiment": 0,
+        "published": "July 10, 2022 2:58 PM"
     },
     {
         "title": "No antibiotics worked, so this woman turned to a natural enemy of bacteria to save her husband's life | CNN",
@@ -527,7 +518,7 @@
         "category": "television",
         "link": "https://www.murphysmultiverse.com/report-composer-natalie-holt-to-return-for-loki-season-2/",
         "timestamp": 1657481596,
-        "sentiment": -2,
+        "sentiment": -3,
         "published": "July 10, 2022 3:33 PM"
     },
     {
@@ -536,7 +527,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/EuromaidanPress/status/1546216233690972168?t=Xh3b0FPjyyhjKLfUTk74Gw&s=09",
         "timestamp": 1657481859,
-        "sentiment": -5,
+        "sentiment": -3,
         "published": "July 10, 2022 3:37 PM"
     },
     {
@@ -554,7 +545,7 @@
         "category": "worldnews",
         "link": "https://www.cbc.ca/news/canada/british-columbia/solar-power-tariffs-scrapped-at-vancouver-trade-meeting-with-us-and-mexico-1.6516167",
         "timestamp": 1657483340,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 10, 2022 4:02 PM"
     },
     {
@@ -563,7 +554,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/uber-files-leak-secret-kill-switch-blocked-data-from-police-2022-7",
         "timestamp": 1657484324,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 10, 2022 4:18 PM"
     },
     {
@@ -590,7 +581,7 @@
         "category": "UpliftingNews",
         "link": "https://www.nytimes.com/2022/07/10/science/nasa-webb-telescope-images.html",
         "timestamp": 1657485964,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 10, 2022 4:46 PM"
     },
     {
@@ -599,7 +590,7 @@
         "category": "science",
         "link": "https://www.hawaii.edu/news/2022/07/08/deep-sea-mining-noise-pollution/",
         "timestamp": 1657486338,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 10, 2022 4:52 PM"
     },
     {
@@ -608,7 +599,7 @@
         "category": "ukraine",
         "link": "https://twitter.com/warmonitor3/status/1546199390607613955?s=21&t=WQ-QYYdp9YoZI9n4M2FVPQ",
         "timestamp": 1657486368,
-        "sentiment": -5,
+        "sentiment": -3,
         "published": "July 10, 2022 4:52 PM"
     },
     {
@@ -617,7 +608,7 @@
         "category": "science",
         "link": "https://truthinscience.org/scientific-panel-finds-low-confidence-of-a-relationship-between-glyphosate-and-cancer/",
         "timestamp": 1657486520,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 10, 2022 4:55 PM"
     },
     {
@@ -626,7 +617,7 @@
         "category": "technology",
         "link": "https://www.insider.com/artificial-intelligence-bot-wrote-scientific-paper-on-itself-2-hours-2022-7",
         "timestamp": 1657487143,
-        "sentiment": -5,
+        "sentiment": 0,
         "published": "July 10, 2022 5:05 PM"
     },
     {
@@ -635,7 +626,7 @@
         "category": "UpliftingNews",
         "link": "https://www.5newsonline.com/article/life/heartwarming/fort-smith-firefighters-save-kitten-atm/527-218bde1f-665b-4aaf-a64a-8fe0b3fe850b",
         "timestamp": 1657488358,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 10, 2022 5:25 PM"
     },
     {
@@ -644,7 +635,7 @@
         "category": "science",
         "link": "https://news.ki.se/improved-protein-function-opens-way-for-new-drug-development-concept",
         "timestamp": 1657489124,
-        "sentiment": -2,
+        "sentiment": 0,
         "published": "July 10, 2022 5:38 PM"
     },
     {
@@ -653,7 +644,7 @@
         "category": "nottheonion",
         "link": "https://www.wsfa.com/2022/07/09/educators-no-longer-need-college-degree-teach-arizona-public-schools/",
         "timestamp": 1657490781,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 10, 2022 6:06 PM"
     },
     {
@@ -662,7 +653,7 @@
         "category": "worldnews",
         "link": "https://geotvnews.com/the-united-nations-says-ukraine-is-responsible-for-the-attack-on-a-nursing-home-gtn-news/",
         "timestamp": 1657490817,
-        "sentiment": 0,
+        "sentiment": 1,
         "published": "July 10, 2022 6:06 PM"
     },
     {
@@ -689,8 +680,17 @@
         "category": "nottheonion",
         "link": "https://news.sky.com/story/the-naughtiest-thing-i-have-ever-done-invaded-a-country-says-tory-leadership-contender-tom-tugendhat-12649464",
         "timestamp": 1657492692,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 10, 2022 6:38 PM"
+    },
+    {
+        "title": "A new model of wisdom suggests wisdom has both cognitive and noncognitive components. And the effect of cognitive components (knowledge, metacognitive capacities, and self-reflection) on wise actions are moderated by noncognitive components (emotion regulation, curiosity, concern for people).",
+        "domain": "psychologytoday.com",
+        "category": "science",
+        "link": "https://www.psychologytoday.com/us/blog/finding-new-home/202207/science-based-guide-how-act-wisely",
+        "timestamp": 1657492879,
+        "sentiment": 0,
+        "published": "July 10, 2022 6:41 PM"
     },
     {
         "title": "Cameron Diaz reveals she may have been unwitting Moroccan drug mule",
@@ -698,7 +698,7 @@
         "category": "nottheonion",
         "link": "https://www.theguardian.com/film/2022/jul/10/cameron-diaz-reveals-she-may-have-been-unwitting-moroccan-drug-mule",
         "timestamp": 1657494447,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 10, 2022 7:07 PM"
     },
     {
@@ -707,8 +707,71 @@
         "category": "nottheonion",
         "link": "https://elpais.com/economia/2022-07-10/documentos-secretos-desvelan-las-estrategias-de-uber-para-implantarse-en-decenas-de-paises-a-veces-hay-problemas-porque-somos-jodidamente-ilegales.html",
         "timestamp": 1657494699,
-        "sentiment": 0,
+        "sentiment": -3,
         "published": "July 10, 2022 7:11 PM"
+    },
+    {
+        "title": "‘Hit the kill switch’: Uber used covert tech to thwart government raids",
+        "domain": "washingtonpost.com",
+        "category": "technology",
+        "link": "https://www.washingtonpost.com/technology/2022/07/10/uber-europe-raids-kill-switch/",
+        "timestamp": 1657495142,
+        "sentiment": 0,
+        "published": "July 10, 2022 7:19 PM"
+    },
+    {
+        "title": "'She-Hulk: Attorney at Law’ Finds Its Composer in Amie Doherty",
+        "domain": "collider.com",
+        "category": "television",
+        "link": "https://collider.com/she-hulk-attorney-at-law-composer-amie-doherty-disney-plus/",
+        "timestamp": 1657496420,
+        "sentiment": -3,
+        "published": "July 10, 2022 7:40 PM"
+    },
+    {
+        "title": "First Amendment advocates respond to Arizona law limiting recording of police",
+        "domain": "npr.org",
+        "category": "politics",
+        "link": "https://www.npr.org/2022/07/10/1110608236/arizona-law-limiting-recording-of-police",
+        "timestamp": 1657447210,
+        "sentiment": 0,
+        "published": "July 10, 2022 6:00 AM"
+    },
+    {
+        "title": "Russia hits Ukrainian hangars storing U.S.-made artillery weapons",
+        "domain": "reuters.com",
+        "category": "worldnews",
+        "link": "https://www.reuters.com/world/europe/russia-hits-ukrainian-hangars-storing-us-made-artillery-weapons-2022-07-10/",
+        "timestamp": 1657450513,
+        "sentiment": 0,
+        "published": "July 10, 2022 6:55 AM"
+    },
+    {
+        "title": "Annemiek van Vleuten wins Giro d’Italia Donne",
+        "domain": "velonews.com",
+        "category": "sports",
+        "link": "https://www.velonews.com/news/road/giro-ditalia-donne-annemiek-van-vleuten-wins-overall-race/",
+        "timestamp": 1657465914,
+        "sentiment": 4,
+        "published": "July 10, 2022 11:11 AM"
+    },
+    {
+        "title": "Anxious and avoidant attachment are related to cognitive functioning in older couples",
+        "domain": "psypost.org",
+        "category": "science",
+        "link": "https://www.psypost.org/2022/07/anxious-and-avoidant-attachment-are-related-to-cognitive-functioning-in-older-couples-63483",
+        "timestamp": 1657468176,
+        "sentiment": -2,
+        "published": "July 10, 2022 11:49 AM"
+    },
+    {
+        "title": "Ford recalls more than 100,000 Mavericks, Escapes, and Corsairs over fire risk",
+        "domain": "theverge.com",
+        "category": "technology",
+        "link": "https://www.theverge.com/2022/7/10/23202658/ford-recall-maverick-escape-corsair-fire-risk-hybrid",
+        "timestamp": 1657477159,
+        "sentiment": -5,
+        "published": "July 10, 2022 2:19 PM"
     },
     {
         "title": "Analysis on 134 people, found that gritty people didn’t demonstrate enhanced executive functioning, they exhibited a different pattern of performance. These findings converge with idea that high grit people do not necessarily have a greater cognitive capacity. Rather, they use it in a different way",
@@ -727,15 +790,6 @@
         "timestamp": 1657456417,
         "sentiment": 2,
         "published": "July 10, 2022 8:33 AM"
-    },
-    {
-        "title": "Restaurant fundraises to help victims after 6 injured when car crashes into outdoor patio",
-        "domain": "abc7chicago.com",
-        "category": "UpliftingNews",
-        "link": "https://abc7chicago.com/chicago-fire-department-car-crash-into-restaurant/12035358/",
-        "timestamp": 1657462519,
-        "sentiment": -3,
-        "published": "July 10, 2022 10:15 AM"
     },
     {
         "title": "Fox News correspondent rips pants onstage with Flo Rida: Watch",
