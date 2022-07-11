@@ -1,5 +1,14 @@
 [
     {
+        "title": "Man rescued while trying to retrace steps of family who died on Northern California hiking trail",
+        "domain": "abc13.com",
+        "category": "nottheonion",
+        "link": "https://abc13.com/missing-hiker-rescue-hiking-trail-deaths-jonathan-gerrish/12032839/?fbclid=IwAR2jrmmvmie3a4A4B59LENWtPh2e-QbssiXvRd3cvInpqFW9e2UQvUE9rRc",
+        "timestamp": 1657427768,
+        "sentiment": -1,
+        "published": "July 10, 2022 12:36 AM"
+    },
+    {
         "title": "Researchers observed “electron whirlpools” for the first time. The bizarre behavior arises when electricity flows as a fluid, which could make for more efficient electronics.Electron vortices have long been predicted in theory where electrons behave as a fluid, not as individual particles.",
         "domain": "newatlas.com",
         "category": "science",
@@ -14,7 +23,7 @@
         "category": "nottheonion",
         "link": "https://www.theguardian.com/technology/2022/jul/10/tiktok-frog-army-stunt",
         "timestamp": 1657441823,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 10, 2022 4:30 AM"
     },
     {
@@ -50,17 +59,8 @@
         "category": "television",
         "link": "https://www.chortle.co.uk/news/2022/07/08/51112/chris_mccausland_lands_c4_travel_show",
         "timestamp": 1657448991,
-        "sentiment": -3,
-        "published": "July 10, 2022 6:29 AM"
-    },
-    {
-        "title": "Growing ‘culture of extremism’ among UK and European police forces, report warns",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/uk-news/2022/jul/10/growing-culture-of-extremism-among-uk-and-european-police-forces-report-warns",
-        "timestamp": 1657450812,
         "sentiment": 0,
-        "published": "July 10, 2022 7:00 AM"
+        "published": "July 10, 2022 6:29 AM"
     },
     {
         "title": "Fish Leong song, Unfortunately Not You, removed from Chinese platform after Shinzo Abe's death",
@@ -68,26 +68,8 @@
         "category": "nottheonion",
         "link": "https://www.straitstimes.com/life/entertainment/fish-leong-song-unfortunately-not-you-removed-from-chinese-platform-after-shinzo-abes-death",
         "timestamp": 1657450896,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 10, 2022 7:01 AM"
-    },
-    {
-        "title": "NASA to showcase Webb space telescope's first full-color images",
-        "domain": "reuters.com",
-        "category": "technology",
-        "link": "https://www.reuters.com/business/aerospace-defense/nasa-showcase-webb-space-telescopes-first-full-color-images-2022-07-10/",
-        "timestamp": 1657451565,
-        "sentiment": 0,
-        "published": "July 10, 2022 7:12 AM"
-    },
-    {
-        "title": "A couple fed nearby ducks. Now, their HOA is threatening to foreclose.",
-        "domain": "washingtonpost.com",
-        "category": "news",
-        "link": "https://www.washingtonpost.com/nation/2022/07/09/hoa-ducks-foreclosure/",
-        "timestamp": 1657452156,
-        "sentiment": 0,
-        "published": "July 10, 2022 7:22 AM"
     },
     {
         "title": "In Comeback Moment, Up to 150 Fin Whales Spotted Feeding off Antarctica",
@@ -104,7 +86,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/charging-logistics-top-barrier-to-electric-car-adoption-survey-2022-7",
         "timestamp": 1657457706,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 10, 2022 8:55 AM"
     },
     {
@@ -122,7 +104,7 @@
         "category": "politics",
         "link": "https://www.salon.com/2022/07/10/america-needs-a-real-wealth-tax-heres-our-plan-to-the-rich--the-really-really-rich/",
         "timestamp": 1657458905,
-        "sentiment": 0,
+        "sentiment": 9,
         "published": "July 10, 2022 9:15 AM"
     },
     {
@@ -131,7 +113,7 @@
         "category": "television",
         "link": "https://www.theringer.com/tv/2022/7/10/23202680/sopranos-tony-sirico-obituary-paulie-walnuts-gualtieri",
         "timestamp": 1657460207,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 10, 2022 9:36 AM"
     },
     {
@@ -140,7 +122,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/brett-kavanaugh-dinner-mortons-swamped-calls-fake-reservations-roe-overturn-2022-7",
         "timestamp": 1657461372,
-        "sentiment": 0,
+        "sentiment": 9,
         "published": "July 10, 2022 9:56 AM"
     },
     {
@@ -185,7 +167,7 @@
         "category": "television",
         "link": "https://www.avclub.com/stranger-things-subtitle-guy-talks-about-tentacles-und-1849161218",
         "timestamp": 1657464615,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 10, 2022 10:50 AM"
     },
     {
@@ -203,7 +185,7 @@
         "category": "politics",
         "link": "https://www.washingtonpost.com/opinions/2022/07/08/boris-johnson-resignation-donald-trump-republications-tories-gop-conservatives/",
         "timestamp": 1657466207,
-        "sentiment": 0,
+        "sentiment": 9,
         "published": "July 10, 2022 11:16 AM"
     },
     {
@@ -221,17 +203,8 @@
         "category": "television",
         "link": "https://www.murphysmultiverse.com/first-look-at-x-men-97-marvel-zombies-and-what-if-season-2-confirmed-for-sdcc/",
         "timestamp": 1657466549,
-        "sentiment": -3,
-        "published": "July 10, 2022 11:22 AM"
-    },
-    {
-        "title": "Uber broke laws, duped police and built secret lobbying operation, leak reveals",
-        "domain": "theguardian.com",
-        "category": "worldnews",
-        "link": "https://www.theguardian.com/news/2022/jul/10/uber-files-leak-reveals-global-lobbying-campaign?CMP=Share_iOSApp_Other",
-        "timestamp": 1657469044,
         "sentiment": 0,
-        "published": "July 10, 2022 12:04 PM"
+        "published": "July 10, 2022 11:22 AM"
     },
     {
         "title": "Uber Files: Massive leak reveals how top politicians secretly helped Uber",
@@ -239,7 +212,7 @@
         "category": "technology",
         "link": "https://www.bbc.co.uk/news/business-62057321",
         "timestamp": 1657469146,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 10, 2022 12:05 PM"
     },
     {
@@ -257,7 +230,7 @@
         "category": "sports",
         "link": "https://lastwordonsports.com/tennis/2022/07/10/novak-djokovic-nick-kyrgios-seventh-wimbledon-21st-grand-slam/?fbclid=IwAR02UyFTUOPdE6qyjs-4cutrv46iUNZ8aWvXK3fIXrWsPHrxjIq7g4CsaOQ",
         "timestamp": 1657469482,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 10, 2022 12:11 PM"
     },
     {
@@ -266,7 +239,7 @@
         "category": "sports",
         "link": "https://www.theguardian.com/sport/live/2022/jul/10/novak-djokovic-v-nick-krygios-wimbledon-mens-singles-final-live",
         "timestamp": 1657469586,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 10, 2022 12:13 PM"
     },
     {
@@ -279,12 +252,21 @@
         "published": "July 10, 2022 12:14 PM"
     },
     {
+        "title": "Uber broke laws, duped police and built secret lobbying operation, leak reveals",
+        "domain": "theguardian.com",
+        "category": "technology",
+        "link": "https://www.theguardian.com/news/2022/jul/10/uber-files-leak-reveals-global-lobbying-campaign?CMP=twt_gu&utm_source=Twitter&utm_medium#Echobox=1657468915",
+        "timestamp": 1657469754,
+        "sentiment": 2,
+        "published": "July 10, 2022 12:15 PM"
+    },
+    {
         "title": "Uber bosses told staff to use ‘kill switch’ during raids to stop police seeing data",
         "domain": "theguardian.com",
         "category": "technology",
         "link": "https://www.theguardian.com/news/2022/jul/10/uber-bosses-told-staff-use-kill-switch-raids-stop-police-seeing-data",
         "timestamp": 1657470199,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 10, 2022 12:23 PM"
     },
     {
@@ -293,7 +275,7 @@
         "category": "sports",
         "link": "https://news.sky.com/story/novak-djokovic-beats-nick-kyrgios-in-wimbledon-mens-final-12649472",
         "timestamp": 1657470856,
-        "sentiment": 0,
+        "sentiment": -2,
         "published": "July 10, 2022 12:34 PM"
     },
     {
@@ -311,7 +293,7 @@
         "category": "politics",
         "link": "https://www.thedailybeast.com/outrage-erupts-as-white-house-says-some-pro-choice-activists-are-out-of-step",
         "timestamp": 1657471149,
-        "sentiment": 0,
+        "sentiment": 9,
         "published": "July 10, 2022 12:39 PM"
     },
     {
@@ -320,7 +302,7 @@
         "category": "technology",
         "link": "https://www.yahoo.com/entertainment/jane-campion-fears-netflix-more-174751741.html",
         "timestamp": 1657472650,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 10, 2022 1:04 PM"
     },
     {
@@ -356,7 +338,7 @@
         "category": "politics",
         "link": "https://www.newsweek.com/kinzinger-says-wont-single-trump-supporter-10-years-like-nixon-1723240",
         "timestamp": 1657476451,
-        "sentiment": 0,
+        "sentiment": 9,
         "published": "July 10, 2022 2:07 PM"
     },
     {
@@ -383,7 +365,7 @@
         "category": "technology",
         "link": "https://www.thestar.com/business/2022/07/08/percy-the-virtual-cashier-founders-shrug-off-critics-and-plan-to-grow-start-up-into-a-multinational-company.html",
         "timestamp": 1657477106,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 10, 2022 2:18 PM"
     },
     {
@@ -410,7 +392,7 @@
         "category": "politics",
         "link": "https://www.businessinsider.com/mary-trump-says-donald-trump-terrified-cipollone-testifies-2022-7",
         "timestamp": 1657478779,
-        "sentiment": 0,
+        "sentiment": 9,
         "published": "July 10, 2022 2:46 PM"
     },
     {
@@ -428,7 +410,7 @@
         "category": "politics",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-alaska-rally-transphobic-b2119869.html?utm_content=Echobox&utm_medium=Social&utm_campaign=Main&utm_source=Twitter#Echobox=1657475883",
         "timestamp": 1657480903,
-        "sentiment": 0,
+        "sentiment": 9,
         "published": "July 10, 2022 3:21 PM"
     },
     {
@@ -437,7 +419,7 @@
         "category": "television",
         "link": "https://www.murphysmultiverse.com/report-composer-natalie-holt-to-return-for-loki-season-2/",
         "timestamp": 1657481596,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 10, 2022 3:33 PM"
     },
     {
@@ -450,12 +432,21 @@
         "published": "July 10, 2022 3:37 PM"
     },
     {
+        "title": "Illinois governor notes signs of ‘white supremacy symbol’ in parade suspect’s background",
+        "domain": "cbnc.com",
+        "category": "news",
+        "link": "https://cbnc.com/illinois-governor-notes-signs-of-white-supremacy-symbol-in-parade-suspects-background/",
+        "timestamp": 1657482896,
+        "sentiment": 0,
+        "published": "July 10, 2022 3:54 PM"
+    },
+    {
         "title": "Raskin Says What Trump Did 'Makes the Watergate Break-in Look Like the Work of Cub Scouts'",
         "domain": "commondreams.org",
         "category": "politics",
         "link": "https://www.commondreams.org/news/2022/07/10/raskin-says-what-trump-did-makes-watergate-break-look-work-cub-scouts",
         "timestamp": 1657483215,
-        "sentiment": 0,
+        "sentiment": 9,
         "published": "July 10, 2022 4:00 PM"
     },
     {
@@ -473,7 +464,7 @@
         "category": "technology",
         "link": "https://www.businessinsider.com/uber-files-leak-secret-kill-switch-blocked-data-from-police-2022-7",
         "timestamp": 1657484324,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 10, 2022 4:18 PM"
     },
     {
@@ -491,7 +482,7 @@
         "category": "florida",
         "link": "https://www.ecowatch.com/forever-chemicals-florida-oysters%ef%bf%bc.html",
         "timestamp": 1657485167,
-        "sentiment": 3,
+        "sentiment": 0,
         "published": "July 10, 2022 4:32 PM"
     },
     {
@@ -500,7 +491,7 @@
         "category": "politics",
         "link": "https://thehill.com/blogs/in-the-know/3551714-rage-against-the-machine-says-abort-the-supreme-court-in-return-to-stage/",
         "timestamp": 1657485361,
-        "sentiment": 0,
+        "sentiment": 9,
         "published": "July 10, 2022 4:36 PM"
     },
     {
@@ -554,7 +545,7 @@
         "category": "technology",
         "link": "https://www.insider.com/artificial-intelligence-bot-wrote-scientific-paper-on-itself-2-hours-2022-7",
         "timestamp": 1657487143,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 10, 2022 5:05 PM"
     },
     {
@@ -608,7 +599,7 @@
         "category": "nottheonion",
         "link": "https://news.sky.com/story/the-naughtiest-thing-i-have-ever-done-invaded-a-country-says-tory-leadership-contender-tom-tugendhat-12649464",
         "timestamp": 1657492692,
-        "sentiment": -3,
+        "sentiment": -1,
         "published": "July 10, 2022 6:38 PM"
     },
     {
@@ -626,7 +617,7 @@
         "category": "technology",
         "link": "https://www.washingtonpost.com/technology/2022/07/10/uber-europe-raids-kill-switch/",
         "timestamp": 1657495142,
-        "sentiment": 0,
+        "sentiment": 2,
         "published": "July 10, 2022 7:19 PM"
     },
     {
@@ -635,17 +626,8 @@
         "category": "television",
         "link": "https://collider.com/she-hulk-attorney-at-law-composer-amie-doherty-disney-plus/",
         "timestamp": 1657496420,
-        "sentiment": -3,
+        "sentiment": 0,
         "published": "July 10, 2022 7:40 PM"
-    },
-    {
-        "title": "TikTok trend leaves giant holes on beaches",
-        "domain": "wect.com",
-        "category": "nottheonion",
-        "link": "https://www.wect.com/2022/06/29/tiktok-trend-leaves-giant-holes-beaches/",
-        "timestamp": 1657499064,
-        "sentiment": -3,
-        "published": "July 10, 2022 8:24 PM"
     },
     {
         "title": "French women push to cement abortion rights after U.S. ruling",
@@ -657,13 +639,13 @@
         "published": "July 10, 2022 8:46 PM"
     },
     {
-        "title": "So insane I thought it was satire for a second",
-        "domain": "mysuncoast.com",
-        "category": "nottheonion",
-        "link": "https://www.mysuncoast.com/2022/07/08/sarasota-county-school-board-sued-over-obscene-library-materials/",
-        "timestamp": 1657501040,
-        "sentiment": -3,
-        "published": "July 10, 2022 8:57 PM"
+        "title": "Abe shooter checked YouTube for how to make homemade guns",
+        "domain": "english.kyodonews.net",
+        "category": "worldnews",
+        "link": "https://english.kyodonews.net/news/2022/07/5bd5bec375d8-abe-shooter-checked-youtube-for-how-to-make-homemade-guns-sources.html",
+        "timestamp": 1657501336,
+        "sentiment": 0,
+        "published": "July 10, 2022 9:02 PM"
     },
     {
         "title": "Major Israeli study: COVID death rate among elderly slashed by 72% after 4th vaccine",
@@ -682,6 +664,87 @@
         "timestamp": 1657501908,
         "sentiment": 3,
         "published": "July 10, 2022 9:11 PM"
+    },
+    {
+        "title": "Former Saudi official calls Mohammed bin Salman a \"psychopath,\" says Saudi crown prince fears what he knows",
+        "domain": "cbsnews.com",
+        "category": "worldnews",
+        "link": "https://www.cbsnews.com/news/mohammed-bin-salman-alleged-plot-saad-aljabri-60-minutes-2022-07-10/",
+        "timestamp": 1657504361,
+        "sentiment": 0,
+        "published": "July 10, 2022 9:52 PM"
+    },
+    {
+        "title": "Baker Mayfield was viewed as childish and immature by Browns and his behavior divided locker room, per report",
+        "domain": "cbssports.com",
+        "category": "sports",
+        "link": "https://www.cbssports.com/nfl/news/baker-mayfield-was-viewed-as-childish-and-immature-by-browns-and-his-behavior-divided-locker-room-per-report/",
+        "timestamp": 1657508065,
+        "sentiment": -2,
+        "published": "July 10, 2022 10:54 PM"
+    },
+    {
+        "title": "Scientists develop durable material for flexible artificial muscles",
+        "domain": "phys.org",
+        "category": "technology",
+        "link": "https://phys.org/news/2022-07-scientists-durable-material-flexible-artificial.html",
+        "timestamp": 1657508296,
+        "sentiment": 2,
+        "published": "July 10, 2022 10:58 PM"
+    },
+    {
+        "title": "Family found living with weapons in Nevada children's museum",
+        "domain": "abcnews.go.com",
+        "category": "nottheonion",
+        "link": "https://abcnews.go.com/US/wireStory/family-found-living-weapons-nevada-childrens-museum-86533041",
+        "timestamp": 1657508301,
+        "sentiment": -1,
+        "published": "July 10, 2022 10:58 PM"
+    },
+    {
+        "title": "Growing ‘culture of extremism’ among UK and European police forces, report warns",
+        "domain": "theguardian.com",
+        "category": "worldnews",
+        "link": "https://www.theguardian.com/uk-news/2022/jul/10/growing-culture-of-extremism-among-uk-and-european-police-forces-report-warns",
+        "timestamp": 1657450812,
+        "sentiment": 0,
+        "published": "July 10, 2022 7:00 AM"
+    },
+    {
+        "title": "NASA to showcase Webb space telescope's first full-color images",
+        "domain": "reuters.com",
+        "category": "technology",
+        "link": "https://www.reuters.com/business/aerospace-defense/nasa-showcase-webb-space-telescopes-first-full-color-images-2022-07-10/",
+        "timestamp": 1657451565,
+        "sentiment": 0,
+        "published": "July 10, 2022 7:12 AM"
+    },
+    {
+        "title": "A couple fed nearby ducks. Now, their HOA is threatening to foreclose.",
+        "domain": "washingtonpost.com",
+        "category": "news",
+        "link": "https://www.washingtonpost.com/nation/2022/07/09/hoa-ducks-foreclosure/",
+        "timestamp": 1657452156,
+        "sentiment": 0,
+        "published": "July 10, 2022 7:22 AM"
+    },
+    {
+        "title": "TikTok trend leaves giant holes on beaches",
+        "domain": "wect.com",
+        "category": "nottheonion",
+        "link": "https://www.wect.com/2022/06/29/tiktok-trend-leaves-giant-holes-beaches/",
+        "timestamp": 1657499064,
+        "sentiment": -3,
+        "published": "July 10, 2022 8:24 PM"
+    },
+    {
+        "title": "So insane I thought it was satire for a second",
+        "domain": "mysuncoast.com",
+        "category": "nottheonion",
+        "link": "https://www.mysuncoast.com/2022/07/08/sarasota-county-school-board-sued-over-obscene-library-materials/",
+        "timestamp": 1657501040,
+        "sentiment": -3,
+        "published": "July 10, 2022 8:57 PM"
     },
     {
         "title": "Howie Mandel Freaks Out TikTok With Video Of Prolapsed Rectum",
@@ -898,15 +961,6 @@
         "timestamp": 1657463452,
         "sentiment": 0,
         "published": "July 10, 2022 10:30 AM"
-    },
-    {
-        "title": "Family found living with weapons in Nevada children's museum",
-        "domain": "abcnews.go.com",
-        "category": "news",
-        "link": "https://abcnews.go.com/US/wireStory/family-found-living-weapons-nevada-childrens-museum-86533041",
-        "timestamp": 1657464838,
-        "sentiment": 0,
-        "published": "July 10, 2022 10:53 AM"
     },
     {
         "title": "Police leader caught speeding: 'I need to slow my butt down'",
