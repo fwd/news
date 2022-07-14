@@ -186,7 +186,7 @@
               background-color: rgba(255, 255, 255, 0.9);
             }
             .slider-element-container .swiper-pagination-bullet.swiper-pagination-bullet-active {
-              background-color: #F02B67;
+              background-color: #FFF;
             }
             .slider-element-container .swiper-slide {
               width: 100%;
@@ -224,12 +224,12 @@
               height: 160px;
             }
             .slider-element-container .swiper-slide .content .headline {
-              font-family: 'Merriweather', serif;
-    font-size: 17px;
-    line-height: 26px;
+    font-family: 'Merriweather', serif;
+    font-size: 19px;
     font-weight: 700;
-    color: #202637;
-    margin-bottom: 15px;
+    color: #011245;
+    /*margin-bottom: 20px;*/
+    line-height: 1.5;
             }
             .slider-element-container .swiper-slide .content .tag {
     padding: 7px 10px;
@@ -391,7 +391,7 @@
     
     <body>
         <section id="app" class="section-container">
-            <div id="background" class="mobile-container"> 
+            <div id="background" class="mobile-container" :style="`background-image: url(${backgroundImage}); background-color: ${backgroundColor};`"> 
                 <div class="top-row">
                    <img src="https://avatars.githubusercontent.com/u/53408541?s=200&amp;v=4" style="max-width: 45px;vertical-align: unset;border-radius: 50%;" alt="">
                 </span>
@@ -402,9 +402,9 @@
                     <div class="swiper-container">
                         <div class="swiper-wrapper">
                             <div v-for="i in articles" class="swiper-slide" :data="i.url" @click="read(i)">
-                                <div class="content"> <span class="headline">{{ i.title }}</span>
-                                    <span
-                                    class="tag">{{ i.sub }}</span>
+                                <div class="content"> <span class="headline">{{ i.title &&  i.title.length > 80 ?  i.title.slice(0, 80) + '..' :  i.title }}</span>
+                                    <span style=" margin: 10px 0 15px 0; font-size: 17px; opacity: 0.8; ">{{ date(i) }}</span>
+                                    <span class="tag">{{ i.sub }}</span>
                                 </div>
                             </div>
                         </div>
@@ -419,20 +419,40 @@
         <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14"></script>
         <script src="https://cdn.jsdelivr.net/npm/axios@0.26.0"></script>
 
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.min.js'></script>
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.3/vue.min.js'></script>
+        <script src='https://unpkg.com/@trainorpj/sentiment@4.1.4/bundle/bundle.js'></script>
+        <script src='https://unpkg.com/@trainorpj/sentiment@4.1.4/bundle/bundle.js'></script>
+
         <script>
 
+          const { scaleThreshold, scaleOrdinal } = d3;
+            
+            const analyze = phrase => {
+              const val = sentiment(phrase);
+              return {
+                comparative: val.comparative,
+                negative: val.negative,
+                positive: val.positive };
+            };
+            
+            const emojis = ["😍", "🙂", "😑", "🙁", "😠"];
+            const colors = ["#2979FF", "#81D4FA", "#EDE7F6", "#F48FB1", "#E53935"];
+            
+            const emojiColor = scaleOrdinal().
+            domain(emojis).
+            range(colors);
+            
+            const emojiSentiment = scaleThreshold().
+            domain([-3, -1, 1, 3, 5]).
+            range([...emojis].reverse());
+
             window.background = function(i, b) {
-                // console.log(i, b)
+                // console.log()
                 // console.log(i && i.$el ? i.$el[0] : '')
                 // console.log(i && i.$el ? i.$el[0].getAttribute('data') : '')
                 if (i) app.change(i.activeIndex)
                   // console.log( this.articles[] )
-                var colors = [
-                  "red",
-                  "blue",
-                  "pink",
-                ]
-                document.getElementById('background').style.backgroundColor = colors[Math.floor(Math.random()*colors.length)]
             }
             
             const Slider = {
@@ -492,6 +512,8 @@
             const app = new Vue({
             el: '#app',
             data: { 
+              backgroundColor: '',
+              backgroundImage: '',
               articles: [],
               title: 'Accounts',
               message: 'Hello World' 
@@ -501,30 +523,134 @@
               this.load()
             },
             watch: {},
-            computed: {},
+            computed: {
+            },
             methods: {
+              date(i) {
+                return this.fromNow(Date.parse(i.timestamp))
+              },
+              sentiment(phrase) {
+                const { comparative, positive, negative } = sentiment(phrase);
+                return {
+                  comparative: comparative.toFixed(2),
+                  positive,
+                  negative };
+              },
+              color(item) {
+                console.log(item.title.toLowerCase().includes('texas'))
+                if (item && item.title && (item.title.toLowerCase().includes('dies') || item.title.toLowerCase().includes('dead'))) {
+                  this.backgroundImage = ''
+                  return
+                }
+                if (item && item.title && item.title.toLowerCase().includes('texas')) {
+                  this.backgroundImage = 'https://media.newyorker.com/photos/6133f3141b296fb0aa9bddc2/1:1/w_1702,h_1702,c_limit/Tolentino-SB8.jpg'
+                  // this.$forceUpdate()
+                  return
+                }
+                if (item && item.title && (item.title.toLowerCase().includes('abortion'))) {
+                  this.backgroundImage = 'https://www.gannett-cdn.com/presto/2022/05/06/NAAS/1210da76-48f5-48a5-b99d-ccf6c0a0e449-AEM_UT_Roe_v_Wade_Protest-9.jpg'
+                  return
+                }
+                if (item && item.title && item.title.toLowerCase().includes('biden')) {
+                  this.backgroundImage = 'https://gray-wkyt-prod.cdn.arcpublishing.com/resizer/tF2yQ5T0EcpVRMXX3F78W9URqR8=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/FPCADCJMJNASTKZHEMN53YTMKY.jpg'
+                  return
+                }
+                if (item && item.title && item.title.toLowerCase().includes('boebert')) {
+                  this.backgroundImage = 'https://hrc-prod-requests.s3-us-west-2.amazonaws.com/_1200x630_crop_center-center_none/Abortion-Header.png'
+                  return
+                }
+                if (item && item.title && (item.title.toLowerCase().includes('clarence thomas') || item.title.toLowerCase().includes('supreme court'))) {
+                  this.backgroundImage = 'https://images.unsplash.com/photo-1542358935821-e4e9f3f3c15d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80'
+                  return
+                }
+                if (item && item.title && item.title.toLowerCase().includes('jan. 6')) {
+                  this.backgroundImage = 'https://www.poynter.org/wp-content/uploads/2022/06/AP_22160732197078.jpg'
+                  return
+                }
+                if (item && item.title && item.title.toLowerCase().includes('trump')) {
+                  this.backgroundImage = 'https://scpr.brightspotcdn.com/dims4/default/2886d33/2147483647/strip/true/crop/4992x3264+0+0/resize/880x575!/quality/90/?url=https%3A%2F%2Fa.scpr.org%2F166794_df08c025f541562e231d81de1db0d4f2_original.jpg'
+                  return
+                }
+                // this.backgroundImage = 'https://images.unsplash.com/photo-1542358935821-e4e9f3f3c15d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80'
+                var color = '#032f00'
+                var score = this.sentiment(item.title).comparative
+                //   // console.log("score", score)
+                // if (Number(score) == 0) color =  'rgb(50 0 0)'
+                if (Number(score) < 0) color = 'rgb(0 2 47)'
+                // // if (item && ( item.title.toLowerCase().includes('us') || item.title.toLowerCase().includes('biden') || item.title.toLowerCase().includes('democrat') )) return '#000060'
+                // // if (item && ( item.title.toLowerCase().includes('trump') )) return 'rgb(50 0 0)'
+                // // document.getElementById('background').style.backgroundImage = `url(https://images.unsplash.com/photo-1542358935821-e4e9f3f3c15d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80)`
+                // // document.getElementById('background').style.backgroundColor = color
+                this.backgroundColor = color
+                this.backgroundImage = ''
+                return 
+              },
               change(index) {
                 var item = this.articles[index]
-                if (!item) return
-                // console.log(index)
-                // console.log(  )
-                 axios.get(item.url).then((res) => {
-                    console.log( res.data )
-                 })
+                if (!item || !item.title) return
+                this.color(item)
               },
               read(i) {
                 var confirm = window.confirm('Want to navigate to: ' + i.url)
                 if (confirm) window.open(i.url, '_blank')
               },
               load() {
+                var self = this
                 axios.get(`https://api.fwd.dev/news`).then((res) => {
                   this.articles = res.data.news
                   setTimeout(() => {
                     Slider.init();
                     conf.InfoBox();
+                    self.change(0)
                   }, 100)
                 })
               },
+              fromNow(date) {
+                var seconds = Math.floor((new Date() - date) / 1000);
+                var years = Math.floor(seconds / 31536000);
+                var months = Math.floor(seconds / 2592000);
+                var days = Math.floor(seconds / 86400);
+
+                if (days > 548) {
+                  return years + ' years ago';
+                }
+                if (days >= 320 && days <= 547) {
+                  return 'a year ago';
+                }
+                if (days >= 45 && days <= 319) {
+                  return months + ' months ago';
+                }
+                if (days >= 26 && days <= 45) {
+                  return 'a month ago';
+                }
+
+                var hours = Math.floor(seconds / 3600);
+
+                if (hours >= 36 && days <= 25) {
+                  return days + ' days ago';
+                }
+                if (hours >= 22 && hours <= 35) {
+                  return 'a day ago';
+                }
+                
+                var minutes = Math.floor(seconds / 60);
+
+                if (minutes >= 90 && hours <= 21) {
+                  return hours + ' hours ago';
+                }
+                if (minutes >= 45 && minutes <= 89) {
+                  return 'an hour ago';
+                }
+                if (seconds >= 90 && minutes <= 44) {
+                  return minutes + ' minutes ago';
+                }
+                if (seconds >= 45 && seconds <= 89) {
+                  return 'a minute ago';
+                }
+                if (seconds >= 0 && seconds <= 45) {
+                  return 'a few seconds ago';
+                }
+              }
             },
           })
         </script>
