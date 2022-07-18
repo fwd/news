@@ -2,30 +2,30 @@
 
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
-- File Size: ~**3MB**
-- Updated: Jul 10, 2022 4:12 PM
+- File Size: ~**4MB**
+- Updated: Jul 18, 2022 3:41 PM
 
 ```
 {
-    "title": "Transgender Butler County man says group beat him up over restroom use",
-    "domain": "fox19.com",
-    "category": "news",
-    "link": "https://www.fox19.com/2022/07/08/transgender-butler-county-man-says-group-beat-him-up-using-wrong-restroom/",
-    "timestamp": 1657426094,
-    "published": "July 10, 2022 12:08 AM"
+    "title": "Medvedev warns of ‘Judgment Day’ as Russia hunts Ukraine’s US-made HIMARS",
+    "domain": "scmp.com",
+    "category": "worldnews",
+    "link": "https://www.scmp.com/news/world/europe/article/3185635/medvedev-warns-judgment-day-russia-hunts-ukraines-us-made-himars?module=lead_hero_story&pgtype=homepage",
+    "timestamp": 1658124231,
+    "published": "July 18, 2022 2:03 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 9816
-- Sources: 1566
+- Articles: 11234
+- Sources: 1790
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: July 10, 2022 3:55 PM
+- End: July 18, 2022 3:11 PM
 
 ### Topics
 
