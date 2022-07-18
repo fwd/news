@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**4MB**
-- Updated: Jul 18, 2022 5:41 PM
+- Updated: Jul 18, 2022 6:41 PM
 
 ```
 {
-    "title": "Medvedev warns of ‘Judgment Day’ as Russia hunts Ukraine’s US-made HIMARS",
-    "domain": "scmp.com",
-    "category": "worldnews",
-    "link": "https://www.scmp.com/news/world/europe/article/3185635/medvedev-warns-judgment-day-russia-hunts-ukraines-us-made-himars?module=lead_hero_story&pgtype=homepage",
-    "timestamp": 1658124231,
-    "published": "July 18, 2022 2:03 AM"
+    "title": "‘A bright life ahead’: Botswana on path to seeing no babies born with HIV",
+    "domain": "theguardian.com",
+    "category": "UpliftingNews",
+    "link": "https://www.theguardian.com/global-development/2022/jul/18/botswana-mother-baby-transmission-hiv-rates-fall-who",
+    "timestamp": 1658133554,
+    "published": "July 18, 2022 4:39 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 11248
+- Articles: 11256
 - Sources: 1791
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: July 18, 2022 5:07 PM
+- End: July 18, 2022 6:28 PM
 
 ### Topics
 
