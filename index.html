@@ -4,12 +4,12 @@
     
     <head>
         <meta charset="UTF-8">
-        <title>Fwd News</title>
+        <title>News</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="apple-mobile-web-app-capable" content="yes">
         <meta name="apple-mobile-web-app-status-bar-style" content="black">
-        <meta name="apple-mobile-web-app-title" content="Hello World">
-        <link rel="apple-touch-icon" href="/icon.png">
+        <meta name="apple-mobile-web-app-title" content="News">
+        <link rel="apple-touch-icon" href="icon.png">
         <link href="https://fonts.googleapis.com/css?family=Merriweather:700&display=swap"
         rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:600,700&display=swap"
@@ -224,28 +224,28 @@
               align-items: flex-start;
               /*display: flex;*/
               justify-content: center;
-              height: 160px;
+              height: 230px;
             }
             .slider-element-container .swiper-slide .content .headline {
-    font-family: 'Merriweather', serif;
-    font-size: 19px;
-    font-weight: 700;
-    color: #011245;
-    /*margin-bottom: 20px;*/
-    line-height: 1.5;
+              font-family: 'Merriweather', serif;
+              font-size: 16px;
+              font-weight: 700;
+              color: #011245;
+              /*margin-bottom: 20px;*/
+              line-height: 1.5;
             }
             .slider-element-container .swiper-slide .content .tag {
-    padding: 7px 10px;
-    background-color: #202637;
-    color: #FFF;
-    font-size: 15px;
-    line-height: 10px;
-    font-weight: 700;
-    text-transform: uppercase;
-    display: inline-block;
-    margin-bottom: 40px;
-    border-radius: 4px;
-    margin-bottom: 0;
+              padding: 7px 10px;
+              background-color: #202637;
+              color: #FFF;
+              font-size: 15px;
+              line-height: 10px;
+              font-weight: 700;
+              text-transform: uppercase;
+              display: inline-block;
+              margin-bottom: 40px;
+              border-radius: 4px;
+              margin-bottom: 0;
             }
             .slider-element-container .swiper-slide .content button.button {
               cursor: pointer;
@@ -410,7 +410,7 @@
                     <div class="swiper-container">
                         <div class="swiper-wrapper">
                             <div v-for="i in articles" class="swiper-slide" :data="i.url" @click="read(i)">
-                                <div class="content"> <span class="headline">{{ i.title &&  i.title.length > 60 ?  i.title.slice(0, 60) + '..' :  i.title }}</span>
+                                <div class="content"> <span class="headline">{{ i.title &&  i.title.length > 120 ?  i.title.slice(0, 120) + '..' :  i.title }}</span>
                                     <span style=" margin: 10px 0 15px 0; font-size: 17px; opacity: 0.8; ">{{ date(i) }}</span>
                                     <span class="tag">{{ i.sub }}</span>
                                 </div>
@@ -544,43 +544,55 @@
                   positive,
                   negative };
               },
+              stringToColor(str) {
+                var hash = 0;
+                for (var i = 0; i < str.length; i++) {
+                  hash = str.charCodeAt(i) + ((hash << 5) - hash);
+                }
+                var colour = '#';
+                for (var i = 0; i < 3; i++) {
+                  var value = (hash >> (i * 8)) & 0xFF;
+                  colour += ('00' + value.toString(16)).substr(-2);
+                }
+                return colour;
+              },
               color(item) {
-                console.log(item.title.toLowerCase().includes('texas'))
-                if (item && item.title && (item.title.toLowerCase().includes('dies') || item.title.toLowerCase().includes('dead'))) {
-                  this.backgroundImage = ''
-                  return
-                }
-                if (item && item.title && item.title.toLowerCase().includes('texas')) {
-                  this.backgroundImage = 'https://media.newyorker.com/photos/6133f3141b296fb0aa9bddc2/1:1/w_1702,h_1702,c_limit/Tolentino-SB8.jpg'
-                  // this.$forceUpdate()
-                  return
-                }
-                if (item && item.title && (item.title.toLowerCase().includes('abortion'))) {
-                  this.backgroundImage = 'https://www.gannett-cdn.com/presto/2022/05/06/NAAS/1210da76-48f5-48a5-b99d-ccf6c0a0e449-AEM_UT_Roe_v_Wade_Protest-9.jpg'
-                  return
-                }
-                if (item && item.title && item.title.toLowerCase().includes('biden')) {
-                  this.backgroundImage = 'https://gray-wkyt-prod.cdn.arcpublishing.com/resizer/tF2yQ5T0EcpVRMXX3F78W9URqR8=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/FPCADCJMJNASTKZHEMN53YTMKY.jpg'
-                  return
-                }
-                if (item && item.title && item.title.toLowerCase().includes('boebert')) {
-                  this.backgroundImage = 'https://hrc-prod-requests.s3-us-west-2.amazonaws.com/_1200x630_crop_center-center_none/Abortion-Header.png'
-                  return
-                }
-                if (item && item.title && (item.title.toLowerCase().includes('clarence thomas') || item.title.toLowerCase().includes('supreme court'))) {
-                  this.backgroundImage = 'https://images.unsplash.com/photo-1542358935821-e4e9f3f3c15d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80'
-                  return
-                }
-                if (item && item.title && item.title.toLowerCase().includes('jan. 6')) {
-                  this.backgroundImage = 'https://www.poynter.org/wp-content/uploads/2022/06/AP_22160732197078.jpg'
-                  return
-                }
-                if (item && item.title && item.title.toLowerCase().includes('trump')) {
-                  this.backgroundImage = 'https://scpr.brightspotcdn.com/dims4/default/2886d33/2147483647/strip/true/crop/4992x3264+0+0/resize/880x575!/quality/90/?url=https%3A%2F%2Fa.scpr.org%2F166794_df08c025f541562e231d81de1db0d4f2_original.jpg'
-                  return
-                }
+                // console.log(item.title.toLowerCase().includes('texas'))
+                // if (item && item.title && (item.title.toLowerCase().includes('dies') || item.title.toLowerCase().includes('dead'))) {
+                //   this.backgroundImage = ''
+                //   return
+                // }
+                // if (item && item.title && item.title.toLowerCase().includes('texas')) {
+                //   this.backgroundImage = 'https://media.newyorker.com/photos/6133f3141b296fb0aa9bddc2/1:1/w_1702,h_1702,c_limit/Tolentino-SB8.jpg'
+                //   // this.$forceUpdate()
+                //   return
+                // }
+                // if (item && item.title && (item.title.toLowerCase().includes('abortion'))) {
+                //   this.backgroundImage = 'https://www.gannett-cdn.com/presto/2022/05/06/NAAS/1210da76-48f5-48a5-b99d-ccf6c0a0e449-AEM_UT_Roe_v_Wade_Protest-9.jpg'
+                //   return
+                // }
+                // if (item && item.title && item.title.toLowerCase().includes('biden')) {
+                //   this.backgroundImage = 'https://gray-wkyt-prod.cdn.arcpublishing.com/resizer/tF2yQ5T0EcpVRMXX3F78W9URqR8=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/FPCADCJMJNASTKZHEMN53YTMKY.jpg'
+                //   return
+                // }
+                // if (item && item.title && item.title.toLowerCase().includes('boebert')) {
+                //   this.backgroundImage = 'https://hrc-prod-requests.s3-us-west-2.amazonaws.com/_1200x630_crop_center-center_none/Abortion-Header.png'
+                //   return
+                // }
+                // if (item && item.title && (item.title.toLowerCase().includes('clarence thomas') || item.title.toLowerCase().includes('supreme court'))) {
+                //   this.backgroundImage = 'https://images.unsplash.com/photo-1542358935821-e4e9f3f3c15d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80'
+                //   return
+                // }
+                // if (item && item.title && item.title.toLowerCase().includes('jan. 6')) {
+                //   this.backgroundImage = 'https://www.poynter.org/wp-content/uploads/2022/06/AP_22160732197078.jpg'
+                //   return
+                // }
+                // if (item && item.title && item.title.toLowerCase().includes('trump')) {
+                //   this.backgroundImage = 'https://scpr.brightspotcdn.com/dims4/default/2886d33/2147483647/strip/true/crop/4992x3264+0+0/resize/880x575!/quality/90/?url=https%3A%2F%2Fa.scpr.org%2F166794_df08c025f541562e231d81de1db0d4f2_original.jpg'
+                //   return
+                // }
                 // this.backgroundImage = 'https://images.unsplash.com/photo-1542358935821-e4e9f3f3c15d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80'
-                var color = '#032f00'
+                var color = this.stringToColor(item.title)
                 var score = this.sentiment(item.title).comparative
                 //   // console.log("score", score)
                 // if (Number(score) == 0) color =  'rgb(50 0 0)'
