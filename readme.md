@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**4MB**
-- Updated: Jul 19, 2022 1:05 PM
+- Updated: Jul 19, 2022 2:05 PM
 
 ```
 {
-    "title": "Texas state police launch internal review of Uvalde response",
-    "domain": "apnews.com",
-    "category": "news",
-    "link": "https://apnews.com/article/police-shootings-texas-education-a3cab77498a8e9b97ea7d331c1aa5e5d",
-    "timestamp": 1658206979,
-    "published": "July 19, 2022 1:02 AM"
+    "title": "Miami-Dade County court data shows roughly 600,000 people are driving with a suspended license.",
+    "domain": "m.youtube.com",
+    "category": "miami",
+    "link": "https://m.youtube.com/watch?v=VhhshqjbxcE",
+    "timestamp": 1658208731,
+    "published": "July 19, 2022 1:32 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 11378
-- Sources: 1806
+- Articles: 11393
+- Sources: 1807
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: July 19, 2022 12:55 PM
+- End: July 19, 2022 1:36 PM
 
 ### Topics
 
