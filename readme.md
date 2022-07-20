@@ -3,22 +3,22 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**4MB**
-- Updated: Jul 20, 2022 4:05 AM
+- Updated: Jul 20, 2022 5:05 AM
 
 ```
 {
-    "title": "Quidditch rebrands as quadball and further distances itself from Harry Potter author",
-    "domain": "npr.org",
-    "category": "nottheonion",
-    "link": "https://www.npr.org/2022/07/19/1112324298/quidditch-rebrands-as-quadball-and-further-distances-itself-from-harry-potter-au",
-    "timestamp": 1658291623,
-    "published": "July 20, 2022 12:33 AM"
+    "title": "Anger in China after officials break into homes in hunt for Covid contacts | China",
+    "domain": "theguardian.com",
+    "category": "worldnews",
+    "link": "https://www.theguardian.com/world/2022/jul/20/china-covid-officials-break-into-homes-hunt-for-covid-contacts-guangzhou-apology-",
+    "timestamp": 1658290141,
+    "published": "July 20, 2022 12:09 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 11473
+- Articles: 11474
 - Sources: 1812
 - Categories: 13
 
