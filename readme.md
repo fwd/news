@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**4MB**
-- Updated: Jul 20, 2022 12:05 AM
+- Updated: Jul 20, 2022 1:05 AM
 
 ```
 {
-    "title": "Miami-Dade County court data shows roughly 600,000 people are driving with a suspended license.",
-    "domain": "m.youtube.com",
-    "category": "miami",
-    "link": "https://m.youtube.com/watch?v=VhhshqjbxcE",
-    "timestamp": 1658208731,
-    "published": "July 19, 2022 1:32 AM"
+    "title": "Quidditch rebrands as quadball and further distances itself from Harry Potter author",
+    "domain": "npr.org",
+    "category": "nottheonion",
+    "link": "https://www.npr.org/2022/07/19/1112324298/quidditch-rebrands-as-quadball-and-further-distances-itself-from-harry-potter-au",
+    "timestamp": 1658291623,
+    "published": "July 20, 2022 12:33 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 11460
+- Articles: 11463
 - Sources: 1811
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: July 19, 2022 11:00 PM
+- End: July 20, 2022 12:41 AM
 
 ### Topics
 
