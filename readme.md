@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**4MB**
-- Updated: Jul 20, 2022 8:05 AM
+- Updated: Jul 20, 2022 9:05 AM
 
 ```
 {
-    "title": "Anger in China after officials break into homes in hunt for Covid contacts | China",
-    "domain": "theguardian.com",
-    "category": "worldnews",
-    "link": "https://www.theguardian.com/world/2022/jul/20/china-covid-officials-break-into-homes-hunt-for-covid-contacts-guangzhou-apology-",
-    "timestamp": 1658290141,
-    "published": "July 20, 2022 12:09 AM"
+    "title": "Quidditch rebrands as quadball and further distances itself from Harry Potter author",
+    "domain": "npr.org",
+    "category": "nottheonion",
+    "link": "https://www.npr.org/2022/07/19/1112324298/quidditch-rebrands-as-quadball-and-further-distances-itself-from-harry-potter-au",
+    "timestamp": 1658291623,
+    "published": "July 20, 2022 12:33 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 11491
-- Sources: 1818
+- Articles: 11499
+- Sources: 1819
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: July 20, 2022 7:50 AM
+- End: July 20, 2022 8:36 AM
 
 ### Topics
 
