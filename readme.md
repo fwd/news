@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**4MB**
-- Updated: Jul 21, 2022 1:05 PM
+- Updated: Jul 21, 2022 2:05 PM
 
 ```
 {
-    "title": "Police officers responded with their guns drawn. They had the wrong house",
-    "domain": "fox5vegas.com",
-    "category": "nottheonion",
-    "link": "https://www.fox5vegas.com/2022/07/20/police-officers-responded-with-their-guns-drawn-they-had-wrong-house/?fbclid=IwAR2zbXJBS2UcbLlBrgFYUawpGRJ_e4xgYVzE6g0_qc7ipYy-iJlzZ9bL9-0&fs=e&s=cl#l5ujhsm0ed859mjgq97",
-    "timestamp": 1658378124,
-    "published": "July 21, 2022 12:35 AM"
+    "title": "U.S. Air Force General Says West May Send Jets To Ukraine After All",
+    "domain": "forbes.com",
+    "category": "worldnews",
+    "link": "https://www.forbes.com/sites/joewalsh/2022/07/20/us-air-force-general-says-west-may-send-jets-to-ukraine-after-all/?sh=34d674bb70c2",
+    "timestamp": 1658379046,
+    "published": "July 21, 2022 12:50 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 11717
-- Sources: 1850
+- Articles: 11731
+- Sources: 1853
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: July 21, 2022 12:28 PM
+- End: July 21, 2022 1:54 PM
 
 ### Topics
 
