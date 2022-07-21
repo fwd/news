@@ -3,23 +3,23 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**4MB**
-- Updated: Jul 21, 2022 1:05 AM
+- Updated: Jul 21, 2022 2:05 AM
 
 ```
 {
-    "title": "Several local cities utilizing high-tech screens to keep litter out of Biscayne Bay and South Fl. Miami is just one of several South Florida cities stepping up to try and fight the growing litter program with a new technology.",
-    "domain": "m.youtube.com",
-    "category": "miami",
-    "link": "https://m.youtube.com/watch?v=qZD7XpGFEdI",
-    "timestamp": 1658379717,
-    "published": "July 21, 2022 1:01 AM"
+    "title": "Quidditch is changing its name to quadball to cut ties with J.K. Rowling",
+    "domain": "cnn.com",
+    "category": "sports",
+    "link": "https://www.cnn.com/2022/07/20/us/quidditch-name-change-quadball-cec/index.html",
+    "timestamp": 1658376685,
+    "published": "July 21, 2022 12:11 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 11634
-- Sources: 1837
+- Articles: 11637
+- Sources: 1838
 - Categories: 13
 
 ### Timespan
