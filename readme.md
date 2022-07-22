@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**4MB**
-- Updated: Jul 21, 2022 7:05 PM
+- Updated: Jul 21, 2022 8:05 PM
 
 ```
 {
-    "title": "U.S. Air Force General Says West May Send Jets To Ukraine After All",
-    "domain": "forbes.com",
-    "category": "worldnews",
-    "link": "https://www.forbes.com/sites/joewalsh/2022/07/20/us-air-force-general-says-west-may-send-jets-to-ukraine-after-all/?sh=34d674bb70c2",
-    "timestamp": 1658379046,
-    "published": "July 21, 2022 12:50 AM"
+    "title": "Imposter syndrome can appear regardless of age, gender, and intelligence",
+    "domain": "psypost.org",
+    "category": "science",
+    "link": "https://www.psypost.org/2022/07/imposter-syndrome-can-appear-regardless-of-age-gender-and-intelligence-63564",
+    "timestamp": 1658379605,
+    "published": "July 21, 2022 1:00 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 11775
-- Sources: 1857
+- Articles: 11784
+- Sources: 1859
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: July 21, 2022 6:06 PM
+- End: July 21, 2022 7:24 PM
 
 ### Topics
 
