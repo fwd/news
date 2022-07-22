@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**4MB**
-- Updated: Jul 22, 2022 1:05 AM
+- Updated: Jul 22, 2022 2:05 AM
 
 ```
 {
-    "title": "Imposter syndrome can appear regardless of age, gender, and intelligence",
-    "domain": "psypost.org",
-    "category": "science",
-    "link": "https://www.psypost.org/2022/07/imposter-syndrome-can-appear-regardless-of-age-gender-and-intelligence-63564",
-    "timestamp": 1658379605,
-    "published": "July 21, 2022 1:00 AM"
+    "title": "Bo Jackson donated $170,000 to pay for funerals of Uvalde victims",
+    "domain": "profootballtalk.nbcsports.com",
+    "category": "news",
+    "link": "https://profootballtalk.nbcsports.com/2022/07/21/bo-jackson-donated-170000-to-pay-for-funerals-of-uvalde-victims/",
+    "timestamp": 1658462568,
+    "published": "July 22, 2022 12:02 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 11806
+- Articles: 11809
 - Sources: 1859
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: July 21, 2022 10:59 PM
+- End: July 22, 2022 1:22 AM
 
 ### Topics
 
