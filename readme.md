@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**4MB**
-- Updated: Jul 22, 2022 4:05 PM
+- Updated: Jul 22, 2022 5:05 PM
 
 ```
 {
-    "title": "Bo Jackson donated $170,000 to pay for funerals of Uvalde victims",
-    "domain": "profootballtalk.nbcsports.com",
-    "category": "news",
-    "link": "https://profootballtalk.nbcsports.com/2022/07/21/bo-jackson-donated-170000-to-pay-for-funerals-of-uvalde-victims/",
-    "timestamp": 1658462568,
-    "published": "July 22, 2022 12:02 AM"
+    "title": "International researchers have found a way to produce jet fuel using water, carbon dioxide (CO2), and sunlight. The team developed a solar tower that uses solar energy to produce a synthetic alternative to fossil-derived fuels like kerosene and diesel.",
+    "domain": "newatlas.com",
+    "category": "science",
+    "link": "https://newatlas.com/energy/solar-jet-fuel-tower/",
+    "timestamp": 1658467362,
+    "published": "July 22, 2022 1:22 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 11933
-- Sources: 1871
+- Articles: 11948
+- Sources: 1872
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: July 22, 2022 3:44 PM
+- End: July 22, 2022 4:56 PM
 
 ### Topics
 
