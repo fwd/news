@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**4MB**
-- Updated: Jul 24, 2022 7:05 AM
+- Updated: Jul 24, 2022 8:05 AM
 
 ```
 {
-    "title": "Canceled special board meeting to consider firing Uvalde schools police chief Pete Arredondo to be rescheduled in 'very near future,' superintendent says",
-    "domain": "edition.cnn.com",
-    "category": "news",
-    "link": "https://edition.cnn.com/2022/07/23/us/arredondo-termination-hearing-rescheduling/index.html",
-    "timestamp": 1658636324,
-    "published": "July 24, 2022 12:18 AM"
+    "title": "The Republican Party of Florida excluded numerous journalists from covering a fundraising dinner starring Gov. Ron DeSantis: 'This is not normal'",
+    "domain": "businessinsider.com",
+    "category": "politics",
+    "link": "https://www.businessinsider.com/major-gop-fundraiser-with-ron-desantis-excludes-several-media-outlets-2022-7?international=true&r=US&IR=T",
+    "timestamp": 1658636202,
+    "published": "July 24, 2022 12:16 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 12159
-- Sources: 1896
+- Articles: 12167
+- Sources: 1897
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: July 24, 2022 5:02 AM
+- End: July 24, 2022 7:25 AM
 
 ### Topics
 
