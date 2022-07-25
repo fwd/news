@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**4MB**
-- Updated: Jul 25, 2022 5:05 PM
+- Updated: Jul 25, 2022 6:05 PM
 
 ```
 {
-    "title": "Pennsylvania State Trooper charged with felony animal cruelty after hitting horse with patrol vehicle",
-    "domain": "cbsnews.com",
-    "category": "news",
-    "link": "https://www.cbsnews.com/pittsburgh/news/pennsylvania-state-trooper-charged-with-felony-animal-cruelty-after-hitting-horse-with-patrol-vehicle/",
-    "timestamp": 1658733166,
-    "published": "July 25, 2022 3:12 AM"
+    "title": "BOCA RUDETON: Dog On Couch At Town Center Mall",
+    "domain": "bocanewsnow.com",
+    "category": "nottheonion",
+    "link": "https://bocanewsnow.com/2022/07/24/boca-rudeton-dog-on-couch-at-town-center-mall/",
+    "timestamp": 1658728245,
+    "published": "July 25, 2022 1:50 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 12440
-- Sources: 1930
+- Articles: 12447
+- Sources: 1931
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: July 25, 2022 5:01 PM
+- End: July 25, 2022 5:31 PM
 
 ### Topics
 
