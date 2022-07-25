@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**4MB**
-- Updated: Jul 25, 2022 11:05 AM
+- Updated: Jul 25, 2022 12:05 PM
 
 ```
 {
-    "title": "Panama Papers News: 'Panama Papers' whistleblower says Russia 'wants me dead'",
-    "domain": "economictimes.indiatimes.com",
+    "title": "The police officer who shot at a 16-year-old boy during a farmers’ protest earlier this month is now the subject of a criminal investigation. The police officer, who could face attempted manslaughter charges, fired at the teenager who was driving a tractor during a protest near Heerenveen.",
+    "domain": "dutchnews.nl",
     "category": "worldnews",
-    "link": "http://economictimes.indiatimes.com/news/international/world-news/panama-papers-whistleblower-says-russia-wants-me-dead/articleshow/93073208.cms",
-    "timestamp": 1658729948,
-    "published": "July 25, 2022 2:19 AM"
+    "link": "https://www.dutchnews.nl/news/2022/07/police-officer-faces-criminal-probe-over-farm-protest-shooting/",
+    "timestamp": 1658724242,
+    "published": "July 25, 2022 12:44 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 12377
-- Sources: 1923
+- Articles: 12387
+- Sources: 1925
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: July 25, 2022 10:38 AM
+- End: July 25, 2022 11:15 AM
 
 ### Topics
 
