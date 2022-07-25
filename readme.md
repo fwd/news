@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**4MB**
-- Updated: Jul 25, 2022 9:05 AM
+- Updated: Jul 25, 2022 10:05 AM
 
 ```
 {
-    "title": "Jason Momoa Involved In Car Crash With Motorcyclist; No Major Injuries Reported",
-    "domain": "cinemablend.com",
-    "category": "television",
-    "link": "https://www.cinemablend.com/movies/fast-xs-jason-momoa-involved-in-a-crash-with-a-motorcycle",
-    "timestamp": 1658722942,
-    "published": "July 25, 2022 12:22 AM"
+    "title": "The police officer who shot at a 16-year-old boy during a farmers’ protest earlier this month is now the subject of a criminal investigation. The police officer, who could face attempted manslaughter charges, fired at the teenager who was driving a tractor during a protest near Heerenveen.",
+    "domain": "dutchnews.nl",
+    "category": "worldnews",
+    "link": "https://www.dutchnews.nl/news/2022/07/police-officer-faces-criminal-probe-over-farm-protest-shooting/",
+    "timestamp": 1658724242,
+    "published": "July 25, 2022 12:44 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 12347
-- Sources: 1920
+- Articles: 12360
+- Sources: 1922
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: July 25, 2022 8:56 AM
+- End: July 25, 2022 9:55 AM
 
 ### Topics
 
