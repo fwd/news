@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**4MB**
-- Updated: Jul 25, 2022 2:05 AM
+- Updated: Jul 25, 2022 3:05 AM
 
 ```
 {
-    "title": "Jason Momoa Involved In Car Crash With Motorcyclist; No Major Injuries Reported",
-    "domain": "cinemablend.com",
-    "category": "television",
-    "link": "https://www.cinemablend.com/movies/fast-xs-jason-momoa-involved-in-a-crash-with-a-motorcycle",
-    "timestamp": 1658722942,
-    "published": "July 25, 2022 12:22 AM"
+    "title": "'Even Russians expect defeat,' says Zelenskyy As the war enters its sixth month, the Ukrainian president vows his forces will \"inflict the highest possible damage on the enemy.\"",
+    "domain": "dw.com",
+    "category": "worldnews",
+    "link": "https://www.dw.com/en/russia-ukraine-updates-even-russians-expect-defeat-says-zelenskyy/a-62576209",
+    "timestamp": 1658722744,
+    "published": "July 25, 2022 12:19 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 12302
+- Articles: 12306
 - Sources: 1911
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: July 25, 2022 1:50 AM
+- End: July 25, 2022 2:50 AM
 
 ### Topics
 
