@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**4MB**
-- Updated: Jul 25, 2022 1:05 PM
+- Updated: Jul 25, 2022 2:05 PM
 
 ```
 {
-    "title": "Panama Papers News: 'Panama Papers' whistleblower says Russia 'wants me dead'",
-    "domain": "economictimes.indiatimes.com",
-    "category": "worldnews",
-    "link": "http://economictimes.indiatimes.com/news/international/world-news/panama-papers-whistleblower-says-russia-wants-me-dead/articleshow/93073208.cms",
-    "timestamp": 1658729948,
-    "published": "July 25, 2022 2:19 AM"
+    "title": "Pennsylvania State Trooper charged with felony animal cruelty after hitting horse with patrol vehicle",
+    "domain": "cbsnews.com",
+    "category": "news",
+    "link": "https://www.cbsnews.com/pittsburgh/news/pennsylvania-state-trooper-charged-with-felony-animal-cruelty-after-hitting-horse-with-patrol-vehicle/",
+    "timestamp": 1658733166,
+    "published": "July 25, 2022 3:12 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 12402
+- Articles: 12411
 - Sources: 1926
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: July 25, 2022 12:19 PM
+- End: July 25, 2022 1:28 PM
 
 ### Topics
 
