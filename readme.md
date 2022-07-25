@@ -3,16 +3,16 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**4MB**
-- Updated: Jul 25, 2022 3:05 AM
+- Updated: Jul 25, 2022 4:05 AM
 
 ```
 {
-    "title": "'Even Russians expect defeat,' says Zelenskyy As the war enters its sixth month, the Ukrainian president vows his forces will \"inflict the highest possible damage on the enemy.\"",
-    "domain": "dw.com",
-    "category": "worldnews",
-    "link": "https://www.dw.com/en/russia-ukraine-updates-even-russians-expect-defeat-says-zelenskyy/a-62576209",
-    "timestamp": 1658722744,
-    "published": "July 25, 2022 12:19 AM"
+    "title": "Jason Momoa Involved In Car Crash With Motorcyclist; No Major Injuries Reported",
+    "domain": "cinemablend.com",
+    "category": "television",
+    "link": "https://www.cinemablend.com/movies/fast-xs-jason-momoa-involved-in-a-crash-with-a-motorcycle",
+    "timestamp": 1658722942,
+    "published": "July 25, 2022 12:22 AM"
 }
 ```
 
