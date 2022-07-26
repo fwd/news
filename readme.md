@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**4MB**
-- Updated: Jul 25, 2022 9:05 PM
+- Updated: Jul 25, 2022 10:05 PM
 
 ```
 {
-    "title": "BOCA RUDETON: Dog On Couch At Town Center Mall",
-    "domain": "bocanewsnow.com",
-    "category": "nottheonion",
-    "link": "https://bocanewsnow.com/2022/07/24/boca-rudeton-dog-on-couch-at-town-center-mall/",
-    "timestamp": 1658728245,
-    "published": "July 25, 2022 1:50 AM"
+    "title": "Ukrainian Armed Forces kill 100 Russian soldiers in a hotel in Krasnyi Luch",
+    "domain": "pravda.com.ua",
+    "category": "ukraine",
+    "link": "https://www.pravda.com.ua/eng/news/2022/07/25/7360007/",
+    "timestamp": 1658735173,
+    "published": "July 25, 2022 3:46 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 12474
-- Sources: 1934
+- Articles: 12483
+- Sources: 1936
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: July 25, 2022 8:32 PM
+- End: July 25, 2022 9:53 PM
 
 ### Topics
 
