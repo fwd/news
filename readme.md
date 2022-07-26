@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**4MB**
-- Updated: Jul 26, 2022 8:05 AM
+- Updated: Jul 26, 2022 9:05 AM
 
 ```
 {
-    "title": "Historic gay pride jersey sparks player boycott in Australia",
-    "domain": "bbc.com",
-    "category": "worldnews",
-    "link": "https://www.bbc.com/news/world-australia-62301091",
-    "timestamp": 1658812768,
-    "published": "July 26, 2022 1:19 AM"
+    "title": "Taliban Urge Hindus, Sikhs To Return, Claim Security Issues \"Solved\"",
+    "domain": "ndtv.com",
+    "category": "nottheonion",
+    "link": "https://www.ndtv.com/world-news/security-issues-solved-hindus-sikhs-must-come-back-home-taliban-3193411",
+    "timestamp": 1658813097,
+    "published": "July 26, 2022 1:24 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 12516
+- Articles: 12527
 - Sources: 1940
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: July 26, 2022 7:36 AM
+- End: July 26, 2022 8:44 AM
 
 ### Topics
 
