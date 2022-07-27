@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Jul 26, 2022 10:05 PM
+- Updated: Jul 26, 2022 11:05 PM
 
 ```
 {
-    "title": "Taliban Urge Hindus, Sikhs To Return, Claim Security Issues \"Solved\"",
-    "domain": "ndtv.com",
-    "category": "nottheonion",
-    "link": "https://www.ndtv.com/world-news/security-issues-solved-hindus-sikhs-must-come-back-home-taliban-3193411",
-    "timestamp": 1658813097,
-    "published": "July 26, 2022 1:24 AM"
+    "title": "Ex-Congressman Profited off T-Mobile Insider Info Obtained While Golfing With Exec: SEC",
+    "domain": "vice.com",
+    "category": "technology",
+    "link": "https://www.vice.com/en/article/z34n7a/ex-congressman-profited-off-t-mobile-insider-info-obtained-while-golfing-with-exec-sec",
+    "timestamp": 1658816752,
+    "published": "July 26, 2022 2:25 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 12658
-- Sources: 1956
+- Articles: 12667
+- Sources: 1957
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: July 26, 2022 9:31 PM
+- End: July 26, 2022 10:56 PM
 
 ### Topics
 
