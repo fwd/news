@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Jul 27, 2022 5:05 AM
+- Updated: Jul 27, 2022 6:05 AM
 
 ```
 {
-    "title": "Fact check: Scientists at CERN are not opening a 'portal to hell'",
-    "domain": "usatoday.com",
-    "category": "technology",
-    "link": "https://www.usatoday.com/story/news/factcheck/2022/07/26/fact-check-scientists-cern-not-opening-portal-hell/10094679002/",
-    "timestamp": 1658895962,
-    "published": "July 27, 2022 12:26 AM"
+    "title": "Japan minister blames 'male-dominated' parliament for dwindling population",
+    "domain": "business-standard.com",
+    "category": "worldnews",
+    "link": "https://www.business-standard.com/article/international/japan-minister-blames-male-dominated-parliament-for-dwindling-population-122072700114_1.html",
+    "timestamp": 1658895761,
+    "published": "July 27, 2022 12:22 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 12679
-- Sources: 1957
+- Articles: 12683
+- Sources: 1959
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: July 27, 2022 3:20 AM
+- End: July 27, 2022 5:22 AM
 
 ### Topics
 
