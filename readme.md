@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Jul 27, 2022 1:05 AM
+- Updated: Jul 27, 2022 2:05 AM
 
 ```
 {
-    "title": "Ex-Congressman Profited off T-Mobile Insider Info Obtained While Golfing With Exec: SEC",
-    "domain": "vice.com",
+    "title": "Fact check: Scientists at CERN are not opening a 'portal to hell'",
+    "domain": "usatoday.com",
     "category": "technology",
-    "link": "https://www.vice.com/en/article/z34n7a/ex-congressman-profited-off-t-mobile-insider-info-obtained-while-golfing-with-exec-sec",
-    "timestamp": 1658816752,
-    "published": "July 26, 2022 2:25 AM"
+    "link": "https://www.usatoday.com/story/news/factcheck/2022/07/26/fact-check-scientists-cern-not-opening-portal-hell/10094679002/",
+    "timestamp": 1658895962,
+    "published": "July 27, 2022 12:26 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 12667
+- Articles: 12670
 - Sources: 1957
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: July 26, 2022 10:56 PM
+- End: July 27, 2022 12:47 AM
 
 ### Topics
 
