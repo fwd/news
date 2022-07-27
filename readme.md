@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Jul 26, 2022 9:05 PM
+- Updated: Jul 26, 2022 10:05 PM
 
 ```
 {
-    "title": "Researchers discover way to predict earthquakes with 80% accuracy",
-    "domain": "jpost.com",
-    "category": "science",
-    "link": "https://www.jpost.com/science/article-712972",
-    "timestamp": 1658810804,
-    "published": "July 26, 2022 12:46 AM"
+    "title": "Taliban Urge Hindus, Sikhs To Return, Claim Security Issues \"Solved\"",
+    "domain": "ndtv.com",
+    "category": "nottheonion",
+    "link": "https://www.ndtv.com/world-news/security-issues-solved-hindus-sikhs-must-come-back-home-taliban-3193411",
+    "timestamp": 1658813097,
+    "published": "July 26, 2022 1:24 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 12651
-- Sources: 1954
+- Articles: 12658
+- Sources: 1956
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: July 26, 2022 8:54 PM
+- End: July 26, 2022 9:31 PM
 
 ### Topics
 
