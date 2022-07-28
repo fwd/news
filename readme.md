@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Jul 28, 2022 1:05 AM
+- Updated: Jul 28, 2022 2:05 AM
 
 ```
 {
-    "title": "F-22 Raptors Are Heading To Poland. As Russia threatens \"tougher action\" against the U.S. if it continues arming Ukraine, six U.S. Air Force F-22 Raptor stealth fighters are headed to Poland. This deployment is unprecedented for the world's most capable air-to-air fighter.",
-    "domain": "thedrive.com",
-    "category": "ukraine",
-    "link": "https://www.thedrive.com/the-war-zone/f-22-raptors-are-heading-to-poland",
-    "timestamp": 1658981339,
-    "published": "July 28, 2022 12:08 AM"
+    "title": "How Afghan refugees are finding hope among Florida retirees",
+    "domain": "tampabay.com",
+    "category": "UpliftingNews",
+    "link": "https://www.tampabay.com/news/nation-world/2022/07/27/how-afghan-refugees-found-stability-in-tampa-bay-senior-communities/",
+    "timestamp": 1658981083,
+    "published": "July 28, 2022 12:04 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 12843
+- Articles: 12845
 - Sources: 1971
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: July 28, 2022 12:08 AM
+- End: July 28, 2022 12:55 AM
 
 ### Topics
 
