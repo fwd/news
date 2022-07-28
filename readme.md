@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Jul 28, 2022 3:05 PM
+- Updated: Jul 28, 2022 4:05 PM
 
 ```
 {
-    "title": "Mark Zuckerberg says Facebook will 'steadily reduce' the number of employees it hires and 'shrink' some teams over the next year",
-    "domain": "archive.ph",
-    "category": "technology",
-    "link": "https://archive.ph/iWg1L",
-    "timestamp": 1658984131,
-    "published": "July 28, 2022 12:55 AM"
+    "title": "How Afghan refugees are finding hope among Florida retirees",
+    "domain": "tampabay.com",
+    "category": "UpliftingNews",
+    "link": "https://www.tampabay.com/news/nation-world/2022/07/27/how-afghan-refugees-found-stability-in-tampa-bay-senior-communities/",
+    "timestamp": 1658981083,
+    "published": "July 28, 2022 12:04 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 12954
-- Sources: 1985
+- Articles: 12964
+- Sources: 1988
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: July 28, 2022 2:51 PM
+- End: July 28, 2022 3:39 PM
 
 ### Topics
 
