@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Jul 29, 2022 12:05 AM
+- Updated: Jul 29, 2022 1:05 AM
 
 ```
 {
-    "title": "Prepare yourselves: The next episode of Better Call Saul is titled \"Breaking Bad\"",
-    "domain": "avclub.com",
-    "category": "television",
-    "link": "https://www.avclub.com/the-next-episode-of-better-call-saul-is-titled-breakin-1849341004",
-    "timestamp": 1658989059,
-    "published": "July 28, 2022 2:17 AM"
+    "title": "Comcast stock falls as company fails to add Internet users for first time ever",
+    "domain": "arstechnica.com",
+    "category": "technology",
+    "link": "https://arstechnica.com/information-technology/2022/07/comcasts-20-year-streak-of-gaining-broadband-users-every-quarter-is-over/",
+    "timestamp": 1659068029,
+    "published": "July 29, 2022 12:13 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 13024
-- Sources: 1997
+- Articles: 13026
+- Sources: 1998
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: July 28, 2022 10:20 PM
+- End: July 29, 2022 12:19 AM
 
 ### Topics
 
