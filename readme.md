@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Jul 30, 2022 12:05 AM
+- Updated: Jul 30, 2022 1:05 AM
 
 ```
 {
-    "title": "Comcast stock falls as company fails to add Internet users for first time ever",
-    "domain": "arstechnica.com",
-    "category": "technology",
-    "link": "https://arstechnica.com/information-technology/2022/07/comcasts-20-year-streak-of-gaining-broadband-users-every-quarter-is-over/",
-    "timestamp": 1659068029,
-    "published": "July 29, 2022 12:13 AM"
+    "title": "In Wake of Roe v Wade, Canadians Becoming Firmer in Their Conviction for a Women’s Right to Choose",
+    "domain": "ipsos.com",
+    "category": "UpliftingNews",
+    "link": "https://www.ipsos.com/en-ca/news-polls/canadians-becoming-firmer-in-their-conviction-womens-right-to-choose",
+    "timestamp": 1659155129,
+    "published": "July 30, 2022 12:25 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 13196
-- Sources: 2019
+- Articles: 13197
+- Sources: 2020
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: July 29, 2022 10:13 PM
+- End: July 30, 2022 12:25 AM
 
 ### Topics
 
