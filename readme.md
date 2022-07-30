@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Jul 30, 2022 2:05 AM
+- Updated: Jul 30, 2022 3:05 AM
 
 ```
 {
-    "title": "China’s Army posts “Get ready for war!” message over US visit to Taiwan",
-    "domain": "euroweeklynews.com",
-    "category": "worldnews",
-    "link": "https://euroweeklynews.com/2022/07/29/chinas-army-posts-get-ready-for-war-message-over-us-visit-to-taiwan/",
-    "timestamp": 1659155821,
-    "published": "July 30, 2022 12:37 AM"
+    "title": "Carbon dating hampered by rising fossil-fuel emissions. As of 2021, the burning of fossil fuels has officially shifted the composition of carbon isotopes in the air of the Northern Hemisphere enough to cancel out a useful signal from nuclear-weapons testing.",
+    "domain": "nature.com",
+    "category": "science",
+    "link": "https://www.nature.com/articles/d41586-022-02057-4",
+    "timestamp": 1659157270,
+    "published": "July 30, 2022 1:01 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 13200
-- Sources: 2020
+- Articles: 13205
+- Sources: 2022
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: July 30, 2022 1:12 AM
+- End: July 30, 2022 2:14 AM
 
 ### Topics
 
