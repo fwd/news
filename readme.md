@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Jul 30, 2022 1:05 AM
+- Updated: Jul 30, 2022 2:05 AM
 
 ```
 {
-    "title": "In Wake of Roe v Wade, Canadians Becoming Firmer in Their Conviction for a Women’s Right to Choose",
-    "domain": "ipsos.com",
-    "category": "UpliftingNews",
-    "link": "https://www.ipsos.com/en-ca/news-polls/canadians-becoming-firmer-in-their-conviction-womens-right-to-choose",
-    "timestamp": 1659155129,
-    "published": "July 30, 2022 12:25 AM"
+    "title": "China’s Army posts “Get ready for war!” message over US visit to Taiwan",
+    "domain": "euroweeklynews.com",
+    "category": "worldnews",
+    "link": "https://euroweeklynews.com/2022/07/29/chinas-army-posts-get-ready-for-war-message-over-us-visit-to-taiwan/",
+    "timestamp": 1659155821,
+    "published": "July 30, 2022 12:37 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 13197
+- Articles: 13200
 - Sources: 2020
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: July 30, 2022 12:25 AM
+- End: July 30, 2022 1:12 AM
 
 ### Topics
 
