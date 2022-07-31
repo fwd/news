@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Jul 31, 2022 1:05 AM
+- Updated: Jul 31, 2022 2:05 AM
 
 ```
 {
-    "title": "U.S. Bank illegally used customer data to create sham accounts to inflate sales numbers for the last decade. Now they've been fined $37.5 million plus interest on unlawfully collected fees.",
-    "domain": "businessinsider.com",
-    "category": "technology",
-    "link": "https://www.businessinsider.com/us-bank-fined-375-million-for-illegally-using-customer-data-2022-7",
-    "timestamp": 1659165378,
-    "published": "July 30, 2022 3:16 AM"
+    "title": "California aims to make its own insulin brand to lower price",
+    "domain": "apnews.com",
+    "category": "news",
+    "link": "https://apnews.com/article/health-california-diabetes-government-and-politics-f846c58d4cb327578d1c7b3a9495d496",
+    "timestamp": 1659241590,
+    "published": "July 31, 2022 12:26 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 13351
-- Sources: 2039
+- Articles: 13357
+- Sources: 2040
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: July 30, 2022 9:44 PM
+- End: July 31, 2022 1:57 AM
 
 ### Topics
 
