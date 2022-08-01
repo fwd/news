@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Jul 31, 2022 10:05 PM
+- Updated: Jul 31, 2022 11:05 PM
 
 ```
 {
-    "title": "California aims to make its own insulin brand to lower price",
-    "domain": "apnews.com",
-    "category": "news",
-    "link": "https://apnews.com/article/health-california-diabetes-government-and-politics-f846c58d4cb327578d1c7b3a9495d496",
-    "timestamp": 1659241590,
-    "published": "July 31, 2022 12:26 AM"
+    "title": "Tommy Chong Jokes About Reuniting With ‘That ‘70s Show’ Cast for Netflix Spinoff ‘That ‘90s Show’: ‘I Like the Paycheck’",
+    "domain": "variety.com",
+    "category": "television",
+    "link": "https://variety.com/2022/film/columns/tommy-chong-that-70s-show-90s-1235327068/",
+    "timestamp": 1659244591,
+    "published": "July 31, 2022 1:16 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 13503
+- Articles: 13510
 - Sources: 2058
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: July 31, 2022 9:25 PM
+- End: July 31, 2022 9:47 PM
 
 ### Topics
 
