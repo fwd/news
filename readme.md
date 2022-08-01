@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Aug 1, 2022 12:05 AM
+- Updated: Aug 1, 2022 1:05 AM
 
 ```
 {
-    "title": "Tommy Chong Jokes About Reuniting With ‘That ‘70s Show’ Cast for Netflix Spinoff ‘That ‘90s Show’: ‘I Like the Paycheck’",
-    "domain": "variety.com",
+    "title": "AMC’s \"Dark Winds\" revels in antagonizing Mormons to the point where it almost seems like lazy misrepresentation. But after researching Native American history and the slavery that took place in Utah under the early Mormons, this project starts to look like overdue representation.",
+    "domain": "slashfilm.com",
     "category": "television",
-    "link": "https://variety.com/2022/film/columns/tommy-chong-that-70s-show-90s-1235327068/",
-    "timestamp": 1659244591,
-    "published": "July 31, 2022 1:16 AM"
+    "link": "https://www.slashfilm.com/871730/dark-winds-review-zahn-mcclarnon-leads-a-solid-cast-in-amcs-navajo-centric-foray-into-genre-thrills/",
+    "timestamp": 1659328380,
+    "published": "August 1, 2022 12:33 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 13510
+- Articles: 13511
 - Sources: 2058
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: July 31, 2022 9:47 PM
+- End: August 1, 2022 12:33 AM
 
 ### Topics
 
