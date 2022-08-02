@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Aug 1, 2022 11:05 PM
+- Updated: Aug 2, 2022 12:05 AM
 
 ```
 {
-    "title": "California aims to make its own insulin brand to lower price",
-    "domain": "apnews.com",
-    "category": "technology",
-    "link": "https://apnews.com/article/health-california-diabetes-government-and-politics-f846c58d4cb327578d1c7b3a9495d496",
-    "timestamp": 1659329206,
-    "published": "August 1, 2022 12:46 AM"
+    "title": "Check out Kayla Fields's video! #TikTok",
+    "domain": "tiktok.com",
+    "category": "miami",
+    "link": "https://www.tiktok.com/t/ZTRUeS5MR/?k=1",
+    "timestamp": 1659412803,
+    "published": "August 2, 2022 12:00 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 13692
+- Articles: 13693
 - Sources: 2073
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 1, 2022 10:58 PM
+- End: August 2, 2022 12:00 AM
 
 ### Topics
 
