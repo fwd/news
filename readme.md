@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Aug 2, 2022 12:05 AM
+- Updated: Aug 2, 2022 1:05 AM
 
 ```
 {
-    "title": "Check out Kayla Fields's video! #TikTok",
-    "domain": "tiktok.com",
-    "category": "miami",
-    "link": "https://www.tiktok.com/t/ZTRUeS5MR/?k=1",
-    "timestamp": 1659412803,
-    "published": "August 2, 2022 12:00 AM"
+    "title": "Trump Says Ukraine Should Have Done Deal With Putin",
+    "domain": "newsweek.com",
+    "category": "worldnews",
+    "link": "https://www.newsweek.com/trump-ukraine-deal-russia-putin-1729494",
+    "timestamp": 1659413848,
+    "published": "August 2, 2022 12:17 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 13693
-- Sources: 2073
+- Articles: 13695
+- Sources: 2074
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 2, 2022 12:00 AM
+- End: August 2, 2022 12:46 AM
 
 ### Topics
 
