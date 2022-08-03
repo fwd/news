@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Aug 3, 2022 5:05 PM
+- Updated: Aug 3, 2022 6:05 PM
 
 ```
 {
-    "title": "An NRA charity planned to raffle an AR-15 at a Texas event. Then Uvalde families protested and the group lost its site",
-    "domain": "cnn.com",
-    "category": "news",
-    "link": "https://www.cnn.com/2022/08/02/us/hondo-texas-nra-fundraiser/index.html",
-    "timestamp": 1659507768,
-    "published": "August 3, 2022 2:22 AM"
+    "title": "Exercising almost daily for up to an hour at a low/mid intensity (50-70% heart rate, walking/jogging/cycling) helps reduce fat and lose weight (permanently), restores the body's fat balance and has other health benefits related to the body's fat and sugar",
+    "domain": "mdpi.com",
+    "category": "science",
+    "link": "https://www.mdpi.com/2072-6643/14/8/1605/htm",
+    "timestamp": 1659516681,
+    "published": "August 3, 2022 4:51 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 14011
+- Articles: 14020
 - Sources: 2111
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 3, 2022 4:39 PM
+- End: August 3, 2022 5:43 PM
 
 ### Topics
 
