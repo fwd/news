@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Aug 3, 2022 12:05 PM
+- Updated: Aug 3, 2022 1:05 PM
 
 ```
 {
-    "title": "China Imposes Economic Curbs on Taiwan With Sand, Fruit Bans",
-    "domain": "news.yahoo.com",
-    "category": "worldnews",
-    "link": "https://news.yahoo.com/china-unleashes-economic-curbs-taiwan-012220241.html",
-    "timestamp": 1659500300,
-    "published": "August 3, 2022 12:18 AM"
+    "title": "Police: McDonald's employee shot by son of customer served cold fries",
+    "domain": "cbsnews.com",
+    "category": "nottheonion",
+    "link": "https://www.cbsnews.com/newyork/video/police-mcdonalds-employee-shot-by-son-of-customer-served-cold-fries/",
+    "timestamp": 1659506827,
+    "published": "August 3, 2022 2:07 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 13957
-- Sources: 2104
+- Articles: 13969
+- Sources: 2106
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 3, 2022 11:30 AM
+- End: August 3, 2022 12:53 PM
 
 ### Topics
 
