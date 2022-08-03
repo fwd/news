@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Aug 3, 2022 3:05 PM
+- Updated: Aug 3, 2022 4:05 PM
 
 ```
 {
-    "title": "Police: McDonald's employee shot by son of customer served cold fries",
-    "domain": "cbsnews.com",
-    "category": "nottheonion",
-    "link": "https://www.cbsnews.com/newyork/video/police-mcdonalds-employee-shot-by-son-of-customer-served-cold-fries/",
-    "timestamp": 1659506827,
-    "published": "August 3, 2022 2:07 AM"
+    "title": "An NRA charity planned to raffle an AR-15 at a Texas event. Then Uvalde families protested and the group lost its site",
+    "domain": "cnn.com",
+    "category": "news",
+    "link": "https://www.cnn.com/2022/08/02/us/hondo-texas-nra-fundraiser/index.html",
+    "timestamp": 1659507768,
+    "published": "August 3, 2022 2:22 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 13987
+- Articles: 13998
 - Sources: 2111
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 3, 2022 2:01 PM
+- End: August 3, 2022 3:22 PM
 
 ### Topics
 
