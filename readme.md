@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Aug 4, 2022 11:05 AM
+- Updated: Aug 4, 2022 12:05 PM
 
 ```
 {
-    "title": "Zelensky says he wants to talk about Russian invasion with China’s Xi directly",
-    "domain": "thehill.com",
-    "category": "ukraine",
-    "link": "https://thehill.com/policy/international/3587329-zelensky-says-he-wants-to-talk-about-russian-invasion-with-chinas-xi-directly/",
-    "timestamp": 1659585607,
-    "published": "August 4, 2022 12:00 AM"
+    "title": "Lauren Boebert challenger Adam Frisch says new poll shows him within striking distance for a seat in Congress",
+    "domain": "denverpost.com",
+    "category": "politics",
+    "link": "https://www.denverpost.com/2022/08/03/lauren-boebert-adam-frisch-poll-colorado/",
+    "timestamp": 1659589024,
+    "published": "August 4, 2022 12:57 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 14113
-- Sources: 2119
+- Articles: 14134
+- Sources: 2122
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 4, 2022 10:56 AM
+- End: August 4, 2022 11:59 AM
 
 ### Topics
 
