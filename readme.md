@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Aug 5, 2022 2:05 PM
+- Updated: Aug 5, 2022 3:05 PM
 
 ```
 {
-    "title": "US, Japan reaching for a 2-nm chip breakthrough",
-    "domain": "asiatimes.com",
-    "category": "technology",
-    "link": "https://asiatimes.com/2022/08/us-japan-reaching-for-a-2-nm-chip-breakthrough/",
-    "timestamp": 1659675025,
-    "published": "August 5, 2022 12:50 AM"
+    "title": "Sebastian Vettel ‘Annoyed’ Ferrari, According To Former Press Officer - Ten Pieces of Eight",
+    "domain": "tenpiecesofeight.com",
+    "category": "sports",
+    "link": "https://tenpiecesofeight.com/2022/08/05/sebastian-vettel-annoyed-ferrari-according-to-former-press-officer/",
+    "timestamp": 1659675619,
+    "published": "August 5, 2022 1:00 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 14333
-- Sources: 2142
+- Articles: 14340
+- Sources: 2143
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 5, 2022 1:16 PM
+- End: August 5, 2022 2:10 PM
 
 ### Topics
 
