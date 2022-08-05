@@ -3,22 +3,22 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Aug 5, 2022 2:05 AM
+- Updated: Aug 5, 2022 3:05 AM
 
 ```
 {
-    "title": "Kentucky Noah's Ark sues insurance company over damage caused by heavy rains",
-    "domain": "cbsnews.com",
+    "title": "Police: Tesla driver using Snapchat clocked at 118mph in 25mph zone",
+    "domain": "fox19.com",
     "category": "nottheonion",
-    "link": "https://www.cbsnews.com/news/kentucky-noahs-ark-encounter-sues-insurance-company-over-heavy-rain-damage/",
-    "timestamp": 1659672792,
-    "published": "August 5, 2022 12:13 AM"
+    "link": "https://www.fox19.com/2022/08/05/police-tesla-driver-clocked-118-25-mph-zone-while-snapchat/",
+    "timestamp": 1659672466,
+    "published": "August 5, 2022 12:07 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 14236
+- Articles: 14238
 - Sources: 2138
 - Categories: 13
 
