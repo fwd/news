@@ -3,23 +3,23 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Aug 4, 2022 8:05 PM
+- Updated: Aug 4, 2022 9:05 PM
 
 ```
 {
-    "title": "DeSantis says monkeypox concern overblown: ‘We are not doing fear’ | The Hill",
-    "domain": "thehill.com",
-    "category": "florida",
-    "link": "https://thehill.com/homenews/state-watch/3587138-desantis-says-monkeypox-concern-overblown-we-are-not-doing-fear/",
-    "timestamp": 1659592503,
-    "published": "August 4, 2022 1:55 AM"
+    "title": "PLA forces encircle Taiwan as China begins live-fire drills",
+    "domain": "cnn.com",
+    "category": "worldnews",
+    "link": "https://www.cnn.com/2022/08/04/asia/china-taiwan-military-exercises-intl-hnk-ml/index.html",
+    "timestamp": 1659599323,
+    "published": "August 4, 2022 3:48 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 14212
-- Sources: 2135
+- Articles: 14219
+- Sources: 2136
 - Categories: 13
 
 ### Timespan
