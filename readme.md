@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Aug 6, 2022 1:05 AM
+- Updated: Aug 6, 2022 2:05 AM
 
 ```
 {
-    "title": "NASCAR driver Kyle Busch, family escape shooting at Mall of America in Minnesota.",
-    "domain": "espn.com",
-    "category": "sports",
-    "link": "https://www.espn.com/racing/nascar/story/_/id/34349220/nascar-driver-kyle-busch-family-escape-shooting-mall-america-minnesota",
-    "timestamp": 1659677311,
-    "published": "August 5, 2022 1:28 AM"
+    "title": "Scientist admits 'space telescope image' was actually a slice of chorizo",
+    "domain": "cnn.com",
+    "category": "science",
+    "link": "https://www.cnn.com/2022/08/05/europe/scientist-space-image-chorizo-intl-scli-scn/",
+    "timestamp": 1659760753,
+    "published": "August 6, 2022 12:39 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 14402
+- Articles: 14404
 - Sources: 2149
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 5, 2022 9:29 PM
+- End: August 6, 2022 12:58 AM
 
 ### Topics
 
