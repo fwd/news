@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Aug 6, 2022 5:05 PM
+- Updated: Aug 6, 2022 6:05 PM
 
 ```
 {
-    "title": "Pentagon chiefs’ calls to China go unanswered amid Taiwan crisis",
-    "domain": "politico.com",
-    "category": "worldnews",
-    "link": "https://www.politico.com/news/2022/08/05/pentagon-china-calls-taiwan-00050175",
-    "timestamp": 1659759106,
-    "published": "August 6, 2022 12:11 AM"
+    "title": "Russia has stopped concealing the fact that it is forming a 15 500-person-strong 3rd Army Corps to be deployed in Ukraine, staffed with male servicemen aged 18 to 50 without prior military experience.",
+    "domain": "ukrinform.net",
+    "category": "ukraine",
+    "link": "https://www.ukrinform.net/rubric-ato/3544612-russia-forming-3rd-army-corps-for-war-in-ukraine-isw.html",
+    "timestamp": 1659767792,
+    "published": "August 6, 2022 2:36 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 14513
-- Sources: 2160
+- Articles: 14524
+- Sources: 2162
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 6, 2022 4:44 PM
+- End: August 6, 2022 5:27 PM
 
 ### Topics
 
