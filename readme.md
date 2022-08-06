@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Aug 5, 2022 7:05 PM
+- Updated: Aug 5, 2022 8:05 PM
 
 ```
 {
-    "title": "The Sandman review – Neil Gaiman has created 2022’s single greatest hour of TV drama",
-    "domain": "theguardian.com",
-    "category": "television",
-    "link": "https://www.theguardian.com/tv-and-radio/2022/aug/05/the-sandman-review-neil-gaiman-has-created-2022s-single-greatest-hour-of-tv-drama",
-    "timestamp": 1659676107,
-    "published": "August 5, 2022 1:08 AM"
+    "title": "NASCAR driver Kyle Busch, family escape shooting at Mall of America in Minnesota.",
+    "domain": "espn.com",
+    "category": "sports",
+    "link": "https://www.espn.com/racing/nascar/story/_/id/34349220/nascar-driver-kyle-busch-family-escape-shooting-mall-america-minnesota",
+    "timestamp": 1659677311,
+    "published": "August 5, 2022 1:28 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 14375
+- Articles: 14386
 - Sources: 2148
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 5, 2022 6:16 PM
+- End: August 5, 2022 7:27 PM
 
 ### Topics
 
