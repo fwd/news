@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Aug 7, 2022 12:05 AM
+- Updated: Aug 7, 2022 1:05 AM
 
 ```
 {
-    "title": "A Florida school district added a parental 'advisory notice' to over 100 books",
-    "domain": "nbcnews.com",
+    "title": "Is the Cracker Barrel menu getting 'woke'? Meat eaters rage on Facebook over addition of Impossible sausage",
+    "domain": "usatoday.com",
     "category": "nottheonion",
-    "link": "https://www.nbcnews.com/nbc-out/out-news/florida-school-district-added-parental-advisory-notice-100-books-rcna41779",
-    "timestamp": 1659761423,
-    "published": "August 6, 2022 12:50 AM"
+    "link": "https://www.usatoday.com/story/money/retail/2022/08/04/cracker-barrel-menu-impossible-sausage-woke/10242596002/",
+    "timestamp": 1659845115,
+    "published": "August 7, 2022 12:05 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 14556
+- Articles: 14558
 - Sources: 2167
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 6, 2022 10:17 PM
+- End: August 7, 2022 12:46 AM
 
 ### Topics
 
