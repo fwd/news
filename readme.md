@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Aug 7, 2022 6:05 PM
+- Updated: Aug 7, 2022 7:05 PM
 
 ```
 {
-    "title": "Rays pitching coach injured on visit to mound",
-    "domain": "apnews.com",
+    "title": "Pythons are eating alligators and everything else in Florida. Snake hunters stand poised to help.",
+    "domain": "nbcnews.com",
     "category": "nottheonion",
-    "link": "https://apnews.com/article/mlb-sports-detroit-tigers-baseball-66c6b7f698a4da4cf3a884ef34e1ab8b",
-    "timestamp": 1659845891,
-    "published": "August 7, 2022 12:18 AM"
+    "link": "https://www.nbcnews.com/news/us-news/pythons-are-eating-alligators-everything-else-florida-snake-hunters-st-rcna36222",
+    "timestamp": 1659847568,
+    "published": "August 7, 2022 12:46 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 14673
-- Sources: 2186
+- Articles: 14680
+- Sources: 2188
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 7, 2022 5:32 PM
+- End: August 7, 2022 6:57 PM
 
 ### Topics
 
