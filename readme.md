@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Aug 7, 2022 12:05 PM
+- Updated: Aug 7, 2022 1:05 PM
 
 ```
 {
-    "title": "Candidate Suspected Of Being QAnon's 'Q' Badly Loses Congressional Primary",
-    "domain": "huffpost.com",
-    "category": "politics",
-    "link": "https://www.huffpost.com/entry/ron-watkins-qanon-primary_n_62ea9fa4e4b0c550161664c0",
-    "timestamp": 1659844826,
-    "published": "August 7, 2022 12:00 AM"
+    "title": "Pythons are eating alligators and everything else in Florida. Snake hunters stand poised to help.",
+    "domain": "nbcnews.com",
+    "category": "nottheonion",
+    "link": "https://www.nbcnews.com/news/us-news/pythons-are-eating-alligators-everything-else-florida-snake-hunters-st-rcna36222",
+    "timestamp": 1659847568,
+    "published": "August 7, 2022 12:46 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 14632
-- Sources: 2181
+- Articles: 14640
+- Sources: 2184
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 7, 2022 11:57 AM
+- End: August 7, 2022 12:59 PM
 
 ### Topics
 
