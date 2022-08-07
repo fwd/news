@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Aug 6, 2022 9:05 PM
+- Updated: Aug 6, 2022 10:05 PM
 
 ```
 {
-    "title": "Russia has stopped concealing the fact that it is forming a 15 500-person-strong 3rd Army Corps to be deployed in Ukraine, staffed with male servicemen aged 18 to 50 without prior military experience.",
-    "domain": "ukrinform.net",
-    "category": "ukraine",
-    "link": "https://www.ukrinform.net/rubric-ato/3544612-russia-forming-3rd-army-corps-for-war-in-ukraine-isw.html",
-    "timestamp": 1659767792,
-    "published": "August 6, 2022 2:36 AM"
+    "title": "A Florida school district added a parental 'advisory notice' to over 100 books",
+    "domain": "nbcnews.com",
+    "category": "nottheonion",
+    "link": "https://www.nbcnews.com/nbc-out/out-news/florida-school-district-added-parental-advisory-notice-100-books-rcna41779",
+    "timestamp": 1659761423,
+    "published": "August 6, 2022 12:50 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 14544
+- Articles: 14551
 - Sources: 2166
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 6, 2022 8:01 PM
+- End: August 6, 2022 9:16 PM
 
 ### Topics
 
