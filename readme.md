@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Aug 8, 2022 7:05 PM
+- Updated: Aug 8, 2022 8:05 PM
 
 ```
 {
-    "title": "Shouldering the weight of four million women: PNG elects its first female MP in a decade",
-    "domain": "theguardian.com",
-    "category": "UpliftingNews",
-    "link": "https://www.theguardian.com/world/2022/aug/08/shouldering-the-weight-of-four-million-women-png-elects-its-first-female-mp-in-a-decade",
-    "timestamp": 1659936530,
-    "published": "August 8, 2022 1:28 AM"
+    "title": "The police of Latvia will no longer guard Russian consulates. The country has recognized the diplomatic staff of the Russian consulates as undesirable persons.",
+    "domain": "odessa-journal.com",
+    "category": "worldnews",
+    "link": "https://odessa-journal.com/the-police-will-no-longer-guard-the-consulates-of-the-russian-federation-in-latvia/",
+    "timestamp": 1659932030,
+    "published": "August 8, 2022 12:13 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 14862
+- Articles: 14871
 - Sources: 2208
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 8, 2022 6:50 PM
+- End: August 8, 2022 7:40 PM
 
 ### Topics
 
