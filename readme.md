@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Aug 9, 2022 12:05 AM
+- Updated: Aug 9, 2022 1:05 AM
 
 ```
 {
-    "title": "Shouldering the weight of four million women: PNG elects its first female MP in a decade",
-    "domain": "theguardian.com",
+    "title": "The plans for giant seaweed farms in European waters",
+    "domain": "bbc.com",
     "category": "UpliftingNews",
-    "link": "https://www.theguardian.com/world/2022/aug/08/shouldering-the-weight-of-four-million-women-png-elects-its-first-female-mp-in-a-decade",
-    "timestamp": 1659936530,
-    "published": "August 8, 2022 1:28 AM"
+    "link": "https://www.bbc.com/news/business-62407504",
+    "timestamp": 1660019313,
+    "published": "August 9, 2022 12:28 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 14887
+- Articles: 14888
 - Sources: 2213
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 8, 2022 10:19 PM
+- End: August 9, 2022 12:28 AM
 
 ### Topics
 
