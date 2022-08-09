@@ -3,22 +3,22 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Aug 9, 2022 3:05 AM
+- Updated: Aug 9, 2022 4:05 AM
 
 ```
 {
-    "title": "The plans for giant seaweed farms in European waters",
-    "domain": "bbc.com",
-    "category": "UpliftingNews",
-    "link": "https://www.bbc.com/news/business-62407504",
-    "timestamp": 1660019313,
-    "published": "August 9, 2022 12:28 AM"
+    "title": "U.S. to send Ukraine $5.5 billion in new fiscal, military aid",
+    "domain": "reuters.com",
+    "category": "worldnews",
+    "link": "https://www.reuters.com/world/europe/exclusive-us-send-45-billion-more-ukraine-budget-needs-2022-08-08/",
+    "timestamp": 1660017975,
+    "published": "August 9, 2022 12:06 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 14894
+- Articles: 14896
 - Sources: 2214
 - Categories: 13
 
