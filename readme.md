@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Aug 10, 2022 9:05 AM
+- Updated: Aug 10, 2022 10:05 AM
 
 ```
 {
-    "title": "Domino's Pizza quits Italy after 7 years as locals shun American pies",
-    "domain": "business-standard.com",
-    "category": "worldnews",
-    "link": "https://www.business-standard.com/article/international/domino-s-pizza-quits-italy-after-7-years-as-locals-shun-american-pies-122080901563_1.html?utm_source=SEO&utm_medium=ST",
-    "timestamp": 1660105508,
-    "published": "August 10, 2022 12:25 AM"
+    "title": "Being gay is not a disease, Vietnam tells its medical workers in bid to end anti-LGBTQ discrimination",
+    "domain": "cbsnews.com",
+    "category": "UpliftingNews",
+    "link": "https://www.cbsnews.com/news/vietnam-being-gay-not-disease-medical-workers-told-lgbtq-discrimination/",
+    "timestamp": 1660105802,
+    "published": "August 10, 2022 12:30 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 15109
-- Sources: 2237
+- Articles: 15122
+- Sources: 2238
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 10, 2022 8:37 AM
+- End: August 10, 2022 9:10 AM
 
 ### Topics
 
