@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Aug 10, 2022 1:05 AM
+- Updated: Aug 10, 2022 2:05 AM
 
 ```
 {
-    "title": "Being gay is not a disease, Vietnam tells its medical workers in bid to end anti-LGBTQ discrimination",
-    "domain": "cbsnews.com",
+    "title": "A vaccine for Lyme disease is in its final clinical trial",
+    "domain": "npr.org",
     "category": "UpliftingNews",
-    "link": "https://www.cbsnews.com/news/vietnam-being-gay-not-disease-medical-workers-told-lgbtq-discrimination/",
-    "timestamp": 1660105802,
-    "published": "August 10, 2022 12:30 AM"
+    "link": "https://www.npr.org/2022/08/09/1116500921/lyme-disease-vaccine-final-clinical-trial-phase",
+    "timestamp": 1660105657,
+    "published": "August 10, 2022 12:27 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 15073
+- Articles: 15074
 - Sources: 2235
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 10, 2022 1:03 AM
+- End: August 10, 2022 1:19 AM
 
 ### Topics
 
