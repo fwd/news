@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**5MB**
-- Updated: Aug 10, 2022 3:05 AM
+- Updated: Aug 10, 2022 4:05 AM
 
 ```
 {
-    "title": "Lawson Criterion for Ignition Exceeded in an Inertial Fusion Experiment",
-    "domain": "dx.doi.org",
-    "category": "science",
-    "link": "https://dx.doi.org/10.1103/PhysRevLett.129.075001",
-    "timestamp": 1660104866,
-    "published": "August 10, 2022 12:14 AM"
+    "title": "A vaccine for Lyme disease is in its final clinical trial",
+    "domain": "npr.org",
+    "category": "UpliftingNews",
+    "link": "https://www.npr.org/2022/08/09/1116500921/lyme-disease-vaccine-final-clinical-trial-phase",
+    "timestamp": 1660105657,
+    "published": "August 10, 2022 12:27 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 15076
+- Articles: 15078
 - Sources: 2235
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 10, 2022 2:13 AM
+- End: August 10, 2022 3:40 AM
 
 ### Topics
 
