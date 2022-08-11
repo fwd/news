@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 10, 2022 9:05 PM
+- Updated: Aug 10, 2022 10:05 PM
 
 ```
 {
-    "title": "Being gay is not a disease, Vietnam tells its medical workers in bid to end anti-LGBTQ discrimination",
-    "domain": "cbsnews.com",
-    "category": "UpliftingNews",
-    "link": "https://www.cbsnews.com/news/vietnam-being-gay-not-disease-medical-workers-told-lgbtq-discrimination/",
-    "timestamp": 1660105802,
-    "published": "August 10, 2022 12:30 AM"
+    "title": "Drones that fly packages straight to people’s doors could be an environmentally friendly alternative to conventional modes of transportation.Greenhouse-gas emissions per parcel were 84% lower for drones than for diesel trucks.Drones also consumed up to 94% less energy per parcel than did the trucks.",
+    "domain": "nature.com",
+    "category": "science",
+    "link": "https://www.nature.com/articles/d41586-022-02101-3",
+    "timestamp": 1660114883,
+    "published": "August 10, 2022 3:01 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 15246
-- Sources: 2251
+- Articles: 15257
+- Sources: 2255
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 10, 2022 7:51 PM
+- End: August 10, 2022 9:28 PM
 
 ### Topics
 
