@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 11, 2022 8:05 AM
+- Updated: Aug 11, 2022 9:05 AM
 
 ```
 {
-    "title": "Zelenskyy: Russian occupiers sense it’s time to flee Kherson",
-    "domain": "pravda.com.ua",
-    "category": "ukraine",
-    "link": "https://www.pravda.com.ua/eng/news/2022/08/10/7362740/",
-    "timestamp": 1660190869,
-    "published": "August 11, 2022 12:07 AM"
+    "title": "Conservative dating site backed by Peter Thiel announces launch next month",
+    "domain": "thehill.com",
+    "category": "nottheonion",
+    "link": "https://thehill.com/policy/technology/3596598-conservative-dating-site-backed-by-peter-thiel-announces-launch-next-month/",
+    "timestamp": 1660191947,
+    "published": "August 11, 2022 12:25 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 15288
+- Articles: 15298
 - Sources: 2258
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 11, 2022 7:06 AM
+- End: August 11, 2022 8:17 AM
 
 ### Topics
 
