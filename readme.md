@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 11, 2022 1:05 AM
+- Updated: Aug 11, 2022 2:05 AM
 
 ```
 {
-    "title": "Metas chatbot says the company exploits people",
-    "domain": "bbc.com",
-    "category": "nottheonion",
-    "link": "https://www.bbc.com/news/technology-62497674",
-    "timestamp": 1660190740,
-    "published": "August 11, 2022 12:05 AM"
+    "title": "Disney surpasses Netflix in global paid streaming subscribers",
+    "domain": "axios.com",
+    "category": "television",
+    "link": "https://www.axios.com/2022/08/10/disney-surpasses-netflix-global-paid-subscribers",
+    "timestamp": 1660190488,
+    "published": "August 11, 2022 12:01 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 15264
-- Sources: 2255
+- Articles: 15267
+- Sources: 2256
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 11, 2022 12:25 AM
+- End: August 11, 2022 12:43 AM
 
 ### Topics
 
