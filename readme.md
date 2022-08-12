@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 12, 2022 1:05 AM
+- Updated: Aug 12, 2022 2:05 AM
 
 ```
 {
-    "title": "How (and Why) Neil Gaiman Finally Adapted ‘The Sandman’ for TV ‘After Three Decades of Stopping Bad’ Versions",
-    "domain": "variety.com",
+    "title": "Jon Batiste Exits Late Show With Stephen Colbert as Bandleader After 7 Seasons",
+    "domain": "pitchfork.com",
     "category": "television",
-    "link": "https://variety.com/2022/tv/features/the-sandman-premiere-preview-neil-gaiman-interview-1235328771/",
-    "timestamp": 1660197297,
-    "published": "August 11, 2022 1:54 AM"
+    "link": "https://pitchfork.com/news/jon-batiste-exits-late-show-with-stephen-colbert-as-bandleader-after-7-seasons/",
+    "timestamp": 1660278696,
+    "published": "August 12, 2022 12:31 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 15434
+- Articles: 15438
 - Sources: 2268
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 11, 2022 10:24 PM
+- End: August 12, 2022 1:28 AM
 
 ### Topics
 
