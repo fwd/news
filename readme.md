@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 12, 2022 12:05 PM
+- Updated: Aug 12, 2022 1:05 PM
 
 ```
 {
-    "title": "Jon Batiste Exits Late Show With Stephen Colbert as Bandleader After 7 Seasons",
-    "domain": "pitchfork.com",
-    "category": "television",
-    "link": "https://pitchfork.com/news/jon-batiste-exits-late-show-with-stephen-colbert-as-bandleader-after-7-seasons/",
-    "timestamp": 1660278696,
-    "published": "August 12, 2022 12:31 AM"
+    "title": "The heir and de facto leader of Samsung group received a presidential pardon Friday, the latest example of South Korea's long tradition of freeing business leaders convicted of corruption on economic grounds",
+    "domain": "france24.com",
+    "category": "worldnews",
+    "link": "https://www.france24.com/en/live-news/20220812-south-korea-pardons-samsung-boss-to-help-the-economy",
+    "timestamp": 1660278094,
+    "published": "August 12, 2022 12:21 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 15503
-- Sources: 2274
+- Articles: 15519
+- Sources: 2277
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 12, 2022 11:26 AM
+- End: August 12, 2022 1:04 PM
 
 ### Topics
 
