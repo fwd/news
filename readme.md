@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 13, 2022 4:05 PM
+- Updated: Aug 13, 2022 5:05 PM
 
 ```
 {
-    "title": "‘The entire protein universe’: AI predicts shape of nearly every known protein",
-    "domain": "nature.com",
-    "category": "technology",
-    "link": "https://www.nature.com/articles/d41586-022-02083-2",
-    "timestamp": 1660371549,
-    "published": "August 13, 2022 2:19 AM"
+    "title": "WHO warns people not to attack monkeys amid monkeypox outbreak",
+    "domain": "nbcnews.com",
+    "category": "nottheonion",
+    "link": "https://www.nbcnews.com/news/world/who-warns-do-not-attack-monkeys-monkeypox-rcna42433",
+    "timestamp": 1660371674,
+    "published": "August 13, 2022 2:21 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 15709
+- Articles: 15722
 - Sources: 2295
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 13, 2022 3:35 PM
+- End: August 13, 2022 5:03 PM
 
 ### Topics
 
