@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 13, 2022 1:05 PM
+- Updated: Aug 13, 2022 2:05 PM
 
 ```
 {
-    "title": "Breitbart slammed for doxxing FBI agents involved in Mar-a-Lago raid",
-    "domain": "newsweek.com",
-    "category": "politics",
-    "link": "https://www.newsweek.com/breitbart-slammed-doxxing-fbi-agents-involved-mar-lago-raid-1733401",
-    "timestamp": 1660364761,
-    "published": "August 13, 2022 12:26 AM"
+    "title": "‘The entire protein universe’: AI predicts shape of nearly every known protein",
+    "domain": "nature.com",
+    "category": "technology",
+    "link": "https://www.nature.com/articles/d41586-022-02083-2",
+    "timestamp": 1660371549,
+    "published": "August 13, 2022 2:19 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 15683
-- Sources: 2293
+- Articles: 15695
+- Sources: 2295
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 13, 2022 12:30 PM
+- End: August 13, 2022 1:56 PM
 
 ### Topics
 
