@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 13, 2022 5:05 AM
+- Updated: Aug 13, 2022 6:05 AM
 
 ```
 {
-    "title": "Breitbart slammed for doxxing FBI agents involved in Mar-a-Lago raid",
-    "domain": "newsweek.com",
-    "category": "politics",
-    "link": "https://www.newsweek.com/breitbart-slammed-doxxing-fbi-agents-involved-mar-lago-raid-1733401",
-    "timestamp": 1660364761,
-    "published": "August 13, 2022 12:26 AM"
+    "title": "Mother and daughter charged over teen's abortion after Facebook was ordered to turn over their chats",
+    "domain": "nbcnews.com",
+    "category": "technology",
+    "link": "https://www.nbcnews.com/tech/tech-news/facebook-turned-chat-messages-mother-daughter-now-charged-abortion-rcna42185",
+    "timestamp": 1660364385,
+    "published": "August 13, 2022 12:19 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 15620
+- Articles: 15623
 - Sources: 2285
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 13, 2022 3:45 AM
+- End: August 13, 2022 4:16 AM
 
 ### Topics
 
