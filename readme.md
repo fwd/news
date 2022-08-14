@@ -3,23 +3,23 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 14, 2022 4:05 AM
+- Updated: Aug 14, 2022 5:05 AM
 
 ```
 {
-    "title": "'We Were Nothing To Them': Russian Volunteer Reservists Return From War Against Ukraine Feeling Deceived",
-    "domain": "rferl.org",
+    "title": "Russia confirms it seeks convicted arms dealer in potential prisoner swap for WNBA star Brittney Griner",
+    "domain": "cbssports.com",
     "category": "worldnews",
-    "link": "https://www.rferl.org/a/russia-volunteers-ukraine-treatment-minimal-training-war/31985377.html",
-    "timestamp": 1660450189,
-    "published": "August 14, 2022 12:09 AM"
+    "link": "https://www.cbssports.com/wnba/news/russia-confirms-it-seeks-convicted-arms-dealer-in-potential-prisoner-swap-for-wnba-star-brittney-griner/",
+    "timestamp": 1660451067,
+    "published": "August 14, 2022 12:24 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 15777
-- Sources: 2297
+- Articles: 15782
+- Sources: 2298
 - Categories: 13
 
 ### Timespan
