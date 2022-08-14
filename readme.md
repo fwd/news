@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 14, 2022 12:05 PM
+- Updated: Aug 14, 2022 1:05 PM
 
 ```
 {
-    "title": "Russian forces complain of low-quality equipment in new video",
-    "domain": "english.nv.ua",
+    "title": "Russia confirms it seeks convicted arms dealer in potential prisoner swap for WNBA star Brittney Griner",
+    "domain": "cbssports.com",
     "category": "worldnews",
-    "link": "https://english.nv.ua/nation/russia-proxy-fighters-complain-of-low-equipment-quality-russia-military-news-50262831.html",
-    "timestamp": 1660450683,
-    "published": "August 14, 2022 12:18 AM"
+    "link": "https://www.cbssports.com/wnba/news/russia-confirms-it-seeks-convicted-arms-dealer-in-potential-prisoner-swap-for-wnba-star-brittney-griner/",
+    "timestamp": 1660451067,
+    "published": "August 14, 2022 12:24 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 15836
-- Sources: 2302
+- Articles: 15846
+- Sources: 2305
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 14, 2022 11:55 AM
+- End: August 14, 2022 12:45 PM
 
 ### Topics
 
