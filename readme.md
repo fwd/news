@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 14, 2022 9:05 PM
+- Updated: Aug 14, 2022 10:05 PM
 
 ```
 {
-    "title": "Armed trump supporters outside Phoenix FBI building",
-    "domain": "cnn.com",
-    "category": "news",
-    "link": "https://www.cnn.com/videos/politics/2022/08/14/phoenix-fbi-trump-supporters-armed-mar-a-lago-search-vpx.cnn",
-    "timestamp": 1660457476,
-    "published": "August 14, 2022 2:11 AM"
+    "title": "San Diego Padres manager Bob Melvin said Fernando Tatis Jr. 'remorseful' about PED ban.",
+    "domain": "espn.com",
+    "category": "sports",
+    "link": "https://www.espn.com/mlb/story/_/id/34395715/san-diego-padres-manager-melvin-says-fernando-tatis-remorseful-ped-ban",
+    "timestamp": 1660461530,
+    "published": "August 14, 2022 3:18 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 15917
+- Articles: 15922
 - Sources: 2316
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 14, 2022 9:00 PM
+- End: August 14, 2022 9:45 PM
 
 ### Topics
 
