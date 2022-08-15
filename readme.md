@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 15, 2022 12:05 AM
+- Updated: Aug 15, 2022 1:05 AM
 
 ```
 {
-    "title": "San Diego Padres manager Bob Melvin said Fernando Tatis Jr. 'remorseful' about PED ban.",
-    "domain": "espn.com",
-    "category": "sports",
-    "link": "https://www.espn.com/mlb/story/_/id/34395715/san-diego-padres-manager-melvin-says-fernando-tatis-remorseful-ped-ban",
-    "timestamp": 1660461530,
-    "published": "August 14, 2022 3:18 AM"
+    "title": "Visitors to the Milwaukee County Zoo watched the live birth of a baby giraffe",
+    "domain": "npr.org",
+    "category": "UpliftingNews",
+    "link": "https://www.npr.org/2022/08/10/1116860059/zoo-visitors-witness-birth-of-a-giraffe-baby-milwaukee",
+    "timestamp": 1660536205,
+    "published": "August 15, 2022 12:03 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 15928
-- Sources: 2316
+- Articles: 15930
+- Sources: 2317
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 14, 2022 10:04 PM
+- End: August 15, 2022 12:34 AM
 
 ### Topics
 
