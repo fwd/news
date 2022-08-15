@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 15, 2022 1:05 PM
+- Updated: Aug 15, 2022 2:05 PM
 
 ```
 {
-    "title": "Vladimir Putin and Kim Jong Un exchange letters suggesting the pair form closer ties against 'hostile military forces' | World News",
-    "domain": "news.sky.com",
-    "category": "news",
-    "link": "https://news.sky.com/story/vladimir-putin-and-kim-jong-un-exchange-letters-suggesting-the-pair-form-closer-ties-against-hostile-military-forces-12673422",
-    "timestamp": 1660539465,
-    "published": "August 15, 2022 12:57 AM"
+    "title": "Visitors to the Milwaukee County Zoo watched the live birth of a baby giraffe",
+    "domain": "npr.org",
+    "category": "UpliftingNews",
+    "link": "https://www.npr.org/2022/08/10/1116860059/zoo-visitors-witness-birth-of-a-giraffe-baby-milwaukee",
+    "timestamp": 1660536205,
+    "published": "August 15, 2022 12:03 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 16008
-- Sources: 2322
+- Articles: 16019
+- Sources: 2325
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 15, 2022 12:21 PM
+- End: August 15, 2022 1:43 PM
 
 ### Topics
 
