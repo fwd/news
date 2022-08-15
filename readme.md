@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 15, 2022 3:05 PM
+- Updated: Aug 15, 2022 4:05 PM
 
 ```
 {
-    "title": "Visitors to the Milwaukee County Zoo watched the live birth of a baby giraffe",
+    "title": "Freya the walrus drew crowds of fans. And that's why Norway decided to euthanize her",
     "domain": "npr.org",
-    "category": "UpliftingNews",
-    "link": "https://www.npr.org/2022/08/10/1116860059/zoo-visitors-witness-birth-of-a-giraffe-baby-milwaukee",
-    "timestamp": 1660536205,
-    "published": "August 15, 2022 12:03 AM"
+    "category": "nottheonion",
+    "link": "https://www.npr.org/2022/08/14/1117442197/norway-euthanize-walrus-freya-oslo",
+    "timestamp": 1660540139,
+    "published": "August 15, 2022 1:08 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 16031
-- Sources: 2325
+- Articles: 16040
+- Sources: 2326
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 15, 2022 2:55 PM
+- End: August 15, 2022 3:38 PM
 
 ### Topics
 
