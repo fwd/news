@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 16, 2022 2:05 PM
+- Updated: Aug 16, 2022 3:05 PM
 
 ```
 {
-    "title": "Colorful solar panels could make the technology more attractive. Scientists sprayed a thin layer of photonic glass onto the surfaces of solar cells & created solar panels that took on blue, green and purple hues while only dropping the efficiency of power generation from 22.6% to 21.5%.",
-    "domain": "acs.org",
-    "category": "science",
-    "link": "https://www.acs.org/content/acs/en/pressroom/newsreleases/2022/august/colorful-solar-panels-could-make-the-technology-more-attractive.html",
-    "timestamp": 1660624621,
-    "published": "August 16, 2022 12:37 AM"
+    "title": "Salman Rushdie: Iran blames writer and supporters for stabbing",
+    "domain": "bbc.co.uk",
+    "category": "nottheonion",
+    "link": "https://www.bbc.co.uk/news/world-us-canada-62546469",
+    "timestamp": 1660624300,
+    "published": "August 16, 2022 12:31 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 16184
+- Articles: 16196
 - Sources: 2337
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 16, 2022 1:00 PM
+- End: August 16, 2022 2:39 PM
 
 ### Topics
 
