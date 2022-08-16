@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 15, 2022 8:05 PM
+- Updated: Aug 15, 2022 9:05 PM
 
 ```
 {
-    "title": "Freya the walrus drew crowds of fans. And that's why Norway decided to euthanize her",
-    "domain": "npr.org",
-    "category": "nottheonion",
-    "link": "https://www.npr.org/2022/08/14/1117442197/norway-euthanize-walrus-freya-oslo",
-    "timestamp": 1660540139,
-    "published": "August 15, 2022 1:08 AM"
+    "title": "Latvia preparing bill to limit use of Russian language.",
+    "domain": "kyivindependent.com",
+    "category": "worldnews",
+    "link": "https://kyivindependent.com/uncategorized/latvia-preparing-bill-to-limit-use-of-russian-language",
+    "timestamp": 1660545962,
+    "published": "August 15, 2022 2:46 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 16074
+- Articles: 16084
 - Sources: 2328
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 15, 2022 7:39 PM
+- End: August 15, 2022 8:24 PM
 
 ### Topics
 
