@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 17, 2022 12:05 AM
+- Updated: Aug 17, 2022 1:05 AM
 
 ```
 {
-    "title": "Salman Rushdie’s ‘The Satanic Verses’ leaps to top of Amazon bestseller lists",
-    "domain": "cnbc.com",
-    "category": "news",
-    "link": "https://www.cnbc.com/2022/08/16/salman-rushdies-books-top-amazons-bestseller-lists-after-stabbing.html",
-    "timestamp": 1660635787,
-    "published": "August 16, 2022 3:43 AM"
+    "title": "Patrick Reed files defamation lawsuit against Golf Channel, commentator Brandel Chamblee.",
+    "domain": "espn.com",
+    "category": "sports",
+    "link": "https://www.espn.com/golf/story/_/id/34410268/liv-golf-reed-files-lawsuit-alleges-defamationhttps://www.espn.com/golf/story/_/id/34410268/liv-golf-reed-files-lawsuit-alleges-defamation",
+    "timestamp": 1660709099,
+    "published": "August 17, 2022 12:04 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 16249
+- Articles: 16250
 - Sources: 2342
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 16, 2022 10:03 PM
+- End: August 17, 2022 12:04 AM
 
 ### Topics
 
