@@ -3,16 +3,16 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 18, 2022 12:05 AM
+- Updated: Aug 18, 2022 1:05 AM
 
 ```
 {
-    "title": "Patrick Reed files defamation lawsuit against Golf Channel, commentator Brandel Chamblee.",
-    "domain": "espn.com",
-    "category": "sports",
-    "link": "https://www.espn.com/golf/story/_/id/34410268/liv-golf-reed-files-lawsuit-alleges-defamationhttps://www.espn.com/golf/story/_/id/34410268/liv-golf-reed-files-lawsuit-alleges-defamation",
-    "timestamp": 1660709099,
-    "published": "August 17, 2022 12:04 AM"
+    "title": "Louisiana hospital denies abortion for fetus without a skull",
+    "domain": "nola.com",
+    "category": "nottheonion",
+    "link": "https://www.nola.com/news/healthcare_hospitals/article_d08b59fe-1e39-11ed-a669-a3570eeed885.html",
+    "timestamp": 1660795767,
+    "published": "August 18, 2022 12:09 AM"
 }
 ```
 
@@ -25,7 +25,7 @@
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 17, 2022 9:58 PM
+- End: August 18, 2022 12:09 AM
 
 ### Topics
 
