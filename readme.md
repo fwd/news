@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 18, 2022 9:05 PM
+- Updated: Aug 18, 2022 10:05 PM
 
 ```
 {
-    "title": "Louisiana hospital denies abortion for fetus without a skull",
-    "domain": "nola.com",
-    "category": "nottheonion",
-    "link": "https://www.nola.com/news/healthcare_hospitals/article_d08b59fe-1e39-11ed-a669-a3570eeed885.html",
-    "timestamp": 1660795767,
-    "published": "August 18, 2022 12:09 AM"
+    "title": "Putin critic living in exile found dead outside upscale DC apartment after police respond to 'jumper' call",
+    "domain": "aol.com",
+    "category": "worldnews",
+    "link": "https://www.aol.com/news/putin-critic-living-exile-found-230212838.html",
+    "timestamp": 1660810269,
+    "published": "August 18, 2022 4:11 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 16566
+- Articles: 16576
 - Sources: 2372
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 18, 2022 8:37 PM
+- End: August 18, 2022 9:47 PM
 
 ### Topics
 
