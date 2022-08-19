@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 19, 2022 9:05 AM
+- Updated: Aug 19, 2022 10:05 AM
 
 ```
 {
-    "title": "Study Shows Taking Opioids and Antidepressants Can Increase Risk of Overdose",
-    "domain": "painresource.com",
-    "category": "science",
-    "link": "https://painresource.com/opioids/opioids-and-antidepressants/",
-    "timestamp": 1660883316,
-    "published": "August 19, 2022 12:28 AM"
+    "title": "Kelly leads Trump-backed Masters by 8 points in Arizona Senate race: poll",
+    "domain": "thehill.com",
+    "category": "politics",
+    "link": "https://thehill.com/blogs/blog-briefing-room/news/campaigns/3607434-kelly-leads-trump-backed-masters-by-8-points-in-arizona-senate-race-poll/",
+    "timestamp": 1660882412,
+    "published": "August 19, 2022 12:13 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 16622
+- Articles: 16630
 - Sources: 2376
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 19, 2022 8:26 AM
+- End: August 19, 2022 8:47 AM
 
 ### Topics
 
