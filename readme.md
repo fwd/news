@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 19, 2022 10:05 AM
+- Updated: Aug 19, 2022 11:05 AM
 
 ```
 {
-    "title": "Kelly leads Trump-backed Masters by 8 points in Arizona Senate race: poll",
-    "domain": "thehill.com",
-    "category": "politics",
-    "link": "https://thehill.com/blogs/blog-briefing-room/news/campaigns/3607434-kelly-leads-trump-backed-masters-by-8-points-in-arizona-senate-race-poll/",
-    "timestamp": 1660882412,
-    "published": "August 19, 2022 12:13 AM"
+    "title": "68 Movies and TV Shows Pulled from HBO Max Amid Discovery+ Merger",
+    "domain": "indiewire.com",
+    "category": "television",
+    "link": "https://www.indiewire.com/gallery/removed-hbo-max-movies-shows-warner-bros-discovery-merger-list/about-last-night-2/",
+    "timestamp": 1660884053,
+    "published": "August 19, 2022 12:40 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 16630
+- Articles: 16638
 - Sources: 2376
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 19, 2022 8:47 AM
+- End: August 19, 2022 10:43 AM
 
 ### Topics
 
