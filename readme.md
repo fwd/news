@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 19, 2022 7:05 PM
+- Updated: Aug 19, 2022 8:05 PM
 
 ```
 {
-    "title": "North Korea tells South Korean president to 'shut his mouth' after offer of aid",
-    "domain": "reuters.com",
-    "category": "worldnews",
-    "link": "https://www.reuters.com/world/asia-pacific/nkorea-leaders-sister-says-north-will-never-deal-with-skoreas-audacious-2022-08-18/",
-    "timestamp": 1660884790,
-    "published": "August 19, 2022 12:53 AM"
+    "title": "Trial between LIV Golf players, PGA Tour won't take place until January 2024, judge says.",
+    "domain": "espn.com",
+    "category": "sports",
+    "link": "https://www.espn.com/golf/story/_/id/34421248/trial-liv-golf-players-pga-tour-take-place-january-2024-judge-says",
+    "timestamp": 1660887318,
+    "published": "August 19, 2022 1:35 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 16726
-- Sources: 2380
+- Articles: 16731
+- Sources: 2381
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 19, 2022 6:36 PM
+- End: August 19, 2022 7:35 PM
 
 ### Topics
 
