@@ -3,16 +3,16 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 20, 2022 12:05 AM
+- Updated: Aug 20, 2022 1:05 AM
 
 ```
 {
-    "title": "Trial between LIV Golf players, PGA Tour won't take place until January 2024, judge says.",
-    "domain": "espn.com",
-    "category": "sports",
-    "link": "https://www.espn.com/golf/story/_/id/34421248/trial-liv-golf-players-pga-tour-take-place-january-2024-judge-says",
-    "timestamp": 1660887318,
-    "published": "August 19, 2022 1:35 AM"
+    "title": "Seawater-derived cement could decarbonise the concrete industry. Magnesium ions are abundant in seawater, and researchers have found a way to convert these into a magnesium-based cement that soaks up carbon dioxide. The cement industry is currently one of the world’s biggest CO2 emitters.",
+    "domain": "scimex.org",
+    "category": "UpliftingNews",
+    "link": "https://www.scimex.org/newsfeed/seawater-derived-cement-could-decarbonise-the-concrete-industry",
+    "timestamp": 1660968715,
+    "published": "August 20, 2022 12:11 AM"
 }
 ```
 
@@ -25,7 +25,7 @@
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 19, 2022 10:40 PM
+- End: August 20, 2022 12:11 AM
 
 ### Topics
 
