@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 21, 2022 12:05 AM
+- Updated: Aug 21, 2022 1:05 AM
 
 ```
 {
-    "title": "Seawater-derived cement could decarbonise the concrete industry. Magnesium ions are abundant in seawater, and researchers have found a way to convert these into a magnesium-based cement that soaks up carbon dioxide. The cement industry is currently one of the world’s biggest CO2 emitters.",
-    "domain": "scimex.org",
-    "category": "UpliftingNews",
-    "link": "https://www.scimex.org/newsfeed/seawater-derived-cement-could-decarbonise-the-concrete-industry",
-    "timestamp": 1660968715,
-    "published": "August 20, 2022 12:11 AM"
+    "title": "[NSFW] UFC Fighter Luke Rockhold rubs his blood on his opponent as a final act of desperation",
+    "domain": "gfycat.com",
+    "category": "sports",
+    "link": "https://gfycat.com/terrificoddballcorydorascatfish-rockhold-vs-costa-luke-rockhold-paolo-costa",
+    "timestamp": 1661057547,
+    "published": "August 21, 2022 12:52 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 16891
+- Articles: 16892
 - Sources: 2393
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 20, 2022 10:56 PM
+- End: August 21, 2022 12:52 AM
 
 ### Topics
 
