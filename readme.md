@@ -3,22 +3,22 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 22, 2022 5:10 AM
+- Updated: Aug 22, 2022 6:10 AM
 
 ```
 {
-    "title": "Team Trump’s Mar-a-Lago talking points become a contradictory mess",
-    "domain": "msnbc.com",
-    "category": "miami",
-    "link": "https://www.msnbc.com/rachel-maddow-show/maddowblog/team-trumps-mar-lago-talking-points-become-contradictory-mess-rcna43094",
-    "timestamp": 1661141059,
-    "published": "August 22, 2022 12:04 AM"
+    "title": "Human drivers in UK won’t be liable for accidents when vehicle is self-driving",
+    "domain": "techcrunch.com",
+    "category": "technology",
+    "link": "https://techcrunch.com/2022/08/21/human-drivers-in-uk-wont-be-liable-for-accidents-when-vehicle-is-self-driving/",
+    "timestamp": 1661141568,
+    "published": "August 22, 2022 12:12 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 17018
+- Articles: 17019
 - Sources: 2405
 - Categories: 13
 
