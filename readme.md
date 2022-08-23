@@ -3,23 +3,23 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 22, 2022 10:10 PM
+- Updated: Aug 22, 2022 11:10 PM
 
 ```
 {
-    "title": "Tesla Owner Implants Chip In Hand To Open Car, Access Data",
-    "domain": "insideevs.com",
-    "category": "technology",
-    "link": "https://insideevs.com/news/605577/tesla-owner-chip/",
-    "timestamp": 1661141757,
-    "published": "August 22, 2022 12:15 AM"
+    "title": "John Oliver Takes Jab At HBO Max For Pulling Shows “To Appease Wall Street”",
+    "domain": "deadline.com",
+    "category": "television",
+    "link": "https://deadline.com/2022/08/john-oliver-hbo-max-pulling-series-1235097176/",
+    "timestamp": 1661142180,
+    "published": "August 22, 2022 12:23 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 17172
-- Sources: 2416
+- Articles: 17177
+- Sources: 2417
 - Categories: 13
 
 ### Timespan
