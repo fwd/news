@@ -3,7 +3,7 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 23, 2022 11:10 AM
+- Updated: Aug 23, 2022 12:10 PM
 
 ```
 {
@@ -18,14 +18,14 @@
 
 ### Insights
 
-- Articles: 17246
-- Sources: 2421
+- Articles: 17257
+- Sources: 2424
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 23, 2022 10:27 AM
+- End: August 23, 2022 11:53 AM
 
 ### Topics
 
