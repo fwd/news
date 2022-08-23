@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 23, 2022 2:10 AM
+- Updated: Aug 23, 2022 3:10 AM
 
 ```
 {
-    "title": "NASA identifies landing sites for America's return trip to the Moon",
-    "domain": "theregister.com",
-    "category": "technology",
-    "link": "https://www.theregister.com/2022/08/22/nasa_moon_landing/",
-    "timestamp": 1661228365,
-    "published": "August 23, 2022 12:19 AM"
+    "title": "State Department advises U.S. citizens to leave Ukraine now, says Russia is 'stepping up efforts' against civilians",
+    "domain": "politico.com",
+    "category": "ukraine",
+    "link": "https://www.politico.com/news/2022/08/22/state-department-russia-stepping-up-against-civilians-00053229",
+    "timestamp": 1661228253,
+    "published": "August 23, 2022 12:17 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 17180
+- Articles: 17185
 - Sources: 2418
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 23, 2022 1:52 AM
+- End: August 23, 2022 2:50 AM
 
 ### Topics
 
