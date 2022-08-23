@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 23, 2022 4:10 PM
+- Updated: Aug 23, 2022 5:10 PM
 
 ```
 {
-    "title": "Skipping breakfast may increase chance of kids and teens developing psychosocial health problems",
-    "domain": "eurekalert.org",
-    "category": "science",
-    "link": "https://www.eurekalert.org/news-releases/962261#.YwRkQZT3O4s.reddit",
-    "timestamp": 1661232211,
-    "published": "August 23, 2022 1:23 AM"
+    "title": "NASA released an audio clip of a black hole, and it's pretty spooky",
+    "domain": "businessinsider.com",
+    "category": "technology",
+    "link": "https://www.businessinsider.com/listen-nasa-reveals-black-hole-sounds-spooky-audio-2022-8",
+    "timestamp": 1661232394,
+    "published": "August 23, 2022 1:26 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 17298
+- Articles: 17304
 - Sources: 2425
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 23, 2022 3:56 PM
+- End: August 23, 2022 4:20 PM
 
 ### Topics
 
