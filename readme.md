@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 24, 2022 8:10 AM
+- Updated: Aug 24, 2022 9:10 AM
 
 ```
 {
-    "title": "ETHERLED: Air-gapped systems leak data via network card LEDs",
-    "domain": "bleepingcomputer.com",
-    "category": "technology",
-    "link": "https://www.bleepingcomputer.com/news/security/etherled-air-gapped-systems-leak-data-via-network-card-leds/",
-    "timestamp": 1661314203,
-    "published": "August 24, 2022 12:10 AM"
+    "title": "Letter warning of Princess Diana’s crash not given to investigators for six years, doc says",
+    "domain": "nationalpost.com",
+    "category": "worldnews",
+    "link": "https://nationalpost.com/news/letter-warning-of-princess-dianas-crash-not-given-to-investigators-for-six-years-doc-says",
+    "timestamp": 1661317966,
+    "published": "August 24, 2022 1:12 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 17382
+- Articles: 17395
 - Sources: 2430
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 24, 2022 8:05 AM
+- End: August 24, 2022 8:33 AM
 
 ### Topics
 
