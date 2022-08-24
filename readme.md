@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 24, 2022 1:10 AM
+- Updated: Aug 24, 2022 2:10 AM
 
 ```
 {
-    "title": "NASA released an audio clip of a black hole, and it's pretty spooky",
-    "domain": "businessinsider.com",
+    "title": "ETHERLED: Air-gapped systems leak data via network card LEDs",
+    "domain": "bleepingcomputer.com",
     "category": "technology",
-    "link": "https://www.businessinsider.com/listen-nasa-reveals-black-hole-sounds-spooky-audio-2022-8",
-    "timestamp": 1661232394,
-    "published": "August 23, 2022 1:26 AM"
+    "link": "https://www.bleepingcomputer.com/news/security/etherled-air-gapped-systems-leak-data-via-network-card-leds/",
+    "timestamp": 1661314203,
+    "published": "August 24, 2022 12:10 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 17351
+- Articles: 17352
 - Sources: 2429
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 23, 2022 9:55 PM
+- End: August 24, 2022 12:10 AM
 
 ### Topics
 
