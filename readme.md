@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 24, 2022 6:10 PM
+- Updated: Aug 24, 2022 7:10 PM
 
 ```
 {
-    "title": "News addiction linked to not only poor mental wellbeing but physical health too, new study shows",
-    "domain": "eurekalert.org",
-    "category": "science",
-    "link": "https://www.eurekalert.org/news-releases/962341#.YwW3UXFBKT4.reddit",
-    "timestamp": 1661319013,
-    "published": "August 24, 2022 1:30 AM"
+    "title": "Soldier seeking support for PTSD 'disgusted' after he was casually offered euthanasia by Veterans Affairs employee",
+    "domain": "meaww.com",
+    "category": "nottheonion",
+    "link": "https://meaww.com/canadian-va-veteran-medical-assistance-in-dying-maid-euthanasia-vac-employee-ptsd",
+    "timestamp": 1661320436,
+    "published": "August 24, 2022 1:53 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 17481
-- Sources: 2438
+- Articles: 17490
+- Sources: 2440
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 24, 2022 5:41 PM
+- End: August 24, 2022 5:51 PM
 
 ### Topics
 
