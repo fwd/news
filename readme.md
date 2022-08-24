@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 24, 2022 2:10 AM
+- Updated: Aug 24, 2022 3:10 AM
 
 ```
 {
-    "title": "ETHERLED: Air-gapped systems leak data via network card LEDs",
-    "domain": "bleepingcomputer.com",
-    "category": "technology",
-    "link": "https://www.bleepingcomputer.com/news/security/etherled-air-gapped-systems-leak-data-via-network-card-leds/",
-    "timestamp": 1661314203,
-    "published": "August 24, 2022 12:10 AM"
+    "title": "Dinosaur tracks from 113M years ago have become visible amid drought",
+    "domain": "abcnews.go.com",
+    "category": "news",
+    "link": "https://abcnews.go.com/US/dinosaur-tracks-113m-years-ago-visible-amid-drought/story?id=88746160",
+    "timestamp": 1661314087,
+    "published": "August 24, 2022 12:08 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 17352
+- Articles: 17358
 - Sources: 2429
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 24, 2022 12:10 AM
+- End: August 24, 2022 1:53 AM
 
 ### Topics
 
