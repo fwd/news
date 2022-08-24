@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 24, 2022 11:10 AM
+- Updated: Aug 24, 2022 12:10 PM
 
 ```
 {
-    "title": "Letter warning of Princess Diana’s crash not given to investigators for six years, doc says",
-    "domain": "nationalpost.com",
-    "category": "worldnews",
-    "link": "https://nationalpost.com/news/letter-warning-of-princess-dianas-crash-not-given-to-investigators-for-six-years-doc-says",
-    "timestamp": 1661317966,
-    "published": "August 24, 2022 1:12 AM"
+    "title": "News addiction linked to not only poor mental wellbeing but physical health too, new study shows",
+    "domain": "eurekalert.org",
+    "category": "science",
+    "link": "https://www.eurekalert.org/news-releases/962341#.YwW3UXFBKT4.reddit",
+    "timestamp": 1661319013,
+    "published": "August 24, 2022 1:30 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 17417
-- Sources: 2430
+- Articles: 17429
+- Sources: 2432
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 24, 2022 10:18 AM
+- End: August 24, 2022 11:42 AM
 
 ### Topics
 
