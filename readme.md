@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 26, 2022 4:10 PM
+- Updated: Aug 26, 2022 5:10 PM
 
 ```
 {
-    "title": "Omicron is More Transmissable and Less Fatal Than the Flu",
-    "domain": "sciencedirect.com",
-    "category": "science",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1201971222002958",
-    "timestamp": 1661487166,
-    "published": "August 26, 2022 12:12 AM"
+    "title": "Anti-Putin \"National Republican Army\" mocks Russia's Dugina claims",
+    "domain": "newsweek.com",
+    "category": "worldnews",
+    "link": "https://www.newsweek.com/russia-ukraine-daria-dugina-car-bomb-national-republican-army-1735915",
+    "timestamp": 1661500625,
+    "published": "August 26, 2022 3:57 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 17839
-- Sources: 2471
+- Articles: 17848
+- Sources: 2472
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 26, 2022 3:35 PM
+- End: August 26, 2022 4:50 PM
 
 ### Topics
 
