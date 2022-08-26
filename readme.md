@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 25, 2022 10:10 PM
+- Updated: Aug 25, 2022 11:10 PM
 
 ```
 {
-    "title": "Seven-million-year-old femur suggests ancient human relative walked upright (Sahelanthropus tchadensis in Chad).",
-    "domain": "nature.com",
+    "title": "Legalizing recreational cannabis in the U.S. has increased frequency of use by 20%",
+    "domain": "eurekalert.org",
     "category": "science",
-    "link": "https://www.nature.com/articles/d41586-022-02313-7",
-    "timestamp": 1661400038,
-    "published": "August 25, 2022 12:00 AM"
+    "link": "https://www.eurekalert.org/news-releases/962353#.Ywb4x7Ly7nU.reddit",
+    "timestamp": 1661401334,
+    "published": "August 25, 2022 12:22 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 17707
+- Articles: 17714
 - Sources: 2462
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 25, 2022 9:36 PM
+- End: August 25, 2022 10:13 PM
 
 ### Topics
 
