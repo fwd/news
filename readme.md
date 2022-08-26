@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**6MB**
-- Updated: Aug 26, 2022 6:10 AM
+- Updated: Aug 26, 2022 7:10 AM
 
 ```
 {
-    "title": "Omicron is More Transmissable and Less Fatal Than the Flu",
-    "domain": "sciencedirect.com",
-    "category": "science",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1201971222002958",
-    "timestamp": 1661487166,
-    "published": "August 26, 2022 12:12 AM"
+    "title": "Chauvin moved to Arizona federal pen in George Floyd killing",
+    "domain": "apnews.com",
+    "category": "news",
+    "link": "https://apnews.com/article/ahmaud-arbery-death-of-george-floyd-minnesota-minneapolis-2375e5b10ec6e2976059f1eb0e261c28",
+    "timestamp": 1661486580,
+    "published": "August 26, 2022 12:03 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 17724
+- Articles: 17730
 - Sources: 2462
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 26, 2022 5:33 AM
+- End: August 26, 2022 5:53 AM
 
 ### Topics
 
