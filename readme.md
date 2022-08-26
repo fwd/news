@@ -2,30 +2,30 @@
 
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
-- File Size: ~**6MB**
-- Updated: Aug 26, 2022 5:10 PM
+- File Size: ~**7MB**
+- Updated: Aug 26, 2022 6:10 PM
 
 ```
 {
-    "title": "Anti-Putin \"National Republican Army\" mocks Russia's Dugina claims",
-    "domain": "newsweek.com",
+    "title": "Pope Francis asks North Korea to invite him to visit",
+    "domain": "news.yahoo.com",
     "category": "worldnews",
-    "link": "https://www.newsweek.com/russia-ukraine-daria-dugina-car-bomb-national-republican-army-1735915",
-    "timestamp": 1661500625,
-    "published": "August 26, 2022 3:57 AM"
+    "link": "https://news.yahoo.com/pope-francis-asks-north-korea-053712067.html?fr=sycsrp_catchall",
+    "timestamp": 1661502196,
+    "published": "August 26, 2022 4:23 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 17848
+- Articles: 17854
 - Sources: 2472
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 26, 2022 4:50 PM
+- End: August 26, 2022 5:38 PM
 
 ### Topics
 
