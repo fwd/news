@@ -3,16 +3,16 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Aug 27, 2022 12:10 AM
+- Updated: Aug 27, 2022 1:10 AM
 
 ```
 {
-    "title": "Pope Francis asks North Korea to invite him to visit",
-    "domain": "news.yahoo.com",
-    "category": "worldnews",
-    "link": "https://news.yahoo.com/pope-francis-asks-north-korea-053712067.html?fr=sycsrp_catchall",
-    "timestamp": 1661502196,
-    "published": "August 26, 2022 4:23 AM"
+    "title": "Huge recovery for butterfly once extinct in the UK",
+    "domain": "bbc.com",
+    "category": "UpliftingNews",
+    "link": "https://www.bbc.com/news/science-environment-62674800",
+    "timestamp": 1661573992,
+    "published": "August 27, 2022 12:19 AM"
 }
 ```
 
@@ -25,7 +25,7 @@
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 26, 2022 10:45 PM
+- End: August 27, 2022 12:19 AM
 
 ### Topics
 
