@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Aug 28, 2022 9:10 AM
+- Updated: Aug 28, 2022 10:10 AM
 
 ```
 {
-    "title": "Hiker falls to his death at the Grand Canyon",
-    "domain": "nbcnews.com",
-    "category": "news",
-    "link": "https://www.nbcnews.com/news/us-news/hiker-falls-death-grand-canyon-rcna45117",
-    "timestamp": 1661660705,
-    "published": "August 28, 2022 12:25 AM"
+    "title": "Countdown begins for NASA's Artemis 1 moon mission and maiden flight of SLS megarocket",
+    "domain": "cbsnews.com",
+    "category": "technology",
+    "link": "https://www.cbsnews.com/news/artemis-launch-moon-sls-rocket-mission-maiden-flight/",
+    "timestamp": 1661660936,
+    "published": "August 28, 2022 12:28 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 18071
-- Sources: 2494
+- Articles: 18083
+- Sources: 2496
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 28, 2022 7:52 AM
+- End: August 28, 2022 10:01 AM
 
 ### Topics
 
