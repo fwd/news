@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Aug 28, 2022 1:10 PM
+- Updated: Aug 28, 2022 2:10 PM
 
 ```
 {
-    "title": "A Chipotle in Michigan becomes the first to unionize",
-    "domain": "cnn.com",
-    "category": "news",
-    "link": "https://www.cnn.com/2022/08/27/business/chipotle-workers-union-michigan/index.html",
-    "timestamp": 1661661111,
-    "published": "August 28, 2022 12:31 AM"
+    "title": "Krispy Kreme 'Artemis Moon Doughnut' to launch same day as NASA mission",
+    "domain": "space.com",
+    "category": "nottheonion",
+    "link": "https://www.space.com/krispy-kreme-artemis-moon-doughnut",
+    "timestamp": 1661661161,
+    "published": "August 28, 2022 12:32 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 18112
-- Sources: 2497
+- Articles: 18128
+- Sources: 2499
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 28, 2022 12:47 PM
+- End: August 28, 2022 2:05 PM
 
 ### Topics
 
