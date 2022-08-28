@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Aug 27, 2022 7:10 PM
+- Updated: Aug 27, 2022 8:10 PM
 
 ```
 {
-    "title": "Gang of turkeys attacks B.C. man, breaking both his hips and a finger",
-    "domain": "missioncityrecord.com",
-    "category": "nottheonion",
-    "link": "https://www.missioncityrecord.com/news/both-hips-broken-following-bird-attack-on-man-in-chase/",
-    "timestamp": 1661573190,
-    "published": "August 27, 2022 12:06 AM"
+    "title": "Meta Is Building an AI to Fact-Check Wikipedia—All 6.5 Million Articles",
+    "domain": "singularityhub.com",
+    "category": "technology",
+    "link": "https://singularityhub.com/2022/08/26/meta-is-building-an-ai-to-fact-check-wikipedia-all-6-5-million-articles/",
+    "timestamp": 1661578281,
+    "published": "August 27, 2022 1:31 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 18005
-- Sources: 2489
+- Articles: 18014
+- Sources: 2491
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 27, 2022 6:43 PM
+- End: August 27, 2022 8:03 PM
 
 ### Topics
 
