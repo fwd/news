@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Aug 28, 2022 1:10 AM
+- Updated: Aug 28, 2022 2:10 AM
 
 ```
 {
-    "title": "It's now illegal for anyone under 21 to buy canned whipped cream in New York",
-    "domain": "insider.com",
-    "category": "nottheonion",
-    "link": "https://www.insider.com/illegal-anyone-under-21-buy-whipped-cream-new-york-2022-8",
-    "timestamp": 1661662044,
-    "published": "August 28, 2022 12:47 AM"
+    "title": "Countdown begins for NASA's Artemis 1 moon mission and maiden flight of SLS megarocket",
+    "domain": "cbsnews.com",
+    "category": "technology",
+    "link": "https://www.cbsnews.com/news/artemis-launch-moon-sls-rocket-mission-maiden-flight/",
+    "timestamp": 1661660936,
+    "published": "August 28, 2022 12:28 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 18030
+- Articles: 18035
 - Sources: 2491
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 28, 2022 12:47 AM
+- End: August 28, 2022 2:01 AM
 
 ### Topics
 
