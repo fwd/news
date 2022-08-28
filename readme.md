@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Aug 28, 2022 12:10 PM
+- Updated: Aug 28, 2022 1:10 PM
 
 ```
 {
-    "title": "Countdown begins for NASA's Artemis 1 moon mission and maiden flight of SLS megarocket",
-    "domain": "cbsnews.com",
-    "category": "technology",
-    "link": "https://www.cbsnews.com/news/artemis-launch-moon-sls-rocket-mission-maiden-flight/",
-    "timestamp": 1661660936,
-    "published": "August 28, 2022 12:28 AM"
+    "title": "A Chipotle in Michigan becomes the first to unionize",
+    "domain": "cnn.com",
+    "category": "news",
+    "link": "https://www.cnn.com/2022/08/27/business/chipotle-workers-union-michigan/index.html",
+    "timestamp": 1661661111,
+    "published": "August 28, 2022 12:31 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 18104
+- Articles: 18112
 - Sources: 2497
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 28, 2022 11:52 AM
+- End: August 28, 2022 12:47 PM
 
 ### Topics
 
