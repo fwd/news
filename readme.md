@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Aug 28, 2022 3:10 AM
+- Updated: Aug 28, 2022 4:10 AM
 
 ```
 {
-    "title": "Countdown begins for NASA's Artemis 1 moon mission and maiden flight of SLS megarocket",
-    "domain": "cbsnews.com",
-    "category": "technology",
-    "link": "https://www.cbsnews.com/news/artemis-launch-moon-sls-rocket-mission-maiden-flight/",
-    "timestamp": 1661660936,
-    "published": "August 28, 2022 12:28 AM"
+    "title": "Russians torture staff of Zaporizhzhia Nuclear Power Plant before IAEA delegation arrival – Energoatom",
+    "domain": "pravda.com.ua",
+    "category": "worldnews",
+    "link": "https://www.pravda.com.ua/eng/news/2022/08/27/7365006/",
+    "timestamp": 1661660536,
+    "published": "August 28, 2022 12:22 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 18039
+- Articles: 18045
 - Sources: 2491
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 28, 2022 2:01 AM
+- End: August 28, 2022 3:10 AM
 
 ### Topics
 
