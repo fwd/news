@@ -8,7 +8,7 @@ module.exports = (dataset) => {
     var dates = _.uniq(dataset.map(a => moment(a.published)))
     var minDate = moment.min(dates).format('LL')
     var maxDate = moment.max(dates).format('LLL')
-    // let moments = this.state.dates.map(d => moment(d)),
+    // var moments = this.state.dates.map(d => moment(d)),
 
     var domains = _.uniq(dataset.map(a => a.domain))
     var categories = _.uniq(dataset.map(a => a.category))
