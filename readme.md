@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Aug 28, 2022 7:10 PM
+- Updated: Aug 28, 2022 8:10 PM
 
 ```
 {
-    "title": "New research shows there is an asymmetry in belief revision: people are better able to believe in a claim once thought to be false, as opposed to unbelieving something once believed to be true.",
-    "domain": "onlinelibrary.wiley.com",
-    "category": "science",
-    "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.3991",
-    "timestamp": 1661663390,
-    "published": "August 28, 2022 1:09 AM"
+    "title": "Brigham Young University apologizes, bans fan over racist slurs during volleyball match",
+    "domain": "amp.cnn.com",
+    "category": "sports",
+    "link": "https://amp.cnn.com/cnn/2022/08/27/us/brigham-young-university-athletics-apology-racial-slurs-duke/index.html",
+    "timestamp": 1661666486,
+    "published": "August 28, 2022 2:01 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 18165
+- Articles: 18174
 - Sources: 2501
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 28, 2022 6:57 PM
+- End: August 28, 2022 7:22 PM
 
 ### Topics
 
