@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Aug 28, 2022 10:10 PM
+- Updated: Aug 30, 2022 11:28 PM
 
 ```
 {
-    "title": "Brigham Young University apologizes, bans fan over racist slurs during volleyball match",
-    "domain": "amp.cnn.com",
+    "title": "Hawaii Wins The Little League World Series Title — In The 4th Inning",
+    "domain": "huffpost.com",
     "category": "sports",
-    "link": "https://amp.cnn.com/cnn/2022/08/27/us/brigham-young-university-athletics-apology-racial-slurs-duke/index.html",
-    "timestamp": 1661666486,
-    "published": "August 28, 2022 2:01 AM"
+    "link": "https://www.huffpost.com/entry/hawaii-mercy-rule-little-league-world-series_n_630ce26ae4b0da54bae184f6",
+    "timestamp": 1661832211,
+    "published": "August 30, 2022 12:03 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 18184
-- Sources: 2504
+- Articles: 18270
+- Sources: 2509
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 28, 2022 8:45 PM
+- End: August 30, 2022 10:26 PM
 
 ### Topics
 
