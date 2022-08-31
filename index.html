@@ -4,11 +4,16 @@
     
     <head>
         <meta charset="UTF-8">
-        <title>Search News</title>
+        <title>The News by FWD</title>
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <meta name="apple-mobile-web-app-title" content="NEWS">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.1/flexboxgrid.css'>
         <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css'>
         <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.css'>
+        <script src="https://fwd.dev/js/vue.js"></script>
+        <script src="https://fwd.dev/js/axios.js"></script>
         <style>
             @import url("https://fonts.googleapis.com/css?family=Francois+One|Inconsolata:400,700");
             @-webkit-keyframes loading {
@@ -87,8 +92,9 @@
             h1 {
               margin: 0;
               text-shadow: 2px 0 0 #F48FB1;
-              margin-right: 20px;
+              margin-right: 0;
               font-size: 48px;
+              text-align: center;
             }
             
             h2 {
@@ -146,9 +152,9 @@
               font-style: italic;
             }
             
-            #list {
+            #app {
               max-width: 768px;
-              margin: 50px auto;
+              margin: 20px auto;
             }
             
             #load-more i {
@@ -161,7 +167,8 @@
             }
             
             #search-filter {
-              margin-bottom: 50px;
+              margin-bottom: 35px;
+              zoom:  1.3;
             }
             #search-filter a {
               border-bottom: none;
@@ -198,6 +205,7 @@
               font-size: 16px;
               color: #304FFE;
               font-family: "Inconsolata";
+              width: 100%;
             }
             
             input[type=text],
@@ -319,6 +327,7 @@
               color: #FCE4EC;
               padding: 20px;
               padding-bottom: calc(4em + 20px);
+              cursor: pointer;
             }
             article.hidden {
               display: none;
@@ -328,6 +337,8 @@
             }
             article .tags a {
               border-bottom: 2px #F48FB1 solid;
+              zoom: 1.4;
+              letter-spacing: 0.3px;
             }
             article .tags a:hover {
               border-color: #EC407A;
@@ -387,359 +398,72 @@
     
     <body>
         <!-- partial:index.partial.html -->
-        <div id="list">
-             <h1>Articles</h1>
-
-            <div class="row end-xs" id="add-row"> <a href="#" id="open-form" class="button" role="button"><i class="fa fa-plus"></i> Add New</a>
-
-            </div>
+        <div id="app">
+             <h1>THE NEWS</h1>
             <form id="search-filter">
-                <div id="filter-tags" class="filter-multiple">
-                    <label>Filter by:</label> <span id="tags-list"></span>
-
-                </div>
                 <div id="search">
-                    <label>Search:</label>
-                    <input type="search" value="" name="s" id="s" />
+                    <input type="search" value="" id="s" v-model="query" placeholder="Search keywords" />
                 </div>
-                <div class="row between-xs middle-xs">
-                    <div id="sort">
-                        <label>Sort:</label>
-                        <select name="order" id="sort-order">
-                            <option value="date-asc">oldest to newest</option>
-                            <option value="date-desc">newest to oldest</option>
-                            <option value="alpha-asc">a to z</option>
-                            <option value="alpha-desc">z to a</option>
-                        </select>
-                    </div>
-                    <div id="display" class="filter-one">
-                        <label>Display:</label> <a href="#" role="button" class="show-list selected"><i class="fa fa-th-list"></i> list</i>
-        <a href="#" role="button" class="show-grid"><i class="fa fa-th-large"></i> grid</a>
-
-                    </div>
-                </div>
-            </form>
+                </form>
             <div id="posts">
-                <article>
-                     <h3>Title</h3>
-
-                    <p class="tags"><a href="#">tag</a>
-                    </p>content
-                    <div class="meta">
-                        <p class="date">Completed m/d/y | <a href="#" rel="external" target="_blank">View site <i class="fa fa-external-link-square"></i></a>
-
-                        </p>
-                    </div>
+                <article v-for="i in filtered" @click="open(i)">
+                <!-- <article v-for="i in filtered" :style="`background-color: ${stringToColour(i.domain)} `" @click="open(i)"> -->
+                  <h3>
+                    <!-- <i class="fa fa-thumb-tack"></i>  -->
+                  {{ i.title }}</h3>
+                  <p class="tags"><a :style="`background-color: ${stringToColour(i.category)} `">#{{ i.category }}</a></p>
+                  <!-- A walkthrough of a few methods for truncating text to a certain number of lines for any device or viewport size -->
+                  <div class="meta">
+                    <p class="date">{{ i.published }} |
+                      <a href="https://dev.to/carlymho/line-based-truncation-methods-51bk" rel="external" target="_blank">View article <i class="fa fa-external-link-square"></i></a>
+                    </p>
+                  </div>
                 </article>
             </div>
-            <div class="row center-xs"> <a href="#" class="button" role="button" id="load-more">Load More <i class="fa fa-spinner"></i></a>
-
-            </div>
-        </div>
-        <div id="overlay">
-            <form id="add-item" name="add_item" method="POST" action="">
-                 <h2>New Article</h2>
-
-                <div class="form-row">
-                    <label for="title">Title</label>
-                    <input type="text" name="title" />
-                </div>
-                <div class="form-row">
-                    <label for="permalink">Permalink</label>
-                    <input type="url" name="permalink" />
-                </div>
-                <div class="form-row">
-                    <label for="excerpt">Excerpt</label>
-                    <textarea name="excerpt"></textarea>
-                </div>
-                <div class="form-row">
-                    <label for="tags">Tags</label>
-                    <input type="text" name="tags" />
-                </div>
-                <div class="form-row">
-                    <label for="date">Date Posted</label>
-                    <input type="text" name="date" class="datepicker" />
-                </div>
-                <div class="form-row">
-                    <label for="featured">
-                        <input type="checkbox" value="true" name="featured" />Featured?</label>
-                </div>
-                <div class="form-row">
-                    <input type="submit" value="Add Article" />
-                </div> <a class="close" href="#" role="button"><i class="fa fa-times"></i><span class="sr-only">Close</span></a>
-
-            </form>
         </div>
         <!-- partial -->
-        <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js'></script>
-        <script src='https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.1/moment.js'></script>
-        <script src='https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.js'></script>
-        <script>
-            var posts = [
-              {
-                title: "The Hardest Thing is to Keep Going",
-                permalink: "https://dev.to/carlymho/the-hardest-thing-is-to-keep-going--27ee",
-                excerpt: "A meditation on forward career movement in a hostile environment",
-                tags: ["shecoded", "tech culture"],
-                featured: false,
-                date: '2018-03-08'
-              },
-              {
-                title: "Line-Based Truncation Methods",
-                permalink: "https://dev.to/carlymho/line-based-truncation-methods-51bk",
-                excerpt: "A walkthrough of a few methods for truncating text to a certain number of lines for any device or viewport size",
-                tags: ["css", "javascript", "tutorial"],
-                featured: true,
-                date: '2018-04-25'
-              },
-              {
-                title: "Goat Cheese Lavender Honey with Baguette",
-                permalink: "http://mediterranealicious.com/2014/06/15/goat-cheese-lavender-honey-with-baguette/",
-                excerpt: "Simple charming recipe for a cheese spread. (Not by me.)",
-                tags: ["recipes"],
-                featured: false,
-                date: '2014-06-05'
-              },
-              {
-                title: "The Ultimate Challah Bread",
-                permalink: "https://www.barbarabakes.com/the-ultimate-challah-bread/",
-                excerpt: "I really want to learn to make this bread recipe! (Not by me.)",
-                tags: ["recipes", "bread"],
-                featured: false,
-                date: '2017-04-04'
-              },
-              {
-                title: "Pictures of my cat",
-                permalink: "http://instagram.com/pigeonkitty",
-                excerpt: "What would you rather be doing than looking at pictures of my cat? Nothing, that's what.",
-                tags: ["cats", "photos"],
-                featured: true,
-                date: '2018-04-25'
-              },
-              {
-                title: "Honey Lavender Cheesecake",
-                permalink: "https://www.sprinklesforbreakfast.com/honey-lavender-cheesecake.php",
-                excerpt: "A fancy lavender-colored cheesecake that my fiancée really wants to try. (Not by me.)",
-                tags: ["recipes", "desserts"],
-                featured: false,
-                date: '2018-04-17'
-              },
-              {
-                title: "Honey Butter Roasted Carrots",
-                permalink: "https://rasamalaysia.com/honey-butter-roasted-carrots/",
-                excerpt: "A side dish I use occasionally. (Not by me.)",
-                tags: ["recipes", "vegetables"],
-                featured: false,
-                date: '2015-03-01'
+        <!-- <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js'></script> -->
+        <!-- <script src='https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.1/moment.js'></script> -->
+        <!-- <script src='https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.js'></script> -->
+       <script>
+          var app = new Vue({
+          el: '#app',
+          data: { 
+            query: '',
+            headlines: [],
+          },
+          mounted() {
+            this.load()
+          },
+          watch: {},
+          computed: {
+            filtered() {
+              return this.headlines.filter(a => a.title.toLowerCase().includes(this.query.toLowerCase())).slice(0, 100)
+            }
+          },
+          methods: {
+            open(i) {
+              window.open(i.link, '_blank').focus();
+            },
+            stringToColour(str) {
+              var hash = 0;
+              for (var i = 0; i < str.length; i++) {
+                hash = str.charCodeAt(i) + ((hash << 5) - hash);
               }
-            ];
-            
-            var tags = [];
-            var firstrun = true;
-            var perPage = 5;
-            
-            $(window).on('load', function() {
-              $('.datepicker').datepicker();
-              function updateTags() {
-                var tagContent = tags.sort().map(function(t, i) {
-                  return "<a href='#"+t+"' role='button' class=''>#"+t+"</a>";
-                }).join("");
-                $("#tags-list").html(tagContent);
+              var colour = '#';
+              for (var i = 0; i < 3; i++) {
+                var value = (hash >> (i * 8)) & 0xFF;
+                colour += ('00' + value.toString(16)).substr(-2);
               }
-              function updateContent() {
-                if ($('.show-list').hasClass('selected')) {
-                  $('#posts').removeClass('grid');
-                } else {
-                  $('#posts').addClass('grid');
-                }
-                
-                $('#posts').html("");
-                
-                var splitSort = $('#sort-order option:selected').val().split("-");
-                var sortType = splitSort[0];
-                var sortDir = splitSort[1];
-                var keyword = $('#s').val();
-                var filterTags = $('#filter-tags a.selected').map(function() {
-                  return $(this).attr("href").replace("#", "");
-                }).toArray();
-                
-                var results = posts.filter(function(p, i) {
-                  if (filterTags.length > 0) {
-                    var istn = filterTags.filter(function(n) {
-                      return p.tags.indexOf(n) !== -1;
-                    });
-                    if (istn.length > 0) {
-                      return true;
-                    }
-                  } else {
-                    return p;
-                  }
-                }).filter(function(p, i) {
-                  if (keyword !== "") {
-                    var re = new RegExp(keyword, "i");
-                    if (p.title.match(re) !== null || p.excerpt.match(re) !== null) {
-                      return true;
-                    } else {
-                      return false;
-                    }
-                  } else {
-                    return true;
-                  }
-                });
-                
-                results.sort(function(a, b) {
-                  if (a.featured === true && b.featured === false) {
-                    return -1;
-                  } else if (b.featured === true && a.featured === false) {
-                    return 1;
-                  }
-                  if (sortType === "date") {
-                    if (sortDir === "asc") {
-                      if (a.date < b.date) {
-                        return -1;
-                      } else if (a.date > b.date) {
-                        return 1;
-                      } else {
-                        return 0;
-                      }
-                    } else {
-                      if (a.date < b.date) {
-                        return 1;
-                      } else if (a.date > b.date) {
-                        return -1;
-                      } else {
-                        return 0;
-                      }
-                    }
-                  } else if (sortType === "alpha") {
-                    if (sortDir === "asc") {
-                      if (a.title < b.title) {
-                        return -1;
-                      } else if (a.title > b.title) {
-                        return 1;
-                      } else {
-                        return 0;
-                      }
-                    } else {
-                      if (a.title < b.title) {
-                        return 1;
-                      } else if (a.title > b.title) {
-                        return -1;
-                      } else {
-                        return 0;
-                      }
-                    }
-                  }
-                });
-                tags = [];
-            
-                for (var i = 0; i < results.length; i++) {
-                  var article = results[i];
-                  var tagsFormatted = article.tags.map(function(t) {
-                    return "<a href='#"+t+"'>#"+t+"</a>";
-                  }).join(" ");
-                  for (var j = 0; j <  article.tags.length; j++) {
-                    if (tags.indexOf(article.tags[j]) === -1) {
-                      tags.push(article.tags[j]);
-                    }
-                  }
-                  var featured = (article.featured) ? '<i class="fa fa-thumb-tack"></i> ' : '';
-                  var date = moment(article.date).format('MM/DD/YY');
-                  var template = `
-                  <article${(i >= perPage) ? ' class="hidden"' : ''}>
-                    <h3>${featured}${article.title}</h3>
-                    <p class="tags">${tagsFormatted}</p>
-                    ${article.excerpt}
-                    <div class="meta">
-                      <p class="date">Completed ${date} |
-                        <a href="${article.permalink}" rel="external" target="_blank">View article <i class="fa fa-external-link-square"></i></a>
-                      </p>
-                    </div>
-                  </article>
-                `;
-                  $('#posts').append(template);
-                }
-                if (firstrun === true) {
-                  updateTags();
-                }
-                if ($('#posts .hidden').length > 0) {
-                  $('#load-more').show();
-                } else {
-                  $('#load-more').hide();
-                }
-                firstrun = false;
-              }
-              
-              $('#add-item').submit(function(e) {
-                e.preventDefault();
-                var taglist = [];
-                if ($('#add-item [name="tags"]').val() !== "") {
-                  taglist = $('#add-item [name="tags"]').val().split(", ")
-                }
-                var newItem = {
-                  title: $('#add-item [name="title"]').val(),
-                  excerpt: $('#add-item [name="excerpt"]').val(),
-                  date: $('#add-item [name="date"]').val(),
-                  featured: $('#add-item [name="featured"]').is("checked"),
-                  tags: taglist,
-                  permalink: $('#add-item [name="permalink"]').val()
-                }
-                posts.push(newItem);
-                $('#add-item input[type!="submit"], #add-item textarea').val("");
-                $('#add-item input[type="checkbox]').removeProp('checked');
-                updateContent();
-                updateTags();
-              });
-              
-              $('#search-filter').on('click', 'a', function(e) {
-                e.preventDefault();
-                if ($(this).parents().hasClass('filter-multiple')) {
-                  $(this).toggleClass('selected');
-                } else {
-                  $(this).addClass('selected');
-                }
-                if ($(this).parents().hasClass('filter-one')) {
-                  $(this).siblings().removeClass('selected'); 
-                }
-                console.log($('#filter-tags .selected'));
-                updateContent();
-              });
-              
-              $('#search-filter input[type="search"], #search-filter select').on('change', function() {
-                updateContent();
-              });
-              
-              $('#open-form').on('click', function(e) {
-                e.preventDefault();
-                $('#overlay').addClass('show');
-                $('#overlay input').first().focus();
-              });
-              
-              $('#overlay .close').on('click', function(e) {
-                e.preventDefault();
-                $('#add-item input, #add-item textarea').val("");
-                $('#overlay').removeClass('show');
-                $('h1').first().focus();
-              });
-              
-              $('#load-more').on('click', function(e) {
-                e.preventDefault();
-                $(this).addClass('loading');
-                $('#posts .hidden').each(function(i, elt) {
-                  if (i <= perPage) {
-                    $(this).removeClass('hidden');
-                  }
-                });
-                if ($('#posts .hidden').length > 0) {
-                  $('#load-more').show();
-                } else {
-                  $('#load-more').hide();
-                }
-                $(this).removeClass('loading');
-              });
-              
-              updateContent();
-            });
+              return colour;
+            },
+            load() {
+              axios.get('/headlines.json').then((res) => {
+                this.headlines = res.data
+              })
+            }
+          },
+        })
         </script>
     </body>
 
