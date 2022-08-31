@@ -3,22 +3,22 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Aug 31, 2022 4:34 PM
+- Updated: Aug 31, 2022 5:34 PM
 
 ```
 {
-    "title": "Richard Roat Dies: Actor In ‘Seinfeld’, ‘Friends’, ‘Dallas’ & Dozens Of Other Shows Was 89",
-    "domain": "deadline.com",
-    "category": "television",
-    "link": "https://deadline.com/2022/08/richard-roat-dead-seinfeld-friends-cheers-actor-1235103842/",
-    "timestamp": 1661909007,
-    "published": "August 31, 2022 1:23 AM"
+    "title": "Venus Williams falls to Alison Van Uytvanck in US Open first-round match after missing last year's event.",
+    "domain": "espn.com",
+    "category": "sports",
+    "link": "https://www.espn.com/tennis/story/_/id/34489967/venus-williams-falls-alison-van-uytvanck-us-open-first-round-match-missing-last-year-event",
+    "timestamp": 1661909692,
+    "published": "August 31, 2022 1:34 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 18360
+- Articles: 18367
 - Sources: 2517
 - Categories: 13
 
