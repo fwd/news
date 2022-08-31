@@ -4,675 +4,742 @@
     
     <head>
         <meta charset="UTF-8">
-        <title>News</title>
+        <title>Search News</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="apple-mobile-web-app-status-bar-style" content="black">
-        <meta name="apple-mobile-web-app-title" content="News">
-        <link rel="apple-touch-icon" href="icon.png">
-        <link href="https://fonts.googleapis.com/css?family=Merriweather:700&display=swap"
-        rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:600,700&display=swap"
-        rel="stylesheet">
-        <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css'>
-        <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/Swiper/8.3.1/swiper-bundle.css'>
+        <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.1/flexboxgrid.css'>
+        <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css'>
+        <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.css'>
         <style>
-            body {
-              background-color: #1b1b1b;
-            }
-            svg {
-              width: 100%;
-            }
-            section.section-container {
-              width: 100%;
-              height: 100%;
-              display: -webkit-box;
-              display: -moz-box;
-              display: -ms-flexbox;
-              display: -webkit-flex;
-              display: flex;
-              flex-direction: column;
-              align-items: center;
-              justify-content: center;
-            }
-            .trademark {
-              position: absolute;
-              z-index: 99;
-              left: 50px;
-              top: 50px;
-              -webkit-transition: all 0.25s ease;
-              -moz-transition: all 0.25s ease;
-              -o-transition: all 0.25s ease;
-              transition: all 0.25s ease;
-            }
-            .trademark:hover {
-              -webkit-transform: translate(0, -3px);
-              -moz-transform: translate(0, -3px);
-              -o-transform: translate(0, -3px);
-              -ms-transform: translate(0, -3px);
-              transform: translate(0, -3px);
-            }
-            .mobile-container {
-              overflow: hidden;
-              width: 100%;
-              max-width: 375px;
-              height: 657px;
-              border-radius: 26px;
-              background-color: #080808;
-              position: relative;
-              background-position: center center;
-              background-size: cover;
-              background-repeat: no-repeat;
-              -webkit-box-shadow: 0px 20px 30px -30px #202637;
-              -moz-box-shadow: 0px 20px 30px -30px #202637;
-              box-shadow: 0px 20px 30px -30px #202637;
-              -webkit-transition: all 0.25s ease;
-              -moz-transition: all 0.25s ease;
-              -o-transition: all 0.25s ease;
-              transition: all 0.25s ease;
-            }
-            @media (max-width:  768px) {
-              .mobile-container {
-                width: 100%;
-                max-width: 100vw;
-                height: 100vh;
-                border-radius: 0;
+            @import url("https://fonts.googleapis.com/css?family=Francois+One|Inconsolata:400,700");
+            @-webkit-keyframes loading {
+              0% {
+                transform: rotate(0);
+              }
+              100% {
+                transform: rotate(359deg);
               }
             }
-            .mobile-container::before,
-            .mobile-container::after {
-              content: '';
-              display: block;
-              height: 140px;
-              width: 100%;
-              position: absolute;
-              left: 0;
-              z-index: 1;
-            }
-            .mobile-container::before {
-              top: 0;
-              background: -moz-linear-gradient(top, #000 0%, rgba(0, 0, 0, 0) 100%);
-              background: -webkit-linear-gradient(top, #000 0%, rgba(0, 0, 0, 0) 100%);
-              background: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0) 100%);
-              filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#000, endColorstr=rgba(0, 0, 0, 0), GradientType=0);
-            }
-            .mobile-container::after {
-              bottom: 0;
-              background: -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, #000 100%);
-              background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, #000 100%);
-              background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, #000 100%);
-              filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=rgba(0, 0, 0, 0), endColorstr=#000, GradientType=0);
-            }
-            .mobile-container .notch {
-              display: block;
-              position: absolute;
-              top: 0;
-              left: 50%;
-              width: 200px;
-              height: 26px;
-              background-color: #080808;
-              z-index: 99;
-              border-bottom-left-radius: 14px;
-              border-bottom-right-radius: 14px;
-              -webkit-transform: translate(-50%, 0);
-              -moz-transform: translate(-50%, 0);
-              -o-transform: translate(-50%, 0);
-              -ms-transform: translate(-50%, 0);
-              transform: translate(-50%, 0);
-            }
-            .top-row {
-              display: -webkit-box;
-              display: -moz-box;
-              display: -ms-flexbox;
-              display: -webkit-flex;
-              display: flex;
-              flex-direction: row;
-              justify-content: space-between;
-              align-items: center;
-              padding: 25px 30px 0;
-              position: relative;
-              z-index: 2;
-            }
-            .menu {
-              width: 22px;
-              filter: brightness(42.5);
-              opacity: 1;
-              position: absolute;
-              right: 40px;
-              cursor: pointer;
-            }
-            .top-row .menu span,
-            .top-row .menu span::before,
-            .top-row .menu span::after {
-              content: '';
-              width: 20px;
-              height: 2px;
-              border-radius: 6px;
-              display: block;
-              background-color: #FFF;
-            }
-            .top-row .menu span {
-              position: relative;
-              margin: 5px 0;
-            }
-            .top-row .menu span::before {
-              position: absolute;
-              left: 0;
-              width: 14px;
-              top: -8px;
-            }
-            .top-row .menu span::after {
-              position: absolute;
-              left: 0;
-              bottom: -8px;
-            }
-            .slider-element-container {
-              position: relative;
-              z-index: 2;
-              height: calc(100% - 67px);
-              padding-bottom: 25px;
-              width: 100%;
-              display: -webkit-box;
-              display: -moz-box;
-              display: -ms-flexbox;
-              display: -webkit-flex;
-              display: flex;
-              flex-direction: column;
-              align-items: flex-end;
-              justify-content: flex-end;
-            }
-            .slider-element-container .swiper-container {
-              width: 100%;
-              padding: 0 20px 40px;
-            }
-            .slider-element-container .swiper-pagination-bullet {
-              background-color: rgba(255, 255, 255, 0.9);
-            }
-            .slider-element-container .swiper-pagination-bullet.swiper-pagination-bullet-active {
-              background-color: #FFF;
-            }
-            .slider-element-container .swiper-slide {
-              width: 100%;
-              padding: 30px;
-              background-color: #FFF;
-              border-radius: 8px;
-              -webkit-transition: all 0.35s ease;
-              -moz-transition: all 0.35s ease;
-              -o-transition: all 0.35s ease;
-              transition: all 0.35s ease;
-              opacity: 0.3;
-              height: 100%;
-              -moz-transform: scale(0.85);
-              -ms-transform: scale(0.85);
-              -o-transform: scale(0.85);
-              -webkit-transform: scale(0.85);
-              transform: scale(0.85);
-            }
-            .slider-element-container .swiper-slide .content {
-              -webkit-transition: all 0.35s ease;
-              -moz-transition: all 0.35s ease;
-              -o-transition: all 0.35s ease;
-              transition: all 0.35s ease;
-              opacity: 0;
-              height: 100%;
-              display: -webkit-box;
-              display: -moz-box;
-              display: -ms-flexbox;
-              display: -webkit-flex;
-              display: flex;
-              flex-direction: column;
-              align-items: flex-start;
-              /*display: flex;*/
-              justify-content: center;
-              height: 230px;
-            }
-            .slider-element-container .swiper-slide .content .headline {
-              font-family: 'Merriweather', serif;
-              font-size: 16px;
-              font-weight: 700;
-              color: #011245;
-              /*margin-bottom: 20px;*/
-              line-height: 1.5;
-            }
-            .slider-element-container .swiper-slide .content .tag {
-              padding: 7px 10px;
-              background-color: #202637;
-              color: #FFF;
-              font-size: 15px;
-              line-height: 10px;
-              font-weight: 700;
-              text-transform: uppercase;
-              display: inline-block;
-              margin-bottom: 40px;
-              border-radius: 4px;
-              margin-bottom: 0;
-            }
-            .slider-element-container .swiper-slide .content button.button {
-              cursor: pointer;
-              width: 100%;
-              margin-top: auto;
-              padding: 10px 15px;
-              text-align: center;
-              text-transform: uppercase;
-              font-weight: 600;
-              color: #FFF;
-              background-color: #F02B67;
-              border-radius: 6px;
-              border: 0 none;
-              -webkit-appearance: none;
-              -webkit-box-shadow: 0 10px 10px -10px rgba(240, 43, 103, 0.6);
-              -moz-box-shadow: 0 10px 10px -10px rgba(240, 43, 103, 0.6);
-              box-shadow: 0 10px 10px -10px rgba(240, 43, 103, 0.6);
-              -webkit-transition: all 0.25s ease;
-              -moz-transition: all 0.25s ease;
-              -o-transition: all 0.25s ease;
-              transition: all 0.25s ease;
-            }
-            .slider-element-container .swiper-slide .content button.button:hover {
-              -webkit-transform: translate(0, -2px);
-              -moz-transform: translate(0, -2px);
-              -o-transform: translate(0, -2px);
-              -ms-transform: translate(0, -2px);
-              transform: translate(0, -2px);
-              -webkit-box-shadow: 0 10px 10px -10px #F02B67;
-              -moz-box-shadow: 0 10px 10px -10px #F02B67;
-              box-shadow: 0 10px 10px -10px #F02B67;
-            }
-            .slider-element-container .swiper-slide .content button.button:focus {
-              outline: 1px dashed #202637;
-            }
-            .slider-element-container .swiper-slide.swiper-slide-active {
-              opacity: 1;
-              -moz-transform: scale(1);
-              -ms-transform: scale(1);
-              -o-transform: scale(1);
-              -webkit-transform: scale(1);
-              transform: scale(1);
-              min-height: 100px;
-            }
-            .slider-element-container .swiper-slide.swiper-slide-active .content {
-              opacity: 1;
-            }
-            @media screen and (max-height: 670px) {
-              .slider-element-container .swiper-slide.swiper-slide-active {
-                min-height: 230px;
+            @keyframes loading {
+              0% {
+                transform: rotate(0);
               }
-              .mobile-container {
-        /*        -moz-transform: scale(0.7);
-                -ms-transform: scale(0.7);
-                -o-transform: scale(0.7);
-                -webkit-transform: scale(0.7);
-                transform: scale(0.7);*/
-              }
-            }
-            .infobox-container,
-            .trademark {
-              display: none;
-            }
-            @media screen and (min-width: 1024px) {
-              .trademark {
-                display: block;
-                position: absolute;
-                z-index: 99;
-                left: 50px;
-                top: 50px;
-                max-width: 70px;
-                transition: all 0.3s ease-in-out;
-              }
-              .trademark svg {
-                width: 100%;
-              }
-              .trademark:hover {
-                transform: translate(0, -2px);
-              }
-              .trademark svg {
-                width: 100%;
-              }
-              .trademark:hover {
-                transform: translate(0, -2px);
-              }
-              .infobox-container {
-                display: block;
-                position: absolute;
-                right: 50px;
-                bottom: 50px;
-                z-index: 99;
-              }
-              .infobox-container .social-media-links {
-                display: -webkit-box;
-                display: -ms-flexbox;
-                display: flex;
-                flex-direction: row;
-              }
-              .infobox-container .social-media-links a {
-                margin: 0 15px;
-                transition: all 0.3s ease-in-out;
-              }
-              .infobox-container .social-media-links a svg,
-              .infobox-container .social-media-links a svg path {
-                transition: all 0.3s ease-in-out;
-              }
-              .infobox-container .social-media-links a:hover {
-                transform: translate(0, -2px);
-              }
-              .infobox-container .social-media-links a:hover svg path {
-                fill: #323232;
+              100% {
+                transform: rotate(359deg);
               }
             }
             * {
               box-sizing: border-box;
             }
-            html {
-              width: 100%;
-              height: 100%;
-              background-color: #080808;
-              font-family: 'Source Sans Pro', sans-serif;
-            }
+            
             body {
+              font-family: "Inconsolata", monospace;
+              background-color: #000;
+              color: #FFF;
+              line-height: 1.4;
+            }
+            
+            .defs-only {
+              position: absolute;
+              width: 0;
+              height: 0;
+            }
+            
+            a {
+              color: #304FFE;
+              font-weight: bold;
+              text-decoration: none;
+              border-bottom: 1px #304FFE dotted;
+            }
+            a:hover {
+              border-bottom: 1px #304FFE solid;
+            }
+            
+            header {
+              border-bottom: 1px dotted #304FFE;
+              padding-bottom: 20px;
+              margin-bottom: 20px;
+              display: flex;
+              align-items: center;
+            }
+            header h1 {
+              line-height: 1;
+            }
+            header h1 a {
+              border-bottom: none;
               position: relative;
+            }
+            header h1 a:after {
+              content: "";
+              position: absolute;
+              height: 100%;
+              width: 50px;
+              left: -60px;
+              top: 0;
+              background-image: url("../img/icon-2.png");
+              background-repeat: no-repeat;
+              background-position: center left;
+              background-size: contain;
+            }
+            header h1 a:hover {
+              border-bottom: none;
+            }
+            
+            h1 {
+              margin: 0;
+              text-shadow: 2px 0 0 #F48FB1;
+              margin-right: 20px;
+              font-size: 48px;
+            }
+            
+            h2 {
+              text-shadow: 2px 0 0 #F48FB1;
+              margin-top: 50px;
+              font-size: 32px;
+            }
+            
+            h3 {
+              font-size: 24px;
+            }
+            
+            h1,
+            h2,
+            h3 {
+              font-family: "Francois One";
+              font-weight: normal;
+              text-transform: uppercase;
+            }
+            
+            blockquote {
+              font-size: 1.1em;
+              border: 1px #304FFE solid;
+              padding: 20px;
+              background-color: rgba(48, 79, 254, 0.1);
+              line-height: 1.2;
+            }
+            
+            #page {
+              max-width: 1200px;
+              position: relative;
+              z-index: 99;
+              margin: 50px auto;
+            }
+            @media only screen and (max-width: 1240px) {
+              #page {
+                margin: 50px 20px;
+              }
+            }
+            
+            nav.nav {
+              margin-bottom: 50px;
+              text-align: right;
+            }
+            nav.nav ul {
+              list-style: none;
+              margin: 0;
+              padding: 0;
+            }
+            nav.nav ul li {
+              display: inline-block;
+            }
+            
+            p.subtitle {
+              font-style: italic;
+            }
+            
+            #list {
+              max-width: 768px;
+              margin: 50px auto;
+            }
+            
+            #load-more i {
+              display: none;
+            }
+            #load-more.loading i {
+              display: inline-block;
+              -webkit-animation: loading 1s infinite;
+                      animation: loading 1s infinite;
+            }
+            
+            #search-filter {
+              margin-bottom: 50px;
+            }
+            #search-filter a {
+              border-bottom: none;
+              border: 2px #304FFE solid;
+              margin: 3px;
+              border-radius: 4px;
+              padding: 5px 10px;
+              overflow: hidden;
+              display: inline-block;
+              vertical-align: middle;
+              background-color: rgba(48, 79, 254, 0);
+            }
+            #search-filter a:hover, #search-filter a.selected {
+              background-color: #304FFE;
+              color: #FCE4EC;
+            }
+            #search-filter label {
+              font-family: "Francois One";
+              text-transform: uppercase;
+            }
+            #search-filter > div {
+              margin: 10px 0;
+            }
+            
+            input[type=text],
+            input[type=search],
+            input[type=number],
+            input[type=url],
+            textarea {
+              border: 2px #304FFE solid;
+              border-radius: 3px;
+              background-color: transparent;
+              padding: 5px 10px;
+              font-size: 16px;
+              color: #304FFE;
+              font-family: "Inconsolata";
+            }
+            
+            input[type=text],
+            input[type=number],
+            input[type=url],
+            textarea {
+              width: 100%;
+            }
+            
+            select {
+              border: 2px #304FFE solid;
+              background-color: transparent;
+              padding: 5px 10px;
+              font-size: 16px;
+              color: #304FFE;
+              font-family: "Inconsolata";
+            }
+            
+            .button,
+            input[type=submit] {
+              background-color: #304FFE;
+              border-radius: 3px;
+              padding: 5px 10px;
+              font-size: 20px;
+              font-family: "Inconsolata";
+              color: #FCE4EC;
+            }
+            
+            .row {
+              margin: 0;
+            }
+            
+            .form-row {
+              margin-bottom: 1em;
+            }
+            .form-row label {
+              display: block;
+              font-weight: bold;
+            }
+            
+            #add-row {
+              margin-bottom: 50px;
+            }
+            
+            #overlay {
+              position: fixed;
+              top: 0;
+              left: 0;
               width: 100%;
               height: 100%;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              z-index: 999;
+              opacity: 0;
+              pointer-events: none;
+              background-color: rgba(244, 143, 177, 0.5);
+              transform: scale(0);
+              transition: 0.5s;
             }
-            .main-content {
-              max-width: 1024px;
-              margin: 0 auto;
+            #overlay.show {
+              opacity: 1;
+              pointer-events: all;
+              transform: scale(1);
+            }
+            #overlay form {
+              background-color: #FCE4EC;
+              padding: 20px;
+              box-sizing: border-box;
+              min-width: 300px;
+              max-width: 768px;
+              flex-grow: 1;
+            }
+            #overlay .close {
+              position: absolute;
+              top: 20px;
+              right: 20px;
+              color: #304FFE;
+              border-bottom: none;
+              font-size: 40px;
+            }
+            #overlay h2 {
+              margin: 0 0 20px;
+            }
+            
+            #posts.grid {
+              display: flex;
+              flex-wrap: wrap;
+            }
+            #posts.grid article {
+              width: 30%;
+              margin-right: 5%;
+            }
+            #posts.grid article:nth-child(3n+3) {
+              margin-right: 0;
+            }
+            #posts.grid article:after {
+              top: -10px;
+              left: -10px;
+            }
+            @media only screen and (max-width: 568px) {
+              #posts.grid article {
+                width: 45%;
+              }
+              #posts.grid article:nth-child(3n+3) {
+                margin-right: 5%;
+              }
+              #posts.grid article:nth-child(2n+2) {
+                margin-right: 0 !important;
+              }
+            }
+            
+            article {
+              padding-bottom: 40px;
+              margin-bottom: 40px;
+              position: relative;
+              box-sizing: border-box;
+              background-color: #304FFE;
+              color: #FCE4EC;
+              padding: 20px;
+              padding-bottom: calc(4em + 20px);
+            }
+            article.hidden {
+              display: none;
+            }
+            article .tags {
+              margin-top: 0;
+            }
+            article .tags a {
+              border-bottom: 2px #F48FB1 solid;
+            }
+            article .tags a:hover {
+              border-color: #EC407A;
+            }
+            article:after {
+              content: "";
               width: 100%;
-              padding: 0 15px;
+              height: 100%;
+              position: absolute;
+              z-index: -1;
+              top: -15px;
+              left: -15px;
+              background-image: linear-gradient(to bottom left, #F48FB1, #EC407A);
             }
-            .swiper-pagination {
-              margin-bottom: 10px;
-              overflow: hidden;
-              max-width: 230px;
-              margin: 0 auto;
+            article h3 {
+              margin-top: 0;
+              margin-bottom: 0;
+            }
+            article a {
+              color: #FCE4EC;
+            }
+            article .meta {
+              position: absolute;
+              width: 100%;
+              bottom: 0;
               left: 0;
-              right: 0;
-              height: 19px;
-              bottom: 24px !important;
+              border-top: 1px #F48FB1 dotted;
+              padding: 0 20px 20px;
+              box-sizing: border-box;
             }
-            @media (max-width:  768px) {
-              .slider-element-container .swiper-slide .content .headline {
-                font-size: 17px;
+            article .meta p {
+              margin-bottom: 0;
+            }
+            article .gallery,
+            article .slides {
+              width: 61%;
+            }
+            @media only screen and (max-width: 768px) {
+              article {
+                flex-wrap: wrap;
               }
-              .swiper-pagination {
-                bottom: 20px !important;
+              article .info,
+            article .gallery,
+            article .slides {
+                width: 100%;
               }
-              .slider-element-container {
-                padding-bottom: 40px !important;
+              article .info {
+                order: 1;
+              }
+              article .gallery,
+            article .slides {
+                order: 2;
               }
             }
         </style>
     </head>
     
     <body>
-        <section id="app" class="section-container">
-            <div id="background" class="mobile-container" :style="`background-image: url(${backgroundImage}); background-color: ${backgroundColor};`"> 
-                <div class="slider-element-container">
-                    <div class="swiper-container">
-                        <div class="swiper-wrapper">
-                            <div v-for="i in articles" class="swiper-slide" :data="i.url" @click="read(i)">
-                                <div class="content"> <span class="headline">{{ i.title &&  i.title.length > 120 ?  i.title.slice(0, 120) + '..' :  i.title }}</span>
-                                    <span style=" margin: 10px 0 15px 0; font-size: 17px; opacity: 0.8; ">{{ date(i) }}</span>
-                                    <span class="tag">{{ i.sub }}</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-pagination"></div>
+        <!-- partial:index.partial.html -->
+        <div id="list">
+             <h1>Articles</h1>
+
+            <div class="row end-xs" id="add-row"> <a href="#" id="open-form" class="button" role="button"><i class="fa fa-plus"></i> Add New</a>
+
+            </div>
+            <form id="search-filter">
+                <div id="filter-tags" class="filter-multiple">
+                    <label>Filter by:</label> <span id="tags-list"></span>
+
+                </div>
+                <div id="search">
+                    <label>Search:</label>
+                    <input type="search" value="" name="s" id="s" />
+                </div>
+                <div class="row between-xs middle-xs">
+                    <div id="sort">
+                        <label>Sort:</label>
+                        <select name="order" id="sort-order">
+                            <option value="date-asc">oldest to newest</option>
+                            <option value="date-desc">newest to oldest</option>
+                            <option value="alpha-asc">a to z</option>
+                            <option value="alpha-desc">z to a</option>
+                        </select>
+                    </div>
+                    <div id="display" class="filter-one">
+                        <label>Display:</label> <a href="#" role="button" class="show-list selected"><i class="fa fa-th-list"></i> list</i>
+        <a href="#" role="button" class="show-grid"><i class="fa fa-th-large"></i> grid</a>
+
                     </div>
                 </div>
+            </form>
+            <div id="posts">
+                <article>
+                     <h3>Title</h3>
+
+                    <p class="tags"><a href="#">tag</a>
+                    </p>content
+                    <div class="meta">
+                        <p class="date">Completed m/d/y | <a href="#" rel="external" target="_blank">View site <i class="fa fa-external-link-square"></i></a>
+
+                        </p>
+                    </div>
+                </article>
             </div>
-        </section>
+            <div class="row center-xs"> <a href="#" class="button" role="button" id="load-more">Load More <i class="fa fa-spinner"></i></a>
 
-  
-        <script src='https://unpkg.com/swiper/swiper-bundle.min.js'></script>
-        <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14"></script>
-        <script src="https://cdn.jsdelivr.net/npm/axios@0.26.0"></script>
+            </div>
+        </div>
+        <div id="overlay">
+            <form id="add-item" name="add_item" method="POST" action="">
+                 <h2>New Article</h2>
 
-        <script src='https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.min.js'></script>
-        <script src='https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.3/vue.min.js'></script>
-        <script src='https://unpkg.com/@trainorpj/sentiment@4.1.4/bundle/bundle.js'></script>
-        <script src='https://unpkg.com/@trainorpj/sentiment@4.1.4/bundle/bundle.js'></script>
+                <div class="form-row">
+                    <label for="title">Title</label>
+                    <input type="text" name="title" />
+                </div>
+                <div class="form-row">
+                    <label for="permalink">Permalink</label>
+                    <input type="url" name="permalink" />
+                </div>
+                <div class="form-row">
+                    <label for="excerpt">Excerpt</label>
+                    <textarea name="excerpt"></textarea>
+                </div>
+                <div class="form-row">
+                    <label for="tags">Tags</label>
+                    <input type="text" name="tags" />
+                </div>
+                <div class="form-row">
+                    <label for="date">Date Posted</label>
+                    <input type="text" name="date" class="datepicker" />
+                </div>
+                <div class="form-row">
+                    <label for="featured">
+                        <input type="checkbox" value="true" name="featured" />Featured?</label>
+                </div>
+                <div class="form-row">
+                    <input type="submit" value="Add Article" />
+                </div> <a class="close" href="#" role="button"><i class="fa fa-times"></i><span class="sr-only">Close</span></a>
 
+            </form>
+        </div>
+        <!-- partial -->
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js'></script>
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.1/moment.js'></script>
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.js'></script>
         <script>
-
-          const { scaleThreshold, scaleOrdinal } = d3;
-            
-            const analyze = phrase => {
-              const val = sentiment(phrase);
-              return {
-                comparative: val.comparative,
-                negative: val.negative,
-                positive: val.positive };
-            };
-            
-            const emojis = ["😍", "🙂", "😑", "🙁", "😠"];
-            const colors = ["#2979FF", "#81D4FA", "#EDE7F6", "#F48FB1", "#E53935"];
-            
-            const emojiColor = scaleOrdinal().
-            domain(emojis).
-            range(colors);
-            
-            const emojiSentiment = scaleThreshold().
-            domain([-3, -1, 1, 3, 5]).
-            range([...emojis].reverse());
-
-            window.background = function(i, b) {
-                // console.log()
-                // console.log(i && i.$el ? i.$el[0] : '')
-                // console.log(i && i.$el ? i.$el[0].getAttribute('data') : '')
-                if (i) app.change(i.activeIndex)
-                  // console.log( this.articles[] )
-            }
-            
-            const Slider = {
-            
-              init: () => {
-                Slider.initialize();
+            var posts = [
+              {
+                title: "The Hardest Thing is to Keep Going",
+                permalink: "https://dev.to/carlymho/the-hardest-thing-is-to-keep-going--27ee",
+                excerpt: "A meditation on forward career movement in a hostile environment",
+                tags: ["shecoded", "tech culture"],
+                featured: false,
+                date: '2018-03-08'
               },
-            
-              initialize: () => {
-                var mySwiper = new Swiper('.swiper-container', {
-                  direction: 'horizontal',
-                  loop: false,
-                  grabCursor: true,
-                  slidesPerView: 1.35,
-                  centeredSlides: true,
-                  spaceBetween: 20,
-                  roundLengths: true,
-                  pagination: {
-                  el: '.swiper-pagination' } 
-              });
-
-              var images = [
-                  "https://source.unsplash.com/1080x1920/?beach",
-                  "https://source.unsplash.com/1080x1920/?mountain",
-                  "https://source.unsplash.com/1080x1920/?pet",
-                ]
-
-                mySwiper.on('slideChange', function (i, b) {
-                 background(i, b)
-                });
-
+              {
+                title: "Line-Based Truncation Methods",
+                permalink: "https://dev.to/carlymho/line-based-truncation-methods-51bk",
+                excerpt: "A walkthrough of a few methods for truncating text to a certain number of lines for any device or viewport size",
+                tags: ["css", "javascript", "tutorial"],
+                featured: true,
+                date: '2018-04-25'
+              },
+              {
+                title: "Goat Cheese Lavender Honey with Baguette",
+                permalink: "http://mediterranealicious.com/2014/06/15/goat-cheese-lavender-honey-with-baguette/",
+                excerpt: "Simple charming recipe for a cheese spread. (Not by me.)",
+                tags: ["recipes"],
+                featured: false,
+                date: '2014-06-05'
+              },
+              {
+                title: "The Ultimate Challah Bread",
+                permalink: "https://www.barbarabakes.com/the-ultimate-challah-bread/",
+                excerpt: "I really want to learn to make this bread recipe! (Not by me.)",
+                tags: ["recipes", "bread"],
+                featured: false,
+                date: '2017-04-04'
+              },
+              {
+                title: "Pictures of my cat",
+                permalink: "http://instagram.com/pigeonkitty",
+                excerpt: "What would you rather be doing than looking at pictures of my cat? Nothing, that's what.",
+                tags: ["cats", "photos"],
+                featured: true,
+                date: '2018-04-25'
+              },
+              {
+                title: "Honey Lavender Cheesecake",
+                permalink: "https://www.sprinklesforbreakfast.com/honey-lavender-cheesecake.php",
+                excerpt: "A fancy lavender-colored cheesecake that my fiancée really wants to try. (Not by me.)",
+                tags: ["recipes", "desserts"],
+                featured: false,
+                date: '2018-04-17'
+              },
+              {
+                title: "Honey Butter Roasted Carrots",
+                permalink: "https://rasamalaysia.com/honey-butter-roasted-carrots/",
+                excerpt: "A side dish I use occasionally. (Not by me.)",
+                tags: ["recipes", "vegetables"],
+                featured: false,
+                date: '2015-03-01'
               }
-          };
- 
-            const conf = {
-              qS: selector => {
-                return document.querySelector(selector);
-              },
-              qSA: selector => {
-                return document.querySelectorAll(selector);
-              },
-              CqS: (container, selector) => {
-                return container.querySelector(selector);
-              },
-              InfoBox: () => {
-                let toggle = conf.qS('.infobox-container .infobox-toggle'),
-                detail = conf.qS('.infobox-container .infobox-detail-container');
-                if (toggle) {
-                  toggle.onclick = e => {
-                    e.preventDefault();
-                    detail.classList.toggle('active');
-                  };
-                }
-              } 
-            };
-        
-            const app = new Vue({
-            el: '#app',
-            data: { 
-              backgroundColor: '',
-              backgroundImage: '',
-              articles: [],
-              title: 'Accounts',
-              message: 'Hello World' 
-            },
-            mounted() {
-              window.background()
-              this.load()
-            },
-            watch: {},
-            computed: {
-            },
-            methods: {
-              date(i) {
-                return this.fromNow(Date.parse(i.timestamp))
-              },
-              sentiment(phrase) {
-                const { comparative, positive, negative } = sentiment(phrase);
-                return {
-                  comparative: comparative.toFixed(2),
-                  positive,
-                  negative };
-              },
-              stringToColor(str) {
-                var hash = 0;
-                for (var i = 0; i < str.length; i++) {
-                  hash = str.charCodeAt(i) + ((hash << 5) - hash);
-                }
-                var colour = '#';
-                for (var i = 0; i < 3; i++) {
-                  var value = (hash >> (i * 8)) & 0xFF;
-                  colour += ('00' + value.toString(16)).substr(-2);
-                }
-                return colour;
-              },
-              color(item) {
-                // console.log(item.title.toLowerCase().includes('texas'))
-                // if (item && item.title && (item.title.toLowerCase().includes('dies') || item.title.toLowerCase().includes('dead'))) {
-                //   this.backgroundImage = ''
-                //   return
-                // }
-                // if (item && item.title && item.title.toLowerCase().includes('texas')) {
-                //   this.backgroundImage = 'https://media.newyorker.com/photos/6133f3141b296fb0aa9bddc2/1:1/w_1702,h_1702,c_limit/Tolentino-SB8.jpg'
-                //   // this.$forceUpdate()
-                //   return
-                // }
-                // if (item && item.title && (item.title.toLowerCase().includes('abortion'))) {
-                //   this.backgroundImage = 'https://www.gannett-cdn.com/presto/2022/05/06/NAAS/1210da76-48f5-48a5-b99d-ccf6c0a0e449-AEM_UT_Roe_v_Wade_Protest-9.jpg'
-                //   return
-                // }
-                // if (item && item.title && item.title.toLowerCase().includes('biden')) {
-                //   this.backgroundImage = 'https://gray-wkyt-prod.cdn.arcpublishing.com/resizer/tF2yQ5T0EcpVRMXX3F78W9URqR8=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/FPCADCJMJNASTKZHEMN53YTMKY.jpg'
-                //   return
-                // }
-                // if (item && item.title && item.title.toLowerCase().includes('boebert')) {
-                //   this.backgroundImage = 'https://hrc-prod-requests.s3-us-west-2.amazonaws.com/_1200x630_crop_center-center_none/Abortion-Header.png'
-                //   return
-                // }
-                // if (item && item.title && (item.title.toLowerCase().includes('clarence thomas') || item.title.toLowerCase().includes('supreme court'))) {
-                //   this.backgroundImage = 'https://images.unsplash.com/photo-1542358935821-e4e9f3f3c15d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80'
-                //   return
-                // }
-                // if (item && item.title && item.title.toLowerCase().includes('jan. 6')) {
-                //   this.backgroundImage = 'https://www.poynter.org/wp-content/uploads/2022/06/AP_22160732197078.jpg'
-                //   return
-                // }
-                // if (item && item.title && item.title.toLowerCase().includes('trump')) {
-                //   this.backgroundImage = 'https://scpr.brightspotcdn.com/dims4/default/2886d33/2147483647/strip/true/crop/4992x3264+0+0/resize/880x575!/quality/90/?url=https%3A%2F%2Fa.scpr.org%2F166794_df08c025f541562e231d81de1db0d4f2_original.jpg'
-                //   return
-                // }
-                // this.backgroundImage = 'https://images.unsplash.com/photo-1542358935821-e4e9f3f3c15d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80'
-                var color = this.stringToColor(item.title)
-                var score = this.sentiment(item.title).comparative
-                //   // console.log("score", score)
-                // if (Number(score) == 0) color =  'rgb(50 0 0)'
-                if (Number(score) < 0) color = 'rgb(0 2 47)'
-                // // if (item && ( item.title.toLowerCase().includes('us') || item.title.toLowerCase().includes('biden') || item.title.toLowerCase().includes('democrat') )) return '#000060'
-                // // if (item && ( item.title.toLowerCase().includes('trump') )) return 'rgb(50 0 0)'
-                // // document.getElementById('background').style.backgroundImage = `url(https://images.unsplash.com/photo-1542358935821-e4e9f3f3c15d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80)`
-                // // document.getElementById('background').style.backgroundColor = color
-                this.backgroundColor = color
-                this.backgroundImage = ''
-                return 
-              },
-              change(index) {
-                var item = this.articles[index]
-                if (!item || !item.title) return
-                this.color(item)
-              },
-              read(i) {
-                var confirm = window.confirm('Want to navigate to: ' + i.url)
-                if (confirm) window.open(i.url, '_blank')
-              },
-              load() {
-                var self = this
-                axios.get(`https://api.fwd.dev/news`).then((res) => {
-                  this.articles = res.data.news
-                  setTimeout(() => {
-                    Slider.init();
-                    conf.InfoBox();
-                    self.change(0)
-                  }, 100)
-                })
-              },
-              fromNow(date) {
-                var seconds = Math.floor((new Date() - date) / 1000);
-                var years = Math.floor(seconds / 31536000);
-                var months = Math.floor(seconds / 2592000);
-                var days = Math.floor(seconds / 86400);
-
-                if (days > 548) {
-                  return years + ' years ago';
-                }
-                if (days >= 320 && days <= 547) {
-                  return 'a year ago';
-                }
-                if (days >= 45 && days <= 319) {
-                  return months + ' months ago';
-                }
-                if (days >= 26 && days <= 45) {
-                  return 'a month ago';
-                }
-
-                var hours = Math.floor(seconds / 3600);
-
-                if (hours >= 36 && days <= 25) {
-                  return days + ' days ago';
-                }
-                if (hours >= 22 && hours <= 35) {
-                  return 'a day ago';
+            ];
+            
+            var tags = [];
+            var firstrun = true;
+            var perPage = 5;
+            
+            $(window).on('load', function() {
+              $('.datepicker').datepicker();
+              function updateTags() {
+                var tagContent = tags.sort().map(function(t, i) {
+                  return "<a href='#"+t+"' role='button' class=''>#"+t+"</a>";
+                }).join("");
+                $("#tags-list").html(tagContent);
+              }
+              function updateContent() {
+                if ($('.show-list').hasClass('selected')) {
+                  $('#posts').removeClass('grid');
+                } else {
+                  $('#posts').addClass('grid');
                 }
                 
-                var minutes = Math.floor(seconds / 60);
-
-                if (minutes >= 90 && hours <= 21) {
-                  return hours + ' hours ago';
+                $('#posts').html("");
+                
+                var splitSort = $('#sort-order option:selected').val().split("-");
+                var sortType = splitSort[0];
+                var sortDir = splitSort[1];
+                var keyword = $('#s').val();
+                var filterTags = $('#filter-tags a.selected').map(function() {
+                  return $(this).attr("href").replace("#", "");
+                }).toArray();
+                
+                var results = posts.filter(function(p, i) {
+                  if (filterTags.length > 0) {
+                    var istn = filterTags.filter(function(n) {
+                      return p.tags.indexOf(n) !== -1;
+                    });
+                    if (istn.length > 0) {
+                      return true;
+                    }
+                  } else {
+                    return p;
+                  }
+                }).filter(function(p, i) {
+                  if (keyword !== "") {
+                    var re = new RegExp(keyword, "i");
+                    if (p.title.match(re) !== null || p.excerpt.match(re) !== null) {
+                      return true;
+                    } else {
+                      return false;
+                    }
+                  } else {
+                    return true;
+                  }
+                });
+                
+                results.sort(function(a, b) {
+                  if (a.featured === true && b.featured === false) {
+                    return -1;
+                  } else if (b.featured === true && a.featured === false) {
+                    return 1;
+                  }
+                  if (sortType === "date") {
+                    if (sortDir === "asc") {
+                      if (a.date < b.date) {
+                        return -1;
+                      } else if (a.date > b.date) {
+                        return 1;
+                      } else {
+                        return 0;
+                      }
+                    } else {
+                      if (a.date < b.date) {
+                        return 1;
+                      } else if (a.date > b.date) {
+                        return -1;
+                      } else {
+                        return 0;
+                      }
+                    }
+                  } else if (sortType === "alpha") {
+                    if (sortDir === "asc") {
+                      if (a.title < b.title) {
+                        return -1;
+                      } else if (a.title > b.title) {
+                        return 1;
+                      } else {
+                        return 0;
+                      }
+                    } else {
+                      if (a.title < b.title) {
+                        return 1;
+                      } else if (a.title > b.title) {
+                        return -1;
+                      } else {
+                        return 0;
+                      }
+                    }
+                  }
+                });
+                tags = [];
+            
+                for (var i = 0; i < results.length; i++) {
+                  var article = results[i];
+                  var tagsFormatted = article.tags.map(function(t) {
+                    return "<a href='#"+t+"'>#"+t+"</a>";
+                  }).join(" ");
+                  for (var j = 0; j <  article.tags.length; j++) {
+                    if (tags.indexOf(article.tags[j]) === -1) {
+                      tags.push(article.tags[j]);
+                    }
+                  }
+                  var featured = (article.featured) ? '<i class="fa fa-thumb-tack"></i> ' : '';
+                  var date = moment(article.date).format('MM/DD/YY');
+                  var template = `
+                  <article${(i >= perPage) ? ' class="hidden"' : ''}>
+                    <h3>${featured}${article.title}</h3>
+                    <p class="tags">${tagsFormatted}</p>
+                    ${article.excerpt}
+                    <div class="meta">
+                      <p class="date">Completed ${date} |
+                        <a href="${article.permalink}" rel="external" target="_blank">View article <i class="fa fa-external-link-square"></i></a>
+                      </p>
+                    </div>
+                  </article>
+                `;
+                  $('#posts').append(template);
                 }
-                if (minutes >= 45 && minutes <= 89) {
-                  return 'an hour ago';
+                if (firstrun === true) {
+                  updateTags();
                 }
-                if (seconds >= 90 && minutes <= 44) {
-                  return minutes + ' minutes ago';
+                if ($('#posts .hidden').length > 0) {
+                  $('#load-more').show();
+                } else {
+                  $('#load-more').hide();
                 }
-                if (seconds >= 45 && seconds <= 89) {
-                  return 'a minute ago';
-                }
-                if (seconds >= 0 && seconds <= 45) {
-                  return 'a few seconds ago';
-                }
+                firstrun = false;
               }
-            },
-          })
+              
+              $('#add-item').submit(function(e) {
+                e.preventDefault();
+                var taglist = [];
+                if ($('#add-item [name="tags"]').val() !== "") {
+                  taglist = $('#add-item [name="tags"]').val().split(", ")
+                }
+                var newItem = {
+                  title: $('#add-item [name="title"]').val(),
+                  excerpt: $('#add-item [name="excerpt"]').val(),
+                  date: $('#add-item [name="date"]').val(),
+                  featured: $('#add-item [name="featured"]').is("checked"),
+                  tags: taglist,
+                  permalink: $('#add-item [name="permalink"]').val()
+                }
+                posts.push(newItem);
+                $('#add-item input[type!="submit"], #add-item textarea').val("");
+                $('#add-item input[type="checkbox]').removeProp('checked');
+                updateContent();
+                updateTags();
+              });
+              
+              $('#search-filter').on('click', 'a', function(e) {
+                e.preventDefault();
+                if ($(this).parents().hasClass('filter-multiple')) {
+                  $(this).toggleClass('selected');
+                } else {
+                  $(this).addClass('selected');
+                }
+                if ($(this).parents().hasClass('filter-one')) {
+                  $(this).siblings().removeClass('selected'); 
+                }
+                console.log($('#filter-tags .selected'));
+                updateContent();
+              });
+              
+              $('#search-filter input[type="search"], #search-filter select').on('change', function() {
+                updateContent();
+              });
+              
+              $('#open-form').on('click', function(e) {
+                e.preventDefault();
+                $('#overlay').addClass('show');
+                $('#overlay input').first().focus();
+              });
+              
+              $('#overlay .close').on('click', function(e) {
+                e.preventDefault();
+                $('#add-item input, #add-item textarea').val("");
+                $('#overlay').removeClass('show');
+                $('h1').first().focus();
+              });
+              
+              $('#load-more').on('click', function(e) {
+                e.preventDefault();
+                $(this).addClass('loading');
+                $('#posts .hidden').each(function(i, elt) {
+                  if (i <= perPage) {
+                    $(this).removeClass('hidden');
+                  }
+                });
+                if ($('#posts .hidden').length > 0) {
+                  $('#load-more').show();
+                } else {
+                  $('#load-more').hide();
+                }
+                $(this).removeClass('loading');
+              });
+              
+              updateContent();
+            });
         </script>
     </body>
 
