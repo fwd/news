@@ -3,16 +3,16 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Aug 30, 2022 11:28 PM
+- Updated: Aug 31, 2022 3:31 AM
 
 ```
 {
-    "title": "Hawaii Wins The Little League World Series Title — In The 4th Inning",
-    "domain": "huffpost.com",
-    "category": "sports",
-    "link": "https://www.huffpost.com/entry/hawaii-mercy-rule-little-league-world-series_n_630ce26ae4b0da54bae184f6",
-    "timestamp": 1661832211,
-    "published": "August 30, 2022 12:03 AM"
+    "title": "Roman ruins reappear from river in drought-stricken Europe almost 2,000 years later",
+    "domain": "miamiherald.com",
+    "category": "worldnews",
+    "link": "https://www.miamiherald.com/news/nation-world/world/article264947409.html",
+    "timestamp": 1661904645,
+    "published": "August 31, 2022 12:10 AM"
 }
 ```
 
@@ -25,7 +25,7 @@
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 30, 2022 10:26 PM
+- End: August 31, 2022 2:26 AM
 
 ### Topics
 
