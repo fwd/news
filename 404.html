@@ -1,0 +1,470 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    
+    <head>
+        <meta charset="UTF-8">
+        <title>The News by FWD</title>
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <meta name="apple-mobile-web-app-title" content="NEWS">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.1/flexboxgrid.css'>
+        <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css'>
+        <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.css'>
+        <script src="https://fwd.dev/js/vue.js"></script>
+        <script src="https://fwd.dev/js/axios.js"></script>
+        <style>
+            @import url("https://fonts.googleapis.com/css?family=Francois+One|Inconsolata:400,700");
+            @-webkit-keyframes loading {
+              0% {
+                transform: rotate(0);
+              }
+              100% {
+                transform: rotate(359deg);
+              }
+            }
+            @keyframes loading {
+              0% {
+                transform: rotate(0);
+              }
+              100% {
+                transform: rotate(359deg);
+              }
+            }
+            * {
+              box-sizing: border-box;
+            }
+            
+            body {
+              font-family: "Inconsolata", monospace;
+              background-color: #000;
+              color: #FFF;
+              line-height: 1.4;
+            }
+            
+            .defs-only {
+              position: absolute;
+              width: 0;
+              height: 0;
+            }
+            
+            a {
+              color: #304FFE;
+              font-weight: bold;
+              text-decoration: none;
+              border-bottom: 1px #304FFE dotted;
+            }
+            a:hover {
+              border-bottom: 1px #304FFE solid;
+            }
+            
+            header {
+              border-bottom: 1px dotted #304FFE;
+              padding-bottom: 20px;
+              margin-bottom: 20px;
+              display: flex;
+              align-items: center;
+            }
+            header h1 {
+              line-height: 1;
+            }
+            header h1 a {
+              border-bottom: none;
+              position: relative;
+            }
+            header h1 a:after {
+              content: "";
+              position: absolute;
+              height: 100%;
+              width: 50px;
+              left: -60px;
+              top: 0;
+              background-image: url("../img/icon-2.png");
+              background-repeat: no-repeat;
+              background-position: center left;
+              background-size: contain;
+            }
+            header h1 a:hover {
+              border-bottom: none;
+            }
+            
+            h1 {
+              margin: 0;
+              text-shadow: 2px 0 0 #F48FB1;
+              margin-right: 0;
+              font-size: 48px;
+              text-align: center;
+            }
+            
+            h2 {
+              text-shadow: 2px 0 0 #F48FB1;
+              margin-top: 50px;
+              font-size: 32px;
+            }
+            
+            h3 {
+              font-size: 24px;
+            }
+            
+            h1,
+            h2,
+            h3 {
+              font-family: "Francois One";
+              font-weight: normal;
+              text-transform: uppercase;
+            }
+            
+            blockquote {
+              font-size: 1.1em;
+              border: 1px #304FFE solid;
+              padding: 20px;
+              background-color: rgba(48, 79, 254, 0.1);
+              line-height: 1.2;
+            }
+            
+            #page {
+              max-width: 1200px;
+              position: relative;
+              z-index: 99;
+              margin: 50px auto;
+            }
+            @media only screen and (max-width: 1240px) {
+              #page {
+                margin: 50px 20px;
+              }
+            }
+            
+            nav.nav {
+              margin-bottom: 50px;
+              text-align: right;
+            }
+            nav.nav ul {
+              list-style: none;
+              margin: 0;
+              padding: 0;
+            }
+            nav.nav ul li {
+              display: inline-block;
+            }
+            
+            p.subtitle {
+              font-style: italic;
+            }
+            
+            #app {
+              max-width: 768px;
+              margin: 20px auto;
+            }
+            
+            #load-more i {
+              display: none;
+            }
+            #load-more.loading i {
+              display: inline-block;
+              -webkit-animation: loading 1s infinite;
+                      animation: loading 1s infinite;
+            }
+            
+            #search-filter {
+              margin-bottom: 35px;
+              zoom:  1.3;
+            }
+            #search-filter a {
+              border-bottom: none;
+              border: 2px #304FFE solid;
+              margin: 3px;
+              border-radius: 4px;
+              padding: 5px 10px;
+              overflow: hidden;
+              display: inline-block;
+              vertical-align: middle;
+              background-color: rgba(48, 79, 254, 0);
+            }
+            #search-filter a:hover, #search-filter a.selected {
+              background-color: #304FFE;
+              color: #FCE4EC;
+            }
+            #search-filter label {
+              font-family: "Francois One";
+              text-transform: uppercase;
+            }
+            #search-filter > div {
+              margin: 10px 0;
+            }
+            
+            input[type=text],
+            input[type=search],
+            input[type=number],
+            input[type=url],
+            textarea {
+              border: 2px #304FFE solid;
+              border-radius: 3px;
+              background-color: transparent;
+              padding: 5px 10px;
+              font-size: 16px;
+              color: #304FFE;
+              font-family: "Inconsolata";
+              width: 100%;
+            }
+            
+            input[type=text],
+            input[type=number],
+            input[type=url],
+            textarea {
+              width: 100%;
+            }
+            
+            select {
+              border: 2px #304FFE solid;
+              background-color: transparent;
+              padding: 5px 10px;
+              font-size: 16px;
+              color: #304FFE;
+              font-family: "Inconsolata";
+            }
+            
+            .button,
+            input[type=submit] {
+              background-color: #304FFE;
+              border-radius: 3px;
+              padding: 5px 10px;
+              font-size: 20px;
+              font-family: "Inconsolata";
+              color: #FCE4EC;
+            }
+            
+            .row {
+              margin: 0;
+            }
+            
+            .form-row {
+              margin-bottom: 1em;
+            }
+            .form-row label {
+              display: block;
+              font-weight: bold;
+            }
+            
+            #add-row {
+              margin-bottom: 50px;
+            }
+            
+            #overlay {
+              position: fixed;
+              top: 0;
+              left: 0;
+              width: 100%;
+              height: 100%;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              z-index: 999;
+              opacity: 0;
+              pointer-events: none;
+              background-color: rgba(244, 143, 177, 0.5);
+              transform: scale(0);
+              transition: 0.5s;
+            }
+            #overlay.show {
+              opacity: 1;
+              pointer-events: all;
+              transform: scale(1);
+            }
+            #overlay form {
+              background-color: #FCE4EC;
+              padding: 20px;
+              box-sizing: border-box;
+              min-width: 300px;
+              max-width: 768px;
+              flex-grow: 1;
+            }
+            #overlay .close {
+              position: absolute;
+              top: 20px;
+              right: 20px;
+              color: #304FFE;
+              border-bottom: none;
+              font-size: 40px;
+            }
+            #overlay h2 {
+              margin: 0 0 20px;
+            }
+            
+            #posts.grid {
+              display: flex;
+              flex-wrap: wrap;
+            }
+            #posts.grid article {
+              width: 30%;
+              margin-right: 5%;
+            }
+            #posts.grid article:nth-child(3n+3) {
+              margin-right: 0;
+            }
+            #posts.grid article:after {
+              top: -10px;
+              left: -10px;
+            }
+            @media only screen and (max-width: 568px) {
+              #posts.grid article {
+                width: 45%;
+              }
+              #posts.grid article:nth-child(3n+3) {
+                margin-right: 5%;
+              }
+              #posts.grid article:nth-child(2n+2) {
+                margin-right: 0 !important;
+              }
+            }
+            
+            article {
+              padding-bottom: 40px;
+              margin-bottom: 40px;
+              position: relative;
+              box-sizing: border-box;
+              background-color: #304FFE;
+              color: #FCE4EC;
+              padding: 20px;
+              padding-bottom: calc(4em + 20px);
+              cursor: pointer;
+            }
+            article.hidden {
+              display: none;
+            }
+            article .tags {
+              margin-top: 0;
+            }
+            article .tags a {
+              border-bottom: 2px #F48FB1 solid;
+              zoom: 1.4;
+              letter-spacing: 0.3px;
+            }
+            article .tags a:hover {
+              border-color: #EC407A;
+            }
+            article:after {
+              content: "";
+              width: 100%;
+              height: 100%;
+              position: absolute;
+              z-index: -1;
+              top: -15px;
+              left: -15px;
+              background-image: linear-gradient(to bottom left, #F48FB1, #EC407A);
+            }
+            article h3 {
+              margin-top: 0;
+              margin-bottom: 0;
+            }
+            article a {
+              color: #FCE4EC;
+            }
+            article .meta {
+              position: absolute;
+              width: 100%;
+              bottom: 0;
+              left: 0;
+              border-top: 1px #F48FB1 dotted;
+              padding: 0 20px 20px;
+              box-sizing: border-box;
+            }
+            article .meta p {
+              margin-bottom: 0;
+            }
+            article .gallery,
+            article .slides {
+              width: 61%;
+            }
+            @media only screen and (max-width: 768px) {
+              article {
+                flex-wrap: wrap;
+              }
+              article .info,
+            article .gallery,
+            article .slides {
+                width: 100%;
+              }
+              article .info {
+                order: 1;
+              }
+              article .gallery,
+            article .slides {
+                order: 2;
+              }
+            }
+        </style>
+    </head>
+    
+    <body>
+        <!-- partial:index.partial.html -->
+        <div id="app">
+             <h1>THE NEWS</h1>
+            <form id="search-filter">
+                <div id="search">
+                    <input type="search" value="" id="s" v-model="query" placeholder="Search keywords" />
+                </div>
+                </form>
+            <div id="posts">
+                <article v-for="i in filtered" @click="open(i)">
+                <!-- <article v-for="i in filtered" :style="`background-color: ${stringToColour(i.domain)} `" @click="open(i)"> -->
+                  <h3>
+                    <!-- <i class="fa fa-thumb-tack"></i>  -->
+                  {{ i.title }}</h3>
+                  <p class="tags"><a :style="`background-color: ${stringToColour(i.category)} `">#{{ i.category }}</a></p>
+                  <!-- A walkthrough of a few methods for truncating text to a certain number of lines for any device or viewport size -->
+                  <div class="meta">
+                    <p class="date">{{ i.published }} |
+                      <a href="https://dev.to/carlymho/line-based-truncation-methods-51bk" rel="external" target="_blank">View article <i class="fa fa-external-link-square"></i></a>
+                    </p>
+                  </div>
+                </article>
+            </div>
+        </div>
+        <!-- partial -->
+        <!-- <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js'></script> -->
+        <!-- <script src='https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.1/moment.js'></script> -->
+        <!-- <script src='https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.js'></script> -->
+       <script>
+          var app = new Vue({
+          el: '#app',
+          data: { 
+            query: '',
+            headlines: [],
+          },
+          mounted() {
+            this.load()
+          },
+          watch: {},
+          computed: {
+            filtered() {
+              return this.headlines.filter(a => a.title.toLowerCase().includes(this.query.toLowerCase())).slice(0, 100)
+            }
+          },
+          methods: {
+            open(i) {
+              window.open(i.link, '_blank').focus();
+            },
+            stringToColour(str) {
+              var hash = 0;
+              for (var i = 0; i < str.length; i++) {
+                hash = str.charCodeAt(i) + ((hash << 5) - hash);
+              }
+              var colour = '#';
+              for (var i = 0; i < 3; i++) {
+                var value = (hash >> (i * 8)) & 0xFF;
+                colour += ('00' + value.toString(16)).substr(-2);
+              }
+              return colour;
+            },
+            load() {
+              axios.get('/headlines.json').then((res) => {
+                this.headlines = res.data
+              })
+            }
+          },
+        })
+        </script>
+    </body>
+
+</html>
