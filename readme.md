@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Aug 31, 2022 12:34 PM
+- Updated: Aug 31, 2022 1:34 PM
 
 ```
 {
-    "title": "Roman ruins reappear from river in drought-stricken Europe almost 2,000 years later",
-    "domain": "miamiherald.com",
-    "category": "worldnews",
-    "link": "https://www.miamiherald.com/news/nation-world/world/article264947409.html",
-    "timestamp": 1661904645,
-    "published": "August 31, 2022 12:10 AM"
+    "title": "Richard Roat Dies: Actor In ‘Seinfeld’, ‘Friends’, ‘Dallas’ & Dozens Of Other Shows Was 89",
+    "domain": "deadline.com",
+    "category": "television",
+    "link": "https://deadline.com/2022/08/richard-roat-dead-seinfeld-friends-cheers-actor-1235103842/",
+    "timestamp": 1661909007,
+    "published": "August 31, 2022 1:23 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 18309
-- Sources: 2512
+- Articles: 18322
+- Sources: 2514
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 31, 2022 11:54 AM
+- End: August 31, 2022 12:30 PM
 
 ### Topics
 
