@@ -460,8 +460,9 @@
                   self.sticky = false
                 }
             }
-            var query = window.location.pathname.replace('/', '').replace('#', '')
-                query = query.split('news/').join('').split('news').join('')
+            var query = window.location.pathname
+                query = query.split('/news').join('')
+                query = query.split('/').join('')
             if (query) {
               this.query = query
             }
