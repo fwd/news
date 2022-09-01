@@ -415,10 +415,10 @@
         <div id="app">
              <h1>JUST NEWS</h1>
             <form id="search-filter" :class="`${sticky ? 'sticky' : ''}`">
-                <div id="search">
-                    <input type="search" value="" id="s" v-model="query" placeholder="Search keywords" />
-                </div>
-                </form>
+              <div id="search">
+                  <input type="search" value="" id="s" v-model="query" placeholder="Search keywords" />
+              </div>
+            </form>
             <div id="posts">
                 <article v-for="i in filtered">
                 <!-- <article v-for="i in filtered" :style="`background-color: ${stringToColour(i.domain)} `" @click="open(i)"> -->
@@ -468,8 +468,19 @@
 
             this.load()
 
+            // if (window.location.pathname.replace('/', '').replace('#', '')) {
+            //   this.query = window.location.pathname.replace('/', '').replace('#', '')
+            // }
+
+            // console.log( window.location.pathname.replace('/', '').replace('#', '') )
+
           },
-          watch: {},
+          watch: {
+            query() {
+              var query = window.location.pathname.replace('/', '').replace('#', '')
+              if (query !== this.query) window.history.pushState("", "", `/${this.query.replace('#', '')}`)
+            }
+          },
           computed: {
             filtered() {
               if (this.query && this.query.includes('#')) {
