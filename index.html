@@ -414,9 +414,9 @@
         <!-- partial:index.partial.html -->
         <div id="app">
              <h1>JUST NEWS</h1>
-            <form id="search-filter" :class="`${sticky ? 'sticky' : ''}`">
+            <form @submit.prevent="check()" id="search-filter" :class="`${sticky ? 'sticky' : ''}`">
               <div id="search">
-                  <input type="search" value="" id="s" v-model="query" placeholder="Search keywords" />
+                  <input type="search" value="" id="s" v-model.lazy="query" placeholder="Search keywords" />
               </div>
             </form>
             <div id="posts">
@@ -449,36 +449,27 @@
             headlines: [],
           },
           mounted() {
-
             var self = this
-            
             var top = document.getElementById('app').offsetTop;
-
             window.onscroll = function() {
                 var y = (document.documentElement && document.documentElement.scrollTop) || document.body.scrollTop;
                 if (y >= top) {
                   self.sticky = true
-                    // a8.className = 'stick';
                 }
                 else {
                   self.sticky = false
-                    // a8.className = '';
                 }
             }
-
+            var query = window.location.pathname.replace('/', '').replace('#', '')
+            if (query) {
+              this.query = query
+            }
             this.load()
-
-            // if (window.location.pathname.replace('/', '').replace('#', '')) {
-            //   this.query = window.location.pathname.replace('/', '').replace('#', '')
-            // }
-
-            // console.log( window.location.pathname.replace('/', '').replace('#', '') )
-
           },
           watch: {
             query() {
               var query = window.location.pathname.replace('/', '').replace('#', '')
-              if (query !== this.query) window.history.pushState("", "", `/${this.query.replace('#', '')}`)
+              if (query !== this.query && !this.query.includes(' ')) window.history.pushState("", "", `/${this.query.replace('#', '')}`)
             }
           },
           computed: {
@@ -489,12 +480,25 @@
                 })
                 return
               }
-              return this.headlines.filter(a => {
-                return a.title.toLowerCase().includes(this.query.toLowerCase())
-              }).slice(0, 100)
+              if (this.query && !this.query.includes('"')) {
+                var found = []
+                this.query.split(' ').map(b => {
+                  this.headlines.filter(a => a.title.toLowerCase().includes(b.toLowerCase())).map(c => found.push(c))
+                })
+                return found
+              }
+              if (this.query && this.query.includes('"')) {
+                var found = []
+                this.headlines.filter(a => a.title.toLowerCase().includes(this.query.split('"').join('').toLowerCase())).map(c => found.push(c))
+                return found
+              }
+              return this.headlines.slice(0, 100)
             }
           },
           methods: {
+            check() {
+
+            },
             clickArticle(i) {
               window.open(i.link, '_blank').focus();
             },
