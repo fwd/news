@@ -4,16 +4,16 @@
 - Articles: 19k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 1, 2022 4:56 PM
+- Updated: Sep 1, 2022 5:56 PM
 
 ```
 {
-    "title": "Ohio officer kills 20-year-old Black man seconds after opening his bedroom door",
-    "domain": "theguardian.com",
-    "category": "news",
-    "link": "https://www.theguardian.com/us-news/2022/aug/31/ohio-police-shot-black-man-bedroom-warrant",
-    "timestamp": 1662004882,
-    "published": "September 1, 2022 12:01 AM"
+    "title": "North Highlands food bank being evicted due to landlord feeling it attracts homeless",
+    "domain": "kcra.com",
+    "category": "nottheonion",
+    "link": "https://www.kcra.com/article/north-highlands-food-bank-forced-leave/41044478",
+    "timestamp": 1662009104,
+    "published": "September 1, 2022 1:11 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 1, 2022 4:30 PM
+- Latest: September 1, 2022 5:07 PM
 
 ---
 
