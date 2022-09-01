@@ -79,6 +79,7 @@ async function scrape() {
 		'v.redd.it',
 		'i.redd.it',
         'reddit.com',
+        'twitter.com',
 		'youtu.be',
 		'youtube.com',
 	]
