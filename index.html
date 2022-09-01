@@ -458,7 +458,7 @@
               return colour;
             },
             load() {
-              axios.get('/headlines.json').then((res) => {
+              axios.get('headlines.json').then((res) => {
                 this.headlines = res.data
               })
             }

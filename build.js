@@ -15,7 +15,8 @@ module.exports = (dataset) => {
 
 	return `# Headline Dataset
 
-- Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
+- Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
+- Articles: ${dataset.length}
 - File Type: JSON
 - File Size: ~**${Math.floor(dataset.size)}MB**
 - Updated: ${dataset.timestamp}
@@ -26,14 +27,10 @@ ${JSON.stringify(_.first(dataset), null, 4)}
 
 ### Insights
 
-- Articles: ${dataset.length}
 - Sources: ${domains.length}
 - Categories: ${categories.length}
-
-### Timespan
-
 - Start: ${minDate}
-- End: ${maxDate}
+- Latest: ${maxDate}
 
 ### Topics
 
