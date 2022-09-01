@@ -4,7 +4,7 @@
     
     <head>
         <meta charset="UTF-8">
-        <title>The News by FWD</title>
+        <title>The News</title>
         <meta name="apple-mobile-web-app-capable" content="yes">
         <meta name="apple-mobile-web-app-status-bar-style" content="black">
         <meta name="apple-mobile-web-app-title" content="NEWS">
@@ -112,7 +112,7 @@
             h3 {
               font-family: "Francois One";
               font-weight: normal;
-              text-transform: uppercase;
+              /*text-transform: uppercase;*/
             }
             
             blockquote {
@@ -323,7 +323,7 @@
               margin-bottom: 40px;
               position: relative;
               box-sizing: border-box;
-              background-color: #304FFE;
+              background-color: #15161b;
               color: #FCE4EC;
               padding: 20px;
               padding-bottom: calc(4em + 20px);
@@ -339,6 +339,9 @@
               border-bottom: 2px #F48FB1 solid;
               zoom: 1.4;
               letter-spacing: 0.3px;
+              /*background-color: rgb(203, 207, 88);*/
+              color: #000;
+              padding: 1px 3px;
             }
             article .tags a:hover {
               border-color: #EC407A;
@@ -351,11 +354,12 @@
               z-index: -1;
               top: -15px;
               left: -15px;
-              background-image: linear-gradient(to bottom left, #F48FB1, #EC407A);
+              background-image: linear-gradient(to bottom left, #a1f48fde, #ffbd00);
             }
             article h3 {
               margin-top: 0;
               margin-bottom: 0;
+              box-shadow: 1px 1px 1px #181e13;
             }
             article a {
               color: #FCE4EC;
@@ -371,6 +375,7 @@
             }
             article .meta p {
               margin-bottom: 0;
+              font-size: 15px;
             }
             article .gallery,
             article .slides {
@@ -393,25 +398,35 @@
                 order: 2;
               }
             }
+            .sticky {
+              position: fixed;
+              z-index: 99;
+              top: 0;
+              background: #000;
+              width: 100%;
+              left: 0;
+              padding: 5px 10px;
+            }
         </style>
     </head>
     
     <body>
         <!-- partial:index.partial.html -->
         <div id="app">
-             <h1>THE NEWS</h1>
-            <form id="search-filter">
+             <h1>JUST NEWS</h1>
+            <form id="search-filter" :class="`${sticky ? 'sticky' : ''}`">
                 <div id="search">
                     <input type="search" value="" id="s" v-model="query" placeholder="Search keywords" />
                 </div>
                 </form>
             <div id="posts">
-                <article v-for="i in filtered" @click="open(i)">
+                <article v-for="i in filtered">
                 <!-- <article v-for="i in filtered" :style="`background-color: ${stringToColour(i.domain)} `" @click="open(i)"> -->
-                  <h3>
+                  <h3 @click="clickArticle(i)">
                     <!-- <i class="fa fa-thumb-tack"></i>  -->
-                  {{ i.title }}</h3>
-                  <p class="tags"><a :style="`background-color: ${stringToColour(i.category)} `">#{{ i.category }}</a></p>
+                    {{ i.title }}
+                  </h3>
+                  <p class="tags" @click="clickTag('#' + i.category)"><a :style="`background-color: ${guessColor(i.category).bg};color:${guessColor(i.category).color};border-color:${guessColor(i.category).border}`">#{{ i.category }}</a></p>
                   <!-- A walkthrough of a few methods for truncating text to a certain number of lines for any device or viewport size -->
                   <div class="meta">
                     <p class="date">{{ i.published }} |
@@ -429,21 +444,58 @@
           var app = new Vue({
           el: '#app',
           data: { 
+            sticky: false,
             query: '',
             headlines: [],
           },
           mounted() {
+
+            var self = this
+            
+            var top = document.getElementById('app').offsetTop;
+
+            window.onscroll = function() {
+                var y = (document.documentElement && document.documentElement.scrollTop) || document.body.scrollTop;
+                if (y >= top) {
+                  self.sticky = true
+                    // a8.className = 'stick';
+                }
+                else {
+                  self.sticky = false
+                    // a8.className = '';
+                }
+            }
+
             this.load()
+
           },
           watch: {},
           computed: {
             filtered() {
-              return this.headlines.filter(a => a.title.toLowerCase().includes(this.query.toLowerCase())).slice(0, 100)
+              if (this.query && this.query.includes('#')) {
+                return this.headlines.filter(a => {
+                  return a.category.toLowerCase().includes(this.query.replace('#', '').toLowerCase())
+                })
+                return
+              }
+              return this.headlines.filter(a => {
+                return a.title.toLowerCase().includes(this.query.toLowerCase())
+              }).slice(0, 100)
             }
           },
           methods: {
-            open(i) {
+            clickArticle(i) {
               window.open(i.link, '_blank').focus();
+            },
+            clickTag(i) {
+              this.query = i 
+              this.$forceUpdate()
+            },
+            guessColor(str) {
+              if (str.toLowerCase().includes('ukraine')) return { color: '#FFF', bg: '#0057b7', border: '#ffd700' }
+              if (str.toLowerCase().includes('florida')) return { color: '#FFF', bg: 'rgb(0 0 0)', border: '' }
+              if (str.toLowerCase().includes('miami')) return { color: '#FFF', bg: '#F48FB1', border: 'red' }
+              return { color: '#000', bg: this.stringToColour(str), border: '#FFF' }
             },
             stringToColour(str) {
               var hash = 0;
