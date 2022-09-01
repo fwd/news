@@ -4,16 +4,16 @@
 - Articles: 18546
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 1, 2022 4:42 PM
+- Updated: Sep 1, 2022 4:44 PM
 
 ```
 {
-    "title": "Meghan Markle Opens Up On 'Not Being Able To Afford' Her $14Million Mansion",
-    "domain": "igvofficial.com",
-    "category": "nottheonion",
-    "link": "https://igvofficial.com/meghan-markle-mansion-the-cut-interview/",
-    "timestamp": 1661994948,
-    "published": "September 1, 2022 1:15 AM"
+    "title": "DeSantis’ ‘election integrity’ arrests spark new Florida controversy",
+    "domain": "msnbc.com",
+    "category": "florida",
+    "link": "https://www.msnbc.com/rachel-maddow-show/maddowblog/desantis-election-integrity-arrests-spark-new-florida-controversy-rcna45451?cid=sm_npd_ms_tw_ma&fbclid=IwAR2nV2bJFcIo67QrLxYk579dBWW22znEoNnkfINWyvWRMxkr3yWwq3887hQ",
+    "timestamp": 1661995568,
+    "published": "September 1, 2022 1:26 AM"
 }
 ```
 
