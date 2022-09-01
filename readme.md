@@ -3,29 +3,29 @@
 - Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 1, 2022 12:34 AM
+- Updated: Sep 1, 2022 1:34 AM
 
 ```
 {
-    "title": "Venus Williams falls to Alison Van Uytvanck in US Open first-round match after missing last year's event.",
-    "domain": "espn.com",
-    "category": "sports",
-    "link": "https://www.espn.com/tennis/story/_/id/34489967/venus-williams-falls-alison-van-uytvanck-us-open-first-round-match-missing-last-year-event",
-    "timestamp": 1661909692,
-    "published": "August 31, 2022 1:34 AM"
+    "title": "\"Russian channels what I would describe frantically asking witnesses of Ukrainian troop, ammo, vehicles, air defence to come forward and submit data to this telegram bot: @zov_sirius_bot Perhaps some NAFO intervention would be useful?\" Time for our shitposting to shine reddit!",
+    "domain": "twitter.com",
+    "category": "ukraine",
+    "link": "https://twitter.com/wartranslated/status/1565126755786055680",
+    "timestamp": 1661990526,
+    "published": "September 1, 2022 12:02 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 18424
+- Articles: 18427
 - Sources: 2528
 - Categories: 13
 
 ### Timespan
 
 - Start: November 16, 2021
-- End: August 31, 2022 11:05 PM
+- End: September 1, 2022 12:55 AM
 
 ### Topics
 
