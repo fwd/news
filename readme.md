@@ -1,31 +1,28 @@
 # Headline Dataset
 
-- Dataset File: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
+- Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
+- Articles: 18546
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 1, 2022 4:31 PM
+- Updated: Sep 1, 2022 4:42 PM
 
 ```
 {
-    "title": "\"Russian channels what I would describe frantically asking witnesses of Ukrainian troop, ammo, vehicles, air defence to come forward and submit data to this telegram bot: @zov_sirius_bot Perhaps some NAFO intervention would be useful?\" Time for our shitposting to shine reddit!",
-    "domain": "twitter.com",
-    "category": "ukraine",
-    "link": "https://twitter.com/wartranslated/status/1565126755786055680",
-    "timestamp": 1661990526,
-    "published": "September 1, 2022 12:02 AM"
+    "title": "Meghan Markle Opens Up On 'Not Being Able To Afford' Her $14Million Mansion",
+    "domain": "igvofficial.com",
+    "category": "nottheonion",
+    "link": "https://igvofficial.com/meghan-markle-mansion-the-cut-interview/",
+    "timestamp": 1661994948,
+    "published": "September 1, 2022 1:15 AM"
 }
 ```
 
 ### Insights
 
-- Articles: 18542
-- Sources: 2538
+- Sources: 2539
 - Categories: 13
-
-### Timespan
-
 - Start: November 16, 2021
-- End: September 1, 2022 4:19 PM
+- Latest: September 1, 2022 4:42 PM
 
 ### Topics
 
