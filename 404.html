@@ -490,7 +490,7 @@
               }
               if (this.query && this.query.includes('"')) {
                 var found = []
-                this.headlines.filter(a => a.title.toLowerCase().includes(this.query.split('"').join('').toLowerCase())).map(c => found.push(c))
+                this.headlines.filter(a => a.title.toLowerCase().includes(this.query.split('"').join(''))).map(c => found.push(c))
                 return found
               }
               return this.headlines.slice(0, 100)
