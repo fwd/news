@@ -1,10 +1,10 @@
 # Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 18546
+- Articles: 19k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 1, 2022 4:44 PM
+- Updated: Sep 1, 2022 4:46 PM
 
 ```
 {
@@ -19,20 +19,10 @@
 
 ### Insights
 
-- Sources: 2539
+- Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
 - Latest: September 1, 2022 4:42 PM
-
-### Topics
-
-- World News
-- Technology
-- Television
-- Entertaiment
-- Politics
-- Sport
-- More Coming Soon
 
 ---
 
@@ -43,4 +33,3 @@ Twitter: [@nano2dev](https://twitter.com/nano2dev)
 ## Github Stars
 
 [![Stargazers over time](https://starchart.cc/fwd/news.svg)](https://starchart.cc/fwd/news)
-	
