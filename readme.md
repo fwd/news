@@ -4,16 +4,16 @@
 - Articles: 19k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 1, 2022 4:46 PM
+- Updated: Sep 1, 2022 12:47 PM
 
 ```
 {
-    "title": "DeSantis’ ‘election integrity’ arrests spark new Florida controversy",
-    "domain": "msnbc.com",
-    "category": "florida",
-    "link": "https://www.msnbc.com/rachel-maddow-show/maddowblog/desantis-election-integrity-arrests-spark-new-florida-controversy-rcna45451?cid=sm_npd_ms_tw_ma&fbclid=IwAR2nV2bJFcIo67QrLxYk579dBWW22znEoNnkfINWyvWRMxkr3yWwq3887hQ",
-    "timestamp": 1661995568,
-    "published": "September 1, 2022 1:26 AM"
+    "title": "Ohio officer kills 20-year-old Black man seconds after opening his bedroom door",
+    "domain": "theguardian.com",
+    "category": "news",
+    "link": "https://www.theguardian.com/us-news/2022/aug/31/ohio-police-shot-black-man-bedroom-warrant",
+    "timestamp": 1662004882,
+    "published": "September 1, 2022 12:01 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 1, 2022 4:42 PM
+- Latest: September 1, 2022 2:55 PM
 
 ---
 
