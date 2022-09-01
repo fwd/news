@@ -75,6 +75,7 @@ async function scrape() {
   
     // avoid reddit internal links
 	var banned = [
+		'igvofficial.com',
 		'i.imgur.com',
 		'v.redd.it',
 		'i.redd.it',
