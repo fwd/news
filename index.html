@@ -461,6 +461,7 @@
                 }
             }
             var query = window.location.pathname.replace('/', '').replace('#', '')
+                query = query.split('news/').join('').split('news').join('')
             if (query) {
               this.query = query
             }
