@@ -3,6 +3,23 @@ const _ = require('lodash')
 
 moment.suppressDeprecationWarnings = true;
 
+function nFormatter(num, digits) {
+  const lookup = [
+    { value: 1, symbol: "" },
+    { value: 1e3, symbol: "k" },
+    { value: 1e6, symbol: "M" },
+    { value: 1e9, symbol: "G" },
+    { value: 1e12, symbol: "T" },
+    { value: 1e15, symbol: "P" },
+    { value: 1e18, symbol: "E" }
+  ];
+  const rx = /\.0+$|(\.[0-9]*[1-9])0+$/;
+  var item = lookup.slice().reverse().find(function(item) {
+    return num >= item.value;
+  });
+  return item ? (num / item.value).toFixed(digits).replace(rx, "$1") + item.symbol : "0";
+}
+
 module.exports = (dataset) => {
 
     var dates = _.uniq(dataset.map(a => moment(a.published)))
@@ -16,7 +33,7 @@ module.exports = (dataset) => {
 	return `# Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: ${dataset.length}
+- Articles: ${nFormatter(dataset.length)}
 - File Type: JSON
 - File Size: ~**${Math.floor(dataset.size)}MB**
 - Updated: ${dataset.timestamp}
@@ -27,20 +44,10 @@ ${JSON.stringify(_.first(dataset), null, 4)}
 
 ### Insights
 
-- Sources: ${domains.length}
-- Categories: ${categories.length}
+- Sources: ${nFormatter(domains.length)}
+- Categories: ${nFormatter(categories.length)}
 - Start: ${minDate}
 - Latest: ${maxDate}
-
-### Topics
-
-- World News
-- Technology
-- Television
-- Entertaiment
-- Politics
-- Sport
-- More Coming Soon
 
 ---
 
@@ -51,5 +58,5 @@ Twitter: [@nano2dev](https://twitter.com/nano2dev)
 ## Github Stars
 
 [![Stargazers over time](https://starchart.cc/fwd/news.svg)](https://starchart.cc/fwd/news)
-	`
+`
 }
