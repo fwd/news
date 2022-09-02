@@ -4,16 +4,16 @@
 - Articles: 19k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 1, 2022 10:47 PM
+- Updated: Sep 1, 2022 11:47 PM
 
 ```
 {
-    "title": "North Highlands food bank being evicted due to landlord feeling it attracts homeless",
-    "domain": "kcra.com",
-    "category": "nottheonion",
-    "link": "https://www.kcra.com/article/north-highlands-food-bank-forced-leave/41044478",
-    "timestamp": 1662009104,
-    "published": "September 1, 2022 1:11 AM"
+    "title": "Taiwan president says she looks forward to producing 'democracy chips' with U.S.",
+    "domain": "reuters.com",
+    "category": "technology",
+    "link": "https://www.reuters.com/technology/taiwan-president-says-looks-forward-producing-democracy-chips-with-us-2022-09-01/",
+    "timestamp": 1662017584,
+    "published": "September 1, 2022 3:33 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 1, 2022 9:45 PM
+- Latest: September 1, 2022 11:08 PM
 
 ---
 
