@@ -4,16 +4,16 @@
 - Articles: 19k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 2, 2022 8:47 AM
+- Updated: Sep 2, 2022 9:47 AM
 
 ```
 {
-    "title": "Ukraine’s Air Force strikes enemy targets 18 times in the south",
-    "domain": "ukrinform.net",
-    "category": "ukraine",
-    "link": "https://www.ukrinform.net/rubric-ato/3562867-ukraines-air-force-struck-enemy-targets-18-times-in-the-south.html",
-    "timestamp": 1662091351,
-    "published": "September 2, 2022 12:02 AM"
+    "title": "Joe Biden Calls On Nation To Reject Extremist Republicans Who Threaten Democracy",
+    "domain": "huffpost.com",
+    "category": "politics",
+    "link": "https://www.huffpost.com/entry/joe-biden-republicans-midterms_n_6310c80ee4b063d5e62290db",
+    "timestamp": 1662092957,
+    "published": "September 2, 2022 12:29 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 2, 2022 8:46 AM
+- Latest: September 2, 2022 9:36 AM
 
 ---
 
