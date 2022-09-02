@@ -4,16 +4,16 @@
 - Articles: 19k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 2, 2022 12:47 AM
+- Updated: Sep 2, 2022 1:47 AM
 
 ```
 {
-    "title": "Taiwan president says she looks forward to producing 'democracy chips' with U.S.",
-    "domain": "reuters.com",
-    "category": "technology",
-    "link": "https://www.reuters.com/technology/taiwan-president-says-looks-forward-producing-democracy-chips-with-us-2022-09-01/",
-    "timestamp": 1662017584,
-    "published": "September 1, 2022 3:33 AM"
+    "title": "Ukraine’s Air Force strikes enemy targets 18 times in the south",
+    "domain": "ukrinform.net",
+    "category": "ukraine",
+    "link": "https://www.ukrinform.net/rubric-ato/3562867-ukraines-air-force-struck-enemy-targets-18-times-in-the-south.html",
+    "timestamp": 1662091351,
+    "published": "September 2, 2022 12:02 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 1, 2022 11:08 PM
+- Latest: September 2, 2022 12:42 AM
 
 ---
 
