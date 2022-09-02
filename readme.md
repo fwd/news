@@ -4,16 +4,16 @@
 - Articles: 19k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 2, 2022 12:47 PM
+- Updated: Sep 2, 2022 1:47 PM
 
 ```
 {
-    "title": "Gov. Hochul declares 'theory' of ‘good guy with a gun’ stopping armed 'bad guys' is over",
-    "domain": "foxnews.com",
-    "category": "nottheonion",
-    "link": "https://www.foxnews.com/politics/gov-hochul-declares-days-good-guy-gun-theory-are-over",
-    "timestamp": 1662095967,
-    "published": "September 2, 2022 1:19 AM"
+    "title": "Ukraine Keeps Liberated Areas A Secret To 'Prevent New Enemy Artillery, Airstrikes'",
+    "domain": "ibtimes.com",
+    "category": "ukraine",
+    "link": "https://www.ibtimes.com/ukraine-keeps-liberated-areas-secret-prevent-new-enemy-artillery-airstrikes-3608569",
+    "timestamp": 1662096828,
+    "published": "September 2, 2022 1:33 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 2, 2022 12:09 PM
+- Latest: September 2, 2022 1:24 PM
 
 ---
 
