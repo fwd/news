@@ -4,16 +4,16 @@
 - Articles: 19k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 2, 2022 9:47 PM
+- Updated: Sep 2, 2022 10:47 PM
 
 ```
 {
-    "title": "FBI agents monitor social media. As domestic threats rise, the question is who they're watching",
-    "domain": "techxplore.com",
+    "title": "Cops wanted to keep mass surveillance app secret; privacy advocates refused",
+    "domain": "arstechnica.com",
     "category": "technology",
-    "link": "https://techxplore.com/news/2022-09-fbi-agents-social-media-domestic.html",
-    "timestamp": 1662099466,
-    "published": "September 2, 2022 2:17 AM"
+    "link": "https://arstechnica.com/tech-policy/2022/09/cops-wanted-to-keep-mass-surveillance-app-secret-privacy-advocates-refused/",
+    "timestamp": 1662106773,
+    "published": "September 2, 2022 4:19 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 2, 2022 8:55 PM
+- Latest: September 2, 2022 10:31 PM
 
 ---
 
