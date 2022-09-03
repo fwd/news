@@ -4,16 +4,16 @@
 - Articles: 19k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 2, 2022 11:47 PM
+- Updated: Sep 3, 2022 12:47 AM
 
 ```
 {
-    "title": "Cops wanted to keep mass surveillance app secret; privacy advocates refused",
-    "domain": "arstechnica.com",
-    "category": "technology",
-    "link": "https://arstechnica.com/tech-policy/2022/09/cops-wanted-to-keep-mass-surveillance-app-secret-privacy-advocates-refused/",
-    "timestamp": 1662106773,
-    "published": "September 2, 2022 4:19 AM"
+    "title": "‘They are human beings’: Chicago mayor welcomes migrants bussed by Texas | Chicago",
+    "domain": "theguardian.com",
+    "category": "UpliftingNews",
+    "link": "https://www.theguardian.com/us-news/2022/sep/02/chicago-mayor-welcomes-migrants-bussed-texas-lori-lightfoot-greg-abbott",
+    "timestamp": 1662178028,
+    "published": "September 3, 2022 12:07 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 2, 2022 10:31 PM
+- Latest: September 3, 2022 12:31 AM
 
 ---
 
