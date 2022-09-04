@@ -4,16 +4,16 @@
 - Articles: 19k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 4, 2022 9:00 AM
+- Updated: Sep 4, 2022 10:00 AM
 
 ```
 {
-    "title": "Brazilian man survives 11 days floating alone in a freezer on the ocean.",
-    "domain": "cnn.com",
-    "category": "UpliftingNews",
-    "link": "https://www.cnn.com/2022/09/03/americas/brazil-ocean-rescue-intl/index.html",
-    "timestamp": 1662264538,
-    "published": "September 4, 2022 12:08 AM"
+    "title": "Former Idaho lawmaker sentenced to 20 years' prison for rape",
+    "domain": "apnews.com",
+    "category": "news",
+    "link": "https://apnews.com/article/middle-east-crime-idaho-sentencing-boise-dd7d5973626ab65d8df6c942e22d50d7",
+    "timestamp": 1662268302,
+    "published": "September 4, 2022 1:11 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 4, 2022 8:28 AM
+- Latest: September 4, 2022 9:47 AM
 
 ---
 
