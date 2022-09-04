@@ -4,7 +4,7 @@
 - Articles: 19k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 4, 2022 3:00 PM
+- Updated: Sep 4, 2022 4:00 PM
 
 ```
 {
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 4, 2022 1:32 PM
+- Latest: September 4, 2022 2:40 PM
 
 ---
 
