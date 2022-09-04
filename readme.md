@@ -4,16 +4,16 @@
 - Articles: 19k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 3, 2022 8:00 PM
+- Updated: Sep 3, 2022 9:00 PM
 
 ```
 {
-    "title": "Regenerative agriculture in Mexico boosts yields while restoring nature",
-    "domain": "news.mongabay.com",
-    "category": "UpliftingNews",
-    "link": "https://news.mongabay.com/2022/08/regenerative-agriculture-in-mexico-boosts-yields-while-restoring-nature/",
-    "timestamp": 1662179505,
-    "published": "September 3, 2022 12:31 AM"
+    "title": "Looking for a drummer for live shows!!!",
+    "domain": "linktr.ee",
+    "category": "miami",
+    "link": "https://linktr.ee/whyeden",
+    "timestamp": 1662179336,
+    "published": "September 3, 2022 12:28 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 3, 2022 7:26 PM
+- Latest: September 3, 2022 8:33 PM
 
 ---
 
