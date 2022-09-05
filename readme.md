@@ -4,16 +4,16 @@
 - Articles: 19k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 4, 2022 8:49 PM
+- Updated: Sep 4, 2022 9:49 PM
 
 ```
 {
-    "title": "Former Idaho lawmaker sentenced to 20 years' prison for rape",
-    "domain": "apnews.com",
-    "category": "news",
-    "link": "https://apnews.com/article/middle-east-crime-idaho-sentencing-boise-dd7d5973626ab65d8df6c942e22d50d7",
-    "timestamp": 1662268302,
-    "published": "September 4, 2022 1:11 AM"
+    "title": "Korea to Triple Baby Payments After It Smashes Own Record for World’s Lowest Fertility Rate",
+    "domain": "bloomberg.com",
+    "category": "worldnews",
+    "link": "https://www.bloomberg.com/news/articles/2022-08-31/korea-to-triple-baby-payments-in-bid-to-tackle-fertility-crisis",
+    "timestamp": 1662270159,
+    "published": "September 4, 2022 1:42 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 4, 2022 8:30 PM
+- Latest: September 4, 2022 9:29 PM
 
 ---
 
