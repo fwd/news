@@ -4,16 +4,16 @@
 - Articles: 19k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 5, 2022 12:31 PM
+- Updated: Sep 5, 2022 2:31 PM
 
 ```
 {
-    "title": "Dixon opposes abortion for rape victims because there’s ‘healing through the baby’",
-    "domain": "michiganadvance.com",
+    "title": "Mark Zuckerberg doesn’t like your scrolling habits: Social media is for ‘building relationships,’ not just consuming content",
+    "domain": "cnbc.com",
     "category": "nottheonion",
-    "link": "https://michiganadvance.com/2022/08/21/dixon-opposes-abortion-for-rape-victims-because-theres-healing-through-the-baby/",
-    "timestamp": 1662350459,
-    "published": "September 5, 2022 12:00 AM"
+    "link": "https://www.cnbc.com/2022/09/04/zuckerberg-social-media-is-for-building-relationships-not-scrolling.html",
+    "timestamp": 1662351738,
+    "published": "September 5, 2022 12:22 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 5, 2022 11:39 AM
+- Latest: September 5, 2022 1:41 PM
 
 ---
 
