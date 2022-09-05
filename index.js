@@ -46,16 +46,8 @@ async function scrape() {
 	
 	for (var sub of subreddits) {
 
-		items = await reddit.getSubreddit(sub).getHot({ limit: 10 })
+            items = await reddit.getSubreddit(sub).getHot({ limit: 10 })
 
-		// for (var item of items) {
-	        
-	 //        var sentiment = new Sentiment();
-	        
-	 //        item.sentiment = sentiment.analyze(item.title)
-	        
-	 //    }
-		    
 	    items = items.map(a => {
 	        return {
 	            title: a.title,
@@ -79,8 +71,8 @@ async function scrape() {
 		'i.imgur.com',
 		'v.redd.it',
 		'i.redd.it',
-        'reddit.com',
-        'twitter.com',
+                'reddit.com',
+                'twitter.com',
 		'youtu.be',
 		'youtube.com',
 	]
@@ -120,7 +112,7 @@ server.cron(async () => {
 	await scrape()
 
 	await server.exec(`cd ${__dirname} && rm -f .git/index.lock && git add -A && git commit -m "${server.timestamp('LLL', 'us-east')}" &> /dev/null`)
-	
+
 	await server.exec(`cd ${__dirname} && git push origin &> /dev/null`)
 
-}, 'every 1 hour', true) 
+}, 'every 2 hour', true) 
