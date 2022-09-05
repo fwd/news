@@ -4,16 +4,16 @@
 - Articles: 19k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 4, 2022 11:49 PM
+- Updated: Sep 5, 2022 12:49 AM
 
 ```
 {
-    "title": "Korea to Triple Baby Payments After It Smashes Own Record for World’s Lowest Fertility Rate",
-    "domain": "bloomberg.com",
-    "category": "worldnews",
-    "link": "https://www.bloomberg.com/news/articles/2022-08-31/korea-to-triple-baby-payments-in-bid-to-tackle-fertility-crisis",
-    "timestamp": 1662270159,
-    "published": "September 4, 2022 1:42 AM"
+    "title": "Dixon opposes abortion for rape victims because there’s ‘healing through the baby’",
+    "domain": "michiganadvance.com",
+    "category": "nottheonion",
+    "link": "https://michiganadvance.com/2022/08/21/dixon-opposes-abortion-for-rape-victims-because-theres-healing-through-the-baby/",
+    "timestamp": 1662350459,
+    "published": "September 5, 2022 12:00 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 4, 2022 10:10 PM
+- Latest: September 5, 2022 12:00 AM
 
 ---
 
