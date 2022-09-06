@@ -4,16 +4,16 @@
 - Articles: 19k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 6, 2022 12:31 AM
+- Updated: Sep 6, 2022 2:31 AM
 
 ```
 {
-    "title": "Mark Zuckerberg doesn’t like your scrolling habits: Social media is for ‘building relationships,’ not just consuming content",
-    "domain": "cnbc.com",
-    "category": "nottheonion",
-    "link": "https://www.cnbc.com/2022/09/04/zuckerberg-social-media-is-for-building-relationships-not-scrolling.html",
-    "timestamp": 1662351738,
-    "published": "September 5, 2022 12:22 AM"
+    "title": "WIC participation associated with improved birth outcomes, lower infant mortality",
+    "domain": "eurekalert.org",
+    "category": "science",
+    "link": "https://www.eurekalert.org/news-releases/963478",
+    "timestamp": 1662439161,
+    "published": "September 6, 2022 12:39 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 5, 2022 8:48 PM
+- Latest: September 6, 2022 12:39 AM
 
 ---
 
