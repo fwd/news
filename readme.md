@@ -4,16 +4,16 @@
 - Articles: 19k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 6, 2022 8:31 PM
+- Updated: Sep 6, 2022 10:31 PM
 
 ```
 {
-    "title": "55-year-old Florida man charged with stalking 6-year-old girl",
-    "domain": "weartv.com",
-    "category": "news",
-    "link": "https://weartv.com/news/local/55-year-old-florida-man-charged-with-stalking-6-year-old-girl",
-    "timestamp": 1662454474,
-    "published": "September 6, 2022 4:54 AM"
+    "title": "Macron: France, Germany to provide each other with gas, electricity, to weather crisis",
+    "domain": "reuters.com",
+    "category": "worldnews",
+    "link": "https://www.reuters.com/business/energy/france-germany-will-help-each-other-face-energy-crisis-macron-says-2022-09-05/",
+    "timestamp": 1662464456,
+    "published": "September 6, 2022 7:40 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 6, 2022 7:32 PM
+- Latest: September 6, 2022 9:22 PM
 
 ---
 
