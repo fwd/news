@@ -4,16 +4,16 @@
 - Articles: 19k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 6, 2022 6:31 PM
+- Updated: Sep 6, 2022 8:31 PM
 
 ```
 {
-    "title": "WIC participation associated with improved birth outcomes, lower infant mortality",
-    "domain": "eurekalert.org",
-    "category": "science",
-    "link": "https://www.eurekalert.org/news-releases/963478",
-    "timestamp": 1662439161,
-    "published": "September 6, 2022 12:39 AM"
+    "title": "55-year-old Florida man charged with stalking 6-year-old girl",
+    "domain": "weartv.com",
+    "category": "news",
+    "link": "https://weartv.com/news/local/55-year-old-florida-man-charged-with-stalking-6-year-old-girl",
+    "timestamp": 1662454474,
+    "published": "September 6, 2022 4:54 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 6, 2022 6:12 PM
+- Latest: September 6, 2022 7:32 PM
 
 ---
 
