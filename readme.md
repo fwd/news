@@ -4,16 +4,16 @@
 - Articles: 19k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 6, 2022 10:31 PM
+- Updated: Sep 7, 2022 12:31 AM
 
 ```
 {
-    "title": "Macron: France, Germany to provide each other with gas, electricity, to weather crisis",
-    "domain": "reuters.com",
-    "category": "worldnews",
-    "link": "https://www.reuters.com/business/energy/france-germany-will-help-each-other-face-energy-crisis-macron-says-2022-09-05/",
-    "timestamp": 1662464456,
-    "published": "September 6, 2022 7:40 AM"
+    "title": "Dr. Oz Campaign Hires Actors To Play Convicted Felons Supporting Fetterman",
+    "domain": "newsweek.com",
+    "category": "nottheonion",
+    "link": "https://www.newsweek.com/dr-oz-campaign-hires-actors-play-convicted-felons-supporting-fetterman-1740227",
+    "timestamp": 1662523290,
+    "published": "September 7, 2022 12:01 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 6, 2022 9:22 PM
+- Latest: September 7, 2022 12:01 AM
 
 ---
 
