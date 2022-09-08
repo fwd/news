@@ -4,16 +4,16 @@
 - Articles: 19k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 8, 2022 5:51 PM
+- Updated: Sep 8, 2022 7:51 PM
 
 ```
 {
-    "title": "Florida school board votes down measure to observe LGBTQ History Month, citing concerns about violating DeSantis-backed sex education law",
-    "domain": "businessinsider.com",
-    "category": "florida",
-    "link": "https://www.businessinsider.com/miami-school-board-votes-against-lgbtq-history-measures-citing-dont-say-gay-2022-9",
-    "timestamp": 1662609637,
-    "published": "September 8, 2022 12:00 AM"
+    "title": "Study of 300,000 people finds telomeres, a hallmark of aging, to be shorter in individuals with depression or bipolar disorder and those with an increased genetic risk score for depression",
+    "domain": "sciencedirect.com",
+    "category": "science",
+    "link": "https://www.sciencedirect.com/science/article/pii/S266717432200101X",
+    "timestamp": 1662615933,
+    "published": "September 8, 2022 1:45 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 8, 2022 4:17 PM
+- Latest: September 8, 2022 6:57 PM
 
 ---
 
