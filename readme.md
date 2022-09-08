@@ -4,16 +4,16 @@
 - Articles: 19k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 7, 2022 11:51 PM
+- Updated: Sep 8, 2022 1:51 AM
 
 ```
 {
-    "title": "Dr. Oz Campaign Hires Actors To Play Convicted Felons Supporting Fetterman",
-    "domain": "newsweek.com",
-    "category": "nottheonion",
-    "link": "https://www.newsweek.com/dr-oz-campaign-hires-actors-play-convicted-felons-supporting-fetterman-1740227",
-    "timestamp": 1662523290,
-    "published": "September 7, 2022 12:01 AM"
+    "title": "Virginia restaurant receives backlash for insensitive 9/11 menu, issues apology",
+    "domain": "wjla.com",
+    "category": "news",
+    "link": "https://wjla.com/news/local/911-attacks-september-11-menu-mannassas-virginia-restaurant-aquia-harbour-golf-clubhouse-backlash-insensitive-backlash-apology-issued-veterans-manassas-social-media",
+    "timestamp": 1662609855,
+    "published": "September 8, 2022 12:04 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 7, 2022 11:12 PM
+- Latest: September 8, 2022 12:04 AM
 
 ---
 
