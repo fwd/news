@@ -4,16 +4,16 @@
 - Articles: 19k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 8, 2022 3:51 AM
+- Updated: Sep 8, 2022 5:51 AM
 
 ```
 {
-    "title": "Virginia restaurant receives backlash for insensitive 9/11 menu, issues apology",
-    "domain": "wjla.com",
-    "category": "news",
-    "link": "https://wjla.com/news/local/911-attacks-september-11-menu-mannassas-virginia-restaurant-aquia-harbour-golf-clubhouse-backlash-insensitive-backlash-apology-issued-veterans-manassas-social-media",
-    "timestamp": 1662609855,
-    "published": "September 8, 2022 12:04 AM"
+    "title": "Florida school board votes down measure to observe LGBTQ History Month, citing concerns about violating DeSantis-backed sex education law",
+    "domain": "businessinsider.com",
+    "category": "florida",
+    "link": "https://www.businessinsider.com/miami-school-board-votes-against-lgbtq-history-measures-citing-dont-say-gay-2022-9",
+    "timestamp": 1662609637,
+    "published": "September 8, 2022 12:00 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 8, 2022 2:38 AM
+- Latest: September 8, 2022 2:53 AM
 
 ---
 
