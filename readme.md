@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 9, 2022 9:51 AM
+- Updated: Sep 9, 2022 11:51 AM
 
 ```
 {
-    "title": "Gulf Arab countries asked Netflix to remove “offensive content” apparently targeting programs that show gays and lesbians.",
-    "domain": "kmph.com",
-    "category": "nottheonion",
-    "link": "https://kmph.com/news/entertainment/gulf-arab-nations-ask-netflix-to-remove-offensive-videos-streaming-service-gays-lesbians-gulf-cooperation-council-saudi-arabia-united-arab-emirates-bahrain-kuwait-oman-qatar-lightyear-hasan-minhaj-patriot-act-lgbtq",
-    "timestamp": 1662698109,
-    "published": "September 9, 2022 12:35 AM"
+    "title": "South Carolina senators reject a near-total abortion ban",
+    "domain": "nbcnews.com",
+    "category": "news",
+    "link": "https://www.nbcnews.com/politics/politics-news/south-carolina-senators-reject-total-abortion-ban-rcna46967",
+    "timestamp": 1662698883,
+    "published": "September 9, 2022 12:48 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 9, 2022 8:30 AM
+- Latest: September 9, 2022 11:10 AM
 
 ---
 
