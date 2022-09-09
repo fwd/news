@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 9, 2022 5:51 PM
+- Updated: Sep 9, 2022 7:51 PM
 
 ```
 {
-    "title": "Washington mayor declares public emergency over migrant arrivals from Texas, Arizona",
+    "title": "Elon Musk $258 billion Dogecoin lawsuit expands",
     "domain": "reuters.com",
     "category": "news",
-    "link": "https://www.reuters.com/world/us/washington-mayor-declares-public-emergency-over-migrant-arrivals-texas-arizona-2022-09-08/",
-    "timestamp": 1662705079,
-    "published": "September 9, 2022 2:31 AM"
+    "link": "https://www.reuters.com/markets/us/elon-musk-258-billion-dogecoin-lawsuit-expands-2022-09-07/",
+    "timestamp": 1662717373,
+    "published": "September 9, 2022 5:56 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 9, 2022 4:40 PM
+- Latest: September 9, 2022 6:56 PM
 
 ---
 
