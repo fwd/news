@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 9, 2022 1:51 PM
+- Updated: Sep 9, 2022 3:51 PM
 
 ```
 {
-    "title": "South Carolina senators reject a near-total abortion ban",
-    "domain": "nbcnews.com",
+    "title": "Washington mayor declares public emergency over migrant arrivals from Texas, Arizona",
+    "domain": "reuters.com",
     "category": "news",
-    "link": "https://www.nbcnews.com/politics/politics-news/south-carolina-senators-reject-total-abortion-ban-rcna46967",
-    "timestamp": 1662698883,
-    "published": "September 9, 2022 12:48 AM"
+    "link": "https://www.reuters.com/world/us/washington-mayor-declares-public-emergency-over-migrant-arrivals-texas-arizona-2022-09-08/",
+    "timestamp": 1662705079,
+    "published": "September 9, 2022 2:31 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 9, 2022 12:12 PM
+- Latest: September 9, 2022 3:22 PM
 
 ---
 
