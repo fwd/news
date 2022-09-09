@@ -1,10 +1,10 @@
 # Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 19k
+- Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 8, 2022 9:51 PM
+- Updated: Sep 8, 2022 11:51 PM
 
 ```
 {
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 8, 2022 7:44 PM
+- Latest: September 8, 2022 9:57 PM
 
 ---
 
