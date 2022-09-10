@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 10, 2022 1:51 AM
+- Updated: Sep 10, 2022 3:51 AM
 
 ```
 {
-    "title": "Children who bullied others at the age of 8–9 are more likely to commit violent offences by the age of 31. Boys who bullied others frequently were three times more likely to commit a severe violent offence such as homicide or aggravated assault than boys who never bullied.",
-    "domain": "link.springer.com",
-    "category": "science",
-    "link": "https://link.springer.com/article/10.1007/s00787-022-01964-1",
-    "timestamp": 1662720368,
-    "published": "September 9, 2022 6:46 AM"
+    "title": "Police Responding to Another Threat at Boston Children's Hospital",
+    "domain": "nbcboston.com",
+    "category": "news",
+    "link": "https://www.nbcboston.com/news/local/boston-childrens-hospital-bomb-threat/2830295/",
+    "timestamp": 1662783212,
+    "published": "September 10, 2022 12:13 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 9, 2022 10:01 PM
+- Latest: September 10, 2022 2:23 AM
 
 ---
 
