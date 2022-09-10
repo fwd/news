@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 10, 2022 3:51 PM
+- Updated: Sep 10, 2022 5:51 PM
 
 ```
 {
-    "title": "Young California mother beheaded on street identified, new info released on man arrested in attack",
-    "domain": "abc7.com",
-    "category": "news",
-    "link": "https://abc7.com/woman-beheading-san-carlos-california-karina-castro/12217244/",
-    "timestamp": 1662783748,
-    "published": "September 10, 2022 12:22 AM"
+    "title": "Boeing And Airbus Aircraft Unlikely To Ever Be Delivered To Russia Again",
+    "domain": "simpleflying.com",
+    "category": "worldnews",
+    "link": "https://simpleflying.com/boeing-airbus-aircraft-unlikely-ever-delivered-russia-again/",
+    "timestamp": 1662785349,
+    "published": "September 10, 2022 12:49 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 10, 2022 2:57 PM
+- Latest: September 10, 2022 4:38 PM
 
 ---
 
