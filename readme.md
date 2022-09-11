@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 10, 2022 7:51 PM
+- Updated: Sep 10, 2022 9:51 PM
 
 ```
 {
-    "title": "Overparenting and Emerging Adult Development: A systematic review finds negative associations between overparenting (i.e. overinvolved and controlling parenting) and emerging adults’ development in the psychological, behavioral, social and relational, learning/academic and career domains.",
-    "domain": "journals.sagepub.com",
-    "category": "science",
-    "link": "https://journals.sagepub.com/doi/full/10.1177/21676968221108828",
-    "timestamp": 1662791035,
-    "published": "September 10, 2022 2:23 AM"
+    "title": "Italian politician demands ban on Peppa Pig episode showing lesbian couple",
+    "domain": "theguardian.com",
+    "category": "nottheonion",
+    "link": "https://www.theguardian.com/world/2022/sep/09/italian-politician-demands-ban-on-peppa-pig-episode-showing-lesbian-couple",
+    "timestamp": 1662800791,
+    "published": "September 10, 2022 5:06 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 10, 2022 6:26 PM
+- Latest: September 10, 2022 8:49 PM
 
 ---
 
