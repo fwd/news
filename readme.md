@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 10, 2022 11:51 PM
+- Updated: Sep 11, 2022 1:51 AM
 
 ```
 {
-    "title": "Italian politician demands ban on Peppa Pig episode showing lesbian couple",
-    "domain": "theguardian.com",
-    "category": "nottheonion",
-    "link": "https://www.theguardian.com/world/2022/sep/09/italian-politician-demands-ban-on-peppa-pig-episode-showing-lesbian-couple",
-    "timestamp": 1662800791,
-    "published": "September 10, 2022 5:06 AM"
+    "title": "Suspect in Wisconsin parade attack withdraws insanity plea",
+    "domain": "cbsnews.com",
+    "category": "news",
+    "link": "https://www.cbsnews.com/minnesota/news/suspect-in-wisconsin-parade-attack-withdraws-insanity-plea/",
+    "timestamp": 1662869130,
+    "published": "September 11, 2022 12:05 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 10, 2022 11:25 PM
+- Latest: September 11, 2022 12:19 AM
 
 ---
 
