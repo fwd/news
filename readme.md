@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 11, 2022 3:51 PM
+- Updated: Sep 11, 2022 5:51 PM
 
 ```
 {
-    "title": "Cancer breakthrough is a ‘wake-up’ call on danger of air pollution",
-    "domain": "theguardian.com",
-    "category": "worldnews",
-    "link": "https://www.theguardian.com/science/2022/sep/10/cancer-breakthrough-is-a-wake-up-call-on-danger-of-air-pollution",
-    "timestamp": 1662874028,
-    "published": "September 11, 2022 1:27 AM"
+    "title": "MIT engineers develop stickers that can see inside the body. New stamp-sized ultrasound adhesives produce clear images of heart, lungs, and other internal organs.",
+    "domain": "news.mit.edu",
+    "category": "science",
+    "link": "https://news.mit.edu/2022/ultrasound-stickers-0728",
+    "timestamp": 1662879541,
+    "published": "September 11, 2022 2:59 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 11, 2022 3:01 PM
+- Latest: September 11, 2022 4:44 PM
 
 ---
 
