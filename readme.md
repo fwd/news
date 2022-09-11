@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 11, 2022 1:51 PM
+- Updated: Sep 11, 2022 3:51 PM
 
 ```
 {
-    "title": "Suspect in Wisconsin parade attack withdraws insanity plea",
-    "domain": "cbsnews.com",
-    "category": "news",
-    "link": "https://www.cbsnews.com/minnesota/news/suspect-in-wisconsin-parade-attack-withdraws-insanity-plea/",
-    "timestamp": 1662869130,
-    "published": "September 11, 2022 12:05 AM"
+    "title": "Cancer breakthrough is a ‘wake-up’ call on danger of air pollution",
+    "domain": "theguardian.com",
+    "category": "worldnews",
+    "link": "https://www.theguardian.com/science/2022/sep/10/cancer-breakthrough-is-a-wake-up-call-on-danger-of-air-pollution",
+    "timestamp": 1662874028,
+    "published": "September 11, 2022 1:27 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 11, 2022 12:31 PM
+- Latest: September 11, 2022 3:01 PM
 
 ---
 
