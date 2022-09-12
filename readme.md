@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 12, 2022 5:51 PM
+- Updated: Sep 12, 2022 7:51 PM
 
 ```
 {
-    "title": "Florida Gov. Ron DeSantis says Republicans are approaching big business all wrong: 'Corporatism is not the same as free enterprise'",
-    "domain": "businessinsider.com",
-    "category": "florida",
-    "link": "https://www.businessinsider.com/desantis-says-republicans-should-copy-him-on-big-business-policy-2022-9",
-    "timestamp": 1662955994,
-    "published": "September 12, 2022 12:13 AM"
+    "title": "New York declares disaster emergency after polio detected in several counties",
+    "domain": "theguardian.com",
+    "category": "nottheonion",
+    "link": "https://www.theguardian.com/us-news/2022/sep/09/new-york-polio-state-of-emergency",
+    "timestamp": 1662958632,
+    "published": "September 12, 2022 12:57 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 12, 2022 4:53 PM
+- Latest: September 12, 2022 7:09 PM
 
 ---
 
