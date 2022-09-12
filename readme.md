@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 12, 2022 7:51 AM
+- Updated: Sep 12, 2022 9:51 AM
 
 ```
 {
-    "title": "Ray J Threatens To Share Legal Documents Proving Kris Jenner Masterminded The Release Of Kim Kardashian's Sex Tape.",
-    "domain": "radaronline.com",
-    "category": "nottheonion",
-    "link": "https://radaronline.com/p/ray-j-proof-kris-jenner-released-kim-kardashian-tape/",
-    "timestamp": 1662958569,
-    "published": "September 12, 2022 12:56 AM"
+    "title": "Florida Gov. Ron DeSantis says Republicans are approaching big business all wrong: 'Corporatism is not the same as free enterprise'",
+    "domain": "businessinsider.com",
+    "category": "florida",
+    "link": "https://www.businessinsider.com/desantis-says-republicans-should-copy-him-on-big-business-policy-2022-9",
+    "timestamp": 1662955994,
+    "published": "September 12, 2022 12:13 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 12, 2022 6:32 AM
+- Latest: September 12, 2022 9:01 AM
 
 ---
 
