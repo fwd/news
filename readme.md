@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 11, 2022 7:51 PM
+- Updated: Sep 11, 2022 9:51 PM
 
 ```
 {
-    "title": "Shoji Morimoto charges $102 per booking to accompany clients and simply exist as a companion in Tokyo",
-    "domain": "abc.net.au",
-    "category": "nottheonion",
-    "link": "https://www.abc.net.au/news/2022-09-11/the-japanese-man-who-gets-paid-to-do-nothing/101413416",
-    "timestamp": 1662872097,
-    "published": "September 11, 2022 12:54 AM"
+    "title": "MIT engineers develop stickers that can see inside the body. New stamp-sized ultrasound adhesives produce clear images of heart, lungs, and other internal organs.",
+    "domain": "news.mit.edu",
+    "category": "science",
+    "link": "https://news.mit.edu/2022/ultrasound-stickers-0728",
+    "timestamp": 1662879541,
+    "published": "September 11, 2022 2:59 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 11, 2022 6:49 PM
+- Latest: September 11, 2022 8:56 PM
 
 ---
 
