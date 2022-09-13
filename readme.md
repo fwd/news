@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 13, 2022 9:51 AM
+- Updated: Sep 13, 2022 11:51 AM
 
 ```
 {
-    "title": "Fake teen doctor sentenced in fraud case",
-    "domain": "cnn.com",
+    "title": "Mourners in London asked to stop bringing Paddington Bears and marmalade sandwiches as tribute for the Queen",
+    "domain": "abc.net.au",
     "category": "nottheonion",
-    "link": "https://www.cnn.com/2017/05/23/health/fake-teen-doctor-sentenced",
-    "timestamp": 1663046404,
-    "published": "September 13, 2022 1:20 AM"
+    "link": "https://www.abc.net.au/news/2022-09-13/mourners-in-london-asked-to-stop-bringing-paddington-marmalade/101433520",
+    "timestamp": 1663049399,
+    "published": "September 13, 2022 2:09 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 13, 2022 8:08 AM
+- Latest: September 13, 2022 10:59 AM
 
 ---
 
