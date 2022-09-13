@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 12, 2022 9:51 PM
+- Updated: Sep 12, 2022 11:51 PM
 
 ```
 {
-    "title": "New York declares disaster emergency after polio detected in several counties",
-    "domain": "theguardian.com",
-    "category": "nottheonion",
-    "link": "https://www.theguardian.com/us-news/2022/sep/09/new-york-polio-state-of-emergency",
-    "timestamp": 1662958632,
-    "published": "September 12, 2022 12:57 AM"
+    "title": "All hail the Big Daddy",
+    "domain": "imgur.com",
+    "category": "miami",
+    "link": "https://imgur.com/dSoCKFY.jpg",
+    "timestamp": 1662961649,
+    "published": "September 12, 2022 1:47 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 12, 2022 8:34 PM
+- Latest: September 12, 2022 10:38 PM
 
 ---
 
