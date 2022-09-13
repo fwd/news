@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 13, 2022 3:51 AM
+- Updated: Sep 13, 2022 5:51 AM
 
 ```
 {
-    "title": "The Irish government is now paying 2,000 artists, musicians, writers, and performers a ‘basic income’ of €325 ($329) each week",
-    "domain": "digitalmusicnews.com",
-    "category": "worldnews",
-    "link": "https://www.digitalmusicnews.com/2022/09/12/irish-government-basic-income-artists-musicians/",
-    "timestamp": 1663048895,
-    "published": "September 13, 2022 2:01 AM"
+    "title": "Fake teen doctor sentenced in fraud case",
+    "domain": "cnn.com",
+    "category": "nottheonion",
+    "link": "https://www.cnn.com/2017/05/23/health/fake-teen-doctor-sentenced",
+    "timestamp": 1663046404,
+    "published": "September 13, 2022 1:20 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 13, 2022 2:09 AM
+- Latest: September 13, 2022 4:04 AM
 
 ---
 
