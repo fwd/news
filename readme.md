@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 13, 2022 1:51 AM
+- Updated: Sep 13, 2022 3:51 AM
 
 ```
 {
-    "title": "All hail the Big Daddy",
-    "domain": "imgur.com",
-    "category": "miami",
-    "link": "https://imgur.com/dSoCKFY.jpg",
-    "timestamp": 1662961649,
-    "published": "September 12, 2022 1:47 AM"
+    "title": "The Irish government is now paying 2,000 artists, musicians, writers, and performers a ‘basic income’ of €325 ($329) each week",
+    "domain": "digitalmusicnews.com",
+    "category": "worldnews",
+    "link": "https://www.digitalmusicnews.com/2022/09/12/irish-government-basic-income-artists-musicians/",
+    "timestamp": 1663048895,
+    "published": "September 13, 2022 2:01 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 12, 2022 10:38 PM
+- Latest: September 13, 2022 2:09 AM
 
 ---
 
