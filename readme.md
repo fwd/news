@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 14, 2022 10:38 AM
+- Updated: Sep 14, 2022 11:07 AM
 
 ```
 {
-    "title": "Hate in the Sunshine State: Report shows increase in extremism, anti-Semitism in Florida",
-    "domain": "wesh.com",
-    "category": "florida",
-    "link": "https://www.wesh.com/article/florida-hate-crime/41200575",
-    "timestamp": 1663128425,
-    "published": "September 14, 2022 12:07 AM"
+    "title": "Clear Creek County deputies shoot and kill man who asked for help after car crash",
+    "domain": "cpr.org",
+    "category": "news",
+    "link": "https://www.cpr.org/2022/09/13/clear-creek-county-deputies-shooting/",
+    "timestamp": 1663129288,
+    "published": "September 14, 2022 12:21 AM"
 }
 ```
 
