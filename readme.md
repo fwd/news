@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 14, 2022 3:09 PM
+- Updated: Sep 14, 2022 7:09 PM
 
 ```
 {
-    "title": "Clear Creek County deputies shoot and kill man who asked for help after car crash",
-    "domain": "cpr.org",
-    "category": "news",
-    "link": "https://www.cpr.org/2022/09/13/clear-creek-county-deputies-shooting/",
-    "timestamp": 1663129288,
-    "published": "September 14, 2022 12:21 AM"
+    "title": "God does not back war, pope says in apparent criticism of Russian patriarch",
+    "domain": "reuters.com",
+    "category": "worldnews",
+    "link": "https://www.reuters.com/world/asia-pacific/god-does-not-back-war-pope-says-apparent-criticism-russian-patriarch-2022-09-14/",
+    "timestamp": 1663137093,
+    "published": "September 14, 2022 2:31 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 14, 2022 1:17 PM
+- Latest: September 14, 2022 5:32 PM
 
 ---
 
