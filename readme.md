@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 14, 2022 11:09 PM
+- Updated: Sep 15, 2022 3:09 AM
 
 ```
 {
-    "title": "Kremlin: Ukraine's NATO ambitions remain threat to Russia",
-    "domain": "reuters.com",
-    "category": "worldnews",
-    "link": "https://www.reuters.com/world/europe/kremlin-ukraines-nato-ambitions-remain-threat-russia-2022-09-14/",
-    "timestamp": 1663150473,
-    "published": "September 14, 2022 6:14 AM"
+    "title": "Group of migrants flown to Martha's Vineyard; Florida Gov. DeSantis takes credit",
+    "domain": "boston.com",
+    "category": "news",
+    "link": "https://www.boston.com/news/local-news/2022/09/14/migrants-flown-to-marthas-vineyard-ron-desantis",
+    "timestamp": 1663214709,
+    "published": "September 15, 2022 12:05 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 14, 2022 9:54 PM
+- Latest: September 15, 2022 12:45 AM
 
 ---
 
