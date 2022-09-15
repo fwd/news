@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 15, 2022 11:09 AM
+- Updated: Sep 15, 2022 3:09 PM
 
 ```
 {
-    "title": "Group of migrants flown to Martha's Vineyard; Florida Gov. DeSantis takes credit",
-    "domain": "boston.com",
-    "category": "news",
-    "link": "https://www.boston.com/news/local-news/2022/09/14/migrants-flown-to-marthas-vineyard-ron-desantis",
-    "timestamp": 1663214709,
-    "published": "September 15, 2022 12:05 AM"
+    "title": "Study finds ‘substantial’ costs on workers with severe COVID-19 illnesses: 500,000 Americans are not working today because of the lingering consequences of their COVID-19 illnesses",
+    "domain": "siepr.stanford.edu",
+    "category": "science",
+    "link": "https://siepr.stanford.edu/news/study-finds-substantial-costs-workers-severe-covid-19-illnesses",
+    "timestamp": 1663216802,
+    "published": "September 15, 2022 12:40 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 15, 2022 10:34 AM
+- Latest: September 15, 2022 1:26 PM
 
 ---
 
