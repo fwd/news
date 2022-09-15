@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 14, 2022 7:09 PM
+- Updated: Sep 14, 2022 11:09 PM
 
 ```
 {
-    "title": "God does not back war, pope says in apparent criticism of Russian patriarch",
+    "title": "Kremlin: Ukraine's NATO ambitions remain threat to Russia",
     "domain": "reuters.com",
     "category": "worldnews",
-    "link": "https://www.reuters.com/world/asia-pacific/god-does-not-back-war-pope-says-apparent-criticism-russian-patriarch-2022-09-14/",
-    "timestamp": 1663137093,
-    "published": "September 14, 2022 2:31 AM"
+    "link": "https://www.reuters.com/world/europe/kremlin-ukraines-nato-ambitions-remain-threat-russia-2022-09-14/",
+    "timestamp": 1663150473,
+    "published": "September 14, 2022 6:14 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 14, 2022 5:32 PM
+- Latest: September 14, 2022 9:54 PM
 
 ---
 
