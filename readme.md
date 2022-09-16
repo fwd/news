@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 16, 2022 11:09 AM
+- Updated: Sep 16, 2022 3:09 PM
 
 ```
 {
-    "title": "Escalation of Conflict between Kyrgyzstan and Tajikistan leads to casualties along border",
-    "domain": "jpost.com",
-    "category": "worldnews",
-    "link": "https://www.jpost.com/international/article-717329",
-    "timestamp": 1663305696,
-    "published": "September 16, 2022 1:21 AM"
+    "title": "Year-long exercise study reveals surprising impacts on mental health. Low-intensity exercise brought improvements to specific memory tasks, while high-intensity exercise brought improvements specifically to others. Those undertaking more high-intensity exercise reported higher stress levels",
+    "domain": "nature.com",
+    "category": "science",
+    "link": "https://www.nature.com/articles/s41598-022-17781-0",
+    "timestamp": 1663316051,
+    "published": "September 16, 2022 4:14 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 16, 2022 9:54 AM
+- Latest: September 16, 2022 2:17 PM
 
 ---
 
