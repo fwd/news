@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 15, 2022 11:09 PM
+- Updated: Sep 16, 2022 3:09 AM
 
 ```
 {
-    "title": "Children are more likely to develop asthma if their father was exposed to second-hand smoke when he was a child. The risk of non-allergic asthma in children increases by 59% if their fathers were exposed to second-hand smoke in childhood, compared to children whose fathers were not exposed",
-    "domain": "eurekalert.org",
-    "category": "science",
-    "link": "https://www.eurekalert.org/news-releases/964518",
-    "timestamp": 1663234399,
-    "published": "September 15, 2022 5:33 AM"
+    "title": "Donald Trump Reportedly Wanted to Trade Puerto Rico for Greenland in ‘a large real estate deal’ with Denmark",
+    "domain": "people.com",
+    "category": "worldnews",
+    "link": "https://people.com/politics/donald-trump-reportedly-wanted-to-trade-puerto-rico-for-greenland/",
+    "timestamp": 1663302353,
+    "published": "September 16, 2022 12:25 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 15, 2022 9:47 PM
+- Latest: September 16, 2022 12:57 AM
 
 ---
 
