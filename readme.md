@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 16, 2022 11:09 PM
+- Updated: Sep 17, 2022 3:09 AM
 
 ```
 {
-    "title": "Year-long exercise study reveals surprising impacts on mental health. Low-intensity exercise brought improvements to specific memory tasks, while high-intensity exercise brought improvements specifically to others. Those undertaking more high-intensity exercise reported higher stress levels",
-    "domain": "nature.com",
-    "category": "science",
-    "link": "https://www.nature.com/articles/s41598-022-17781-0",
-    "timestamp": 1663316051,
-    "published": "September 16, 2022 4:14 AM"
+    "title": "Russia will do everything it can to end Ukraine war 'as soon as possible', Vladimir Putin says | World News",
+    "domain": "news.sky.com",
+    "category": "worldnews",
+    "link": "https://news.sky.com/story/russia-will-do-everything-it-can-to-end-ukraine-war-as-soon-as-possible-vladimir-putin-says-12699080",
+    "timestamp": 1663392858,
+    "published": "September 17, 2022 1:34 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 16, 2022 10:32 PM
+- Latest: September 17, 2022 1:34 AM
 
 ---
 
