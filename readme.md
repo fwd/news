@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 17, 2022 3:09 PM
+- Updated: Sep 17, 2022 7:09 PM
 
 ```
 {
-    "title": "99% bodies exhumed in Izium have “signs of violent death” – Kharkiv Oblast Military Administration",
-    "domain": "pravda.com.ua",
+    "title": "Russia will do everything it can to end Ukraine war 'as soon as possible', Vladimir Putin says | World News",
+    "domain": "news.sky.com",
     "category": "worldnews",
-    "link": "https://www.pravda.com.ua/eng/news/2022/09/16/7367834/",
-    "timestamp": 1663392572,
-    "published": "September 17, 2022 1:29 AM"
+    "link": "https://news.sky.com/story/russia-will-do-everything-it-can-to-end-ukraine-war-as-soon-as-possible-vladimir-putin-says-12699080",
+    "timestamp": 1663392858,
+    "published": "September 17, 2022 1:34 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 17, 2022 2:40 PM
+- Latest: September 17, 2022 5:44 PM
 
 ---
 
