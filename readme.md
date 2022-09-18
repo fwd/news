@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 18, 2022 3:09 PM
+- Updated: Sep 18, 2022 7:09 PM
 
 ```
 {
-    "title": "Germany agrees to produce howitzers for Ukraine to arrive in 2.5 years",
-    "domain": "ukrinform.net",
+    "title": "In a first, EU seen moving to cut money for Hungary over damaging democracy",
+    "domain": "reuters.com",
     "category": "worldnews",
-    "link": "https://www.ukrinform.net/rubric-ato/3573892-germany-agrees-to-produce-howitzers-for-ukraine-to-arrive-in-25-years.html",
-    "timestamp": 1663481166,
-    "published": "September 18, 2022 2:06 AM"
+    "link": "https://www.reuters.com/world/first-eu-seen-moving-cut-money-hungary-over-damaging-democracy-2022-09-18/",
+    "timestamp": 1663489023,
+    "published": "September 18, 2022 4:17 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 18, 2022 1:03 PM
+- Latest: September 18, 2022 5:06 PM
 
 ---
 
