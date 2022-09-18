@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 17, 2022 11:09 PM
+- Updated: Sep 18, 2022 3:09 AM
 
 ```
 {
-    "title": "Casino company Hard Rock to spend $100 million to raise employee wages",
-    "domain": "nbcnews.com",
-    "category": "news",
-    "link": "https://www.nbcnews.com/business/business-news/casino-company-hard-rock-spend-100-million-raise-employee-wages-rcna47696",
-    "timestamp": 1663405936,
-    "published": "September 17, 2022 5:12 AM"
+    "title": "Discrimination causes nearly instantaneous spikes in stress hormones",
+    "domain": "science.org",
+    "category": "science",
+    "link": "https://www.science.org/content/article/discrimination-causes-nearly-instantaneous-spikes-stress-hormones",
+    "timestamp": 1663482406,
+    "published": "September 18, 2022 2:26 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 17, 2022 9:14 PM
+- Latest: September 18, 2022 2:26 AM
 
 ---
 
