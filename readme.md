@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 18, 2022 7:09 AM
+- Updated: Sep 18, 2022 11:09 AM
 
 ```
 {
-    "title": "Trump tried to get AT&T to sell CNN to Rupert Murdoch, book reveals",
-    "domain": "independent.co.uk",
-    "category": "politics",
-    "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-cnn-murdoch-the-divider-b2168898.html",
-    "timestamp": 1663473747,
-    "published": "September 18, 2022 12:02 AM"
+    "title": "Germany agrees to produce howitzers for Ukraine to arrive in 2.5 years",
+    "domain": "ukrinform.net",
+    "category": "worldnews",
+    "link": "https://www.ukrinform.net/rubric-ato/3573892-germany-agrees-to-produce-howitzers-for-ukraine-to-arrive-in-25-years.html",
+    "timestamp": 1663481166,
+    "published": "September 18, 2022 2:06 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 18, 2022 5:25 AM
+- Latest: September 18, 2022 9:56 AM
 
 ---
 
