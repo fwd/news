@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 17, 2022 7:09 PM
+- Updated: Sep 17, 2022 11:09 PM
 
 ```
 {
-    "title": "Russia will do everything it can to end Ukraine war 'as soon as possible', Vladimir Putin says | World News",
-    "domain": "news.sky.com",
-    "category": "worldnews",
-    "link": "https://news.sky.com/story/russia-will-do-everything-it-can-to-end-ukraine-war-as-soon-as-possible-vladimir-putin-says-12699080",
-    "timestamp": 1663392858,
-    "published": "September 17, 2022 1:34 AM"
+    "title": "Casino company Hard Rock to spend $100 million to raise employee wages",
+    "domain": "nbcnews.com",
+    "category": "news",
+    "link": "https://www.nbcnews.com/business/business-news/casino-company-hard-rock-spend-100-million-raise-employee-wages-rcna47696",
+    "timestamp": 1663405936,
+    "published": "September 17, 2022 5:12 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 17, 2022 5:44 PM
+- Latest: September 17, 2022 9:14 PM
 
 ---
 
