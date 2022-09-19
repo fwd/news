@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 18, 2022 11:09 PM
+- Updated: Sep 19, 2022 3:09 AM
 
 ```
 {
-    "title": "In a first, EU seen moving to cut money for Hungary over damaging democracy",
-    "domain": "reuters.com",
-    "category": "worldnews",
-    "link": "https://www.reuters.com/world/first-eu-seen-moving-cut-money-hungary-over-damaging-democracy-2022-09-18/",
-    "timestamp": 1663489023,
-    "published": "September 18, 2022 4:17 AM"
+    "title": "2 arrested, AR pistol recovered after threat reported at North Texas high school football game",
+    "domain": "fox4news.com",
+    "category": "news",
+    "link": "https://www.fox4news.com/news/3-arrested-ar-pistol-confiscated-after-threat-at-high-school-football-game",
+    "timestamp": 1663563319,
+    "published": "September 19, 2022 12:55 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 18, 2022 10:01 PM
+- Latest: September 19, 2022 1:20 AM
 
 ---
 
