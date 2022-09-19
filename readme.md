@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 19, 2022 11:09 AM
+- Updated: Sep 19, 2022 3:09 PM
 
 ```
 {
-    "title": "China is testing a magnet-powered floating car that goes up to 143 miles per hour",
-    "domain": "cnbc.com",
-    "category": "worldnews",
-    "link": "https://www.cnbc.com/2022/09/17/china-testing-floating-car-that-uses-magnets-to-hover-at-143-mph.html",
-    "timestamp": 1663564801,
-    "published": "September 19, 2022 1:20 AM"
+    "title": "US study: Depression 'escalating public health crisis'. The percentage of those with depression who reported speaking with a medical professional about or receiving medication for depression did not change appreciably from 2015 to 2019 and remained below 6 percent in 2020",
+    "domain": "ajpmonline.org",
+    "category": "science",
+    "link": "https://www.ajpmonline.org/article/S0749-3797(22)00333-6/fulltext",
+    "timestamp": 1663577413,
+    "published": "September 19, 2022 4:50 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 19, 2022 10:29 AM
+- Latest: September 19, 2022 1:39 PM
 
 ---
 
