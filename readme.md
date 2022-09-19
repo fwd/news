@@ -4,16 +4,16 @@
 - Articles: 20k
 - File Type: JSON
 - File Size: ~**7MB**
-- Updated: Sep 19, 2022 7:09 AM
+- Updated: Sep 19, 2022 11:09 AM
 
 ```
 {
-    "title": "2 arrested, AR pistol recovered after threat reported at North Texas high school football game",
-    "domain": "fox4news.com",
-    "category": "news",
-    "link": "https://www.fox4news.com/news/3-arrested-ar-pistol-confiscated-after-threat-at-high-school-football-game",
-    "timestamp": 1663563319,
-    "published": "September 19, 2022 12:55 AM"
+    "title": "China is testing a magnet-powered floating car that goes up to 143 miles per hour",
+    "domain": "cnbc.com",
+    "category": "worldnews",
+    "link": "https://www.cnbc.com/2022/09/17/china-testing-floating-car-that-uses-magnets-to-hover-at-143-mph.html",
+    "timestamp": 1663564801,
+    "published": "September 19, 2022 1:20 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 19, 2022 6:02 AM
+- Latest: September 19, 2022 10:29 AM
 
 ---
 
