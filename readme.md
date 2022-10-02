@@ -3,17 +3,17 @@
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - Articles: 20k
 - File Type: JSON
-- File Size: ~**7MB**
-- Updated: Sep 20, 2022 12:40 AM
+- File Size: ~**8MB**
+- Updated: Oct 2, 2022 1:18 PM
 
 ```
 {
-    "title": "US study: Depression 'escalating public health crisis'. The percentage of those with depression who reported speaking with a medical professional about or receiving medication for depression did not change appreciably from 2015 to 2019 and remained below 6 percent in 2020",
-    "domain": "ajpmonline.org",
-    "category": "science",
-    "link": "https://www.ajpmonline.org/article/S0749-3797(22)00333-6/fulltext",
-    "timestamp": 1663577413,
-    "published": "September 19, 2022 4:50 AM"
+    "title": "Hurricane Orlene heads for Mexico's former prison islands",
+    "domain": "apnews.com",
+    "category": "news",
+    "link": "https://apnews.com/article/hurricanes-travel-caribbean-storms-ecotourism-de3f515600067cb02ea5080dca26d6e5",
+    "timestamp": 1664684452,
+    "published": "October 2, 2022 12:20 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: September 19, 2022 10:25 PM
+- Latest: October 2, 2022 1:16 PM
 
 ---
 

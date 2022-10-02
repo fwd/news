@@ -46,7 +46,10 @@ async function scrape() {
 	
 	for (var sub of subreddits) {
 
-            items = await reddit.getSubreddit(sub).getHot({ limit: 10 })
+		try {
+
+
+            items = await reddit.getSubreddit(sub).getHot({ limit: 30 })
 
 	    items = items.map(a => {
 	        return {
@@ -60,7 +63,10 @@ async function scrape() {
 	    })   
 
 	    data.push(items)
-
+            
+		} catch(e) {
+              console.log( e )
+	    }
 	}
 
 	data = _.flatten(data)
@@ -89,7 +95,9 @@ async function scrape() {
 
 	try {
 		dataset = require('./headlines.json')
-	} catch (e) {}
+	} catch (e) {
+		console.error(e)
+	}
 
 	data.map(a => dataset.unshift(a))
 
@@ -108,11 +116,15 @@ async function scrape() {
 }
 
 server.cron(async () => {
+	
+	try {
 
 	await scrape()
 
 	await server.exec(`cd ${__dirname} && rm -f .git/index.lock && git add -A && git commit -m "${server.timestamp('LLL', 'us-east')}" &> /dev/null`)
 
 	await server.exec(`cd ${__dirname} && git push origin &> /dev/null`)
+	
+	} catch(e) { console.log(e) }
 
-}, 'every 4 hour', true) 
+}, 'every 4 hours', true)
