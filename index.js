@@ -115,9 +115,9 @@ async function scrape() {
 
 }
 
-server.cron(async () => {
+;(async () => {
 	
-	try {
+try {
 
 	await scrape()
 
@@ -125,6 +125,6 @@ server.cron(async () => {
 
 	await server.exec(`cd ${__dirname} && git push origin &> /dev/null`)
 	
-	} catch(e) { console.log(e) }
+} catch(e) { console.log(e) }
 
-}, 'every 4 hours', true)
+})()
