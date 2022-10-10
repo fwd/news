@@ -29,11 +29,11 @@ const subreddits = [
 	'worldnews',
 	'news',
 //	'television',
-//	'ukraine',
+	'ukraine',
 //	'miami',
-// 	'technology',
+ 	'technology',
 // 	'sports',
-// 	'UpliftingNews',
+ 	'UpliftingNews',
 	'science',
 //	'nottheonion',
 	'politics',
@@ -115,9 +115,9 @@ async function scrape() {
 
 }
 
-;(async () => {
+server.cron(async () => {
 	
-try {
+	try {
 
 	await scrape()
 
@@ -125,6 +125,6 @@ try {
 
 	await server.exec(`cd ${__dirname} && git push origin &> /dev/null`)
 	
-} catch(e) { console.log(e) }
+	} catch(e) { console.log(e) }
 
-})()
+}, 'every 4 hours', true)
