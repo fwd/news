@@ -4,7 +4,7 @@
     
     <head>
         <meta charset="UTF-8">
-        <title>The News</title>
+        <title>News</title>
         <meta name="apple-mobile-web-app-capable" content="yes">
         <meta name="apple-mobile-web-app-status-bar-style" content="black">
         <meta name="apple-mobile-web-app-title" content="NEWS">
@@ -12,6 +12,8 @@
         <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.1/flexboxgrid.css'>
         <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css'>
         <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.css'>
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.1/moment.js'></script>
+        <!-- <script src="https://unpkg.com/compromise"></script> -->
         <script src="https://fwd.dev/js/vue.js"></script>
         <script src="https://fwd.dev/js/axios.js"></script>
         <style>
@@ -333,7 +335,7 @@
               display: none;
             }
             article .tags {
-              margin-top: 0;
+              margin-top: 10px;
             }
             article .tags a {
               border-bottom: 2px #F48FB1 solid;
@@ -372,6 +374,7 @@
               border-top: 1px #F48FB1 dotted;
               padding: 0 20px 20px;
               box-sizing: border-box;
+              zoom: 1.3;
             }
             article .meta p {
               margin-bottom: 0;
@@ -413,7 +416,7 @@
     <body>
         <!-- partial:index.partial.html -->
         <div id="app">
-             <h1>NEWS</h1>
+             <h1 @click="query = ''">NEWS</h1>
             <form @submit.prevent="check()" id="search-filter" :class="`${sticky ? 'sticky' : ''}`">
               <div id="search">
                   <input type="search" value="" id="s" v-model.lazy="query" placeholder="Search keywords" />
@@ -422,15 +425,14 @@
             <div id="posts">
                 <article v-for="i in filtered">
                 <!-- <article v-for="i in filtered" :style="`background-color: ${stringToColour(i.domain)} `" @click="open(i)"> -->
-                  <h3 @click="clickArticle(i)">
-                    <!-- <i class="fa fa-thumb-tack"></i>  -->
-                    {{ i.title }}
+                  <h3>
+                    <span @click="i.length > 3 ? clickTag(i) : ''" v-for="i of i.title.split(' ')"> {{ i }} </span>
                   </h3>
                   <p class="tags" @click="clickTag('#' + i.category)"><a :style="`background-color: ${guessColor(i.category).bg};color:${guessColor(i.category).color};border-color:${guessColor(i.category).border}`">#{{ i.category }}</a></p>
                   <!-- A walkthrough of a few methods for truncating text to a certain number of lines for any device or viewport size -->
                   <div class="meta">
-                    <p class="date">{{ i.published }} |
-                      <a href="https://dev.to/carlymho/line-based-truncation-methods-51bk" rel="external" target="_blank">View article <i class="fa fa-external-link-square"></i></a>
+                    <p class="date">{{ moment.unix(i.timestamp).fromNow() }} |
+                      <a :href="i.link" target="_blank">View article <i class="fa fa-external-link-square"></i></a>
                     </p>
                   </div>
                 </article>
@@ -438,7 +440,6 @@
         </div>
         <!-- partial -->
         <!-- <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js'></script> -->
-        <!-- <script src='https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.1/moment.js'></script> -->
         <!-- <script src='https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.js'></script> -->
        <script>
           var app = new Vue({
@@ -447,6 +448,7 @@
             sticky: false,
             query: '',
             headlines: [],
+            moment
           },
           mounted() {
             var self = this
@@ -476,30 +478,31 @@
           },
           computed: {
             filtered() {
-              if (this.query && this.query.includes('#')) {
+              if (this.query) {
                 return this.headlines.filter(a => {
-                  return a.category.toLowerCase().includes(this.query.replace('#', '').toLowerCase())
+                  return a.title.toLowerCase().includes(`${this.query.replace('#', '').toLowerCase()}`)
                 })
                 return
               }
-              if (this.query && !this.query.includes('"')) {
-                var found = []
-                this.query.split(' ').map(b => {
-                  this.headlines.filter(a => a.title.toLowerCase().includes(b.toLowerCase())).map(c => found.push(c))
-                })
-                return found
-              }
-              if (this.query && this.query.includes('"')) {
-                var found = []
-                this.headlines.filter(a => a.title.toLowerCase().includes(this.query.split('"').join(''))).map(c => found.push(c))
-                return found
-              }
+              // if (this.query && !this.query.includes('"')) {
+              //   var found = []
+              //   this.query.split(' ').map(b => {
+              //     this.headlines.filter(a => a.title.toLowerCase().includes(b.toLowerCase())).map(c => found.push(c))
+              //   })
+              //   return found
+              // }
+              // if (this.query && this.query.includes('"')) {
+              //   var found = []
+              //   this.headlines.filter(a => a.title.toLowerCase().includes(this.query.split('"').join(''))).map(c => found.push(c))
+              //   return found
+              // }
               return this.headlines.slice(0, 100)
             }
           },
           methods: {
-            check() {
-
+            tags(sentence) {
+              // return sentence.split(' ')
+               // console.log( nlp(sentence).sentences().subjects() )
             },
             clickArticle(i) {
               window.open(i.link, '_blank').focus();
