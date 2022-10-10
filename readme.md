@@ -4,16 +4,16 @@
 - Articles: 21k
 - File Type: JSON
 - File Size: ~**8MB**
-- Updated: Oct 10, 2022 11:47 AM
+- Updated: Oct 10, 2022 3:47 PM
 
 ```
 {
-    "title": "Why the Internet Needs the InterPlanetary File System",
-    "domain": "spectrum.ieee.org",
+    "title": "George Hotz: Self-Driving Cars Are A Scam",
+    "domain": "cleantechnica.com",
     "category": "technology",
-    "link": "https://spectrum.ieee.org/peer-to-peer-network",
-    "timestamp": 1665374963,
-    "published": "October 10, 2022 12:09 AM"
+    "link": "https://cleantechnica.com/2022/10/09/george-hotz-autonomous-cars-are-a-scam-connected-cars-may-be-the-new-thing/",
+    "timestamp": 1665375287,
+    "published": "October 10, 2022 12:14 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: October 10, 2022 11:08 AM
+- Latest: October 10, 2022 3:46 PM
 
 ---
 
