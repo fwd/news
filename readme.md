@@ -4,16 +4,16 @@
 - Articles: 21k
 - File Type: JSON
 - File Size: ~**8MB**
-- Updated: Oct 11, 2022 3:47 PM
+- Updated: Oct 11, 2022 7:47 PM
 
 ```
 {
-    "title": "UN General Assembly applauds Ukraine, shuns Russia in tense meeting just hours after deadly missile strikes",
-    "domain": "businessinsider.com",
-    "category": "worldnews",
-    "link": "https://www.businessinsider.com/un-general-assembly-lauds-ukraine-shuns-russia-after-missile-strikes-2022-10",
-    "timestamp": 1665462224,
-    "published": "October 11, 2022 12:23 AM"
+    "title": "Oz Apple Store staff vote to strike for better pay, settled rosters, clean shirts",
+    "domain": "theregister.com",
+    "category": "technology",
+    "link": "https://www.theregister.com/2022/10/11/apple_australia_store_strike/",
+    "timestamp": 1665463244,
+    "published": "October 11, 2022 12:40 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: October 11, 2022 3:38 PM
+- Latest: October 11, 2022 7:21 PM
 
 ---
 
