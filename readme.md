@@ -4,16 +4,16 @@
 - Articles: 21k
 - File Type: JSON
 - File Size: ~**8MB**
-- Updated: Oct 11, 2022 11:47 PM
+- Updated: Oct 12, 2022 3:47 AM
 
 ```
 {
-    "title": "Mississippi police shoot Black teenager in the head outside store",
-    "domain": "theguardian.com",
-    "category": "news",
-    "link": "https://www.theguardian.com/us-news/2022/oct/10/mississippi-police-shoot-black-teenager",
-    "timestamp": 1665465373,
-    "published": "October 11, 2022 1:16 AM"
+    "title": "British Official Stresses Threat From China Even Amid Russian Aggression",
+    "domain": "nytimes.com",
+    "category": "worldnews",
+    "link": "https://www.nytimes.com/2022/10/10/us/politics/uk-gchq-china-russia.html",
+    "timestamp": 1665547684,
+    "published": "October 12, 2022 12:08 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: October 11, 2022 10:54 PM
+- Latest: October 12, 2022 3:24 AM
 
 ---
 
