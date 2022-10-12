@@ -4,16 +4,16 @@
 - Articles: 21k
 - File Type: JSON
 - File Size: ~**8MB**
-- Updated: Oct 12, 2022 3:47 AM
+- Updated: Oct 12, 2022 7:47 AM
 
 ```
 {
-    "title": "British Official Stresses Threat From China Even Amid Russian Aggression",
-    "domain": "nytimes.com",
-    "category": "worldnews",
-    "link": "https://www.nytimes.com/2022/10/10/us/politics/uk-gchq-china-russia.html",
-    "timestamp": 1665547684,
-    "published": "October 12, 2022 12:08 AM"
+    "title": "$100 Billion, 10 Years: Self-Driving Cars Can Barely Turn Left",
+    "domain": "jalopnik.com",
+    "category": "technology",
+    "link": "https://jalopnik.com/100-billion-and-10-years-of-development-later-and-sel-1849639732",
+    "timestamp": 1665548606,
+    "published": "October 12, 2022 12:23 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: October 12, 2022 3:24 AM
+- Latest: October 12, 2022 7:34 AM
 
 ---
 
