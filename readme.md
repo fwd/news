@@ -4,16 +4,16 @@
 - Articles: 21k
 - File Type: JSON
 - File Size: ~**8MB**
-- Updated: Oct 13, 2022 11:47 AM
+- Updated: Oct 13, 2022 3:47 PM
 
 ```
 {
-    "title": "'Everything has collapsed': Russia's draft tanks small businesses",
-    "domain": "news.yahoo.com",
-    "category": "worldnews",
-    "link": "https://news.yahoo.com/everything-collapsed-russias-draft-tanks-034801120.html",
-    "timestamp": 1665633629,
-    "published": "October 13, 2022 12:00 AM"
+    "title": "Prison inmate accused of orchestrating $11M fraud using cell cellphone",
+    "domain": "theregister.com",
+    "category": "technology",
+    "link": "https://www.theregister.com/2022/10/13/prison_11m_schwab_fraud/",
+    "timestamp": 1665637308,
+    "published": "October 13, 2022 1:01 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: October 13, 2022 11:21 AM
+- Latest: October 13, 2022 3:16 PM
 
 ---
 
