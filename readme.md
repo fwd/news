@@ -4,16 +4,16 @@
 - Articles: 22k
 - File Type: JSON
 - File Size: ~**8MB**
-- Updated: Oct 13, 2022 11:47 PM
+- Updated: Oct 14, 2022 3:47 AM
 
 ```
 {
-    "title": "‘Woman who can smell Parkinson’s’ helps scientists develop test, Scientists drew on 72-year-old Scot’s rare condition to help identify people with neurological condition",
-    "domain": "theguardian.com",
-    "category": "UpliftingNews",
-    "link": "https://www.theguardian.com/society/2022/sep/07/woman-who-can-smell-parkinsons-helps-scientists-develop-test",
-    "timestamp": 1665640124,
-    "published": "October 13, 2022 1:48 AM"
+    "title": "Russia Bans Doctors From St. Petersburg From Leaving The Country",
+    "domain": "ibtimes.com",
+    "category": "worldnews",
+    "link": "https://www.ibtimes.com/russia-bans-doctors-st-petersburg-leaving-country-3623934",
+    "timestamp": 1665721038,
+    "published": "October 14, 2022 12:17 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: October 13, 2022 11:15 PM
+- Latest: October 14, 2022 3:36 AM
 
 ---
 
