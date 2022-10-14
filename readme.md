@@ -4,16 +4,16 @@
 - Articles: 22k
 - File Type: JSON
 - File Size: ~**8MB**
-- Updated: Oct 14, 2022 11:47 AM
+- Updated: Oct 14, 2022 3:47 PM
 
 ```
 {
-    "title": "Your brain orchestrates many of the symptoms you feel when you are sick. Two recent Nature studies report that distinct neuron populations in different brain regions are responsible for symptoms like lethargy, fever, and loss of appetite; these symptoms are likely adaptive to recovering from illness",
-    "domain": "washingtonpost.com",
-    "category": "science",
-    "link": "https://www.washingtonpost.com/wellness/2022/10/13/sickness-brain-helps-heal/",
-    "timestamp": 1665722011,
-    "published": "October 14, 2022 12:33 AM"
+    "title": "Netflix with ads is here. Here's everything you need to know",
+    "domain": "cnn.com",
+    "category": "technology",
+    "link": "https://www.cnn.com/2022/10/13/media/netflix-ads-plan-cost/index.html",
+    "timestamp": 1665722258,
+    "published": "October 14, 2022 12:37 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: October 14, 2022 11:21 AM
+- Latest: October 14, 2022 3:02 PM
 
 ---
 
