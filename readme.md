@@ -4,16 +4,16 @@
 - Articles: 22k
 - File Type: JSON
 - File Size: ~**8MB**
-- Updated: Oct 14, 2022 3:47 PM
+- Updated: Oct 14, 2022 7:47 PM
 
 ```
 {
-    "title": "Netflix with ads is here. Here's everything you need to know",
-    "domain": "cnn.com",
+    "title": "Apple slapped with a $19 million fine in Brazil for not selling iPhones with a charger",
+    "domain": "engadget.com",
     "category": "technology",
-    "link": "https://www.cnn.com/2022/10/13/media/netflix-ads-plan-cost/index.html",
-    "timestamp": 1665722258,
-    "published": "October 14, 2022 12:37 AM"
+    "link": "https://www.engadget.com/apple-19-million-fine-brazil-for-not-selling-phones-with-a-charger-051025019.html?src=rss&guccounter=1",
+    "timestamp": 1665724895,
+    "published": "October 14, 2022 1:21 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: October 14, 2022 3:02 PM
+- Latest: October 14, 2022 6:42 PM
 
 ---
 
