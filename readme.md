@@ -4,16 +4,16 @@
 - Articles: 22k
 - File Type: JSON
 - File Size: ~**8MB**
-- Updated: Oct 14, 2022 11:47 PM
+- Updated: Oct 15, 2022 3:47 AM
 
 ```
 {
-    "title": "Apple slapped with a $19 million fine in Brazil for not selling iPhones with a charger",
-    "domain": "engadget.com",
-    "category": "technology",
-    "link": "https://www.engadget.com/apple-19-million-fine-brazil-for-not-selling-phones-with-a-charger-051025019.html?src=rss&guccounter=1",
-    "timestamp": 1665724895,
-    "published": "October 14, 2022 1:21 AM"
+    "title": "Migrants Ron DeSantis Had Flown To Martha's Vineyard Now On Track For Special Visas | The immigrants are being certified as crime victims, making them eligible for U visas, which often lead to green cards.",
+    "domain": "huffpost.com",
+    "category": "politics",
+    "link": "https://www.huffpost.com/entry/ron-de-santis-immigrants-crime-victims_n_6349eadde4b04cf8f378a4f0",
+    "timestamp": 1665806822,
+    "published": "October 15, 2022 12:07 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: October 14, 2022 11:15 PM
+- Latest: October 15, 2022 3:01 AM
 
 ---
 
