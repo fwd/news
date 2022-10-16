@@ -4,16 +4,16 @@
 - Articles: 22k
 - File Type: JSON
 - File Size: ~**8MB**
-- Updated: Oct 15, 2022 11:47 PM
+- Updated: Oct 16, 2022 3:47 AM
 
 ```
 {
-    "title": "AT&T to pay $23M fine for bribing powerful lawmaker’s ally in exchange for vote",
-    "domain": "arstechnica.com",
+    "title": "Australian research finds cost-effective way to recycle solar panels | Recycling",
+    "domain": "theguardian.com",
     "category": "technology",
-    "link": "https://arstechnica.com/tech-policy/2022/10/att-to-pay-23m-fine-for-bribing-powerful-lawmakers-ally-in-exchange-for-vote/",
-    "timestamp": 1665809172,
-    "published": "October 15, 2022 12:46 AM"
+    "link": "https://www.theguardian.com/environment/2022/oct/16/australian-research-finds-cost-effective-way-to-recycle-solar-panels",
+    "timestamp": 1665893126,
+    "published": "October 16, 2022 12:05 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: October 15, 2022 11:40 PM
+- Latest: October 16, 2022 2:30 AM
 
 ---
 
