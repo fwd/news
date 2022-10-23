@@ -127,4 +127,4 @@ server.cron(async () => {
 	
 	} catch(e) { console.log(e) }
 
-}, 'every 4 hours', true)
+}, `every ${process.env.CHECK_INTERVAL || 12} hours`, true)

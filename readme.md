@@ -4,16 +4,16 @@
 - Articles: 22k
 - File Type: JSON
 - File Size: ~**8MB**
-- Updated: Oct 16, 2022 3:47 PM
+- Updated: Oct 23, 2022 2:40 PM
 
 ```
 {
-    "title": "Australian research finds cost-effective way to recycle solar panels | Recycling",
-    "domain": "theguardian.com",
-    "category": "technology",
-    "link": "https://www.theguardian.com/environment/2022/oct/16/australian-research-finds-cost-effective-way-to-recycle-solar-panels",
-    "timestamp": 1665893126,
-    "published": "October 16, 2022 12:05 AM"
+    "title": "Resistance exercise enhances long-term mTORC1 sensitivity to leucine (Oct 2022)",
+    "domain": "sciencedirect.com",
+    "category": "science",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2212877822001843?via%3Dihub",
+    "timestamp": 1666498927,
+    "published": "October 23, 2022 12:22 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: October 16, 2022 3:28 PM
+- Latest: October 23, 2022 2:25 PM
 
 ---
 
