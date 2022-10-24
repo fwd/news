@@ -4,16 +4,16 @@
 - Articles: 22k
 - File Type: JSON
 - File Size: ~**8MB**
-- Updated: Oct 23, 2022 2:41 PM
+- Updated: Oct 24, 2022 2:41 PM
 
 ```
 {
-    "title": "Resistance exercise enhances long-term mTORC1 sensitivity to leucine (Oct 2022)",
-    "domain": "sciencedirect.com",
-    "category": "science",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2212877822001843?via%3Dihub",
-    "timestamp": 1666498927,
-    "published": "October 23, 2022 12:22 AM"
+    "title": "Dutch far-right leader claims world is governed by 'evil reptiles'",
+    "domain": "lemonde.fr",
+    "category": "worldnews",
+    "link": "https://www.lemonde.fr/en/international/article/2022/10/21/dutch-far-right-leader-claims-world-is-governed-by-evil-reptiles_6001236_4.html",
+    "timestamp": 1666586772,
+    "published": "October 24, 2022 12:46 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: October 23, 2022 2:25 PM
+- Latest: October 24, 2022 2:11 PM
 
 ---
 
