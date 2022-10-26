@@ -4,16 +4,16 @@
 - Articles: 23k
 - File Type: JSON
 - File Size: ~**8MB**
-- Updated: Oct 25, 2022 2:41 PM
+- Updated: Oct 26, 2022 2:41 PM
 
 ```
 {
-    "title": "Combining two strategies—spacing and retrieval practice—is key to success in learning, study says",
-    "domain": "futurity.org",
+    "title": "Medical students and university mental health providers have completely contradicting perspectives about the offered mental health services at the university. A sad experience for service users.",
+    "domain": "researchgate.net",
     "category": "science",
-    "link": "https://www.futurity.org/learning-memory-tricks-strategy-2819702/",
-    "timestamp": 1666670715,
-    "published": "October 25, 2022 12:05 AM"
+    "link": "https://www.researchgate.net/publication/364694745_Perspectives_on_mental_health_services_for_medical_students_at_a_Ugandan_medical_school",
+    "timestamp": 1666757796,
+    "published": "October 26, 2022 12:16 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: October 25, 2022 2:06 PM
+- Latest: October 26, 2022 2:10 PM
 
 ---
 
