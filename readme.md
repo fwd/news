@@ -4,16 +4,16 @@
 - Articles: 23k
 - File Type: JSON
 - File Size: ~**8MB**
-- Updated: Oct 26, 2022 2:41 PM
+- Updated: Oct 27, 2022 2:41 PM
 
 ```
 {
-    "title": "Medical students and university mental health providers have completely contradicting perspectives about the offered mental health services at the university. A sad experience for service users.",
-    "domain": "researchgate.net",
-    "category": "science",
-    "link": "https://www.researchgate.net/publication/364694745_Perspectives_on_mental_health_services_for_medical_students_at_a_Ugandan_medical_school",
-    "timestamp": 1666757796,
-    "published": "October 26, 2022 12:16 AM"
+    "title": "Same-sex marriage is now legal in all of Mexico's states",
+    "domain": "apnews.com",
+    "category": "news",
+    "link": "https://apnews.com/article/mexico-caribbean-gay-rights-marriage-e214fe19d33a4bd67cb04a1fb556178a",
+    "timestamp": 1666844939,
+    "published": "October 27, 2022 12:28 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: October 26, 2022 2:10 PM
+- Latest: October 27, 2022 1:57 PM
 
 ---
 
