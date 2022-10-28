@@ -38,8 +38,6 @@ module.exports = (dataset) => {
 - File Size: ~**${Math.floor(dataset.size)}MB**
 - Sources: ${nFormatter(domains.length)}
 - Categories: ${nFormatter(categories.length)}
-- Start: ${minDate}
-- Latest: ${maxDate}
 - Updated: ${dataset.timestamp}
 
 \`\`\`
