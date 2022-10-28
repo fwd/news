@@ -25,20 +25,7 @@ const reddit = new snoowrap({
     password: process.env.REDDIT_PASSWORD
 });
 
-const subreddits = [
-	'worldnews',
-	'news',
-//	'television',
-	'ukraine',
-//	'miami',
- 	'technology',
-// 	'sports',
- 	'UpliftingNews',
-	'science',
-//	'nottheonion',
-	'politics',
-// 	'florida'
-]
+const subreddits = process.env.CATEGORIES.split(',')
 
 async function scrape() {
 	
@@ -48,21 +35,20 @@ async function scrape() {
 
 		try {
 
+	        items = await reddit.getSubreddit(sub).getHot({ limit: 30 })
 
-            items = await reddit.getSubreddit(sub).getHot({ limit: 30 })
+		    items = items.map(a => {
+		        return {
+		            title: a.title,
+		            domain: a.domain,
+		            category: sub,
+		            link: a.url,
+		            timestamp: a.created,
+		            published: moment.unix(a.created).format('LLL'),
+		        }
+		    })   
 
-	    items = items.map(a => {
-	        return {
-	            title: a.title,
-	            domain: a.domain,
-	            category: sub,
-	            link: a.url,
-	            timestamp: a.created,
-	            published: moment.unix(a.created).format('LLL'),
-	        }
-	    })   
-
-	    data.push(items)
+		    data.push(items)
             
 		} catch(e) {
               console.log( e )
@@ -77,8 +63,8 @@ async function scrape() {
 		'i.imgur.com',
 		'v.redd.it',
 		'i.redd.it',
-                'reddit.com',
-                'twitter.com',
+		'reddit.com',
+		'twitter.com',
 		'youtu.be',
 		'youtube.com',
 	]
@@ -119,11 +105,11 @@ server.cron(async () => {
 	
 	try {
 
-	await scrape()
+		await scrape()
 
-	await server.exec(`cd ${__dirname} && rm -f .git/index.lock && git add -A && git commit -m "${server.timestamp('LLL', 'us-east')}" &> /dev/null`)
+		await server.exec(`cd ${__dirname} && rm -f .git/index.lock && git add -A && git commit -m "${server.timestamp('LLL', 'us-east')}" &> /dev/null`)
 
-	await server.exec(`cd ${__dirname} && git push origin &> /dev/null`)
+		await server.exec(`cd ${__dirname} && git push origin &> /dev/null`)
 	
 	} catch(e) { console.log(e) }
 

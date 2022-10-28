@@ -36,18 +36,15 @@ module.exports = (dataset) => {
 - Articles: ${nFormatter(dataset.length)}
 - File Type: JSON
 - File Size: ~**${Math.floor(dataset.size)}MB**
+- Sources: ${nFormatter(domains.length)}
+- Categories: ${nFormatter(categories.length)}
+- Start: ${minDate}
+- Latest: ${maxDate}
 - Updated: ${dataset.timestamp}
 
 \`\`\`
 ${JSON.stringify(_.first(dataset), null, 4)}
 \`\`\`
-
-### Insights
-
-- Sources: ${nFormatter(domains.length)}
-- Categories: ${nFormatter(categories.length)}
-- Start: ${minDate}
-- Latest: ${maxDate}
 
 ---
 
