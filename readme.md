@@ -4,16 +4,16 @@
 - Articles: 23k
 - File Type: JSON
 - File Size: ~**8MB**
-- Updated: Oct 27, 2022 2:41 PM
+- Updated: Oct 28, 2022 10:18 AM
 
 ```
 {
-    "title": "Same-sex marriage is now legal in all of Mexico's states",
-    "domain": "apnews.com",
+    "title": "Facebook parent is fined $25M for violating campaign finance disclosure law : NPR",
+    "domain": "npr.org",
     "category": "news",
-    "link": "https://apnews.com/article/mexico-caribbean-gay-rights-marriage-e214fe19d33a4bd67cb04a1fb556178a",
-    "timestamp": 1666844939,
-    "published": "October 27, 2022 12:28 AM"
+    "link": "https://www.npr.org/2022/10/27/1131907041/facebook-meta-campaign-finance-fine",
+    "timestamp": 1666929682,
+    "published": "October 28, 2022 12:01 AM"
 }
 ```
 
@@ -22,7 +22,7 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: October 27, 2022 1:57 PM
+- Latest: October 28, 2022 9:55 AM
 
 ---
 
