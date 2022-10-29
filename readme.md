@@ -7,17 +7,17 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: October 28, 2022 9:49 PM
-- Updated: Oct 28, 2022 10:27 PM
+- Latest: October 29, 2022 10:17 AM
+- Updated: Oct 29, 2022 10:27 AM
 
 ```
 {
-    "title": "FBI background check blocked gun sale to St. Louis shooter",
-    "domain": "abcnews.go.com",
+    "title": "Arizona woman sues city after arrest for feeding homeless: \"Criminalized kindness\"",
+    "domain": "cbsnews.com",
     "category": "news",
-    "link": "https://abcnews.go.com/US/wireStory/police-gun-earlier-school-shooting-92204175",
-    "timestamp": 1666929796,
-    "published": "October 28, 2022 12:03 AM"
+    "link": "https://www.cbsnews.com/news/bullhead-city-lawsuit-feeding-homeless-norma-thornton/",
+    "timestamp": 1667017163,
+    "published": "October 29, 2022 12:19 AM"
 }
 ```
 
