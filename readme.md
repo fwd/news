@@ -7,17 +7,17 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: October 30, 2022 10:24 PM
-- Updated: Oct 30, 2022 10:27 PM
+- Latest: October 31, 2022 10:10 AM
+- Updated: Oct 31, 2022 10:27 AM
 
 ```
 {
-    "title": "Tentacle robot can gently grasp fragile objects",
-    "domain": "seas.harvard.edu",
-    "category": "science",
-    "link": "https://www.seas.harvard.edu/news/2022/10/tentacle-robot-can-gently-grasp-fragile-objects",
-    "timestamp": 1667103256,
-    "published": "October 30, 2022 12:14 AM"
+    "title": "Suspect in Paul Pelosi attack had list of targets, law enforcement sources say",
+    "domain": "cbsnews.com",
+    "category": "politics",
+    "link": "https://www.cbsnews.com/news/paul-pelosi-attack-suspect-target-list-sources-say-nancy-pelosi-husband/",
+    "timestamp": 1667188938,
+    "published": "October 31, 2022 12:02 AM"
 }
 ```
 
