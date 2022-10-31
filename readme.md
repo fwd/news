@@ -7,17 +7,17 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: October 30, 2022 10:18 AM
-- Updated: Oct 30, 2022 10:27 AM
+- Latest: October 30, 2022 10:24 PM
+- Updated: Oct 30, 2022 10:27 PM
 
 ```
 {
-    "title": "Somalia president: at least 100 people killed in car bombs",
-    "domain": "reuters.com",
-    "category": "worldnews",
-    "link": "https://www.reuters.com/world/africa/somalia-president-least-100-people-killed-car-bombs-2022-10-30/",
-    "timestamp": 1667103042,
-    "published": "October 30, 2022 12:10 AM"
+    "title": "Tentacle robot can gently grasp fragile objects",
+    "domain": "seas.harvard.edu",
+    "category": "science",
+    "link": "https://www.seas.harvard.edu/news/2022/10/tentacle-robot-can-gently-grasp-fragile-objects",
+    "timestamp": 1667103256,
+    "published": "October 30, 2022 12:14 AM"
 }
 ```
 
