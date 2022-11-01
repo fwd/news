@@ -7,17 +7,17 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: October 31, 2022 10:03 PM
-- Updated: Oct 31, 2022 10:27 PM
+- Latest: November 1, 2022 10:16 AM
+- Updated: Nov 1, 2022 10:27 AM
 
 ```
 {
-    "title": "New York could become first state with a ‘Right to Repair’ law for electronic devices",
-    "domain": "spectrumlocalnews.com",
-    "category": "technology",
-    "link": "https://spectrumlocalnews.com/nys/central-ny/politics/2022/10/26/new-york-could-become-first-state-with-a--right-to-repair--law",
-    "timestamp": 1667189212,
-    "published": "October 31, 2022 12:06 AM"
+    "title": "'Craven silence': Author says Ron DeSantis is 'sending clear messages' he 'will tolerate hate speech'",
+    "domain": "msn.com",
+    "category": "florida",
+    "link": "https://www.msn.com/en-us/news/politics/craven-silence-author-says-ron-desantis-is-sending-clear-messages-he-will-tolerate-hate-speech/ar-AA13AyRU?cvid=6edbb50f71b84798a90f6aafb8dd1105",
+    "timestamp": 1667276345,
+    "published": "November 1, 2022 12:19 AM"
 }
 ```
 
