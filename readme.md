@@ -1,23 +1,23 @@
 # Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 23k
+- Articles: 24k
 - File Type: JSON
 - File Size: ~**9MB**
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: October 31, 2022 10:10 AM
-- Updated: Oct 31, 2022 10:27 AM
+- Latest: October 31, 2022 10:03 PM
+- Updated: Oct 31, 2022 10:27 PM
 
 ```
 {
-    "title": "Suspect in Paul Pelosi attack had list of targets, law enforcement sources say",
-    "domain": "cbsnews.com",
-    "category": "politics",
-    "link": "https://www.cbsnews.com/news/paul-pelosi-attack-suspect-target-list-sources-say-nancy-pelosi-husband/",
-    "timestamp": 1667188938,
-    "published": "October 31, 2022 12:02 AM"
+    "title": "New York could become first state with a ‘Right to Repair’ law for electronic devices",
+    "domain": "spectrumlocalnews.com",
+    "category": "technology",
+    "link": "https://spectrumlocalnews.com/nys/central-ny/politics/2022/10/26/new-york-could-become-first-state-with-a--right-to-repair--law",
+    "timestamp": 1667189212,
+    "published": "October 31, 2022 12:06 AM"
 }
 ```
 
