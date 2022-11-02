@@ -7,17 +7,17 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: November 1, 2022 10:16 AM
-- Updated: Nov 1, 2022 10:27 AM
+- Latest: November 1, 2022 9:54 PM
+- Updated: Nov 1, 2022 10:27 PM
 
 ```
 {
-    "title": "'Craven silence': Author says Ron DeSantis is 'sending clear messages' he 'will tolerate hate speech'",
-    "domain": "msn.com",
-    "category": "florida",
-    "link": "https://www.msn.com/en-us/news/politics/craven-silence-author-says-ron-desantis-is-sending-clear-messages-he-will-tolerate-hate-speech/ar-AA13AyRU?cvid=6edbb50f71b84798a90f6aafb8dd1105",
-    "timestamp": 1667276345,
-    "published": "November 1, 2022 12:19 AM"
+    "title": "In high poverty L.A. neighborhoods, the poor pay more for internet service that delivers less",
+    "domain": "visaliatimesdelta.com",
+    "category": "technology",
+    "link": "https://www.visaliatimesdelta.com/story/news/2022/10/31/high-poverty-l-a-neighborhoods-poor-pay-more-internet-service-delivers-less/10652544002/",
+    "timestamp": 1667277065,
+    "published": "November 1, 2022 12:31 AM"
 }
 ```
 
