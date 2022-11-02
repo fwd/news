@@ -7,17 +7,17 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: November 1, 2022 9:54 PM
-- Updated: Nov 1, 2022 10:27 PM
+- Latest: November 2, 2022 9:57 AM
+- Updated: Nov 2, 2022 10:27 AM
 
 ```
 {
-    "title": "In high poverty L.A. neighborhoods, the poor pay more for internet service that delivers less",
-    "domain": "visaliatimesdelta.com",
-    "category": "technology",
-    "link": "https://www.visaliatimesdelta.com/story/news/2022/10/31/high-poverty-l-a-neighborhoods-poor-pay-more-internet-service-delivers-less/10652544002/",
-    "timestamp": 1667277065,
-    "published": "November 1, 2022 12:31 AM"
+    "title": "Starbucks Workers at the NYC Roastery Strike Against Unsafe Work Conditions",
+    "domain": "softmachine.net",
+    "category": "news",
+    "link": "https://softmachine.net/starbucks-workers-at-the-nyc-roastery-strike-against-unsafe-work-conditions/",
+    "timestamp": 1667362255,
+    "published": "November 2, 2022 12:10 AM"
 }
 ```
 
