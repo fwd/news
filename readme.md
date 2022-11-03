@@ -7,17 +7,17 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: November 2, 2022 9:57 AM
-- Updated: Nov 2, 2022 10:27 AM
+- Latest: November 2, 2022 10:11 PM
+- Updated: Nov 2, 2022 10:27 PM
 
 ```
 {
-    "title": "Starbucks Workers at the NYC Roastery Strike Against Unsafe Work Conditions",
-    "domain": "softmachine.net",
-    "category": "news",
-    "link": "https://softmachine.net/starbucks-workers-at-the-nyc-roastery-strike-against-unsafe-work-conditions/",
-    "timestamp": 1667362255,
-    "published": "November 2, 2022 12:10 AM"
+    "title": "Facebook has a special portal for government officials to request user content be throttled or suppressed for vaguely defined disinformation, report says",
+    "domain": "businessinsider.com",
+    "category": "technology",
+    "link": "https://www.businessinsider.com/facebook-has-portal-government-officials-to-request-content-be-suppressed-2022-11?international=true&r=US&IR=T",
+    "timestamp": 1667362948,
+    "published": "November 2, 2022 12:22 AM"
 }
 ```
 
