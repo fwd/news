@@ -7,17 +7,17 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: November 2, 2022 10:11 PM
-- Updated: Nov 2, 2022 10:27 PM
+- Latest: November 3, 2022 10:18 AM
+- Updated: Nov 3, 2022 10:27 AM
 
 ```
 {
-    "title": "Facebook has a special portal for government officials to request user content be throttled or suppressed for vaguely defined disinformation, report says",
-    "domain": "businessinsider.com",
-    "category": "technology",
-    "link": "https://www.businessinsider.com/facebook-has-portal-government-officials-to-request-content-be-suppressed-2022-11?international=true&r=US&IR=T",
-    "timestamp": 1667362948,
-    "published": "November 2, 2022 12:22 AM"
+    "title": "Miss Puerto Rico and Miss Argentina reveal they secretly got married",
+    "domain": "cbsnews.com",
+    "category": "UpliftingNews",
+    "link": "https://www.cbsnews.com/news/miss-puerto-rico-fabiola-valentin-and-miss-argentina-mariana-varela-married-wedding/?ftag=CNM-00-10aab7e&linkId=188057681",
+    "timestamp": 1667448461,
+    "published": "November 3, 2022 12:07 AM"
 }
 ```
 
