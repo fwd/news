@@ -7,17 +7,17 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: November 3, 2022 9:49 PM
-- Updated: Nov 3, 2022 10:27 PM
+- Latest: November 4, 2022 10:08 AM
+- Updated: Nov 4, 2022 10:27 AM
 
 ```
 {
-    "title": "Miss Puerto Rico and Miss Argentina reveal they secretly got married",
+    "title": "Man attempted car attack outside Pentagon and said \"I hate America,\" court documents say",
     "domain": "cbsnews.com",
-    "category": "UpliftingNews",
-    "link": "https://www.cbsnews.com/news/miss-puerto-rico-fabiola-valentin-and-miss-argentina-mariana-varela-married-wedding/?ftag=CNM-00-10aab7e&linkId=188057681",
-    "timestamp": 1667448461,
-    "published": "November 3, 2022 12:07 AM"
+    "category": "news",
+    "link": "https://www.cbsnews.com/news/pentagon-arrest-attempted-car-attack-security-checkpoint/",
+    "timestamp": 1667534577,
+    "published": "November 4, 2022 12:02 AM"
 }
 ```
 
