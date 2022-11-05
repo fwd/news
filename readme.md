@@ -7,17 +7,17 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: November 4, 2022 10:03 PM
-- Updated: Nov 4, 2022 10:27 PM
+- Latest: November 5, 2022 10:09 AM
+- Updated: Nov 5, 2022 10:27 AM
 
 ```
 {
-    "title": "Man attempted car attack outside Pentagon and said \"I hate America,\" court documents say",
-    "domain": "cbsnews.com",
-    "category": "news",
-    "link": "https://www.cbsnews.com/news/pentagon-arrest-attempted-car-attack-security-checkpoint/",
-    "timestamp": 1667534577,
-    "published": "November 4, 2022 12:02 AM"
+    "title": "Holy Hell: On 8th Day 'God Made' Ron DeSantis, Says New Campaign Ad",
+    "domain": "huffpost.com",
+    "category": "politics",
+    "link": "https://www.huffpost.com/entry/ron-desantis-god-video_n_6365bdd7e4b08f849aab7820",
+    "timestamp": 1667621216,
+    "published": "November 5, 2022 12:06 AM"
 }
 ```
 
