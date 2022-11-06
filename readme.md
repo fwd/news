@@ -1,23 +1,23 @@
 # Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 24k
+- Articles: 25k
 - File Type: JSON
 - File Size: ~**9MB**
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: November 5, 2022 10:09 AM
-- Updated: Nov 5, 2022 10:27 AM
+- Latest: November 5, 2022 10:07 PM
+- Updated: Nov 5, 2022 10:27 PM
 
 ```
 {
-    "title": "Holy Hell: On 8th Day 'God Made' Ron DeSantis, Says New Campaign Ad",
-    "domain": "huffpost.com",
-    "category": "politics",
-    "link": "https://www.huffpost.com/entry/ron-desantis-god-video_n_6365bdd7e4b08f849aab7820",
-    "timestamp": 1667621216,
-    "published": "November 5, 2022 12:06 AM"
+    "title": "Seagulls will not blow up if they eat Alka-Seltzer! Been bummed out for those birds since I heard this as a kid. Relieved to find it’s a myth.",
+    "domain": "gizmodo.com",
+    "category": "UpliftingNews",
+    "link": "https://gizmodo.com/seagulls-will-not-blow-up-if-they-eat-alka-seltzer-1612065486/amp",
+    "timestamp": 1667621489,
+    "published": "November 5, 2022 12:11 AM"
 }
 ```
 
