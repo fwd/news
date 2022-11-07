@@ -7,17 +7,17 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: November 6, 2022 8:56 PM
-- Updated: Nov 6, 2022 9:27 PM
+- Latest: November 7, 2022 9:25 AM
+- Updated: Nov 7, 2022 9:27 AM
 
 ```
 {
-    "title": "Association Between ABO Blood Group System and COVID-19 Severity. Significant association between blood group A and COVID-19 severity, group O showed a low risk of developing severe COVID-19 infection and no significant association between Rh and COVID-19 severity.",
-    "domain": "academic.oup.com",
-    "category": "science",
-    "link": "https://academic.oup.com/ajcp/article/158/5/570/6693554",
-    "timestamp": 1667707905,
-    "published": "November 6, 2022 12:11 AM"
+    "title": "Zelenskyy: Over 4.5 million households remain without power as Russia plans new large-scale attacks",
+    "domain": "pravda.com.ua",
+    "category": "worldnews",
+    "link": "https://www.pravda.com.ua/eng/news/2022/11/6/7375233/",
+    "timestamp": 1667798142,
+    "published": "November 7, 2022 12:15 AM"
 }
 ```
 
