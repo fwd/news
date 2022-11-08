@@ -7,17 +7,17 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: November 7, 2022 9:13 PM
-- Updated: Nov 7, 2022 9:27 PM
+- Latest: November 8, 2022 9:02 AM
+- Updated: Nov 8, 2022 9:27 AM
 
 ```
 {
-    "title": "Zelenskyy: Over 4.5 million households remain without power as Russia plans new large-scale attacks",
-    "domain": "pravda.com.ua",
-    "category": "worldnews",
-    "link": "https://www.pravda.com.ua/eng/news/2022/11/6/7375233/",
-    "timestamp": 1667798142,
-    "published": "November 7, 2022 12:15 AM"
+    "title": "Mastodon struggles to keep up with flood of Twitter defectors",
+    "domain": "indianexpress.com",
+    "category": "technology",
+    "link": "https://indianexpress.com/article/technology/tech-news-technology/mastodon-struggles-to-keep-up-with-flood-of-twitter-defectors-8255595/",
+    "timestamp": 1667884035,
+    "published": "November 8, 2022 12:07 AM"
 }
 ```
 
