@@ -7,17 +7,17 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: November 8, 2022 9:25 PM
-- Updated: Nov 8, 2022 9:27 PM
+- Latest: November 9, 2022 9:04 AM
+- Updated: Nov 9, 2022 9:27 AM
 
 ```
 {
-    "title": "Toxic 'Call of Duty: Modern Warfare II' players will be muted in voice and text chat",
-    "domain": "engadget.com",
-    "category": "technology",
-    "link": "https://www.engadget.com/call-of-duty-modern-warfare-ii-warzone-toxic-players-voice-chat-text-muted-205200162.html",
-    "timestamp": 1667884793,
-    "published": "November 8, 2022 12:19 AM"
+    "title": "Adam Frisch holds narrow lead over Lauren Boebert, race too close to call",
+    "domain": "denverpost.com",
+    "category": "politics",
+    "link": "https://www.denverpost.com/2022/11/08/lauren-boebert-colorado-election-results-adam-frisch/amp/",
+    "timestamp": 1667970116,
+    "published": "November 9, 2022 12:01 AM"
 }
 ```
 
