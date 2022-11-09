@@ -7,17 +7,17 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: November 8, 2022 9:02 AM
-- Updated: Nov 8, 2022 9:27 AM
+- Latest: November 8, 2022 9:25 PM
+- Updated: Nov 8, 2022 9:27 PM
 
 ```
 {
-    "title": "Mastodon struggles to keep up with flood of Twitter defectors",
-    "domain": "indianexpress.com",
+    "title": "Toxic 'Call of Duty: Modern Warfare II' players will be muted in voice and text chat",
+    "domain": "engadget.com",
     "category": "technology",
-    "link": "https://indianexpress.com/article/technology/tech-news-technology/mastodon-struggles-to-keep-up-with-flood-of-twitter-defectors-8255595/",
-    "timestamp": 1667884035,
-    "published": "November 8, 2022 12:07 AM"
+    "link": "https://www.engadget.com/call-of-duty-modern-warfare-ii-warzone-toxic-players-voice-chat-text-muted-205200162.html",
+    "timestamp": 1667884793,
+    "published": "November 8, 2022 12:19 AM"
 }
 ```
 
