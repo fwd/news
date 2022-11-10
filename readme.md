@@ -7,17 +7,17 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: November 9, 2022 9:04 AM
-- Updated: Nov 9, 2022 9:27 AM
+- Latest: November 9, 2022 9:20 PM
+- Updated: Nov 9, 2022 9:27 PM
 
 ```
 {
-    "title": "Adam Frisch holds narrow lead over Lauren Boebert, race too close to call",
-    "domain": "denverpost.com",
-    "category": "politics",
-    "link": "https://www.denverpost.com/2022/11/08/lauren-boebert-colorado-election-results-adam-frisch/amp/",
-    "timestamp": 1667970116,
-    "published": "November 9, 2022 12:01 AM"
+    "title": "John Fetterman wins Pennsylvania Senate race, defeating TV doctor Mehmet Oz and flipping key state for Democrats",
+    "domain": "nbcnews.com",
+    "category": "news",
+    "link": "https://www.nbcnews.com/politics/2022-election/pennsylvania-senate-midterm-2022-john-fetterman-wins-election-rcna54935",
+    "timestamp": 1667973248,
+    "published": "November 9, 2022 12:54 AM"
 }
 ```
 
