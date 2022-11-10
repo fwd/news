@@ -7,17 +7,17 @@
 - Sources: 3k
 - Categories: 13
 - Start: November 16, 2021
-- Latest: November 9, 2022 9:20 PM
-- Updated: Nov 9, 2022 9:27 PM
+- Latest: November 10, 2022 9:09 AM
+- Updated: Nov 10, 2022 9:27 AM
 
 ```
 {
-    "title": "John Fetterman wins Pennsylvania Senate race, defeating TV doctor Mehmet Oz and flipping key state for Democrats",
-    "domain": "nbcnews.com",
+    "title": "Tesla stock hits 2-year low after Musk sells $4 bln worth of shares",
+    "domain": "reuters.com",
     "category": "news",
-    "link": "https://www.nbcnews.com/politics/2022-election/pennsylvania-senate-midterm-2022-john-fetterman-wins-election-rcna54935",
-    "timestamp": 1667973248,
-    "published": "November 9, 2022 12:54 AM"
+    "link": "https://www.reuters.com/business/autos-transportation/tesla-shares-down-over-5-hit-lowest-level-20-months-2022-11-09/",
+    "timestamp": 1668056418,
+    "published": "November 10, 2022 12:00 AM"
 }
 ```
 
