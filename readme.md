@@ -6,9 +6,7 @@
 - File Size: ~**9MB**
 - Sources: 3k
 - Categories: 13
-- Start: November 16, 2021
-- Latest: November 10, 2022 9:09 AM
-- Updated: Nov 10, 2022 9:27 AM
+- Updated: Nov 10, 2022 7:06 PM
 
 ```
 {
