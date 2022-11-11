@@ -1,21 +1,21 @@
 # Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 25k
+- Articles: 26k
 - File Type: JSON
 - File Size: ~**9MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Nov 10, 2022 7:06 PM
+- Updated: Nov 11, 2022 5:06 AM
 
 ```
 {
-    "title": "Tesla stock hits 2-year low after Musk sells $4 bln worth of shares",
-    "domain": "reuters.com",
-    "category": "news",
-    "link": "https://www.reuters.com/business/autos-transportation/tesla-shares-down-over-5-hit-lowest-level-20-months-2022-11-09/",
-    "timestamp": 1668056418,
-    "published": "November 10, 2022 12:00 AM"
+    "title": "Reddit now lets you mute subreddits you don’t like",
+    "domain": "arstechnica.com",
+    "category": "technology",
+    "link": "https://arstechnica.com/gadgets/2022/11/reddit-now-lets-you-mute-subreddits-you-dont-like/",
+    "timestamp": 1668143697,
+    "published": "November 11, 2022 12:14 AM"
 }
 ```
 
