@@ -6,16 +6,16 @@
 - File Size: ~**9MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Nov 11, 2022 3:06 PM
+- Updated: Nov 12, 2022 1:06 AM
 
 ```
 {
-    "title": "Reddit now lets you mute subreddits you don’t like",
-    "domain": "arstechnica.com",
-    "category": "technology",
-    "link": "https://arstechnica.com/gadgets/2022/11/reddit-now-lets-you-mute-subreddits-you-dont-like/",
-    "timestamp": 1668143697,
-    "published": "November 11, 2022 12:14 AM"
+    "title": "A drug cartel godfather bid millions to buy a fleet of obsolete Egyptian military aircraft",
+    "domain": "icij.org",
+    "category": "worldnews",
+    "link": "https://www.icij.org/inside-icij/2022/11/a-drug-cartel-godfather-bid-millions-to-buy-a-fleet-of-obsolete-egyptian-military-aircraft/",
+    "timestamp": 1668229477,
+    "published": "November 12, 2022 12:04 AM"
 }
 ```
 
