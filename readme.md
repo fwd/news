@@ -6,16 +6,16 @@
 - File Size: ~**10MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Nov 13, 2022 7:06 AM
+- Updated: Nov 13, 2022 5:06 PM
 
 ```
 {
-    "title": "Kherson residents celebrate liberation and describe trauma of occupation",
-    "domain": "washingtonpost.com",
-    "category": "worldnews",
-    "link": "https://www.washingtonpost.com/world/2022/11/12/kherson-celebration-liberation-trauma-occupation/",
-    "timestamp": 1668316430,
-    "published": "November 13, 2022 12:13 AM"
+    "title": "Amy Coney Barrett Cracks Joke About Abortion Rights Protesters With Federalist Society",
+    "domain": "huffpost.com",
+    "category": "politics",
+    "link": "https://www.huffpost.com/entry/amy-coney-barrett-abortion-rights-protesters-federalist-society_n_636fdd60e4b09c4db177099e",
+    "timestamp": 1668317395,
+    "published": "November 13, 2022 12:29 AM"
 }
 ```
 
