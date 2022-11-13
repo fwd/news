@@ -6,16 +6,16 @@
 - File Size: ~**9MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Nov 12, 2022 11:06 AM
+- Updated: Nov 12, 2022 9:06 PM
 
 ```
 {
-    "title": "A drug cartel godfather bid millions to buy a fleet of obsolete Egyptian military aircraft",
-    "domain": "icij.org",
-    "category": "worldnews",
-    "link": "https://www.icij.org/inside-icij/2022/11/a-drug-cartel-godfather-bid-millions-to-buy-a-fleet-of-obsolete-egyptian-military-aircraft/",
-    "timestamp": 1668229477,
-    "published": "November 12, 2022 12:04 AM"
+    "title": "Brazil supreme court ruling to reactivate Amazon Fund gives hope in fight to save rainforest",
+    "domain": "theguardian.com",
+    "category": "UpliftingNews",
+    "link": "https://www.theguardian.com/world/2022/nov/04/brazil-supreme-court-ruling-to-reactivate-amazon-fund-gives-hope-in-fight-to-save-rainforest",
+    "timestamp": 1668231828,
+    "published": "November 12, 2022 12:43 AM"
 }
 ```
 
