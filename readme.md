@@ -6,16 +6,16 @@
 - File Size: ~**10MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Nov 14, 2022 3:06 AM
+- Updated: Nov 14, 2022 1:06 PM
 
 ```
 {
-    "title": "University of Virginia campus advised to shelter in place after reported shooting, with suspect still at large",
-    "domain": "edition.cnn.com",
-    "category": "news",
-    "link": "https://edition.cnn.com/2022/11/13/us/university-of-virginia-shooting/index.html",
-    "timestamp": 1668402404,
-    "published": "November 14, 2022 12:06 AM"
+    "title": "US can’t stop us from purchasing Russian oil: Pakistan minister Ishaq Dar",
+    "domain": "wap.business-standard.com",
+    "category": "worldnews",
+    "link": "https://wap.business-standard.com/article-amp/international/us-can-t-stop-us-from-purchasing-russian-oil-pakistan-minister-ishaq-dar-122111400068_1.html",
+    "timestamp": 1668406341,
+    "published": "November 14, 2022 1:12 AM"
 }
 ```
 
