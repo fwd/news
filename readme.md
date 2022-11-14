@@ -6,16 +6,16 @@
 - File Size: ~**10MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Nov 13, 2022 5:06 PM
+- Updated: Nov 14, 2022 3:06 AM
 
 ```
 {
-    "title": "Amy Coney Barrett Cracks Joke About Abortion Rights Protesters With Federalist Society",
-    "domain": "huffpost.com",
-    "category": "politics",
-    "link": "https://www.huffpost.com/entry/amy-coney-barrett-abortion-rights-protesters-federalist-society_n_636fdd60e4b09c4db177099e",
-    "timestamp": 1668317395,
-    "published": "November 13, 2022 12:29 AM"
+    "title": "University of Virginia campus advised to shelter in place after reported shooting, with suspect still at large",
+    "domain": "edition.cnn.com",
+    "category": "news",
+    "link": "https://edition.cnn.com/2022/11/13/us/university-of-virginia-shooting/index.html",
+    "timestamp": 1668402404,
+    "published": "November 14, 2022 12:06 AM"
 }
 ```
 
