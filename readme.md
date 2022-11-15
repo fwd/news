@@ -6,16 +6,16 @@
 - File Size: ~**10MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Nov 14, 2022 11:06 PM
+- Updated: Nov 15, 2022 9:06 AM
 
 ```
 {
-    "title": "US can’t stop us from purchasing Russian oil: Pakistan minister Ishaq Dar",
-    "domain": "wap.business-standard.com",
+    "title": "Russian Software Firm Disguised As \"American\" Finds Its Way In US Army",
+    "domain": "ndtv.com",
     "category": "worldnews",
-    "link": "https://wap.business-standard.com/article-amp/international/us-can-t-stop-us-from-purchasing-russian-oil-pakistan-minister-ishaq-dar-122111400068_1.html",
-    "timestamp": 1668406341,
-    "published": "November 14, 2022 1:12 AM"
+    "link": "https://www.ndtv.com/world-news/russian-software-firm-pushwoosh-disguised-as-american-finds-its-way-in-us-army-3518835",
+    "timestamp": 1668488431,
+    "published": "November 15, 2022 12:00 AM"
 }
 ```
 
