@@ -6,16 +6,16 @@
 - File Size: ~**10MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Nov 16, 2022 5:06 AM
+- Updated: Nov 16, 2022 3:06 PM
 
 ```
 {
-    "title": "Google to pay states nearly $400M for violating privacy",
-    "domain": "audacy.com",
-    "category": "technology",
-    "link": "https://www.audacy.com/wwjnewsradio/news/national/google-to-pay-states-nearly-usd400m-for-violating-privacy",
-    "timestamp": 1668575106,
-    "published": "November 16, 2022 12:05 AM"
+    "title": "In vivo partial reprogramming by bacteria promotes adult liver organ growth without fibrosis and tumorigenesis",
+    "domain": "cell.com",
+    "category": "science",
+    "link": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00379-2",
+    "timestamp": 1668576327,
+    "published": "November 16, 2022 12:25 AM"
 }
 ```
 
