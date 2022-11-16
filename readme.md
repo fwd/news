@@ -6,16 +6,16 @@
 - File Size: ~**10MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Nov 15, 2022 9:06 AM
+- Updated: Nov 15, 2022 7:06 PM
 
 ```
 {
-    "title": "Russian Software Firm Disguised As \"American\" Finds Its Way In US Army",
-    "domain": "ndtv.com",
+    "title": "Today, the world’s population reaches 8 billion.",
+    "domain": "un.org",
     "category": "worldnews",
-    "link": "https://www.ndtv.com/world-news/russian-software-firm-pushwoosh-disguised-as-american-finds-its-way-in-us-army-3518835",
-    "timestamp": 1668488431,
-    "published": "November 15, 2022 12:00 AM"
+    "link": "https://www.un.org/en/dayof8billion",
+    "timestamp": 1668488675,
+    "published": "November 15, 2022 12:04 AM"
 }
 ```
 
