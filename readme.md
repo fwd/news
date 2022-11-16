@@ -6,16 +6,16 @@
 - File Size: ~**10MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Nov 15, 2022 7:06 PM
+- Updated: Nov 16, 2022 5:06 AM
 
 ```
 {
-    "title": "Today, the world’s population reaches 8 billion.",
-    "domain": "un.org",
-    "category": "worldnews",
-    "link": "https://www.un.org/en/dayof8billion",
-    "timestamp": 1668488675,
-    "published": "November 15, 2022 12:04 AM"
+    "title": "Google to pay states nearly $400M for violating privacy",
+    "domain": "audacy.com",
+    "category": "technology",
+    "link": "https://www.audacy.com/wwjnewsradio/news/national/google-to-pay-states-nearly-usd400m-for-violating-privacy",
+    "timestamp": 1668575106,
+    "published": "November 16, 2022 12:05 AM"
 }
 ```
 
