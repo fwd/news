@@ -6,16 +6,16 @@
 - File Size: ~**10MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Nov 17, 2022 9:06 PM
+- Updated: Nov 18, 2022 7:06 AM
 
 ```
 {
-    "title": "Kevin Spacey facing seven new sex charges",
-    "domain": "reuters.com",
-    "category": "news",
-    "link": "https://www.reuters.com/world/uk/uk-prosecutors-authorise-more-charges-against-actor-spacey-sexual-assault-2022-11-16/",
-    "timestamp": 1668664928,
-    "published": "November 17, 2022 1:02 AM"
+    "title": "FCC orders ISPs to show broadband 'nutrition labels' with all fees and limits",
+    "domain": "techcrunch.com",
+    "category": "technology",
+    "link": "https://techcrunch.com/2022/11/17/fcc-orders-isps-to-show-broadband-nutrition-labels-with-all-fees-and-limits/",
+    "timestamp": 1668748189,
+    "published": "November 18, 2022 12:09 AM"
 }
 ```
 
