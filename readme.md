@@ -6,16 +6,16 @@
 - File Size: ~**10MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Nov 18, 2022 10:13 PM
+- Updated: Nov 19, 2022 8:13 AM
 
 ```
 {
-    "title": "FCC orders ISPs to show broadband 'nutrition labels' with all fees and limits",
-    "domain": "techcrunch.com",
-    "category": "technology",
-    "link": "https://techcrunch.com/2022/11/17/fcc-orders-isps-to-show-broadband-nutrition-labels-with-all-fees-and-limits/",
-    "timestamp": 1668748189,
-    "published": "November 18, 2022 12:09 AM"
+    "title": "King Charles: Foie gras banned at royal residences",
+    "domain": "bbc.com",
+    "category": "news",
+    "link": "https://www.bbc.com/news/uk-63676759",
+    "timestamp": 1668834932,
+    "published": "November 19, 2022 12:15 AM"
 }
 ```
 
