@@ -6,16 +6,16 @@
 - File Size: ~**10MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Nov 19, 2022 6:13 PM
+- Updated: Nov 20, 2022 4:13 AM
 
 ```
 {
-    "title": "King Charles: Foie gras banned at royal residences",
-    "domain": "bbc.com",
-    "category": "news",
-    "link": "https://www.bbc.com/news/uk-63676759",
-    "timestamp": 1668834932,
-    "published": "November 19, 2022 12:15 AM"
+    "title": "France, Germany, Spain agree on moving on with FCAS warplane development",
+    "domain": "reuters.com",
+    "category": "technology",
+    "link": "https://www.reuters.com/business/autos-transportation/france-germany-spain-agree-next-phase-fighter-jet-development-source-2022-11-18/",
+    "timestamp": 1668921893,
+    "published": "November 20, 2022 12:24 AM"
 }
 ```
 
