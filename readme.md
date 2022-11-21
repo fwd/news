@@ -6,16 +6,16 @@
 - File Size: ~**10MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Nov 20, 2022 2:13 PM
+- Updated: Nov 21, 2022 12:13 AM
 
 ```
 {
-    "title": "France, Germany, Spain agree on moving on with FCAS warplane development",
-    "domain": "reuters.com",
-    "category": "technology",
-    "link": "https://www.reuters.com/business/autos-transportation/france-germany-spain-agree-next-phase-fighter-jet-development-source-2022-11-18/",
-    "timestamp": 1668921893,
-    "published": "November 20, 2022 12:24 AM"
+    "title": "'Amazing': Mom hears late daughter's transplanted heart",
+    "domain": "kentuckytoday.com",
+    "category": "UpliftingNews",
+    "link": "https://www.kentuckytoday.com/news/national/amazing-mom-hears-late-daughters-transplanted-heart/article_2149e8ae-50d0-5305-aab5-e465470278cf.html",
+    "timestamp": 1669007581,
+    "published": "November 21, 2022 12:13 AM"
 }
 ```
 
