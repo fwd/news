@@ -6,16 +6,16 @@
 - File Size: ~**10MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Nov 21, 2022 8:13 PM
+- Updated: Nov 22, 2022 6:13 AM
 
 ```
 {
-    "title": "Kyiv is 'simply a Russian city' Dmitry Medvedev taunts Ukraine after claims of liberating Crimea soon",
-    "domain": "euroweeklynews.com",
-    "category": "worldnews",
-    "link": "https://euroweeklynews.com/2022/11/21/kyiv-is-simply-a-russian-city-dmitry-medvedev-taunts-ukraine-after-claims-of-liberating-crimea-soon/",
-    "timestamp": 1669008383,
-    "published": "November 21, 2022 12:26 AM"
+    "title": "The latest Cochrane Review finds high certainty evidence that nicotine e-cigarettes are more effective than traditional nicotine-replacement therapy (NRT) in helping people quit smoking.",
+    "domain": "ox.ac.uk",
+    "category": "science",
+    "link": "https://www.ox.ac.uk/news/2022-11-17-e-cigarettes-are-more-effective-nicotine-replacement-therapy-helping-smokers-quit",
+    "timestamp": 1669093528,
+    "published": "November 22, 2022 12:05 AM"
 }
 ```
 
