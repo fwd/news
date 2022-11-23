@@ -6,16 +6,16 @@
 - File Size: ~**10MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Nov 22, 2022 4:13 PM
+- Updated: Nov 23, 2022 2:13 AM
 
 ```
 {
-    "title": "The latest Cochrane Review finds high certainty evidence that nicotine e-cigarettes are more effective than traditional nicotine-replacement therapy (NRT) in helping people quit smoking.",
-    "domain": "ox.ac.uk",
-    "category": "science",
-    "link": "https://www.ox.ac.uk/news/2022-11-17-e-cigarettes-are-more-effective-nicotine-replacement-therapy-helping-smokers-quit",
-    "timestamp": 1669093528,
-    "published": "November 22, 2022 12:05 AM"
+    "title": "Major tax-filing websites secretly share income data with Meta",
+    "domain": "arstechnica.com",
+    "category": "technology",
+    "link": "https://arstechnica.com/tech-policy/2022/11/major-tax-filing-websites-secretly-share-income-data-with-meta/",
+    "timestamp": 1669179669,
+    "published": "November 23, 2022 12:01 AM"
 }
 ```
 
