@@ -6,16 +6,16 @@
 - File Size: ~**10MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Nov 23, 2022 10:13 PM
+- Updated: Nov 24, 2022 8:13 AM
 
 ```
 {
-    "title": "Major tax-filing websites secretly share income data with Meta",
-    "domain": "arstechnica.com",
+    "title": "This mining tractor developed by Caterpillar is completely battery-operated",
+    "domain": "interestingengineering.com",
     "category": "technology",
-    "link": "https://arstechnica.com/tech-policy/2022/11/major-tax-filing-websites-secretly-share-income-data-with-meta/",
-    "timestamp": 1669179669,
-    "published": "November 23, 2022 12:01 AM"
+    "link": "https://interestingengineering.com/transportation/caterpillar-rolls-out-battery-powered-mining-truck",
+    "timestamp": 1669266094,
+    "published": "November 24, 2022 12:01 AM"
 }
 ```
 
