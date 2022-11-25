@@ -6,16 +6,16 @@
 - File Size: ~**10MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Nov 24, 2022 6:13 PM
+- Updated: Nov 25, 2022 4:13 AM
 
 ```
 {
-    "title": "This mining tractor developed by Caterpillar is completely battery-operated",
-    "domain": "interestingengineering.com",
-    "category": "technology",
-    "link": "https://interestingengineering.com/transportation/caterpillar-rolls-out-battery-powered-mining-truck",
-    "timestamp": 1669266094,
-    "published": "November 24, 2022 12:01 AM"
+    "title": "Herschel Walker claims Texas as his primary residence on taxes",
+    "domain": "msnbc.com",
+    "category": "politics",
+    "link": "https://www.msnbc.com/all-in/watch/herschel-walker-claims-texas-as-his-primary-residence-on-taxes-155108421803",
+    "timestamp": 1669352573,
+    "published": "November 25, 2022 12:02 AM"
 }
 ```
 
