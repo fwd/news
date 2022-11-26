@@ -6,16 +6,16 @@
 - File Size: ~**10MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Nov 26, 2022 12:13 AM
+- Updated: Nov 26, 2022 10:13 AM
 
 ```
 {
-    "title": "Herschel Walker claims Texas as his primary residence on taxes",
-    "domain": "msnbc.com",
+    "title": "Pete Buttigieg's Husband Defends Him After Tucker Carlson Says He 'Lied' About Being Gay",
+    "domain": "huffpost.com",
     "category": "politics",
-    "link": "https://www.msnbc.com/all-in/watch/herschel-walker-claims-texas-as-his-primary-residence-on-taxes-155108421803",
-    "timestamp": 1669352573,
-    "published": "November 25, 2022 12:02 AM"
+    "link": "https://www.huffpost.com/entry/pete-chasten-buttigieg-tucker-carlson-coming-out-gay-defense_n_63816fa7e4b082d8e6d1029c",
+    "timestamp": 1669439883,
+    "published": "November 26, 2022 12:18 AM"
 }
 ```
 
