@@ -6,16 +6,16 @@
 - File Size: ~**10MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Nov 26, 2022 8:13 PM
+- Updated: Nov 27, 2022 6:13 AM
 
 ```
 {
-    "title": "Democrats Are Ready for GOP to Make Hunter Biden the New Benghazi",
-    "domain": "thedailybeast.com",
-    "category": "politics",
-    "link": "https://www.thedailybeast.com/democrats-are-ready-for-gop-to-make-hunter-biden-the-new-benghazi",
-    "timestamp": 1669441237,
-    "published": "November 26, 2022 12:40 AM"
+    "title": "Researchers create green fuel with the flip of a light switch",
+    "domain": "techxplore.com",
+    "category": "technology",
+    "link": "https://techxplore.com/news/2022-11-green-fuel-flip.html",
+    "timestamp": 1669525617,
+    "published": "November 27, 2022 12:06 AM"
 }
 ```
 
