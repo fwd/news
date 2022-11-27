@@ -6,16 +6,16 @@
 - File Size: ~**10MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Nov 26, 2022 10:13 AM
+- Updated: Nov 26, 2022 8:13 PM
 
 ```
 {
-    "title": "Pete Buttigieg's Husband Defends Him After Tucker Carlson Says He 'Lied' About Being Gay",
-    "domain": "huffpost.com",
+    "title": "Democrats Are Ready for GOP to Make Hunter Biden the New Benghazi",
+    "domain": "thedailybeast.com",
     "category": "politics",
-    "link": "https://www.huffpost.com/entry/pete-chasten-buttigieg-tucker-carlson-coming-out-gay-defense_n_63816fa7e4b082d8e6d1029c",
-    "timestamp": 1669439883,
-    "published": "November 26, 2022 12:18 AM"
+    "link": "https://www.thedailybeast.com/democrats-are-ready-for-gop-to-make-hunter-biden-the-new-benghazi",
+    "timestamp": 1669441237,
+    "published": "November 26, 2022 12:40 AM"
 }
 ```
 
