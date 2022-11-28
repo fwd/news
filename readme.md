@@ -6,16 +6,16 @@
 - File Size: ~**10MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Nov 27, 2022 4:13 PM
+- Updated: Nov 28, 2022 2:13 AM
 
 ```
 {
-    "title": "Researchers create green fuel with the flip of a light switch",
-    "domain": "techxplore.com",
+    "title": "FCC bans import, sale of certain Chinese tech over ‘unacceptable risk to national security’",
+    "domain": "thehill.com",
     "category": "technology",
-    "link": "https://techxplore.com/news/2022-11-green-fuel-flip.html",
-    "timestamp": 1669525617,
-    "published": "November 27, 2022 12:06 AM"
+    "link": "https://thehill.com/policy/technology/3750969-fcc-bans-import-sales-of-certain-chinese-tech-over-unacceptable-risk-to-national-security/",
+    "timestamp": 1669613580,
+    "published": "November 28, 2022 12:33 AM"
 }
 ```
 
