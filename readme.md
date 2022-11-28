@@ -14,11 +14,9 @@
     "domain": "thehill.com",
     "category": "technology",
     "link": "https://thehill.com/policy/technology/3750969-fcc-bans-import-sales-of-certain-chinese-tech-over-unacceptable-risk-to-national-security/",
-    "timestamp": 1669613580,
-    "published": "November 28, 2022 12:33 AM"
+    "timestamp": 1669613580
 }
 ```
-
 ---
 
 ### Contact 
