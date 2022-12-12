@@ -6,17 +6,19 @@
 - File Size: ~**10MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Nov 28, 2022 12:13 PM
+- Updated: Dec 12, 2022 10:11 AM
 
 ```
 {
-    "title": "FCC bans import, sale of certain Chinese tech over ‘unacceptable risk to national security’",
-    "domain": "thehill.com",
-    "category": "technology",
-    "link": "https://thehill.com/policy/technology/3750969-fcc-bans-import-sales-of-certain-chinese-tech-over-unacceptable-risk-to-national-security/",
-    "timestamp": 1669613580
+    "title": "U.S. to announce fusion energy ‘breakthrough’ - sweet!",
+    "domain": "washingtonpost.com",
+    "category": "UpliftingNews",
+    "link": "https://www.washingtonpost.com/business/2022/12/11/fusion-nuclear-energy-breakthrough/",
+    "timestamp": 1670822389,
+    "published": "December 12, 2022 12:19 AM"
 }
 ```
+
 ---
 
 ### Contact 
