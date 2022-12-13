@@ -6,16 +6,16 @@
 - File Size: ~**11MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Dec 13, 2022 6:16 AM
+- Updated: Dec 13, 2022 4:16 PM
 
 ```
 {
-    "title": "Eggo Waffles Company Fined $85,000 for 2021 Toxic Gas Release",
-    "domain": "nbcbayarea.com",
-    "category": "news",
-    "link": "https://www.nbcbayarea.com/news/local/south-bay/san-jose-eggo-fined-toxic-gas-release/3103159/",
-    "timestamp": 1670907892,
-    "published": "December 13, 2022 12:04 AM"
+    "title": "J.D. Vance Is Coming for Your Porn–Watch Out",
+    "domain": "thedailybeast.com",
+    "category": "technology",
+    "link": "https://www.thedailybeast.com/why-jd-vance-poses-a-serious-threat-to-the-porn-industry",
+    "timestamp": 1670907974,
+    "published": "December 13, 2022 12:06 AM"
 }
 ```
 
