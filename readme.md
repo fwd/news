@@ -6,16 +6,16 @@
 - File Size: ~**11MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Dec 12, 2022 8:16 PM
+- Updated: Dec 13, 2022 6:16 AM
 
 ```
 {
-    "title": "Senator Merkley Introduces Legislation to Ban Hedge Fund Ownership of Residential Housing",
-    "domain": "merkley.senate.gov",
-    "category": "politics",
-    "link": "https://www.merkley.senate.gov/news/in-the-news/senator-merkley-introduces-legislation-to-ban-hedge-fund-ownership-of-residential-housing",
-    "timestamp": 1670822728,
-    "published": "December 12, 2022 12:25 AM"
+    "title": "Eggo Waffles Company Fined $85,000 for 2021 Toxic Gas Release",
+    "domain": "nbcbayarea.com",
+    "category": "news",
+    "link": "https://www.nbcbayarea.com/news/local/south-bay/san-jose-eggo-fined-toxic-gas-release/3103159/",
+    "timestamp": 1670907892,
+    "published": "December 13, 2022 12:04 AM"
 }
 ```
 
