@@ -1,21 +1,21 @@
 # Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 28k
+- Articles: 29k
 - File Type: JSON
 - File Size: ~**11MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Dec 12, 2022 10:16 AM
+- Updated: Dec 12, 2022 8:16 PM
 
 ```
 {
-    "title": "U.S. to announce fusion energy ‘breakthrough’ - sweet!",
-    "domain": "washingtonpost.com",
-    "category": "UpliftingNews",
-    "link": "https://www.washingtonpost.com/business/2022/12/11/fusion-nuclear-energy-breakthrough/",
-    "timestamp": 1670822389,
-    "published": "December 12, 2022 12:19 AM"
+    "title": "Senator Merkley Introduces Legislation to Ban Hedge Fund Ownership of Residential Housing",
+    "domain": "merkley.senate.gov",
+    "category": "politics",
+    "link": "https://www.merkley.senate.gov/news/in-the-news/senator-merkley-introduces-legislation-to-ban-hedge-fund-ownership-of-residential-housing",
+    "timestamp": 1670822728,
+    "published": "December 12, 2022 12:25 AM"
 }
 ```
 
