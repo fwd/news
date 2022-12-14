@@ -6,16 +6,16 @@
 - File Size: ~**11MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Dec 13, 2022 4:16 PM
+- Updated: Dec 14, 2022 2:16 AM
 
 ```
 {
-    "title": "J.D. Vance Is Coming for Your Porn–Watch Out",
-    "domain": "thedailybeast.com",
-    "category": "technology",
-    "link": "https://www.thedailybeast.com/why-jd-vance-poses-a-serious-threat-to-the-porn-industry",
-    "timestamp": 1670907974,
-    "published": "December 13, 2022 12:06 AM"
+    "title": "Oleuropein suppressed endometriosis progression and improved the fertility of mice with the disease. The non-hormonal nutraceutical selectively inhibited estrogen receptor beta (ERβ) without impacting estrogen receptor alpha (ERα) activity.",
+    "domain": "blogs.bcm.edu",
+    "category": "science",
+    "link": "https://blogs.bcm.edu/2022/12/13/from-the-labs-exploring-a-potential-new-treatment-for-endometriosis/",
+    "timestamp": 1670994016,
+    "published": "December 14, 2022 12:00 AM"
 }
 ```
 
