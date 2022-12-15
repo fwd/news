@@ -6,16 +6,16 @@
 - File Size: ~**11MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Dec 14, 2022 10:16 PM
+- Updated: Dec 15, 2022 8:16 AM
 
 ```
 {
-    "title": "Biden signs gay marriage law, calls it 'a blow against hate'",
-    "domain": "apnews.com",
-    "category": "news",
-    "link": "https://apnews.com/article/biden-politics-marriage-united-states-government-virginia-state-4968ff59107e511609fc3e301890942e",
-    "timestamp": 1670995268,
-    "published": "December 14, 2022 12:21 AM"
+    "title": "TikTok pushes potentially harmful content to users as often as every 39 seconds, study says",
+    "domain": "cbsnews.com",
+    "category": "technology",
+    "link": "https://www.cbsnews.com/news/tiktok-pushes-potentially-harmful-content-to-users-as-often-as-every-39-seconds-study/",
+    "timestamp": 1671080679,
+    "published": "December 15, 2022 12:04 AM"
 }
 ```
 
