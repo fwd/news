@@ -6,16 +6,16 @@
 - File Size: ~**11MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Dec 15, 2022 6:16 PM
+- Updated: Dec 16, 2022 4:16 AM
 
 ```
 {
-    "title": "TikTok pushes potentially harmful content to users as often as every 39 seconds, study says",
-    "domain": "cbsnews.com",
-    "category": "technology",
-    "link": "https://www.cbsnews.com/news/tiktok-pushes-potentially-harmful-content-to-users-as-often-as-every-39-seconds-study/",
-    "timestamp": 1671080679,
-    "published": "December 15, 2022 12:04 AM"
+    "title": "TikTok may push potentially harmful content to teens within minutes, study finds",
+    "domain": "cnn.com",
+    "category": "science",
+    "link": "https://www.cnn.com/2022/12/15/tech/tiktok-teens-study-trnd/index.html",
+    "timestamp": 1671167990,
+    "published": "December 16, 2022 12:19 AM"
 }
 ```
 
