@@ -6,16 +6,16 @@
 - File Size: ~**11MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Dec 16, 2022 4:16 AM
+- Updated: Dec 16, 2022 2:16 PM
 
 ```
 {
-    "title": "TikTok may push potentially harmful content to teens within minutes, study finds",
-    "domain": "cnn.com",
-    "category": "science",
-    "link": "https://www.cnn.com/2022/12/15/tech/tiktok-teens-study-trnd/index.html",
-    "timestamp": 1671167990,
-    "published": "December 16, 2022 12:19 AM"
+    "title": "Finland defence minister to take two months’ paternity leave amid Nato bid | Antti Kaikkonen says ‘children are only little for a moment’ as party backs his move",
+    "domain": "theguardian.com",
+    "category": "UpliftingNews",
+    "link": "https://www.theguardian.com/world/2022/dec/16/finland-defence-minister-to-take-two-months-paternity-leave-amid-nato-bid",
+    "timestamp": 1671173142,
+    "published": "December 16, 2022 1:45 AM"
 }
 ```
 
