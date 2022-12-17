@@ -6,16 +6,16 @@
 - File Size: ~**11MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Dec 17, 2022 12:16 AM
+- Updated: Dec 17, 2022 10:16 AM
 
 ```
 {
-    "title": "Finland defence minister to take two months’ paternity leave amid Nato bid | Antti Kaikkonen says ‘children are only little for a moment’ as party backs his move",
-    "domain": "theguardian.com",
-    "category": "UpliftingNews",
-    "link": "https://www.theguardian.com/world/2022/dec/16/finland-defence-minister-to-take-two-months-paternity-leave-amid-nato-bid",
-    "timestamp": 1671173142,
-    "published": "December 16, 2022 1:45 AM"
+    "title": "Records: Capitol rioter plotted to kill federal agents in Tennessee",
+    "domain": "wpsdlocal6.com",
+    "category": "news",
+    "link": "https://www.wpsdlocal6.com/news/records-capitol-rioter-plotted-to-kill-federal-agents-in-tennessee/article_2ff63c16-7db6-11ed-97b3-93cd1c38c24f.html",
+    "timestamp": 1671253352,
+    "published": "December 17, 2022 12:02 AM"
 }
 ```
 
