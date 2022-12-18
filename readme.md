@@ -6,16 +6,16 @@
 - File Size: ~**11MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Dec 17, 2022 8:16 PM
+- Updated: Dec 18, 2022 6:16 AM
 
 ```
 {
-    "title": "Records: Capitol rioter plotted to kill federal agents in Tennessee",
-    "domain": "wpsdlocal6.com",
-    "category": "news",
-    "link": "https://www.wpsdlocal6.com/news/records-capitol-rioter-plotted-to-kill-federal-agents-in-tennessee/article_2ff63c16-7db6-11ed-97b3-93cd1c38c24f.html",
-    "timestamp": 1671253352,
-    "published": "December 17, 2022 12:02 AM"
+    "title": "End of an era? Chinese official who blazed a trail on social media under investigation",
+    "domain": "scmp.com",
+    "category": "technology",
+    "link": "https://www.scmp.com/news/china/politics/article/3203642/end-era-chinese-official-who-blazed-trail-social-media-under-investigation?module=lead_hero_story&pgtype=homepage",
+    "timestamp": 1671340924,
+    "published": "December 18, 2022 12:22 AM"
 }
 ```
 
