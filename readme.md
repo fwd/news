@@ -6,16 +6,16 @@
 - File Size: ~**11MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Dec 18, 2022 6:16 AM
+- Updated: Dec 18, 2022 4:16 PM
 
 ```
 {
-    "title": "End of an era? Chinese official who blazed a trail on social media under investigation",
-    "domain": "scmp.com",
+    "title": "Experimental cancer therapy shows success in more than 70% of patients in global clinical trials",
+    "domain": "medicalxpress.com",
     "category": "technology",
-    "link": "https://www.scmp.com/news/china/politics/article/3203642/end-era-chinese-official-who-blazed-trail-social-media-under-investigation?module=lead_hero_story&pgtype=homepage",
-    "timestamp": 1671340924,
-    "published": "December 18, 2022 12:22 AM"
+    "link": "https://medicalxpress.com/news/2022-12-experimental-cancer-therapy-success-patients.html",
+    "timestamp": 1671342323,
+    "published": "December 18, 2022 12:45 AM"
 }
 ```
 
