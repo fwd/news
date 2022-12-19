@@ -6,16 +6,16 @@
 - File Size: ~**11MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Dec 18, 2022 4:16 PM
+- Updated: Dec 19, 2022 2:16 AM
 
 ```
 {
-    "title": "Experimental cancer therapy shows success in more than 70% of patients in global clinical trials",
-    "domain": "medicalxpress.com",
-    "category": "technology",
-    "link": "https://medicalxpress.com/news/2022-12-experimental-cancer-therapy-success-patients.html",
-    "timestamp": 1671342323,
-    "published": "December 18, 2022 12:45 AM"
+    "title": "de Sitter Bubbles from Anti--de Sitter Fluctuations",
+    "domain": "journals.aps.org",
+    "category": "science",
+    "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.251104",
+    "timestamp": 1671426638,
+    "published": "December 19, 2022 12:10 AM"
 }
 ```
 
