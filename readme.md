@@ -6,16 +6,16 @@
 - File Size: ~**11MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Dec 19, 2022 12:16 PM
+- Updated: Dec 19, 2022 10:16 PM
 
 ```
 {
-    "title": "de Sitter Bubbles from Anti--de Sitter Fluctuations",
-    "domain": "journals.aps.org",
-    "category": "science",
-    "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.251104",
-    "timestamp": 1671426638,
-    "published": "December 19, 2022 12:10 AM"
+    "title": "South Australia's incredible week: 104.1 per cent of power produced by wind and solar over seven days.",
+    "domain": "reneweconomy.com.au",
+    "category": "worldnews",
+    "link": "https://reneweconomy.com.au/south-australias-incredible-week-104-1-per-cent-wind-and-solar-over-seven-days/",
+    "timestamp": 1671426668,
+    "published": "December 19, 2022 12:11 AM"
 }
 ```
 
