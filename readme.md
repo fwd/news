@@ -6,16 +6,16 @@
 - File Size: ~**11MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Dec 20, 2022 8:16 AM
+- Updated: Dec 20, 2022 6:16 PM
 
 ```
 {
-    "title": "Hacked Ring Cams Used to Record Swatting Victims",
-    "domain": "krebsonsecurity.com",
-    "category": "technology",
-    "link": "https://krebsonsecurity.com/2022/12/hacked-ring-cams-used-to-record-swatting-victims/",
-    "timestamp": 1671512690,
-    "published": "December 20, 2022 12:04 AM"
+    "title": "UN Chief warns of far-right, white supremacy threats in West",
+    "domain": "aljazeera.com",
+    "category": "worldnews",
+    "link": "https://www.aljazeera.com/news/2022/12/20/un-chief-warns-of-far-right-white-supremacy-threats-in-west",
+    "timestamp": 1671514161,
+    "published": "December 20, 2022 12:29 AM"
 }
 ```
 
