@@ -6,16 +6,16 @@
 - File Size: ~**11MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Dec 19, 2022 10:16 PM
+- Updated: Dec 20, 2022 8:16 AM
 
 ```
 {
-    "title": "South Australia's incredible week: 104.1 per cent of power produced by wind and solar over seven days.",
-    "domain": "reneweconomy.com.au",
-    "category": "worldnews",
-    "link": "https://reneweconomy.com.au/south-australias-incredible-week-104-1-per-cent-wind-and-solar-over-seven-days/",
-    "timestamp": 1671426668,
-    "published": "December 19, 2022 12:11 AM"
+    "title": "Hacked Ring Cams Used to Record Swatting Victims",
+    "domain": "krebsonsecurity.com",
+    "category": "technology",
+    "link": "https://krebsonsecurity.com/2022/12/hacked-ring-cams-used-to-record-swatting-victims/",
+    "timestamp": 1671512690,
+    "published": "December 20, 2022 12:04 AM"
 }
 ```
 
