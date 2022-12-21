@@ -6,16 +6,16 @@
 - File Size: ~**11MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Dec 20, 2022 6:16 PM
+- Updated: Dec 21, 2022 4:16 AM
 
 ```
 {
-    "title": "UN Chief warns of far-right, white supremacy threats in West",
-    "domain": "aljazeera.com",
-    "category": "worldnews",
-    "link": "https://www.aljazeera.com/news/2022/12/20/un-chief-warns-of-far-right-white-supremacy-threats-in-west",
-    "timestamp": 1671514161,
-    "published": "December 20, 2022 12:29 AM"
+    "title": "Remote workers are blowing the whistle on the shady practices their companies are up to",
+    "domain": "finance.yahoo.com",
+    "category": "technology",
+    "link": "https://finance.yahoo.com/news/one-unexpected-fallout-remote-huge-100000506.html",
+    "timestamp": 1671599764,
+    "published": "December 21, 2022 12:16 AM"
 }
 ```
 
