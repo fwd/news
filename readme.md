@@ -6,16 +6,16 @@
 - File Size: ~**11MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Dec 22, 2022 12:16 AM
+- Updated: Dec 22, 2022 10:16 AM
 
 ```
 {
-    "title": "Remote workers are blowing the whistle on the shady practices their companies are up to",
-    "domain": "finance.yahoo.com",
+    "title": "Philadelphians welcome first free public phone as a small way to resist big tech",
+    "domain": "techxplore.com",
     "category": "technology",
-    "link": "https://finance.yahoo.com/news/one-unexpected-fallout-remote-huge-100000506.html",
-    "timestamp": 1671599764,
-    "published": "December 21, 2022 12:16 AM"
+    "link": "https://techxplore.com/news/2022-12-philadelphians-free-small-resist-big.html",
+    "timestamp": 1671687072,
+    "published": "December 22, 2022 12:31 AM"
 }
 ```
 
