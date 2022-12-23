@@ -6,16 +6,16 @@
 - File Size: ~**11MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Dec 22, 2022 8:16 PM
+- Updated: Dec 23, 2022 6:16 AM
 
 ```
 {
-    "title": "Philadelphians welcome first free public phone as a small way to resist big tech",
-    "domain": "techxplore.com",
-    "category": "technology",
-    "link": "https://techxplore.com/news/2022-12-philadelphians-free-small-resist-big.html",
-    "timestamp": 1671687072,
-    "published": "December 22, 2022 12:31 AM"
+    "title": "White House: Russia's Wagner received arms from North Korea",
+    "domain": "apnews.com",
+    "category": "worldnews",
+    "link": "https://apnews.com/article/russia-ukraine-business-north-korea-e6a068d91bc9828ecadfb67c929a4162",
+    "timestamp": 1671772056,
+    "published": "December 23, 2022 12:07 AM"
 }
 ```
 
