@@ -6,16 +6,16 @@
 - File Size: ~**11MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Dec 23, 2022 4:16 PM
+- Updated: Dec 24, 2022 2:16 AM
 
 ```
 {
-    "title": "White House: Russia's Wagner received arms from North Korea",
-    "domain": "apnews.com",
-    "category": "worldnews",
-    "link": "https://apnews.com/article/russia-ukraine-business-north-korea-e6a068d91bc9828ecadfb67c929a4162",
-    "timestamp": 1671772056,
-    "published": "December 23, 2022 12:07 AM"
+    "title": "Sam Bankman-Fried moves in with his parents after posting $250 million dollar bail",
+    "domain": "cnbc.com",
+    "category": "technology",
+    "link": "https://www.cnbc.com/video/2022/12/23/sam-bankman-fried-moves-in-with-his-parents-after-posting-250-million-dollar-bail.html",
+    "timestamp": 1671858019,
+    "published": "December 24, 2022 12:00 AM"
 }
 ```
 
