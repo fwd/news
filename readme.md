@@ -6,16 +6,16 @@
 - File Size: ~**11MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Dec 24, 2022 10:16 PM
+- Updated: Dec 25, 2022 8:16 AM
 
 ```
 {
-    "title": "Sam Bankman-Fried moves in with his parents after posting $250 million dollar bail",
-    "domain": "cnbc.com",
-    "category": "technology",
-    "link": "https://www.cnbc.com/video/2022/12/23/sam-bankman-fried-moves-in-with-his-parents-after-posting-250-million-dollar-bail.html",
-    "timestamp": 1671858019,
-    "published": "December 24, 2022 12:00 AM"
+    "title": "A molecular signature defining exercise adaptation with ageing and in vivo partial reprogramming in skeletal muscle (Dec 2022)",
+    "domain": "physoc.onlinelibrary.wiley.com",
+    "category": "science",
+    "link": "https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP283836",
+    "timestamp": 1671944714,
+    "published": "December 25, 2022 12:05 AM"
 }
 ```
 
