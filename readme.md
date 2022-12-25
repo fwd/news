@@ -1,12 +1,12 @@
 # Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 30k
+- Articles: 31k
 - File Type: JSON
 - File Size: ~**11MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Dec 25, 2022 8:16 AM
+- Updated: Dec 25, 2022 6:16 PM
 
 ```
 {
