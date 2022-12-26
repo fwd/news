@@ -6,16 +6,16 @@
 - File Size: ~**11MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Dec 25, 2022 6:16 PM
+- Updated: Dec 26, 2022 4:16 AM
 
 ```
 {
-    "title": "A molecular signature defining exercise adaptation with ageing and in vivo partial reprogramming in skeletal muscle (Dec 2022)",
-    "domain": "physoc.onlinelibrary.wiley.com",
-    "category": "science",
-    "link": "https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP283836",
-    "timestamp": 1671944714,
-    "published": "December 25, 2022 12:05 AM"
+    "title": "A Tesla owner says his car wouldn't charge in freezing temperatures, leaving him stranded on Christmas Eve",
+    "domain": "news.yahoo.com",
+    "category": "technology",
+    "link": "https://news.yahoo.com/tesla-owner-says-car-wouldnt-101617440.html",
+    "timestamp": 1672031763,
+    "published": "December 26, 2022 12:16 AM"
 }
 ```
 
