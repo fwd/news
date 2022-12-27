@@ -6,16 +6,16 @@
 - File Size: ~**11MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Dec 26, 2022 2:16 PM
+- Updated: Dec 27, 2022 12:16 AM
 
 ```
 {
-    "title": "A Tesla owner says his car wouldn't charge in freezing temperatures, leaving him stranded on Christmas Eve",
-    "domain": "news.yahoo.com",
-    "category": "technology",
-    "link": "https://news.yahoo.com/tesla-owner-says-car-wouldnt-101617440.html",
-    "timestamp": 1672031763,
-    "published": "December 26, 2022 12:16 AM"
+    "title": "Russian meat magnate who criticised Putin’s war dies after hotel fall",
+    "domain": "theage.com.au",
+    "category": "news",
+    "link": "https://www.theage.com.au/world/europe/russian-meat-magnate-who-criticised-putin-s-war-dies-after-hotel-fall-20221227-p5c8zs.html",
+    "timestamp": 1672117652,
+    "published": "December 27, 2022 12:07 AM"
 }
 ```
 
