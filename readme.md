@@ -6,16 +6,16 @@
 - File Size: ~**11MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Dec 27, 2022 12:16 AM
+- Updated: Dec 27, 2022 10:16 AM
 
 ```
 {
     "title": "Russian meat magnate who criticised Putin’s war dies after hotel fall",
     "domain": "theage.com.au",
-    "category": "news",
+    "category": "worldnews",
     "link": "https://www.theage.com.au/world/europe/russian-meat-magnate-who-criticised-putin-s-war-dies-after-hotel-fall-20221227-p5c8zs.html",
-    "timestamp": 1672117652,
-    "published": "December 27, 2022 12:07 AM"
+    "timestamp": 1672117595,
+    "published": "December 27, 2022 12:06 AM"
 }
 ```
 
