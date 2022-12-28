@@ -6,16 +6,16 @@
 - File Size: ~**11MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Dec 27, 2022 8:16 PM
+- Updated: Dec 28, 2022 6:16 AM
 
 ```
 {
-    "title": "Russian meat magnate who criticised Putin’s war dies after hotel fall",
-    "domain": "theage.com.au",
+    "title": "Russia's only LGBTQ+ museum closes down amid 'propaganda' crackdown",
+    "domain": "thepinknews.com",
     "category": "worldnews",
-    "link": "https://www.theage.com.au/world/europe/russian-meat-magnate-who-criticised-putin-s-war-dies-after-hotel-fall-20221227-p5c8zs.html",
-    "timestamp": 1672117595,
-    "published": "December 27, 2022 12:06 AM"
+    "link": "https://www.thepinknews.com/2022/12/21/russian-lgbtq-history-museum-closes/",
+    "timestamp": 1672203663,
+    "published": "December 28, 2022 12:01 AM"
 }
 ```
 
