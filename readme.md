@@ -3,19 +3,19 @@
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - Articles: 31k
 - File Type: JSON
-- File Size: ~**11MB**
+- File Size: ~**12MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Dec 28, 2022 4:16 PM
+- Updated: Dec 29, 2022 2:16 AM
 
 ```
 {
-    "title": "Russia's only LGBTQ+ museum closes down amid 'propaganda' crackdown",
-    "domain": "thepinknews.com",
-    "category": "worldnews",
-    "link": "https://www.thepinknews.com/2022/12/21/russian-lgbtq-history-museum-closes/",
-    "timestamp": 1672203663,
-    "published": "December 28, 2022 12:01 AM"
+    "title": "Research finds that moral character judgments increase with prosocial effort to a point and then plateau.",
+    "domain": "journals.sagepub.com",
+    "category": "science",
+    "link": "https://journals.sagepub.com/doi/10.1177/01461672221135954",
+    "timestamp": 1672294439,
+    "published": "December 29, 2022 1:13 AM"
 }
 ```
 
