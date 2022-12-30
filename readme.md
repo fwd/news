@@ -6,16 +6,16 @@
 - File Size: ~**12MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Dec 29, 2022 10:16 PM
+- Updated: Dec 30, 2022 8:16 AM
 
 ```
 {
-    "title": "Southwest Airlines blames IT breakdown for stranding holiday travelers",
-    "domain": "theregister.com",
-    "category": "technology",
-    "link": "https://www.theregister.com/2022/12/28/southwest_outdated_it/",
-    "timestamp": 1672297823,
-    "published": "December 29, 2022 2:10 AM"
+    "title": "Trump Promotes Article Supporting Him to Run as Third-Party Candidate",
+    "domain": "rollingstone.com",
+    "category": "politics",
+    "link": "https://www.rollingstone.com/politics/politics-news/trump-article-third-party-candidate-white-house-2024-1234653812/",
+    "timestamp": 1672376496,
+    "published": "December 30, 2022 12:01 AM"
 }
 ```
 
