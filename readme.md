@@ -6,16 +6,16 @@
 - File Size: ~**12MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Dec 30, 2022 6:16 PM
+- Updated: Dec 31, 2022 4:16 AM
 
 ```
 {
-    "title": "Trump Promotes Article Supporting Him to Run as Third-Party Candidate",
-    "domain": "rollingstone.com",
-    "category": "politics",
-    "link": "https://www.rollingstone.com/politics/politics-news/trump-article-third-party-candidate-white-house-2024-1234653812/",
-    "timestamp": 1672376496,
-    "published": "December 30, 2022 12:01 AM"
+    "title": "India joins EU in mandating USB-C charging port on smartphones, as Americans still have to deal with 3 different types of ports and cables",
+    "domain": "finance.yahoo.com",
+    "category": "technology",
+    "link": "https://finance.yahoo.com/news/india-joins-eu-mandating-usb-174051629.html",
+    "timestamp": 1672463711,
+    "published": "December 31, 2022 12:15 AM"
 }
 ```
 
