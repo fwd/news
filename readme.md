@@ -6,16 +6,16 @@
 - File Size: ~**12MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Jan 2, 2023 6:16 AM
+- Updated: Jan 2, 2023 4:16 PM
 
 ```
 {
-    "title": "Russian drones attack critical infrastructure in and around Kyiv, officials say",
-    "domain": "reuters.com",
-    "category": "worldnews",
-    "link": "https://www.reuters.com/world/europe/defiant-ukrainians-cheer-new-year-drones-blasted-skies-2023-01-01/",
-    "timestamp": 1672635709,
-    "published": "January 2, 2023 12:01 AM"
+    "title": "Mother sues school district after 8th-grade daughter allegedly strip searched",
+    "domain": "abcnews.go.com",
+    "category": "news",
+    "link": "https://abcnews.go.com/US/mother-sues-school-district-after-8th-grade-daughter/story?id=95983420",
+    "timestamp": 1672637386,
+    "published": "January 2, 2023 12:29 AM"
 }
 ```
 
