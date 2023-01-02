@@ -1,21 +1,21 @@
 # Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 31k
+- Articles: 32k
 - File Type: JSON
 - File Size: ~**12MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Jan 1, 2023 10:16 AM
+- Updated: Jan 1, 2023 8:16 PM
 
 ```
 {
-    "title": "Macron vows to support Ukraine until victory",
-    "domain": "kyivindependent.com",
-    "category": "ukraine",
-    "link": "https://kyivindependent.com/news-feed/macron-vows-to-support-ukraine-until-victory",
-    "timestamp": 1672549688,
-    "published": "January 1, 2023 12:08 AM"
+    "title": "Explosions rock Ukraine’s Kyiv in early hours of New Year’s Day",
+    "domain": "aljazeera.com",
+    "category": "news",
+    "link": "https://www.aljazeera.com/news/2023/1/1/explosions-rock-ukraines-kyiv-in-early-hours-of-new-years-day",
+    "timestamp": 1672554123,
+    "published": "January 1, 2023 1:22 AM"
 }
 ```
 
