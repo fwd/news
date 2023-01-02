@@ -6,16 +6,16 @@
 - File Size: ~**12MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Jan 1, 2023 8:16 PM
+- Updated: Jan 2, 2023 6:16 AM
 
 ```
 {
-    "title": "Explosions rock Ukraine’s Kyiv in early hours of New Year’s Day",
-    "domain": "aljazeera.com",
-    "category": "news",
-    "link": "https://www.aljazeera.com/news/2023/1/1/explosions-rock-ukraines-kyiv-in-early-hours-of-new-years-day",
-    "timestamp": 1672554123,
-    "published": "January 1, 2023 1:22 AM"
+    "title": "Russian drones attack critical infrastructure in and around Kyiv, officials say",
+    "domain": "reuters.com",
+    "category": "worldnews",
+    "link": "https://www.reuters.com/world/europe/defiant-ukrainians-cheer-new-year-drones-blasted-skies-2023-01-01/",
+    "timestamp": 1672635709,
+    "published": "January 2, 2023 12:01 AM"
 }
 ```
 
