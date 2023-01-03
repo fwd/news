@@ -6,16 +6,16 @@
 - File Size: ~**12MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Jan 2, 2023 4:16 PM
+- Updated: Jan 3, 2023 2:16 AM
 
 ```
 {
-    "title": "Mother sues school district after 8th-grade daughter allegedly strip searched",
-    "domain": "abcnews.go.com",
-    "category": "news",
-    "link": "https://abcnews.go.com/US/mother-sues-school-district-after-8th-grade-daughter/story?id=95983420",
-    "timestamp": 1672637386,
-    "published": "January 2, 2023 12:29 AM"
+    "title": "Revised clinical trial form for Alzheimer’s antibody warned of fatal brain bleeds | Science",
+    "domain": "science.org",
+    "category": "science",
+    "link": "https://www.science.org/content/article/revised-clinical-trial-form-alzheimer-s-antibody-warned-fatal-brain-bleeds",
+    "timestamp": 1672722687,
+    "published": "January 3, 2023 12:11 AM"
 }
 ```
 
