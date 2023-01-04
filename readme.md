@@ -6,16 +6,16 @@
 - File Size: ~**12MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Jan 3, 2023 12:16 PM
+- Updated: Jan 3, 2023 10:16 PM
 
 ```
 {
-    "title": "Revised clinical trial form for Alzheimer’s antibody warned of fatal brain bleeds | Science",
-    "domain": "science.org",
-    "category": "science",
-    "link": "https://www.science.org/content/article/revised-clinical-trial-form-alzheimer-s-antibody-warned-fatal-brain-bleeds",
-    "timestamp": 1672722687,
-    "published": "January 3, 2023 12:11 AM"
+    "title": "South Korea fines Tesla $2.2 mln for exaggerating driving range of EVs",
+    "domain": "reuters.com",
+    "category": "technology",
+    "link": "https://www.reuters.com/markets/commodities/south-korea-fines-tesla-22-mln-exaggerating-driving-range-evs-2023-01-03/",
+    "timestamp": 1672724816,
+    "published": "January 3, 2023 12:46 AM"
 }
 ```
 
