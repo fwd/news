@@ -6,16 +6,16 @@
 - File Size: ~**12MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Jan 3, 2023 10:16 PM
+- Updated: Jan 4, 2023 8:16 AM
 
 ```
 {
-    "title": "South Korea fines Tesla $2.2 mln for exaggerating driving range of EVs",
-    "domain": "reuters.com",
-    "category": "technology",
-    "link": "https://www.reuters.com/markets/commodities/south-korea-fines-tesla-22-mln-exaggerating-driving-range-evs-2023-01-03/",
-    "timestamp": 1672724816,
-    "published": "January 3, 2023 12:46 AM"
+    "title": "US reopening visa and consular services at embassy in Cuba",
+    "domain": "apnews.com",
+    "category": "worldnews",
+    "link": "https://apnews.com/article/politics-united-states-government-cuba-havana-4d6d2e4b6aa719cee40de4cba960cf0f?utm_source=homepage&utm_medium=TopNews&utm_campaign=position_04",
+    "timestamp": 1672809196,
+    "published": "January 4, 2023 12:13 AM"
 }
 ```
 
