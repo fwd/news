@@ -6,16 +6,16 @@
 - File Size: ~**12MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Jan 4, 2023 8:16 AM
+- Updated: Jan 4, 2023 6:16 PM
 
 ```
 {
-    "title": "US reopening visa and consular services at embassy in Cuba",
-    "domain": "apnews.com",
-    "category": "worldnews",
-    "link": "https://apnews.com/article/politics-united-states-government-cuba-havana-4d6d2e4b6aa719cee40de4cba960cf0f?utm_source=homepage&utm_medium=TopNews&utm_campaign=position_04",
-    "timestamp": 1672809196,
-    "published": "January 4, 2023 12:13 AM"
+    "title": "Scientists Destroyed 95% of Toxic 'Forever Chemicals' in Just 45 Minutes, Study Reports",
+    "domain": "vice.com",
+    "category": "technology",
+    "link": "https://www.vice.com/en/article/akep8j/scientists-destroyed-95-of-toxic-forever-chemicals-in-just-45-minutes-study-reports",
+    "timestamp": 1672809837,
+    "published": "January 4, 2023 12:23 AM"
 }
 ```
 
