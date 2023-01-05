@@ -6,16 +6,16 @@
 - File Size: ~**12MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Jan 4, 2023 6:16 PM
+- Updated: Jan 5, 2023 4:16 AM
 
 ```
 {
-    "title": "Scientists Destroyed 95% of Toxic 'Forever Chemicals' in Just 45 Minutes, Study Reports",
-    "domain": "vice.com",
+    "title": "TSA’s Opt-In Facial Recognition Program Doesn’t Seem All That Optional In Real Life",
+    "domain": "techdirt.com",
     "category": "technology",
-    "link": "https://www.vice.com/en/article/akep8j/scientists-destroyed-95-of-toxic-forever-chemicals-in-just-45-minutes-study-reports",
-    "timestamp": 1672809837,
-    "published": "January 4, 2023 12:23 AM"
+    "link": "https://www.techdirt.com/2023/01/04/tsas-opt-in-facial-recognition-program-doesnt-seem-all-that-optional-in-real-life/",
+    "timestamp": 1672895351,
+    "published": "January 5, 2023 12:09 AM"
 }
 ```
 
