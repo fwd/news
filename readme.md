@@ -6,16 +6,16 @@
 - File Size: ~**12MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Jan 5, 2023 4:16 AM
+- Updated: Jan 5, 2023 2:16 PM
 
 ```
 {
-    "title": "TSA’s Opt-In Facial Recognition Program Doesn’t Seem All That Optional In Real Life",
-    "domain": "techdirt.com",
-    "category": "technology",
-    "link": "https://www.techdirt.com/2023/01/04/tsas-opt-in-facial-recognition-program-doesnt-seem-all-that-optional-in-real-life/",
-    "timestamp": 1672895351,
-    "published": "January 5, 2023 12:09 AM"
+    "title": "Evidence of Russian crimes mounts as war in Ukraine drags on",
+    "domain": "apnews.com",
+    "category": "worldnews",
+    "link": "https://apnews.com/article/russia-ukraine-war-crimes-government-international-criminal-court-a6edd7e6ed0de527b42a1790dccc33ea",
+    "timestamp": 1672895604,
+    "published": "January 5, 2023 12:13 AM"
 }
 ```
 
