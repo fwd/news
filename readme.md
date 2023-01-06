@@ -6,16 +6,16 @@
 - File Size: ~**12MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Jan 5, 2023 2:16 PM
+- Updated: Jan 6, 2023 12:16 AM
 
 ```
 {
-    "title": "Evidence of Russian crimes mounts as war in Ukraine drags on",
-    "domain": "apnews.com",
-    "category": "worldnews",
-    "link": "https://apnews.com/article/russia-ukraine-war-crimes-government-international-criminal-court-a6edd7e6ed0de527b42a1790dccc33ea",
-    "timestamp": 1672895604,
-    "published": "January 5, 2023 12:13 AM"
+    "title": "Samsung Electronics Q4 operating profit down 69% on lower demand",
+    "domain": "koreatimes.co.kr",
+    "category": "technology",
+    "link": "https://www.koreatimes.co.kr/www/tech/2023/01/129_343089.html",
+    "timestamp": 1672981401,
+    "published": "January 6, 2023 12:03 AM"
 }
 ```
 
