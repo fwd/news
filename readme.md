@@ -6,16 +6,16 @@
 - File Size: ~**12MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Jan 6, 2023 12:16 AM
+- Updated: Jan 6, 2023 10:16 AM
 
 ```
 {
-    "title": "Samsung Electronics Q4 operating profit down 69% on lower demand",
-    "domain": "koreatimes.co.kr",
-    "category": "technology",
-    "link": "https://www.koreatimes.co.kr/www/tech/2023/01/129_343089.html",
-    "timestamp": 1672981401,
-    "published": "January 6, 2023 12:03 AM"
+    "title": "Japan minister calls for new world order to counter rise of authoritarian regimes",
+    "domain": "asahi.com",
+    "category": "worldnews",
+    "link": "https://www.asahi.com/sp/ajw/articles/14808689",
+    "timestamp": 1672981327,
+    "published": "January 6, 2023 12:02 AM"
 }
 ```
 
