@@ -6,15 +6,15 @@
 - File Size: ~**12MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Jan 7, 2023 6:16 AM
+- Updated: Jan 7, 2023 4:16 PM
 
 ```
 {
-    "title": "China suspends social media accounts of COVID policy critics",
-    "domain": "news.yahoo.com",
-    "category": "worldnews",
-    "link": "https://news.yahoo.com/china-suspends-social-media-accounts-041233105.html",
-    "timestamp": 1673067872,
+    "title": "U.S. agriculture agency extends climate funding to small farmers",
+    "domain": "reuters.com",
+    "category": "UpliftingNews",
+    "link": "https://www.reuters.com/world/us/us-agriculture-agency-extends-climate-funding-small-farmers-2022-12-12/",
+    "timestamp": 1673067891,
     "published": "January 7, 2023 12:04 AM"
 }
 ```
