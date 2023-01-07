@@ -6,16 +6,16 @@
 - File Size: ~**12MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Jan 6, 2023 8:16 PM
+- Updated: Jan 7, 2023 6:16 AM
 
 ```
 {
-    "title": "Japan minister calls for new world order to counter rise of authoritarian regimes",
-    "domain": "asahi.com",
+    "title": "China suspends social media accounts of COVID policy critics",
+    "domain": "news.yahoo.com",
     "category": "worldnews",
-    "link": "https://www.asahi.com/sp/ajw/articles/14808689",
-    "timestamp": 1672981327,
-    "published": "January 6, 2023 12:02 AM"
+    "link": "https://news.yahoo.com/china-suspends-social-media-accounts-041233105.html",
+    "timestamp": 1673067872,
+    "published": "January 7, 2023 12:04 AM"
 }
 ```
 
