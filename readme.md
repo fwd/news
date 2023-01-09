@@ -6,16 +6,16 @@
 - File Size: ~**12MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Jan 8, 2023 12:16 PM
+- Updated: Jan 8, 2023 10:16 PM
 
 ```
 {
-    "title": "Amazon: Deforestation shot up by 150% in December, Jair Bolsonaro's last month in office",
-    "domain": "brusselstimes.com",
-    "category": "news",
-    "link": "https://www.brusselstimes.com/348256/amazon-deforestation-shot-up-by-150-in-december-jair-bolsonaros-last-month-in-office",
-    "timestamp": 1673154321,
-    "published": "January 8, 2023 12:05 AM"
+    "title": "Stop filming strangers in 2023",
+    "domain": "theverge.com",
+    "category": "technology",
+    "link": "https://www.theverge.com/2022/12/26/23519605/tiktok-viral-videos-privacy-surveillance-street-interviews-vlogs",
+    "timestamp": 1673161334,
+    "published": "January 8, 2023 2:02 AM"
 }
 ```
 
