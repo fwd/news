@@ -6,16 +6,16 @@
 - File Size: ~**12MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Jan 8, 2023 10:16 PM
+- Updated: Jan 9, 2023 8:16 AM
 
 ```
 {
-    "title": "Stop filming strangers in 2023",
-    "domain": "theverge.com",
-    "category": "technology",
-    "link": "https://www.theverge.com/2022/12/26/23519605/tiktok-viral-videos-privacy-surveillance-street-interviews-vlogs",
-    "timestamp": 1673161334,
-    "published": "January 8, 2023 2:02 AM"
+    "title": "Brazil investigates who led anti-democratic riots in capital",
+    "domain": "reuters.com",
+    "category": "worldnews",
+    "link": "https://www.reuters.com/world/americas/brazil-investigates-who-led-anti-democratic-riots-capital-2023-01-09/",
+    "timestamp": 1673240861,
+    "published": "January 9, 2023 12:07 AM"
 }
 ```
 
