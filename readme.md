@@ -6,16 +6,16 @@
 - File Size: ~**12MB**
 - Sources: 3k
 - Categories: 13
-- Updated: Jan 9, 2023 6:16 PM
+- Updated: Jan 10, 2023 4:16 AM
 
 ```
 {
-    "title": "US Farmers win right to repair John Deere equipment",
-    "domain": "bbc.com",
-    "category": "UpliftingNews",
-    "link": "https://www.bbc.com/news/business-64206913",
-    "timestamp": 1673242160,
-    "published": "January 9, 2023 12:29 AM"
+    "title": "AI Lawyer Will Represent Client In Traffic Court, Threatening Nonexistent Market For Traffic Court Lawyers",
+    "domain": "techdirt.com",
+    "category": "technology",
+    "link": "https://www.techdirt.com/2023/01/09/ai-lawyer-will-represent-client-in-traffic-court-threatening-nonexistent-market-for-traffic-court-lawyers/",
+    "timestamp": 1673328423,
+    "published": "January 10, 2023 12:27 AM"
 }
 ```
 
