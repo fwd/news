@@ -4,18 +4,18 @@
 - Articles: 33k
 - File Type: JSON
 - File Size: ~**12MB**
-- Sources: 3k
+- Sources: 4k
 - Categories: 13
-- Updated: Jan 10, 2023 4:16 AM
+- Updated: Jan 10, 2023 2:16 PM
 
 ```
 {
-    "title": "AI Lawyer Will Represent Client In Traffic Court, Threatening Nonexistent Market For Traffic Court Lawyers",
-    "domain": "techdirt.com",
-    "category": "technology",
-    "link": "https://www.techdirt.com/2023/01/09/ai-lawyer-will-represent-client-in-traffic-court-threatening-nonexistent-market-for-traffic-court-lawyers/",
-    "timestamp": 1673328423,
-    "published": "January 10, 2023 12:27 AM"
+    "title": "‘I Cried': Water Bills as High as $16,800 Outrage Calvert County Residents",
+    "domain": "nbcwashington.com",
+    "category": "news",
+    "link": "https://www.nbcwashington.com/news/local/i-cried-water-bills-as-high-as-16800-outrage-calvert-county-residents/3250696/",
+    "timestamp": 1673328624,
+    "published": "January 10, 2023 12:30 AM"
 }
 ```
 
