@@ -6,16 +6,16 @@
 - File Size: ~**12MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 11, 2023 12:16 AM
+- Updated: Jan 11, 2023 10:16 AM
 
 ```
 {
-    "title": "‘I Cried': Water Bills as High as $16,800 Outrage Calvert County Residents",
-    "domain": "nbcwashington.com",
-    "category": "news",
-    "link": "https://www.nbcwashington.com/news/local/i-cried-water-bills-as-high-as-16800-outrage-calvert-county-residents/3250696/",
-    "timestamp": 1673328624,
-    "published": "January 10, 2023 12:30 AM"
+    "title": "Adult children get less support in separated families: Study finds families where there was parental separation, there was substantially less support from fathers and mothers to their adult children, both emotionally and financially",
+    "domain": "ubp.uni-bamberg.de",
+    "category": "science",
+    "link": "https://ubp.uni-bamberg.de/jfr/index.php/jfr/article/view/809",
+    "timestamp": 1673414481,
+    "published": "January 11, 2023 12:21 AM"
 }
 ```
 
