@@ -6,16 +6,16 @@
 - File Size: ~**12MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 11, 2023 8:16 PM
+- Updated: Jan 12, 2023 6:16 AM
 
 ```
 {
-    "title": "Adult children get less support in separated families: Study finds families where there was parental separation, there was substantially less support from fathers and mothers to their adult children, both emotionally and financially",
-    "domain": "ubp.uni-bamberg.de",
-    "category": "science",
-    "link": "https://ubp.uni-bamberg.de/jfr/index.php/jfr/article/view/809",
-    "timestamp": 1673414481,
-    "published": "January 11, 2023 12:21 AM"
+    "title": "Saudi Arabia's wealth fund raises Nintendo stake to 6%",
+    "domain": "channelnewsasia.com",
+    "category": "technology",
+    "link": "https://www.channelnewsasia.com/business/saudi-arabias-wealth-fund-raises-nintendo-stake-6-3200441",
+    "timestamp": 1673499899,
+    "published": "January 12, 2023 12:04 AM"
 }
 ```
 
