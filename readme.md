@@ -6,16 +6,16 @@
 - File Size: ~**12MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 13, 2023 2:16 AM
+- Updated: Jan 13, 2023 12:16 PM
 
 ```
 {
-    "title": "This cool new approach to refrigeration could replace harmful chemicals / New method uses salt and an organic solvent to change a material’s melting point.",
-    "domain": "arstechnica.com",
-    "category": "technology",
-    "link": "https://arstechnica.com/science/2023/01/future-refrigerators-could-use-ionocaloric-cooling/",
-    "timestamp": 1673586639,
-    "published": "January 13, 2023 12:10 AM"
+    "title": "Tesla cuts prices on electric vehicles for U.S. market",
+    "domain": "reuters.com",
+    "category": "news",
+    "link": "https://www.reuters.com/business/autos-transportation/tesla-cuts-prices-electric-vehicles-us-market-2023-01-13/",
+    "timestamp": 1673588041,
+    "published": "January 13, 2023 12:34 AM"
 }
 ```
 
