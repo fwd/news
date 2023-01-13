@@ -6,16 +6,16 @@
 - File Size: ~**12MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 12, 2023 4:16 PM
+- Updated: Jan 13, 2023 2:16 AM
 
 ```
 {
-    "title": "JP Morgan Says Startup Founder Used Millions Of Fake Customers To Dupe It Into An Acquisition",
-    "domain": "forbes.com",
+    "title": "This cool new approach to refrigeration could replace harmful chemicals / New method uses salt and an organic solvent to change a material’s melting point.",
+    "domain": "arstechnica.com",
     "category": "technology",
-    "link": "https://www.forbes.com/sites/alexandralevine/2023/01/11/jp-morgan-fake-customers-frank-charlie-javice/",
-    "timestamp": 1673501695,
-    "published": "January 12, 2023 12:34 AM"
+    "link": "https://arstechnica.com/science/2023/01/future-refrigerators-could-use-ionocaloric-cooling/",
+    "timestamp": 1673586639,
+    "published": "January 13, 2023 12:10 AM"
 }
 ```
 
