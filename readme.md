@@ -6,16 +6,16 @@
 - File Size: ~**12MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 13, 2023 10:16 PM
+- Updated: Jan 14, 2023 8:16 AM
 
 ```
 {
-    "title": "Half a million lives could be saved yearly by replacing wood and charcoal stoves in Africa. OnStove modeling shows that replacing traditional wood- and charcoal-burning stoves in sub-Saharan Africa could avert as many as 463,000 deaths every year, with a healthcare cost savings of $66 billion.",
-    "domain": "eurekalert.org",
-    "category": "science",
-    "link": "https://www.eurekalert.org/news-releases/976459",
-    "timestamp": 1673588723,
-    "published": "January 13, 2023 12:45 AM"
+    "title": "Getting lung cancer to own the libs: House Republicans want to make smoking great again",
+    "domain": "salon.com",
+    "category": "politics",
+    "link": "https://www.salon.com/2023/01/13/getting-lung-cancer-to-own-the-libs-want-to-make-smoking-great-again/",
+    "timestamp": 1673673268,
+    "published": "January 14, 2023 12:14 AM"
 }
 ```
 
