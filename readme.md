@@ -6,16 +6,16 @@
 - File Size: ~**12MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 14, 2023 6:16 PM
+- Updated: Jan 15, 2023 4:16 AM
 
 ```
 {
-    "title": "Comedian Andy Dick accused of public intoxication, failing to register as a sex offender",
-    "domain": "nbcnews.com",
-    "category": "news",
-    "link": "https://www.nbcnews.com/news/us-news/comedian-andy-dick-accused-public-intoxication-register-sex-offender-rcna65808?cid=sm_npd_nn_tw_ma",
-    "timestamp": 1673678245,
-    "published": "January 14, 2023 1:37 AM"
+    "title": "Air Force commander: Ukraine has no weapons against missile Russians fired at house in Dnipro",
+    "domain": "ukrinform.net",
+    "category": "worldnews",
+    "link": "https://www.ukrinform.net/rubric-ato/3652800-air-force-commander-ukraine-has-no-weapons-against-missile-russians-fired-at-house-in-dnipro.html",
+    "timestamp": 1673759100,
+    "published": "January 15, 2023 12:05 AM"
 }
 ```
 
