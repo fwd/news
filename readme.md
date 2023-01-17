@@ -6,16 +6,16 @@
 - File Size: ~**13MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 16, 2023 8:16 PM
+- Updated: Jan 17, 2023 6:16 AM
 
 ```
 {
-    "title": "Florida teacher vacancies soar to nearly 5,300 in January",
-    "domain": "orlandosentinel.com",
-    "category": "florida",
-    "link": "https://www.orlandosentinel.com/news/education/os-ne-florida-teacher-shortage-2023-20230113-gtotfwmxdralnjsw65ynv4dhae-story.html",
-    "timestamp": 1673845464,
-    "published": "January 16, 2023 12:04 AM"
+    "title": "COPD patients 61% more likely to die in the year after major surgery: Study finds patients with chronic obstructive pulmonary disease (COPD) who undergo major surgery are more likely to die in the year after surgery and incur higher health care costs than similar patients without COPD",
+    "domain": "eurekalert.org",
+    "category": "science",
+    "link": "https://www.eurekalert.org/news-releases/976217",
+    "timestamp": 1673932183,
+    "published": "January 17, 2023 12:09 AM"
 }
 ```
 
