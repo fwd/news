@@ -6,16 +6,16 @@
 - File Size: ~**13MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 17, 2023 6:16 AM
+- Updated: Jan 17, 2023 4:16 PM
 
 ```
 {
-    "title": "COPD patients 61% more likely to die in the year after major surgery: Study finds patients with chronic obstructive pulmonary disease (COPD) who undergo major surgery are more likely to die in the year after surgery and incur higher health care costs than similar patients without COPD",
-    "domain": "eurekalert.org",
+    "title": "Pregnant women who are infected with COVID-19 face a 7 times increased risk of dying and a significantly elevated risk of being admitted to an intensive care unit or suffering from pneumonia, study finds",
+    "domain": "dx.doi.org",
     "category": "science",
-    "link": "https://www.eurekalert.org/news-releases/976217",
-    "timestamp": 1673932183,
-    "published": "January 17, 2023 12:09 AM"
+    "link": "http://dx.doi.org/10.1136/bmjgh-2022-009495",
+    "timestamp": 1673932592,
+    "published": "January 17, 2023 12:16 AM"
 }
 ```
 
