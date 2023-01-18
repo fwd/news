@@ -6,16 +6,16 @@
 - File Size: ~**13MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 17, 2023 4:16 PM
+- Updated: Jan 18, 2023 2:16 AM
 
 ```
 {
-    "title": "Pregnant women who are infected with COVID-19 face a 7 times increased risk of dying and a significantly elevated risk of being admitted to an intensive care unit or suffering from pneumonia, study finds",
-    "domain": "dx.doi.org",
-    "category": "science",
-    "link": "http://dx.doi.org/10.1136/bmjgh-2022-009495",
-    "timestamp": 1673932592,
-    "published": "January 17, 2023 12:16 AM"
+    "title": "African immigrants drive French-speaking renaissance in Maine",
+    "domain": "pressherald.com",
+    "category": "UpliftingNews",
+    "link": "https://www.pressherald.com/2016/07/31/when-cultures-click-it-could-mean-a-renaissance-for-french-speaking-in-maine/",
+    "timestamp": 1674018850,
+    "published": "January 18, 2023 12:14 AM"
 }
 ```
 
