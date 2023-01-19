@@ -6,16 +6,16 @@
 - File Size: ~**13MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 18, 2023 6:11 PM
+- Updated: Jan 19, 2023 4:10 AM
 
 ```
 {
-    "title": "African immigrants drive French-speaking renaissance in Maine",
-    "domain": "pressherald.com",
-    "category": "UpliftingNews",
-    "link": "https://www.pressherald.com/2016/07/31/when-cultures-click-it-could-mean-a-renaissance-for-french-speaking-in-maine/",
-    "timestamp": 1674018850,
-    "published": "January 18, 2023 12:14 AM"
+    "title": "Amazon discontinues charity donation program amid cost cuts",
+    "domain": "cnbc.com",
+    "category": "technology",
+    "link": "https://www.cnbc.com/2023/01/18/amazon-discontinues-amazonsmile-charity-donation-program-amid-cost-cuts.html",
+    "timestamp": 1674104807,
+    "published": "January 19, 2023 12:06 AM"
 }
 ```
 
