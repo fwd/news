@@ -6,16 +6,16 @@
 - File Size: ~**13MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 20, 2023 12:10 AM
+- Updated: Jan 20, 2023 10:10 AM
 
 ```
 {
-    "title": "Amazon discontinues charity donation program amid cost cuts",
-    "domain": "cnbc.com",
-    "category": "technology",
-    "link": "https://www.cnbc.com/2023/01/18/amazon-discontinues-amazonsmile-charity-donation-program-amid-cost-cuts.html",
-    "timestamp": 1674104807,
-    "published": "January 19, 2023 12:06 AM"
+    "title": "'Hi, Brittany. This is Joe Biden.' President orders from DC's Ghostburger, stunning employee",
+    "domain": "wusa9.com",
+    "category": "UpliftingNews",
+    "link": "https://www.wusa9.com/article/money/business/small-business/joe-biden-ghostburger/65-bd472668-9fd1-4a8d-b5d7-a7014a7181dd",
+    "timestamp": 1674191635,
+    "published": "January 20, 2023 12:13 AM"
 }
 ```
 
