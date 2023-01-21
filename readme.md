@@ -6,16 +6,16 @@
 - File Size: ~**13MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 20, 2023 8:10 PM
+- Updated: Jan 21, 2023 6:10 AM
 
 ```
 {
-    "title": "'Hi, Brittany. This is Joe Biden.' President orders from DC's Ghostburger, stunning employee",
-    "domain": "wusa9.com",
-    "category": "UpliftingNews",
-    "link": "https://www.wusa9.com/article/money/business/small-business/joe-biden-ghostburger/65-bd472668-9fd1-4a8d-b5d7-a7014a7181dd",
-    "timestamp": 1674191635,
-    "published": "January 20, 2023 12:13 AM"
+    "title": "Google isn't just afraid of competition from ChatGPT — the giant is scared ChatGPT will kill AI",
+    "domain": "businessinsider.com",
+    "category": "technology",
+    "link": "https://www.businessinsider.com/google-is-scared-that-chatgpt-will-kill-artificial-intelligence-2023-1",
+    "timestamp": 1674277675,
+    "published": "January 21, 2023 12:07 AM"
 }
 ```
 
