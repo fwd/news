@@ -6,16 +6,16 @@
 - File Size: ~**13MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 22, 2023 10:10 PM
+- Updated: Jan 23, 2023 8:10 AM
 
 ```
 {
-    "title": "India blocks YouTube videos, tweets sharing BBC documentary on PM Modi — ‘We think this is a propaganda piece designed to push a particular discredited narrative’ (21 Jan. 2023)",
-    "domain": "gulfnews.com",
-    "category": "technology",
-    "link": "https://gulfnews.com/world/asia/india/india-blocks-youtube-videos-tweets-sharing-bbc-documentary-on-pm-modi-1.93367325",
-    "timestamp": 1674363742,
-    "published": "January 22, 2023 12:02 AM"
+    "title": "Police make arrest after 3-year-old boy survives shooting at Lithia Springs hotel",
+    "domain": "atlantanewsfirst.com",
+    "category": "news",
+    "link": "https://www.atlantanewsfirst.com/2023/01/21/investigation-underway-after-3-year-old-boy-injured-lithia-springs-hotel/",
+    "timestamp": 1674450395,
+    "published": "January 23, 2023 12:06 AM"
 }
 ```
 
