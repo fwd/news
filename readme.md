@@ -6,16 +6,16 @@
 - File Size: ~**13MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 23, 2023 8:10 AM
+- Updated: Jan 23, 2023 6:10 PM
 
 ```
 {
-    "title": "Police make arrest after 3-year-old boy survives shooting at Lithia Springs hotel",
-    "domain": "atlantanewsfirst.com",
-    "category": "news",
-    "link": "https://www.atlantanewsfirst.com/2023/01/21/investigation-underway-after-3-year-old-boy-injured-lithia-springs-hotel/",
-    "timestamp": 1674450395,
-    "published": "January 23, 2023 12:06 AM"
+    "title": "DARPA grant will fund hunt for drug that can keep people warm",
+    "domain": "news.rice.edu",
+    "category": "technology",
+    "link": "https://news.rice.edu/news/2023/darpa-grant-will-fund-hunt-drug-can-keep-people-warm",
+    "timestamp": 1674450537,
+    "published": "January 23, 2023 12:08 AM"
 }
 ```
 
