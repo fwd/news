@@ -6,16 +6,16 @@
 - File Size: ~**13MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 23, 2023 6:10 PM
+- Updated: Jan 24, 2023 4:10 AM
 
 ```
 {
-    "title": "DARPA grant will fund hunt for drug that can keep people warm",
-    "domain": "news.rice.edu",
-    "category": "technology",
-    "link": "https://news.rice.edu/news/2023/darpa-grant-will-fund-hunt-drug-can-keep-people-warm",
-    "timestamp": 1674450537,
-    "published": "January 23, 2023 12:08 AM"
+    "title": "Physicists say they can better understand the state of the cosmos shortly after the Big Bang by learning how gravitational waves flow through planets and the gas between the galaxies.",
+    "domain": "sci.news",
+    "category": "science",
+    "link": "https://www.sci.news/physics/gravitational-wave-modes-11585.html",
+    "timestamp": 1674537585,
+    "published": "January 24, 2023 12:19 AM"
 }
 ```
 
