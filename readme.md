@@ -6,16 +6,16 @@
 - File Size: ~**13MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 25, 2023 12:10 AM
+- Updated: Jan 25, 2023 10:10 AM
 
 ```
 {
-    "title": "Physicists say they can better understand the state of the cosmos shortly after the Big Bang by learning how gravitational waves flow through planets and the gas between the galaxies.",
-    "domain": "sci.news",
-    "category": "science",
-    "link": "https://www.sci.news/physics/gravitational-wave-modes-11585.html",
-    "timestamp": 1674537585,
-    "published": "January 24, 2023 12:19 AM"
+    "title": "Reddit is letting go of employees in community management and other teams as it evaluates staff performance",
+    "domain": "archive.ph",
+    "category": "technology",
+    "link": "https://archive.ph/lRG17",
+    "timestamp": 1674623520,
+    "published": "January 25, 2023 12:12 AM"
 }
 ```
 
