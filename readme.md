@@ -6,16 +6,16 @@
 - File Size: ~**13MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 25, 2023 8:10 PM
+- Updated: Jan 26, 2023 6:10 AM
 
 ```
 {
-    "title": "Reddit is letting go of employees in community management and other teams as it evaluates staff performance",
-    "domain": "archive.ph",
-    "category": "technology",
-    "link": "https://archive.ph/lRG17",
-    "timestamp": 1674623520,
-    "published": "January 25, 2023 12:12 AM"
+    "title": "US Life Expectancy in 2021 Lowest Since 1996, according to recent article in JAMA",
+    "domain": "jamanetwork.com",
+    "category": "science",
+    "link": "https://jamanetwork.com/journals/jama/fullarticle/2800651",
+    "timestamp": 1674709211,
+    "published": "January 26, 2023 12:00 AM"
 }
 ```
 
