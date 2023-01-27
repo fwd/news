@@ -6,16 +6,16 @@
 - File Size: ~**13MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 27, 2023 2:10 AM
+- Updated: Jan 27, 2023 12:10 PM
 
 ```
 {
-    "title": "Researchers are a step closer to unravelling the mystery of brain activity to better understand, and predict, the outcomes of deep brain stimulation (DBS).",
-    "domain": "qbi.uq.edu.au",
-    "category": "science",
-    "link": "https://qbi.uq.edu.au/article/2023/01/new-technology-may-help-inform-brain-stimulation",
-    "timestamp": 1674795677,
-    "published": "January 27, 2023 12:01 AM"
+    "title": "Woman arrested for enrolling as New Jersey high school student",
+    "domain": "bbc.com",
+    "category": "news",
+    "link": "https://www.bbc.com/news/world-us-canada-64408449",
+    "timestamp": 1674796938,
+    "published": "January 27, 2023 12:22 AM"
 }
 ```
 
