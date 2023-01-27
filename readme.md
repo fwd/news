@@ -6,16 +6,16 @@
 - File Size: ~**13MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 26, 2023 4:10 PM
+- Updated: Jan 27, 2023 2:10 AM
 
 ```
 {
-    "title": "US Life Expectancy in 2021 Lowest Since 1996, according to recent article in JAMA",
-    "domain": "jamanetwork.com",
+    "title": "Researchers are a step closer to unravelling the mystery of brain activity to better understand, and predict, the outcomes of deep brain stimulation (DBS).",
+    "domain": "qbi.uq.edu.au",
     "category": "science",
-    "link": "https://jamanetwork.com/journals/jama/fullarticle/2800651",
-    "timestamp": 1674709211,
-    "published": "January 26, 2023 12:00 AM"
+    "link": "https://qbi.uq.edu.au/article/2023/01/new-technology-may-help-inform-brain-stimulation",
+    "timestamp": 1674795677,
+    "published": "January 27, 2023 12:01 AM"
 }
 ```
 
