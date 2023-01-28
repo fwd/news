@@ -6,16 +6,16 @@
 - File Size: ~**13MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 27, 2023 10:10 PM
+- Updated: Jan 28, 2023 8:10 AM
 
 ```
 {
-    "title": "Dutch hacker arrested for trying to sell the personal information of nearly every Austrian citizen",
-    "domain": "engadget.com",
-    "category": "technology",
-    "link": "https://www.engadget.com/austria-hack-data-every-citizen-214002660.html",
-    "timestamp": 1674797697,
-    "published": "January 27, 2023 12:34 AM"
+    "title": "Heroes and villains: Fascists now control Congress — we can't afford to pretend otherwise",
+    "domain": "salon.com",
+    "category": "politics",
+    "link": "https://www.salon.com/2023/01/17/heroes-and-villains-fascists-now-control-congress--we-cant-afford-to-pretend-otherwise/",
+    "timestamp": 1674882090,
+    "published": "January 28, 2023 12:01 AM"
 }
 ```
 
