@@ -1,21 +1,21 @@
 # Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 35k
+- Articles: 36k
 - File Type: JSON
 - File Size: ~**13MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 27, 2023 12:10 PM
+- Updated: Jan 27, 2023 10:10 PM
 
 ```
 {
-    "title": "Woman arrested for enrolling as New Jersey high school student",
-    "domain": "bbc.com",
-    "category": "news",
-    "link": "https://www.bbc.com/news/world-us-canada-64408449",
-    "timestamp": 1674796938,
-    "published": "January 27, 2023 12:22 AM"
+    "title": "Dutch hacker arrested for trying to sell the personal information of nearly every Austrian citizen",
+    "domain": "engadget.com",
+    "category": "technology",
+    "link": "https://www.engadget.com/austria-hack-data-every-citizen-214002660.html",
+    "timestamp": 1674797697,
+    "published": "January 27, 2023 12:34 AM"
 }
 ```
 
