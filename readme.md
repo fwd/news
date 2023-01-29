@@ -6,16 +6,16 @@
 - File Size: ~**13MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 28, 2023 6:10 PM
+- Updated: Jan 29, 2023 4:10 AM
 
 ```
 {
-    "title": "Heroes and villains: Fascists now control Congress — we can't afford to pretend otherwise",
-    "domain": "salon.com",
-    "category": "politics",
-    "link": "https://www.salon.com/2023/01/17/heroes-and-villains-fascists-now-control-congress--we-cant-afford-to-pretend-otherwise/",
-    "timestamp": 1674882090,
-    "published": "January 28, 2023 12:01 AM"
+    "title": "Rogue AI ‘could kill everyone,’ scientists warn as ChatGPT craze runs rampant",
+    "domain": "nypost.com",
+    "category": "technology",
+    "link": "https://nypost.com/2023/01/26/rogue-ai-could-kill-everyone-scientists-warn/?utm_source=url_sitebuttons&utm_medium=site%20buttons&utm_campaign=site%20buttons",
+    "timestamp": 1674968422,
+    "published": "January 29, 2023 12:00 AM"
 }
 ```
 
