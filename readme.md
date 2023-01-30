@@ -6,16 +6,16 @@
 - File Size: ~**13MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 30, 2023 4:40 AM
+- Updated: Jan 30, 2023 2:40 PM
 
 ```
 {
-    "title": "Chinese Search Giant Baidu to Launch ChatGPT-Style Bot",
-    "domain": "bloomberg.com",
-    "category": "technology",
-    "link": "https://www.bloomberg.com/news/articles/2023-01-30/chinese-search-giant-baidu-to-launch-chatgpt-style-bot-in-march",
-    "timestamp": 1675055110,
-    "published": "January 30, 2023 12:05 AM"
+    "title": "Lisa Loring, Wednesday in Original ‘Addams Family’ Series, Dies at 64",
+    "domain": "variety.com",
+    "category": "news",
+    "link": "https://variety.com/2023/tv/news/lisa-loring-dead-wednesday-addams-family-1235506117/",
+    "timestamp": 1675058140,
+    "published": "January 30, 2023 12:55 AM"
 }
 ```
 
