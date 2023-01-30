@@ -6,16 +6,16 @@
 - File Size: ~**13MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 29, 2023 6:40 PM
+- Updated: Jan 30, 2023 4:40 AM
 
 ```
 {
-    "title": "Rogue AI ‘could kill everyone,’ scientists warn as ChatGPT craze runs rampant",
-    "domain": "nypost.com",
+    "title": "Chinese Search Giant Baidu to Launch ChatGPT-Style Bot",
+    "domain": "bloomberg.com",
     "category": "technology",
-    "link": "https://nypost.com/2023/01/26/rogue-ai-could-kill-everyone-scientists-warn/?utm_source=url_sitebuttons&utm_medium=site%20buttons&utm_campaign=site%20buttons",
-    "timestamp": 1674968422,
-    "published": "January 29, 2023 12:00 AM"
+    "link": "https://www.bloomberg.com/news/articles/2023-01-30/chinese-search-giant-baidu-to-launch-chatgpt-style-bot-in-march",
+    "timestamp": 1675055110,
+    "published": "January 30, 2023 12:05 AM"
 }
 ```
 
