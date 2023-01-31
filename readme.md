@@ -6,16 +6,16 @@
 - File Size: ~**13MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 30, 2023 2:40 PM
+- Updated: Jan 31, 2023 12:40 AM
 
 ```
 {
-    "title": "Lisa Loring, Wednesday in Original ‘Addams Family’ Series, Dies at 64",
-    "domain": "variety.com",
-    "category": "news",
-    "link": "https://variety.com/2023/tv/news/lisa-loring-dead-wednesday-addams-family-1235506117/",
-    "timestamp": 1675058140,
-    "published": "January 30, 2023 12:55 AM"
+    "title": "Cybercrime groups offer six-figure salaries, bonuses, paid time off to attract talent on dark web",
+    "domain": "cyberscoop.com",
+    "category": "technology",
+    "link": "https://cyberscoop.com/cybercrime-groups-jobs-talent-dark-web/",
+    "timestamp": 1675142623,
+    "published": "January 31, 2023 12:23 AM"
 }
 ```
 
