@@ -6,16 +6,16 @@
 - File Size: ~**13MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 31, 2023 10:40 AM
+- Updated: Jan 31, 2023 8:40 PM
 
 ```
 {
-    "title": "'Shut this story down': Government released Robodebt victims' personal details to deter them from speaking out",
-    "domain": "abc.net.au",
-    "category": "worldnews",
-    "link": "https://www.abc.net.au/news/2023-01-31/qld-robodebt-scheme-government-royal-commission-alan-tudge/101910064?utm_campaign=abc_news_web&utm_content=link&utm_medium=content_shared&utm_source=abc_news_web",
-    "timestamp": 1675142475,
-    "published": "January 31, 2023 12:21 AM"
+    "title": "Activation Lock is a great feature, but needs a rethink as 2020 Macs are turned into landfill",
+    "domain": "9to5mac.com",
+    "category": "technology",
+    "link": "https://9to5mac.com/2023/01/27/2020-macs-landfill/",
+    "timestamp": 1675149199,
+    "published": "January 31, 2023 2:13 AM"
 }
 ```
 
