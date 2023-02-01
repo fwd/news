@@ -6,16 +6,16 @@
 - File Size: ~**13MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 31, 2023 8:40 PM
+- Updated: Feb 1, 2023 6:40 AM
 
 ```
 {
-    "title": "Activation Lock is a great feature, but needs a rethink as 2020 Macs are turned into landfill",
-    "domain": "9to5mac.com",
-    "category": "technology",
-    "link": "https://9to5mac.com/2023/01/27/2020-macs-landfill/",
-    "timestamp": 1675149199,
-    "published": "January 31, 2023 2:13 AM"
+    "title": "Ukraine to Hold its First Queer Film Festival",
+    "domain": "variety.com",
+    "category": "ukraine",
+    "link": "https://variety.com/2023/film/global/ukraine-queer-film-festival-1235507805/",
+    "timestamp": 1675230052,
+    "published": "February 1, 2023 12:40 AM"
 }
 ```
 
