@@ -6,16 +6,16 @@
 - File Size: ~**13MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 1, 2023 6:40 AM
+- Updated: Feb 1, 2023 4:40 PM
 
 ```
 {
-    "title": "Ukraine to Hold its First Queer Film Festival",
-    "domain": "variety.com",
-    "category": "ukraine",
-    "link": "https://variety.com/2023/film/global/ukraine-queer-film-festival-1235507805/",
-    "timestamp": 1675230052,
-    "published": "February 1, 2023 12:40 AM"
+    "title": "Planting more trees could axe summer deaths by a third. Modelling of 93 European cities finds that increasing tree cover up to 30% can help lower the temperature of urban environments by an average of 0.4°C and prevent one in three heat deaths as a result.",
+    "domain": "scimex.org",
+    "category": "science",
+    "link": "https://www.scimex.org/newsfeed/planting-more-trees-could-chop-down-summer-deaths-by-a-third",
+    "timestamp": 1675230957,
+    "published": "February 1, 2023 12:55 AM"
 }
 ```
 
