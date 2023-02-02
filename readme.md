@@ -3,19 +3,19 @@
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - Articles: 36k
 - File Type: JSON
-- File Size: ~**13MB**
+- File Size: ~**14MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 1, 2023 4:40 PM
+- Updated: Feb 2, 2023 2:40 AM
 
 ```
 {
-    "title": "Planting more trees could axe summer deaths by a third. Modelling of 93 European cities finds that increasing tree cover up to 30% can help lower the temperature of urban environments by an average of 0.4°C and prevent one in three heat deaths as a result.",
-    "domain": "scimex.org",
-    "category": "science",
-    "link": "https://www.scimex.org/newsfeed/planting-more-trees-could-chop-down-summer-deaths-by-a-third",
-    "timestamp": 1675230957,
-    "published": "February 1, 2023 12:55 AM"
+    "title": "Adoptee who was enslaved, starved, and beaten sues adopted family after final escape in 2018",
+    "domain": "nhpr.org",
+    "category": "news",
+    "link": "https://www.nhpr.org/nh-news/2023-02-01/lawsuit-alleges-nh-child-protection-agency-other-institutions-failed-to-intervene-in-alleged-child-abuse-slavery",
+    "timestamp": 1675314278,
+    "published": "February 2, 2023 12:04 AM"
 }
 ```
 
