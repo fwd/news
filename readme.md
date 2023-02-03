@@ -6,16 +6,16 @@
 - File Size: ~**14MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 3, 2023 8:40 AM
+- Updated: Feb 3, 2023 6:40 PM
 
 ```
 {
-    "title": "People under domestic violence orders can own guns -U.S. appeals court rules",
-    "domain": "reuters.com",
+    "title": "Greg Abbott insists there is \"plenty of power\" as 400,000 suffer outage",
+    "domain": "newsweek.com",
     "category": "politics",
-    "link": "https://www.reuters.com/world/us/people-under-domestic-violence-orders-can-own-guns-us-appeals-court-rules-2023-02-02/",
-    "timestamp": 1675400440,
-    "published": "February 3, 2023 12:00 AM"
+    "link": "https://www.newsweek.com/greg-abbott-power-outage-texas-ice-storm-1778522",
+    "timestamp": 1675403528,
+    "published": "February 3, 2023 12:52 AM"
 }
 ```
 
