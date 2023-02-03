@@ -6,16 +6,16 @@
 - File Size: ~**14MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 2, 2023 12:40 PM
+- Updated: Feb 2, 2023 10:40 PM
 
 ```
 {
-    "title": "'Looks like a felony': Elections expert says Kari Lake may have gone too far by tweeting voter signatures",
-    "domain": "12news.com",
-    "category": "politics",
-    "link": "https://www.12news.com/article/news/politics/elections-expert-says-kari-lake-may-have-gone-too-far-by-tweeting-voter-signatures/75-10e5b6d8-38e8-4cab-8a50-0f2dcea02221",
-    "timestamp": 1675316105,
-    "published": "February 2, 2023 12:35 AM"
+    "title": "Hacker Group Releases 128GB Of Data Showing Russia's 'Wide-Ranging' Illegal Surveillance Of Citizens",
+    "domain": "ibtimes.com",
+    "category": "worldnews",
+    "link": "https://www.ibtimes.com/hacker-group-releases-128gb-data-showing-russias-wide-ranging-illegal-surveillance-citizens-3663530",
+    "timestamp": 1675316199,
+    "published": "February 2, 2023 12:36 AM"
 }
 ```
 
