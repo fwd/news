@@ -6,16 +6,16 @@
 - File Size: ~**14MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 3, 2023 6:40 PM
+- Updated: Feb 4, 2023 4:40 AM
 
 ```
 {
-    "title": "Greg Abbott insists there is \"plenty of power\" as 400,000 suffer outage",
-    "domain": "newsweek.com",
-    "category": "politics",
-    "link": "https://www.newsweek.com/greg-abbott-power-outage-texas-ice-storm-1778522",
-    "timestamp": 1675403528,
-    "published": "February 3, 2023 12:52 AM"
+    "title": "Iran behind hack of French magazine Charlie Hebdo, Microsoft says",
+    "domain": "reuters.com",
+    "category": "news",
+    "link": "https://www.reuters.com/business/media-telecom/iran-behind-hack-french-magazine-charlie-hebdo-microsoft-says-2023-02-03/",
+    "timestamp": 1675487896,
+    "published": "February 4, 2023 12:18 AM"
 }
 ```
 
