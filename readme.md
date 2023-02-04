@@ -6,16 +6,16 @@
 - File Size: ~**14MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 4, 2023 4:40 AM
+- Updated: Feb 4, 2023 2:40 PM
 
 ```
 {
-    "title": "Iran behind hack of French magazine Charlie Hebdo, Microsoft says",
-    "domain": "reuters.com",
-    "category": "news",
-    "link": "https://www.reuters.com/business/media-telecom/iran-behind-hack-french-magazine-charlie-hebdo-microsoft-says-2023-02-03/",
-    "timestamp": 1675487896,
-    "published": "February 4, 2023 12:18 AM"
+    "title": "Brazil: Ally claims Bolsonaro plotted coup to block Lula presidency",
+    "domain": "apnews.com",
+    "category": "worldnews",
+    "link": "https://apnews.com/article/jair-bolsonaro-politics-brazil-government-florida-state-caribbean-a322d4dd311840120b3f296b363e550e",
+    "timestamp": 1675489248,
+    "published": "February 4, 2023 12:40 AM"
 }
 ```
 
