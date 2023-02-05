@@ -6,16 +6,16 @@
 - File Size: ~**14MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 4, 2023 2:40 PM
+- Updated: Feb 5, 2023 12:40 AM
 
 ```
 {
-    "title": "Brazil: Ally claims Bolsonaro plotted coup to block Lula presidency",
-    "domain": "apnews.com",
-    "category": "worldnews",
-    "link": "https://apnews.com/article/jair-bolsonaro-politics-brazil-government-florida-state-caribbean-a322d4dd311840120b3f296b363e550e",
-    "timestamp": 1675489248,
-    "published": "February 4, 2023 12:40 AM"
+    "title": "High glucose promotes regulatory T cell differentiation (Feb 2023)",
+    "domain": "journals.plos.org",
+    "category": "science",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280916",
+    "timestamp": 1675574473,
+    "published": "February 5, 2023 12:21 AM"
 }
 ```
 
