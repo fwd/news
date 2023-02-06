@@ -6,16 +6,16 @@
 - File Size: ~**14MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 6, 2023 6:40 AM
+- Updated: Feb 6, 2023 4:40 PM
 
 ```
 {
-    "title": "Tsunami alert issued in Italy after 7.8 magnitude earthquake hits Turkey",
-    "domain": "khaleejtimes.com",
-    "category": "worldnews",
-    "link": "https://www.khaleejtimes.com/world/tsunami-alert-issued-in-italy-after-7-8-magnitude-earthquake-hits-turkey",
-    "timestamp": 1675661623,
-    "published": "February 6, 2023 12:33 AM"
+    "title": "A systematic review and meta-analysis has concluded that increased consumption of dietary carbohydrate intake is associated with increased risk of cardiovascular disease, stroke, and all-cause mortality.",
+    "domain": "clinicalnutritionjournal.com",
+    "category": "science",
+    "link": "https://www.clinicalnutritionjournal.com/article/S0261-5614(22)00438-1/fulltext",
+    "timestamp": 1675665649,
+    "published": "February 6, 2023 1:40 AM"
 }
 ```
 
