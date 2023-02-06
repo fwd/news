@@ -6,16 +6,16 @@
 - File Size: ~**14MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 5, 2023 8:40 PM
+- Updated: Feb 6, 2023 6:40 AM
 
 ```
 {
-    "title": "High glucose promotes regulatory T cell differentiation (Feb 2023)",
-    "domain": "journals.plos.org",
-    "category": "science",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280916",
-    "timestamp": 1675574473,
-    "published": "February 5, 2023 12:21 AM"
+    "title": "Tsunami alert issued in Italy after 7.8 magnitude earthquake hits Turkey",
+    "domain": "khaleejtimes.com",
+    "category": "worldnews",
+    "link": "https://www.khaleejtimes.com/world/tsunami-alert-issued-in-italy-after-7-8-magnitude-earthquake-hits-turkey",
+    "timestamp": 1675661623,
+    "published": "February 6, 2023 12:33 AM"
 }
 ```
 
