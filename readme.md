@@ -6,16 +6,16 @@
 - File Size: ~**14MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 7, 2023 2:40 AM
+- Updated: Feb 7, 2023 12:40 PM
 
 ```
 {
-    "title": "New global modelling predicts the devastating socioeconomic impacts of future extreme coastal flooding for developing nations caused by climate change, with Asia, West Africa and Egypt facing severe costs in the coming decades",
-    "domain": "frontiersin.org",
-    "category": "science",
-    "link": "https://www.frontiersin.org/articles/10.3389/fmars.2022.1024111/full",
-    "timestamp": 1675747034,
-    "published": "February 7, 2023 12:17 AM"
+    "title": "Amazon Ordered to Pay $5 Million After Over a Thousand Injuries Involving Ontario Warehouse Workers | New workplace injury data shows Amazon warehouses in Ontario were linked to over 1,300 injuries last year",
+    "domain": "pressprogress.ca",
+    "category": "technology",
+    "link": "https://pressprogress.ca/amazon-ordered-to-pay-5-million-after-over-a-thousand-injuries-involving-ontario-warehouse-workers/",
+    "timestamp": 1675747133,
+    "published": "February 7, 2023 12:18 AM"
 }
 ```
 
