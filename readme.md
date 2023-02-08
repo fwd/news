@@ -6,24 +6,20 @@
 - File Size: ~**14MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 8, 2023 10:29 AM
+- Updated: Feb 8, 2023 6:40 PM
 
 ```
 {
-    "title": "Sweep in 3 Special Elections Gives Democrats Control of Pennsylvania House",
-    "domain": "nytimes.com",
-    "category": "politics",
-    "link": "https://www.nytimes.com/2023/02/07/us/politics/pennsylvania-house-democrats-special-elections.html",
-    "timestamp": 1675832683,
-    "published": "February 8, 2023 12:04 AM"
+    "title": "Trump shares photos of DeSantis alleging he partied and drank with high school girls when he was a teacher",
+    "domain": "businessinsider.com",
+    "category": "florida",
+    "link": "https://www.businessinsider.com/trump-shares-photos-of-desantis-alleging-partied-with-high-schoolers-2023-2",
+    "timestamp": 1675833977,
+    "published": "February 8, 2023 12:26 AM"
 }
 ```
 
 ---
-
-### Visualization
-
-![https://raw.githubusercontent.com/fwd/news/master/charts/chart-1.png](https://raw.githubusercontent.com/fwd/news/master/charts/chart-1.png)
 
 ### Contact 
 
