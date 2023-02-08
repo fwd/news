@@ -6,16 +6,16 @@
 - File Size: ~**14MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 7, 2023 10:40 PM
+- Updated: Feb 8, 2023 8:40 AM
 
 ```
 {
-    "title": "Amazon Ordered to Pay $5 Million After Over a Thousand Injuries Involving Ontario Warehouse Workers | New workplace injury data shows Amazon warehouses in Ontario were linked to over 1,300 injuries last year",
-    "domain": "pressprogress.ca",
-    "category": "technology",
-    "link": "https://pressprogress.ca/amazon-ordered-to-pay-5-million-after-over-a-thousand-injuries-involving-ontario-warehouse-workers/",
-    "timestamp": 1675747133,
-    "published": "February 7, 2023 12:18 AM"
+    "title": "Sweep in 3 Special Elections Gives Democrats Control of Pennsylvania House",
+    "domain": "nytimes.com",
+    "category": "politics",
+    "link": "https://www.nytimes.com/2023/02/07/us/politics/pennsylvania-house-democrats-special-elections.html",
+    "timestamp": 1675832683,
+    "published": "February 8, 2023 12:04 AM"
 }
 ```
 
