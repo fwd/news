@@ -46,6 +46,10 @@ ${JSON.stringify(_.first(dataset), null, 4)}
 
 ---
 
+### Visualization
+
+![https://raw.githubusercontent.com/fwd/news/master/charts/chart-1.png](https://raw.githubusercontent.com/fwd/news/master/charts/chart-1.png)
+
 ### Contact 
 
 Twitter: [@nano2dev](https://twitter.com/nano2dev)
