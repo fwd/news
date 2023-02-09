@@ -1,21 +1,21 @@
 # Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 37k
+- Articles: 38k
 - File Type: JSON
 - File Size: ~**14MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 8, 2023 6:40 PM
+- Updated: Feb 9, 2023 4:40 AM
 
 ```
 {
-    "title": "Trump shares photos of DeSantis alleging he partied and drank with high school girls when he was a teacher",
-    "domain": "businessinsider.com",
-    "category": "florida",
-    "link": "https://www.businessinsider.com/trump-shares-photos-of-desantis-alleging-partied-with-high-schoolers-2023-2",
-    "timestamp": 1675833977,
-    "published": "February 8, 2023 12:26 AM"
+    "title": "Australia to remove over 200 Chinese-made cameras from defence sites",
+    "domain": "hongkongfp.com",
+    "category": "worldnews",
+    "link": "https://hongkongfp.com/2023/02/09/australia-to-remove-over-200-chinese-made-cameras-from-defence-sites/",
+    "timestamp": 1675919257,
+    "published": "February 9, 2023 12:07 AM"
 }
 ```
 
