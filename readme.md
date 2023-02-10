@@ -6,16 +6,16 @@
 - File Size: ~**14MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 10, 2023 12:40 AM
+- Updated: Feb 10, 2023 10:40 AM
 
 ```
 {
-    "title": "CNN: SpaceX admits blocking Ukrainian troops from using satellite technology",
-    "domain": "edition.cnn.com",
-    "category": "technology",
-    "link": "https://edition.cnn.com/2023/02/09/politics/spacex-ukrainian-troops-satellite-technology/index.html",
-    "timestamp": 1676005435,
-    "published": "February 10, 2023 12:03 AM"
+    "title": "Macron considers stripping Putin of French Legion of Honor medal after giving the same medal to Zelenskyy",
+    "domain": "france24.com",
+    "category": "worldnews",
+    "link": "https://www.france24.com/en/france/20230210-macron-considers-stripping-putin-of-french-legion-of-honour-medal",
+    "timestamp": 1676005932,
+    "published": "February 10, 2023 12:12 AM"
 }
 ```
 
