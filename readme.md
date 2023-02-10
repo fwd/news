@@ -6,16 +6,16 @@
 - File Size: ~**14MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 9, 2023 2:40 PM
+- Updated: Feb 10, 2023 12:40 AM
 
 ```
 {
-    "title": "Australia to remove over 200 Chinese-made cameras from defence sites",
-    "domain": "hongkongfp.com",
-    "category": "worldnews",
-    "link": "https://hongkongfp.com/2023/02/09/australia-to-remove-over-200-chinese-made-cameras-from-defence-sites/",
-    "timestamp": 1675919257,
-    "published": "February 9, 2023 12:07 AM"
+    "title": "CNN: SpaceX admits blocking Ukrainian troops from using satellite technology",
+    "domain": "edition.cnn.com",
+    "category": "technology",
+    "link": "https://edition.cnn.com/2023/02/09/politics/spacex-ukrainian-troops-satellite-technology/index.html",
+    "timestamp": 1676005435,
+    "published": "February 10, 2023 12:03 AM"
 }
 ```
 
