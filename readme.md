@@ -6,16 +6,16 @@
 - File Size: ~**14MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 6, 2023 5:35 PM
+- Updated: Mar 7, 2023 5:36 AM
 
 ```
 {
-    "title": "Bangladesh investigates huge fire at world's largest refugee camp",
-    "domain": "bbc.com",
+    "title": "IAEA chief doubles down against potential Israeli strikes on Iran",
+    "domain": "jpost.com",
     "category": "news",
-    "link": "https://www.bbc.com/news/world-asia-64858932",
-    "timestamp": 1678088068,
-    "published": "March 6, 2023 2:34 AM"
+    "link": "https://www.jpost.com/middle-east/article-733496",
+    "timestamp": 1678165916,
+    "published": "March 7, 2023 12:11 AM"
 }
 ```
 
