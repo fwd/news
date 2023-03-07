@@ -6,16 +6,16 @@
 - File Size: ~**14MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 7, 2023 5:36 AM
+- Updated: Mar 7, 2023 5:36 PM
 
 ```
 {
-    "title": "IAEA chief doubles down against potential Israeli strikes on Iran",
-    "domain": "jpost.com",
+    "title": "Solo treks in Nepal will not be allowed after April 2023",
+    "domain": "heavenhimalaya.com",
     "category": "news",
-    "link": "https://www.jpost.com/middle-east/article-733496",
-    "timestamp": 1678165916,
-    "published": "March 7, 2023 12:11 AM"
+    "link": "https://heavenhimalaya.com/solo-treks-in-nepal-will-no-longer-be-allowed/",
+    "timestamp": 1678168871,
+    "published": "March 7, 2023 1:01 AM"
 }
 ```
 
