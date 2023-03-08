@@ -6,16 +6,16 @@
 - File Size: ~**14MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 7, 2023 5:36 PM
+- Updated: Mar 8, 2023 5:36 AM
 
 ```
 {
-    "title": "Solo treks in Nepal will not be allowed after April 2023",
-    "domain": "heavenhimalaya.com",
-    "category": "news",
-    "link": "https://heavenhimalaya.com/solo-treks-in-nepal-will-no-longer-be-allowed/",
-    "timestamp": 1678168871,
-    "published": "March 7, 2023 1:01 AM"
+    "title": "Ukraine Wants U.S. Cluster Bombs But Not For What You Think. Ukraine is asking the U.S. for Mk 20 Rockeye cluster bombs to dissect and use its submunitions for a unique purpose.",
+    "domain": "thedrive.com",
+    "category": "ukraine",
+    "link": "https://www.thedrive.com/the-war-zone/ukraine-wants-u-s-cluster-bombs-but-not-for-what-you-think",
+    "timestamp": 1678253705,
+    "published": "March 8, 2023 12:35 AM"
 }
 ```
 
