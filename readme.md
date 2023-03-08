@@ -6,16 +6,16 @@
 - File Size: ~**14MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 8, 2023 5:36 AM
+- Updated: Mar 8, 2023 5:36 PM
 
 ```
 {
-    "title": "Ukraine Wants U.S. Cluster Bombs But Not For What You Think. Ukraine is asking the U.S. for Mk 20 Rockeye cluster bombs to dissect and use its submunitions for a unique purpose.",
-    "domain": "thedrive.com",
-    "category": "ukraine",
-    "link": "https://www.thedrive.com/the-war-zone/ukraine-wants-u-s-cluster-bombs-but-not-for-what-you-think",
-    "timestamp": 1678253705,
-    "published": "March 8, 2023 12:35 AM"
+    "title": "FBI tested by attacks, politically explosive investigations",
+    "domain": "apnews.com",
+    "category": "news",
+    "link": "https://apnews.com/article/fbi-trump-wray-biden-classified-documents-833e12a2c57cf289d61238127172a6a5",
+    "timestamp": 1678254888,
+    "published": "March 8, 2023 12:54 AM"
 }
 ```
 
