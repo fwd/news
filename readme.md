@@ -6,16 +6,16 @@
 - File Size: ~**14MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 8, 2023 5:36 PM
+- Updated: Mar 9, 2023 5:36 AM
 
 ```
 {
-    "title": "FBI tested by attacks, politically explosive investigations",
-    "domain": "apnews.com",
-    "category": "news",
-    "link": "https://apnews.com/article/fbi-trump-wray-biden-classified-documents-833e12a2c57cf289d61238127172a6a5",
-    "timestamp": 1678254888,
-    "published": "March 8, 2023 12:54 AM"
+    "title": "Iran sent Russia over 100 million rounds of ammo, plans to send more - report",
+    "domain": "jpost.com",
+    "category": "worldnews",
+    "link": "https://www.jpost.com/international/article-733767",
+    "timestamp": 1678338038,
+    "published": "March 9, 2023 12:00 AM"
 }
 ```
 
