@@ -6,16 +6,16 @@
 - File Size: ~**14MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 9, 2023 5:36 PM
+- Updated: Mar 10, 2023 5:36 AM
 
 ```
 {
-    "title": "Iran sent Russia over 100 million rounds of ammo, plans to send more - report",
-    "domain": "jpost.com",
-    "category": "worldnews",
-    "link": "https://www.jpost.com/international/article-733767",
-    "timestamp": 1678338038,
-    "published": "March 9, 2023 12:00 AM"
+    "title": "An AI-guided screen identifies probucol as an enhancer of mitophagy through modulation of lipid droplets (Mar 2023)",
+    "domain": "journals.plos.org",
+    "category": "science",
+    "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001977",
+    "timestamp": 1678424774,
+    "published": "March 10, 2023 12:06 AM"
 }
 ```
 
