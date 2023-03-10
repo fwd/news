@@ -6,16 +6,16 @@
 - File Size: ~**14MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 10, 2023 5:36 AM
+- Updated: Mar 10, 2023 5:36 PM
 
 ```
 {
-    "title": "An AI-guided screen identifies probucol as an enhancer of mitophagy through modulation of lipid droplets (Mar 2023)",
-    "domain": "journals.plos.org",
-    "category": "science",
-    "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001977",
-    "timestamp": 1678424774,
-    "published": "March 10, 2023 12:06 AM"
+    "title": "House Republicans refuse to join Democrats in denouncing white supremacy",
+    "domain": "thehill.com",
+    "category": "politics",
+    "link": "https://thehill.com/homenews/house/3892824-house-republicans-refuse-to-join-democrats-in-denouncing-white-supremacy/",
+    "timestamp": 1678428846,
+    "published": "March 10, 2023 1:14 AM"
 }
 ```
 
