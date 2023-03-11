@@ -6,16 +6,16 @@
 - File Size: ~**14MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 10, 2023 5:36 PM
+- Updated: Mar 11, 2023 5:36 AM
 
 ```
 {
-    "title": "House Republicans refuse to join Democrats in denouncing white supremacy",
-    "domain": "thehill.com",
-    "category": "politics",
-    "link": "https://thehill.com/homenews/house/3892824-house-republicans-refuse-to-join-democrats-in-denouncing-white-supremacy/",
-    "timestamp": 1678428846,
-    "published": "March 10, 2023 1:14 AM"
+    "title": "Podcaster and husband allegedly killed by stalker in Washington state",
+    "domain": "theguardian.com",
+    "category": "news",
+    "link": "https://www.theguardian.com/us-news/2023/mar/10/podcaster-husband-killed-alleged-stalker-washington-state",
+    "timestamp": 1678511064,
+    "published": "March 11, 2023 12:04 AM"
 }
 ```
 
