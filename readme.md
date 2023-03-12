@@ -6,16 +6,16 @@
 - File Size: ~**14MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 11, 2023 5:36 PM
+- Updated: Mar 12, 2023 6:36 AM
 
 ```
 {
-    "title": "Podcaster and husband allegedly killed by stalker in Washington state",
-    "domain": "theguardian.com",
-    "category": "news",
-    "link": "https://www.theguardian.com/us-news/2023/mar/10/podcaster-husband-killed-alleged-stalker-washington-state",
-    "timestamp": 1678511064,
-    "published": "March 11, 2023 12:04 AM"
+    "title": "Rights experts ‘deeply disturbed’ by Russian Wagner Group recruitment of prisoners",
+    "domain": "news.un.org",
+    "category": "worldnews",
+    "link": "https://news.un.org/en/story/2023/03/1134447",
+    "timestamp": 1678598936,
+    "published": "March 12, 2023 12:28 AM"
 }
 ```
 
