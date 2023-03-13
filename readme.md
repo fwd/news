@@ -6,16 +6,16 @@
 - File Size: ~**14MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 12, 2023 6:36 PM
+- Updated: Mar 13, 2023 6:36 AM
 
 ```
 {
-    "title": "Rights experts ‘deeply disturbed’ by Russian Wagner Group recruitment of prisoners",
-    "domain": "news.un.org",
-    "category": "worldnews",
-    "link": "https://news.un.org/en/story/2023/03/1134447",
-    "timestamp": 1678598936,
-    "published": "March 12, 2023 12:28 AM"
+    "title": "Physical Constraints on Unidentified Aerial Phenomena",
+    "domain": "lweb.cfa.harvard.edu",
+    "category": "science",
+    "link": "https://lweb.cfa.harvard.edu/~loeb/LK1.pdf",
+    "timestamp": 1678680851,
+    "published": "March 13, 2023 12:14 AM"
 }
 ```
 
