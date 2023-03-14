@@ -6,16 +6,16 @@
 - File Size: ~**14MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 13, 2023 6:36 PM
+- Updated: Mar 14, 2023 6:36 AM
 
 ```
 {
-    "title": "Insurers slashed Hurricane Ian payouts far below damage estimates, documents and insiders reveal",
-    "domain": "washingtonpost.com",
-    "category": "news",
-    "link": "https://www.washingtonpost.com/climate-environment/2023/03/11/florida-insurance-claims-hurricane-ian/?fbclid=IwAR2GuacWmEkdiUXPgJex5MinwC7HV1RjsD6leS-ULfEaWf-sVJgG_Em-rIg",
-    "timestamp": 1678682927,
-    "published": "March 13, 2023 12:48 AM"
+    "title": "Skunks found dead in Metro Vancouver had avian flu: government",
+    "domain": "vancouversun.com",
+    "category": "worldnews",
+    "link": "https://vancouversun.com/news/local-news/metro-vancouver-dead-skunks-avian-flu",
+    "timestamp": 1678767097,
+    "published": "March 14, 2023 12:11 AM"
 }
 ```
 
