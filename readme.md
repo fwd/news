@@ -6,16 +6,16 @@
 - File Size: ~**14MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 15, 2023 6:36 AM
+- Updated: Mar 15, 2023 6:36 PM
 
 ```
 {
-    "title": "State Lawmaker Opposed to Free School Lunch Proposal Says He's Never Met a Hungry Minnesotan",
-    "domain": "nbcwashington.com",
+    "title": "Nebraska lawmaker 3 weeks into filibuster over trans bill",
+    "domain": "apnews.com",
     "category": "politics",
-    "link": "https://www.nbcwashington.com/news/national-international/state-lawmaker-opposed-to-free-school-lunch-proposal-says-hes-never-met-a-hungry-minnesotan/3302590/",
-    "timestamp": 1678853201,
-    "published": "March 15, 2023 12:06 AM"
+    "link": "https://apnews.com/article/filibuster-transgender-gender-affirming-therapy-bill-nebraska-cavanaugh-b9018fd1bf72112ca984ff58679eda6d",
+    "timestamp": 1678855351,
+    "published": "March 15, 2023 12:42 AM"
 }
 ```
 
