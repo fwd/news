@@ -6,16 +6,16 @@
 - File Size: ~**14MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 16, 2023 6:36 AM
+- Updated: Mar 16, 2023 6:36 PM
 
 ```
 {
-    "title": "Russian hackers targeted European military and transport organizations in newly discovered spying campaign",
-    "domain": "cnn.com",
+    "title": "50,000 teachers strike in New Zealand over cost of living",
+    "domain": "bangkokpost.com",
     "category": "worldnews",
-    "link": "https://www.cnn.com/2023/03/15/politics/russian-hackers-europe-military-organizations-microsoft/index.html",
-    "timestamp": 1678939713,
-    "published": "March 16, 2023 12:08 AM"
+    "link": "https://www.bangkokpost.com/world/2529336/50-000-teachers-strike-in-new-zealand-over-cost-of-living",
+    "timestamp": 1678945583,
+    "published": "March 16, 2023 1:46 AM"
 }
 ```
 
