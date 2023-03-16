@@ -6,16 +6,16 @@
 - File Size: ~**14MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 15, 2023 6:36 PM
+- Updated: Mar 16, 2023 6:36 AM
 
 ```
 {
-    "title": "Nebraska lawmaker 3 weeks into filibuster over trans bill",
-    "domain": "apnews.com",
-    "category": "politics",
-    "link": "https://apnews.com/article/filibuster-transgender-gender-affirming-therapy-bill-nebraska-cavanaugh-b9018fd1bf72112ca984ff58679eda6d",
-    "timestamp": 1678855351,
-    "published": "March 15, 2023 12:42 AM"
+    "title": "Russian hackers targeted European military and transport organizations in newly discovered spying campaign",
+    "domain": "cnn.com",
+    "category": "worldnews",
+    "link": "https://www.cnn.com/2023/03/15/politics/russian-hackers-europe-military-organizations-microsoft/index.html",
+    "timestamp": 1678939713,
+    "published": "March 16, 2023 12:08 AM"
 }
 ```
 
