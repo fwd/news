@@ -3,19 +3,19 @@
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - Articles: 39k
 - File Type: JSON
-- File Size: ~**14MB**
+- File Size: ~**15MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 16, 2023 6:36 PM
+- Updated: Mar 17, 2023 6:36 AM
 
 ```
 {
-    "title": "50,000 teachers strike in New Zealand over cost of living",
-    "domain": "bangkokpost.com",
-    "category": "worldnews",
-    "link": "https://www.bangkokpost.com/world/2529336/50-000-teachers-strike-in-new-zealand-over-cost-of-living",
-    "timestamp": 1678945583,
-    "published": "March 16, 2023 1:46 AM"
+    "title": "French police use batons, tear gas in Paris amid pension protests | Protests News",
+    "domain": "aljazeera.com",
+    "category": "news",
+    "link": "https://www.aljazeera.com/news/2023/3/16/macron-forces-through-pension-reform-shunning-parliament",
+    "timestamp": 1679025897,
+    "published": "March 17, 2023 12:04 AM"
 }
 ```
 
