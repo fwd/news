@@ -6,16 +6,16 @@
 - File Size: ~**15MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 17, 2023 6:36 AM
+- Updated: Mar 17, 2023 6:36 PM
 
 ```
 {
-    "title": "French police use batons, tear gas in Paris amid pension protests | Protests News",
-    "domain": "aljazeera.com",
-    "category": "news",
-    "link": "https://www.aljazeera.com/news/2023/3/16/macron-forces-through-pension-reform-shunning-parliament",
-    "timestamp": 1679025897,
-    "published": "March 17, 2023 12:04 AM"
+    "title": "One dose of psychedelics can result in belief changes about the supernatural or non-physical world",
+    "domain": "psypost.org",
+    "category": "science",
+    "link": "https://www.psypost.org/2023/03/one-dose-of-psychedelics-can-result-in-belief-changes-about-the-supernatural-or-non-physical-world-69976",
+    "timestamp": 1679028676,
+    "published": "March 17, 2023 12:51 AM"
 }
 ```
 
