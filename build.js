@@ -38,7 +38,8 @@ module.exports = (dataset) => {
 - File Size: ~**${Math.floor(dataset.size)}MB**
 - Sources: ${nFormatter(domains.length)}
 - Categories: ${nFormatter(categories.length)}
-- Updated: ${dataset.timestamp}
+- Oldest: ${_.last(dataset).timestamp}
+- Latest: ${dataset.timestamp}
 
 \`\`\`
 ${JSON.stringify(_.first(dataset), null, 4)}
@@ -46,9 +47,10 @@ ${JSON.stringify(_.first(dataset), null, 4)}
 
 ---
 
-### Visualization (Coming Soon)
+### Charts (Beta)
 
 ![https://raw.githubusercontent.com/fwd/news/master/charts/chart-1.png](https://raw.githubusercontent.com/fwd/news/master/charts/chart-1.png)
+![https://raw.githubusercontent.com/fwd/news/master/charts/chart-2.png](https://raw.githubusercontent.com/fwd/news/master/charts/chart-2.png)
 
 ### Contact 
 
