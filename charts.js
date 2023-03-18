@@ -10,7 +10,7 @@ async function chart(dataset, filepath, options) {
     "options": {
       "title": {
         "display": true,
-        "text": options && options.title ? options.title : "Chart.js Line Chart"
+        "text": options && options.title ? options.title : "Line Chart"
       },
       "scales": {
         "xAxes": [
@@ -26,7 +26,7 @@ async function chart(dataset, filepath, options) {
             "stacked": true,
             "scaleLabel": {
               "display": true,
-              "labelString": "Value"
+              "labelString": options && options.value ? options.value : "Headlines"
             }
           }
         ]
