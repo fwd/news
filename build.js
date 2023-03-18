@@ -52,9 +52,11 @@ ${JSON.stringify(_.first(dataset), null, 4)}
 
 ### Charts (Beta)
 
-${fs.readdirSync('./charts', { withFileTypes: true })
+${
+  fs.readdirSync('./charts', { withFileTypes: true })
 .filter(item => !item.isDirectory())
-.map(item => item.name).join((a, i) => `![https://raw.githubusercontent.com/fwd/news/master/charts/chart-${i + 1}.png](https://raw.githubusercontent.com/fwd/news/master/charts/chart-${i + 1}.png)`)}
+.map(item => item.name).join((a, i) => `![https://raw.githubusercontent.com/fwd/news/master/charts/chart-${i + 1}.png](https://raw.githubusercontent.com/fwd/news/master/charts/chart-${i + 1}.png)`)
+}
 
 ### Contact 
 

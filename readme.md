@@ -23,19 +23,6 @@
 
 ### Visualization (Coming Soon)
 
-${
-
-const testFolder = './tests/';
-const fs = require('fs');
-
-fs.readdir(testFolder, (err, files) => {
-  files.forEach(file => {
-    console.log(file);
-  });
-});
-
-}
-
 ![https://raw.githubusercontent.com/fwd/news/master/charts/chart-1.png](https://raw.githubusercontent.com/fwd/news/master/charts/chart-1.png)
 ![https://raw.githubusercontent.com/fwd/news/master/charts/chart-2.png](https://raw.githubusercontent.com/fwd/news/master/charts/chart-2.png)
 ![https://raw.githubusercontent.com/fwd/news/master/charts/chart-3.png](https://raw.githubusercontent.com/fwd/news/master/charts/chart-3.png)
