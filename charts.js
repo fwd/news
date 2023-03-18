@@ -149,29 +149,29 @@ var run = async () => {
     ]
   }, `./charts/chart-${index}.png`, { title: 'Negativity in Headlines', label: 'Years', value: 'Sentiment' })
 
-  await chart({
-    "labels": Object.keys(mentioned('January 6')),
-    "datasets": [
-      {
-        "label": "Headlines",
-        "borderColor": "rgb(255,+99,+132)",
-        "backgroundColor": "rgba(255,+99,+132,+.5)",
-        "data": Object.values(mentioned('January 6'))
-      },
-    ]
-  }, `./charts/chart-${index}.png`, { title: 'Mentioned \'January 6\' (Years)', label: 'Years' })
+  // await chart({
+  //   "labels": Object.keys(mentioned('January 6')),
+  //   "datasets": [
+  //     {
+  //       "label": "Headlines",
+  //       "borderColor": "rgb(255,+99,+132)",
+  //       "backgroundColor": "rgba(255,+99,+132,+.5)",
+  //       "data": Object.values(mentioned('January 6'))
+  //     },
+  //   ]
+  // }, `./charts/chart-${index}.png`, { title: 'Mentioned \'January 6\' (Years)', label: 'Years' })
 
-  await chart({
-    "labels": Object.keys(mentioned('MAGA')),
-    "datasets": [
-      {
-        "label": "Headlines",
-        "borderColor": "rgb(255,+99,+132)",
-        "backgroundColor": "rgba(255,+99,+132,+.5)",
-        "data": Object.values(mentioned('MAGA'))
-      },
-    ]
-  }, `./charts/chart-${index}.png`, { title: 'Mentioned \'MAGA\' (Years)', label: 'Years' })
+  // await chart({
+  //   "labels": Object.keys(mentioned('MAGA')),
+  //   "datasets": [
+  //     {
+  //       "label": "Headlines",
+  //       "borderColor": "rgb(255,+99,+132)",
+  //       "backgroundColor": "rgba(255,+99,+132,+.5)",
+  //       "data": Object.values(mentioned('MAGA'))
+  //     },
+  //   ]
+  // }, `./charts/chart-${index}.png`, { title: 'Mentioned \'MAGA\' (Years)', label: 'Years' })
 
   await chart({
     "labels": Object.keys(mentioned('trump')),
@@ -233,17 +233,17 @@ var run = async () => {
     ]
   }, `./charts/chart-${index}.png`, { title: 'Mentioned \'Microplastics\' (Years)', label: 'Years' })
 
-  await chart({
-    "labels": Object.keys(mentioned('Doomsday')),
-    "datasets": [
-      {
-        "label": "Headlines",
-        "borderColor": "rgb(255,+99,+132)",
-        "backgroundColor": "rgba(255,+99,+132,+.5)",
-        "data": Object.values(mentioned('doomsday'))
-      },
-    ]
-  }, `./charts/chart-${index}.png`, { title: 'Mentioned \'Doomsday\' (Years)', label: 'Years' })
+  // await chart({
+  //   "labels": Object.keys(mentioned('Doomsday')),
+  //   "datasets": [
+  //     {
+  //       "label": "Headlines",
+  //       "borderColor": "rgb(255,+99,+132)",
+  //       "backgroundColor": "rgba(255,+99,+132,+.5)",
+  //       "data": Object.values(mentioned('doomsday'))
+  //     },
+  //   ]
+  // }, `./charts/chart-${index}.png`, { title: 'Mentioned \'Doomsday\' (Years)', label: 'Years' })
 
 }
 
