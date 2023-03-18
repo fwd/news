@@ -147,7 +147,7 @@ var run = async () => {
         "data": Object.values(negativity_count)
       },
     ]
-  }, `./charts/chart-${index}.png`, { title: 'Negativity in Headlines', label: 'Years', value: 'Sentiment' })
+  }, `./charts/chart-${index}.png`, { title: 'Negativity in Titles', label: 'Years', value: 'Sentiment' })
 
   // await chart({
   //   "labels": Object.keys(mentioned('January 6')),
@@ -208,6 +208,18 @@ var run = async () => {
       },
     ]
   }, `./charts/chart-${index}.png`, { title: 'Mentioned \'Ukraine\' (Years)', label: 'Years' })
+
+  await chart({
+    "labels": Object.keys(mentioned('Myanmar')),
+    "datasets": [
+      {
+        "label": "Headlines",
+        "borderColor": "rgb(255,+99,+132)",
+        "backgroundColor": "rgba(255,+99,+132,+.5)",
+        "data": Object.values(mentioned('ukraine'))
+      },
+    ]
+  }, `./charts/chart-${index}.png`, { title: 'Mentioned \'Myanmar\' (Years)', label: 'Years' })
 
   await chart({
     "labels": Object.keys(mentioned('nuclear')),
