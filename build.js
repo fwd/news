@@ -1,6 +1,9 @@
+const fs = require('fs')
+const server = require('@fwd/server')
 const moment = require('moment')
 const _ = require('lodash')
 const charts = require('./charts')
+const dataset = require('./headlines.json')
 
 moment.suppressDeprecationWarnings = true;
 
@@ -21,7 +24,9 @@ function nFormatter(num, digits) {
   return item ? (num / item.value).toFixed(digits).replace(rx, "$1") + item.symbol : "0";
 }
 
-async function build(dataset) {
+const charts_files = fs.readdirSync('./charts', { withFileTypes: true }).filter(item => !item.isDirectory()).map(item => item.name)
+
+async function build() {
 
     var dates = _.uniq(dataset.map(a => moment(a.published)))
     var minDate = moment.min(dates).format('LL')
@@ -41,8 +46,8 @@ async function build(dataset) {
 - File Size: ~**${Math.floor(dataset.size)}MB**
 - Sources: ${nFormatter(domains.length)}
 - Categories: ${nFormatter(categories.length)}
-- Oldest: ${_.last(dataset).timestamp}
-- Latest: ${dataset.timestamp}
+- Oldest: ${_.last(dataset).published}
+- Newest: ${_.first(dataset).published}
 
 \`\`\`
 ${JSON.stringify(_.first(dataset), null, 4)}
@@ -52,11 +57,7 @@ ${JSON.stringify(_.first(dataset), null, 4)}
 
 ### Charts (Beta)
 
-${
-  fs.readdirSync('./charts', { withFileTypes: true })
-.filter(item => !item.isDirectory())
-.map(item => item.name).join((a, i) => `![https://raw.githubusercontent.com/fwd/news/master/charts/chart-${i + 1}.png](https://raw.githubusercontent.com/fwd/news/master/charts/chart-${i + 1}.png)`)
-}
+${ charts_files.map((a, i) => `![https://raw.githubusercontent.com/fwd/news/master/charts/chart-${i + 1}.png](https://raw.githubusercontent.com/fwd/news/master/charts/chart-${i + 1}.png)`).join('\n') }
 
 ### Contact 
 
@@ -71,7 +72,7 @@ Twitter: [@nano2dev](https://twitter.com/nano2dev)
 
 if (require.main === module) {
   ;(async () => {
-    await build()
+    await server.write('./readme.md', await build())
   })()
 } else {
   module.exports = build
