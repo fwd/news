@@ -1,10 +1,12 @@
 const moment = require('moment')
+const fs = require('fs')
 const ChartJSImage = require('chart.js-image')
 const headlines = require('./headlines.json')
 
 var Sentiment = require('sentiment');
 var sentiment = new Sentiment();
 
+var index = 1
 
 async function chart(dataset, filepath, options) {
 
@@ -41,6 +43,8 @@ async function chart(dataset, filepath, options) {
   .width(options && options.width ? options.width : 500) // 500px
   .height(options && options.height ? options.height : 300); // 300px
 
+  index++
+
   return (await line_chart.toFile(filepath)) 
 
 }
@@ -48,12 +52,20 @@ async function chart(dataset, filepath, options) {
 var keywords = ['Trump']
 
 var year_count = {}
-var headline_count = {}
 
 var months = [ "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
 
+var headline_count_last = {}
 for (var month of months) {
   var year = '2022'
+  headline_count_last[month] = headlines.filter(a => {
+    return moment(a.timestamp * 1000).format('YYYY') === year && moment(a.timestamp * 1000).format('MMMM') == month
+  }).length
+}
+
+var headline_count = {}
+for (var month of months) {
+  var year = '2023'
   headline_count[month] = headlines.filter(a => {
     return moment(a.timestamp * 1000).format('YYYY') === year && moment(a.timestamp * 1000).format('MMMM') == month
   }).length
@@ -74,7 +86,7 @@ for (var year of years) {
   // year_count[year] = headlines.filter(a => moment(a.timestamp * 1000).format('YYYY') === year).length
 }
 
-mentioned(keyword) {
+function mentioned(keyword) {
 
   var mention = {}
   
@@ -98,8 +110,7 @@ var run = async () => {
         "data": Object.values(year_count)
       },
     ]
-  }, './charts/chart-1.png', { title: 'Headlines over Years', label: 'Years' })
-
+  }, `./charts/chart-${index}.png`, { title: 'Headlines over Years', label: 'Years' })
 
   await chart({
     "labels": Object.keys(headline_count),
@@ -113,6 +124,19 @@ var run = async () => {
     ]
   }, './charts/chart-2.png', { title: 'Headlines in 2023' })
 
+ await chart({
+    "labels": Object.keys(headline_count_last),
+    "datasets": [
+      {
+        "label": "Headlines",
+        "borderColor": "rgb(255,+99,+132)",
+        "backgroundColor": "rgba(255,+99,+132,+.5)",
+        "data": Object.values(headline_count_last)
+      },
+    ]
+  }, './charts/chart-2.png', { title: 'Headlines in 2022' })
+
+
   await chart({
     "labels": Object.keys(negativity_count),
     "datasets": [
@@ -123,31 +147,55 @@ var run = async () => {
         "data": Object.values(negativity_count)
       },
     ]
-  }, './charts/chart-3.png', { title: 'Negativity in Headlines', label: 'Years', value: 'Sentiment' })
+  }, `./charts/chart-${index}.png`, { title: 'Negativity in Headlines', label: 'Years', value: 'Sentiment' })
 
   await chart({
-    "labels": Object.keys(mention_trump),
+    "labels": Object.keys(mentioned('January 6')),
     "datasets": [
       {
         "label": "Headlines",
         "borderColor": "rgb(255,+99,+132)",
         "backgroundColor": "rgba(255,+99,+132,+.5)",
-        "data": Object.values(mention_trump)
+        "data": Object.values(mentioned('January 6'))
       },
     ]
-  }, './charts/chart-4.png', { title: 'Mentioned \'Trump\' (Years)', label: 'Years' })
+  }, `./charts/chart-${index}.png`, { title: 'Mentioned \'January 6\' (Years)', label: 'Years' })
 
   await chart({
-    "labels": Object.keys(mention_putin),
+    "labels": Object.keys(mentioned('MAGA')),
     "datasets": [
       {
         "label": "Headlines",
         "borderColor": "rgb(255,+99,+132)",
         "backgroundColor": "rgba(255,+99,+132,+.5)",
-        "data": Object.values(mention_putin)
+        "data": Object.values(mentioned('MAGA'))
       },
     ]
-  }, './charts/chart-5.png', { title: 'Mentioned \'Putin\' (Years)', label: 'Years' })
+  }, `./charts/chart-${index}.png`, { title: 'Mentioned \'MAGA\' (Years)', label: 'Years' })
+
+  await chart({
+    "labels": Object.keys(mentioned('trump')),
+    "datasets": [
+      {
+        "label": "Headlines",
+        "borderColor": "rgb(255,+99,+132)",
+        "backgroundColor": "rgba(255,+99,+132,+.5)",
+        "data": Object.values(mentioned('trump'))
+      },
+    ]
+  }, `./charts/chart-${index}.png`, { title: 'Mentioned \'Trump\' (Years)', label: 'Years' })
+
+  await chart({
+    "labels": Object.keys(mentioned('putin')),
+    "datasets": [
+      {
+        "label": "Headlines",
+        "borderColor": "rgb(255,+99,+132)",
+        "backgroundColor": "rgba(255,+99,+132,+.5)",
+        "data": Object.values(mentioned('putin'))
+      },
+    ]
+  }, `./charts/chart-${index}.png`, { title: 'Mentioned \'Putin\' (Years)', label: 'Years' })
 
   await chart({
     "labels": Object.keys(mentioned('ukraine')),
@@ -159,7 +207,43 @@ var run = async () => {
         "data": Object.values(mentioned('ukraine'))
       },
     ]
-  }, './charts/chart-6.png', { title: 'Mentioned \'Ukraine\' (Years)', label: 'Years' })
+  }, `./charts/chart-${index}.png`, { title: 'Mentioned \'Ukraine\' (Years)', label: 'Years' })
+
+  await chart({
+    "labels": Object.keys(mentioned('nuclear')),
+    "datasets": [
+      {
+        "label": "Headlines",
+        "borderColor": "rgb(255,+99,+132)",
+        "backgroundColor": "rgba(255,+99,+132,+.5)",
+        "data": Object.values(mentioned('nuclear'))
+      },
+    ]
+  }, `./charts/chart-${index}.png`, { title: 'Mentioned \'Nuclear\' (Years)', label: 'Years' })
+
+  await chart({
+    "labels": Object.keys(mentioned('microplastics')),
+    "datasets": [
+      {
+        "label": "Headlines",
+        "borderColor": "rgb(255,+99,+132)",
+        "backgroundColor": "rgba(255,+99,+132,+.5)",
+        "data": Object.values(mentioned('microplastics'))
+      },
+    ]
+  }, `./charts/chart-${index}.png`, { title: 'Mentioned \'Microplastics\' (Years)', label: 'Years' })
+
+  await chart({
+    "labels": Object.keys(mentioned('Doomsday')),
+    "datasets": [
+      {
+        "label": "Headlines",
+        "borderColor": "rgb(255,+99,+132)",
+        "backgroundColor": "rgba(255,+99,+132,+.5)",
+        "data": Object.values(mentioned('doomsday'))
+      },
+    ]
+  }, `./charts/chart-${index}.png`, { title: 'Mentioned \'Doomsday\' (Years)', label: 'Years' })
 
 }
 

@@ -52,8 +52,9 @@ ${JSON.stringify(_.first(dataset), null, 4)}
 
 ### Charts (Beta)
 
-![https://raw.githubusercontent.com/fwd/news/master/charts/chart-1.png](https://raw.githubusercontent.com/fwd/news/master/charts/chart-1.png)
-![https://raw.githubusercontent.com/fwd/news/master/charts/chart-2.png](https://raw.githubusercontent.com/fwd/news/master/charts/chart-2.png)
+${fs.readdirSync('./charts', { withFileTypes: true })
+.filter(item => !item.isDirectory())
+.map(item => item.name).join((a, i) => `![https://raw.githubusercontent.com/fwd/news/master/charts/chart-${i + 1}.png](https://raw.githubusercontent.com/fwd/news/master/charts/chart-${i + 1}.png)`)}
 
 ### Contact 
 
