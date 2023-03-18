@@ -59,7 +59,7 @@ for (var month of months) {
   }).length
 }
 
-var years = ["2018", "2019", "2020", "2021", "2022", "2023", "2024"]
+var years = ["2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024"]
 
 for (var year of years) {
   year_count[year] = headlines.filter(a => moment(a.timestamp * 1000).format('YYYY') === year).length
