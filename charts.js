@@ -69,8 +69,8 @@ module.exports = async () => {
     "datasets": [
       {
         "label": "Headlines",
-        "borderColor": "rgb(255,+99,+132)",
-        "backgroundColor": "rgba(255,+99,+132,+.5)",
+        "borderColor": "#3498db",
+        "backgroundColor": "#3498db",
         "data": Object.values(year_count)
       },
     ]
@@ -82,8 +82,8 @@ module.exports = async () => {
     "datasets": [
       {
         "label": "Headlines",
-        "borderColor": "rgb(255,+99,+132)",
-        "backgroundColor": "rgba(255,+99,+132,+.5)",
+        "borderColor": "#3498db",
+        "backgroundColor": "#3498db",
         "data": Object.values(headline_count)
       },
     ]
