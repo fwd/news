@@ -74,25 +74,16 @@ for (var year of years) {
   // year_count[year] = headlines.filter(a => moment(a.timestamp * 1000).format('YYYY') === year).length
 }
 
-var mention_trump = {}
+mentioned(keyword) {
 
-for (var year of years) {
-  mention_trump[year] = headlines.filter(a => moment(a.timestamp * 1000).format('YYYY') === year && a.title.toLowerCase().includes('trump')).length
-  // year_count[year] = headlines.filter(a => moment(a.timestamp * 1000).format('YYYY') === year).length
-}
+  var mention = {}
+  
+  for (var year of years) {
+    mention[year] = headlines.filter(a => moment(a.timestamp * 1000).format('YYYY') === year && a.title.toLowerCase().includes(keyword.toLowerCase())).length
+  }
 
-var mention_putin = {}
+  return mention
 
-for (var year of years) {
-  mention_putin[year] = headlines.filter(a => moment(a.timestamp * 1000).format('YYYY') === year && a.title.toLowerCase().includes('putin')).length
-  // year_count[year] = headlines.filter(a => moment(a.timestamp * 1000).format('YYYY') === year).length
-}
-
-var mention_ukraine = {}
-
-for (var year of years) {
-  mention_ukraine[year] = headlines.filter(a => moment(a.timestamp * 1000).format('YYYY') === year && a.title.toLowerCase().includes('ukraine')).length
-  // year_count[year] = headlines.filter(a => moment(a.timestamp * 1000).format('YYYY') === year).length
 }
 
 var run = async () => {
@@ -101,13 +92,13 @@ var run = async () => {
     "labels": Object.keys(year_count),
     "datasets": [
       {
-        "label": "Headlines",
+        "label": "",
         "borderColor": "rgb(255,+99,+132)",
         "backgroundColor": "rgba(255,+99,+132,+.5)",
         "data": Object.values(year_count)
       },
     ]
-  }, './charts/chart-1.png', { title: 'Dataset Timeline', label: 'Years' })
+  }, './charts/chart-1.png', { title: 'Headlines over Years', label: 'Years' })
 
 
   await chart({
@@ -120,7 +111,7 @@ var run = async () => {
         "data": Object.values(headline_count)
       },
     ]
-  }, './charts/chart-2.png', { title: 'Headlines (2023)' })
+  }, './charts/chart-2.png', { title: 'Headlines in 2023' })
 
   await chart({
     "labels": Object.keys(negativity_count),
@@ -132,7 +123,7 @@ var run = async () => {
         "data": Object.values(negativity_count)
       },
     ]
-  }, './charts/chart-3.png', { title: 'Negativity in Headlines (Years)', label: 'Years', value: 'Sentiment' })
+  }, './charts/chart-3.png', { title: 'Negativity in Headlines', label: 'Years', value: 'Sentiment' })
 
   await chart({
     "labels": Object.keys(mention_trump),
@@ -144,7 +135,7 @@ var run = async () => {
         "data": Object.values(mention_trump)
       },
     ]
-  }, './charts/chart-4.png', { title: 'Mention \'Trump\' (Years)', label: 'Years' })
+  }, './charts/chart-4.png', { title: 'Mentioned \'Trump\' (Years)', label: 'Years' })
 
   await chart({
     "labels": Object.keys(mention_putin),
@@ -156,19 +147,19 @@ var run = async () => {
         "data": Object.values(mention_putin)
       },
     ]
-  }, './charts/chart-5.png', { title: 'Mention \'Putin\' (Years)', label: 'Years' })
+  }, './charts/chart-5.png', { title: 'Mentioned \'Putin\' (Years)', label: 'Years' })
 
   await chart({
-    "labels": Object.keys(mention_ukraine),
+    "labels": Object.keys(mentioned('ukraine')),
     "datasets": [
       {
         "label": "Headlines",
         "borderColor": "rgb(255,+99,+132)",
         "backgroundColor": "rgba(255,+99,+132,+.5)",
-        "data": Object.values(mention_ukraine)
+        "data": Object.values(mentioned('ukraine'))
       },
     ]
-  }, './charts/chart-6.png', { title: 'Mention \'Ukraine\' (Years)', label: 'Years' })
+  }, './charts/chart-6.png', { title: 'Mentioned \'Ukraine\' (Years)', label: 'Years' })
 
 }
 
