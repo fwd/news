@@ -25,6 +25,10 @@
 
 ![https://raw.githubusercontent.com/fwd/news/master/charts/chart-1.png](https://raw.githubusercontent.com/fwd/news/master/charts/chart-1.png)
 ![https://raw.githubusercontent.com/fwd/news/master/charts/chart-2.png](https://raw.githubusercontent.com/fwd/news/master/charts/chart-2.png)
+![https://raw.githubusercontent.com/fwd/news/master/charts/chart-3.png](https://raw.githubusercontent.com/fwd/news/master/charts/chart-3.png)
+![https://raw.githubusercontent.com/fwd/news/master/charts/chart-4.png](https://raw.githubusercontent.com/fwd/news/master/charts/chart-4.png)
+![https://raw.githubusercontent.com/fwd/news/master/charts/chart-5.png](https://raw.githubusercontent.com/fwd/news/master/charts/chart-5.png)
+![https://raw.githubusercontent.com/fwd/news/master/charts/chart-6.png](https://raw.githubusercontent.com/fwd/news/master/charts/chart-6.png)
 
 ### Contact 
 
