@@ -6,16 +6,16 @@
 - File Size: ~**15MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 17, 2023 6:36 PM
+- Updated: Mar 18, 2023 6:36 AM
 
 ```
 {
-    "title": "One dose of psychedelics can result in belief changes about the supernatural or non-physical world",
-    "domain": "psypost.org",
+    "title": "Negativity drives online news consumption",
+    "domain": "nature.com",
     "category": "science",
-    "link": "https://www.psypost.org/2023/03/one-dose-of-psychedelics-can-result-in-belief-changes-about-the-supernatural-or-non-physical-world-69976",
-    "timestamp": 1679028676,
-    "published": "March 17, 2023 12:51 AM"
+    "link": "https://www.nature.com/articles/s41562-023-01538-4",
+    "timestamp": 1679112397,
+    "published": "March 18, 2023 12:06 AM"
 }
 ```
 
