@@ -21,7 +21,7 @@ function nFormatter(num, digits) {
   return item ? (num / item.value).toFixed(digits).replace(rx, "$1") + item.symbol : "0";
 }
 
-module.exports = async (dataset) => {
+async function build(dataset) {
 
     var dates = _.uniq(dataset.map(a => moment(a.published)))
     var minDate = moment.min(dates).format('LL')
@@ -66,4 +66,13 @@ Twitter: [@nano2dev](https://twitter.com/nano2dev)
 
 [![Stargazers over time](https://starchart.cc/fwd/news.svg)](https://starchart.cc/fwd/news)
 `
+}
+
+
+if (require.main === module) {
+  ;(async () => {
+    await build()
+  })()
+} else {
+  module.exports = build
 }
