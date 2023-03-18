@@ -11,7 +11,7 @@
 
 ```
 {
-    "title": "Negativity drives online news consumption.",
+    "title": "Negativity drives online news consumption",
     "domain": "nature.com",
     "category": "science",
     "link": "https://www.nature.com/articles/s41562-023-01538-4",

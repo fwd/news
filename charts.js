@@ -216,7 +216,7 @@ var run = async () => {
         "label": "Headlines",
         "borderColor": "rgb(255,+99,+132)",
         "backgroundColor": "rgba(255,+99,+132,+.5)",
-        "data": Object.values(mentioned('ukraine'))
+        "data": Object.values(mentioned('Myanmar'))
       },
     ]
   }, `./charts/chart-${index}.png`, { title: 'Mentioned \'Myanmar\' (Years)', label: 'Years' })
