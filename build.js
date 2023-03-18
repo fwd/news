@@ -1,5 +1,6 @@
 const moment = require('moment')
 const _ = require('lodash')
+const charts = require('./charts')
 
 moment.suppressDeprecationWarnings = true;
 
@@ -20,7 +21,7 @@ function nFormatter(num, digits) {
   return item ? (num / item.value).toFixed(digits).replace(rx, "$1") + item.symbol : "0";
 }
 
-module.exports = (dataset) => {
+module.exports = async (dataset) => {
 
     var dates = _.uniq(dataset.map(a => moment(a.published)))
     var minDate = moment.min(dates).format('LL')
@@ -29,6 +30,8 @@ module.exports = (dataset) => {
 
     var domains = _.uniq(dataset.map(a => a.domain))
     var categories = _.uniq(dataset.map(a => a.category))
+
+    await charts()
 
 	return `# Headline Dataset
 

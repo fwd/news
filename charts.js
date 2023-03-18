@@ -61,29 +61,32 @@ for (var year of years) {
   year_count[year] = headlines.filter(a => moment(a.timestamp * 1000).format('YYYY') === year).length
 }
 
-chart({
-  "labels": Object.keys(year_count),
-  "datasets": [
-    {
-      "label": "Headlines",
-      "borderColor": "rgb(255,+99,+132)",
-      "backgroundColor": "rgba(255,+99,+132,+.5)",
-      "data": Object.values(year_count)
-    },
-  ]
-}, './charts/chart-1.png', { title: 'Dataset Timeline' })
+
+module.exports = async () => {
+
+  await chart({
+    "labels": Object.keys(year_count),
+    "datasets": [
+      {
+        "label": "Headlines",
+        "borderColor": "rgb(255,+99,+132)",
+        "backgroundColor": "rgba(255,+99,+132,+.5)",
+        "data": Object.values(year_count)
+      },
+    ]
+  }, './charts/chart-1.png', { title: 'Dataset Timeline' })
 
 
-chart({
-  "labels": Object.keys(headline_count),
-  "datasets": [
-    {
-      "label": "Headlines",
-      "borderColor": "rgb(255,+99,+132)",
-      "backgroundColor": "rgba(255,+99,+132,+.5)",
-      "data": Object.values(headline_count)
-    },
-  ]
-}, './charts/chart-2.png', { title: 'Headlines (2023)' })
+  await chart({
+    "labels": Object.keys(headline_count),
+    "datasets": [
+      {
+        "label": "Headlines",
+        "borderColor": "rgb(255,+99,+132)",
+        "backgroundColor": "rgba(255,+99,+132,+.5)",
+        "data": Object.values(headline_count)
+      },
+    ]
+  }, './charts/chart-2.png', { title: 'Headlines (2023)' })
 
-// module.exports = chart
+}
