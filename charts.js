@@ -122,7 +122,7 @@ var run = async () => {
         "data": Object.values(headline_count)
       },
     ]
-  }, './charts/chart-2.png', { title: 'Headlines in 2023' })
+  }, `./charts/chart-${index}.png`, { title: 'Headlines in 2023' })
 
  await chart({
     "labels": Object.keys(headline_count_last),
@@ -134,7 +134,7 @@ var run = async () => {
         "data": Object.values(headline_count_last)
       },
     ]
-  }, './charts/chart-2.png', { title: 'Headlines in 2022' })
+  }, `./charts/chart-${index}.png`, { title: 'Headlines in 2022' })
 
 
   await chart({
