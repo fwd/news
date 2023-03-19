@@ -6,16 +6,16 @@
 - File Size: ~**15MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 18, 2023 6:36 PM
+- Updated: Mar 19, 2023 6:36 AM
 
 ```
 {
-    "title": "Negativity drives online news consumption",
-    "domain": "nature.com",
-    "category": "science",
-    "link": "https://www.nature.com/articles/s41562-023-01538-4",
-    "timestamp": 1679112397,
-    "published": "March 18, 2023 12:06 AM"
+    "title": "US fighter pilot moved to a maximum security jail in regional NSW for allegedly helping train Chinese military pilots",
+    "domain": "amp.abc.net.au",
+    "category": "worldnews",
+    "link": "https://amp.abc.net.au/article/102115720",
+    "timestamp": 1679209384,
+    "published": "March 19, 2023 3:03 AM"
 }
 ```
 
