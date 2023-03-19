@@ -38,6 +38,11 @@ async function build() {
 
     await charts()
 
+    var stats = fs.statSync('./headlines.json')
+    var fileSizeInBytes = stats.size;
+    dataset.size = fileSizeInBytes / (1024*1024);
+
+
 	return `# Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
