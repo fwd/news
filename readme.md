@@ -6,16 +6,16 @@
 - File Size: ~**15MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 19, 2023 6:36 PM
+- Updated: Mar 20, 2023 6:36 AM
 
 ```
 {
-    "title": "US fighter pilot moved to a maximum security jail in regional NSW for allegedly helping train Chinese military pilots",
-    "domain": "amp.abc.net.au",
-    "category": "worldnews",
-    "link": "https://amp.abc.net.au/article/102115720",
-    "timestamp": 1679209384,
-    "published": "March 19, 2023 3:03 AM"
+    "title": "A US veteran joined Ukraine's International Legion, then made a shock defection to Russia. Ex-comrades say he was incompetent and left behind a trail of chaos.",
+    "domain": "yahoo.com",
+    "category": "ukraine",
+    "link": "https://www.yahoo.com/news/us-veteran-joined-ukraines-international-125326530.html",
+    "timestamp": 1679284890,
+    "published": "March 20, 2023 12:01 AM"
 }
 ```
 
