@@ -6,16 +6,16 @@
 - File Size: ~**15MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 20, 2023 6:36 AM
+- Updated: Mar 20, 2023 6:36 PM
 
 ```
 {
-    "title": "A US veteran joined Ukraine's International Legion, then made a shock defection to Russia. Ex-comrades say he was incompetent and left behind a trail of chaos.",
-    "domain": "yahoo.com",
+    "title": "Czech President believes Ukraine has one attempt to carry out major counteroffensive",
+    "domain": "kyivindependent.com",
     "category": "ukraine",
-    "link": "https://www.yahoo.com/news/us-veteran-joined-ukraines-international-125326530.html",
-    "timestamp": 1679284890,
-    "published": "March 20, 2023 12:01 AM"
+    "link": "https://kyivindependent.com/news-feed/czech-president-believes-ukraine-has-one-attempt-to-carry-out-major-counteroffensive",
+    "timestamp": 1679300268,
+    "published": "March 20, 2023 4:17 AM"
 }
 ```
 
