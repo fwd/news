@@ -1,21 +1,21 @@
 # Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 39k
+- Articles: 40k
 - File Type: JSON
 - File Size: ~**15MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 21, 2023 6:36 AM
+- Updated: Mar 21, 2023 6:36 PM
 
 ```
 {
-    "title": "Murder victim left in shopping cart at California grocery store for 2 days",
-    "domain": "actionnewsnow.com",
-    "category": "news",
-    "link": "https://www.actionnewsnow.com/news/crime/suspect-in-chico-shopping-cart-murder-arrested/article_c0ab2762-c749-11ed-923f-2f7be0928334.html",
-    "timestamp": 1679371418,
-    "published": "March 21, 2023 12:03 AM"
+    "title": "Japanese leader heading to Ukraine for talks with Zelenskyy",
+    "domain": "politico.com",
+    "category": "worldnews",
+    "link": "https://www.politico.com/news/2023/03/20/japan-ukraine-kishida-zelenskyy-00088025",
+    "timestamp": 1679374866,
+    "published": "March 21, 2023 1:01 AM"
 }
 ```
 
