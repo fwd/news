@@ -6,16 +6,16 @@
 - File Size: ~**15MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 21, 2023 6:36 PM
+- Updated: Mar 22, 2023 6:36 AM
 
 ```
 {
-    "title": "Japanese leader heading to Ukraine for talks with Zelenskyy",
-    "domain": "politico.com",
+    "title": "Ukraine clinches $15.6 billion IMF loan, a first for nation at war",
+    "domain": "business-standard.com",
     "category": "worldnews",
-    "link": "https://www.politico.com/news/2023/03/20/japan-ukraine-kishida-zelenskyy-00088025",
-    "timestamp": 1679374866,
-    "published": "March 21, 2023 1:01 AM"
+    "link": "https://www.business-standard.com/article/international/ukraine-clinches-15-6-billion-imf-loan-a-first-for-nation-at-war-123032200131_1.html",
+    "timestamp": 1679459285,
+    "published": "March 22, 2023 12:28 AM"
 }
 ```
 
