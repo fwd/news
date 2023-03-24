@@ -6,16 +6,16 @@
 - File Size: ~**15MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 24, 2023 6:36 AM
+- Updated: Mar 24, 2023 6:36 PM
 
 ```
 {
-    "title": "Bordeaux town hall set on fire in France pension protests",
-    "domain": "bbc.co.uk",
-    "category": "worldnews",
-    "link": "https://www.bbc.co.uk/news/world-europe-65057249",
-    "timestamp": 1679632291,
-    "published": "March 24, 2023 12:31 AM"
+    "title": "Russia can't meet India arms deliveries due to Ukraine war, Indian Air Force says | CNN",
+    "domain": "cnn.com",
+    "category": "news",
+    "link": "https://www.cnn.com/2023/03/24/india/india-russia-arms-delivery-ukraine-war-intl-hnk/index.html",
+    "timestamp": 1679645617,
+    "published": "March 24, 2023 4:13 AM"
 }
 ```
 
