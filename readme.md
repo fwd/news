@@ -6,16 +6,16 @@
 - File Size: ~**15MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 23, 2023 6:36 PM
+- Updated: Mar 24, 2023 6:36 AM
 
 ```
 {
-    "title": "China's military says US warship illegally entered waters in South China Sea",
-    "domain": "reuters.com",
+    "title": "Bordeaux town hall set on fire in France pension protests",
+    "domain": "bbc.co.uk",
     "category": "worldnews",
-    "link": "https://www.reuters.com/world/china/chinas-military-says-us-warship-illegally-entered-waters-south-china-sea-2023-03-23/",
-    "timestamp": 1679544483,
-    "published": "March 23, 2023 12:08 AM"
+    "link": "https://www.bbc.co.uk/news/world-europe-65057249",
+    "timestamp": 1679632291,
+    "published": "March 24, 2023 12:31 AM"
 }
 ```
 
