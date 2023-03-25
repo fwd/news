@@ -6,16 +6,16 @@
 - File Size: ~**15MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 24, 2023 6:36 PM
+- Updated: Mar 25, 2023 6:36 AM
 
 ```
 {
-    "title": "Russia can't meet India arms deliveries due to Ukraine war, Indian Air Force says | CNN",
+    "title": "Scientists create mice from two dads after making eggs from skin cells | CNN",
     "domain": "cnn.com",
     "category": "news",
-    "link": "https://www.cnn.com/2023/03/24/india/india-russia-arms-delivery-ukraine-war-intl-hnk/index.html",
-    "timestamp": 1679645617,
-    "published": "March 24, 2023 4:13 AM"
+    "link": "https://www.cnn.com/2023/03/24/world/mice-eggs-from-male-cells-scn/index.html",
+    "timestamp": 1679717829,
+    "published": "March 25, 2023 12:17 AM"
 }
 ```
 
