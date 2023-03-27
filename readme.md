@@ -6,16 +6,16 @@
 - File Size: ~**15MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 26, 2023 6:36 PM
+- Updated: Mar 27, 2023 6:36 AM
 
 ```
 {
-    "title": "Erdoğan calls for ‘immediate’ end to war in Ukraine during call with Putin",
-    "domain": "thehill.com",
-    "category": "worldnews",
-    "link": "https://thehill.com/policy/international/3918463-erdogan-calls-for-immediate-end-to-war-in-ukraine-during-call-with-putin/",
-    "timestamp": 1679803570,
-    "published": "March 26, 2023 12:06 AM"
+    "title": "Official: Number of Russian troops in Belarus decreases to around 4,000",
+    "domain": "kyivindependent.com",
+    "category": "ukraine",
+    "link": "https://kyivindependent.com/official-number-of-russian-troops-in-belarus-decreases-to-around-4-000/",
+    "timestamp": 1679890458,
+    "published": "March 27, 2023 12:14 AM"
 }
 ```
 
