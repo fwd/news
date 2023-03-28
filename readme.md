@@ -6,16 +6,16 @@
 - File Size: ~**15MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 27, 2023 6:36 PM
+- Updated: Mar 28, 2023 6:36 AM
 
 ```
 {
-    "title": "Twitter source code leaked online, court filings show",
-    "domain": "cnbc.com",
-    "category": "news",
-    "link": "https://www.cnbc.com/2023/03/26/twitter-source-code-leaked-online-court-filings-show-.html",
-    "timestamp": 1679894218,
-    "published": "March 27, 2023 1:16 AM"
+    "title": "North Korean defectors are dying lonely deaths in wealthy South Korea",
+    "domain": "japantimes.co.jp",
+    "category": "worldnews",
+    "link": "https://www.japantimes.co.jp/news/2023/03/28/asia-pacific/north-korean-defectors-lonely-death/",
+    "timestamp": 1679976701,
+    "published": "March 28, 2023 12:11 AM"
 }
 ```
 
