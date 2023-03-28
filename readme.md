@@ -6,16 +6,16 @@
 - File Size: ~**15MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 28, 2023 6:36 AM
+- Updated: Mar 28, 2023 6:36 PM
 
 ```
 {
-    "title": "North Korean defectors are dying lonely deaths in wealthy South Korea",
-    "domain": "japantimes.co.jp",
-    "category": "worldnews",
-    "link": "https://www.japantimes.co.jp/news/2023/03/28/asia-pacific/north-korean-defectors-lonely-death/",
-    "timestamp": 1679976701,
-    "published": "March 28, 2023 12:11 AM"
+    "title": "First-ever detection of thermal emission from a rocky, temperate planet suggests that exoplanet TRAPPIST-1b has no significant atmosphere",
+    "domain": "nasa.gov",
+    "category": "science",
+    "link": "https://www.nasa.gov/feature/goddard/2023/nasa-s-webb-measures-the-temperature-of-a-rocky-exoplanet",
+    "timestamp": 1679977242,
+    "published": "March 28, 2023 12:20 AM"
 }
 ```
 
