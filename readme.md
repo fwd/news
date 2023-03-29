@@ -6,16 +6,16 @@
 - File Size: ~**15MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 28, 2023 6:36 PM
+- Updated: Mar 29, 2023 6:36 AM
 
 ```
 {
-    "title": "First-ever detection of thermal emission from a rocky, temperate planet suggests that exoplanet TRAPPIST-1b has no significant atmosphere",
-    "domain": "nasa.gov",
-    "category": "science",
-    "link": "https://www.nasa.gov/feature/goddard/2023/nasa-s-webb-measures-the-temperature-of-a-rocky-exoplanet",
-    "timestamp": 1679977242,
-    "published": "March 28, 2023 12:20 AM"
+    "title": "Tucker Carlson Claims ‘Trans Movement Is Targeting Christians’ Amid Calls for Gun Control; LGBTQ people are in fact far more often likely to be the victims of targeted mass violence than perpetrators",
+    "domain": "rollingstone.com",
+    "category": "politics",
+    "link": "https://www.rollingstone.com/politics/politics-news/tucker-carlson-claims-trans-movement-targeting-christians-gun-control-1234705347/",
+    "timestamp": 1680063762,
+    "published": "March 29, 2023 12:22 AM"
 }
 ```
 
