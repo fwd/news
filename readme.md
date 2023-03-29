@@ -6,16 +6,16 @@
 - File Size: ~**15MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 29, 2023 6:36 AM
+- Updated: Mar 29, 2023 6:36 PM
 
 ```
 {
-    "title": "Tucker Carlson Claims ‘Trans Movement Is Targeting Christians’ Amid Calls for Gun Control; LGBTQ people are in fact far more often likely to be the victims of targeted mass violence than perpetrators",
-    "domain": "rollingstone.com",
+    "title": "Video Parkland dad calls for nationwide education strike after Nashville massacre",
+    "domain": "abcnews.go.com",
     "category": "politics",
-    "link": "https://www.rollingstone.com/politics/politics-news/tucker-carlson-claims-trans-movement-targeting-christians-gun-control-1234705347/",
-    "timestamp": 1680063762,
-    "published": "March 29, 2023 12:22 AM"
+    "link": "https://abcnews.go.com/US/video/parkland-dad-calls-nationwide-education-strike-after-nashville-98189225",
+    "timestamp": 1680065944,
+    "published": "March 29, 2023 12:59 AM"
 }
 ```
 
