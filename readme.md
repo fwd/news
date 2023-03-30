@@ -1,21 +1,21 @@
 # Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 40k
+- Articles: 41k
 - File Type: JSON
 - File Size: ~**15MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 29, 2023 6:36 PM
+- Updated: Mar 30, 2023 6:36 AM
 
 ```
 {
-    "title": "Video Parkland dad calls for nationwide education strike after Nashville massacre",
-    "domain": "abcnews.go.com",
-    "category": "politics",
-    "link": "https://abcnews.go.com/US/video/parkland-dad-calls-nationwide-education-strike-after-nashville-98189225",
-    "timestamp": 1680065944,
-    "published": "March 29, 2023 12:59 AM"
+    "title": "Trump Asks Advisers for ‘Battle Plans’ to ‘Attack Mexico’ if Reelected",
+    "domain": "ca.yahoo.com",
+    "category": "worldnews",
+    "link": "https://ca.yahoo.com/news/trump-asks-advisers-battle-plans-000000835.html",
+    "timestamp": 1680149741,
+    "published": "March 30, 2023 12:15 AM"
 }
 ```
 
