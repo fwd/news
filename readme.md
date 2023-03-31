@@ -6,16 +6,16 @@
 - File Size: ~**15MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Mar 31, 2023 6:36 AM
+- Updated: Mar 31, 2023 6:36 PM
 
 ```
 {
-    "title": "The capabilities of Russia are limited: the spring conscription may hinder Russia from replenishing its military units in Ukraine - Родинний затишок",
-    "domain": "zatuschok.com",
-    "category": "worldnews",
-    "link": "https://www.zatuschok.com/7868/",
-    "timestamp": 1680236278,
-    "published": "March 31, 2023 12:17 AM"
+    "title": "BPD is linked to structural and functional abnormalities due to trauma",
+    "domain": "researchgate.net",
+    "category": "science",
+    "link": "https://www.researchgate.net/publication/369602736_The_Role_of_the_Hippocampus_in_Borderline_Personality_Disorder_Structural_and_Functional_Abnormalities",
+    "timestamp": 1680242473,
+    "published": "March 31, 2023 2:01 AM"
 }
 ```
 
