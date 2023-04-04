@@ -6,16 +6,16 @@
 - File Size: ~**15MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 4, 2023 6:36 AM
+- Updated: Apr 4, 2023 6:36 PM
 
 ```
 {
-    "title": "Metformin mitigates renal dysfunction in obese insulin-resistant rats via activation of the AMPK/PPARα pathway (2023)",
-    "domain": "link.springer.com",
-    "category": "science",
-    "link": "https://link.springer.com/article/10.1007/s12272-023-01439-0",
-    "timestamp": 1680581949,
-    "published": "April 4, 2023 12:19 AM"
+    "title": "U.S. military operation kills Islamic State leader in Syria - officials",
+    "domain": "reuters.com",
+    "category": "news",
+    "link": "https://www.reuters.com/world/middle-east/us-military-operation-kills-islamic-state-leader-syria-officials-2023-04-04/",
+    "timestamp": 1680583302,
+    "published": "April 4, 2023 12:41 AM"
 }
 ```
 
