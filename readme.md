@@ -6,16 +6,16 @@
 - File Size: ~**15MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 3, 2023 6:36 AM
+- Updated: Apr 4, 2023 6:36 AM
 
 ```
 {
-    "title": "Quebec mother left behind in Syrian prison camp as 6 children set to return to Canada",
-    "domain": "ctvnews.ca",
-    "category": "worldnews",
-    "link": "https://www.ctvnews.ca/mobile/politics/quebec-mother-left-behind-in-syrian-prison-camp-as-6-children-set-to-return-to-canada-1.6339529",
-    "timestamp": 1680494690,
-    "published": "April 3, 2023 12:04 AM"
+    "title": "Metformin mitigates renal dysfunction in obese insulin-resistant rats via activation of the AMPK/PPARα pathway (2023)",
+    "domain": "link.springer.com",
+    "category": "science",
+    "link": "https://link.springer.com/article/10.1007/s12272-023-01439-0",
+    "timestamp": 1680581949,
+    "published": "April 4, 2023 12:19 AM"
 }
 ```
 
