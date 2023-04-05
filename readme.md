@@ -6,16 +6,16 @@
 - File Size: ~**15MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 4, 2023 6:36 PM
+- Updated: Apr 5, 2023 6:36 AM
 
 ```
 {
-    "title": "U.S. military operation kills Islamic State leader in Syria - officials",
-    "domain": "reuters.com",
-    "category": "news",
-    "link": "https://www.reuters.com/world/middle-east/us-military-operation-kills-islamic-state-leader-syria-officials-2023-04-04/",
-    "timestamp": 1680583302,
-    "published": "April 4, 2023 12:41 AM"
+    "title": "Mexico: Beekeepers in Campeche are blaming agrochemical testing linked to Bayer-Monsanto for the deaths of more than 300,000 bees in their apiaries",
+    "domain": "mexiconewsdaily.com",
+    "category": "worldnews",
+    "link": "https://mexiconewsdaily.com/news/maya-beekeepers-blame-bayer-monsanto-for-deaths-of-30000-bees/",
+    "timestamp": 1680667911,
+    "published": "April 5, 2023 12:11 AM"
 }
 ```
 
