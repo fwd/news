@@ -6,16 +6,16 @@
 - File Size: ~**15MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 5, 2023 6:36 PM
+- Updated: Apr 6, 2023 6:36 AM
 
 ```
 {
-    "title": "Mexico: Beekeepers in Campeche are blaming agrochemical testing linked to Bayer-Monsanto for the deaths of more than 300,000 bees in their apiaries",
-    "domain": "mexiconewsdaily.com",
+    "title": "Report shows ‘astonishing’ depravity in sexual abuse of more than 600 in Baltimore’s Catholic archdiocese",
+    "domain": "baltimoresun.com",
     "category": "worldnews",
-    "link": "https://mexiconewsdaily.com/news/maya-beekeepers-blame-bayer-monsanto-for-deaths-of-30000-bees/",
-    "timestamp": 1680667911,
-    "published": "April 5, 2023 12:11 AM"
+    "link": "https://www.baltimoresun.com/maryland/bs-md-baltimore-catholic-sex-abuse-report-20230405-ulo3twkyvndajo7dkq3yuoszbm-story.html",
+    "timestamp": 1680754492,
+    "published": "April 6, 2023 12:14 AM"
 }
 ```
 
