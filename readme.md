@@ -6,16 +6,16 @@
 - File Size: ~**15MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 6, 2023 6:36 PM
+- Updated: Apr 7, 2023 6:36 AM
 
 ```
 {
-    "title": "Ukrainian defender kill 390 Russian soldiers and destroy helicopter in one day",
-    "domain": "pravda.com.ua",
-    "category": "ukraine",
-    "link": "https://www.pravda.com.ua/eng/news/2023/04/6/7396665/",
-    "timestamp": 1680761828,
-    "published": "April 6, 2023 2:17 AM"
+    "title": "Philippines names 4 new military camps for U.S. forces",
+    "domain": "nbcnews.com",
+    "category": "worldnews",
+    "link": "https://www.nbcnews.com/news/amp/rcna78057",
+    "timestamp": 1680840152,
+    "published": "April 7, 2023 12:02 AM"
 }
 ```
 
