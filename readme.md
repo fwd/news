@@ -3,19 +3,19 @@
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - Articles: 42k
 - File Type: JSON
-- File Size: ~**15MB**
+- File Size: ~**16MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 7, 2023 6:36 PM
+- Updated: Apr 8, 2023 6:36 AM
 
 ```
 {
-    "title": "Ye’s Private School Donda Academy Banned Chairs and Fed Students Only Sushi for Lunch, Lawsuit Claims",
-    "domain": "nbclosangeles.com",
+    "title": "6 injured in a shooting on a South Carolina beach during high school senior skip day, police say",
+    "domain": "cnn.com",
     "category": "news",
-    "link": "https://www.nbclosangeles.com/news/local/yes-donda-academy-fed-kids-only-shushi-for-lunch-banned-chairs-lawsuit-states/3130680/",
-    "timestamp": 1680843644,
-    "published": "April 7, 2023 1:00 AM"
+    "link": "https://www.cnn.com/2023/04/07/us/isle-of-palms-south-carolina-shooting-senior-skip-day/index.html",
+    "timestamp": 1680928677,
+    "published": "April 8, 2023 12:37 AM"
 }
 ```
 
