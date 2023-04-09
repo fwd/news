@@ -6,16 +6,16 @@
 - File Size: ~**16MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 9, 2023 6:36 AM
+- Updated: Apr 9, 2023 6:36 PM
 
 ```
 {
-    "title": "Norse Atlantic Airways Passengers Entered USA Without Clearing Customs at JKF international Airport",
-    "domain": "thestreet.com",
+    "title": "Iowa won't pay for rape victims' contraceptives",
+    "domain": "abcnews.go.com",
     "category": "news",
-    "link": "https://www.thestreet.com/travel/multiple-passengers-skipped-customs-on-us-bound-international-flight?puc=yahoo&cm_ven=YAHOO",
-    "timestamp": 1681012849,
-    "published": "April 9, 2023 12:00 AM"
+    "link": "https://abcnews.go.com/Politics/wireStory/iowa-pay-rape-victims-abortions-contraceptives-98449081",
+    "timestamp": 1681018550,
+    "published": "April 9, 2023 1:35 AM"
 }
 ```
 
