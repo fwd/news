@@ -6,16 +6,16 @@
 - File Size: ~**16MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 8, 2023 6:36 PM
+- Updated: Apr 9, 2023 6:36 AM
 
 ```
 {
-    "title": "6 injured in a shooting on a South Carolina beach during high school senior skip day, police say",
-    "domain": "cnn.com",
+    "title": "Norse Atlantic Airways Passengers Entered USA Without Clearing Customs at JKF international Airport",
+    "domain": "thestreet.com",
     "category": "news",
-    "link": "https://www.cnn.com/2023/04/07/us/isle-of-palms-south-carolina-shooting-senior-skip-day/index.html",
-    "timestamp": 1680928677,
-    "published": "April 8, 2023 12:37 AM"
+    "link": "https://www.thestreet.com/travel/multiple-passengers-skipped-customs-on-us-bound-international-flight?puc=yahoo&cm_ven=YAHOO",
+    "timestamp": 1681012849,
+    "published": "April 9, 2023 12:00 AM"
 }
 ```
 
