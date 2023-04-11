@@ -6,16 +6,16 @@
 - File Size: ~**16MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 10, 2023 6:36 PM
+- Updated: Apr 11, 2023 6:36 AM
 
 ```
 {
-    "title": "North Korea ignores South Korea’s phone calls for 4th day",
-    "domain": "bnonews.com",
-    "category": "worldnews",
-    "link": "https://bnonews.com/index.php/2023/04/north-korea-ignores-south-koreas-phone-calls-for-4th-day/",
-    "timestamp": 1681105902,
-    "published": "April 10, 2023 1:51 AM"
+    "title": "Illustrated Anne Frank book removed by Florida school",
+    "domain": "apnews.com",
+    "category": "news",
+    "link": "https://apnews.com/article/censorship-books-school-libraries-holocaust-anne-frank-bb65349704ab2dae1ac90a0f9856d7b9",
+    "timestamp": 1681185889,
+    "published": "April 11, 2023 12:04 AM"
 }
 ```
 
