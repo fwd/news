@@ -6,16 +6,16 @@
 - File Size: ~**16MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 11, 2023 6:36 PM
+- Updated: Apr 12, 2023 6:36 AM
 
 ```
 {
-    "title": "Illustrated Anne Frank book removed by Florida school",
-    "domain": "apnews.com",
-    "category": "news",
-    "link": "https://apnews.com/article/censorship-books-school-libraries-holocaust-anne-frank-bb65349704ab2dae1ac90a0f9856d7b9",
-    "timestamp": 1681185889,
-    "published": "April 11, 2023 12:04 AM"
+    "title": "Taiwan badge depicting China's President Xi Jinping as Winnie the Pooh being punched in the face goes viral",
+    "domain": "abc.net.au",
+    "category": "worldnews",
+    "link": "https://www.abc.net.au/news/2023-04-12/xi-caricature-worn-by-taiwan-air-force-badge-goes-viral/102211716?utm_campaign=abc_news_web&utm_content=link&utm_medium=content_shared&utm_source=abc_news_web",
+    "timestamp": 1681272112,
+    "published": "April 12, 2023 12:01 AM"
 }
 ```
 
