@@ -6,16 +6,16 @@
 - File Size: ~**16MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 12, 2023 6:36 AM
+- Updated: Apr 12, 2023 6:36 PM
 
 ```
 {
-    "title": "Taiwan badge depicting China's President Xi Jinping as Winnie the Pooh being punched in the face goes viral",
-    "domain": "abc.net.au",
+    "title": "China records world's first human death from H3N8 bird flu -WHO",
+    "domain": "reuters.com",
     "category": "worldnews",
-    "link": "https://www.abc.net.au/news/2023-04-12/xi-caricature-worn-by-taiwan-air-force-badge-goes-viral/102211716?utm_campaign=abc_news_web&utm_content=link&utm_medium=content_shared&utm_source=abc_news_web",
-    "timestamp": 1681272112,
-    "published": "April 12, 2023 12:01 AM"
+    "link": "https://www.reuters.com/world/china/china-records-worlds-first-human-death-h3n8-bird-flu-who-2023-04-12/",
+    "timestamp": 1681282098,
+    "published": "April 12, 2023 2:48 AM"
 }
 ```
 
