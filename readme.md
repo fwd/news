@@ -6,7 +6,7 @@
 - File Size: ~**16MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 13, 2023 9:56 AM
+- Updated: Apr 13, 2023 6:36 PM
 
 ```
 {
@@ -15,7 +15,7 @@
     "category": "news",
     "link": "https://www.nbcdfw.com/news/local/texas-news/thousands-of-dairy-cows-likely-killed-worker-injured-in-explosion-at-texas-farm/3234590/",
     "timestamp": 1681359046,
-    "recorded": "April 13, 2023 12:10 AM"
+    "published": "April 13, 2023 12:10 AM"
 }
 ```
 
