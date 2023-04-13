@@ -42,13 +42,13 @@ async function create_chart(data) {
 	const line_chart = ChartJSImage().chart({
 		"type": "line",
 		"data": {
-		"labels": Object.keys(_words),
+		"labels": Object.keys(_words.slice(0, 10)),
 		"datasets": [
 		  {
 		    "label": "Words in Headlines",
 		    "borderColor": "rgb(255,+99,+132)",
 		    "backgroundColor": "rgba(255,+99,+132,+.5)",
-		    "data": Object.values(_words)
+		    "data": Object.values(_words.slice(0, 10))
 		  },
 		]
 		},
