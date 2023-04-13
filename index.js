@@ -173,7 +173,7 @@ server.cron(async () => {
 	
 	} catch(e) { console.log(e) }
 
-}, `every ${process.env.CHECK_INTERVAL || 12} hours`)
+}, `every ${process.env.CHECK_INTERVAL || 12} hours`, true)
 
 // ;(async () => {
 // 	await create_chart( require('./headlines.json') )
