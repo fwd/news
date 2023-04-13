@@ -6,16 +6,16 @@
 - File Size: ~**16MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 12, 2023 6:36 PM
+- Updated: Apr 13, 2023 6:36 AM
 
 ```
 {
-    "title": "China records world's first human death from H3N8 bird flu -WHO",
-    "domain": "reuters.com",
-    "category": "worldnews",
-    "link": "https://www.reuters.com/world/china/china-records-worlds-first-human-death-h3n8-bird-flu-who-2023-04-12/",
-    "timestamp": 1681282098,
-    "published": "April 12, 2023 2:48 AM"
+    "title": "18,000 Dairy Cows Killed, Worker Injured in Explosion, Fire at Texas Farm",
+    "domain": "nbcdfw.com",
+    "category": "news",
+    "link": "https://www.nbcdfw.com/news/local/texas-news/thousands-of-dairy-cows-likely-killed-worker-injured-in-explosion-at-texas-farm/3234590/",
+    "timestamp": 1681359046,
+    "published": "April 13, 2023 12:10 AM"
 }
 ```
 
