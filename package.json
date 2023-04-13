@@ -23,6 +23,7 @@
     "dirty-json": "^0.9.2",
     "dotenv": "^10.0.0",
     "fs": "^0.0.1-security",
+    "is-word": "^1.0.4",
     "lodash": "^4.17.21",
     "moment": "^2.29.1",
     "request": "^2.88.2",

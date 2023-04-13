@@ -15,7 +15,7 @@
     "category": "news",
     "link": "https://www.nbcdfw.com/news/local/texas-news/thousands-of-dairy-cows-likely-killed-worker-injured-in-explosion-at-texas-farm/3234590/",
     "timestamp": 1681359046,
-    "published": "April 13, 2023 12:10 AM"
+    "recorded": "April 13, 2023 12:10 AM"
 }
 ```
 
