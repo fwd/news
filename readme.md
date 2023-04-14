@@ -6,16 +6,16 @@
 - File Size: ~**16MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 13, 2023 6:36 PM
+- Updated: Apr 14, 2023 6:36 AM
 
 ```
 {
-    "title": "18,000 Dairy Cows Killed, Worker Injured in Explosion, Fire at Texas Farm",
-    "domain": "nbcdfw.com",
-    "category": "news",
-    "link": "https://www.nbcdfw.com/news/local/texas-news/thousands-of-dairy-cows-likely-killed-worker-injured-in-explosion-at-texas-farm/3234590/",
-    "timestamp": 1681359046,
-    "published": "April 13, 2023 12:10 AM"
+    "title": "Reinstated Tennessee Lawmaker Goes Viral For Smacking Down Colleague's 'Bigotry' — \"Stop using God to justify your bigotry. Stop using God to justify hatred and racism,\" state Rep. Justin Jones told his Republican colleague.",
+    "domain": "huffpost.com",
+    "category": "politics",
+    "link": "https://www.huffpost.com/entry/justin-jones-god-bigotry_n_64388d69e4b066950599a3e4",
+    "timestamp": 1681447703,
+    "published": "April 14, 2023 12:48 AM"
 }
 ```
 
