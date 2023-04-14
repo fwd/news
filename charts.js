@@ -87,6 +87,6 @@ async function create_chart(data) {
 
 ;(async () => {
 
-	await create_chart(dataset)
-	
+	await create_chart( require('./headlines.json') )
+
 })()
