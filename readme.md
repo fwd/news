@@ -6,16 +6,16 @@
 - File Size: ~**16MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 14, 2023 6:36 PM
+- Updated: Apr 15, 2023 6:36 AM
 
 ```
 {
-    "title": "Reinstated Tennessee Lawmaker Goes Viral For Smacking Down Colleague's 'Bigotry' — \"Stop using God to justify your bigotry. Stop using God to justify hatred and racism,\" state Rep. Justin Jones told his Republican colleague.",
-    "domain": "huffpost.com",
-    "category": "politics",
-    "link": "https://www.huffpost.com/entry/justin-jones-god-bigotry_n_64388d69e4b066950599a3e4",
-    "timestamp": 1681447703,
-    "published": "April 14, 2023 12:48 AM"
+    "title": "High intake of seafood, and particularly small fish rich in n-3 fatty acids, was associated with a lower risk of 10-year fatal and non-fatal Cardiovascular Disease.",
+    "domain": "ncbi.nlm.nih.gov",
+    "category": "science",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10086327/",
+    "timestamp": 1681531313,
+    "published": "April 15, 2023 12:01 AM"
 }
 ```
 
