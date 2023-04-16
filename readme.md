@@ -1,21 +1,21 @@
 # Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 42k
+- Articles: 43k
 - File Type: JSON
 - File Size: ~**16MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 15, 2023 6:36 PM
+- Updated: Apr 16, 2023 6:36 AM
 
 ```
 {
-    "title": "High intake of seafood, and particularly small fish rich in n-3 fatty acids, was associated with a lower risk of 10-year fatal and non-fatal Cardiovascular Disease.",
-    "domain": "ncbi.nlm.nih.gov",
-    "category": "science",
-    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10086327/",
-    "timestamp": 1681531313,
-    "published": "April 15, 2023 12:01 AM"
+    "title": "LMPD: 2 dead, at least 4 injured after shots fired into crowd in Chickasaw Park (Louisville)",
+    "domain": "wave3.com",
+    "category": "news",
+    "link": "https://www.wave3.com/2023/04/16/lmpd-2-dead-least-4-injured-after-shots-fired-into-crowd-chickasaw-park/",
+    "timestamp": 1681618378,
+    "published": "April 16, 2023 12:12 AM"
 }
 ```
 
