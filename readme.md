@@ -6,16 +6,16 @@
 - File Size: ~**16MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 16, 2023 6:36 PM
+- Updated: Apr 17, 2023 6:36 AM
 
 ```
 {
-    "title": "LMPD: 2 dead, at least 4 injured after shots fired into crowd in Chickasaw Park (Louisville)",
-    "domain": "wave3.com",
+    "title": "At least 1 dead, 96 sickened in fungal outbreak that shuttered Michigan paper mill",
+    "domain": "cbsnews.com",
     "category": "news",
-    "link": "https://www.wave3.com/2023/04/16/lmpd-2-dead-least-4-injured-after-shots-fired-into-crowd-chickasaw-park/",
-    "timestamp": 1681618378,
-    "published": "April 16, 2023 12:12 AM"
+    "link": "https://www.cbsnews.com/news/dozens-sickened-1-dead-fungal-outbreak-michigan-paper-mill/",
+    "timestamp": 1681704540,
+    "published": "April 17, 2023 12:09 AM"
 }
 ```
 
