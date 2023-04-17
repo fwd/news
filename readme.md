@@ -6,7 +6,7 @@
 - File Size: ~**16MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 17, 2023 4:57 PM
+- Updated: Apr 17, 2023 6:36 PM
 
 ```
 {
@@ -15,7 +15,7 @@
     "category": "news",
     "link": "https://www.cbsnews.com/news/dozens-sickened-1-dead-fungal-outbreak-michigan-paper-mill/",
     "timestamp": 1681704540,
-    "recorded": "April 17, 2023 12:09 AM"
+    "published": "April 17, 2023 12:09 AM"
 }
 ```
 
