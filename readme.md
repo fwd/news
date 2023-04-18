@@ -6,16 +6,16 @@
 - File Size: ~**16MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 18, 2023 6:36 AM
+- Updated: Apr 18, 2023 6:36 PM
 
 ```
 {
-    "title": "Cardioprotective Effect of Empagliflozin and Circulating Ketone Bodies During Acute Myocardial Infarction (Apr 2023)",
-    "domain": "ahajournals.org",
-    "category": "science",
-    "link": "https://www.ahajournals.org/doi/10.1161/CIRCIMAGING.123.015298",
-    "timestamp": 1681791641,
-    "published": "April 18, 2023 12:20 AM"
+    "title": "Blinken confirms US diplomatic convoy was fired on in Sudan",
+    "domain": "abcnews.go.com",
+    "category": "worldnews",
+    "link": "https://abcnews.go.com/International/blinken-confirms-us-diplomatic-convoy-fired-on-sudan/story?id=98653881",
+    "timestamp": 1681793457,
+    "published": "April 18, 2023 12:50 AM"
 }
 ```
 
