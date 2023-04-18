@@ -6,16 +6,16 @@
 - File Size: ~**16MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 17, 2023 6:36 PM
+- Updated: Apr 18, 2023 6:36 AM
 
 ```
 {
-    "title": "At least 1 dead, 96 sickened in fungal outbreak that shuttered Michigan paper mill",
-    "domain": "cbsnews.com",
-    "category": "news",
-    "link": "https://www.cbsnews.com/news/dozens-sickened-1-dead-fungal-outbreak-michigan-paper-mill/",
-    "timestamp": 1681704540,
-    "published": "April 17, 2023 12:09 AM"
+    "title": "Cardioprotective Effect of Empagliflozin and Circulating Ketone Bodies During Acute Myocardial Infarction (Apr 2023)",
+    "domain": "ahajournals.org",
+    "category": "science",
+    "link": "https://www.ahajournals.org/doi/10.1161/CIRCIMAGING.123.015298",
+    "timestamp": 1681791641,
+    "published": "April 18, 2023 12:20 AM"
 }
 ```
 
