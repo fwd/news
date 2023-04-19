@@ -6,16 +6,16 @@
 - File Size: ~**16MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 18, 2023 6:36 PM
+- Updated: Apr 19, 2023 6:36 PM
 
 ```
 {
-    "title": "Blinken confirms US diplomatic convoy was fired on in Sudan",
+    "title": "2 Texas cheerleaders shot after getting into wrong car in parking lot",
     "domain": "abcnews.go.com",
-    "category": "worldnews",
-    "link": "https://abcnews.go.com/International/blinken-confirms-us-diplomatic-convoy-fired-on-sudan/story?id=98653881",
-    "timestamp": 1681793457,
-    "published": "April 18, 2023 12:50 AM"
+    "category": "news",
+    "link": "https://abcnews.go.com/US/2-texas-cheerleaders-shot-after-wrong-car-parking/story?id=98686531",
+    "timestamp": 1681885106,
+    "published": "April 19, 2023 2:18 AM"
 }
 ```
 
