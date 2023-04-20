@@ -6,16 +6,16 @@
 - File Size: ~**16MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 20, 2023 6:36 AM
+- Updated: Apr 20, 2023 6:36 PM
 
 ```
 {
-    "title": "67 million children missed vaccines during pandemic: A decline in vaccine confidence comes after more than a decade of hard-earned gains in routine childhood immunization. Getting back on track will be a challenging task, UNICEF warned",
-    "domain": "dw.com",
-    "category": "worldnews",
-    "link": "https://www.dw.com/en/67-million-children-missed-vaccines-during-pandemic-unicef/a-65379603",
-    "timestamp": 1681964140,
-    "published": "April 20, 2023 12:15 AM"
+    "title": "Disney announces groundbreaking for affordable housing in Florida",
+    "domain": "reuters.com",
+    "category": "news",
+    "link": "https://www.reuters.com/world/us/disney-announces-groundbreaking-affordable-housing-florida-2023-04-20/",
+    "timestamp": 1681964781,
+    "published": "April 20, 2023 12:26 AM"
 }
 ```
 
