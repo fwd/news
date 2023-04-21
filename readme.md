@@ -6,16 +6,16 @@
 - File Size: ~**16MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 21, 2023 6:36 AM
+- Updated: Apr 21, 2023 6:36 PM
 
 ```
 {
-    "title": "Taiwan quietly urges U.S. to calm rhetoric on China chip dangers",
-    "domain": "japantimes.co.jp",
-    "category": "worldnews",
-    "link": "https://www.japantimes.co.jp/news/2023/04/21/business/taiwan-china-chips-rhetoric/",
-    "timestamp": 1682050393,
-    "published": "April 21, 2023 12:13 AM"
+    "title": "Analysis of intermediate convolutional layers of an artificial neural network finds strong similarities with neuroimaging of a brain when processing vowel sounds",
+    "domain": "nature.com",
+    "category": "science",
+    "link": "https://www.nature.com/articles/s41598-023-33384-9",
+    "timestamp": 1682051457,
+    "published": "April 21, 2023 12:30 AM"
 }
 ```
 
