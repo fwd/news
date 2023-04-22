@@ -6,16 +6,16 @@
 - File Size: ~**16MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 22, 2023 6:36 AM
+- Updated: Apr 22, 2023 6:36 PM
 
 ```
 {
-    "title": "Hay fever could be linked to our gut and nose bacteria – and probiotics may help symptoms",
-    "domain": "theconversation.com",
-    "category": "science",
-    "link": "https://theconversation.com/hay-fever-could-be-linked-to-our-gut-and-nose-bacteria-and-probiotics-may-help-symptoms-203855",
-    "timestamp": 1682136395,
-    "published": "April 22, 2023 12:06 AM"
+    "title": "Six cattle that died mysteriously in Texas had their tongues removed, authorities say",
+    "domain": "nbcnews.com",
+    "category": "news",
+    "link": "https://www.nbcnews.com/news/us-news/six-cattle-died-mysteriously-texas-tongues-removed-authorities-say-rcna80957",
+    "timestamp": 1682137081,
+    "published": "April 22, 2023 12:18 AM"
 }
 ```
 
