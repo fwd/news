@@ -6,16 +6,16 @@
 - File Size: ~**16MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 21, 2023 6:36 PM
+- Updated: Apr 22, 2023 6:36 AM
 
 ```
 {
-    "title": "Analysis of intermediate convolutional layers of an artificial neural network finds strong similarities with neuroimaging of a brain when processing vowel sounds",
-    "domain": "nature.com",
+    "title": "Hay fever could be linked to our gut and nose bacteria – and probiotics may help symptoms",
+    "domain": "theconversation.com",
     "category": "science",
-    "link": "https://www.nature.com/articles/s41598-023-33384-9",
-    "timestamp": 1682051457,
-    "published": "April 21, 2023 12:30 AM"
+    "link": "https://theconversation.com/hay-fever-could-be-linked-to-our-gut-and-nose-bacteria-and-probiotics-may-help-symptoms-203855",
+    "timestamp": 1682136395,
+    "published": "April 22, 2023 12:06 AM"
 }
 ```
 
