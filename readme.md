@@ -6,16 +6,16 @@
 - File Size: ~**16MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 22, 2023 6:36 PM
+- Updated: Apr 23, 2023 6:36 AM
 
 ```
 {
-    "title": "Six cattle that died mysteriously in Texas had their tongues removed, authorities say",
-    "domain": "nbcnews.com",
-    "category": "news",
-    "link": "https://www.nbcnews.com/news/us-news/six-cattle-died-mysteriously-texas-tongues-removed-authorities-say-rcna80957",
-    "timestamp": 1682137081,
-    "published": "April 22, 2023 12:18 AM"
+    "title": "Russians sentenced Crimean Tatar to 7 years for transferring US$13.67 to friend",
+    "domain": "pravda.com.ua",
+    "category": "worldnews",
+    "link": "https://www.pravda.com.ua/eng/news/2023/04/22/7399033/",
+    "timestamp": 1682223409,
+    "published": "April 23, 2023 12:16 AM"
 }
 ```
 
