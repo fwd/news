@@ -6,16 +6,16 @@
 - File Size: ~**16MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 23, 2023 6:36 AM
+- Updated: Apr 23, 2023 6:36 PM
 
 ```
 {
-    "title": "Russians sentenced Crimean Tatar to 7 years for transferring US$13.67 to friend",
-    "domain": "pravda.com.ua",
-    "category": "worldnews",
-    "link": "https://www.pravda.com.ua/eng/news/2023/04/22/7399033/",
-    "timestamp": 1682223409,
-    "published": "April 23, 2023 12:16 AM"
+    "title": "Alphabet CEO Sundar Pichai's compensation topped $200 million in 2022",
+    "domain": "cnbc.com",
+    "category": "news",
+    "link": "https://www.cnbc.com/2023/04/22/alphabet-ceo-sundar-pichais-compensation-topped-200-million-in-2022.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard",
+    "timestamp": 1682225716,
+    "published": "April 23, 2023 12:55 AM"
 }
 ```
 
