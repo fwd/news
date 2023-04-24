@@ -1,21 +1,21 @@
 # Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 43k
+- Articles: 44k
 - File Type: JSON
 - File Size: ~**16MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 24, 2023 6:36 AM
+- Updated: Apr 24, 2023 6:36 PM
 
 ```
 {
-    "title": "Special forces swiftly evacuate US embassy staff from Sudan",
-    "domain": "apnews.com",
-    "category": "news",
-    "link": "https://apnews.com/article/american-embassy-personnel-sudan-evacuated-airlift-45bca52da8c65914d48c18d6ad9d065c",
-    "timestamp": 1682310650,
-    "published": "April 24, 2023 12:30 AM"
+    "title": "South Korea puts Japan back on its preferred trade list after 3 years",
+    "domain": "english.kyodonews.net",
+    "category": "worldnews",
+    "link": "https://english.kyodonews.net/news/2023/04/071b8d39afe4-s-korea-puts-japan-back-on-its-preferred-trade-list-after-3-years.html",
+    "timestamp": 1682313000,
+    "published": "April 24, 2023 1:10 AM"
 }
 ```
 
