@@ -6,16 +6,16 @@
 - File Size: ~**16MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 23, 2023 6:36 PM
+- Updated: Apr 24, 2023 6:36 AM
 
 ```
 {
-    "title": "Alphabet CEO Sundar Pichai's compensation topped $200 million in 2022",
-    "domain": "cnbc.com",
+    "title": "Special forces swiftly evacuate US embassy staff from Sudan",
+    "domain": "apnews.com",
     "category": "news",
-    "link": "https://www.cnbc.com/2023/04/22/alphabet-ceo-sundar-pichais-compensation-topped-200-million-in-2022.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard",
-    "timestamp": 1682225716,
-    "published": "April 23, 2023 12:55 AM"
+    "link": "https://apnews.com/article/american-embassy-personnel-sudan-evacuated-airlift-45bca52da8c65914d48c18d6ad9d065c",
+    "timestamp": 1682310650,
+    "published": "April 24, 2023 12:30 AM"
 }
 ```
 
