@@ -6,16 +6,16 @@
 - File Size: ~**16MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 24, 2023 6:36 PM
+- Updated: Apr 25, 2023 6:36 AM
 
 ```
 {
-    "title": "South Korea puts Japan back on its preferred trade list after 3 years",
-    "domain": "english.kyodonews.net",
+    "title": "China 'building cyberweapons to hijack enemy satellites', leaked CIA files show",
+    "domain": "9news.com.au",
     "category": "worldnews",
-    "link": "https://english.kyodonews.net/news/2023/04/071b8d39afe4-s-korea-puts-japan-back-on-its-preferred-trade-list-after-3-years.html",
-    "timestamp": 1682313000,
-    "published": "April 24, 2023 1:10 AM"
+    "link": "https://www.9news.com.au/world/china-building-cyberweapons-to-hijack-enemy-satellites-leaked-cia-files-show/d4d6e2c9-3de0-49ba-a9b2-87a660421e82",
+    "timestamp": 1682395887,
+    "published": "April 25, 2023 12:11 AM"
 }
 ```
 
