@@ -6,16 +6,16 @@
 - File Size: ~**16MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 25, 2023 6:36 PM
+- Updated: Apr 26, 2023 6:36 AM
 
 ```
 {
-    "title": "Vietnam eyes Czech military supplies in pivot away from Russian arms",
-    "domain": "scmp.com",
-    "category": "worldnews",
-    "link": "https://www.scmp.com/news/asia/southeast-asia/article/3218170/vietnam-eyes-czech-military-supplies-hanoi-tries-pivot-away-reliance-russian-arms?module=AI_Recommended_for_you_In-house&pgtype=homepage",
-    "timestamp": 1682396133,
-    "published": "April 25, 2023 12:15 AM"
+    "title": "Minnesota Marijuana Legalization Bill Passed by Full House of Representatives",
+    "domain": "themarijuanaherald.com",
+    "category": "news",
+    "link": "https://themarijuanaherald.com/2023/04/minnesota-marijuana-legalization-bill-passed-by-full-house-of-representatives/",
+    "timestamp": 1682482114,
+    "published": "April 26, 2023 12:08 AM"
 }
 ```
 
