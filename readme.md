@@ -6,16 +6,16 @@
 - File Size: ~**16MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 26, 2023 6:36 PM
+- Updated: Apr 27, 2023 6:36 AM
 
 ```
 {
-    "title": "Minnesota Marijuana Legalization Bill Passed by Full House of Representatives",
-    "domain": "themarijuanaherald.com",
+    "title": "FAA Flags Growing Concerns of Alarmingly High Number of Bird Strikes, Recently.",
+    "domain": "abcnews.go.com",
     "category": "news",
-    "link": "https://themarijuanaherald.com/2023/04/minnesota-marijuana-legalization-bill-passed-by-full-house-of-representatives/",
-    "timestamp": 1682482114,
-    "published": "April 26, 2023 12:08 AM"
+    "link": "https://abcnews.go.com/WNT/video/faa-flags-growing-number-bird-strike-attacks-98888841",
+    "timestamp": 1682568691,
+    "published": "April 27, 2023 12:11 AM"
 }
 ```
 
