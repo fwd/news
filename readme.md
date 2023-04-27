@@ -6,16 +6,16 @@
 - File Size: ~**16MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 27, 2023 6:36 AM
+- Updated: Apr 27, 2023 6:36 PM
 
 ```
 {
-    "title": "FAA Flags Growing Concerns of Alarmingly High Number of Bird Strikes, Recently.",
-    "domain": "abcnews.go.com",
+    "title": "Georgia man behind bars 10 years, still waiting for his day in court",
+    "domain": "atlantanewsfirst.com",
     "category": "news",
-    "link": "https://abcnews.go.com/WNT/video/faa-flags-growing-number-bird-strike-attacks-98888841",
-    "timestamp": 1682568691,
-    "published": "April 27, 2023 12:11 AM"
+    "link": "https://www.atlantanewsfirst.com/2023/04/26/georgia-man-behind-bars-10-years-still-waiting-his-day-court/?outputType=amp",
+    "timestamp": 1682570027,
+    "published": "April 27, 2023 12:33 AM"
 }
 ```
 
