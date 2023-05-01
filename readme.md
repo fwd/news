@@ -6,16 +6,16 @@
 - File Size: ~**17MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Apr 30, 2023 6:36 AM
+- Updated: May 1, 2023 6:36 AM
 
 ```
 {
-    "title": "Fire breaks out in sanctioned Russia's factory manufacturing MLRS",
-    "domain": "yahoo.com",
+    "title": "Air defence systems repelling Russian missile attacks in Kyiv region, officials say",
+    "domain": "reuters.com",
     "category": "ukraine",
-    "link": "https://www.yahoo.com/lifestyle/fire-breaks-sanctioned-russias-factory-200714252.html",
-    "timestamp": 1682827898,
-    "published": "April 30, 2023 12:11 AM"
+    "link": "https://www.reuters.com/world/europe/air-defence-systems-repelling-russian-missile-attacks-kyiv-region-officials-2023-05-01/?utm_source=reddit.com",
+    "timestamp": 1682915135,
+    "published": "May 1, 2023 12:25 AM"
 }
 ```
 
