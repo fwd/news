@@ -6,16 +6,16 @@
 - File Size: ~**17MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 1, 2023 6:36 AM
+- Updated: May 1, 2023 6:36 PM
 
 ```
 {
-    "title": "Air defence systems repelling Russian missile attacks in Kyiv region, officials say",
-    "domain": "reuters.com",
-    "category": "ukraine",
-    "link": "https://www.reuters.com/world/europe/air-defence-systems-repelling-russian-missile-attacks-kyiv-region-officials-2023-05-01/?utm_source=reddit.com",
-    "timestamp": 1682915135,
-    "published": "May 1, 2023 12:25 AM"
+    "title": "Sodium thiosulfate refuels the hepatic antioxidant pool reducing ischemia-reperfusion-induced liver injury (Apr 2023)",
+    "domain": "sciencedirect.com",
+    "category": "science",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0891584923003829?via%3Dihub",
+    "timestamp": 1682916022,
+    "published": "May 1, 2023 12:40 AM"
 }
 ```
 
