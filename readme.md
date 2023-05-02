@@ -6,16 +6,16 @@
 - File Size: ~**17MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 1, 2023 6:36 PM
+- Updated: May 2, 2023 6:36 AM
 
 ```
 {
-    "title": "Sodium thiosulfate refuels the hepatic antioxidant pool reducing ischemia-reperfusion-induced liver injury (Apr 2023)",
-    "domain": "sciencedirect.com",
-    "category": "science",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0891584923003829?via%3Dihub",
-    "timestamp": 1682916022,
-    "published": "May 1, 2023 12:40 AM"
+    "title": "Canadian government proposes ban on assault-style firearms",
+    "domain": "abcnews.go.com",
+    "category": "worldnews",
+    "link": "https://abcnews.go.com/International/wireStory/canadian-government-proposes-ban-assault-style-firearms-98999276",
+    "timestamp": 1683000298,
+    "published": "May 2, 2023 12:04 AM"
 }
 ```
 
