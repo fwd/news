@@ -1,4 +1,4 @@
-# Headline Dataset
+# Interplanetary News Service
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - Articles: 44k
