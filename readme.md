@@ -6,16 +6,16 @@
 - File Size: ~**17MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 2, 2023 6:36 PM
+- Updated: May 3, 2023 6:36 AM
 
 ```
 {
-    "title": "Canadian government proposes ban on assault-style firearms",
-    "domain": "abcnews.go.com",
+    "title": "The shadow of Russia hangs over the hornet’s nest of Sudan",
+    "domain": "english.elpais.com",
     "category": "worldnews",
-    "link": "https://abcnews.go.com/International/wireStory/canadian-government-proposes-ban-assault-style-firearms-98999276",
-    "timestamp": 1683000298,
-    "published": "May 2, 2023 12:04 AM"
+    "link": "https://english.elpais.com/international/2023-04-27/the-shadow-of-russia-hangs-over-the-hornets-nest-of-sudan.html",
+    "timestamp": 1683086449,
+    "published": "May 3, 2023 12:00 AM"
 }
 ```
 
