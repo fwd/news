@@ -6,16 +6,16 @@
 - File Size: ~**17MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 3, 2023 6:36 AM
+- Updated: May 3, 2023 6:36 PM
 
 ```
 {
-    "title": "The shadow of Russia hangs over the hornet’s nest of Sudan",
-    "domain": "english.elpais.com",
-    "category": "worldnews",
-    "link": "https://english.elpais.com/international/2023-04-27/the-shadow-of-russia-hangs-over-the-hornets-nest-of-sudan.html",
-    "timestamp": 1683086449,
-    "published": "May 3, 2023 12:00 AM"
+    "title": "Medical cannabis is effective for cancer-related pain: Quebec Cannabis Registry results",
+    "domain": "press.psprings.co.uk",
+    "category": "science",
+    "link": "http://press.psprings.co.uk/spc/april/bmjspc004003.pdf",
+    "timestamp": 1683086812,
+    "published": "May 3, 2023 12:06 AM"
 }
 ```
 
