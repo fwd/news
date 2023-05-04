@@ -6,16 +6,16 @@
 - File Size: ~**17MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 3, 2023 6:36 PM
+- Updated: May 4, 2023 6:36 AM
 
 ```
 {
-    "title": "Medical cannabis is effective for cancer-related pain: Quebec Cannabis Registry results",
-    "domain": "press.psprings.co.uk",
+    "title": "FDA approves first vaccine for RSV, a moment six decades in the making",
+    "domain": "amp.cnn.com",
     "category": "science",
-    "link": "http://press.psprings.co.uk/spc/april/bmjspc004003.pdf",
-    "timestamp": 1683086812,
-    "published": "May 3, 2023 12:06 AM"
+    "link": "https://amp.cnn.com/cnn/2023/05/03/health/first-rsv-vaccine-approved/index.html",
+    "timestamp": 1683174192,
+    "published": "May 4, 2023 12:23 AM"
 }
 ```
 
