@@ -6,16 +6,16 @@
 - File Size: ~**17MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 4, 2023 6:36 AM
+- Updated: May 4, 2023 6:36 PM
 
 ```
 {
-    "title": "FDA approves first vaccine for RSV, a moment six decades in the making",
-    "domain": "amp.cnn.com",
-    "category": "science",
-    "link": "https://amp.cnn.com/cnn/2023/05/03/health/first-rsv-vaccine-approved/index.html",
-    "timestamp": 1683174192,
-    "published": "May 4, 2023 12:23 AM"
+    "title": "10-year-old children found working at McDonald’s until 2 a.m.",
+    "domain": "washingtonpost.com",
+    "category": "news",
+    "link": "https://www.washingtonpost.com/food/2023/05/03/mcdonalds-child-labor-violations/",
+    "timestamp": 1683174534,
+    "published": "May 4, 2023 12:28 AM"
 }
 ```
 
