@@ -6,16 +6,16 @@
 - File Size: ~**17MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 4, 2023 6:36 PM
+- Updated: May 5, 2023 6:36 AM
 
 ```
 {
-    "title": "10-year-old children found working at McDonald’s until 2 a.m.",
-    "domain": "washingtonpost.com",
-    "category": "news",
-    "link": "https://www.washingtonpost.com/food/2023/05/03/mcdonalds-child-labor-violations/",
-    "timestamp": 1683174534,
-    "published": "May 4, 2023 12:28 AM"
+    "title": "Activist Helped Direct Payments To Ginni Thomas But Kept Her Name Off Bills: Report",
+    "domain": "huffpost.com",
+    "category": "politics",
+    "link": "https://www.huffpost.com/entry/ginni-thomas-consulting-payments-washington-post_n_645457d9e4b0452cee9c86fb",
+    "timestamp": 1683259422,
+    "published": "May 5, 2023 12:03 AM"
 }
 ```
 
