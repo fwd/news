@@ -6,16 +6,16 @@
 - File Size: ~**17MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 6, 2023 6:36 AM
+- Updated: May 6, 2023 6:36 PM
 
 ```
 {
-    "title": "More than 13,000 people in Western Canada evacuated as wildfires rage across region amid hot weather and high winds | CNN",
-    "domain": "cnn.com",
-    "category": "worldnews",
-    "link": "https://www.cnn.com/2023/05/05/weather/alberta-canada-wildfires-evacuations/index.html",
-    "timestamp": 1683345734,
-    "published": "May 6, 2023 12:02 AM"
+    "title": "Intentional Use of Both Opioids and Cocaine in the US: Use of opioid and cocaine was more common in the never married, unemployed, and in large metro area. Use of opioid and cocaine was 6x as common in those with psychological distress.",
+    "domain": "sciencedirect.com",
+    "category": "science",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2211335523001183",
+    "timestamp": 1683350606,
+    "published": "May 6, 2023 1:23 AM"
 }
 ```
 
