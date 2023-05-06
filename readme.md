@@ -6,16 +6,16 @@
 - File Size: ~**17MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 5, 2023 6:36 AM
+- Updated: May 6, 2023 6:36 AM
 
 ```
 {
-    "title": "Activist Helped Direct Payments To Ginni Thomas But Kept Her Name Off Bills: Report",
-    "domain": "huffpost.com",
-    "category": "politics",
-    "link": "https://www.huffpost.com/entry/ginni-thomas-consulting-payments-washington-post_n_645457d9e4b0452cee9c86fb",
-    "timestamp": 1683259422,
-    "published": "May 5, 2023 12:03 AM"
+    "title": "More than 13,000 people in Western Canada evacuated as wildfires rage across region amid hot weather and high winds | CNN",
+    "domain": "cnn.com",
+    "category": "worldnews",
+    "link": "https://www.cnn.com/2023/05/05/weather/alberta-canada-wildfires-evacuations/index.html",
+    "timestamp": 1683345734,
+    "published": "May 6, 2023 12:02 AM"
 }
 ```
 
