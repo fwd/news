@@ -6,16 +6,16 @@
 - File Size: ~**17MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 8, 2023 6:36 AM
+- Updated: May 8, 2023 6:36 PM
 
 ```
 {
-    "title": "Russia launches mass strikes on Ukraine ahead of May 9 Victory Day holiday",
-    "domain": "reuters.com",
-    "category": "worldnews",
-    "link": "https://www.reuters.com/world/europe/least-five-wounded-due-russian-strikes-kyiv-city-officials-say-2023-05-07/",
-    "timestamp": 1683519467,
-    "published": "May 8, 2023 12:17 AM"
+    "title": "Texas Bill Would Train Third Graders to Use 'Battlefield' Tourniquets",
+    "domain": "newsweek.com",
+    "category": "politics",
+    "link": "https://www.newsweek.com/texas-bill-would-train-third-graders-use-battlefield-tourniquets-1798139",
+    "timestamp": 1683527378,
+    "published": "May 8, 2023 2:29 AM"
 }
 ```
 
