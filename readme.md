@@ -1,4 +1,4 @@
-# Interplanetary News Service
+# Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - Articles: 45k
@@ -6,16 +6,16 @@
 - File Size: ~**17MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 8, 2023 6:36 PM
+- Updated: May 8, 2023 7:59 PM
 
 ```
 {
-    "title": "Texas Bill Would Train Third Graders to Use 'Battlefield' Tourniquets",
-    "domain": "newsweek.com",
-    "category": "politics",
-    "link": "https://www.newsweek.com/texas-bill-would-train-third-graders-use-battlefield-tourniquets-1798139",
-    "timestamp": 1683527378,
-    "published": "May 8, 2023 2:29 AM"
+    "title": "‘Executing a person every 6 hours’: Iran hanged 194 people in 2023 alone",
+    "domain": "firstpost.com",
+    "category": "worldnews",
+    "link": "https://www.firstpost.com/world/executing-a-person-every-6-hours-iran-hanged-194-people-in-2023-alone-12563142.html",
+    "timestamp": 1683531462,
+    "recorded": "May 8, 2023 3:37 AM"
 }
 ```
 
