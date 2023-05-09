@@ -6,16 +6,16 @@
 - File Size: ~**17MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 8, 2023 8:01 PM
+- Updated: May 9, 2023 6:36 AM
 
 ```
 {
-    "title": "‘Executing a person every 6 hours’: Iran hanged 194 people in 2023 alone",
-    "domain": "firstpost.com",
-    "category": "worldnews",
-    "link": "https://www.firstpost.com/world/executing-a-person-every-6-hours-iran-hanged-194-people-in-2023-alone-12563142.html",
-    "timestamp": 1683531462,
-    "recorded": "May 8, 2023 3:37 AM"
+    "title": "Low temperature and mTOR inhibition favor stem cell maintenance in human keratinocyte cultures (May 2023)",
+    "domain": "embopress.org",
+    "category": "science",
+    "link": "https://www.embopress.org/doi/full/10.15252/embr.202255439",
+    "timestamp": 1683604928,
+    "published": "May 9, 2023 12:02 AM"
 }
 ```
 
