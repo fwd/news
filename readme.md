@@ -6,16 +6,16 @@
 - File Size: ~**17MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 9, 2023 6:36 PM
+- Updated: May 10, 2023 6:36 AM
 
 ```
 {
-    "title": "Russia launches new attack on Ukraine's capital, officials say – Russia launched about 15 cruise missiles at Ukraine's capital on Tuesday, the second attack in as many days, with air defence systems shooting all of them down",
-    "domain": "reuters.com",
+    "title": "Microbes discovered that can digest plastics at low temperatures | Microbiology",
+    "domain": "theguardian.com",
     "category": "worldnews",
-    "link": "https://www.reuters.com/world/europe/ukraines-air-defence-systems-repelling-attacks-kyiv-officials-say-2023-05-09/",
-    "timestamp": 1683610380,
-    "published": "May 9, 2023 1:33 AM"
+    "link": "https://www.theguardian.com/science/2023/may/10/microbes-digest-plastics-low-temperatures-recycling",
+    "timestamp": 1683691797,
+    "published": "May 10, 2023 12:09 AM"
 }
 ```
 
