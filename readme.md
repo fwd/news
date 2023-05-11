@@ -1,21 +1,21 @@
 # Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 45k
+- Articles: 46k
 - File Type: JSON
 - File Size: ~**17MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 10, 2023 6:36 PM
+- Updated: May 11, 2023 6:36 AM
 
 ```
 {
-    "title": "Microbes discovered that can digest plastics at low temperatures | Microbiology",
-    "domain": "theguardian.com",
-    "category": "worldnews",
-    "link": "https://www.theguardian.com/science/2023/may/10/microbes-digest-plastics-low-temperatures-recycling",
-    "timestamp": 1683691797,
-    "published": "May 10, 2023 12:09 AM"
+    "title": "NHL enforcers die on average 10 years younger than their fellow players, study finds",
+    "domain": "theglobeandmail.com",
+    "category": "science",
+    "link": "https://www.theglobeandmail.com/sports/hockey/article-nhl-enforcers-die-on-average-10-years-younger-than-their-fellow/",
+    "timestamp": 1683778012,
+    "published": "May 11, 2023 12:06 AM"
 }
 ```
 
