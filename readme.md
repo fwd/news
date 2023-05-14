@@ -6,16 +6,16 @@
 - File Size: ~**17MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 13, 2023 6:36 PM
+- Updated: May 14, 2023 6:36 AM
 
 ```
 {
-    "title": "8-year-old escapes abduction attempt in Northern Michigan, brother hits suspect in head with slingshot",
-    "domain": "mlive.com",
-    "category": "news",
-    "link": "https://www.mlive.com/news/2023/05/7-year-old-escapes-abduction-attempt-in-northern-michigan-brother-hits-suspect-in-head-with-slingshot.html",
-    "timestamp": 1683950887,
-    "published": "May 13, 2023 12:08 AM"
+    "title": "Air Force reveals that Patriot system that took down Russian Kinzhal was operating autonomously",
+    "domain": "english.nv.ua",
+    "category": "ukraine",
+    "link": "https://english.nv.ua/nation/patriot-system-in-autonomous-mode-when-it-intercepted-kinzhal-claims-air-force-ukraine-war-50324283.html",
+    "timestamp": 1684037107,
+    "published": "May 14, 2023 12:05 AM"
 }
 ```
 
