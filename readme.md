@@ -6,16 +6,16 @@
 - File Size: ~**17MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 16, 2023 6:36 AM
+- Updated: May 16, 2023 6:36 PM
 
 ```
 {
-    "title": "NATO Deputy Secretary General: ‘If we stop or don't do a good enough job for Ukraine, the lesson [others] will learn is that force and aggression and military conflict pays. And this is something I believe would be bad for the rest of the world, not only for Europe.’",
-    "domain": "nato.int",
-    "category": "ukraine",
-    "link": "https://www.nato.int/cps/en/natohq/opinions_214261.htm",
-    "timestamp": 1684210770,
-    "published": "May 16, 2023 12:19 AM"
+    "title": "Researchers treat depression by reversing brain signals traveling the wrong way",
+    "domain": "med.stanford.edu",
+    "category": "science",
+    "link": "https://med.stanford.edu/news/all-news/2023/05/depression-reverse-brain-signals.html",
+    "timestamp": 1684213990,
+    "published": "May 16, 2023 1:13 AM"
 }
 ```
 
