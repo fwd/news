@@ -6,16 +6,16 @@
 - File Size: ~**17MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 15, 2023 6:36 PM
+- Updated: May 16, 2023 6:36 AM
 
 ```
 {
-    "title": "Chilling footage shows white supremacist group Patriot Front marching through DC",
-    "domain": "independent.co.uk",
-    "category": "news",
-    "link": "https://www.independent.co.uk/news/world/americas/patriot-front-washington-dc-video-b2338764.html",
-    "timestamp": 1684124811,
-    "published": "May 15, 2023 12:26 AM"
+    "title": "NATO Deputy Secretary General: ‘If we stop or don't do a good enough job for Ukraine, the lesson [others] will learn is that force and aggression and military conflict pays. And this is something I believe would be bad for the rest of the world, not only for Europe.’",
+    "domain": "nato.int",
+    "category": "ukraine",
+    "link": "https://www.nato.int/cps/en/natohq/opinions_214261.htm",
+    "timestamp": 1684210770,
+    "published": "May 16, 2023 12:19 AM"
 }
 ```
 
