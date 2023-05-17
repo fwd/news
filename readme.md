@@ -6,16 +6,16 @@
 - File Size: ~**17MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 16, 2023 6:36 PM
+- Updated: May 17, 2023 6:36 AM
 
 ```
 {
-    "title": "Researchers treat depression by reversing brain signals traveling the wrong way",
-    "domain": "med.stanford.edu",
+    "title": "Meeting the physical activity guidelines for aerobic and muscle-strengthening activity reduces risk of dying from influenza and pneumonia by 48%, new study says",
+    "domain": "bjsm.bmj.com",
     "category": "science",
-    "link": "https://med.stanford.edu/news/all-news/2023/05/depression-reverse-brain-signals.html",
-    "timestamp": 1684213990,
-    "published": "May 16, 2023 1:13 AM"
+    "link": "https://bjsm.bmj.com/content/early/2023/04/18/bjsports-2022-106644",
+    "timestamp": 1684297070,
+    "published": "May 17, 2023 12:17 AM"
 }
 ```
 
