@@ -6,16 +6,16 @@
 - File Size: ~**17MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 17, 2023 6:36 PM
+- Updated: May 18, 2023 6:36 AM
 
 ```
 {
-    "title": "Meeting the physical activity guidelines for aerobic and muscle-strengthening activity reduces risk of dying from influenza and pneumonia by 48%, new study says",
-    "domain": "bjsm.bmj.com",
-    "category": "science",
-    "link": "https://bjsm.bmj.com/content/early/2023/04/18/bjsports-2022-106644",
-    "timestamp": 1684297070,
-    "published": "May 17, 2023 12:17 AM"
+    "title": "Ukraine tells China envoy peace plan must not lose land to Russia",
+    "domain": "aljazeera.com",
+    "category": "worldnews",
+    "link": "https://www.aljazeera.com/news/2023/5/18/ukraine-tells-china-envoy-peace-plan-must-not-lose-land-to-russia",
+    "timestamp": 1684384672,
+    "published": "May 18, 2023 12:37 AM"
 }
 ```
 
