@@ -6,16 +6,16 @@
 - File Size: ~**17MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 18, 2023 6:36 AM
+- Updated: May 18, 2023 6:36 PM
 
 ```
 {
-    "title": "Ukraine tells China envoy peace plan must not lose land to Russia",
-    "domain": "aljazeera.com",
+    "title": "Romanian president: By its illegal aggression against Ukraine, Russia has blatantly violated international law",
+    "domain": "romania-insider.com",
     "category": "worldnews",
-    "link": "https://www.aljazeera.com/news/2023/5/18/ukraine-tells-china-envoy-peace-plan-must-not-lose-land-to-russia",
-    "timestamp": 1684384672,
-    "published": "May 18, 2023 12:37 AM"
+    "link": "https://www.romania-insider.com/romania-president-russia-ukraine-aggression-international-law",
+    "timestamp": 1684385393,
+    "published": "May 18, 2023 12:49 AM"
 }
 ```
 
