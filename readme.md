@@ -1,21 +1,21 @@
 # Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 46k
+- Articles: 47k
 - File Type: JSON
 - File Size: ~**17MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 19, 2023 6:36 AM
+- Updated: May 19, 2023 6:36 PM
 
 ```
 {
-    "title": "Ukraine, United States discuss plan for restoration, protection of energy sector ahead upcoming winter",
-    "domain": "ukrinform.net",
-    "category": "ukraine",
-    "link": "https://www.ukrinform.net/rubric-ato/3711027-ukraine-united-states-discuss-plan-for-restoration-protection-of-energy-sector-ahead-upcoming-winter.html",
-    "timestamp": 1684469350,
-    "published": "May 19, 2023 12:09 AM"
+    "title": "98-year-old woman and her daughter among 3 victims killed by New Mexico student who fired randomly at cars and homes",
+    "domain": "cnn.com",
+    "category": "news",
+    "link": "https://www.cnn.com/2023/05/16/us/farmington-new-mexico-shooting-tuesday-duplicate-2/index.html",
+    "timestamp": 1684471044,
+    "published": "May 19, 2023 12:37 AM"
 }
 ```
 
