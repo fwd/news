@@ -6,16 +6,16 @@
 - File Size: ~**17MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 18, 2023 6:36 PM
+- Updated: May 19, 2023 6:36 AM
 
 ```
 {
-    "title": "Romanian president: By its illegal aggression against Ukraine, Russia has blatantly violated international law",
-    "domain": "romania-insider.com",
-    "category": "worldnews",
-    "link": "https://www.romania-insider.com/romania-president-russia-ukraine-aggression-international-law",
-    "timestamp": 1684385393,
-    "published": "May 18, 2023 12:49 AM"
+    "title": "Ukraine, United States discuss plan for restoration, protection of energy sector ahead upcoming winter",
+    "domain": "ukrinform.net",
+    "category": "ukraine",
+    "link": "https://www.ukrinform.net/rubric-ato/3711027-ukraine-united-states-discuss-plan-for-restoration-protection-of-energy-sector-ahead-upcoming-winter.html",
+    "timestamp": 1684469350,
+    "published": "May 19, 2023 12:09 AM"
 }
 ```
 
