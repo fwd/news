@@ -6,16 +6,16 @@
 - File Size: ~**17MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 20, 2023 6:36 AM
+- Updated: May 20, 2023 6:36 PM
 
 ```
 {
-    "title": "Russia may lack reserves to respond to Ukrainian counteroffensive: Officials",
-    "domain": "abcnews.go.com",
-    "category": "ukraine",
-    "link": "https://abcnews.go.com/International/russia-lack-reserves-respond-ukrainian-counteroffensive-officials/story?id=99423993",
-    "timestamp": 1684555307,
-    "published": "May 20, 2023 12:01 AM"
+    "title": "From sunglasses to milking machines, US halts more exports to Russia",
+    "domain": "reuters.com",
+    "category": "worldnews",
+    "link": "https://www.reuters.com/world/us-commerce-expands-blacklist-wider-russia-sanctions-2023-05-19/",
+    "timestamp": 1684556050,
+    "published": "May 20, 2023 12:14 AM"
 }
 ```
 
