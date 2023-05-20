@@ -6,16 +6,16 @@
 - File Size: ~**17MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 19, 2023 6:36 PM
+- Updated: May 20, 2023 6:36 AM
 
 ```
 {
-    "title": "98-year-old woman and her daughter among 3 victims killed by New Mexico student who fired randomly at cars and homes",
-    "domain": "cnn.com",
-    "category": "news",
-    "link": "https://www.cnn.com/2023/05/16/us/farmington-new-mexico-shooting-tuesday-duplicate-2/index.html",
-    "timestamp": 1684471044,
-    "published": "May 19, 2023 12:37 AM"
+    "title": "Russia may lack reserves to respond to Ukrainian counteroffensive: Officials",
+    "domain": "abcnews.go.com",
+    "category": "ukraine",
+    "link": "https://abcnews.go.com/International/russia-lack-reserves-respond-ukrainian-counteroffensive-officials/story?id=99423993",
+    "timestamp": 1684555307,
+    "published": "May 20, 2023 12:01 AM"
 }
 ```
 
