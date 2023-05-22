@@ -6,16 +6,16 @@
 - File Size: ~**17MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 21, 2023 6:36 PM
+- Updated: May 22, 2023 6:36 AM
 
 ```
 {
-    "title": "Dad dead, teenage children injured after grenade blast at Lakes of the Four Seasons, IN home: police",
-    "domain": "abc7chicago.com",
+    "title": "San Jose Police Arrest Student Armed With Gun at Willow Glen High School",
+    "domain": "nbcbayarea.com",
     "category": "news",
-    "link": "https://abc7chicago.com/crown-point-indiana-lakes-of-the-four-seasons-hand-grenade-bomb-squad/13276870/#amp_tf=From%20%251%24s&aoh=16846415958801&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fabc7chicago.com%2Fcrown-point-indiana-lakes-of-the-four-seasons-hand-grenade-bomb-squad%2F13276870%2F",
-    "timestamp": 1684641634,
-    "published": "May 21, 2023 12:00 AM"
+    "link": "https://www.nbcbayarea.com/news/local/south-bay/san-jose-police-arrest-armed-student/3231743/",
+    "timestamp": 1684729926,
+    "published": "May 22, 2023 12:32 AM"
 }
 ```
 
