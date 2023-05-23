@@ -6,16 +6,16 @@
 - File Size: ~**18MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 23, 2023 6:36 AM
+- Updated: May 23, 2023 6:36 PM
 
 ```
 {
-    "title": "School shooter asks for mercy from life sentence; teacher, principal want him to stay in prison",
-    "domain": "apnews.com",
+    "title": "US man killed by car as he helped ducks cross road in Rocklin",
+    "domain": "bbc.com",
     "category": "news",
-    "link": "https://apnews.com/article/townville-school-shooting-jesse-osborne-0cd4c422fd51a4c357fb9be6caed4bd9",
-    "timestamp": 1684816208,
-    "published": "May 23, 2023 12:30 AM"
+    "link": "https://www.bbc.com/news/world-us-canada-65679387",
+    "timestamp": 1684816729,
+    "published": "May 23, 2023 12:38 AM"
 }
 ```
 
