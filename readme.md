@@ -6,16 +6,16 @@
 - File Size: ~**18MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 23, 2023 6:36 PM
+- Updated: May 24, 2023 6:36 AM
 
 ```
 {
-    "title": "US man killed by car as he helped ducks cross road in Rocklin",
-    "domain": "bbc.com",
-    "category": "news",
-    "link": "https://www.bbc.com/news/world-us-canada-65679387",
-    "timestamp": 1684816729,
-    "published": "May 23, 2023 12:38 AM"
+    "title": "Japan won't join NATO, but local office considered, PM Kishida says",
+    "domain": "reuters.com",
+    "category": "worldnews",
+    "link": "https://www.reuters.com/world/asia-pacific/japan-wont-join-nato-local-office-considered-pm-kishida-says-2023-05-24/",
+    "timestamp": 1684900933,
+    "published": "May 24, 2023 12:02 AM"
 }
 ```
 
