@@ -6,16 +6,16 @@
 - File Size: ~**18MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 24, 2023 6:36 PM
+- Updated: May 25, 2023 6:36 AM
 
 ```
 {
-    "title": "Japan won't join NATO, but local office considered, PM Kishida says",
-    "domain": "reuters.com",
-    "category": "worldnews",
-    "link": "https://www.reuters.com/world/asia-pacific/japan-wont-join-nato-local-office-considered-pm-kishida-says-2023-05-24/",
-    "timestamp": 1684900933,
-    "published": "May 24, 2023 12:02 AM"
+    "title": "The US FDA has now approved the first oral microbiome treatment using Fecal bacteria",
+    "domain": "pubmed.ncbi.nlm.nih.gov",
+    "category": "science",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/37216198/",
+    "timestamp": 1684987794,
+    "published": "May 25, 2023 12:09 AM"
 }
 ```
 
