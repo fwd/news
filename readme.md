@@ -6,16 +6,16 @@
 - File Size: ~**18MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 26, 2023 6:36 AM
+- Updated: May 26, 2023 6:36 PM
 
 ```
 {
-    "title": "155mm presents from new Australian manufacturing plant",
-    "domain": "aumanufacturing.com.au",
-    "category": "ukraine",
-    "link": "https://www.aumanufacturing.com.au/first-exports-roll-out-from-rheinmetall-nioa-munitions",
-    "timestamp": 1685075298,
-    "published": "May 26, 2023 12:28 AM"
+    "title": "World's richest countries are fuelling what a human rights group calls 'modern slavery' | CBC News",
+    "domain": "cbc.ca",
+    "category": "worldnews",
+    "link": "https://www.cbc.ca/news/world/modern-slavery-report-1.6854587",
+    "timestamp": 1685075704,
+    "published": "May 26, 2023 12:35 AM"
 }
 ```
 
