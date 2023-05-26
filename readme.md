@@ -6,16 +6,16 @@
 - File Size: ~**18MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 25, 2023 6:36 PM
+- Updated: May 26, 2023 6:36 AM
 
 ```
 {
-    "title": "Researchers have identified microbes that can break down some of the ‘forever chemicals’ accumulating around the world. Bacteria that snip fluorine–carbon bonds can degrade certain kinds of PFAS, a class of environmental pollutant.",
-    "domain": "nature.com",
-    "category": "science",
-    "link": "https://www.nature.com/articles/s44221-023-00077-6",
-    "timestamp": 1684993693,
-    "published": "May 25, 2023 1:48 AM"
+    "title": "155mm presents from new Australian manufacturing plant",
+    "domain": "aumanufacturing.com.au",
+    "category": "ukraine",
+    "link": "https://www.aumanufacturing.com.au/first-exports-roll-out-from-rheinmetall-nioa-munitions",
+    "timestamp": 1685075298,
+    "published": "May 26, 2023 12:28 AM"
 }
 ```
 
