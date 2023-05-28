@@ -1,21 +1,21 @@
 # Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 47k
+- Articles: 48k
 - File Type: JSON
 - File Size: ~**18MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 27, 2023 6:36 PM
+- Updated: May 28, 2023 6:36 AM
 
 ```
 {
-    "title": "DeSantis campaign tells nervous donors in leaked audio that voters will care more about a recession and Biden's age than the governor's anti-abortion record",
-    "domain": "businessinsider.com",
-    "category": "politics",
-    "link": "https://www.businessinsider.com/desantis-campaign-says-bidens-age-and-recession-will-outweigh-abortion-2023-5",
-    "timestamp": 1685160404,
-    "published": "May 27, 2023 12:06 AM"
+    "title": "Quantifying the human cost of global warming (2023)",
+    "domain": "nature.com",
+    "category": "science",
+    "link": "https://www.nature.com/articles/s41893-023-01132-6",
+    "timestamp": 1685248345,
+    "published": "May 28, 2023 12:32 AM"
 }
 ```
 
