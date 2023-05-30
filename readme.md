@@ -6,16 +6,16 @@
 - File Size: ~**18MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 29, 2023 6:36 PM
+- Updated: May 30, 2023 6:36 AM
 
 ```
 {
-    "title": "Wagner boss attacks Russia's defense minister, says his daughter and son-in-law live in luxury while thousands are sent to die in Ukraine",
-    "domain": "businessinsider.com",
+    "title": "Blinken says US to consider visa restrictions over Ugandan anti-gay law",
+    "domain": "reuters.com",
     "category": "worldnews",
-    "link": "https://www.businessinsider.com/wagner-boss-attacks-russia-defense-minister-family-says-stereotypical-elite-2023-5?inline-endstory-related-recommendations=",
-    "timestamp": 1685333140,
-    "published": "May 29, 2023 12:05 AM"
+    "link": "https://www.reuters.com/world/biden-warns-uganda-possible-sanctions-due-anti-gay-law-2023-05-29/",
+    "timestamp": 1685420073,
+    "published": "May 30, 2023 12:14 AM"
 }
 ```
 
