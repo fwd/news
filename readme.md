@@ -6,16 +6,16 @@
 - File Size: ~**18MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 30, 2023 6:36 AM
+- Updated: May 30, 2023 6:36 PM
 
 ```
 {
-    "title": "Blinken says US to consider visa restrictions over Ugandan anti-gay law",
-    "domain": "reuters.com",
+    "title": "The harness-wearing beluga whale believed to be a Russian spy has popped up in Sweden, puzzling scientists who noted he's traveling 'very quickly away from his natural environment'",
+    "domain": "yahoo.com",
     "category": "worldnews",
-    "link": "https://www.reuters.com/world/biden-warns-uganda-possible-sanctions-due-anti-gay-law-2023-05-29/",
-    "timestamp": 1685420073,
-    "published": "May 30, 2023 12:14 AM"
+    "link": "https://www.yahoo.com/news/harness-wearing-beluga-whale-believed-224234200.html",
+    "timestamp": 1685420299,
+    "published": "May 30, 2023 12:18 AM"
 }
 ```
 
