@@ -6,16 +6,16 @@
 - File Size: ~**18MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 31, 2023 6:36 AM
+- Updated: May 31, 2023 6:36 PM
 
 ```
 {
-    "title": "Attempted murder suspect Baby K found, arrested by US Marshals",
-    "domain": "fox5dc.com",
+    "title": "Cyber thieves swipe $700,000 from Jacksonville-based church network",
+    "domain": "news4jax.com",
     "category": "news",
-    "link": "https://www.fox5dc.com/news/attempted-murder-suspect-baby-k-found-arrested-by-u-s-marshals",
-    "timestamp": 1685505714,
-    "published": "May 31, 2023 12:01 AM"
+    "link": "https://www.news4jax.com/news/local/2023/05/30/cyber-thieves-swipe-700000-from-jacksonville-based-church-network/",
+    "timestamp": 1685506657,
+    "published": "May 31, 2023 12:17 AM"
 }
 ```
 
