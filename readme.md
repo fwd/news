@@ -6,16 +6,16 @@
 - File Size: ~**18MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jun 2, 2023 6:36 AM
+- Updated: Jun 2, 2023 6:36 PM
 
 ```
 {
-    "title": "UnitedHealthcare shifts colonoscopy requirements from controversial ‘prior authorization’ to ‘advance notification’",
-    "domain": "cnn.com",
-    "category": "news",
-    "link": "https://www.cnn.com/2023/06/01/health/unitedhealthcare-colonoscopy-requirements/index.html",
-    "timestamp": 1685678696,
-    "published": "June 2, 2023 12:04 AM"
+    "title": "Japan vending machines to automatically offer free food if earthquake hits",
+    "domain": "theguardian.com",
+    "category": "worldnews",
+    "link": "https://www.theguardian.com/world/2023/jun/02/japan-vending-machines-to-automatically-offer-free-food-if-earthquake-hits",
+    "timestamp": 1685680767,
+    "published": "June 2, 2023 12:39 AM"
 }
 ```
 
