@@ -6,16 +6,16 @@
 - File Size: ~**18MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jun 2, 2023 6:36 PM
+- Updated: Jun 3, 2023 6:36 AM
 
 ```
 {
-    "title": "Japan vending machines to automatically offer free food if earthquake hits",
-    "domain": "theguardian.com",
-    "category": "worldnews",
-    "link": "https://www.theguardian.com/world/2023/jun/02/japan-vending-machines-to-automatically-offer-free-food-if-earthquake-hits",
-    "timestamp": 1685680767,
-    "published": "June 2, 2023 12:39 AM"
+    "title": "New International Bar Association resolutions condemn Russia’s war of aggression, affirm the IBA’s support for Ukrainian sovereignty, and urge UN member states to establish an international criminal tribunal for Russia’s aggression against Ukraine",
+    "domain": "jurist.org",
+    "category": "ukraine",
+    "link": "https://www.jurist.org/news/2023/05/international-bar-association-calls-for-un-to-create-tribunal-for-russia/",
+    "timestamp": 1685765887,
+    "published": "June 3, 2023 12:18 AM"
 }
 ```
 
