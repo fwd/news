@@ -6,16 +6,16 @@
 - File Size: ~**18MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jun 3, 2023 6:36 AM
+- Updated: Jun 3, 2023 6:36 PM
 
 ```
 {
-    "title": "New International Bar Association resolutions condemn Russia’s war of aggression, affirm the IBA’s support for Ukrainian sovereignty, and urge UN member states to establish an international criminal tribunal for Russia’s aggression against Ukraine",
-    "domain": "jurist.org",
-    "category": "ukraine",
-    "link": "https://www.jurist.org/news/2023/05/international-bar-association-calls-for-un-to-create-tribunal-for-russia/",
-    "timestamp": 1685765887,
-    "published": "June 3, 2023 12:18 AM"
+    "title": "Signs Are Pointing to Racketeering Charges in Georgia Trump Probe",
+    "domain": "rollingstone.com",
+    "category": "politics",
+    "link": "https://www.rollingstone.com/politics/politics-news/georgia-trump-probe-expanding-rico-charges-1234746289/",
+    "timestamp": 1685766377,
+    "published": "June 3, 2023 12:26 AM"
 }
 ```
 
