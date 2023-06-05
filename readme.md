@@ -6,16 +6,16 @@
 - File Size: ~**18MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jun 4, 2023 6:36 PM
+- Updated: Jun 5, 2023 6:36 AM
 
 ```
 {
-    "title": "Early-life physical performance predicts the aging and death of elite athletes (2023)",
-    "domain": "science.org",
-    "category": "science",
-    "link": "https://www.science.org/doi/10.1126/sciadv.adf1294",
-    "timestamp": 1685854969,
-    "published": "June 4, 2023 1:02 AM"
+    "title": "Ukraine doubles down on joining NATO ‘very, very’ soon after war",
+    "domain": "politico.eu",
+    "category": "ukraine",
+    "link": "https://www.politico.eu/article/ukraine-nato-very-soon-after-war-ends/",
+    "timestamp": 1685937804,
+    "published": "June 5, 2023 12:03 AM"
 }
 ```
 
