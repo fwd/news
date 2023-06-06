@@ -6,16 +6,16 @@
 - File Size: ~**18MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jun 6, 2023 6:36 AM
+- Updated: Jun 6, 2023 6:36 PM
 
 ```
 {
-    "title": "Russia to face Ukraine at UN court over downing of flight MH17",
-    "domain": "aljazeera.com",
+    "title": "Australia to triple size of protected marine park to area larger than Germany",
+    "domain": "cnn.com",
     "category": "worldnews",
-    "link": "https://www.aljazeera.com/news/2023/6/6/russia-to-face-ukraine-at-un-court-over-downing-of-flight-mh17",
-    "timestamp": 1686027749,
-    "published": "June 6, 2023 1:02 AM"
+    "link": "https://www.cnn.com/travel/article/australia-macquarie-island-marine-park-expansion-intl-hnk/index.html",
+    "timestamp": 1686037212,
+    "published": "June 6, 2023 3:40 AM"
 }
 ```
 
