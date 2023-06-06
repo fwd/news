@@ -6,16 +6,16 @@
 - File Size: ~**18MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jun 5, 2023 6:36 PM
+- Updated: Jun 6, 2023 6:36 AM
 
 ```
 {
-    "title": "Ukraine doubles down on joining NATO ‘very, very’ soon after war",
-    "domain": "politico.eu",
+    "title": "Russia to face Ukraine at UN court over downing of flight MH17",
+    "domain": "aljazeera.com",
     "category": "worldnews",
-    "link": "https://www.politico.eu/article/ukraine-nato-very-soon-after-war-ends/",
-    "timestamp": 1685937817,
-    "published": "June 5, 2023 12:03 AM"
+    "link": "https://www.aljazeera.com/news/2023/6/6/russia-to-face-ukraine-at-un-court-over-downing-of-flight-mh17",
+    "timestamp": 1686027749,
+    "published": "June 6, 2023 1:02 AM"
 }
 ```
 
