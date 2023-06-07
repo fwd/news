@@ -6,16 +6,16 @@
 - File Size: ~**18MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jun 6, 2023 6:36 PM
+- Updated: Jun 7, 2023 6:36 AM
 
 ```
 {
-    "title": "Australia to triple size of protected marine park to area larger than Germany",
-    "domain": "cnn.com",
+    "title": "China's exports plunge by 7.5% in May, far more than expected",
+    "domain": "cnbc.com",
     "category": "worldnews",
-    "link": "https://www.cnn.com/travel/article/australia-macquarie-island-marine-park-expansion-intl-hnk/index.html",
-    "timestamp": 1686037212,
-    "published": "June 6, 2023 3:40 AM"
+    "link": "https://www.cnbc.com/2023/06/07/chinas-exports-plunge-by-7point5percent-in-may-far-more-than-expected.html",
+    "timestamp": 1686110817,
+    "published": "June 7, 2023 12:06 AM"
 }
 ```
 
