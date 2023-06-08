@@ -6,16 +6,16 @@
 - File Size: ~**18MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jun 7, 2023 6:36 PM
+- Updated: Jun 8, 2023 6:36 AM
 
 ```
 {
-    "title": "China's exports plunge by 7.5% in May, far more than expected",
-    "domain": "cnbc.com",
+    "title": "Fused brain cells, neuron damage may explain long COVID",
+    "domain": "au.news.yahoo.com",
     "category": "worldnews",
-    "link": "https://www.cnbc.com/2023/06/07/chinas-exports-plunge-by-7point5percent-in-may-far-more-than-expected.html",
-    "timestamp": 1686110817,
-    "published": "June 7, 2023 12:06 AM"
+    "link": "https://au.news.yahoo.com/long-covid-could-come-brain-173000710.html?utm_source=Content&utm_medium=Social&utm_campaign=Reddit&utm_term=Reddit&ncid=other_redditau_p0v0x1ptm8i",
+    "timestamp": 1686197955,
+    "published": "June 8, 2023 12:19 AM"
 }
 ```
 
