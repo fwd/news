@@ -6,16 +6,16 @@
 - File Size: ~**18MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jun 8, 2023 6:36 AM
+- Updated: Jun 8, 2023 6:36 PM
 
 ```
 {
-    "title": "Fused brain cells, neuron damage may explain long COVID",
-    "domain": "au.news.yahoo.com",
-    "category": "worldnews",
-    "link": "https://au.news.yahoo.com/long-covid-could-come-brain-173000710.html?utm_source=Content&utm_medium=Social&utm_campaign=Reddit&utm_term=Reddit&ncid=other_redditau_p0v0x1ptm8i",
-    "timestamp": 1686197955,
-    "published": "June 8, 2023 12:19 AM"
+    "title": "Casa Bonita reopening: Trey Parker and Matt Stone tell New York Times they spent above $40 million on restoration",
+    "domain": "cbsnews.com",
+    "category": "news",
+    "link": "https://www.cbsnews.com/colorado/news/casa-bonita-reopening-trey-parker-matt-stone-new-york-times-spent-40-million-dollars-restoration-colorado/",
+    "timestamp": 1686198429,
+    "published": "June 8, 2023 12:27 AM"
 }
 ```
 
