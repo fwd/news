@@ -6,16 +6,16 @@
 - File Size: ~**18MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jun 8, 2023 6:36 PM
+- Updated: Jun 9, 2023 6:36 AM
 
 ```
 {
-    "title": "Casa Bonita reopening: Trey Parker and Matt Stone tell New York Times they spent above $40 million on restoration",
-    "domain": "cbsnews.com",
-    "category": "news",
-    "link": "https://www.cbsnews.com/colorado/news/casa-bonita-reopening-trey-parker-matt-stone-new-york-times-spent-40-million-dollars-restoration-colorado/",
-    "timestamp": 1686198429,
-    "published": "June 8, 2023 12:27 AM"
+    "title": "Rep. George Santos must reveal the people who cosigned his $500,000 bond, judge rules",
+    "domain": "usatoday.com",
+    "category": "politics",
+    "link": "https://www.usatoday.com/story/news/politics/2023/06/07/santos-bond-cosigners-revealed/70296877007/",
+    "timestamp": 1686283264,
+    "published": "June 9, 2023 12:01 AM"
 }
 ```
 
