@@ -6,16 +6,16 @@
 - File Size: ~**18MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jun 9, 2023 6:36 PM
+- Updated: Jun 10, 2023 6:36 AM
 
 ```
 {
-    "title": "Rep. George Santos must reveal the people who cosigned his $500,000 bond, judge rules",
-    "domain": "usatoday.com",
-    "category": "politics",
-    "link": "https://www.usatoday.com/story/news/politics/2023/06/07/santos-bond-cosigners-revealed/70296877007/",
-    "timestamp": 1686283264,
-    "published": "June 9, 2023 12:01 AM"
+    "title": "France strong-arms big food companies into cutting prices",
+    "domain": "reuters.com",
+    "category": "worldnews",
+    "link": "https://www.reuters.com/markets/europe/frances-le-maire-says-75-food-firms-cut-prices-2023-06-09/",
+    "timestamp": 1686372545,
+    "published": "June 10, 2023 12:49 AM"
 }
 ```
 
