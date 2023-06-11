@@ -6,16 +6,16 @@
 - File Size: ~**18MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jun 10, 2023 6:36 PM
+- Updated: Jun 11, 2023 6:36 AM
 
 ```
 {
-    "title": "France strong-arms big food companies into cutting prices",
-    "domain": "reuters.com",
+    "title": "Ukrainian Military Reports Heavy Clashes In East As Zelenskiy Says Counteroffensive Actions Under Way",
+    "domain": "rferl.org",
     "category": "worldnews",
-    "link": "https://www.reuters.com/markets/europe/frances-le-maire-says-75-food-firms-cut-prices-2023-06-09/",
-    "timestamp": 1686372545,
-    "published": "June 10, 2023 12:49 AM"
+    "link": "https://www.rferl.org/a/ukraine-flood-evacuations-fighting-offensive-bombings/32453168.html",
+    "timestamp": 1686458990,
+    "published": "June 11, 2023 12:49 AM"
 }
 ```
 
