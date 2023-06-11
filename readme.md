@@ -6,15 +6,15 @@
 - File Size: ~**18MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jun 11, 2023 6:36 AM
+- Updated: Jun 11, 2023 6:36 PM
 
 ```
 {
-    "title": "Ukrainian Military Reports Heavy Clashes In East As Zelenskiy Says Counteroffensive Actions Under Way",
-    "domain": "rferl.org",
+    "title": "After the destruction of Kakhovka Dam, Russian-occupied Crimea is facing serious water supply problems, according to the Ukrainian military",
+    "domain": "kyivindependent.com",
     "category": "worldnews",
-    "link": "https://www.rferl.org/a/ukraine-flood-evacuations-fighting-offensive-bombings/32453168.html",
-    "timestamp": 1686458990,
+    "link": "https://kyivindependent.com/water-supply-problems-in-crimea-due-to-terrorist-attack-on-power-station-leave-russian-proxies-clueless/",
+    "timestamp": 1686458991,
     "published": "June 11, 2023 12:49 AM"
 }
 ```
