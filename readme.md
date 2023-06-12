@@ -6,16 +6,16 @@
 - File Size: ~**18MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jun 11, 2023 6:36 PM
+- Updated: Jun 12, 2023 6:36 AM
 
 ```
 {
-    "title": "After the destruction of Kakhovka Dam, Russian-occupied Crimea is facing serious water supply problems, according to the Ukrainian military",
-    "domain": "kyivindependent.com",
+    "title": "Dmitry Mishov, Russian airman who defected, gives BBC interview",
+    "domain": "bbc.com",
     "category": "worldnews",
-    "link": "https://kyivindependent.com/water-supply-problems-in-crimea-due-to-terrorist-attack-on-power-station-leave-russian-proxies-clueless/",
-    "timestamp": 1686458991,
-    "published": "June 11, 2023 12:49 AM"
+    "link": "https://www.bbc.com/news/world-europe-65867990",
+    "timestamp": 1686542749,
+    "published": "June 12, 2023 12:05 AM"
 }
 ```
 
