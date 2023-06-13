@@ -6,16 +6,16 @@
 - File Size: ~**18MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jun 12, 2023 6:36 PM
+- Updated: Jun 13, 2023 6:36 AM
 
 ```
 {
-    "title": "Dmitry Mishov, Russian airman who defected, gives BBC interview",
-    "domain": "bbc.com",
+    "title": "China Tells Last Indian Journalist in Nation to Leave This Month",
+    "domain": "bloomberg.com",
     "category": "worldnews",
-    "link": "https://www.bbc.com/news/world-europe-65867990",
-    "timestamp": 1686542749,
-    "published": "June 12, 2023 12:05 AM"
+    "link": "https://www.bloomberg.com/news/articles/2023-06-12/china-tells-last-indian-journalist-in-nation-to-leave-this-month",
+    "timestamp": 1686628984,
+    "published": "June 13, 2023 12:03 AM"
 }
 ```
 
