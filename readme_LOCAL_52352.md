@@ -1,23 +1,21 @@
-> It's broken. Hang on..
-
-# Interplanetary News Service
+# Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 44k
+- Articles: 49k
 - File Type: JSON
-- File Size: ~**17MB**
+- File Size: ~**18MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 2, 2023 6:36 AM
+- Updated: Jun 13, 2023 6:36 AM
 
 ```
 {
-    "title": "Canadian government proposes ban on assault-style firearms",
-    "domain": "abcnews.go.com",
+    "title": "China Tells Last Indian Journalist in Nation to Leave This Month",
+    "domain": "bloomberg.com",
     "category": "worldnews",
-    "link": "https://abcnews.go.com/International/wireStory/canadian-government-proposes-ban-assault-style-firearms-98999276",
-    "timestamp": 1683000298,
-    "published": "May 2, 2023 12:04 AM"
+    "link": "https://www.bloomberg.com/news/articles/2023-06-12/china-tells-last-indian-journalist-in-nation-to-leave-this-month",
+    "timestamp": 1686628984,
+    "published": "June 13, 2023 12:03 AM"
 }
 ```
 
