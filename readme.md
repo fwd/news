@@ -1,23 +1,21 @@
-> It's broken. Hang on..
-
-# Interplanetary News Service
+# Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 44k
+- Articles: 49k
 - File Type: JSON
-- File Size: ~**17MB**
+- File Size: ~**18MB**
 - Sources: 4k
 - Categories: 13
-- Updated: May 2, 2023 6:36 AM
+- Updated: Jan 19, 2024 6:15 AM
 
 ```
 {
-    "title": "Canadian government proposes ban on assault-style firearms",
-    "domain": "abcnews.go.com",
+    "title": "North Korean defectors to South tripled in 2023, Seoul says | North Korea",
+    "domain": "theguardian.com",
     "category": "worldnews",
-    "link": "https://abcnews.go.com/International/wireStory/canadian-government-proposes-ban-assault-style-firearms-98999276",
-    "timestamp": 1683000298,
-    "published": "May 2, 2023 12:04 AM"
+    "link": "https://www.theguardian.com/world/2024/jan/19/north-korean-defectors-to-south-tripled-in-2023-seoul-says",
+    "timestamp": 1705643106,
+    "recorded": "January 19, 2024 12:45 AM"
 }
 ```
 

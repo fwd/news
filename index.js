@@ -20,7 +20,7 @@ const readme = require('./build')
 const ChartJSImage = require('chart.js-image')
 
 const reddit = new snoowrap({
-    userAgent: 'put your user-agent string here',
+    userAgent: process.env.USER_AGENT,
     clientId: process.env.REDDIT_CLIENT_ID,
     clientSecret: process.env.REDDIT_CLIENT_SECRET,
     username: process.env.REDDIT_USERNAME,
