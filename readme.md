@@ -6,16 +6,16 @@
 - File Size: ~**18MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 19, 2024 6:16 AM
+- Updated: Jan 19, 2024 6:16 PM
 
 ```
 {
-    "title": "North Korean defectors to South tripled in 2023, Seoul says | North Korea",
-    "domain": "theguardian.com",
+    "title": "NATO official warns West: Be ready for ‘anything’",
+    "domain": "politico.eu",
     "category": "worldnews",
-    "link": "https://www.theguardian.com/world/2024/jan/19/north-korean-defectors-to-south-tripled-in-2023-seoul-says",
-    "timestamp": 1705643106,
-    "recorded": "January 19, 2024 12:45 AM"
+    "link": "https://www.politico.eu/article/nato-needs-warfighting-transformation-says-military-chief/",
+    "timestamp": 1705645321,
+    "recorded": "January 19, 2024 1:22 AM"
 }
 ```
 
