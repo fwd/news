@@ -3,19 +3,19 @@
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - Articles: 49k
 - File Type: JSON
-- File Size: ~**18MB**
+- File Size: ~**19MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 19, 2024 6:16 PM
+- Updated: Jan 20, 2024 6:16 AM
 
 ```
 {
-    "title": "NATO official warns West: Be ready for ‘anything’",
-    "domain": "politico.eu",
-    "category": "worldnews",
-    "link": "https://www.politico.eu/article/nato-needs-warfighting-transformation-says-military-chief/",
-    "timestamp": 1705645321,
-    "recorded": "January 19, 2024 1:22 AM"
+    "title": "Nearly 300-million-year-old Oldest known fossilized reptile skin found in Oklahoma cave resembles that of modern crocodiles",
+    "domain": "arkeonews.net",
+    "category": "news",
+    "link": "https://arkeonews.net/nearly-300-million-year-old-oldest-known-fossilized-reptile-skin-found-in-oklahoma-cave-resembles-that-of-modern-crocodiles/",
+    "timestamp": 1705727644,
+    "recorded": "January 20, 2024 12:14 AM"
 }
 ```
 
