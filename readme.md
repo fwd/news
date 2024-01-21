@@ -6,16 +6,16 @@
 - File Size: ~**19MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 21, 2024 6:16 AM
+- Updated: Jan 21, 2024 6:16 PM
 
 ```
 {
-    "title": "Zelenskyy to Trump: If you can really stop the war in 24 hours, 'I invite you to Ukraine'",
-    "domain": "cbc.ca",
-    "category": "politics",
-    "link": "https://www.cbc.ca/news/world/trump-zelenskyy-ukraine-russia-1.7090119",
-    "timestamp": 1705813297,
-    "recorded": "January 21, 2024 12:01 AM"
+    "title": "A man accused of stabbing a police dog with a screwdriver during a standoff in New Hampshire died Friday, hours after he was shot by police, officials said",
+    "domain": "whdh.com",
+    "category": "news",
+    "link": "https://whdh.com/news/man-who-allegedly-stabbed-police-dog-during-standoff-dies-after-officer-involved-shooting-in-manchester-nh/",
+    "timestamp": 1705819429,
+    "recorded": "January 21, 2024 1:43 AM"
 }
 ```
 
