@@ -6,16 +6,16 @@
 - File Size: ~**19MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 20, 2024 6:16 PM
+- Updated: Jan 21, 2024 6:16 AM
 
 ```
 {
-    "title": "Nearly 300-million-year-old Oldest known fossilized reptile skin found in Oklahoma cave resembles that of modern crocodiles",
-    "domain": "arkeonews.net",
-    "category": "news",
-    "link": "https://arkeonews.net/nearly-300-million-year-old-oldest-known-fossilized-reptile-skin-found-in-oklahoma-cave-resembles-that-of-modern-crocodiles/",
-    "timestamp": 1705727644,
-    "recorded": "January 20, 2024 12:14 AM"
+    "title": "Zelenskyy to Trump: If you can really stop the war in 24 hours, 'I invite you to Ukraine'",
+    "domain": "cbc.ca",
+    "category": "politics",
+    "link": "https://www.cbc.ca/news/world/trump-zelenskyy-ukraine-russia-1.7090119",
+    "timestamp": 1705813297,
+    "recorded": "January 21, 2024 12:01 AM"
 }
 ```
 
