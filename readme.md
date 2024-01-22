@@ -6,16 +6,16 @@
 - File Size: ~**19MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 21, 2024 6:16 PM
+- Updated: Jan 22, 2024 6:16 AM
 
 ```
 {
-    "title": "A man accused of stabbing a police dog with a screwdriver during a standoff in New Hampshire died Friday, hours after he was shot by police, officials said",
-    "domain": "whdh.com",
-    "category": "news",
-    "link": "https://whdh.com/news/man-who-allegedly-stabbed-police-dog-during-standoff-dies-after-officer-involved-shooting-in-manchester-nh/",
-    "timestamp": 1705819429,
-    "recorded": "January 21, 2024 1:43 AM"
+    "title": "Modi Opens a Giant Temple, a Triumph Toward a Hindu-First India",
+    "domain": "nytimes.com",
+    "category": "worldnews",
+    "link": "https://www.nytimes.com/2024/01/22/world/asia/modi-india-ram-temple.html?smtyp=cur&smid=tw-nytimes",
+    "timestamp": 1705901903,
+    "recorded": "January 22, 2024 12:38 AM"
 }
 ```
 
