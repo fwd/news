@@ -6,16 +6,16 @@
 - File Size: ~**19MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 22, 2024 6:16 AM
+- Updated: Jan 22, 2024 6:16 PM
 
 ```
 {
-    "title": "Modi Opens a Giant Temple, a Triumph Toward a Hindu-First India",
-    "domain": "nytimes.com",
-    "category": "worldnews",
-    "link": "https://www.nytimes.com/2024/01/22/world/asia/modi-india-ram-temple.html?smtyp=cur&smid=tw-nytimes",
-    "timestamp": 1705901903,
-    "recorded": "January 22, 2024 12:38 AM"
+    "title": "UK parcel firm disables AI after poetic bot goes rogue",
+    "domain": "reuters.com",
+    "category": "news",
+    "link": "https://www.reuters.com/technology/uk-parcel-firm-disables-ai-after-poetic-bot-goes-rogue-2024-01-20/",
+    "timestamp": 1705901963,
+    "recorded": "January 22, 2024 12:39 AM"
 }
 ```
 
