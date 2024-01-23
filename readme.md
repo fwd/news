@@ -6,16 +6,16 @@
 - File Size: ~**19MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 22, 2024 6:16 PM
+- Updated: Jan 23, 2024 6:16 AM
 
 ```
 {
-    "title": "UK parcel firm disables AI after poetic bot goes rogue",
-    "domain": "reuters.com",
-    "category": "news",
-    "link": "https://www.reuters.com/technology/uk-parcel-firm-disables-ai-after-poetic-bot-goes-rogue-2024-01-20/",
-    "timestamp": 1705901963,
-    "recorded": "January 22, 2024 12:39 AM"
+    "title": "Nikki Haley sweeps 6-person midnight vote in New Hampshire",
+    "domain": "amp.cnn.com",
+    "category": "politics",
+    "link": "https://amp.cnn.com/cnn/2024/01/23/politics/dixville-notch-new-hampshire-primary/index.html",
+    "timestamp": 1705987508,
+    "recorded": "January 23, 2024 12:25 AM"
 }
 ```
 
