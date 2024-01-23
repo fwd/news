@@ -6,16 +6,16 @@
 - File Size: ~**19MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 23, 2024 6:16 AM
+- Updated: Jan 23, 2024 6:16 PM
 
 ```
 {
-    "title": "Nikki Haley sweeps 6-person midnight vote in New Hampshire",
-    "domain": "amp.cnn.com",
-    "category": "politics",
-    "link": "https://amp.cnn.com/cnn/2024/01/23/politics/dixville-notch-new-hampshire-primary/index.html",
-    "timestamp": 1705987508,
-    "recorded": "January 23, 2024 12:25 AM"
+    "title": "Illinois mass shooting suspect dies in Texas - police",
+    "domain": "bbc.co.uk",
+    "category": "news",
+    "link": "https://www.bbc.co.uk/news/world-us-canada-68065165",
+    "timestamp": 1705990263,
+    "recorded": "January 23, 2024 1:11 AM"
 }
 ```
 
