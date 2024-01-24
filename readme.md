@@ -6,16 +6,16 @@
 - File Size: ~**19MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 23, 2024 6:16 PM
+- Updated: Jan 24, 2024 6:16 AM
 
 ```
 {
-    "title": "Illinois mass shooting suspect dies in Texas - police",
-    "domain": "bbc.co.uk",
-    "category": "news",
-    "link": "https://www.bbc.co.uk/news/world-us-canada-68065165",
-    "timestamp": 1705990263,
-    "recorded": "January 23, 2024 1:11 AM"
+    "title": "Top German court strips financing of extreme-right party",
+    "domain": "dw.com",
+    "category": "worldnews",
+    "link": "https://www.dw.com/en/top-german-court-strips-financing-of-extreme-right-party/a-68060445",
+    "timestamp": 1706076639,
+    "recorded": "January 24, 2024 1:10 AM"
 }
 ```
 
