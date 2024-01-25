@@ -6,16 +6,16 @@
 - File Size: ~**19MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 24, 2024 6:16 PM
+- Updated: Jan 25, 2024 6:16 AM
 
 ```
 {
-    "title": "Top German court strips financing of extreme-right party",
-    "domain": "dw.com",
-    "category": "worldnews",
-    "link": "https://www.dw.com/en/top-german-court-strips-financing-of-extreme-right-party/a-68060445",
-    "timestamp": 1706076639,
-    "recorded": "January 24, 2024 1:10 AM"
+    "title": "Young Black men displaying a college/university logo on their hoodies were significantly less likely to be perceived as potential criminals compared to those wearing hoodies with no logo",
+    "domain": "doi.org",
+    "category": "science",
+    "link": "https://doi.org/10.1016/j.jesp.2023.104565",
+    "timestamp": 1706158904,
+    "recorded": "January 25, 2024 12:01 AM"
 }
 ```
 
