@@ -6,16 +6,16 @@
 - File Size: ~**19MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 26, 2024 10:33 PM
+- Updated: Jan 27, 2024 10:33 AM
 
 ```
 {
-    "title": "When Filipino nurses were able to work in the US, it did not cause a \"brain drain\" in the Philippines. Rather, it led to a net increase in nurses in the Philippines, as more Filipinos got educated and only a few left for the US (for each nurse migrant, nine additional nurses stayed).",
-    "domain": "direct.mit.edu",
-    "category": "science",
-    "link": "https://direct.mit.edu/rest/article-abstract/106/1/20/107668/Medical-Worker-Migration-and-Origin-Country-Human?redirectedFrom=fulltext",
-    "timestamp": 1706246186,
-    "recorded": "January 26, 2024 12:16 AM"
+    "title": "France to back any bid for Olympics by India, says French President Emmanuel Macron",
+    "domain": "economictimes.indiatimes.com",
+    "category": "worldnews",
+    "link": "https://economictimes.indiatimes.com/news/sports/france-to-back-any-bid-for-olympics-by-india-says-french-president-emmanuel-macron/articleshow/107178909.cms?from=mdr",
+    "timestamp": 1706331675,
+    "recorded": "January 27, 2024 12:01 AM"
 }
 ```
 
