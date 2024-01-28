@@ -6,16 +6,16 @@
 - File Size: ~**19MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 27, 2024 10:33 AM
+- Updated: Jan 27, 2024 10:33 PM
 
 ```
 {
-    "title": "France to back any bid for Olympics by India, says French President Emmanuel Macron",
-    "domain": "economictimes.indiatimes.com",
-    "category": "worldnews",
-    "link": "https://economictimes.indiatimes.com/news/sports/france-to-back-any-bid-for-olympics-by-india-says-french-president-emmanuel-macron/articleshow/107178909.cms?from=mdr",
-    "timestamp": 1706331675,
-    "recorded": "January 27, 2024 12:01 AM"
+    "title": "Heat and self-report pain sensitivity association with biological sex and racialized minority sociocultural group but may not be mediated by anxiety or pain catastrophizing",
+    "domain": "journals.lww.com",
+    "category": "science",
+    "link": "https://journals.lww.com/painrpts/fulltext/2024/01000/secondary_analysis__heat_and_self_report_pain.6.aspx",
+    "timestamp": 1706338751,
+    "recorded": "January 27, 2024 1:59 AM"
 }
 ```
 
