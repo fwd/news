@@ -6,16 +6,16 @@
 - File Size: ~**19MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 29, 2024 10:33 PM
+- Updated: Jan 30, 2024 10:33 AM
 
 ```
 {
-    "title": "Japan: Moon lander Slim comes back to life and resumes mission",
-    "domain": "bbc.com",
-    "category": "news",
-    "link": "https://www.bbc.com/news/world-asia-68125589",
-    "timestamp": 1706506520,
-    "recorded": "January 29, 2024 12:35 AM"
+    "title": "Roman interviewed about what its like to fight as infantry",
+    "domain": "instagram.com",
+    "category": "ukraine",
+    "link": "https://www.instagram.com/reel/C1sJRu-NF4S/?igsh=MXJ0cGU3em1ja3A4MA==",
+    "timestamp": 1706592326,
+    "recorded": "January 30, 2024 12:25 AM"
 }
 ```
 
