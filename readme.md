@@ -6,16 +6,16 @@
 - File Size: ~**19MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 30, 2024 10:33 PM
+- Updated: Jan 31, 2024 10:33 AM
 
 ```
 {
-    "title": "In a sample of 463 participants from 21 countries, 12% admitted to having concealed a COVID infection and 14% admitted to having feigned the infection at some point during the pandemic.",
-    "domain": "journals.sagepub.com",
-    "category": "science",
-    "link": "https://journals.sagepub.com/doi/full/10.1177/13591053231226033",
-    "timestamp": 1706601384,
-    "recorded": "January 30, 2024 2:56 AM"
+    "title": "OpenAI's ChatGPT breaches privacy rules, says Italian watchdog",
+    "domain": "reuters.com",
+    "category": "news",
+    "link": "https://www.reuters.com/technology/cybersecurity/italy-regulator-notifies-openai-privacy-breaches-chatgpt-2024-01-29/",
+    "timestamp": 1706678194,
+    "recorded": "January 31, 2024 12:16 AM"
 }
 ```
 
