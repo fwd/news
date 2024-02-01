@@ -6,16 +6,16 @@
 - File Size: ~**19MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Jan 31, 2024 10:33 PM
+- Updated: Feb 1, 2024 10:33 AM
 
 ```
 {
-    "title": "Men who eat kimchi 1-3 times a day could be at a lower risk of obesity, according to research funded by the Korean government-backed World Institute of Kimchi. A higher intake of kkakdugi (radish kimchi) was associated with a lower risk of abdominal obesity in both men and women. N= 100,000",
-    "domain": "scimex.org",
-    "category": "science",
-    "link": "https://www.scimex.org/newsfeed/kimchi-three-times-a-day-could-keep-the-kilos-at-bay",
-    "timestamp": 1706678218,
-    "recorded": "January 31, 2024 12:16 AM"
+    "title": "US Congress green signals Predator drone sale to India",
+    "domain": "hindustantimes.com",
+    "category": "worldnews",
+    "link": "https://www.hindustantimes.com/india-news/us-congress-predator-drone-sale-india-101706762470138.html",
+    "timestamp": 1706766652,
+    "recorded": "February 1, 2024 12:50 AM"
 }
 ```
 
