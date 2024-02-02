@@ -6,16 +6,16 @@
 - File Size: ~**19MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 1, 2024 10:33 AM
+- Updated: Feb 1, 2024 10:33 PM
 
 ```
 {
-    "title": "US Congress green signals Predator drone sale to India",
-    "domain": "hindustantimes.com",
+    "title": "Houthis claim to have hit US merchant ship in Red Sea",
+    "domain": "bbc.com",
     "category": "worldnews",
-    "link": "https://www.hindustantimes.com/india-news/us-congress-predator-drone-sale-india-101706762470138.html",
-    "timestamp": 1706766652,
-    "recorded": "February 1, 2024 12:50 AM"
+    "link": "https://www.bbc.com/news/world-middle-east-68162927",
+    "timestamp": 1706766790,
+    "recorded": "February 1, 2024 12:53 AM"
 }
 ```
 
