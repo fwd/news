@@ -6,16 +6,16 @@
 - File Size: ~**19MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 1, 2024 10:33 PM
+- Updated: Feb 2, 2024 10:33 AM
 
 ```
 {
-    "title": "Houthis claim to have hit US merchant ship in Red Sea",
-    "domain": "bbc.com",
-    "category": "worldnews",
-    "link": "https://www.bbc.com/news/world-middle-east-68162927",
-    "timestamp": 1706766790,
-    "recorded": "February 1, 2024 12:53 AM"
+    "title": "Roberta Kaplan says Trump threw papers across table at Mar-a-Lago deposition because his legal team agreed to feed her lunch",
+    "domain": "cnn.com",
+    "category": "politics",
+    "link": "https://www.cnn.com/2024/02/01/politics/roberta-kaplan-donald-trump-deposition-maralago/index.html",
+    "timestamp": 1706851722,
+    "recorded": "February 2, 2024 12:28 AM"
 }
 ```
 
