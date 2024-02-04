@@ -6,16 +6,16 @@
 - File Size: ~**19MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 3, 2024 10:33 PM
+- Updated: Feb 4, 2024 10:33 AM
 
 ```
 {
-    "title": "Richard Scolyer: Melanoma doctor's high-stakes gamble to cure his brain cancer",
-    "domain": "bbc.com",
-    "category": "news",
-    "link": "https://www.bbc.com/news/world-australia-67870595?fbclid=PAAaZfeZhhzo3iEtructpPnGboVrA2rQRkRXS0D6n90sUKT5GbKdLIQnEdHB8",
-    "timestamp": 1706937117,
-    "recorded": "February 3, 2024 12:11 AM"
+    "title": "India involved in election interference in Canada, says intelligence report",
+    "domain": "hindustantimes.com",
+    "category": "worldnews",
+    "link": "https://www.hindustantimes.com/world-news/india-involved-in-election-interference-in-canada-says-intelligence-report-101706852873809.html",
+    "timestamp": 1707024092,
+    "recorded": "February 4, 2024 12:21 AM"
 }
 ```
 
