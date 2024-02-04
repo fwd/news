@@ -6,16 +6,16 @@
 - File Size: ~**19MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 3, 2024 10:33 AM
+- Updated: Feb 3, 2024 10:33 PM
 
 ```
 {
-    "title": "Indian Navy foils another piracy attempt off Somalia coast; 11 Iranian, 8 Pak nationals rescued",
-    "domain": "hindustantimes.com",
-    "category": "worldnews",
-    "link": "https://www.hindustantimes.com/india-news/indian-navy-foils-another-piracy-attempt-off-somalia-11-iranian-8-pak-nationals-rescued-101706883592968.html",
-    "timestamp": 1706936681,
-    "recorded": "February 3, 2024 12:04 AM"
+    "title": "Richard Scolyer: Melanoma doctor's high-stakes gamble to cure his brain cancer",
+    "domain": "bbc.com",
+    "category": "news",
+    "link": "https://www.bbc.com/news/world-australia-67870595?fbclid=PAAaZfeZhhzo3iEtructpPnGboVrA2rQRkRXS0D6n90sUKT5GbKdLIQnEdHB8",
+    "timestamp": 1706937117,
+    "recorded": "February 3, 2024 12:11 AM"
 }
 ```
 
