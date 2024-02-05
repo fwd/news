@@ -1,21 +1,21 @@
 # Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 51k
+- Articles: 52k
 - File Type: JSON
 - File Size: ~**19MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 4, 2024 10:33 PM
+- Updated: Feb 5, 2024 10:33 AM
 
 ```
 {
-    "title": "India involved in election interference in Canada, says intelligence report",
-    "domain": "hindustantimes.com",
-    "category": "worldnews",
-    "link": "https://www.hindustantimes.com/world-news/india-involved-in-election-interference-in-canada-says-intelligence-report-101706852873809.html",
-    "timestamp": 1707024092,
-    "recorded": "February 4, 2024 12:21 AM"
+    "title": "'Zelenskyy: As far as ground war is concerned, it's hit a stalemate, that's a fact' \"We are fighting against terrorists who have one of the largest armies in the world. Ammunition is not enough – we need modern equipment.\" [interview Italian TV channel Rai1]",
+    "domain": "pravda.com.ua",
+    "category": "ukraine",
+    "link": "https://www.pravda.com.ua/eng/news/2024/02/5/7440370/",
+    "timestamp": 1707109580,
+    "recorded": "February 5, 2024 12:06 AM"
 }
 ```
 
