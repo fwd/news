@@ -6,16 +6,16 @@
 - File Size: ~**19MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 5, 2024 10:33 PM
+- Updated: Feb 6, 2024 10:33 AM
 
 ```
 {
-    "title": "'Zelenskyy: As far as ground war is concerned, it's hit a stalemate, that's a fact' \"We are fighting against terrorists who have one of the largest armies in the world. Ammunition is not enough – we need modern equipment.\" [interview Italian TV channel Rai1]",
-    "domain": "pravda.com.ua",
-    "category": "ukraine",
-    "link": "https://www.pravda.com.ua/eng/news/2024/02/5/7440370/",
-    "timestamp": 1707109580,
-    "recorded": "February 5, 2024 12:06 AM"
+    "title": "Most Americans want verdict on Trump election subversion charges before 2024 vote",
+    "domain": "cnn.com",
+    "category": "politics",
+    "link": "https://www.cnn.com/2024/02/05/politics/cnn-poll-trump-verdict-election-charges/index.html",
+    "timestamp": 1707198935,
+    "recorded": "February 6, 2024 12:55 AM"
 }
 ```
 
