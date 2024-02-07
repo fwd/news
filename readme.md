@@ -6,16 +6,16 @@
 - File Size: ~**19MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 6, 2024 10:33 AM
+- Updated: Feb 6, 2024 10:33 PM
 
 ```
 {
-    "title": "Most Americans want verdict on Trump election subversion charges before 2024 vote",
-    "domain": "cnn.com",
-    "category": "politics",
-    "link": "https://www.cnn.com/2024/02/05/politics/cnn-poll-trump-verdict-election-charges/index.html",
-    "timestamp": 1707198935,
-    "recorded": "February 6, 2024 12:55 AM"
+    "title": "Women with polycystic ovary syndrome (PCOS) were eight times more likely to attempt suicide than their peers without the condition. PCOS is a prevalent endocrine disorder, affecting up 10% of women in their reproductive years. N = 18,000 women",
+    "domain": "scimex.org",
+    "category": "science",
+    "link": "https://www.scimex.org/newsfeed/pcos-linked-to-higher-suicide-risk",
+    "timestamp": 1707201130,
+    "recorded": "February 6, 2024 1:32 AM"
 }
 ```
 
