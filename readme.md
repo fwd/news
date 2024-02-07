@@ -6,16 +6,16 @@
 - File Size: ~**19MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 6, 2024 10:33 PM
+- Updated: Feb 7, 2024 10:33 AM
 
 ```
 {
-    "title": "Women with polycystic ovary syndrome (PCOS) were eight times more likely to attempt suicide than their peers without the condition. PCOS is a prevalent endocrine disorder, affecting up 10% of women in their reproductive years. N = 18,000 women",
-    "domain": "scimex.org",
-    "category": "science",
-    "link": "https://www.scimex.org/newsfeed/pcos-linked-to-higher-suicide-risk",
-    "timestamp": 1707201130,
-    "recorded": "February 6, 2024 1:32 AM"
+    "title": "Nikki Haley loses to 'none of these candidates' in the Nevada GOP primary",
+    "domain": "nbcnews.com",
+    "category": "politics",
+    "link": "https://www.nbcnews.com/politics/2024-election/haley-loses-nevada-republican-primary-without-trump-rcna137367",
+    "timestamp": 1707282216,
+    "recorded": "February 7, 2024 12:03 AM"
 }
 ```
 
