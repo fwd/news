@@ -6,16 +6,16 @@
 - File Size: ~**19MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 7, 2024 10:33 PM
+- Updated: Feb 8, 2024 10:33 AM
 
 ```
 {
-    "title": "$375,000 - The Sticker Price for an Iranian Shahed Drone sold to Russia",
-    "domain": "forbes.com",
-    "category": "worldnews",
-    "link": "https://www.forbes.com/sites/erictegler/2024/02/07/375000the-sticker-price-for-an-iranian-shahed-drone/",
-    "timestamp": 1707284880,
-    "recorded": "February 7, 2024 12:48 AM"
+    "title": "LAPD chief says he has 'concerns' about police shooting of man who held plastic fork",
+    "domain": "latimes.com",
+    "category": "news",
+    "link": "https://www.latimes.com/california/story/2024-02-07/lapd-chief-says-he-has-concerns-about-police-shooting-of-man-who-held-plastic-fork",
+    "timestamp": 1707368467,
+    "recorded": "February 8, 2024 12:01 AM"
 }
 ```
 
