@@ -6,16 +6,16 @@
 - File Size: ~**19MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 8, 2024 10:33 PM
+- Updated: Feb 9, 2024 10:33 AM
 
 ```
 {
-    "title": "LAPD chief says he has 'concerns' about police shooting of man who held plastic fork",
-    "domain": "latimes.com",
-    "category": "news",
-    "link": "https://www.latimes.com/california/story/2024-02-07/lapd-chief-says-he-has-concerns-about-police-shooting-of-man-who-held-plastic-fork",
-    "timestamp": 1707368467,
-    "recorded": "February 8, 2024 12:01 AM"
+    "title": "Language barriers could contribute to higher aggression in people with dementia: Immigrants living with dementia were more likely to present with agitation and aggression compared with their non-immigrant counterparts, study finds",
+    "domain": "eurekalert.org",
+    "category": "science",
+    "link": "https://www.eurekalert.org/news-releases/1033975",
+    "timestamp": 1707455245,
+    "recorded": "February 9, 2024 12:07 AM"
 }
 ```
 
