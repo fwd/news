@@ -6,16 +6,16 @@
 - File Size: ~**20MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 9, 2024 10:33 PM
+- Updated: Feb 10, 2024 10:33 AM
 
 ```
 {
-    "title": "Language barriers could contribute to higher aggression in people with dementia: Immigrants living with dementia were more likely to present with agitation and aggression compared with their non-immigrant counterparts, study finds",
-    "domain": "eurekalert.org",
-    "category": "science",
-    "link": "https://www.eurekalert.org/news-releases/1033975",
-    "timestamp": 1707455245,
-    "recorded": "February 9, 2024 12:07 AM"
+    "title": "The Ukrainians 'disappearing' in Russia's prisons",
+    "domain": "bbc.com",
+    "category": "ukraine",
+    "link": "https://www.bbc.com/news/world-europe-67949942",
+    "timestamp": 1707544083,
+    "recorded": "February 10, 2024 12:48 AM"
 }
 ```
 
