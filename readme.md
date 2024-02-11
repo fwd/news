@@ -6,16 +6,16 @@
 - File Size: ~**20MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 10, 2024 10:33 PM
+- Updated: Feb 11, 2024 10:33 AM
 
 ```
 {
-    "title": "The Ukrainians 'disappearing' in Russia's prisons",
-    "domain": "bbc.com",
-    "category": "ukraine",
-    "link": "https://www.bbc.com/news/world-europe-67949942",
-    "timestamp": 1707544083,
-    "recorded": "February 10, 2024 12:48 AM"
+    "title": "Georgia police and FBI conduct Swat-style raids on ‘Cop City’ activists’ homes",
+    "domain": "theguardian.com",
+    "category": "news",
+    "link": "https://www.theguardian.com/us-news/2024/feb/10/georgia-police-fbi-raids-cop-city-activists-atlanta",
+    "timestamp": 1707627801,
+    "recorded": "February 11, 2024 12:03 AM"
 }
 ```
 
