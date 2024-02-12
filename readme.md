@@ -6,16 +6,16 @@
 - File Size: ~**20MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 11, 2024 10:33 PM
+- Updated: Feb 12, 2024 10:33 AM
 
 ```
 {
-    "title": "Georgia police and FBI conduct Swat-style raids on ‘Cop City’ activists’ homes",
-    "domain": "theguardian.com",
-    "category": "news",
-    "link": "https://www.theguardian.com/us-news/2024/feb/10/georgia-police-fbi-raids-cop-city-activists-atlanta",
-    "timestamp": 1707627801,
-    "recorded": "February 11, 2024 12:03 AM"
+    "title": "G.O.P. Officials, Once Critical, Stand by Trump After NATO Comments",
+    "domain": "nytimes.com",
+    "category": "politics",
+    "link": "https://www.nytimes.com/2024/02/12/us/politics/trump-nato-republicans.html",
+    "timestamp": 1707715466,
+    "recorded": "February 12, 2024 12:24 AM"
 }
 ```
 
