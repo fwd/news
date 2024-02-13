@@ -6,16 +6,16 @@
 - File Size: ~**20MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 12, 2024 10:33 PM
+- Updated: Feb 13, 2024 10:33 AM
 
 ```
 {
-    "title": "Researchers found that spaced rows of PV modules combined with shadow-friendly crops had the most promising return and a payback period of less than five years.",
-    "domain": "sciencedirect.com",
-    "category": "science",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0973082624000346",
-    "timestamp": 1707715867,
-    "recorded": "February 12, 2024 12:31 AM"
+    "title": "‘A Palpable Fear of Even Letting Your Friends Know You Are a Democrat’: In deep red Wyoming, a Democratic Party organizer says inflamed political tensions are his greatest hurdle.",
+    "domain": "politico.com",
+    "category": "politics",
+    "link": "https://www.politico.com/news/magazine/2024/02/07/democrat-rural-america-struggles-qa-00139921",
+    "timestamp": 1707805505,
+    "recorded": "February 13, 2024 1:25 AM"
 }
 ```
 
