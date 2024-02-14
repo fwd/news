@@ -6,16 +6,16 @@
 - File Size: ~**20MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 13, 2024 10:33 AM
+- Updated: Feb 13, 2024 10:33 PM
 
 ```
 {
-    "title": "‘A Palpable Fear of Even Letting Your Friends Know You Are a Democrat’: In deep red Wyoming, a Democratic Party organizer says inflamed political tensions are his greatest hurdle.",
-    "domain": "politico.com",
-    "category": "politics",
-    "link": "https://www.politico.com/news/magazine/2024/02/07/democrat-rural-america-struggles-qa-00139921",
-    "timestamp": 1707805505,
-    "recorded": "February 13, 2024 1:25 AM"
+    "title": "Speaker Johnson rejects Israel, Ukraine aid package ahead of Senate vote",
+    "domain": "washingtonpost.com",
+    "category": "ukraine",
+    "link": "https://www.washingtonpost.com/politics/2024/02/12/house-ukraine-johnson-senate/",
+    "timestamp": 1707808566,
+    "recorded": "February 13, 2024 2:16 AM"
 }
 ```
 
