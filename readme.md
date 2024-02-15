@@ -6,16 +6,16 @@
 - File Size: ~**20MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 14, 2024 10:33 AM
+- Updated: Feb 14, 2024 10:33 PM
 
 ```
 {
-    "title": "NY Times: Tunnel under Al-Shifa Hospital used by Hamas ‘for cover, weapons storage’",
-    "domain": "timesofisrael.com",
+    "title": "Russian landing ship Caesar Kunikov hit in Black Sea, it has sunk – intelligence sources, photo, video",
+    "domain": "pravda.com.ua",
     "category": "worldnews",
-    "link": "https://www.timesofisrael.com/ny-times-tunnel-under-al-shifa-hospital-used-by-hamas-for-cover-weapons-storage/",
-    "timestamp": 1707891712,
-    "recorded": "February 14, 2024 1:21 AM"
+    "link": "https://www.pravda.com.ua/eng/news/2024/02/14/7441777/",
+    "timestamp": 1707894915,
+    "recorded": "February 14, 2024 2:15 AM"
 }
 ```
 
