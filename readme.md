@@ -6,16 +6,16 @@
 - File Size: ~**20MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 15, 2024 10:33 AM
+- Updated: Feb 15, 2024 10:33 PM
 
 ```
 {
-    "title": "German Missiles Could Help Ukraine Turn the War",
-    "domain": "cepa.org",
-    "category": "ukraine",
-    "link": "https://cepa.org/article/german-missiles-could-help-ukraine-turn-the-war/",
-    "timestamp": 1707973529,
-    "recorded": "February 15, 2024 12:05 AM"
+    "title": "4 students shot at Benjamin E. Mays High School in Atlanta, police say",
+    "domain": "atlantanewsfirst.com",
+    "category": "news",
+    "link": "https://www.atlantanewsfirst.com/2024/02/14/shots-fired-atlantas-benjamin-e-mays-high-school-district-says/",
+    "timestamp": 1707975224,
+    "recorded": "February 15, 2024 12:33 AM"
 }
 ```
 
