@@ -6,16 +6,16 @@
 - File Size: ~**20MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 15, 2024 10:33 PM
+- Updated: Feb 16, 2024 10:33 AM
 
 ```
 {
-    "title": "4 students shot at Benjamin E. Mays High School in Atlanta, police say",
-    "domain": "atlantanewsfirst.com",
+    "title": "Nebraska police officer fatally shoots teen during welfare check",
+    "domain": "nbcnews.com",
     "category": "news",
-    "link": "https://www.atlantanewsfirst.com/2024/02/14/shots-fired-atlantas-benjamin-e-mays-high-school-district-says/",
-    "timestamp": 1707975224,
-    "recorded": "February 15, 2024 12:33 AM"
+    "link": "https://www.nbcnews.com/news/us-news/nebraska-police-officer-fatally-shoots-teen-welfare-check-rcna137805",
+    "timestamp": 1708061132,
+    "recorded": "February 16, 2024 12:25 AM"
 }
 ```
 
