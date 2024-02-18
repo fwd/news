@@ -6,16 +6,16 @@
 - File Size: ~**20MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 17, 2024 10:33 PM
+- Updated: Feb 18, 2024 10:33 AM
 
 ```
 {
-    "title": "2 dead following shooting on UCCS campus in Colorado",
-    "domain": "kktv.com",
-    "category": "news",
-    "link": "https://www.kktv.com/2024/02/16/2-dead-following-shooting-uccs-campus-colorado/",
-    "timestamp": 1708149093,
-    "recorded": "February 17, 2024 12:51 AM"
+    "title": "Biden says Ukrainian troops were forced to withdraw from Avdiivka due to lack of ammunition and Congress inaction",
+    "domain": "whitehouse.gov",
+    "category": "politics",
+    "link": "https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/17/readout-of-president-bidens-call-with-president-zelenskyy-of-ukraine-13/",
+    "timestamp": 1708237973,
+    "recorded": "February 18, 2024 1:32 AM"
 }
 ```
 
