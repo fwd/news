@@ -6,16 +6,16 @@
 - File Size: ~**20MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 18, 2024 10:33 AM
+- Updated: Feb 18, 2024 10:33 PM
 
 ```
 {
-    "title": "Biden says Ukrainian troops were forced to withdraw from Avdiivka due to lack of ammunition and Congress inaction",
-    "domain": "whitehouse.gov",
-    "category": "politics",
-    "link": "https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/17/readout-of-president-bidens-call-with-president-zelenskyy-of-ukraine-13/",
-    "timestamp": 1708237973,
-    "recorded": "February 18, 2024 1:32 AM"
+    "title": "Significant greenhouse gas emissions resulting from conflict in Ukraine. The sum of such 'unaccounted' emissions of carbon dioxide, methane, and nitrous oxide for 18 months of the war exceeded the annual emissions of some European countries, such as Austria, Hungary, and Portugal.",
+    "domain": "iiasa.ac.at",
+    "category": "science",
+    "link": "https://iiasa.ac.at/news/feb-2024/significant-greenhouse-gas-emissions-resulting-from-conflict-in-ukraine",
+    "timestamp": 1708247370,
+    "recorded": "February 18, 2024 4:09 AM"
 }
 ```
 
