@@ -6,16 +6,16 @@
 - File Size: ~**20MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 18, 2024 10:33 PM
+- Updated: Feb 19, 2024 10:33 AM
 
 ```
 {
-    "title": "Significant greenhouse gas emissions resulting from conflict in Ukraine. The sum of such 'unaccounted' emissions of carbon dioxide, methane, and nitrous oxide for 18 months of the war exceeded the annual emissions of some European countries, such as Austria, Hungary, and Portugal.",
-    "domain": "iiasa.ac.at",
-    "category": "science",
-    "link": "https://iiasa.ac.at/news/feb-2024/significant-greenhouse-gas-emissions-resulting-from-conflict-in-ukraine",
-    "timestamp": 1708247370,
-    "recorded": "February 18, 2024 4:09 AM"
+    "title": "Ministers confirm plan to ban use of mobile phones in schools in England",
+    "domain": "theguardian.com",
+    "category": "worldnews",
+    "link": "https://www.theguardian.com/education/2024/feb/19/ministers-confirm-plan-to-ban-use-of-mobile-phones-in-schools-in-england?utm_term=Autofeed&CMP=twt_gu&utm_medium&utm_source=Twitter#Echobox=1708301937",
+    "timestamp": 1708319431,
+    "recorded": "February 19, 2024 12:10 AM"
 }
 ```
 
