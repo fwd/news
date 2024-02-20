@@ -1,21 +1,21 @@
 # Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 53k
+- Articles: 54k
 - File Type: JSON
 - File Size: ~**20MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 19, 2024 10:33 PM
+- Updated: Feb 20, 2024 10:33 AM
 
 ```
 {
-    "title": "4 men killed in shooting at neighborhood car wash in Birmingham, Alabama",
-    "domain": "cbsnews.com",
+    "title": "US pushes for UN to support temporary Gaza ceasefire, oppose Rafah assault",
+    "domain": "reuters.com",
     "category": "news",
-    "link": "https://www.cbsnews.com/news/birmingham-alabama-shooting-car-wash/",
-    "timestamp": 1708320623,
-    "recorded": "February 19, 2024 12:30 AM"
+    "link": "https://www.reuters.com/world/us-proposes-un-resolution-supporting-temporary-ceasefire-gaza-2024-02-19/",
+    "timestamp": 1708410658,
+    "recorded": "February 20, 2024 1:30 AM"
 }
 ```
 
