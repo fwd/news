@@ -6,16 +6,16 @@
 - File Size: ~**20MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 19, 2024 10:33 AM
+- Updated: Feb 19, 2024 10:33 PM
 
 ```
 {
-    "title": "Ministers confirm plan to ban use of mobile phones in schools in England",
-    "domain": "theguardian.com",
-    "category": "worldnews",
-    "link": "https://www.theguardian.com/education/2024/feb/19/ministers-confirm-plan-to-ban-use-of-mobile-phones-in-schools-in-england?utm_term=Autofeed&CMP=twt_gu&utm_medium&utm_source=Twitter#Echobox=1708301937",
-    "timestamp": 1708319431,
-    "recorded": "February 19, 2024 12:10 AM"
+    "title": "4 men killed in shooting at neighborhood car wash in Birmingham, Alabama",
+    "domain": "cbsnews.com",
+    "category": "news",
+    "link": "https://www.cbsnews.com/news/birmingham-alabama-shooting-car-wash/",
+    "timestamp": 1708320623,
+    "recorded": "February 19, 2024 12:30 AM"
 }
 ```
 
