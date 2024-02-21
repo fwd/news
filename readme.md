@@ -6,16 +6,16 @@
 - File Size: ~**20MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 20, 2024 10:33 AM
+- Updated: Feb 20, 2024 10:33 PM
 
 ```
 {
-    "title": "US pushes for UN to support temporary Gaza ceasefire, oppose Rafah assault",
-    "domain": "reuters.com",
-    "category": "news",
-    "link": "https://www.reuters.com/world/us-proposes-un-resolution-supporting-temporary-ceasefire-gaza-2024-02-19/",
-    "timestamp": 1708410658,
-    "recorded": "February 20, 2024 1:30 AM"
+    "title": "Sweden to send Ukraine their biggest yet military aid package containing boats, anti-air, anti-tanks, torpedoes, ammunition",
+    "domain": "bloomberg.com",
+    "category": "worldnews",
+    "link": "https://www.bloomberg.com/news/articles/2024-02-20/sweden-to-send-ukraine-680-million-military-aid-package",
+    "timestamp": 1708419509,
+    "recorded": "February 20, 2024 3:58 AM"
 }
 ```
 
