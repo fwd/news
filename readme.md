@@ -6,16 +6,16 @@
 - File Size: ~**20MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 20, 2024 10:33 PM
+- Updated: Feb 21, 2024 10:33 AM
 
 ```
 {
-    "title": "Sweden to send Ukraine their biggest yet military aid package containing boats, anti-air, anti-tanks, torpedoes, ammunition",
-    "domain": "bloomberg.com",
+    "title": "Hamas chief Sinwar's health deteriorates, suffering from severe pneumonia - report",
+    "domain": "m.jpost.com",
     "category": "worldnews",
-    "link": "https://www.bloomberg.com/news/articles/2024-02-20/sweden-to-send-ukraine-680-million-military-aid-package",
-    "timestamp": 1708419509,
-    "recorded": "February 20, 2024 3:58 AM"
+    "link": "https://m.jpost.com/israel-hamas-war/article-787999",
+    "timestamp": 1708491656,
+    "recorded": "February 21, 2024 12:00 AM"
 }
 ```
 
