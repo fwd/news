@@ -6,16 +6,16 @@
 - File Size: ~**20MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 21, 2024 8:54 PM
+- Updated: Feb 22, 2024 8:54 AM
 
 ```
 {
-    "title": "Hamas chief Sinwar's health deteriorates, suffering from severe pneumonia - report",
-    "domain": "m.jpost.com",
-    "category": "worldnews",
-    "link": "https://m.jpost.com/israel-hamas-war/article-787999",
-    "timestamp": 1708491656,
-    "recorded": "February 21, 2024 12:00 AM"
+    "title": "Exclusive: Reddit in AI content licensing deal with Google",
+    "domain": "reuters.com",
+    "category": "news",
+    "link": "https://www.reuters.com/technology/reddit-ai-content-licensing-deal-with-google-sources-say-2024-02-22/?taid=65d6d4f74d595a00019e4e4e&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
+    "timestamp": 1708578809,
+    "recorded": "February 22, 2024 12:13 AM"
 }
 ```
 
