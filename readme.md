@@ -6,16 +6,16 @@
 - File Size: ~**20MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 22, 2024 8:54 AM
+- Updated: Feb 22, 2024 8:54 PM
 
 ```
 {
-    "title": "Exclusive: Reddit in AI content licensing deal with Google",
-    "domain": "reuters.com",
+    "title": "Middleton mother shot two children before herself in homicide-suicide, police say",
+    "domain": "jsonline.com",
     "category": "news",
-    "link": "https://www.reuters.com/technology/reddit-ai-content-licensing-deal-with-google-sources-say-2024-02-22/?taid=65d6d4f74d595a00019e4e4e&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
-    "timestamp": 1708578809,
-    "recorded": "February 22, 2024 12:13 AM"
+    "link": "https://www.jsonline.com/story/news/crime/2024/02/21/middleton-mother-shot-two-children-before-herself-in-homicide-suicide/72686582007/",
+    "timestamp": 1708579925,
+    "recorded": "February 22, 2024 12:32 AM"
 }
 ```
 
