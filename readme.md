@@ -6,16 +6,16 @@
 - File Size: ~**20MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 22, 2024 8:54 PM
+- Updated: Feb 23, 2024 8:54 AM
 
 ```
 {
-    "title": "Middleton mother shot two children before herself in homicide-suicide, police say",
-    "domain": "jsonline.com",
-    "category": "news",
-    "link": "https://www.jsonline.com/story/news/crime/2024/02/21/middleton-mother-shot-two-children-before-herself-in-homicide-suicide/72686582007/",
-    "timestamp": 1708579925,
-    "recorded": "February 22, 2024 12:32 AM"
+    "title": "Ukrainian children who lost loved ones in war to address UN Security Council",
+    "domain": "theguardian.com",
+    "category": "ukraine",
+    "link": "https://www.theguardian.com/world/2024/feb/23/ukrainian-children-who-lost-loved-ones-in-war-to-address-un-security-council",
+    "timestamp": 1708668034,
+    "recorded": "February 23, 2024 1:00 AM"
 }
 ```
 
