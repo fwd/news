@@ -6,16 +6,16 @@
 - File Size: ~**20MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 24, 2024 8:54 PM
+- Updated: Feb 25, 2024 8:54 AM
 
 ```
 {
-    "title": "Thousands protest as hunger grows amid Argentine austerity",
-    "domain": "france24.com",
-    "category": "worldnews",
-    "link": "https://www.france24.com/en/live-news/20240223-thousands-protest-as-hunger-grows-amid-argentine-austerity",
-    "timestamp": 1708751118,
-    "recorded": "February 24, 2024 12:05 AM"
+    "title": "Marines pass full financial audit, a first for any US military branch",
+    "domain": "defensenews.com",
+    "category": "politics",
+    "link": "https://www.defensenews.com/global/the-americas/2024/02/23/marines-pass-full-financial-audit-a-first-for-any-us-military-branch/",
+    "timestamp": 1708840082,
+    "recorded": "February 25, 2024 12:48 AM"
 }
 ```
 
