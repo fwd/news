@@ -6,16 +6,16 @@
 - File Size: ~**20MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 25, 2024 8:54 PM
+- Updated: Feb 26, 2024 8:54 AM
 
 ```
 {
-    "title": "Hezbollah fires rockets, drone at Galilee as Israeli jets pounds southern Lebanon",
-    "domain": "timesofisrael.com",
-    "category": "worldnews",
-    "link": "https://www.timesofisrael.com/hezbollah-fires-rockets-drone-at-galilee-as-israeli-jets-pounds-southern-lebanon/",
-    "timestamp": 1708847696,
-    "recorded": "February 25, 2024 2:54 AM"
+    "title": "Photonic neuromorphic architecture for tens-of-task lifelong learning",
+    "domain": "nature.com",
+    "category": "science",
+    "link": "https://www.nature.com/articles/s41377-024-01395-4",
+    "timestamp": 1708924016,
+    "recorded": "February 26, 2024 12:06 AM"
 }
 ```
 
