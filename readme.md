@@ -6,16 +6,16 @@
 - File Size: ~**20MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 25, 2024 8:54 AM
+- Updated: Feb 25, 2024 8:54 PM
 
 ```
 {
-    "title": "Marines pass full financial audit, a first for any US military branch",
-    "domain": "defensenews.com",
-    "category": "politics",
-    "link": "https://www.defensenews.com/global/the-americas/2024/02/23/marines-pass-full-financial-audit-a-first-for-any-us-military-branch/",
-    "timestamp": 1708840082,
-    "recorded": "February 25, 2024 12:48 AM"
+    "title": "Hezbollah fires rockets, drone at Galilee as Israeli jets pounds southern Lebanon",
+    "domain": "timesofisrael.com",
+    "category": "worldnews",
+    "link": "https://www.timesofisrael.com/hezbollah-fires-rockets-drone-at-galilee-as-israeli-jets-pounds-southern-lebanon/",
+    "timestamp": 1708847696,
+    "recorded": "February 25, 2024 2:54 AM"
 }
 ```
 
