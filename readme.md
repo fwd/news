@@ -6,16 +6,16 @@
 - File Size: ~**20MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 26, 2024 8:54 PM
+- Updated: Feb 27, 2024 8:54 AM
 
 ```
 {
-    "title": "Palo Alto police arrest woman who allegedly stole Amazon van",
-    "domain": "cbsnews.com",
-    "category": "news",
-    "link": "https://www.cbsnews.com/sanfrancisco/news/palo-alto-police-arrest-woman-who-allegedly-stole-amazon-van/",
-    "timestamp": 1708924859,
-    "recorded": "February 26, 2024 12:20 AM"
+    "title": "Mexico City may be just months away from running of out water | CNN",
+    "domain": "cnn.com",
+    "category": "worldnews",
+    "link": "https://www.cnn.com/2024/02/25/climate/mexico-city-water-crisis-climate-intl/index.html",
+    "timestamp": 1709010900,
+    "recorded": "February 27, 2024 12:15 AM"
 }
 ```
 
