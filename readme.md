@@ -6,16 +6,16 @@
 - File Size: ~**20MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 26, 2024 8:54 AM
+- Updated: Feb 26, 2024 8:54 PM
 
 ```
 {
-    "title": "Photonic neuromorphic architecture for tens-of-task lifelong learning",
-    "domain": "nature.com",
-    "category": "science",
-    "link": "https://www.nature.com/articles/s41377-024-01395-4",
-    "timestamp": 1708924016,
-    "recorded": "February 26, 2024 12:06 AM"
+    "title": "Palo Alto police arrest woman who allegedly stole Amazon van",
+    "domain": "cbsnews.com",
+    "category": "news",
+    "link": "https://www.cbsnews.com/sanfrancisco/news/palo-alto-police-arrest-woman-who-allegedly-stole-amazon-van/",
+    "timestamp": 1708924859,
+    "recorded": "February 26, 2024 12:20 AM"
 }
 ```
 
