@@ -4,18 +4,18 @@
 - Articles: 55k
 - File Type: JSON
 - File Size: ~**20MB**
-- Sources: 4k
+- Sources: 5k
 - Categories: 13
-- Updated: Feb 27, 2024 8:54 PM
+- Updated: Feb 28, 2024 8:54 AM
 
 ```
 {
-    "title": "A Duplin County man is dead after troopers say a sheriff’s cruiser hit his vehicle while attempting to pass.",
-    "domain": "witn.com",
-    "category": "news",
-    "link": "https://www.witn.com/2024/02/23/troopers-duplin-county-deputy-hits-vehicle-other-driver-killed/",
-    "timestamp": 1709012676,
-    "recorded": "February 27, 2024 12:44 AM"
+    "title": "South Korea’s fertility rate sinks to record low despite $270bn in incentives",
+    "domain": "theguardian.com",
+    "category": "worldnews",
+    "link": "https://www.theguardian.com/world/2024/feb/28/south-korea-fertility-rate-2023-fall-record-low-incentives",
+    "timestamp": 1709097133,
+    "recorded": "February 28, 2024 12:12 AM"
 }
 ```
 
