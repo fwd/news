@@ -1,21 +1,21 @@
 # Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 54k
+- Articles: 55k
 - File Type: JSON
 - File Size: ~**20MB**
 - Sources: 4k
 - Categories: 13
-- Updated: Feb 27, 2024 8:54 AM
+- Updated: Feb 27, 2024 8:54 PM
 
 ```
 {
-    "title": "Mexico City may be just months away from running of out water | CNN",
-    "domain": "cnn.com",
-    "category": "worldnews",
-    "link": "https://www.cnn.com/2024/02/25/climate/mexico-city-water-crisis-climate-intl/index.html",
-    "timestamp": 1709010900,
-    "recorded": "February 27, 2024 12:15 AM"
+    "title": "A Duplin County man is dead after troopers say a sheriff’s cruiser hit his vehicle while attempting to pass.",
+    "domain": "witn.com",
+    "category": "news",
+    "link": "https://www.witn.com/2024/02/23/troopers-duplin-county-deputy-hits-vehicle-other-driver-killed/",
+    "timestamp": 1709012676,
+    "recorded": "February 27, 2024 12:44 AM"
 }
 ```
 
