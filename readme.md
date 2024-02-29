@@ -6,16 +6,16 @@
 - File Size: ~**20MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Feb 28, 2024 8:54 AM
+- Updated: Feb 28, 2024 8:54 PM
 
 ```
 {
-    "title": "South Korea’s fertility rate sinks to record low despite $270bn in incentives",
-    "domain": "theguardian.com",
-    "category": "worldnews",
-    "link": "https://www.theguardian.com/world/2024/feb/28/south-korea-fertility-rate-2023-fall-record-low-incentives",
-    "timestamp": 1709097133,
-    "recorded": "February 28, 2024 12:12 AM"
+    "title": "Adults with attention-deficit/hyperactivity disorder (ADHD) exhibit camouflaging behavior, but to a lesser extent than those with autism, according to this study",
+    "domain": "onlinelibrary.wiley.com",
+    "category": "science",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/aur.3099",
+    "timestamp": 1709098794,
+    "recorded": "February 28, 2024 12:39 AM"
 }
 ```
 
