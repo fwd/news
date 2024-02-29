@@ -3,19 +3,19 @@
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
 - Articles: 55k
 - File Type: JSON
-- File Size: ~**20MB**
+- File Size: ~**21MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Feb 28, 2024 8:54 PM
+- Updated: Feb 29, 2024 8:54 AM
 
 ```
 {
-    "title": "Adults with attention-deficit/hyperactivity disorder (ADHD) exhibit camouflaging behavior, but to a lesser extent than those with autism, according to this study",
-    "domain": "onlinelibrary.wiley.com",
+    "title": "Ultra-processed food linked to harmful effects to health | Exposure and adverse health outcomes: umbrella review of epidemiological meta-analyses",
+    "domain": "theguardian.com",
     "category": "science",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1002/aur.3099",
-    "timestamp": 1709098794,
-    "recorded": "February 28, 2024 12:39 AM"
+    "link": "https://www.theguardian.com/society/2024/feb/28/ultra-processed-food-32-harmful-effects-health-review",
+    "timestamp": 1709183206,
+    "recorded": "February 29, 2024 12:06 AM"
 }
 ```
 
