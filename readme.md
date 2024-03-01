@@ -6,16 +6,16 @@
 - File Size: ~**21MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Feb 29, 2024 8:54 PM
+- Updated: Mar 1, 2024 8:54 AM
 
 ```
 {
-    "title": "Ultra-processed food linked to harmful effects to health | Exposure and adverse health outcomes: umbrella review of epidemiological meta-analyses",
-    "domain": "theguardian.com",
-    "category": "science",
-    "link": "https://www.theguardian.com/society/2024/feb/28/ultra-processed-food-32-harmful-effects-health-review",
-    "timestamp": 1709183206,
-    "recorded": "February 29, 2024 12:06 AM"
+    "title": "Man wielding sword shot, killed by Pima County deputy",
+    "domain": "kgun9.com",
+    "category": "news",
+    "link": "https://www.kgun9.com/news/local-news/man-wielding-sword-shot-killed-by-pima-county-deputies-on-southside",
+    "timestamp": 1709269315,
+    "recorded": "March 1, 2024 12:01 AM"
 }
 ```
 
