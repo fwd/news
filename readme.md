@@ -6,16 +6,16 @@
 - File Size: ~**21MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 1, 2024 8:54 PM
+- Updated: Mar 2, 2024 8:54 AM
 
 ```
 {
-    "title": "Leaked Russian military files reveal Moscow rehearses tactical nuclear weapons response to Chinese invasion",
-    "domain": "news.yahoo.com",
-    "category": "worldnews",
-    "link": "https://news.yahoo.com/leaked-russian-military-files-reveal-090500437.html",
-    "timestamp": 1709270208,
-    "recorded": "March 1, 2024 12:16 AM"
+    "title": "\"Like someone pulled the metaphorical plug\": Dr. John Gartner on Trump's \"accelerating dementia\"",
+    "domain": "salon.com",
+    "category": "politics",
+    "link": "https://www.salon.com/2024/03/01/like-someone-pulled-the-metaphorical-plug-dr-john-gartner-on-accelerating-dementia/",
+    "timestamp": 1709358668,
+    "recorded": "March 2, 2024 12:51 AM"
 }
 ```
 
