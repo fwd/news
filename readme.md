@@ -6,16 +6,16 @@
 - File Size: ~**21MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 1, 2024 8:54 AM
+- Updated: Mar 1, 2024 8:54 PM
 
 ```
 {
-    "title": "Man wielding sword shot, killed by Pima County deputy",
-    "domain": "kgun9.com",
-    "category": "news",
-    "link": "https://www.kgun9.com/news/local-news/man-wielding-sword-shot-killed-by-pima-county-deputies-on-southside",
-    "timestamp": 1709269315,
-    "recorded": "March 1, 2024 12:01 AM"
+    "title": "Leaked Russian military files reveal Moscow rehearses tactical nuclear weapons response to Chinese invasion",
+    "domain": "news.yahoo.com",
+    "category": "worldnews",
+    "link": "https://news.yahoo.com/leaked-russian-military-files-reveal-090500437.html",
+    "timestamp": 1709270208,
+    "recorded": "March 1, 2024 12:16 AM"
 }
 ```
 
