@@ -6,16 +6,16 @@
 - File Size: ~**21MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 3, 2024 8:54 AM
+- Updated: Mar 3, 2024 8:54 PM
 
 ```
 {
-    "title": "Ukraine: Switzerland implements the EU’s 13th package of sanctions",
-    "domain": "www-admin-ch.translate.goog",
-    "category": "ukraine",
-    "link": "https://www-admin-ch.translate.goog/gov/en/start/documentation/media-releases.msg-id-100270.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp",
-    "timestamp": 1709444438,
-    "recorded": "March 3, 2024 12:40 AM"
+    "title": "Medicines Regimens Charted for Older People Living in Residential Aged Care: A Repeated Cross-Sectional Study Describing the Number of Medicines, Regimen Complexity, High-Risk Prescribing, and Potential Underprescribing",
+    "domain": "sciencedirect.com",
+    "category": "science",
+    "link": "https://www.sciencedirect.com/science/article/abs/pii/S1525861024000690",
+    "timestamp": 1709448411,
+    "recorded": "March 3, 2024 1:46 AM"
 }
 ```
 
