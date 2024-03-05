@@ -6,16 +6,16 @@
 - File Size: ~**21MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 4, 2024 8:54 AM
+- Updated: Mar 4, 2024 8:54 PM
 
 ```
 {
-    "title": "Nikki Haley beats Donald Trump in Washington DC for first primary victory - BBC News",
-    "domain": "bbc.com",
-    "category": "politics",
-    "link": "https://www.bbc.com/news/world-us-canada-68465057",
-    "timestamp": 1709529378,
-    "recorded": "March 4, 2024 12:16 AM"
+    "title": "Zelenskyy calls allies' delay of military support 'unacceptable'",
+    "domain": "standardmedia.co.ke",
+    "category": "ukraine",
+    "link": "https://www.standardmedia.co.ke/europe/article/2001490830/zelenskyy-calls-allies-delay-of-military-support-unacceptable",
+    "timestamp": 1709531677,
+    "recorded": "March 4, 2024 12:54 AM"
 }
 ```
 
