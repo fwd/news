@@ -6,16 +6,16 @@
 - File Size: ~**21MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 5, 2024 8:54 PM
+- Updated: Mar 6, 2024 8:54 AM
 
 ```
 {
-    "title": "Kremlin 'Has Nothing to Say' About Large Crowds at Navalny Gravesite",
-    "domain": "themoscowtimes.com",
-    "category": "worldnews",
-    "link": "https://www.themoscowtimes.com/2024/03/04/kremlin-has-nothing-to-say-about-large-crowds-at-navalny-gravesite-a84327",
-    "timestamp": 1709626814,
-    "recorded": "March 5, 2024 3:20 AM"
+    "title": "Credit card late fees capped at $8 as part of Biden administration crackdown on junk fees | CNN Business",
+    "domain": "cnn.com",
+    "category": "news",
+    "link": "https://www.cnn.com/2024/03/05/investing/credit-card-late-fees-biden/index.html",
+    "timestamp": 1709701636,
+    "recorded": "March 6, 2024 12:07 AM"
 }
 ```
 
