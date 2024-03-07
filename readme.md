@@ -6,16 +6,16 @@
 - File Size: ~**21MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 6, 2024 8:54 PM
+- Updated: Mar 7, 2024 8:54 AM
 
 ```
 {
-    "title": "Credit card late fees capped at $8 as part of Biden administration crackdown on junk fees | CNN Business",
-    "domain": "cnn.com",
-    "category": "news",
-    "link": "https://www.cnn.com/2024/03/05/investing/credit-card-late-fees-biden/index.html",
-    "timestamp": 1709701636,
-    "recorded": "March 6, 2024 12:07 AM"
+    "title": "Republicans Just Nominated a Conspiracy Theorist Who Compared Gay People to Maggots",
+    "domain": "rollingstone.com",
+    "category": "politics",
+    "link": "https://www.rollingstone.com/politics/politics-news/mark-robinson-north-carolina-gop-primary-governor-1234981673/",
+    "timestamp": 1709789595,
+    "recorded": "March 7, 2024 12:33 AM"
 }
 ```
 
