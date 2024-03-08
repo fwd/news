@@ -6,16 +6,16 @@
 - File Size: ~**21MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 7, 2024 8:54 AM
+- Updated: Mar 7, 2024 8:54 PM
 
 ```
 {
-    "title": "Republicans Just Nominated a Conspiracy Theorist Who Compared Gay People to Maggots",
-    "domain": "rollingstone.com",
-    "category": "politics",
-    "link": "https://www.rollingstone.com/politics/politics-news/mark-robinson-north-carolina-gop-primary-governor-1234981673/",
-    "timestamp": 1709789595,
-    "recorded": "March 7, 2024 12:33 AM"
+    "title": "Doritos cuts ties with transgender influencer over posts",
+    "domain": "bbc.com",
+    "category": "news",
+    "link": "https://www.bbc.com/news/world-us-canada-68495705",
+    "timestamp": 1709790594,
+    "recorded": "March 7, 2024 12:49 AM"
 }
 ```
 
