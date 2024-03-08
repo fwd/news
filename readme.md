@@ -6,16 +6,16 @@
 - File Size: ~**21MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 7, 2024 8:54 PM
+- Updated: Mar 8, 2024 8:54 AM
 
 ```
 {
-    "title": "Doritos cuts ties with transgender influencer over posts",
-    "domain": "bbc.com",
-    "category": "news",
-    "link": "https://www.bbc.com/news/world-us-canada-68495705",
-    "timestamp": 1709790594,
-    "recorded": "March 7, 2024 12:49 AM"
+    "title": "‘What the Hell Am I Watching’: Republicans Torch Their Own SOTU Rebuttal | Alabama Sen. Katie Britt was panned after delivering the most bizarre State of the Union rebuttal in recent memory",
+    "domain": "rollingstone.com",
+    "category": "politics",
+    "link": "https://www.rollingstone.com/politics/politics-news/katie-britt-sotu-rebuttal-torched-republicans-1234983528/",
+    "timestamp": 1709878654,
+    "recorded": "March 8, 2024 1:17 AM"
 }
 ```
 
