@@ -6,16 +6,16 @@
 - File Size: ~**21MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 8, 2024 8:54 PM
+- Updated: Mar 9, 2024 8:54 AM
 
 ```
 {
-    "title": "‘What the Hell Am I Watching’: Republicans Torch Their Own SOTU Rebuttal | Alabama Sen. Katie Britt was panned after delivering the most bizarre State of the Union rebuttal in recent memory",
-    "domain": "rollingstone.com",
-    "category": "politics",
-    "link": "https://www.rollingstone.com/politics/politics-news/katie-britt-sotu-rebuttal-torched-republicans-1234983528/",
-    "timestamp": 1709878654,
-    "recorded": "March 8, 2024 1:17 AM"
+    "title": "Ukrainians do not share their land, they bury invaders in it – National Security and Defence Council Secretary",
+    "domain": "pravda.com.ua",
+    "category": "ukraine",
+    "link": "https://www.pravda.com.ua/eng/news/2024/03/6/7445211/",
+    "timestamp": 1709960490,
+    "recorded": "March 9, 2024 12:01 AM"
 }
 ```
 
