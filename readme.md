@@ -6,16 +6,16 @@
 - File Size: ~**21MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 9, 2024 8:54 AM
+- Updated: Mar 9, 2024 8:54 PM
 
 ```
 {
-    "title": "Ukrainians do not share their land, they bury invaders in it – National Security and Defence Council Secretary",
-    "domain": "pravda.com.ua",
+    "title": "Zelenskyy rules out Erdogan's idea of peace summit with Russia during Turkey visit",
+    "domain": "kyivindependent.com",
     "category": "ukraine",
-    "link": "https://www.pravda.com.ua/eng/news/2024/03/6/7445211/",
-    "timestamp": 1709960490,
-    "recorded": "March 9, 2024 12:01 AM"
+    "link": "https://kyivindependent.com/ukraine-war-latest-zelensky-visits-turkey/",
+    "timestamp": 1709960840,
+    "recorded": "March 9, 2024 12:07 AM"
 }
 ```
 
