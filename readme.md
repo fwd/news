@@ -6,16 +6,16 @@
 - File Size: ~**21MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 9, 2024 8:54 PM
+- Updated: Mar 10, 2024 9:54 AM
 
 ```
 {
-    "title": "Zelenskyy rules out Erdogan's idea of peace summit with Russia during Turkey visit",
-    "domain": "kyivindependent.com",
-    "category": "ukraine",
-    "link": "https://kyivindependent.com/ukraine-war-latest-zelensky-visits-turkey/",
-    "timestamp": 1709960840,
-    "recorded": "March 9, 2024 12:07 AM"
+    "title": "Qatar threatens expulsion of Hamas leaders over lack of negotiation progress - report - I24NEWS",
+    "domain": "i24news.tv",
+    "category": "worldnews",
+    "link": "https://www.i24news.tv/en/news/israel-at-war/1710009284-qatar-threatens-expulsion-of-hamas-leaders-over-lack-of-negotiation-progress-report",
+    "timestamp": 1710047658,
+    "recorded": "March 10, 2024 12:14 AM"
 }
 ```
 
