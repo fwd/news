@@ -6,16 +6,16 @@
 - File Size: ~**21MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 10, 2024 9:54 PM
+- Updated: Mar 11, 2024 9:54 AM
 
 ```
 {
-    "title": "Russian student jailed for renaming Wi-Fi network to pro-Ukraine salute",
+    "title": "Poland's Duda, Tusk to visit US to lobby for Ukraine",
     "domain": "kyivindependent.com",
-    "category": "worldnews",
-    "link": "https://kyivindependent.com/russian-student-jailed-for-renaming-wi-fi-network-to-pro-ukraine-salute/",
-    "timestamp": 1710049162,
-    "recorded": "March 10, 2024 12:39 AM"
+    "category": "ukraine",
+    "link": "https://kyivindependent.com/polands-duda-tusk-to-visit-us-to-lobby-for-ukraine/",
+    "timestamp": 1710131020,
+    "recorded": "March 11, 2024 12:23 AM"
 }
 ```
 
