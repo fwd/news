@@ -6,16 +6,16 @@
 - File Size: ~**21MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 10, 2024 9:54 AM
+- Updated: Mar 10, 2024 9:54 PM
 
 ```
 {
-    "title": "Qatar threatens expulsion of Hamas leaders over lack of negotiation progress - report - I24NEWS",
-    "domain": "i24news.tv",
+    "title": "Russian student jailed for renaming Wi-Fi network to pro-Ukraine salute",
+    "domain": "kyivindependent.com",
     "category": "worldnews",
-    "link": "https://www.i24news.tv/en/news/israel-at-war/1710009284-qatar-threatens-expulsion-of-hamas-leaders-over-lack-of-negotiation-progress-report",
-    "timestamp": 1710047658,
-    "recorded": "March 10, 2024 12:14 AM"
+    "link": "https://kyivindependent.com/russian-student-jailed-for-renaming-wi-fi-network-to-pro-ukraine-salute/",
+    "timestamp": 1710049162,
+    "recorded": "March 10, 2024 12:39 AM"
 }
 ```
 
