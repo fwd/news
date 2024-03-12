@@ -6,16 +6,16 @@
 - File Size: ~**21MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 11, 2024 9:54 AM
+- Updated: Mar 11, 2024 9:54 PM
 
 ```
 {
-    "title": "Poland's Duda, Tusk to visit US to lobby for Ukraine",
-    "domain": "kyivindependent.com",
-    "category": "ukraine",
-    "link": "https://kyivindependent.com/polands-duda-tusk-to-visit-us-to-lobby-for-ukraine/",
-    "timestamp": 1710131020,
-    "recorded": "March 11, 2024 12:23 AM"
+    "title": "Pope Francis criticized for suggesting Ukraine raise ‘white flag’",
+    "domain": "ynetnews.com",
+    "category": "worldnews",
+    "link": "https://www.ynetnews.com/article/sy2z39o6p",
+    "timestamp": 1710133144,
+    "recorded": "March 11, 2024 12:59 AM"
 }
 ```
 
