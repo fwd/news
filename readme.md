@@ -6,16 +6,16 @@
 - File Size: ~**21MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 11, 2024 9:54 PM
+- Updated: Mar 12, 2024 9:54 AM
 
 ```
 {
-    "title": "Pope Francis criticized for suggesting Ukraine raise ‘white flag’",
-    "domain": "ynetnews.com",
+    "title": "IDF: Soldiers kill would-be suicide bomber ‘en route’ to carry out attack in Israel",
+    "domain": "timesofisrael.com",
     "category": "worldnews",
-    "link": "https://www.ynetnews.com/article/sy2z39o6p",
-    "timestamp": 1710133144,
-    "recorded": "March 11, 2024 12:59 AM"
+    "link": "https://www.timesofisrael.com/idf-soldiers-kill-would-be-suicide-bomber-en-route-to-carry-out-attack-in-israel/",
+    "timestamp": 1710217838,
+    "recorded": "March 12, 2024 12:30 AM"
 }
 ```
 
