@@ -6,16 +6,16 @@
 - File Size: ~**21MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 12, 2024 9:54 PM
+- Updated: Mar 13, 2024 9:54 AM
 
 ```
 {
-    "title": "IDF: Soldiers kill would-be suicide bomber ‘en route’ to carry out attack in Israel",
-    "domain": "timesofisrael.com",
-    "category": "worldnews",
-    "link": "https://www.timesofisrael.com/idf-soldiers-kill-would-be-suicide-bomber-en-route-to-carry-out-attack-in-israel/",
-    "timestamp": 1710217838,
-    "recorded": "March 12, 2024 12:30 AM"
+    "title": "Sibling aggression is surprisingly common and sexually egalitarian",
+    "domain": "sciencedirect.com",
+    "category": "science",
+    "link": "https://www.sciencedirect.com/science/article/abs/pii/S1090513824000242",
+    "timestamp": 1710303961,
+    "recorded": "March 13, 2024 12:26 AM"
 }
 ```
 
