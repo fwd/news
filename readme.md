@@ -1,21 +1,21 @@
 # Headline Dataset
 
 - Dataset: [/headlines.json](https://raw.githubusercontent.com/fwd/news/master/headlines.json) 
-- Articles: 56k
+- Articles: 57k
 - File Type: JSON
 - File Size: ~**21MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 13, 2024 9:54 PM
+- Updated: Mar 14, 2024 9:54 AM
 
 ```
 {
-    "title": "Sibling aggression is surprisingly common and sexually egalitarian",
+    "title": "Longitudinal profiling of the microbiome at four body sites reveals core stability and individualized dynamics during health and disease",
     "domain": "sciencedirect.com",
     "category": "science",
-    "link": "https://www.sciencedirect.com/science/article/abs/pii/S1090513824000242",
-    "timestamp": 1710303961,
-    "recorded": "March 13, 2024 12:26 AM"
+    "link": "https://www.sciencedirect.com/science/article/pii/S1931312824000568",
+    "timestamp": 1710389786,
+    "recorded": "March 14, 2024 12:16 AM"
 }
 ```
 
