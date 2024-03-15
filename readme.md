@@ -6,16 +6,16 @@
 - File Size: ~**21MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 14, 2024 9:54 PM
+- Updated: Mar 15, 2024 9:54 AM
 
 ```
 {
-    "title": "Navalny's Widow Calls Putin A 'Gangster' Unworthy To Be Recognized As President",
-    "domain": "rferl.org",
-    "category": "worldnews",
-    "link": "https://www.rferl.org/a/russia-election-putin-gangster-navalnaya-navalny/32860613.html",
-    "timestamp": 1710392349,
-    "recorded": "March 14, 2024 12:59 AM"
+    "title": "3 Kansas City men face federal gun charges connected to Chiefs parade mass shooting",
+    "domain": "kcur.org",
+    "category": "news",
+    "link": "https://www.kcur.org/news/2024-03-13/3-kansas-city-men-face-federal-gun-charges-connected-to-chiefs-parade-mass-shooting",
+    "timestamp": 1710477650,
+    "recorded": "March 15, 2024 12:40 AM"
 }
 ```
 
