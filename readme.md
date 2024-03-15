@@ -6,16 +6,16 @@
 - File Size: ~**21MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 14, 2024 9:54 AM
+- Updated: Mar 14, 2024 9:54 PM
 
 ```
 {
-    "title": "Longitudinal profiling of the microbiome at four body sites reveals core stability and individualized dynamics during health and disease",
-    "domain": "sciencedirect.com",
-    "category": "science",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1931312824000568",
-    "timestamp": 1710389786,
-    "recorded": "March 14, 2024 12:16 AM"
+    "title": "Navalny's Widow Calls Putin A 'Gangster' Unworthy To Be Recognized As President",
+    "domain": "rferl.org",
+    "category": "worldnews",
+    "link": "https://www.rferl.org/a/russia-election-putin-gangster-navalnaya-navalny/32860613.html",
+    "timestamp": 1710392349,
+    "recorded": "March 14, 2024 12:59 AM"
 }
 ```
 
