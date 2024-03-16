@@ -6,16 +6,16 @@
 - File Size: ~**21MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 15, 2024 9:54 PM
+- Updated: Mar 16, 2024 9:54 AM
 
 ```
 {
-    "title": "Reuters: Russia believed to have jammed signal on plane carrying UK defense minister",
-    "domain": "kyivindependent.com",
-    "category": "worldnews",
-    "link": "https://kyivindependent.com/reuters-russia-believed-to-have-jammed-signal-on-plane-carrying-uk-defense-minister/",
-    "timestamp": 1710480018,
-    "recorded": "March 15, 2024 1:20 AM"
+    "title": "Nashville bar says missing Mizzou student was served only 1 drink before he disappeared",
+    "domain": "nbcnews.com",
+    "category": "news",
+    "link": "https://www.nbcnews.com/news/rcna143681",
+    "timestamp": 1710562258,
+    "recorded": "March 16, 2024 12:10 AM"
 }
 ```
 
