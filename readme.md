@@ -6,16 +6,16 @@
 - File Size: ~**21MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 15, 2024 9:54 AM
+- Updated: Mar 15, 2024 9:54 PM
 
 ```
 {
-    "title": "3 Kansas City men face federal gun charges connected to Chiefs parade mass shooting",
-    "domain": "kcur.org",
-    "category": "news",
-    "link": "https://www.kcur.org/news/2024-03-13/3-kansas-city-men-face-federal-gun-charges-connected-to-chiefs-parade-mass-shooting",
-    "timestamp": 1710477650,
-    "recorded": "March 15, 2024 12:40 AM"
+    "title": "Reuters: Russia believed to have jammed signal on plane carrying UK defense minister",
+    "domain": "kyivindependent.com",
+    "category": "worldnews",
+    "link": "https://kyivindependent.com/reuters-russia-believed-to-have-jammed-signal-on-plane-carrying-uk-defense-minister/",
+    "timestamp": 1710480018,
+    "recorded": "March 15, 2024 1:20 AM"
 }
 ```
 
