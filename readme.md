@@ -6,16 +6,16 @@
 - File Size: ~**21MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 16, 2024 9:54 PM
+- Updated: Mar 17, 2024 9:54 AM
 
 ```
 {
-    "title": "Nashville bar says missing Mizzou student was served only 1 drink before he disappeared",
-    "domain": "nbcnews.com",
-    "category": "news",
-    "link": "https://www.nbcnews.com/news/rcna143681",
-    "timestamp": 1710562258,
-    "recorded": "March 16, 2024 12:10 AM"
+    "title": "Texas governor predicted donations would pay for busing migrants out of state. He’s collected less than 1% of that cost | CNN Politics",
+    "domain": "cnn.com",
+    "category": "politics",
+    "link": "https://www.cnn.com/2024/03/15/politics/texas-busing-migrants-donations-invs/index.html",
+    "timestamp": 1710648712,
+    "recorded": "March 17, 2024 12:11 AM"
 }
 ```
 
