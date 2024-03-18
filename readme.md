@@ -6,16 +6,16 @@
 - File Size: ~**21MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 17, 2024 9:54 AM
+- Updated: Mar 17, 2024 9:54 PM
 
 ```
 {
-    "title": "Texas governor predicted donations would pay for busing migrants out of state. He’s collected less than 1% of that cost | CNN Politics",
-    "domain": "cnn.com",
-    "category": "politics",
-    "link": "https://www.cnn.com/2024/03/15/politics/texas-busing-migrants-donations-invs/index.html",
-    "timestamp": 1710648712,
-    "recorded": "March 17, 2024 12:11 AM"
+    "title": "A new study shows that compared to nonexperts, experts are more likely to know how much they know and the limits of their knowledge",
+    "domain": "onlinelibrary.wiley.com",
+    "category": "science",
+    "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/bdm.2375",
+    "timestamp": 1710650431,
+    "recorded": "March 17, 2024 12:40 AM"
 }
 ```
 
