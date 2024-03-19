@@ -6,16 +6,16 @@
 - File Size: ~**21MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 18, 2024 9:54 AM
+- Updated: Mar 18, 2024 9:54 PM
 
 ```
 {
-    "title": "Russia-China relations will become stronger, Vladimir Putin says in post-election victory speech",
-    "domain": "scmp.com",
+    "title": "Mediazona confirms identities of over 47,700 Russian soldiers killed in Ukraine",
+    "domain": "kyivindependent.com",
     "category": "worldnews",
-    "link": "https://www.scmp.com/news/world/russia-central-asia/article/3255724/russia-china-relations-will-become-stronger-putin-says-post-election-victory-speech?module=top_story&pgtype=homepage",
-    "timestamp": 1710734439,
-    "recorded": "March 18, 2024 12:00 AM"
+    "link": "https://kyivindependent.com/mediazona-confirms-identities-of-over-47-700-russian-soldiers-killed-in-ukraine/",
+    "timestamp": 1710738477,
+    "recorded": "March 18, 2024 1:07 AM"
 }
 ```
 
