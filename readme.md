@@ -6,16 +6,16 @@
 - File Size: ~**21MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 19, 2024 9:54 PM
+- Updated: Mar 20, 2024 9:54 AM
 
 ```
 {
-    "title": "US abortions reach highest level in over a decade, sparked by surge in medication abortion",
-    "domain": "cnn.com",
+    "title": "Mexico vows to reject any migrants deported by Texas under SB4",
+    "domain": "bbc.com",
     "category": "news",
-    "link": "https://www.cnn.com/2024/03/18/health/abortion-data-guttmacher/index.html",
-    "timestamp": 1710823681,
-    "recorded": "March 19, 2024 12:48 AM"
+    "link": "https://www.bbc.com/news/world-us-canada-68613083",
+    "timestamp": 1710907689,
+    "recorded": "March 20, 2024 12:08 AM"
 }
 ```
 
