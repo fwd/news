@@ -6,16 +6,16 @@
 - File Size: ~**22MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 20, 2024 9:54 PM
+- Updated: Mar 21, 2024 9:54 AM
 
 ```
 {
-    "title": "Mexico vows to reject any migrants deported by Texas under SB4",
-    "domain": "bbc.com",
-    "category": "news",
-    "link": "https://www.bbc.com/news/world-us-canada-68613083",
-    "timestamp": 1710907689,
-    "recorded": "March 20, 2024 12:08 AM"
+    "title": "Sullivan vows US will deliver $60 billion aid package during visit to Kyiv. [article]",
+    "domain": "kyivindependent.com",
+    "category": "ukraine",
+    "link": "https://kyivindependent.com/sullivan-in-kyiv-we-will-get-this-aid-to-ukraine/",
+    "timestamp": 1710993704,
+    "recorded": "March 21, 2024 12:01 AM"
 }
 ```
 
