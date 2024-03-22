@@ -6,16 +6,16 @@
 - File Size: ~**22MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 21, 2024 9:54 PM
+- Updated: Mar 22, 2024 9:54 AM
 
 ```
 {
-    "title": "Sullivan vows US will deliver $60 billion aid package during visit to Kyiv. [article]",
-    "domain": "kyivindependent.com",
-    "category": "ukraine",
-    "link": "https://kyivindependent.com/sullivan-in-kyiv-we-will-get-this-aid-to-ukraine/",
-    "timestamp": 1710993704,
-    "recorded": "March 21, 2024 12:01 AM"
+    "title": "Global warming and heat extremes projected for 2035 will increase global food and headline inflation by 0.92-3.23 and 0.32-1.18 % per-year respectively on average.",
+    "domain": "nature.com",
+    "category": "science",
+    "link": "https://www.nature.com/articles/s43247-023-01173-x",
+    "timestamp": 1711083641,
+    "recorded": "March 22, 2024 1:00 AM"
 }
 ```
 
