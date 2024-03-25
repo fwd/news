@@ -6,16 +6,16 @@
 - File Size: ~**22MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 24, 2024 9:54 PM
+- Updated: Mar 25, 2024 9:54 AM
 
 ```
 {
-    "title": "Search and rescue mission in Delaware County ongoing after child falls into Chester Creek - CBS News",
-    "domain": "cbsnews.com",
-    "category": "news",
-    "link": "https://www.cbsnews.com/philadelphia/news/search-and-rescue-mission-ongoing-delaware-county-child-fell-into-chester-creek/",
-    "timestamp": 1711253771,
-    "recorded": "March 24, 2024 12:16 AM"
+    "title": "Biden trolls Trump for boasting about golf trophies: ‘Quite the accomplishment’",
+    "domain": "thehill.com",
+    "category": "politics",
+    "link": "https://thehill.com/homenews/campaign/4553278-biden-trolls-trump-for-boasting-about-golf-trophies-quite-the-accomplishment/",
+    "timestamp": 1711339359,
+    "recorded": "March 25, 2024 12:02 AM"
 }
 ```
 
