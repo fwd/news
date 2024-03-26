@@ -6,16 +6,16 @@
 - File Size: ~**22MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 25, 2024 9:54 AM
+- Updated: Mar 25, 2024 9:54 PM
 
 ```
 {
-    "title": "Biden trolls Trump for boasting about golf trophies: ‘Quite the accomplishment’",
-    "domain": "thehill.com",
-    "category": "politics",
-    "link": "https://thehill.com/homenews/campaign/4553278-biden-trolls-trump-for-boasting-about-golf-trophies-quite-the-accomplishment/",
-    "timestamp": 1711339359,
-    "recorded": "March 25, 2024 12:02 AM"
+    "title": "Deep phenotyping of post-infectious myalgic encephalomyelitis/chronic fatigue syndrome - Nature Communications",
+    "domain": "nature.com",
+    "category": "science",
+    "link": "https://www.nature.com/articles/s41467-024-45107-3",
+    "timestamp": 1711343585,
+    "recorded": "March 25, 2024 1:13 AM"
 }
 ```
 
