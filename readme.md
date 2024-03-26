@@ -6,16 +6,16 @@
 - File Size: ~**22MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 25, 2024 9:54 PM
+- Updated: Mar 26, 2024 9:54 AM
 
 ```
 {
-    "title": "Deep phenotyping of post-infectious myalgic encephalomyelitis/chronic fatigue syndrome - Nature Communications",
-    "domain": "nature.com",
-    "category": "science",
-    "link": "https://www.nature.com/articles/s41467-024-45107-3",
-    "timestamp": 1711343585,
-    "recorded": "March 25, 2024 1:13 AM"
+    "title": "Everest climbers will have to take their poop away with them, as Nepal tries to address growing waste problem",
+    "domain": "cnn.com",
+    "category": "worldnews",
+    "link": "https://www.cnn.com/2024/03/25/travel/everest-climbers-poop-bags-intl-scli/index.html",
+    "timestamp": 1711427763,
+    "recorded": "March 26, 2024 12:36 AM"
 }
 ```
 
