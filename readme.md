@@ -6,16 +6,16 @@
 - File Size: ~**22MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 26, 2024 9:54 PM
+- Updated: Mar 27, 2024 9:54 AM
 
 ```
 {
-    "title": "Everest climbers will have to take their poop away with them, as Nepal tries to address growing waste problem",
-    "domain": "cnn.com",
+    "title": "Macron and Lula announce €1 billion investment plan for the Amazon",
+    "domain": "france24.com",
     "category": "worldnews",
-    "link": "https://www.cnn.com/2024/03/25/travel/everest-climbers-poop-bags-intl-scli/index.html",
-    "timestamp": 1711427763,
-    "recorded": "March 26, 2024 12:36 AM"
+    "link": "https://www.france24.com/en/americas/20240327-macron-and-lula-announce-%E2%82%AC1-billion-investment-plan-for-the-amazon",
+    "timestamp": 1711513529,
+    "recorded": "March 27, 2024 12:25 AM"
 }
 ```
 
