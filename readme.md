@@ -6,16 +6,16 @@
 - File Size: ~**22MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 27, 2024 9:54 PM
+- Updated: Mar 28, 2024 9:54 AM
 
 ```
 {
-    "title": "France will soon deliver 78 howitzers to Ukraine to meet Kyiv's urgent needs, defense minister says",
-    "domain": "apnews.com",
+    "title": "Powerlifter from Japan maintains culture center in Kyiv during war",
+    "domain": "asahi.com",
     "category": "ukraine",
-    "link": "https://apnews.com/article/france-ukraine-ammunition-howitzers-af44ababeef42de98170660cc1753b77",
-    "timestamp": 1711515342,
-    "recorded": "March 27, 2024 12:55 AM"
+    "link": "https://www.asahi.com/ajw/articles/15190233",
+    "timestamp": 1711599819,
+    "recorded": "March 28, 2024 12:23 AM"
 }
 ```
 
