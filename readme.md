@@ -6,16 +6,16 @@
 - File Size: ~**22MB**
 - Sources: 5k
 - Categories: 13
-- Updated: Mar 27, 2024 9:54 AM
+- Updated: Mar 27, 2024 9:54 PM
 
 ```
 {
-    "title": "Macron and Lula announce €1 billion investment plan for the Amazon",
-    "domain": "france24.com",
-    "category": "worldnews",
-    "link": "https://www.france24.com/en/americas/20240327-macron-and-lula-announce-%E2%82%AC1-billion-investment-plan-for-the-amazon",
-    "timestamp": 1711513529,
-    "recorded": "March 27, 2024 12:25 AM"
+    "title": "France will soon deliver 78 howitzers to Ukraine to meet Kyiv's urgent needs, defense minister says",
+    "domain": "apnews.com",
+    "category": "ukraine",
+    "link": "https://apnews.com/article/france-ukraine-ammunition-howitzers-af44ababeef42de98170660cc1753b77",
+    "timestamp": 1711515342,
+    "recorded": "March 27, 2024 12:55 AM"
 }
 ```
 
